@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="D62n9026">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 9026 大悲觀世音菩薩至道禮文</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $<date>$Date: 2012/04/16 03:21:15 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/04/16 03:21:15 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 62, No. 9026 </bibl>
+		<msDesc>
+			<msIdentifier>
+				<settlement>Taipei</settlement>
+				<repository>National Central Library</repository>
+				<idno>Vol. 62, No. 9026</idno>
+			</msIdentifier>
+			<p>五代人寫卷子本</p>
+		</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2011-08-25T13:26:56">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+<!--
+$Log: D62n9026.xml,v $
+Revision 1.2  2012/04/16 03:21:15  amtbgrace
+ [組字修訂] 2012 03 28
+
+Revision 1.1  2011/08/25 07:20:38  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" xml:id="D62.9026.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="1"/><cb:mulu type="卷" n="1"></cb:mulu><cb:juan fun="open" n="1"><cb:jhead>大悲觀𠀍音菩<g ref="#CB16765"/>至道礼文</cb:jhead></cb:juan>
+<lb ed="D" n="0001a02"/><cb:div type="jing"><lg xml:id="lgD62p0001a0201" type="abnormal"><l rend="text-indent:1em">觀音往昔塵<choice cb:resp="CBETA.maha"><corr>沙</corr><sic><g ref="#CB31191"/></sic></choice>刼</l><l rend="text-indent:1em">成佛号曰正覺尊</l><l rend="text-indent:1em">四<g ref="#CB10485"/>誓<g ref="#CB31188"/>慈悲重</l>
+<lb ed="D" n="0001a03"/><l rend="text-indent:1em">却𠁅莎婆會普門</l><l rend="text-indent:1em"><g ref="#CB31188"/><g ref="#CB31188"/>救眾生</l><l rend="text-indent:1em">莫逢三<g ref="#CB18926"/>及九橫</l><l rend="text-indent:1em">大悲觀𠀍音菩<g ref="#CB16765"/></l></lg>
+<lb ed="D" n="0001a04"/><lg xml:id="lgD62p0001a0401" type="abnormal"><l rend="text-indent:1em">會中有一菩<g ref="#CB16765"/>起</l><l rend="text-indent:1em">法号名曰無盡意</l><l rend="text-indent:1em">殷勤合掌𥼶迦前</l>
+<lb ed="D" n="0001a05"/><l rend="text-indent:1em">為<g ref="#CB22329"/>宣<g ref="#CB22072"/>觀音義</l><l rend="text-indent:1em"><g ref="#CB31188"/>救眾生莫逢<g ref="#CB18926"/></l><l rend="text-indent:1em">及<note place="inline">九</note>橫大悲觀𠀍</l></lg>
+<lb ed="D" n="0001a06"/><lg xml:id="lgD62p0001a0601" type="abnormal"><l rend="text-indent:1em">尒時佛告盡意</l><l rend="text-indent:1em">觀音<g ref="#CB31188"/>裏難籌𥫫</l><l rend="text-indent:1em">若<unclear/>暫<unclear/>皆得徐</l>
+<lb ed="D" n="0001a07"/><l rend="text-indent:1em">必<g ref="#CB31192"/>能令超彼岸</l><l rend="text-indent:1em"><g ref="#CB31188"/>救眾生莫逢三</l><l rend="text-indent:1em"><g ref="#CB18926"/>及橫大悲</l></lg>
+<pb ed="D" xml:id="D62.9026.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/><p xml:id="pD62p0002a0101">鐺鍋弟子<g ref="#CB21717"/>略懺煩𢙉鄣<g ref="#CB31192"/>今當次<choice cb:resp="CBETA.maha"><corr>第</corr><sic>弟</sic></choice>懺悔業
+<lb ed="D" n="0002a02"/>能㽵餝𠀍趣在在<g ref="#CB21871"/><g ref="#CB21871"/>是以思惟求離𠀍觧脫所以
+<lb ed="D" n="0002a03"/>六道果報種種不同形類各異當知皆是業力所作以佛
+<lb ed="D" n="0002a04"/>十力中業力甚<g ref="#CB25451"/><g ref="#CB21868"/>夫之人多於此中皆生疑<g ref="#CB17553"/>何以故現
+<lb ed="D" n="0002a05"/>見𠀍<choice cb:resp="CBETA.maha"><corr>間</corr><sic>問</sic></choice>行善之者如是十方盡<g ref="#CB28933"/>空<g ref="#CB30847"/>一切寶弟子<g ref="#CB21717"/><g ref="#CB21717"/>
+<lb ed="D" n="0002a06"/>无始以来至於今日長養煩𢙉日<g ref="#CB25451"/>日厚日滋日茂覆
+<lb ed="D" n="0002a07"/>盖慧眼令无所見断除眾善不得相續起鄣不得見佛
+<lb ed="D" n="0002a08"/>不聞正法不值聖僧煩𢙉起鄣不見過去未来一切善
+<lb ed="D" n="0002a09"/>𢙣業行是煩𢙉鄣受人天尊貴是煩𢙉鄣生色无
+<lb ed="D" n="0002a10"/>色界禪定福樂是煩𢙉鄣不得自在神通飛騰隱
+<lb ed="D" n="0002a11"/>顯遍至十方諸佛淨土聴法是煩𢙉鄣學安
+<lb ed="D" n="0002a12"/>般<g ref="#CB31189"/><g ref="#CB31189"/><g ref="#CB10830"/>息不淨觀諸煩𢙉鄣學慈慧喜舎
+<lb ed="D" n="0002a13"/>因緣是煩𢙉鄣學七方便三<g ref="#CB05136"/>觀是煩𢙉鄣
+<lb ed="D" n="0002a14"/>學四念<g ref="#CB21871"/>𤏙頂忍是煩𢙉鄣學聞思<g ref="#CB31190"/>苐一法。</p>
+<pb ed="D" xml:id="D62.9026.0003a" n="0003a"/>
+<lb ed="D" n="0003a01"/><p xml:id="pD62p0003a0101">大德僧聴我比丘某甲當宇十五日宇郍於其中間眀鍾失時兼交
+<lb ed="D" n="0003a02"/>不周絀乱大眾唯<g ref="#CB31188"/>慈悲布施歡喜十五日以滿<g ref="#CB31188"/>眾善
+<lb ed="D" n="0003a03"/>聴大徳僧聴眾善比丘某甲當為十五日宇郍於其中間
+<lb ed="D" n="0003a04"/>𢙢兼交不周<g ref="#CB31188"/>僧之是。</p>
+<lb ed="D" n="0003a05"/><p xml:id="pD62p0003a0501">大徳僧聴眾善比丘某甲當為十五日宇郍<note place="inline">三<g ref="#CB22072"/></note>內外監
+<lb ed="D" n="0003a06"/>除上下宇郍。</p>
+<lb ed="D" n="0003a07"/>
+<lb ed="D" n="0003a08"/><cb:div type="w"><p xml:id="pD62p0003a0801">𨐌<choice cb:resp="CBETA.maha"><corr>巳</corr><sic>已</sic></choice>年正月十日於何法律<g ref="#CB08670"/>法律手上領得官分
+<lb ed="D" n="0003a09"/>壹拾伍石玖斗於<g ref="#CB31188"/>僧正<g ref="#CB08670"/>法律冩判官三人
+<lb ed="D" n="0003a10"/>手上領得分壹拾八石七斗於啟通上座手上領
+<lb ed="D" n="0003a11"/>得分六十八石三斗官通計得粟壹百兩石三斗
+<lb ed="D" n="0003a12"/>領得常住粟壹百壹拾伍石<choice cb:resp="CBETA.maha"><corr>肆</corr><sic><unclear/></sic></choice>斗通計粟壹千
+<lb ed="D" n="0003a13"/><g ref="#CB30055"/>拾貳石七斗官粟通六百伍拾七石七斗。</p>
+<lb ed="D" n="0003a14"/>
+<lb ed="D" n="0003a15"/><p xml:id="pD62p0003a1501"><choice cb:resp="CBETA.maha"><corr>辛巳</corr><sic>幸已</sic></choice>年八月七日見過粟陸伯<unclear/>拾六石。</p></cb:div></cb:div>
+</body></text></TEI>

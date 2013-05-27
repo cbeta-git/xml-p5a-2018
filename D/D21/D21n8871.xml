@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="D21n8871">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8871 □者眷屬</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $<date>$Date: 2012/04/23 08:04:57 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/04/23 08:04:57 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 21, No. 8871 </bibl>
+		<msDesc>
+			<msIdentifier>
+				<settlement>Taipei</settlement>
+				<repository>National Central Library</repository>
+				<idno>Vol. 21, No. 8871</idno>
+			</msIdentifier>
+			<p>日本建久六年(1195)寫卷子本</p>
+		</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2011-07-25T12:56:41">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+<!--
+$Log: D21n8871.xml,v $
+Revision 1.2  2012/04/23 08:04:57  amtbgrace
+modified: 20120419 組字修訂
+
+Revision 1.1  2011/07/25 08:11:58  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" xml:id="D21.8871.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="1"/><cb:mulu type="卷" n="1"></cb:mulu><cb:juan fun="open" n="1"><cb:jhead><unclear/>者眷属</cb:jhead></cb:juan>
+<lb ed="D" n="0001a02"/><cb:div type="other"><cb:mulu type="其他" level="1">八大童子</cb:mulu><head>一八大童<choice cb:resp="CBETA.maha"><corr>子</corr><sic><unclear/></sic></choice></head>
+<lb ed="D" n="0001a03"/><cb:div type="other"><cb:mulu type="其他" level="2">名號</cb:mulu><p xml:id="pD21p0001a0301">一字出生八大童子法云<note place="inline">不空譯</note>有八童子一恵光菩<g ref="#CB16765"/><note place="inline">金剛云迴光即以恵
+<lb ed="D" n="0001a04"/>如照迴一切故</note>二恵喜菩<g ref="#CB16765"/><note place="inline">金剛<choice cb:resp="CBETA.maha"><corr>云</corr><sic><unclear/></sic></choice>迴喜即<choice cb:resp="CBETA.maha"><corr>迴恵為</corr><sic><unclear/><unclear/><unclear/></sic></choice>喜</note><choice cb:resp="CBETA.maha"><corr>三</corr><sic>二</sic></choice>阿耨達菩<g ref="#CB16765"/>四指徳
+<pb ed="D" xml:id="D21.8871.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/>五烏俱婆誐六清淨比丘<choice cb:resp="CBETA.maha"><corr>七</corr><sic><unclear/></sic></choice><g ref="#CB07261"/>羯羅八制吒迦<note place="inline">云〃</note>。</p>
+<lb ed="D" n="0002a02"/><p xml:id="pD21p0002a0201">不動使者陁羅<choice cb:resp="CBETA.maha"><corr>尼</corr><sic><unclear/></sic></choice>秘<choice cb:resp="CBETA.maha"><corr>密</corr><sic><unclear/></sic></choice>法云迴光菩<g ref="#CB16765"/>迴喜并阿耨
+<lb ed="D" n="0002a03"/>丈夫志德并憂丘婆丘清淨比丘<note place="inline">云〃</note>。</p></cb:div>
+<lb ed="D" n="0002a04"/><cb:div type="other"><cb:mulu type="其他" level="2">出生八童子</cb:mulu><head>出生八童子</head>
+<lb ed="D" n="0002a05"/><p xml:id="pD21p0002a0501">八大童子法云金剛手<choice cb:resp="CBETA.maha"><corr>言</corr><sic><unclear/></sic></choice>一切眾生意相不同或順或𨒫
+<lb ed="D" n="0002a06"/>是故如來現慈悲身随作利益觧云諸佛大慈愍
+<lb ed="D" n="0002a07"/>眾生故即<g ref="#CB22057"/>順者以<choice cb:resp="CBETA.maha"><corr>順</corr><sic><unclear/></sic></choice>而勸若於𨒫者以𨒫而制也一
+<lb ed="D" n="0002a08"/>佛住忿怒三昧<choice cb:resp="CBETA.maha"><corr>時十方</corr><sic><unclear/><unclear/><unclear/></sic></choice>諸佛同共入忿怒嗔三昧
+<lb ed="D" n="0002a09"/>豈毗盧遮那於无<choice cb:resp="CBETA.maha"><corr>相中</corr><sic><unclear/><unclear/></sic></choice>示現眀王時諸佛菩<g ref="#CB16765"/>
+<lb ed="D" n="0002a10"/>更不現忿怒<choice cb:resp="CBETA.maha"><corr>身</corr><sic><unclear/></sic></choice><g ref="#CB26210"/>是<choice cb:resp="CBETA.maha"><corr>故四</corr><sic><unclear/><unclear/></sic></choice>方如來現教令身降伏
+<lb ed="D" n="0002a11"/>眾魔雖然猶不親随逐<choice cb:resp="CBETA.maha"><corr>所</corr><sic><unclear/></sic></choice>以本誓不同或降三世并
+<lb ed="D" n="0002a12"/>降伏天魔及三世<choice cb:resp="CBETA.maha"><corr>貪瞋癡</corr><sic><unclear/><unclear/><unclear/></sic></choice>或軍荼<choice cb:resp="CBETA.maha"><corr>利菩<g ref="#CB16765"/></corr><sic><unclear/><unclear/></sic></choice>調伏常随
+<lb ed="D" n="0002a13"/>魔謂毗那夜迦及人魔或熖魔持迦降伏龍魔
+<pb ed="D" xml:id="D21.8871.0003a" n="0003a"/>
+<lb ed="D" n="0003a01"/>及諸<g ref="#CB06871"/>歒或金剛藥叉調伏鬼<choice cb:resp="CBETA.maha"><corr>魔</corr><sic><unclear/></sic></choice>及无智者如是種
+<lb ed="D" n="0003a02"/>〃不可具<g ref="#CB22072"/>不動明王<choice cb:resp="CBETA.maha"><corr>恒</corr><sic><unclear/></sic></choice>随行者若夫若毗那夜迦
+<lb ed="D" n="0003a03"/>若龍若鬼所作障礙<choice cb:resp="CBETA.maha"><corr>一時消</corr><sic><unclear/><unclear/></sic></choice>滅然<choice cb:resp="CBETA.maha"><corr>諸佛</corr><sic><unclear/><unclear/></sic></choice><choice cb:resp="CBETA.maha"><corr>菩<g ref="#CB16765"/></corr><sic>𦬇</sic></choice>若同住一
+<lb ed="D" n="0003a04"/>三昧者可有随不動<choice cb:resp="CBETA.maha"><corr>弘誓</corr><sic><unclear/><unclear/></sic></choice>之使者爰有中三蔵不空
+<lb ed="D" n="0003a05"/>能達明道即披見秘蔵要文有不動明一字心密語
+<lb ed="D" n="0003a06"/>即以八<choice cb:resp="CBETA.maha"><corr>字</corr><sic><unclear/></sic></choice>嚴一字<choice cb:resp="CBETA.maha"><corr>其八字者</corr><sic><unclear/><unclear/><unclear/><unclear/></sic></choice>即歸命<choice cb:resp="CBETA.maha"><corr>句也</corr><sic><unclear/><unclear/></sic></choice>以◇字為
+<lb ed="D" n="0003a07"/>本尊若尒寧上八字无其形<g ref="#CB21972"/>所以者何◇◇<g ref="#CB21717"/>
+<lb ed="D" n="0003a08"/>八字一<choice cb:resp="CBETA.maha"><corr>一</corr><sic><unclear/></sic></choice>皆歸命敬<choice cb:resp="CBETA.maha"><corr>◇唅</corr><sic><unclear/><unclear/></sic></choice>之一字故<g ref="#CB30130"/>其八字出生
+<lb ed="D" n="0003a09"/>歸敬使者圍繞於◇之本尊<choice cb:resp="CBETA.maha"><corr>所</corr><sic><unclear/></sic></choice>以有八大童子<note place="inline">云〃</note>。</p></cb:div>
+<lb ed="D" n="0003a10"/><cb:div type="other"><cb:mulu type="其他" level="2"><g ref="#CB29852"/>當四智四波羅蜜</cb:mulu><head><g ref="#CB29852"/>當四智四波羅蜜</head>
+<lb ed="D" n="0003a11"/><p xml:id="pD21p0003a1101">又云有八大童子<choice cb:resp="CBETA.maha"><corr>是</corr><sic><unclear/><unclear/></sic></choice><g ref="#CB21717"/>使者<choice cb:resp="CBETA.maha"><corr>四</corr><sic><unclear/></sic></choice>智四波羅<choice cb:resp="CBETA.maha"><corr>蜜為</corr><sic><unclear/><unclear/></sic></choice>親
+<lb ed="D" n="0003a12"/>随順大日教令故顕現此形圍繞聖无動尊也各
+<pb ed="D" xml:id="D21.8871.0004a" n="0004a"/>
+<lb ed="D" n="0004a01"/>別真言中<choice cb:resp="CBETA.maha"><corr>顯示</corr><sic><unclear/><unclear/></sic></choice>其義<choice cb:resp="CBETA.maha"><corr>解</corr><sic><unclear/></sic></choice>云東方<choice cb:resp="CBETA.maha"><corr>金剛部</corr><sic><unclear/><unclear/><unclear/></sic></choice>即并心門
+<lb ed="D" n="0004a02"/>以日光為喻所以出生<choice cb:resp="CBETA.maha"><corr>使</corr><sic><unclear/></sic></choice>者名恵光南方寶部即
+<lb ed="D" n="0004a03"/>福徳門所以出生<choice cb:resp="CBETA.maha"><corr>使者名惠喜</corr><sic><unclear/><unclear/><unclear/><unclear/><unclear/></sic></choice>以福智二嚴為喜
+<lb ed="D" n="0004a04"/>故而方蓮華部即智恵門所以出生使者名阿
+<lb ed="D" n="0004a05"/>耨達此云無𤍽表蓮花生池水而清淨无垢故北
+<lb ed="D" n="0004a06"/>方年石部即精進門所以出生使者名指徳也今
+<lb ed="D" n="0004a07"/>此部指前三部徳即<choice cb:resp="CBETA.maha"><corr>依精</corr><sic><unclear/><unclear/></sic></choice>進能得果故所以名指徳
+<lb ed="D" n="0004a08"/><note place="inline">已上四智</note>金剛波羅蜜即<choice cb:resp="CBETA.maha"><corr>菩提</corr><sic><g ref="#CB29845"/></sic></choice>心行所以出現使者名烏俱
+<lb ed="D" n="0004a09"/>婆誐此云超越<choice cb:resp="CBETA.maha"><corr>住世也</corr><sic><unclear/><unclear/><unclear/></sic></choice>寶波羅蜜福徳心門所以出
+<lb ed="D" n="0004a10"/>生使者名清淨比丘<choice cb:resp="CBETA.maha"><corr>能守</corr><sic><unclear/><unclear/></sic></choice>護諸<choice cb:resp="CBETA.maha"><corr>法</corr><sic><unclear/></sic></choice>寶<choice cb:resp="CBETA.maha"><corr>故</corr><sic><unclear/></sic></choice>法波羅蜜
+<lb ed="D" n="0004a11"/>慈悲心行所以出現使者名矝羯攞此云随順業波
+<lb ed="D" n="0004a12"/>羅蜜即方便心行所以出生使者名制吒迦此云息
+<pb ed="D" xml:id="D21.8871.0005a" n="0005a"/>
+<lb ed="D" n="0005a01"/>災也<choice cb:resp="CBETA.maha"><corr>菩<g ref="#CB16765"/></corr><sic>𦬇</sic></choice>方便現瞋形<choice cb:resp="CBETA.maha"><corr>故</corr><sic><unclear/></sic></choice>也<note place="inline">云〃</note>。</p></cb:div>
+<lb ed="D" n="0005a02"/><cb:div type="other"><cb:mulu type="其他" level="2">各別印真言</cb:mulu><head>各別印真言</head>
+<lb ed="D" n="0005a03"/><p xml:id="pD21p0005a0301">又云若行者欲得現當𢘤地者行法之中稱彼<choice cb:resp="CBETA.maha"><corr></corr><sic>若</sic></choice>各
+<lb ed="D" n="0005a04"/>名請乞救護及結印誦咒即成一切世間殊勝𢘤地。</p>
+<lb ed="D" n="0005a05"/><p xml:id="pD21p0005a0501">恵光童子<choice cb:resp="CBETA.maha"><corr>菩<g ref="#CB16765"/></corr><sic>𦬇</sic></choice>真言印金剛合掌忍願合如針。</p>
+<lb ed="D" n="0005a06"/><p xml:id="pD21p0005a0601" cb:type="dharani">唵嚩日羅<note place="inline">二合</note><note place="inline">一</note>摩帝入<choice cb:resp="CBETA.maha"><corr>縛<note place="inline">二合</note>攞<note place="inline">二</note></corr><sic><unclear/><unclear/><unclear/><unclear/><unclear/></sic></choice>菩地質多曩<note place="inline">歸命本尊</note></p>
+<lb ed="D" n="0005a07"/><p xml:id="pD21p0005a0701">恵喜并真言曰<note place="inline"><choice cb:resp="CBETA.maha"><corr>金合忍</corr><sic><unclear/><unclear/><unclear/></sic></choice>願如寶形</note>。</p>
+<lb ed="D" n="0005a08"/><p xml:id="pD21p0005a0801" cb:type="dharani">唵羅怛曩<note place="inline">二合</note><note place="inline">一</note>摩帝沙<choice cb:resp="CBETA.maha"><corr>度<note place="inline">二</note></corr><sic><unclear/><unclear/></sic></choice>摩訶摩𡰱<note place="inline">三</note>莫歸命本尊</p>
+<lb ed="D" n="0005a09"/><p xml:id="pD21p0005a0901">阿耨達<choice cb:resp="CBETA.maha"><corr>菩<g ref="#CB16765"/></corr><sic>𦬇</sic></choice>真言曰<note place="inline">金合忍<choice cb:resp="CBETA.maha"><corr>願</corr><sic><unclear/></sic></choice>如蓮𦰧</note>。</p>
+<lb ed="D" n="0005a10"/><p xml:id="pD21p0005a1001" cb:type="dharani">唵鉢納麼<note place="inline">二合</note><note place="inline">一</note><g ref="#CB16765"/>縛哪<choice cb:resp="CBETA.maha"><corr><note place="inline">引</note></corr><sic><unclear/></sic></choice>賀鉢羅<note place="inline">二合</note><g ref="#CB22057"/><g ref="#CB02755"/>曩<note place="inline">二</note>摩訶達
+<lb ed="D" n="0005a11"/>麼<note place="inline">三</note>参歸命本<choice cb:resp="CBETA.maha"><corr>尊</corr><sic><unclear/></sic></choice></p>
+<pb ed="D" xml:id="D21.8871.0006a" n="0006a"/>
+<lb ed="D" n="0006a01"/><p xml:id="pD21p0006a0101">指徳童子<g ref="#CB21717"/>真言曰<note place="inline">金合忍願入掌面相合<unclear/></note>。</p>
+<lb ed="D" n="0006a02"/><p xml:id="pD21p0006a0201" cb:type="dharani">唵羯羅麼<note place="inline">二合</note>摩訶吠<choice cb:resp="CBETA.maha"><corr>哩耶</corr><sic><unclear/><unclear/></sic></choice><note place="inline">大无畏也</note>鉢里布羅迦<note place="inline"><unclear/>願滿</note>歸
+<lb ed="D" n="0006a03"/>命本尊</p>
+<lb ed="D" n="0006a04"/><p xml:id="pD21p0006a0401">烏俱婆誐童子真言曰<note place="inline">金剛合掌</note>。</p>
+<lb ed="D" n="0006a05"/><p xml:id="pD21p0006a0501" cb:type="dharani">唵嚩日羅<note place="inline">二合</note><note place="inline">一</note><g ref="#CB16765"/>埵婆<note place="inline">二合</note><choice cb:resp="CBETA.maha"><corr>烏俱婆</corr><sic><unclear/><unclear/><unclear/></sic></choice>誐摩訶燥企耶<note place="inline">二合</note><note place="inline">四</note>
+<lb ed="D" n="0006a06"/>歸命本尊</p>
+<lb ed="D" n="0006a07"/><p xml:id="pD21p0006a0701">清淨比丘使者真言曰<note place="inline">梵夾印</note>。</p>
+<lb ed="D" n="0006a08"/><p xml:id="pD21p0006a0801" cb:type="dharani">唵摩𡰱尾輸駄達麼<choice cb:resp="CBETA.maha"><corr>俱嚕</corr><sic><unclear/><unclear/></sic></choice><note place="inline">二</note>羅<choice cb:resp="CBETA.maha"><corr>乞叉</corr><sic><unclear/><unclear/></sic></choice>達麼<note place="inline">三</note>縛歸
+<lb ed="D" n="0006a09"/>命本尊</p>
+<lb ed="D" n="0006a10"/><p xml:id="pD21p0006a1001"><g ref="#CB07261"/>羯羅童子真言曰<note place="inline"><choice cb:resp="CBETA.maha"><corr>蓮華</corr><sic><unclear/><unclear/></sic></choice>合掌</note>。</p>
+<lb ed="D" n="0006a11"/><p xml:id="pD21p0006a1101" cb:type="dharani">唵達嚕麼<note place="inline">一</note>矝羯羅<note place="inline">二</note>底瑟吒<note place="inline">三</note>縛日羅<note place="inline">二合</note>歸命本尊</p>
+<lb ed="D" n="0006a12"/><p xml:id="pD21p0006a1201">制吒迦童子真言曰<note place="inline"><choice cb:resp="CBETA.maha"><corr>外縛</corr><sic><unclear/><unclear/></sic></choice>五鈷印</note>。</p>
+<pb ed="D" xml:id="D21.8871.0007a" n="0007a"/>
+<lb ed="D" n="0007a01"/><p xml:id="pD21p0007a0101" cb:type="dharani">唵羯嚕麼<note place="inline">一</note>制吒迦<note place="inline">二</note>吽<note place="inline">三</note>發吒<note place="inline">四</note>南歸命本尊</p></cb:div>
+<lb ed="D" n="0007a02"/><cb:div type="other"><cb:mulu type="其他" level="2">形像</cb:mulu><head>形像</head>
+<lb ed="D" n="0007a03"/><p xml:id="pD21p0007a0301">又<unclear/><g ref="#CB22072"/>像法。</p><p xml:id="pD21p0007a0306" rend="inline">行者點<choice cb:resp="CBETA.maha"><corr>取一</corr><sic><unclear/><unclear/></sic></choice>清靜𩂜勿令見人及与非人
+<lb ed="D" n="0007a04"/>即行者与工人<g ref="#CB21717"/>共清淨<choice cb:resp="CBETA.maha"><corr>著</corr><sic><unclear/></sic></choice>新淨衣取白㲲或淨板
+<lb ed="D" n="0007a05"/>或淨衣令𥁞本<choice cb:resp="CBETA.maha"><corr>尊</corr><sic><unclear/></sic></choice>与八童子。</p>
+<lb ed="D" n="0007a06"/><p xml:id="pD21p0007a0601">恵光之形少忿怒著天冠身白黃色右手持五智
+<lb ed="D" n="0007a07"/>杵左手蓮上置日輪袈裟瓔珞種〃㽵嚴。</p>
+<lb ed="D" n="0007a08"/><p xml:id="pD21p0007a0801">次恵喜<unclear/>形似慈面<choice cb:resp="CBETA.maha"><corr>現微笑</corr><sic><unclear/><unclear/><unclear/></sic></choice>相色如紅蓮左手持摩尼
+<lb ed="D" n="0007a09"/>右手持三釵鈎。</p>
+<lb ed="D" n="0007a10"/><p xml:id="pD21p0007a1001">阿耨達<choice cb:resp="CBETA.maha"><corr>菩<g ref="#CB16765"/></corr><sic>𦬇</sic></choice>形如梵王色如真金頂戴金翅鳥左手執
+<lb ed="D" n="0007a11"/>蓮花右手持獨鈷杵而𡸁龍王。</p>
+<lb ed="D" n="0007a12"/><p xml:id="pD21p0007a1201">指德<choice cb:resp="CBETA.maha"><corr>菩薩</corr><sic>𦬇</sic></choice>形如夜叉<choice cb:resp="CBETA.maha"><corr>色如</corr><sic><unclear/><unclear/></sic></choice>虛空而有三目著鏎鏪左手<choice cb:resp="CBETA.maha"><corr>持</corr><sic><unclear/></sic></choice>
+<pb ed="D" xml:id="D21.8871.0008a" n="0008a"/>
+<lb ed="D" n="0008a01"/>錀右手三釵鉾。</p>
+<lb ed="D" n="0008a02"/><p xml:id="pD21p0008a0201">烏俱婆誐戴五鈷冠現暴𢙣相身如金色左手執嚩
+<lb ed="D" n="0008a03"/>日羅右手作拳印。</p>
+<lb ed="D" n="0008a04"/><p xml:id="pD21p0008a0401">清淨比丘剃除首髻而<choice cb:resp="CBETA.maha"><corr>著</corr><sic><unclear/></sic></choice>法袈裟於右肩<choice cb:resp="CBETA.maha"><corr>結</corr><sic><unclear/></sic></choice>𡸁左手
+<lb ed="D" n="0008a05"/>執梵天右手當心持五鈷杵左肩現露於腰緾赤<choice cb:resp="CBETA.maha"><corr>裳</corr><sic>堂</sic></choice>
+<lb ed="D" n="0008a06"/>其面貌非若非<g ref="#CB22570"/><choice cb:resp="CBETA.maha"><corr>目如青</corr><sic><unclear/><unclear/><unclear/></sic></choice>蓮其口上牙於下顯出。</p>
+<lb ed="D" n="0008a07"/><p xml:id="pD21p0008a0701">次<g ref="#CB07261"/>羯羅形如十五嵗童着蓮花冠身<choice cb:resp="CBETA.maha"><corr>白肉</corr><sic><unclear/><unclear/></sic></choice>色二手合
+<lb ed="D" n="0008a08"/>掌其二大指与頭<choice cb:resp="CBETA.maha"><corr>指</corr><sic><unclear/></sic></choice>閒橫一鈷杵天衣袈裟微妙嚴
+<lb ed="D" n="0008a09"/>飾。</p>
+<lb ed="D" n="0008a10"/><p xml:id="pD21p0008a1001">次制吒迦𡖋如童子色如<choice cb:resp="CBETA.maha"><corr>紅</corr><sic><unclear/></sic></choice>蓮頭結五髻一結頂上之<choice cb:resp="CBETA.maha"><corr>中</corr><sic><unclear/></sic></choice>
+<lb ed="D" n="0008a11"/>一結額上三結頭左右<choice cb:resp="CBETA.maha"><corr>一結頂後</corr><sic><unclear/><unclear/><unclear/><unclear/></sic></choice>表五方五智左手嚩日羅右
+<lb ed="D" n="0008a12"/>手執金剛棒順𢙣性之者故不着袈裟然以天衣緾其
+<pb ed="D" xml:id="D21.8871.0009a" n="0009a"/>
+<lb ed="D" n="0009a01"/>頸肩畫像法<g ref="#CB22072"/><choice cb:resp="CBETA.maha"><corr>已</corr><sic><unclear/></sic></choice>竟。</p></cb:div></cb:div>
+<lb ed="D" n="0009a02"/><cb:div type="other"><cb:mulu type="其他" level="1">四使者</cb:mulu><head>二四使者</head>
+<lb ed="D" n="0009a03"/><cb:div type="other"><cb:mulu type="其他" level="2">一俱力迦羅</cb:mulu><head>一俱力迦羅</head>
+<lb ed="D" n="0009a04"/><cb:div type="other"><cb:mulu type="其他" level="3">名号</cb:mulu><head>名号</head>
+<lb ed="D" n="0009a05"/><p xml:id="pD21p0009a0501">聖无動尊决秘要<g ref="#CB05136"/>云<note place="inline">目行述</note>矩<choice cb:resp="CBETA.maha"><corr>里</corr><sic><unclear/></sic></choice>迦<note place="inline">唐云作尊勑（云〃）</note>。</p></cb:div>
+<lb ed="D" n="0009a06"/><cb:div type="other"><cb:mulu type="其他" level="3">本身</cb:mulu><head>本身</head>
+<lb ed="D" n="0009a07"/><p xml:id="pD21p0009a0701">佛頂尊勝三種𢘤地法上云大日如來身<unclear/>成憾字<unclear/>
+<lb ed="D" n="0009a08"/>反成釰〃反成不動明王身明王反成瞿梨伽羅大
+<lb ed="D" n="0009a09"/>龍現忿怒相緾利釰。</p></cb:div>
+<lb ed="D" n="0009a10"/><cb:div type="other"><cb:mulu type="其他" level="3">種子</cb:mulu><head>種子</head><p xml:id="pD21p0009a1003" rend="inline">◇阿字。</p>
+<lb ed="D" n="0009a11"/><p xml:id="pD21p0009a1101">俱力迦羅軓云口大日成不動及不動成釰〃上想◇
+<lb ed="D" n="0009a12"/>字及成龍王<note place="inline">云〃</note>。</p>
+<pb ed="D" xml:id="D21.8871.0010a" n="0010a"/>
+<lb ed="D" n="0010a01"/><p xml:id="pD21p0010a0101">决秘要義云<g ref="#CB22072"/><g ref="#CB03570"/>里迦<note place="inline">唐云作尊勑</note>龍王口法口阿字反成
+<lb ed="D" n="0010a02"/>此龍使者此字是<unclear/>種子<g ref="#CB21868"/>持誦者皆有此心希
+<lb ed="D" n="0010a03"/>求无上<choice cb:resp="CBETA.maha"><corr>菩提</corr><sic><g ref="#CB29845"/></sic></choice>故釰上觀此字<g ref="#CB30130"/>此生一切法也即<choice cb:resp="CBETA.maha"><corr>菩提</corr><sic><g ref="#CB29845"/></sic></choice><choice cb:resp="CBETA.maha"><corr>心也</corr><sic><unclear/><unclear/></sic></choice>
+<lb ed="D" n="0010a04"/>行點者成就福智故大空者是成<choice cb:resp="CBETA.maha"><corr>菩提</corr><sic><g ref="#CB29845"/></sic></choice>也涅槃點者
+<lb ed="D" n="0010a05"/>是除遣義諸垢入涅槃也是字猶如大龍王有大威
+<lb ed="D" n="0010a06"/>德興雲<g ref="#CB30191"/>雨一切自在<choice cb:resp="CBETA.maha"><corr>故</corr><sic><unclear/></sic></choice>阿字<choice cb:resp="CBETA.maha"><corr>亦</corr><sic><unclear/></sic></choice>復如是如來作事
+<lb ed="D" n="0010a07"/>皆<g ref="#CB30130"/>此字出生。</p></cb:div>
+<lb ed="D" n="0010a08"/><cb:div type="other"><cb:mulu type="其他" level="3">三形</cb:mulu><head>三形</head><p xml:id="pD21p0010a0803" rend="inline">釰<note place="inline"><unclear/>口</note>。</p></cb:div>
+<lb ed="D" n="0010a09"/><cb:div type="other"><cb:mulu type="其他" level="3">形像</cb:mulu><head>形像</head>
+<lb ed="D" n="0010a10"/><cb:div type="other"><cb:mulu type="其他" level="4">虵形</cb:mulu><head>虵形</head>
+<lb ed="D" n="0010a11"/><p xml:id="pD21p0010a1101">底<choice cb:resp="CBETA.maha"><corr>哩</corr><sic><unclear/></sic></choice>經下云又於壁上<choice cb:resp="CBETA.maha"><corr>畫</corr><sic><unclear/></sic></choice>釰契又畫句律迦大虵緾
+<lb ed="D" n="0010a12"/>釰上其釰周圍有<choice cb:resp="CBETA.maha"><corr>火</corr><sic>大</sic></choice><g ref="#CB27402"/><note place="inline">云〃</note>。</p>
+<pb ed="D" xml:id="D21.8871.0011a" n="0011a"/>
+<lb ed="D" n="0011a01"/><p xml:id="pD21p0011a0101">立<unclear/>軓云又法壁𦘕釰以俱哩迦龍緾文於釰上迦持
+<lb ed="D" n="0011a02"/>一千反<note place="inline">云〃</note>。</p>
+<lb ed="D" n="0011a03"/><p xml:id="pD21p0011a0301">使者軓云若欲使古力迦龍王者於壁上𦘕一切釰以古
+<lb ed="D" n="0011a04"/>繞力龍王纔此釰上龍王<unclear/>如虵<note place="inline">云〃</note>。</p>
+<lb ed="D" n="0011a05"/><p xml:id="pD21p0011a0501">聖无動尊决秘要義云<note place="inline">四行述</note>次<g ref="#CB22072"/><g ref="#CB03570"/>里迦<note place="inline">唐云作尊勑</note>龍王像
+<lb ed="D" n="0011a06"/>法其形如虵作雷電之勢身金色繫如意寶三昧
+<lb ed="D" n="0011a07"/><g ref="#CB27402"/>起四<g ref="#CB30133"/>蹴踰之形背<unclear/>竪七金<g ref="#CB22499"/>利針額生一攴
+<lb ed="D" n="0011a08"/>三角緾繞釰上書婀字兼用觀心一〃分明<note place="inline">云可𦒱<unclear/><unclear/><g ref="#CB22072"/></note>。</p></cb:div>
+<lb ed="D" n="0011a09"/><cb:div type="other"><cb:mulu type="其他" level="4">人形</cb:mulu><head>人形</head>
+<lb ed="D" n="0011a10"/><p xml:id="pD21p0011a1001">使者軓云口心念不動使誦一百八遍一日三時滿六箇月
+<lb ed="D" n="0011a11"/>多誦益好善月滿已復右力迦龍王自頂其身視作
+<lb ed="D" n="0011a12"/>人形狀恒常相随遂行人任所駈使<note place="inline">云〃</note>。</p>
+<lb ed="D" n="0011a13"/><p xml:id="pD21p0011a1301">决秘要義云若作人相者面目喜怒遍身甲<g ref="#CB08670"/>猶如毗
+<pb ed="D" xml:id="D21.8871.0012a" n="0012a"/>
+<lb ed="D" n="0012a01"/>嚕愽叉王左手託腰<unclear/>索右<g ref="#CB21950"/>屈肘向上執釰頂上置
+<lb ed="D" n="0012a02"/>龍王蟠立金<g ref="#CB22499"/>山又別本云迦里迦龍王如天神<g ref="#CB07799"/>怡之
+<lb ed="D" n="0012a03"/><unclear/>頭上𦘕出七頭龍胡跪仰視如來令捧寶蓮花<note place="inline">云〃</note>
+<lb ed="D" n="0012a04"/>　<note place="inline">可𦒱本<g ref="#CB22072"/></note>。</p></cb:div></cb:div>
+<lb ed="D" n="0012a05"/><cb:div type="other"><cb:mulu type="其他" level="3">印</cb:mulu><head>印</head>
+<lb ed="D" n="0012a06"/><p xml:id="pD21p0012a0601">俱利迦羅軓云俱利迦羅龍王現身下真言二手作忿
+<lb ed="D" n="0012a07"/>怒拳舉二肩真言曰。</p>
+<lb ed="D" n="0012a08"/><p xml:id="pD21p0012a0801" cb:type="dharani">◇◇◇◇</p>
+<lb ed="D" n="0012a09"/><p xml:id="pD21p0012a0901">以俱力迦龍王不動明王真言印二手金<g ref="#CB22499"/>合掌二火二
+<lb ed="D" n="0012a10"/>空開散二小指入掌<choice cb:resp="CBETA.maha"><corr>中</corr><sic><unclear/></sic></choice>真言曰。</p>
+<lb ed="D" n="0012a11"/><p xml:id="pD21p0012a1101" cb:type="dharani">◇◇◇</p>
+<lb ed="D" n="0012a12"/><p xml:id="pD21p0012a1201">心中心印。</p><p xml:id="pD21p0012a1205" rend="inline">內縛二水二火開散。</p>
+<pb ed="D" xml:id="D21.8871.0013a" n="0013a"/>
+<lb ed="D" n="0013a01"/><p xml:id="pD21p0013a0101" cb:type="dharani">◇◇◇◇◇◇</p>
+<lb ed="D" n="0013a02"/><p xml:id="pD21p0013a0201">心真言。</p><p xml:id="pD21p0013a0204" cb:type="dharani" rend="inline">◇◇◇</p>
+<lb ed="D" n="0013a03"/><p xml:id="pD21p0013a0301">不動如來大日如來龍王現身根本真言。</p>
+<lb ed="D" n="0013a04"/><p xml:id="pD21p0013a0401" cb:type="dharani">◇◇◇◇◇◇◇</p>
+<lb ed="D" n="0013a05"/><p xml:id="pD21p0013a0501">誦妙真言必現身徃生十方淨土若拜尊容至阿耨
+<lb ed="D" n="0013a06"/><choice cb:resp="CBETA.maha"><corr>菩提</corr><sic><g ref="#CB29845"/></sic></choice>終不随三𢙣道。</p>
+<lb ed="D" n="0013a07"/><p xml:id="pD21p0013a0701">左右无名少指掌<choice cb:resp="CBETA.maha"><corr>內相</corr><sic><unclear/><unclear/></sic></choice>叉二中指直立相跓以二食相
+<lb ed="D" n="0013a08"/>跓中指背上莭以二大指小曲各柱二食指內中莭來去。</p>
+<lb ed="D" n="0013a09"/><p xml:id="pD21p0013a0901" cb:type="dharani">曩莫三滿歺勃駄南俱留迦耶迦羅惹銘伽扇<g ref="#CB08859"/>曳
+<lb ed="D" n="0013a10"/>娑婆訶</p>
+<lb ed="D" n="0013a11"/><p xml:id="pD21p0013a1101">次俱力迦羅龍王密術真言印。</p>
+<lb ed="D" n="0013a12"/><p xml:id="pD21p0013a1201">內縛二申𢫾二大指用散<note place="inline">此密印也</note>。</p>
+<pb ed="D" xml:id="D21.8871.0014a" n="0014a"/>
+<lb ed="D" n="0014a01"/><p xml:id="pD21p0014a0101" cb:type="dharani">那莫三<g ref="#CB15834"/>多◇◇</p>
+<lb ed="D" n="0014a02"/><p xml:id="pD21p0014a0201">次俱力迦羅及身印真言<note place="inline">大日如來也</note>。</p>
+<lb ed="D" n="0014a03"/><p xml:id="pD21p0014a0301">二手合掌二風二空端相着二<choice cb:resp="CBETA.maha"><corr>水</corr><sic>火</sic></choice>開立言曰。</p>
+<lb ed="D" n="0014a04"/><p xml:id="pD21p0014a0401" cb:type="dharani">◇◇◇◇◇◇◇</p>
+<lb ed="D" n="0014a05"/><p xml:id="pD21p0014a0501">次金剛躰身真言<unclear/>。</p>
+<lb ed="D" n="0014a06"/><p xml:id="pD21p0014a0601" cb:type="dharani">唵唅吽嚩日羅麼曳嚩日羅◇</p>
+<lb ed="D" n="0014a07"/><p xml:id="pD21p0014a0701">次海三昧印真言。</p>
+<lb ed="D" n="0014a08"/><p xml:id="pD21p0014a0801" cb:type="dharani">唵嚩日羅赦◇◇◇◇◇</p>
+<lb ed="D" n="0014a09"/><p xml:id="pD21p0014a0901">次常住火光三昧<choice cb:resp="CBETA.maha"><corr>印</corr><sic><unclear/></sic></choice>真言。</p>
+<lb ed="D" n="0014a10"/><p xml:id="pD21p0014a1001" cb:type="dharani">唵<g ref="#CB29847"/>折羅赦悍◇◇◇◇</p>
+<lb ed="D" n="0014a11"/><p xml:id="pD21p0014a1101">若行者恒𡐊此俱力迦羅龍王念自然成護广
+<lb ed="D" n="0014a12"/>火光三昧四<g ref="#CB21950"/>明王皆此龍王用力掌有行人身上
+<lb ed="D" n="0014a13"/>阿字有其中釰遍含五𩂜◇字遍躰成无動
+<lb ed="D" n="0014a14"/>尊金剛身如是觀已誦一字真言。</p>
+<pb ed="D" xml:id="D21.8871.0015a" n="0015a"/>
+<lb ed="D" n="0015a01"/><p xml:id="pD21p0015a0101" cb:type="dharani">那莫三<g ref="#CB15834"/>多嚩日羅赦憾<note place="inline">云〃</note></p>
+<lb ed="D" n="0015a02"/><p xml:id="pD21p0015a0201">决秘要義云次龍王法身印真言左右无名小指
+<lb ed="D" n="0015a03"/>掌內相叉二中指直竪相跓以二食指跓中指背
+<lb ed="D" n="0015a04"/>上莭以二大指少曲各住二食指內中莭頭指來去
+<lb ed="D" n="0015a05"/>在肘<g ref="#CB29850"/>如後真言曰。</p>
+<lb ed="D" n="0015a06"/><p xml:id="pD21p0015a0601" cb:type="dharani">曩莫三澷多勃駄喃唵<note place="inline">一</note>布祇〃〃<note place="inline">二</note>步䤈布伽
+<lb ed="D" n="0015a07"/>跛夜<note place="inline">三</note>吽莎訶<note place="inline">上音</note><note place="inline">四</note></p>
+<lb ed="D" n="0015a08"/><p xml:id="pD21p0015a0801">一切龍王法身印。</p><p xml:id="pD21p0015a0808" rend="inline">以<choice cb:resp="CBETA.maha"><corr>右羽</corr><sic><unclear/><unclear/></sic></choice>頭在左羽內以右後四指
+<lb ed="D" n="0015a09"/>小指母<g ref="#CB13415"/>頭少曲之左手返曲句右手上𡖋如是兩
+<lb ed="D" n="0015a10"/>手相向如虵口以二手四指開合來去真言前。</p>
+<lb ed="D" n="0015a11"/><p xml:id="pD21p0015a1101">次花座印。</p><p xml:id="pD21p0015a1105" rend="inline">二手指似曲不曲皆向上竪二小指相
+<lb ed="D" n="0015a12"/>去二寸二无名二中各相去二寸二頭指去四寸並竪大
+<pb ed="D" xml:id="D21.8871.0016a" n="0016a"/>
+<lb ed="D" n="0016a01"/>指二指相着。</p>
+<lb ed="D" n="0016a02"/><p xml:id="pD21p0016a0201">次牙印。</p><p xml:id="pD21p0016a0204" rend="inline">屈右肘向上屈无名小指在掌中指直竪
+<lb ed="D" n="0016a03"/>屈頭指側着中指中<choice cb:resp="CBETA.maha"><corr>莭</corr><sic><unclear/></sic></choice>以大指捻頭指側若作壇
+<lb ed="D" n="0016a04"/>供養時<choice cb:resp="CBETA.maha"><corr>莭</corr><sic>即</sic></choice>作<choice cb:resp="CBETA.maha"><corr>此</corr><sic><unclear/></sic></choice>印誦真言言言用前喚入壇中即
+<lb ed="D" n="0016a05"/>淂一切皆𢘤歡喜若欲祈雨當具作壇供養即得
+<lb ed="D" n="0016a06"/>降雨三七五七也九八十一<g ref="#CB21717"/>法具在別支文。</p>
+<lb ed="D" n="0016a07"/><p xml:id="pD21p0016a0701">次根本真言。</p>
+<lb ed="D" n="0016a08"/><p xml:id="pD21p0016a0801" cb:type="dharani">曩莫三滿多勃駄南俱哩迦哦曩那迦羅若銘伽
+<lb ed="D" n="0016a09"/>扇<g ref="#CB08859"/>曳莎嚩<note place="inline">二合</note>訶<note place="inline">生用前之印</note></p></cb:div>
+<lb ed="D" n="0016a10"/><cb:div type="other"><cb:mulu type="其他" level="3">悲願</cb:mulu><head>悲願</head>
+<lb ed="D" n="0016a11"/><cb:div type="other"><cb:mulu type="其他" level="4">消除病患</cb:mulu><head>消除病患</head>
+<lb ed="D" n="0016a12"/><p xml:id="pD21p0016a1201">又云有病患者當結龍王身印加持即執釰釰上運心
+<pb ed="D" xml:id="D21.8871.0017a" n="0017a"/>
+<lb ed="D" n="0017a01"/>觀想婀字及成金龍忿怒光曜之㒵令視病人即得
+<lb ed="D" n="0017a02"/>除差。</p></cb:div>
+<lb ed="D" n="0017a03"/><cb:div type="other"><cb:mulu type="其他" level="4">消除<g ref="#CB29806"/>病</cb:mulu><head>消除<g ref="#CB29806"/>病</head>
+<lb ed="D" n="0017a04"/><p xml:id="pD21p0017a0401">又云若有<g ref="#CB10878"/>栗訶魅鬼之着誐栗行疫病<g ref="#CB29806"/>之持
+<lb ed="D" n="0017a05"/>位在南西方及虎病種種苦𢙉事當作一時肘水壇四
+<lb ed="D" n="0017a06"/>角置賢瓶口插生花<g ref="#CB21717"/>若无生花用綵花𡖋淂四方
+<lb ed="D" n="0017a07"/>置四噐盛滿香水諸供具物布列㽵嚴即勸請龍王
+<lb ed="D" n="0017a08"/>安住壇上壇中方置釰啟白事由礼拜供養誦真言
+<lb ed="D" n="0017a09"/>加持一百八<choice cb:resp="CBETA.maha"><corr>遍</corr><sic><unclear/></sic></choice>執刀加被病人即淂消滅即發遣誦破壇
+<lb ed="D" n="0017a10"/>明次觀風輪破壇了不護令久住是法秘中秘也莫
+<lb ed="D" n="0017a11"/>專輙<g ref="#CB30256"/>俱里迦龍者諸龍之中王具出文殊師利法
+<lb ed="D" n="0017a12"/><g ref="#CB21717"/><note place="inline">云〃</note>。</p></cb:div></cb:div>
+<pb ed="D" xml:id="D21.8871.0018a" n="0018a"/>
+<lb ed="D" n="0018a01"/><cb:div type="other"><cb:mulu type="其他" level="3">駈使行者</cb:mulu><head>駈使行者</head>
+<lb ed="D" n="0018a02"/><p xml:id="pD21p0018a0201">不動使者陁羅𡰱秘法云若欲使古力迦龍王者於壁
+<lb ed="D" n="0018a03"/>上𦘕一釰以古力迦龍王<choice cb:resp="CBETA.maha"><corr>繞</corr><sic><unclear/></sic></choice>此釰上龍王居形如虵釰中
+<lb ed="D" n="0018a04"/>書阿字心中𡖋自觀此釰及字了了分明<choice cb:resp="CBETA.maha"><corr>心</corr><sic><unclear/></sic></choice>念不動使者
+<lb ed="D" n="0018a05"/>誦一百八返一月三時滿六箇月多誦益好若月滿<choice cb:resp="CBETA.maha"><corr>已</corr><sic>巳</sic></choice>後
+<lb ed="D" n="0018a06"/>古力迦龍王自現其身現作人形狀恒常相随逐任駈
+<lb ed="D" n="0018a07"/>使<note place="inline">云〃</note>。</p></cb:div></cb:div>
+<lb ed="D" n="0018a08"/><cb:div type="other"><cb:mulu type="其他" level="2">二制吒迦使者</cb:mulu><head>二制吒迦使者</head>
+<lb ed="D" n="0018a09"/><cb:div type="other"><cb:mulu type="其他" level="3">名号</cb:mulu><head>名号</head>
+<lb ed="D" n="0018a10"/><p xml:id="pD21p0018a1001">二童子法〃聖无動尊制吒迦法<note place="inline">又名扇底迦唐云息災是尊者不動王之福徳㽵嚴也故
+<lb ed="D" n="0018a11"/>名福徳聚勝者</note>。</p></cb:div>
+<lb ed="D" n="0018a12"/><cb:div type="other"><cb:mulu type="其他" level="3">壇埸㽵嚴</cb:mulu><head>壇埸㽵嚴</head>
+<pb ed="D" xml:id="D21.8871.0019a" n="0019a"/>
+<lb ed="D" n="0019a01"/><p xml:id="pD21p0019a0101">又云於蜜室中於一淨床舖新廗及耨屏風淨按
+<lb ed="D" n="0019a02"/>〃上新有中着香鑪乳粥銅匙果子二盤焚<choice cb:resp="CBETA.maha"><corr>羨</corr><sic>羡</sic></choice>香
+<lb ed="D" n="0019a03"/>以時花菓每食時常奉一分食持妄瞋<note place="inline">云〃</note>。</p></cb:div>
+<lb ed="D" n="0019a04"/><cb:div type="other"><cb:mulu type="其他" level="3">種子</cb:mulu><head>種子</head><p xml:id="pD21p0019a0403" rend="inline">◇<note place="inline">口<g ref="#CB30256"/></note>。</p></cb:div>
+<lb ed="D" n="0019a05"/><cb:div type="other"><cb:mulu type="其他" level="3">三<unclear/></cb:mulu><head>三<unclear/></head></cb:div>
+<lb ed="D" n="0019a06"/><cb:div type="other"><cb:mulu type="其他" level="3">形像</cb:mulu><head>形像</head>
+<lb ed="D" n="0019a07"/><p xml:id="pD21p0019a0701">又云畫像法。</p><p xml:id="pD21p0019a0706" rend="inline">其像乗白馬〃作驟勢項下懸鈴子
+<lb ed="D" n="0019a08"/>童子頂有五髻身着緋衣形如十五歲兒也現喜怒
+<lb ed="D" n="0019a09"/>相執裘枝杖。</p></cb:div>
+<lb ed="D" n="0019a10"/><cb:div type="other"><cb:mulu type="其他" level="3"><unclear/>言</cb:mulu><head><unclear/>言</head>
+<lb ed="D" n="0019a11"/><p xml:id="pD21p0019a1101">又云<choice cb:resp="CBETA.maha"><corr>密</corr><sic>蜜</sic></choice>印法。</p><p xml:id="pD21p0019a1106" rend="inline">二水外相刃地火並令竪二空𡖋如地風
+<lb ed="D" n="0019a12"/>開五𦙶形是大秘<choice cb:resp="CBETA.maha"><corr>密</corr><sic>蜜</sic></choice>成標𤎼一切事是名制吒迦內
+<pb ed="D" xml:id="D21.8871.0020a" n="0020a"/>
+<lb ed="D" n="0020a01"/>滿𢘤地法。</p></cb:div><cb:div type="other"><cb:mulu type="其他" level="3">真言印</cb:mulu><head>真言印</head>
+<lb ed="D" n="0020a02"/><p xml:id="pD21p0020a0201" cb:type="dharani">曩莫三<g ref="#CB15834"/>跢<note place="inline">句一</note>勃駄南<note place="inline">句二</note>唵<note place="inline">句三</note>迦蘭迦羅<note place="inline">句四</note>阿𢍆
+<lb ed="D" n="0020a03"/>尾嚕上<note place="inline">句五</note>制吒迦<note place="inline">句六</note>枳惹<note place="inline">句七</note>娑縛<note place="inline">二合</note>訶</p>
+<lb ed="D" n="0020a04"/><p xml:id="pD21p0020a0401">從白月八日始至十五日滿誦三十万遍若自余時
+<lb ed="D" n="0020a05"/>〃別一百八返為限所求皆遂若未現者即於後月唯
+<lb ed="D" n="0020a06"/>前念誦如是下根人不遇三度即現<note place="inline">云〃</note>。</p>
+<lb ed="D" n="0020a07"/><p xml:id="pD21p0020a0701">准前念誦如是下根人不過三度即現<note place="inline">云〃</note>。</p>
+<lb ed="D" n="0020a08"/><p xml:id="pD21p0020a0801">俱力迦羅䡄<note place="inline">金剛三藏</note>次誓陁迦印真言二手內縛二地二
+<lb ed="D" n="0020a09"/>風開散小曲相成。</p>
+<lb ed="D" n="0020a10"/><p xml:id="pD21p0020a1001" cb:type="dharani">唵嚩日羅赦吽拪陁迦野娑嚩賀<note place="inline">云〃</note></p></cb:div></cb:div>
+<lb ed="D" n="0020a11"/><cb:div type="other"><cb:mulu type="其他" level="2">三矝羯羅使者</cb:mulu><head><choice cb:resp="CBETA.maha"><corr>三</corr><sic><unclear/></sic></choice>矝羯羅使者</head>
+<lb ed="D" n="0020a12"/><cb:div type="other"><cb:mulu type="其他" level="3">名号</cb:mulu><head>名号</head>
+<pb ed="D" xml:id="D21.8871.0021a" n="0021a"/>
+<lb ed="D" n="0021a01"/><p xml:id="pD21p0021a0101">二童子法云聖无動尊<g ref="#CB07261"/>羯落法<note place="inline">唐云卑下者又云随順又名恭敬者是不動王之智恵㽵嚴
+<lb ed="D" n="0021a02"/>也（云〃）</note>。</p></cb:div>
+<lb ed="D" n="0021a03"/><cb:div type="other"><cb:mulu type="其他" level="3">道場㽵嚴(如制吒迦)</cb:mulu><head>道場㽵嚴<note place="inline">如制吒迦</note></head></cb:div>
+<lb ed="D" n="0021a04"/><cb:div type="other"><cb:mulu type="其他" level="3">種子</cb:mulu><head>種子</head><p xml:id="pD21p0021a0403" rend="inline">◇<note place="inline">口<g ref="#CB30256"/></note>。</p></cb:div>
+<lb ed="D" n="0021a05"/><cb:div type="other"><cb:mulu type="其他" level="3">三形</cb:mulu><head>三形</head></cb:div>
+<lb ed="D" n="0021a06"/><cb:div type="other"><cb:mulu type="其他" level="3">形像</cb:mulu><head>形像</head>
+<lb ed="D" n="0021a07"/><p xml:id="pD21p0021a0701">又云其像形如喜見童子作慈悲狛頂有蓮花左手
+<lb ed="D" n="0021a08"/>持杵右手執蓮花或者作降態時童子即作瞋
+<lb ed="D" n="0021a09"/>形額現<g ref="#CB09648"/>父左手執索右手把釰大體如聖尊而乗
+<lb ed="D" n="0021a10"/>師子王影向壇前<note place="inline">云〃</note>。</p>
+<lb ed="D" n="0021a11"/><p xml:id="pD21p0021a1101">决秘要義三次聖无動尊成就使者法品云若畵<g ref="#CB07261"/>
+<lb ed="D" n="0021a12"/>羯<note place="inline">唐云龍作者</note>童子者大<choice cb:resp="CBETA.maha"><corr>躰</corr><sic><unclear/></sic></choice>如正尊頭髮迴毛不聳莎
+<pb ed="D" xml:id="D21.8871.0022a" n="0022a"/>
+<lb ed="D" n="0022a01"/>髮不壞出面目喜怒左持索右執行刀被袈裟着
+<lb ed="D" n="0022a02"/>裙裳<g ref="#CB30133"/>翹石上身赤黃色<note place="inline">云〃</note>。</p>
+<lb ed="D" n="0022a03"/><p xml:id="pD21p0022a0301">類秘抄云陁羅尼經云<note place="inline">緊羯羅品五</note>若欲受持緊羯羅
+<lb ed="D" n="0022a04"/>者聖者不空羂索緊羯羅一切作事𢘤皆成弁作於夜
+<lb ed="D" n="0022a05"/>叉童子之形瞋面怒<choice cb:resp="CBETA.maha"><corr>目</corr><sic><unclear/></sic></choice>髮赤黃色向上聳竪猶如火焰鼻
+<lb ed="D" n="0022a06"/>作䐔䏲㣘牙上出㕸舌舐脣身有兩臂着赤色衣
+<lb ed="D" n="0022a07"/>一手持索一切嚴具以為<g ref="#CB30505"/>嚴茤麻布上畵其形像<note place="inline">云〃</note>。</p></cb:div>
+<lb ed="D" n="0022a08"/><cb:div type="other"><cb:mulu type="其他" level="3">真言</cb:mulu><head>印</head>
+<lb ed="D" n="0022a09"/><p xml:id="pD21p0022a0901">二童子法云真言曰<note place="inline">印用尊合花掌印</note>。</p>
+<lb ed="D" n="0022a10"/><p xml:id="pD21p0022a1001" cb:type="dharani">曩莫三<g ref="#CB15834"/>多勃駄南<note place="inline">句一</note>唵<note place="inline">句二</note><g ref="#CB07261"/>羯落<note place="inline">句三</note>戰拏<note place="inline">句四</note>阿<note place="inline">上</note>
+<lb ed="D" n="0022a11"/>戰拏<note place="inline">句五</note>抹怛里也<note place="inline">二合</note><note place="inline">句六</note>納婆嚩<note place="inline">句七</note>娑嚩賀</p>
+<lb ed="D" n="0022a12"/><p xml:id="pD21p0022a1201"><g ref="#CB07261"/>羯落忿怒真言曰。</p>
+<pb ed="D" xml:id="D21.8871.0023a" n="0023a"/>
+<lb ed="D" n="0023a01"/><p xml:id="pD21p0023a0101" cb:type="dharani">曩莫三滿多嚩日<note place="inline">二合</note>赦<choice cb:resp="CBETA.maha"><corr><g ref="#CB07261"/></corr><sic><unclear/></sic></choice>羯落戰拏吽泮吒</p>
+<lb ed="D" n="0023a02"/><p xml:id="pD21p0023a0201">又有心真言。</p>
+<lb ed="D" n="0023a03"/><p xml:id="pD21p0023a0301" cb:type="dharani">唵地里<g ref="#CB07261"/>娑嚩<note place="inline">二合</note>賀</p>
+<lb ed="D" n="0023a04"/><p xml:id="pD21p0023a0401">制吒迦并<g ref="#CB07261"/>羯落法<note place="inline">已上秘〃故<unclear/>可授（云〃）</note>。</p>
+<lb ed="D" n="0023a05"/><p xml:id="pD21p0023a0501">俱力迦羅軓<note place="inline">云</note>　次金迦羅印真言　釈迦此也。</p></cb:div>
+<lb ed="D" n="0023a06"/><cb:div type="other"><cb:mulu type="其他" level="3">印</cb:mulu><head>印</head><p xml:id="pD21p0023a0602" rend="inline">二手金剛合掌二中指二大指入掌中即成真言曰。</p>
+<lb ed="D" n="0023a07"/><p xml:id="pD21p0023a0701" cb:type="dharani">唵金迦羅耶縛日羅◇</p>
+<lb ed="D" n="0023a08"/><p xml:id="pD21p0023a0801">决秘要義云已上二像同以三昧耶使者印真言<note place="inline">云〃</note>。</p>
+<lb ed="D" n="0023a09"/><p xml:id="pD21p0023a0901" rend="margin-left:1em">𥝠云此三昧耶使者真言者若使者䡄所<unclear/>不動使
+<lb ed="D" n="0023a10"/>者根本真言欤可問明<choice cb:resp="CBETA.maha"><corr>師</corr><sic><unclear/></sic></choice>。</p>
+<lb ed="D" n="0023a11"/><p xml:id="pD21p0023a1101">二童子䡄不空所譯金剛手光明灌頂經不動立印䡄中
+<pb ed="D" xml:id="D21.8871.0024a" n="0024a"/>
+<lb ed="D" n="0024a01"/>秘二使者不出其名唯有兩真言即父云聖者不動
+<lb ed="D" n="0024a02"/>尊一切真言<note place="inline">云〃</note>其第一咒用金剛印者是<g ref="#CB07261"/>羯落真
+<lb ed="D" n="0024a03"/>也復次真用渴誐印者是制吒迦真言也是故金剛智
+<lb ed="D" n="0024a04"/>所譯不動使者陁羅𡰱秘密法中以此二真言別<g ref="#CB30227"/>
+<lb ed="D" n="0024a05"/>為<g ref="#CB07261"/>羯羅制吒迦真言智者能觧了<note place="inline">云〃</note>。</p></cb:div>
+<lb ed="D" n="0024a06"/><cb:div type="other"><cb:mulu type="其他" level="3">駈使行者</cb:mulu><head>駈使行者</head>
+<lb ed="D" n="0024a07"/><p xml:id="pD21p0024a0701">不動使者陁羅𡰱秘法云若欲淂使<g ref="#CB07261"/>羯羅成就者月
+<lb ed="D" n="0024a08"/>生一日起首早晨清淨於畫像前散花以檀香<g ref="#CB21717"/><unclear/>
+<lb ed="D" n="0024a09"/>泥地作壇咒一百八遍日中<choice cb:resp="CBETA.maha"><corr>午</corr><sic>牛</sic></choice>黃昬各誦一百八遍若
+<lb ed="D" n="0024a10"/>多誦不絕㝡好余時不能誦咒但向道場中坐一心正
+<lb ed="D" n="0024a11"/>念誦至時而誦𡖋淂至十五日滿即造種種飲食供養畫
+<pb ed="D" xml:id="D21.8871.0025a" n="0025a"/>
+<lb ed="D" n="0025a01"/>像前㑅方一肘方坑深一折手指燒遏迦木若无用
+<lb ed="D" n="0025a02"/>苦練木𡖋淂取白芥子一斗五升<g ref="#CB29848"/>黃昬起首誦咒取
+<lb ed="D" n="0025a03"/>杳人一合許芥子咒之二遍了即投於火中燒之其芥
+<lb ed="D" n="0025a04"/>子以蘓泮和之令濕如此燒咒至夜半後<g ref="#CB07261"/>迦羅現
+<lb ed="D" n="0025a05"/>形云湏作何駈使行人報云湏<g ref="#CB07261"/>迦羅今日已後有事
+<lb ed="D" n="0025a06"/>湏問常相随逐更莫東西<g ref="#CB07261"/>羯羅者問事也又羯羅
+<lb ed="D" n="0025a07"/>者駈使者也若不現者心次㝎念誦不動使者必湏
+<lb ed="D" n="0025a08"/>淂見莫生狐疑直至于平明无不來現者現已種〃駈
+<lb ed="D" n="0025a09"/>使𠁅分皆淂乃至洗手或用柳枝令取皆淂欲淂上
+<lb ed="D" n="0025a10"/>天入地扶行人將去<note place="inline">云〃</note>。</p></cb:div>
+<lb ed="D" n="0025a11"/><cb:div type="other"><cb:mulu type="其他" level="3">本身</cb:mulu><head>二童子本身</head>
+<pb ed="D" xml:id="D21.8871.0026a" n="0026a"/>
+<lb ed="D" n="0026a01"/><p xml:id="pD21p0026a0101">佛頂尊勝三種𢘤地法上云口瞿梨伽羅大龍口及及成二
+<lb ed="D" n="0026a02"/>人使者<g ref="#CB07261"/>迦羅使者制吒伽羅使者此也<note place="inline">云〃</note>。</p>
+<lb ed="D" n="0026a03"/><p xml:id="pD21p0026a0301" rend="margin-left:1em">𥝠云此二使者有二本身一者全如今又二者不動也
+<lb ed="D" n="0026a04"/>其父有十九觀<note place="inline">云〃</note>。</p></cb:div></cb:div>
+<lb ed="D" n="0026a05"/><cb:div type="other"><cb:mulu type="其他" level="2">四蓮花吉祥</cb:mulu><head>四蓮花吉祥</head>
+<lb ed="D" n="0026a06"/><cb:div type="other"><cb:mulu type="其他" level="3">種子</cb:mulu><head>種子</head><p xml:id="pD21p0026a0603" rend="inline">◇室利字。</p></cb:div>
+<lb ed="D" n="0026a07"/><cb:div type="other"><cb:mulu type="其他" level="3">三形</cb:mulu><head>三形</head><p xml:id="pD21p0026a0703" rend="inline">如意寶<note place="inline">已上二種依形像法注之</note>。</p></cb:div>
+<lb ed="D" n="0026a08"/><cb:div type="other"><cb:mulu type="其他" level="3">形像</cb:mulu><head>形像</head>
+<lb ed="D" n="0026a09"/><p xml:id="pD21p0026a0901">聖无動尊决秘要義云次<g ref="#CB22072"/>蓮花大吉祥天像天身端正
+<lb ed="D" n="0026a10"/>赤白㐌二臂畫作種種瓔珞環釧耳璫天衣寶冠天
+<lb ed="D" n="0026a11"/>女左手持如意珠右手施无畏寶臺上坐<note place="inline">云〃</note>。</p></cb:div>
+<pb ed="D" xml:id="D21.8871.0027a" n="0027a"/>
+<lb ed="D" n="0027a01"/><cb:div type="other"><cb:mulu type="其他" level="3">印</cb:mulu><head>印</head>
+<lb ed="D" n="0027a02"/><p xml:id="pD21p0027a0201">俱力迦羅䡄云次蓮花吉祥印真言<note place="inline">蓮花吉祥觀音是也部主也</note>
+<lb ed="D" n="0027a03"/>二羽合掌二水二風內相叉。</p>
+<lb ed="D" n="0027a04"/><p xml:id="pD21p0027a0401" cb:type="dharani">曩莫叁<g ref="#CB15834"/>多縛日羅赦吽〃膩曳陁羅野莎訶</p>
+<lb ed="D" n="0027a05"/><p xml:id="pD21p0027a0501">聖无動尊决秘要義云<note place="inline">目行撰之</note>其手印相者衍其兩臂然後
+<lb ed="D" n="0027a06"/>合其二手掌相著並二大指相去一寸許微曲二頭指如
+<lb ed="D" n="0027a07"/>鈎以余三相兩〃相擬如蓮花作已誦此真言曰。</p>
+<lb ed="D" n="0027a08"/><p xml:id="pD21p0027a0801" cb:type="dharani">唵毗麼羅<g ref="#CB00754"/>羅代底三婆羅吽</p>
+<lb ed="D" n="0027a09"/><p xml:id="pD21p0027a0901">㑅是法時心所樂者皆淂如意作法〃後必誦是真
+<lb ed="D" n="0027a10"/>言一切所務皆𢘤吉祥若觀見是<unclear/><unclear/>者三日夜不喫
+<lb ed="D" n="0027a11"/>食佛前以都嚕瑟迦梨<note place="inline">唐云蘓合香</note>及散白花一百八遍護
+<lb ed="D" n="0027a12"/>广天女現身其行者所求一切財寶及一切事皆淂稱心。</p></cb:div>
+<lb ed="D" n="0027a13"/><cb:div type="other"><cb:mulu type="其他" level="3">滿行者願</cb:mulu><head>滿行者願</head>
+<lb ed="D" n="0027a14"/><p xml:id="pD21p0027a1401"><unclear/>印䡄云復次成就法以蘓酪密<g ref="#CB21717"/>蓮花搵護广滿
+<pb ed="D" xml:id="D21.8871.0028a" n="0028a"/>
+<lb ed="D" n="0028a01"/>一洛叉遍蓮花大吉祥天女而現前滿彼行者願<note place="inline">云〃</note>。</p>
+<lb ed="D" n="0028a02"/><p xml:id="pD21p0028a0201">俱力迦羅䡄云此四使者加不動成五使者大日如來五
+<lb ed="D" n="0028a03"/>智成身此也<note place="inline">云〃</note>。</p></cb:div></cb:div></cb:div>
+<lb ed="D" n="0028a04"/>
+<lb ed="D" n="0028a05"/>
+<lb ed="D" n="0028a06"/><cb:div type="w"><p xml:id="pD21p0028a0601" rend="margin-left:4em">建久五<g ref="#CB30618"/>八月　日清書了</p>
+<lb ed="D" n="0028a07"/><p xml:id="pD21p0028a0701" rend="margin-left:8em">老比丘興然記之</p>
+<lb ed="D" n="0028a08"/><p xml:id="pD21p0028a0801" rend="margin-left:5em">建久六<g ref="#CB30618"/>八月廿一日於高尾山以慈尊院</p>
+<lb ed="D" n="0028a09"/><p xml:id="pD21p0028a0901" rend="margin-left:10em">本申時許書之　　一交了</p>
+<lb ed="D" n="0028a10"/><p xml:id="pD21p0028a1001" rend="margin-left:17em">寬紹本</p></cb:div>
+</body></text></TEI>

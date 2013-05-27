@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="F01n0016">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Fangshan shijing, Electronic version, No. 016 大王觀世音經</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $<date>$Date: 2010/11/12 03:56:12 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/11/12 03:56:12 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Fangshan shijing Vol. 01, No. 016 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-07-27T13:41:29">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+<!--
+$Log: F01n0016.xml,v $
+Revision 1.3  2010/11/12 03:56:12  amtbgrace
+modified: 按 BM note說明檔 修訂模糊字
+
+Revision 1.2  2010/07/28 07:38:17  amtbgrace
+modified: 修訂檔頭資訊。
+
+Revision 1.1  2010/07/27 06:25:40  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<lb ed="F" n="0118a16"/><milestone unit="juan" n="1"/><cb:mulu type="卷" n="1"></cb:mulu><cb:juan fun="open" n="1"><cb:jhead>大王觀世音經一卷</cb:jhead></cb:juan>
+<lb ed="F" n="0118a17"/><cb:div><p xml:id="pF01p0118a1701"><choice cb:resp="CBETA.maha"><corr>佛</corr><sic><unclear/></sic></choice>說觀世音<choice cb:resp="CBETA.maha"><corr>經一卷</corr><sic><unclear/><unclear/><unclear/></sic></choice><choice cb:resp="CBETA.maha"><corr>讀誦</corr><sic><unclear/><unclear/></sic></choice>千遍得度苦難拔除生死罪觀世音菩薩南无佛佛國有緣佛法相因
+<lb ed="F" n="0118a18"/><choice cb:resp="CBETA.maha"><corr>常樂</corr><sic><unclear/><unclear/></sic></choice>我<choice cb:resp="CBETA.maha"><corr>淨</corr><sic><unclear/></sic></choice>　<unclear/><unclear/><choice cb:resp="CBETA.maha"><corr>南无摩訶波若</corr><sic><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/></sic></choice>是大神呪　南无摩訶波若是大明呪　南无摩訶波若是大
+<lb ed="F" n="0118a19"/><unclear/>等等呪　<choice cb:resp="CBETA.maha"><corr>淨光祕密佛</corr><sic><unclear/><unclear/><unclear/><unclear/><unclear/></sic></choice>　<choice cb:resp="CBETA.maha"><corr>法藏</corr><sic><unclear/><unclear/></sic></choice>佛　師子吼神足遊王佛　告須弥登王佛　法護佛　金剛
+<lb ed="F" n="0118a20"/><choice cb:resp="CBETA.maha"><corr>藏師</corr><sic><unclear/><unclear/></sic></choice>子游戲佛　藥師瑠璃<choice cb:resp="CBETA.maha"><corr>光</corr><sic><unclear/></sic></choice>佛　普光功德山王佛　善住功德寶王佛　六方六佛名号　東
+<lb ed="F" n="0118a21"/>方寶光月<choice cb:resp="CBETA.maha"><corr>殿</corr><sic><unclear/></sic></choice>妙尊音王佛　南方樹根華王佛　西方<choice cb:resp="CBETA.maha"><corr>皂</corr><sic><unclear/></sic></choice>王神通<choice cb:resp="CBETA.maha"><corr>焰</corr><sic>艶</sic></choice>華王佛　北方月殿清淨佛
+<lb ed="F" n="0118a22"/>　上方无數精進寶首佛　下方善寂月音王佛　釋迦牟𡰱佛　弥勒佛　中央一切眾生在此
+<lb ed="F" n="0118a23"/><choice cb:resp="CBETA.maha"><corr>世</corr><sic><unclear/></sic></choice>界中者行住於地上及<choice cb:resp="CBETA.maha"><corr>在虛空中慈憂</corr><sic><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/></sic></choice>於一切令各安休息晝夜脩治心常應誦此經消伏於</p></cb:div>
+</body></text></TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="D63n9027">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 9027 道安法師念佛讚文附入山讚文</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $<date>$Date: 2012/04/16 03:21:22 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/04/16 03:21:22 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 63, No. 9027 </bibl>
+		<msDesc>
+			<msIdentifier>
+				<settlement>Taipei</settlement>
+				<repository>National Central Library</repository>
+				<idno>Vol. 63, No. 9027</idno>
+			</msIdentifier>
+			<p>五代後梁貞明四年寫卷子本</p>
+		</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2011-08-25T13:27:02">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+<!--
+$Log: D63n9027.xml,v $
+Revision 1.2  2012/04/16 03:21:22  amtbgrace
+ [組字修訂] 2012 03 28
+
+Revision 1.1  2011/08/25 07:20:52  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" xml:id="D63.9027.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="1"/><cb:mulu type="卷" n="1"></cb:mulu><cb:div type="other"><cb:mulu type="其他" level="1">念佛讚文</cb:mulu><head>道安法師念仏讚文</head>
+<lb ed="D" n="0001a02"/><lg xml:id="lgD63p0001a0201" type="abnormal"><l rend="text-indent:1em">三十三天仏最尊</l><l rend="text-indent:1em">万物中貴不過人</l><l rend="text-indent:1em">一𠀍眼<g ref="#CB29844"/>何促度</l>
+<lb ed="D" n="0001a03"/><l rend="text-indent:1em">努力相勸入善門</l><l rend="text-indent:1em">只𢙢中生造諸𢙣</l><l rend="text-indent:1em">經律法教遣修
+<lb ed="D" n="0001a04"/>身</l><l rend="text-indent:1em">食𡧢之人<choice cb:resp="CBETA.maha"><corr>短</corr><sic><g ref="#CB31196"/></sic></choice>命報</l><l rend="text-indent:1em">仏大慈悲<g ref="#CB29978"/>諫君</l><l rend="text-indent:1em">莫道煞生無
+<lb ed="D" n="0001a05"/>人見</l><l rend="text-indent:1em">善𢙣童子每知□</l><l rend="text-indent:1em">好事𢙣事皆惣錄</l><l rend="text-indent:1em">未肯臨
+<lb ed="D" n="0001a06"/>時放一分</l><l rend="text-indent:1em">造罪人多修福少</l><l rend="text-indent:1em">所以眾生長受貧</l><l rend="text-indent:1em">天堂快
+<lb ed="D" n="0001a07"/>樂無人去</l><l rend="text-indent:1em">地獄苦𠁅<g ref="#CB11265"/>来奔</l><l rend="text-indent:1em">不是閻羅王喚君入</l>
+<lb ed="D" n="0001a08"/><l rend="text-indent:1em">亦不是諸仏不慈悲</l><l rend="text-indent:1em">惣緣慳貪難勸諫</l><l rend="text-indent:1em">百刼千
+<lb ed="D" n="0001a09"/>生自𨺻身</l><l rend="text-indent:1em"><choice cb:resp="CBETA.maha"><corr>第</corr><sic>弟</sic></choice>一當官莫<choice cb:resp="CBETA.maha"><corr>枉</corr><sic>柱</sic></choice>法</l><l rend="text-indent:1em">侍其形勢乃欺貧</l>
+<lb ed="D" n="0001a10"/><l rend="text-indent:1em">蠢動眾生皆惜命</l><l rend="text-indent:1em">負骨埋身不放君</l><l rend="text-indent:1em">力弱不加
+<lb ed="D" n="0001a11"/>遭殃橫</l><l rend="text-indent:1em">法外𨹧遅不嗔敢</l><l rend="text-indent:1em">狂取一錢<g ref="#CB31047"/>万隌</l><l rend="text-indent:1em">命中地
+<lb ed="D" n="0001a12"/>獄受艱辛</l><l rend="text-indent:1em">𠖐貴前生<choice cb:resp="CBETA.maha"><corr>布</corr><sic><g ref="#CB31193"/></sic></choice>施得</l><l rend="text-indent:1em">貧窮慳貪𪧐業
+<lb ed="D" n="0001a13"/>同</l><l rend="text-indent:1em">𠀍人無慈好酒宍</l><l rend="text-indent:1em">百味<g ref="#CB31197"/>和<g ref="#CB29978"/>六親</l><l rend="text-indent:1em">但<g ref="#CB29844"/>猪羊
+<lb ed="D" n="0001a14"/>被宰煞</l><l rend="text-indent:1em">苦痛之聲上帝聞</l><l rend="text-indent:1em">眼光𤰞□随刃落</l>
+<lb ed="D" n="0001a15"/><l rend="text-indent:1em">四脚高懸就血盆</l><l rend="text-indent:1em">將知食宍屠他命</l><l rend="text-indent:1em">地獄<g ref="#CB31195"/>讎
+<pb ed="D" xml:id="D63.9027.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/>不可論</l><l rend="text-indent:1em">累月不曾得一<g ref="#CB24245"/></l><l rend="text-indent:1em">終日<g ref="#CB28933"/>霑喫宍人</l><l rend="text-indent:1em">死王
+<lb ed="D" n="0002a02"/>由<choice cb:resp="CBETA.maha"><corr>羨</corr><sic>羡</sic></choice>活<g ref="#CB30265"/></l><l rend="text-indent:1em">若箇不覔命長存</l><l rend="text-indent:1em">善𢙣皆將業<g ref="#CB31194"/>
+<lb ed="D" n="0002a03"/>照</l><l rend="text-indent:1em">分寸不得枉持人</l><l rend="text-indent:1em">普勸𢙣力生淨土</l><l rend="text-indent:1em">来𠀍得免
+<lb ed="D" n="0002a04"/>苦沉<choice cb:resp="CBETA.maha"><corr>淪</corr><sic>論</sic></choice></l></lg><p xml:id="pD63p0002a0404" rend="margin-left:6em;inline">貞明四年己夘歲二月十日書記</p></cb:div>
+<lb ed="D" n="0002a05"/>
+<lb ed="D" n="0002a06"/><cb:div type="w"><cb:mulu type="附文" level="1">入山讚文</cb:mulu><head>入山讚</head><lg xml:id="lgD63p0002a0604" type="abnormal"><l rend="text-indent:1em">安心端坐樹林間</l><l rend="text-indent:1em">□意无思不忘㤙</l><l rend="text-indent:1em">文殊
+<lb ed="D" n="0002a07"/>六時<g ref="#CB22072"/>妙法</l><l rend="text-indent:1em">過去諸仏結囙緣</l><l rend="text-indent:1em">㘴禪區〃一束草</l>
+<lb ed="D" n="0002a08"/><l rend="text-indent:1em">不藉人間不重氈</l><l rend="text-indent:1em">山高甚意逐何囙</l><l rend="text-indent:1em">道曲逐
+<lb ed="D" n="0002a09"/>谷入<g ref="#CB25451"/>山</l><l rend="text-indent:1em">五臺山上有仙花</l><l rend="text-indent:1em">摘取將來染袈裟</l>
+<lb ed="D" n="0002a10"/><l rend="text-indent:1em">染得袈裟𣠵金色</l><l rend="text-indent:1em">勸化眾生□出家</l><l rend="text-indent:1em">出家
+<lb ed="D" n="0002a11"/>之時為何囙</l><l rend="text-indent:1em">白日轉經夜坐禪</l><l rend="text-indent:1em">念經滅得口業
+<lb ed="D" n="0002a12"/>罪</l><l rend="text-indent:1em">坐禪觀得內外空</l><l rend="text-indent:1em">𨶒浮眾生□扤〃</l><l rend="text-indent:1em">身上
+<lb ed="D" n="0002a13"/>惣是无明窟</l><l rend="text-indent:1em">心中寶鏡不磨拂</l><l rend="text-indent:1em">生死流傳
+<lb ed="D" n="0002a14"/>不得出</l></lg><lg xml:id="lgD63p0002a1404" type="abnormal"><l rend="text-indent:1em">禪定湏長夜</l><l rend="text-indent:1em">澄心不覺寒</l><l rend="text-indent:1em">但觀三
+<lb ed="D" n="0002a15"/>界內</l><l rend="text-indent:1em">无有一人安</l></lg><lg xml:id="lgD63p0002a1508" type="abnormal"><l rend="text-indent:1em">㝎心㝎意㝎實難</l><l rend="text-indent:1em">尽力澄
+<lb ed="D" n="0002a16"/>心向內<g ref="#CB29844"/></l><l rend="text-indent:1em"><g ref="#CB29844"/>〃无一物</l><l rend="text-indent:1em">即為无物得心安</l></lg>
+<lb ed="D" n="0002a17"/><lg xml:id="lgD63p0002a1701" type="abnormal"><l rend="text-indent:1em">身是<choice cb:resp="CBETA.maha"><corr>菩提</corr><sic>䔶</sic></choice>樹</l><l rend="text-indent:1em">心是明鏡臺</l><l rend="text-indent:1em">勤勤拂略下</l><l rend="text-indent:1em">不怕汙
+<lb ed="D" n="0002a18"/>塵埃</l></lg></cb:div>
+</body></text></TEI>
