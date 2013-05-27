@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X53n0860">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 860 判比量論</title>
+			<author>新羅 元曉述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.5 $<date>$Date: 2009/04/22 09:00:01 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:00:01 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 53, No. 860 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2006-11-28T08:16:06">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+<!--
+$Log: X53n0860.xml,v $
+Revision 1.5  2009/04/22 09:00:01  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.4  2007/12/20 08:51:33  amtbgrace
+modified: [CBR2008] 比對修訂
+
+Revision 1.3  2007/08/14 10:30:47  amtbgrace
+modified: 校注插入 XML 作業
+
+Revision 1.2  2007/07/12 10:13:09  amtbgrace
+modified: 校注作業修訂
+
+Revision 1.1  2006/11/28 00:27:32  duncan
+X53 轉自basicx parsevol  OK
+by  duncan 11/28
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" xml:id="X53.0860.0951a" n="0951a"/>
+<lb ed="X" n="0951a01"/><milestone unit="juan" n="1"/>
+<lb ed="X" n="0951a02"/>
+<lb ed="X" n="0951a03"/><cb:div type="other"><cb:mulu type="其他" level="1">判比量論</cb:mulu>
+<lb ed="X" n="0951a04"/><cb:docNumber>No. 860</cb:docNumber>
+<lb ed="X" n="0951a05"/><cb:juan fun="open" n="1"><cb:mulu type="卷" n="1"></cb:mulu><cb:jhead><note n="0951001" resp="Xuzangjing" place="foot text" type="orig">旧版ハ䟦文ノミアグルモ，今，原本日本神田喜一郎所藏（光明皇后ノ御璽アリ，富貴原章信解讀）ノ斷簡ヲ收錄ス。<g ref="#CB18834"/></note>判比量論</cb:jhead></cb:juan>
+<lb ed="X" n="0951a06"/>
+<lb ed="X" n="0951a07"/><p xml:id="pX53p0951a0701">定過亦能破彼、是等難故。又應定<note n="0951002" resp="Xuzangjing" place="foot text" type="orig">向ト讀ム<g ref="#CB18906"/>（韓国，仏教学同人会編，元暁全集所收，金知見，原本讀解ニヨル，以下同ジ。）</note>問、汝言
+<lb ed="X" n="0951a08"/>非<note n="0951003" resp="Xuzangjing" place="foot text" type="orig">破ト讀ム<g ref="#CB18907"/>（韓国，仏教学同人会編，元曉全集所收，崔凡述，原本讀解ニヨル，以下同ジ。）</note>顯淨土言<note n="0951004" resp="Xuzangjing" place="foot text" type="orig">缺字<g ref="#CB18906"/></note>中、淨土之<note n="0951005" resp="Xuzangjing" place="foot text" type="orig">過ト讀ム<g ref="#CB18907"/></note>慧為舉、淨土之體為
+<lb ed="X" n="0951a09"/>不舉<note n="0951006" resp="Xuzangjing" place="foot text" type="orig">耶ト讀ム<g ref="#CB18906"/><g ref="#CB18907"/></note>□。若言舉者、則違自宗、此淨土教能
+<lb ed="X" n="0951a10"/><note n="0951007" resp="Xuzangjing" place="foot text" type="orig">破ト讀ム<g ref="#CB18907"/></note>顯淨土故。若不舉者、不違他宗、非<note n="0951008" resp="Xuzangjing" place="foot text" type="orig">破ト讀ム<g ref="#CB18907"/></note>顯之言
+<lb ed="X" n="0951a11"/>不<note n="0951009" resp="Xuzangjing" place="foot text" type="orig">遮ト讀ム<g ref="#CB18906"/><g ref="#CB18907"/></note>□淨土故。於此<note n="0951010" resp="Xuzangjing" place="foot text" type="orig">兩兩ヲ當當ト讀ム<g ref="#CB18907"/></note>兩兩<note n="0951011" resp="Xuzangjing" place="foot text" type="orig">開ト讀ム<g ref="#CB18907"/></note>關心、辨彼意<note n="0951012" resp="Xuzangjing" place="foot text" type="orig">立ト讀ム<g ref="#CB18907"/></note>在前、則
+<lb ed="X" n="0951a12"/>墮自語相違過失。若彼救言、此淨土<note n="0951013" resp="Xuzangjing" place="foot text" type="orig">欠ト讀ム<g ref="#CB18907"/></note>忽舉淨
+<lb ed="X" n="0951a13"/>土體、<note n="0951014" resp="Xuzangjing" place="foot text" type="orig">而云忽ヲ問之欠ト讀ム<g ref="#CB18907"/></note>而云忽不入淨土之教。故無自語相違
+<lb ed="X" n="0951a14"/>過者、則以此<note n="0951015" resp="Xuzangjing" place="foot text" type="orig">欠ト讀ム<g ref="#CB18907"/></note>忽亦成不<note n="0951016" resp="Xuzangjing" place="foot text" type="orig">安ト讀ム<g ref="#CB18906"/></note>定。如是進退皆不應
+<lb ed="X" n="0951a15"/>理。　　　　二量。</p>
+<lb ed="X" n="0951a16"/><p xml:id="pX53p0951a1601">八<note n="0951017" resp="Xuzangjing" place="foot text" type="orig">太賢，唯識論學記，卷三（續藏八○．三○左），執四分者─亦有不定マデヲ引用。タダシ，ソノ判云以下ハ取意ノ文デアル。判曰，此二皆有不定。眼識生相，雖心分攝，而無即體能證故。了（耳）識相分三相，雖無即體能證，而是心分所攝故トアル。ナオ，立比量云ヲ學記ニ立此量云トナシ，第二ノ比量ニ，自證應非心分所攝トアルヲ，學記ニ非心所攝トスルハ不可。マタ，善珠，因明疏明燈抄六末（大正六八．四二六）ニモ，執四分者─亦有不定マデ引用。タダシ，ソノ判曰以下ハ取意ノ文デアッテ，シカモ，太賢ノ學記ニ殆ド變ワラナイ。ナオ，第一量ニ，猶如相分トアルヲ，明燈抄ニハ猶如見分トスル。<g ref="#CB18908"/>（日本，富貴原章信ノ註，以下同ジ。）</note>執四分者為破三分立比量云、自證必有<note n="0951018" resp="Xuzangjing" place="foot text" type="orig">有ト讀ム<g ref="#CB18907"/></note>即
+<lb ed="X" n="0951a17"/>體<note n="0951019" resp="Xuzangjing" place="foot text" type="orig">在ト讀ム<g ref="#CB18907"/></note>能證。心分攝故。猶如相分。自證應非心
+<lb ed="X" n="0951a18"/>分所攝。以無<note n="0951020" resp="Xuzangjing" place="foot text" type="orig">有ト讀ム<g ref="#CB18907"/></note>即體之能證故。如兔角等。判
+<lb ed="X" n="0951a19"/>云、此二比量是似非真。皆不能離不定過故。
+<lb ed="X" n="0951a20"/>謂、自證分、為如相分、心分攝故、有<note n="0951021" resp="Xuzangjing" place="foot text" type="orig">有ト讀ム<g ref="#CB18907"/></note>即體
+<lb ed="X" n="0951a21"/>能證。為如眼識生相、心分攝故、無<note n="0951022" resp="Xuzangjing" place="foot text" type="orig">有ト讀ム<g ref="#CB18907"/></note>即體能
+<lb ed="X" n="0951a22"/>證。如是前因有不定過。又自證分、為如兔
+<lb ed="X" n="0951a23"/>角、無<note n="0951023" resp="Xuzangjing" place="foot text" type="orig">有ト讀ム<g ref="#CB18907"/></note>即體能證故、非心分攝。為如耳識相
+<lb ed="X" n="0951a24"/>分三相、無<note n="0951024" resp="Xuzangjing" place="foot text" type="orig">有ト讀ム<g ref="#CB18907"/></note>即體能證故、是心分所攝。如是
+<pb ed="X" xml:id="X53.0860.0951b" n="0951b"/>
+<lb ed="X" n="0951b01"/>後因亦有不定。若彼救言、五識三相不離體
+<lb ed="X" n="0951b02"/>故、是其自證之所緣境、理亦不然。相分三
+<lb ed="X" n="0951b03"/>相不離相故。五識見分亦得緣故。此若不許、
+<lb ed="X" n="0951b04"/>彼何得然。設許彼前、此必不許、五識能緣
+<lb ed="X" n="0951b05"/>法界<note n="0951025" resp="Xuzangjing" place="foot text" type="orig">法ト讀ム<g ref="#CB18907"/></note>諸處、法相雜亂。違理教故。只<note n="0951026" resp="Xuzangjing" place="foot text" type="orig">有ト讀ム<g ref="#CB18906"/></note>由如是
+<lb ed="X" n="0951b06"/>相分三相、於彼二因、<note n="0951027" resp="Xuzangjing" place="foot text" type="orig">並ト讀ム<g ref="#CB18907"/></note>足作不定。設彼救言、
+<lb ed="X" n="0951b07"/>相分三相非心分攝、則有比量相違過失。當
+<lb ed="X" n="0951b08"/>知、第四分、有言而無義。　　　二量。</p>
+<lb ed="X" n="0951b09"/><p xml:id="pX53p0951b0901">九無性攝論、為成第八、對彼小乘立二比量。
+<lb ed="X" n="0951b10"/>謂八識教是聖言攝。<note n="0951028" resp="Xuzangjing" place="foot text" type="orig">以ト讀ム<g ref="#CB18907"/></note>似無我故。如四阿含。
+<lb ed="X" n="0951b11"/>又八識教契當道理。是聖教故。如六識教。
+<lb ed="X" n="0951b12"/>如是展轉證有八識。今於此中、直就所詮而
+<lb ed="X" n="0951b13"/>立比量證<note n="0951029" resp="Xuzangjing" place="foot text" type="orig">三字ハ破損ノタメ缺字デアル。タダシ，第三字ハ識ノ字デアロウ。ソシテ，ソノ上ノ二字ハ，ソノ前後ヨリ考エテ，第八デナカロウカ。<g ref="#CB18908"/></note>□□<note n="0951030" resp="Xuzangjing" place="foot text" type="orig">識ト讀ム<g ref="#CB18907"/></note>□謂眼耳鼻識必有舌身意識不
+<lb ed="X" n="0951b14"/>攝餘<note n="0951031" resp="Xuzangjing" place="foot text" type="orig">前ト讀ム<g ref="#CB18907"/></note>別識。<note n="0951032" resp="Xuzangjing" place="foot text" type="orig">軆ト讀ム<g ref="#CB18907"/></note>非<note n="0951033" resp="Xuzangjing" place="foot text" type="orig">二六門中トヨメルガ，シカシ二六門中デハ，ソノ意味ガ通ジナイ。ヨクミルト，二ノ上ニ虫喰ノアトガアル。三六門中トスベキデアル。<g ref="#CB18908"/></note>二六門中三識攝故。猶如舌身
+<lb ed="X" n="0951b15"/>意識。此中極成六識為他<note n="0951034" resp="Xuzangjing" place="foot text" type="orig">受ト讀ム<g ref="#CB18907"/></note>異品、自許八識為
+<lb ed="X" n="0951b16"/>自<note n="0951035" resp="Xuzangjing" place="foot text" type="orig">受ト讀ム<g ref="#CB18907"/></note>異品、三識攝因於彼不轉。是故此因決定
+<lb ed="X" n="0951b17"/>能立。若以轉識攝故為因、則於他<note n="0951036" resp="Xuzangjing" place="foot text" type="orig">受ト讀ム<g ref="#CB18907"/>．缺字<g ref="#CB18906"/></note>異轉。設
+<lb ed="X" n="0951b18"/><note n="0951037" resp="Xuzangjing" place="foot text" type="orig">以ノ字，原文デハ虫喰ノタメ讀ミ難シ。前後ノ文ヨリ考エテ以ノ字デアロウ。<g ref="#CB18908"/>。心ト讀ム<g ref="#CB18907"/></note>以是識性故為因、亦於自<note n="0951038" resp="Xuzangjing" place="foot text" type="orig">受ト讀ム<g ref="#CB18907"/></note>異品轉、皆不能離
+<lb ed="X" n="0951b19"/>不定過也。　　　　　　　　　　三量。</p>
+<lb ed="X" n="0951b20"/><p xml:id="pX53p0951b2001">十成唯識論立比量言、第八必有<note n="0951039" resp="Xuzangjing" place="foot text" type="orig">但ト讀ム<g ref="#CB18907"/></note>俱有所依。
+<lb ed="X" n="0951b21"/>是識性故。如六識等。此因不定、有等難故。
+<lb ed="X" n="0951b22"/>謂有立言、<note n="0951040" resp="Xuzangjing" place="foot text" type="orig">太賢ノ學記ニ，コノ比量ヲヒク。<g ref="#CB18908"/></note>第八必無<note n="0951041" resp="Xuzangjing" place="foot text" type="orig">但ト讀ム<g ref="#CB18907"/></note>俱有所依。是根本故。猶
+<lb ed="X" n="0951b23"/>如真如。若言此有有法差別相違過失、能成
+<lb ed="X" n="0951b24"/>第八是無為故、是則前因亦有是過、能成第
+<pb ed="X" xml:id="X53.0860.0951c" n="0951c"/>
+<lb ed="X" n="0951c01"/>八是轉識故。若言自<note n="0951042" resp="Xuzangjing" place="foot text" type="orig">害ト讀ム<g ref="#CB18907"/></note>□故不成難、彼亦違自
+<lb ed="X" n="0951c02"/>故非難也。今者別立、<note n="0951043" resp="Xuzangjing" place="foot text" type="orig">太賢ノ學記ニ，コレヲヒクガ，ソノ引文ハ取意デアル。七八無俱有根，非六識性故，如眼根等(云云)<g ref="#CB18908"/></note>賴耶末那必無<note n="0951044" resp="Xuzangjing" place="foot text" type="orig">但ト讀ム<g ref="#CB18907"/></note>俱有所
+<lb ed="X" n="0951c03"/>依之根。非六識性之所攝故。如眼根等。若
+<lb ed="X" n="0951c04"/>難此因有相違過、能成七八非能緣性、如眼
+<lb ed="X" n="0951c05"/>根等、此亦不然。由心所法成不定故。若言
+<lb ed="X" n="0951c06"/>望前亦有不定、以心所法非六識性有所依故、
+<pb ed="X" xml:id="X53.0860.0952a" n="0952a"/>
+<lb ed="X" n="0952a01"/>此非不定。以前立言所依根故。若望心所、但
+<lb ed="X" n="0952a02"/>是所依非所依根、法處所攝不待根故。是故
+<lb ed="X" n="0952a03"/>彼宗、雖知依與所依差別、未解所依與根有
+<lb ed="X" n="0952a04"/><note n="0952001" resp="Xuzangjing" place="foot text" type="orig">矣ト讀ム<g ref="#CB18907"/></note>異。若論所依、通於八識及與心所。其所依
+<lb ed="X" n="0952a05"/>根不通心所及於七八。有破此宗立比量云、
+<lb ed="X" n="0952a06"/>意識<note n="0952002" resp="Xuzangjing" place="foot text" type="orig">但ト讀ム<g ref="#CB18907"/></note>俱有根定非能<note n="0952003" resp="Xuzangjing" place="foot text" type="orig">能ノ字ハ衍。<g ref="#CB18908"/>．缺字<g ref="#CB18906"/><g ref="#CB18907"/></note>能緣性。六識心心所之所
+<lb ed="X" n="0952a07"/>不攝故。六識<note n="0952004" resp="Xuzangjing" place="foot text" type="orig">猶ト讀ム<g ref="#CB18907"/></note>俱有根隨<note n="0952005" resp="Xuzangjing" place="foot text" type="orig">缺字<g ref="#CB18907"/></note>一所攝故、如眼根等
+<lb ed="X" n="0952a08"/>彼宗<note n="0952006" resp="Xuzangjing" place="foot text" type="orig">及ト讀ム<g ref="#CB18906"/><g ref="#CB18907"/></note>反以法處所攝色法為意、故作是難。此
+<lb ed="X" n="0952a09"/><note n="0952007" resp="Xuzangjing" place="foot text" type="orig">雖ト讀ム<g ref="#CB18907"/></note>塵通破大乘諸宗。然有相違決定過生。謂立
+<lb ed="X" n="0952a10"/>意根必非色性。有分別識不共依故。如第六
+<lb ed="X" n="0952a11"/>識俱有作意。由此等難彼因不定。　　五量。</p>
+<lb ed="X" n="0952a12"/><p xml:id="pX53p0952a1201">十一如聲論師立聲為常所聞性故、若對勝論
+<lb ed="X" n="0952a13"/>相違決定、對佛弟子不共不定、以無共許同
+<lb ed="X" n="0952a14"/>品法故。有難此因立比量言、所聞性因應非
+<lb ed="X" n="0952a15"/>疑因。同品無故。如相違因。又立、此因應
+<lb ed="X" n="0952a16"/>非不定。<note n="0952008" resp="Xuzangjing" place="foot text" type="orig">受ト讀ム<g ref="#CB18907"/></note>異品無故。猶如正因。<note n="0952009" resp="Xuzangjing" place="foot text" type="orig">善珠、明燈抄、四末（大正六八．三五七）備法師云─其因是不定マデ引用。藏俊、大疏抄、十九（大正六八．五六一）備法師云─故不能作相違決定マデ引用。<g ref="#CB18908"/></note>備法師云、理
+<lb ed="X" n="0952a17"/>門論<note n="0952010A" resp="Xuzangjing" place="foot text" type="orig">言—大疏抄ニハ云ニツクル。<g ref="#CB18908"/></note><note n="0952010A" resp="CBETA" type="mod">言—大疏抄ニハ云ニツクル。<g ref="#CB18908"/></note>言、一向離故、是通彼難。謂立宗<note n="0952010B" resp="Xuzangjing" place="foot text" type="orig">言—大疏抄ニハ云ニツクル。<g ref="#CB18908"/></note><note n="0952010B" resp="CBETA" type="mod">言—大疏抄ニハ云ニツクル。<g ref="#CB18908"/></note>言、所
+<lb ed="X" n="0952a18"/>聞性因是不定攝。一向離故。如共不定。一
+<lb ed="X" n="0952a19"/>向<note n="0952011" resp="Xuzangjing" place="foot text" type="orig">離言—大疏抄ニハ者ニツクル。不可。<g ref="#CB18908"/></note>離言<note n="0952012" resp="Xuzangjing" place="foot text" type="orig">闕ト讀ム<g ref="#CB18907"/></note>𨷂一相也。判云、此因有不定過。以
+<lb ed="X" n="0952a20"/>所見性雖<note n="0952013" resp="Xuzangjing" place="foot text" type="orig">闕ト讀ム<g ref="#CB18907"/></note>𨷂一相而非不定、是不成故。謂<note n="0952014" resp="Xuzangjing" place="foot text" type="orig">立—明燈抄ニハ言ニツクル。<g ref="#CB18908"/></note>立
+<lb ed="X" n="0952a21"/>聲無常、所見性故、此因同有<note n="0952015" resp="Xuzangjing" place="foot text" type="orig">受ト讀ム<g ref="#CB18907"/></note>異無、唯<note n="0952016" resp="Xuzangjing" place="foot text" type="orig">闕ト讀ム<g ref="#CB18907"/></note>𨷂<note n="0952017" resp="Xuzangjing" place="foot text" type="orig">初─大疏抄ニナシ。不可。<g ref="#CB18908"/></note>初
+<lb ed="X" n="0952a22"/>相。是故亦為<note n="0952018" resp="Xuzangjing" place="foot text" type="orig">闕ト讀ム<g ref="#CB18907"/></note>𨷂一相也。若為避此不定過故、
+<lb ed="X" n="0952a23"/>更立因言、後二相中<note n="0952019" resp="Xuzangjing" place="foot text" type="orig">闕ト讀ム<g ref="#CB18907"/></note>𨷂一相故。猶如共等四
+<lb ed="X" n="0952a24"/>不定因。此因亦有餘不定過。<note n="0952020" resp="Xuzangjing" place="foot text" type="orig">大疏抄ニハ如ノウエニ為ノ字アリ。不可。<g ref="#CB18908"/></note>如於<note n="0952021" resp="Xuzangjing" place="foot text" type="orig">盡ト讀ム<g ref="#CB18907"/></note>空<note n="0952022" resp="Xuzangjing" place="foot text" type="orig">大疏抄ニ宗ノ字ナシ。不可。<g ref="#CB18908"/></note>宗緣生
+<pb ed="X" xml:id="X53.0860.0952b" n="0952b"/>
+<lb ed="X" n="0952b01"/>故因。雖於後二相<note n="0952023" resp="Xuzangjing" place="foot text" type="orig">缺字<g ref="#CB18906"/></note>中<note n="0952024" resp="Xuzangjing" place="foot text" type="orig">闕ト讀ム<g ref="#CB18907"/></note>𨷂<note n="0952025" resp="Xuzangjing" place="foot text" type="orig">大疏抄ニハ一ノ上ニ是ノ字アリ。不可。<g ref="#CB18908"/></note>一　而是真因、非不
+<lb ed="X" n="0952b02"/>定故、故不能作相違決定。又前所立<note n="0952026" resp="Xuzangjing" place="foot text" type="orig">受ト讀ム<g ref="#CB18907"/></note>異品無
+<lb ed="X" n="0952b03"/>故非疑因者、亦有不定。如諸相違決定之因。
+<lb ed="X" n="0952b04"/>雖<note n="0952027" resp="Xuzangjing" place="foot text" type="orig">受ト讀ム<g ref="#CB18907"/></note>異品無是疑因。故唯有同品無故之因、
+<lb ed="X" n="0952b05"/>且離不定、立非疑因。<note n="0952028" resp="Xuzangjing" place="foot text" type="orig">大疏抄ニ此中應立—猶如共不定因マデ引用。<g ref="#CB18908"/></note>此中應立相違比量。
+<lb ed="X" n="0952b06"/>謂、所聞性不定<note n="0952029" resp="Xuzangjing" place="foot text" type="orig">缺字<g ref="#CB18906"/></note>因攝。等立相違宗故。猶如
+<lb ed="X" n="0952b07"/>共不定因。如理門論<note n="0952030" resp="Xuzangjing" place="foot text" type="orig">破ト讀ム<g ref="#CB18907"/></note>顯此因云、以若不共所
+<lb ed="X" n="0952b08"/>成立法、<note n="0952031" resp="Xuzangjing" place="foot text" type="orig">立—論文ニナシ明燈抄ノ所引ニモシ。<g ref="#CB18908"/></note>立所有差別遍攝一切、皆是疑因。
+<lb ed="X" n="0952b09"/>唯彼有性彼所攝故、一向離故。案云、不共
+<lb ed="X" n="0952b10"/>所成立者、如<note n="0952032" resp="Xuzangjing" place="foot text" type="orig">立—明燈抄ニ言ニツクル。<g ref="#CB18908"/></note>立聲<note n="0952033" resp="Xuzangjing" place="foot text" type="orig">缺字<g ref="#CB18907"/></note>常所聞性故、或立無常所
+<lb ed="X" n="0952b11"/>聞性故、如是一切無不等立。故言所有遍攝
+<lb ed="X" n="0952b12"/>一切。由是道理、所聞性因望彼一切皆是疑
+<lb ed="X" n="0952b13"/>因。一向離故者、轉成等立諸宗之義。以望
+<lb ed="X" n="0952b14"/>諸宗皆同不共。皆同是一<note n="0952034" resp="Xuzangjing" place="foot text" type="orig">向ノ下ニ離ノ字アリ<g ref="#CB18906"/></note>向義。不共是<note n="0952035" resp="Xuzangjing" place="foot text" type="orig">共ト讀ム<g ref="#CB18907"/></note>其離
+<lb ed="X" n="0952b15"/>義。由一向離故、等立於諸𠚤宗𠚤相違故、
+<lb ed="X" n="0952b16"/>其因是不定。　　　　　五量。</p>
+<lb ed="X" n="0952b17"/><p xml:id="pX53p0952b1701"><note n="0952036" resp="Xuzangjing" place="foot text" type="orig">十二相違決定—不定因也マデ，大疏抄二十（大正六八．五六九）引。<g ref="#CB18908"/></note>十二相違決定立二比量。<note n="0952037" resp="Xuzangjing" place="foot text" type="orig">又ト讀ム<g ref="#CB18907"/></note>文<note n="0952038" resp="Xuzangjing" place="foot text" type="orig">執ト讀ム<g ref="#CB18907"/></note>軌法師自作問答。
+<lb ed="X" n="0952b18"/><note n="0952039" resp="Xuzangjing" place="foot text" type="orig">缺字<g ref="#CB18906"/></note>問。具足三相應是正因、何<note n="0952040" resp="Xuzangjing" place="foot text" type="orig">故—大疏抄ニハ者ニツクル。<g ref="#CB18908"/></note>故此中而言不定。
+<lb ed="X" n="0952b19"/>答。此疑未決、不敢解之。有<note n="0952041" resp="Xuzangjing" place="foot text" type="orig">通—大疏抄ニ無，不可。<g ref="#CB18908"/></note>通釋者、隨<note n="0952042" resp="Xuzangjing" place="foot text" type="orig">而—明燈抄ニ空ニツクル。<g ref="#CB18908"/></note>而
+<lb ed="X" n="0952b20"/>為<note n="0952043" resp="Xuzangjing" place="foot text" type="orig">臣ト讀ム<g ref="#CB18907"/></note>注<note n="0952044" resp="Xuzangjing" place="foot text" type="orig">此中問意—不定因也マデ明燈抄四末（大正六八．三六二）引。<g ref="#CB18908"/></note>此中問意、立比量云、違決<note n="0952045" resp="Xuzangjing" place="foot text" type="orig">中—大疏抄ニナシ，不可。<g ref="#CB18908"/></note>中因應是正
+<lb ed="X" n="0952b21"/>因。<note n="0952046" resp="Xuzangjing" place="foot text" type="orig">貝ト讀ム<g ref="#CB18906"/>（誤植カ。<g ref="#CB18834"/>）</note>具三相故。如餘真因。今者通曰、違決
+<lb ed="X" n="0952b22"/>之因非正因攝。有等難故。如相違因。由此
+<lb ed="X" n="0952b23"/><note n="0952047" resp="Xuzangjing" place="foot text" type="orig">破ト讀ム<g ref="#CB18907"/></note>顯彼有不定過。又此二因非相違攝。同品有
+<lb ed="X" n="0952b24"/>故。猶如正因。又此二因非不成攝。是共許
+<pb ed="X" xml:id="X53.0860.0952c" n="0952c"/>
+<lb ed="X" n="0952c01"/>故。如不共因。如是二因不定因攝。非正、非
+<lb ed="X" n="0952c02"/>違、非不成故。如餘五種不定因也。　六量。</p>
+<lb ed="X" n="0952c03"/><p xml:id="pX53p0952c0301">十三或有為難五種<note n="0952048" resp="Xuzangjing" place="foot text" type="orig">種ト讀ム<g ref="#CB18907"/></note>之性、立比量言、無性有
+<lb ed="X" n="0952c04"/>情必當作佛。以有心故。如有性者。此因不
+<lb ed="X" n="0952c05"/>定、故成不難。為如諸佛、以有心故、非當
+<lb ed="X" n="0952c06"/>作佛。為如菩薩、以有心故、必當作佛。<note n="0952049" resp="Xuzangjing" place="foot text" type="orig">前所ヲ差別ト讀ム<g ref="#CB18907"/></note>前
+<lb ed="X" n="0952c07"/>所立因、言以未成佛之有情故、此因亦有他
+<lb ed="X" n="0952c08"/>不定過。為如菩薩種性、為如決定二乘。若
+<lb ed="X" n="0952c09"/>為避此、更立宗言、無性<note n="0952050" resp="Xuzangjing" place="foot text" type="orig">性ノ字ハ衍。<g ref="#CB18908"/>．缺字<g ref="#CB18907"/>。</note>性有情決定二乘皆
+<lb ed="X" n="0952c10"/>當作佛。以未成佛有情攝故。猶如菩薩。此
+<lb ed="X" n="0952c11"/>有等難、故成不定。如是三人非當作佛。以
+<lb ed="X" n="0952c12"/>無大乘無漏種子而非菩薩種性攝故。如木石
+<pb ed="X" xml:id="X53.0860.0953a" n="0953a"/>
+<lb ed="X" n="0953a01"/>等諸無情物。又有比量相違過失。謂、五<note n="0953001" resp="Xuzangjing" place="foot text" type="orig">種姓ト種姓ト二ツ使用，成唯識論ニハ種姓トアル。<g ref="#CB18908"/></note>種
+<lb ed="X" n="0953a02"/>姓中、餘四種姓墮地獄時、應有四德、許作
+<lb ed="X" n="0953a03"/>佛故、如菩薩姓。許則違教、不許違理。此
+<lb ed="X" n="0953a04"/>違自<note n="0953002" resp="Xuzangjing" place="foot text" type="orig">語ト讀ム<g ref="#CB18907"/></note>悟比量過也。　　　　　五量。</p>
+<lb ed="X" n="0953a05"/><p xml:id="pX53p0953a0501">十四成唯識論、為破我法立比量言、<note n="0953003" resp="Xuzangjing" place="foot text" type="orig">凡—唯識論ハ又ニツクル。<g ref="#CB18908"/></note>凡諸我
+<lb ed="X" n="0953a06"/>見不緣實我。有所緣故。如緣餘心。我見所
+<lb ed="X" n="0953a07"/>緣定非實我。是所緣故。如所餘法。又言、
+<lb ed="X" n="0953a08"/>外道<note n="0953004" resp="Xuzangjing" place="foot text" type="orig">緣ト讀ム<g ref="#CB18907"/></note>餘<note n="0953005" resp="Xuzangjing" place="foot text" type="orig">我ト讀ム<g ref="#CB18907"/></note>乘所執諸法、<note n="0953006" resp="Xuzangjing" place="foot text" type="orig">受ト讀ム<g ref="#CB18907"/></note>異心心所、非實有性。
+<lb ed="X" n="0953a09"/>是所<note n="0953007" resp="Xuzangjing" place="foot text" type="orig">依ト讀ム<g ref="#CB18907"/></note>取故。如心心所。能<note n="0953008" resp="Xuzangjing" place="foot text" type="orig">依ト讀ム<g ref="#CB18907"/></note>取彼覺亦不緣彼。
+<lb ed="X" n="0953a10"/>是能<note n="0953009" resp="Xuzangjing" place="foot text" type="orig">依ト讀ム<g ref="#CB18907"/></note>取故。如緣此覺。判云、此中<note n="0953010" resp="Xuzangjing" place="foot text" type="orig">有ノ下ニ此ノ字アリ<g ref="#CB18906"/></note>有四<note n="0953011" resp="Xuzangjing" place="foot text" type="orig">此ト讀ム<g ref="#CB18906"/>（誤植カ。<g ref="#CB18834"/>）</note>比量。
+<lb ed="X" n="0953a11"/>是真能破。破我法故。無過生故。或因此破、
+<lb ed="X" n="0953a12"/>破大乘云、諸緣第八識見、不緣阿賴耶相。
+<lb ed="X" n="0953a13"/>有所緣故。如<note n="0953012" resp="Xuzangjing" place="foot text" type="orig">以下缺損。<g ref="#CB18834"/></note>緣。</p>
+<lb ed="X" n="0953a14"/><lg xml:id="lgX53p0953a1401"><l>證成道理甚難思</l><l>自非笑却微易解</l>
+<lb ed="X" n="0953a15"/><l>今依聖典舉一隅</l><l>願通佛道流三世</l></lg>
+<lb ed="X" n="0953a16"/><cb:juan fun="close" n="1"><cb:jhead>判比量論一卷　釋元曉述</cb:jhead></cb:juan></cb:div>
+<lb ed="X" n="0953a17"/><cb:div type="w"><p xml:id="pX53p0953a1701">咸亨二年歲在辛未七月十六日　住行寺
+<lb ed="X" n="0953a18"/>着筆租訖</p></cb:div>
+<lb ed="X" n="0953a19"/>
+<lb ed="X" n="0953a20"/><cb:div type="w"><cb:mulu type="附文" level="1">新出斷簡</cb:mulu><head><note n="0953013" resp="Xuzangjing" place="foot text" type="orig">新出斷簡ハ韓国，仏教学同人会編，元曉全集（1973年發行）ニヨル。<g ref="#CB18834"/></note>新出斷簡</head>
+<lb ed="X" n="0953a21"/>
+<lb ed="X" n="0953a22"/><p xml:id="pX53p0953a2201">何所言類同相異同異二義耳相乖違而言言體
+<lb ed="X" n="0953a23"/>一必不應理判云此中有九比量於中前六破彼
+<lb ed="X" n="0953a24"/>本宗後之三量破眾賢救謂和合時應非眼等異
+<pb ed="X" xml:id="X53.0860.0953b" n="0953b"/>
+<lb ed="X" n="0953b01"/>前眼等故猶如色聲等又類應非同與異體一故
+<lb ed="X" n="0953b02"/>猶如異相相亦非異與同一體故故猶如同類遠
+<lb ed="X" n="0953b03"/>自比量故不應理此中或有□破大乘謂大乘色
+<lb ed="X" n="0953b04"/>處應非假色是所知故如聲處等餘處亦爾若大
+<lb ed="X" n="0953b05"/>乘宗許有假色則不能離如是等過然此大乘亦
+<lb ed="X" n="0953b06"/>不許有如言假色說有實色故彼量便立己成蘊
+<lb ed="X" n="0953b07"/>界處等一切法門皆於□言假施設故　十量。</p></cb:div>
+<lb ed="X" n="0953b08"/>
+<lb ed="X" n="0953b09"/>
+<lb ed="X" n="0953b10"/><lb ed="R095" n="0741b01"/><cb:div type="w"><cb:mulu type="附文" level="1">判比量論䟦文</cb:mulu><head>判比量論䟦文</head>
+<lb ed="X" n="0953b11"/><lb ed="R095" n="0741b02"/>
+<lb ed="X" n="0953b12"/><lb ed="R095" n="0741b03"/><lg xml:id="lgX53p0953b1201"><l>證成道理甚難思</l><l>自非笑却微易解</l>
+<lb ed="X" n="0953b13"/><lb ed="R095" n="0741b04"/><l>今依聖典舉一隅</l><l>願通佛道流三世</l></lg></cb:div>
+<lb ed="X" n="0953b14"/>
+<lb ed="X" n="0953b15"/>
+<lb ed="X" n="0953b16"/><lb ed="R095" n="0741b06"/><cb:div type="w"><p xml:id="pX53p0953b1601">判比量論一局</p><p xml:id="pX53p0953b1607" rend="margin-left:5em;inline">釋　元曉　述</p></cb:div>
+<lb ed="X" n="0953b17"/><lb ed="R095" n="0741b07"/>
+<lb ed="X" n="0953b18"/><lb ed="R095" n="0741b08"/>
+<lb ed="X" n="0953b19"/><lb ed="R095" n="0741b09"/><cb:div type="w"><p xml:id="pX53p0953b1901" rend="margin-left:1em">咸亨二年歲在辛未七月十六日住行名寺著筆
+<lb ed="X" n="0953b20"/><lb ed="R095" n="0741b10"/>租訖</p></cb:div>
+</body></text></TEI>
