@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T18n0880">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0880 瑜伽金剛頂經釋字母品</title>
+			<author>唐 不空譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.7 $<date>$Date: 2009/04/23 07:59:45 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 07:59:45 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 18, No. 880 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="sa-Sidd">Sanskrit-Siddam</language>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-05T17:54:07">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T18n0880.xml,v $
+Revision 1.7  2009/04/23 07:59:45  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.6  2006/04/12 21:55:25  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.4  2004/10/17 11:34:27  saywhat
+段落前加入圈點
+
+Revision 1.3  2004/04/20 08:38:35  maha
+「版本日期」標記修訂
+
+Revision 1.2  2004/04/20 03:25:20  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.1.1.1  2003/05/05 04:09:06  ray
+recover cvs
+
+Revision 1.26  2002/12/04 01:47:39  saywhat
+校勘插入處理
+
+Revision 1.25  2002/11/04 10:44:23  ray
+tei.2 => TEI.2
+
+Revision 1.24  2002/07/29 09:44:54  vinking
+modified lang
+
+Revision 1.23  2002/04/08 08:58:21  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.22  2001/08/03 03:14:21  saywhat
+<tt type="inline"> → <tt rend="inline">
+
+Revision 1.21  2001/07/27 06:37:26  ray
+add keyword $Revision, $Date, $Log
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0338b11" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0338b12" ed="T"/><cb:docNumber>No. 880</cb:docNumber><cb:div type="jing">
+<lb n="0338b13" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0338003" resp="Taisho" place="foot text" type="orig">【原】麗本，【甲】黃蘗板淨嚴等校訂加筆本塚本賢曉氏藏，【乙】縮冊大藏經</note>瑜伽金剛頂經釋字母品一卷</cb:jhead></cb:juan>
+<lb n="0338b14" ed="T"/>
+<lb n="0338b15" ed="T"/><byline cb:type="Translator"><note n="0338004" resp="Taisho" place="foot text" type="orig">（（開府…寺））三十七字＝（（唐北天竺））四字【明】【甲】【乙】</note><app cb:word-count="37" n="0338004"><lem wit="【大】">開府儀同三司特進試鴻臚卿肅國
+<lb n="0338b16" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒
+<lb n="0338b17" ed="T"/>正號大廣智大興善寺</lem><rdg resp="Taisho" wit="【明】【甲】【乙】">唐北天竺</rdg></app>三藏沙<note n="0338005" resp="Taisho" place="foot text" type="orig">門＋（大廣智）【明】【甲】【乙】</note><app n="0338005"><lem wit="【大】">門</lem><rdg resp="Taisho" wit="【明】【甲】【乙】">門大廣智</rdg></app>
+<lb n="0338b18" ed="T"/>不空奉　詔譯</byline>
+<lb n="0338b19" ed="T"/><p xml:id="pT18p0338b1901"><note n="0338006" resp="Taisho" place="foot text" type="orig"><g ref="#SD-CFC5"/>字上甲乙兩本俱有稱字，以下總同</note><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh"><note n="0338007" resp="Taisho" place="foot text" type="orig">阿上＝遏【明】</note><note n="0338007" resp="CBETA" type="mod"><!--CBETA todo type: a-->阿上＝遏【明】</note><cb:yin><cb:zi>阿</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字<note n="0338008" resp="Taisho" place="foot text" type="orig">門＝時【甲】【乙】</note><app n="0338008"><lem wit="【大】">門</lem><rdg resp="Taisho" wit="【甲】【乙】">時</rdg></app>一切法本不生故。</p>
+<lb n="0338b20" ed="T"/><p xml:id="pT18p0338b2001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC6"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>阿</cb:zi><cb:sg>引<note n="0338009" resp="Taisho" place="foot text" type="orig">〔去〕－【明】</note><app n="0338009"><lem wit="【大】">去</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt>字門一切法寂靜故。</p>
+<lb n="0338b21" ed="T"/><p xml:id="pT18p0338b2101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC7"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338010" resp="Taisho" place="foot text" type="orig">伊上＝壹【明】</note><note n="0338010" resp="CBETA" type="mod"><!--CBETA todo type: a-->伊上＝壹【明】</note>伊</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法根不可得故。</p>
+<lb n="0338b22" ed="T"/><p xml:id="pT18p0338b2201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC8"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338011" resp="Taisho" place="foot text" type="orig">伊引去＝翳引【明】</note><note n="0338011" resp="CBETA" type="mod"><!--CBETA todo type: a-->伊引去＝翳引【明】</note>伊</cb:zi><cb:sg>引去</cb:sg></cb:yin></cb:t></cb:tt>字門一切法災禍不可得故。</p>
+<lb n="0338b23" ed="T"/><p xml:id="pT18p0338b2301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-D1F3"/></cb:t><cb:t xml:lang="zh"><note n="0338012" resp="Taisho" place="foot text" type="orig">塢＝嗢【明】</note><app n="0338012"><lem wit="【大】">塢</lem><rdg resp="Taisho" wit="【明】">嗢</rdg></app></cb:t></cb:tt>字門一切法譬喻不可得故。</p>
+<lb n="0338b24" ed="T"/><p xml:id="pT18p0338b2401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>污</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>字門一切法損減不可得故。</p>
+<lb n="0338b25" ed="T"/><p xml:id="pT18p0338b2501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCB"/></cb:t><cb:t xml:lang="zh">哩</cb:t></cb:tt>字門一切法神通不可得故。</p>
+<lb n="0338b26" ed="T"/><p xml:id="pT18p0338b2601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338013" resp="Taisho" place="foot text" type="orig">哩引＝梨【明】</note><note n="0338013" resp="CBETA" type="mod"><!--CBETA todo type: a-->哩引＝梨【明】</note>哩</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>字門一切法類例不可得故。</p>
+<lb n="0338b27" ed="T"/><p xml:id="pT18p0338b2701"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCD"/></cb:t><cb:t xml:lang="zh"><note n="0338014" resp="Taisho" place="foot text" type="orig"><g ref="#CB03270"/>＝魯【明】</note><app n="0338014"><lem wit="【大】"><g ref="#CB03270"/></lem><rdg resp="Taisho" wit="【明】">魯</rdg></app></cb:t></cb:tt>字門一切法染不可得故。</p>
+<lb n="0338b28" ed="T"/><p xml:id="pT18p0338b2801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCE"/></cb:t><cb:t xml:lang="zh"><note n="0338015" resp="Taisho" place="foot text" type="orig">𡃖＝盧【明】，嚧【甲】【乙】</note><note n="0338015" resp="CBETA" type="mod">𡃖＝盧【明】，＝嚧【甲】【乙】</note><app n="0338015"><lem wit="【大】">𡃖</lem><rdg resp="Taisho" wit="【明】">盧</rdg><rdg resp="Taisho" wit="【甲】【乙】">嚧</rdg></app></cb:t></cb:tt>字門一切法沈<note n="0338016" resp="Taisho" place="foot text" type="orig">〔沒〕－【明】</note><app n="0338016"><lem wit="【大】">沒</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>不可得故。</p>
+<lb n="0338b29" ed="T"/><p xml:id="pT18p0338b2901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCF"/></cb:t><cb:t xml:lang="zh"><note n="0338017" resp="Taisho" place="foot text" type="orig">曀＝伊【明】</note><app n="0338017"><lem wit="【大】">曀</lem><rdg resp="Taisho" wit="【明】">伊</rdg></app></cb:t></cb:tt>字門一切法求不可得故。</p>
+<pb n="0338c" xml:id="T18.0880.0338c" ed="T"/>
+<lb n="0338c01" ed="T"/><p xml:id="pT18p0338c0101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFD0"/></cb:t><cb:t xml:lang="zh"><note n="0338018" resp="Taisho" place="foot text" type="orig">愛＋（引）夾註【明】【甲】【乙】</note><app n="0338018"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【明】【甲】【乙】">愛<note place="inline">引</note></rdg></app></cb:t></cb:tt>字門一切法自在不可得故。</p>
+<lb n="0338c02" ed="T"/><p xml:id="pT18p0338c0201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFD1"/></cb:t><cb:t xml:lang="zh"><note n="0338019" resp="Taisho" place="foot text" type="orig">污＝鄔【明】</note><app n="0338019"><lem wit="【大】">污</lem><rdg resp="Taisho" wit="【明】">鄔</rdg></app></cb:t></cb:tt>字門一切法瀑流不可得故。</p>
+<lb n="0338c03" ed="T"/><p xml:id="pT18p0338c0301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFD2"/></cb:t><cb:t xml:lang="zh"><note n="0338020" resp="Taisho" place="foot text" type="orig">奧＋（引）夾註【明】，（去引）【甲】【乙】</note><app n="0338020"><lem wit="【大】">奧</lem><rdg resp="Taisho" wit="【明】">奧<note place="inline">引</note></rdg><rdg resp="Taisho" wit="【甲】【乙】">奧<!--CBETA todo type: None-->去引</rdg></app></cb:t></cb:tt>字門一切法化生不可得故。</p>
+<lb n="0338c04" ed="T"/><p xml:id="pT18p0338c0401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFD3"/></cb:t><cb:t xml:lang="zh">暗</cb:t></cb:tt>字門一切法邊際不可得故。</p>
+<lb n="0338c05" ed="T"/><p xml:id="pT18p0338c0501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFD4"/></cb:t><cb:t xml:lang="zh">惡</cb:t></cb:tt>字門一切法遠離不可得故。</p>
+<lb n="0338c06" ed="T"/><p xml:id="pT18p0338c0601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338021" resp="Taisho" place="foot text" type="orig">迦上＝葛【明】</note><note n="0338021" resp="CBETA" type="mod"><!--CBETA todo type: a-->迦上＝葛【明】</note>迦</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法離作<note n="0338022" resp="Taisho" place="foot text" type="orig">業＋（無所得）【甲】【乙】</note><app n="0338022"><lem wit="【大】">業</lem><rdg resp="Taisho" wit="【甲】【乙】">業無所得</rdg></app>故。</p>
+<lb n="0338c07" ed="T"/><p xml:id="pT18p0338c0701"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A44C"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338023" resp="Taisho" place="foot text" type="orig">佉上＝渴【明】</note><note n="0338023" resp="CBETA" type="mod"><!--CBETA todo type: a-->佉上＝渴【明】</note>佉</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法等虛空不可得故。</p>
+<lb n="0338c08" ed="T"/><p xml:id="pT18p0338c0801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338024" resp="Taisho" place="foot text" type="orig">誐上＝𠱥五割切【明】</note><note n="0338024" resp="CBETA" type="mod"><!--CBETA todo type: a-->誐上＝𠱥五割切【明】</note>誐</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法行不可得故。</p>
+<lb n="0338c09" ed="T"/><p xml:id="pT18p0338c0901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A464"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338025" resp="Taisho" place="foot text" type="orig">伽去引＝竭【明】</note><note n="0338025" resp="CBETA" type="mod"><!--CBETA todo type: a-->伽去引＝竭【明】</note>伽</cb:zi><cb:sg>去引</cb:sg></cb:yin></cb:t></cb:tt>字門一切法一合不可得故。</p>
+<lb n="0338c10" ed="T"/><p xml:id="pT18p0338c1001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A470"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338026" resp="Taisho" place="foot text" type="orig">仰鼻呼＝誐迎可切【明】，仰鼻聲呼【甲】【乙】</note><note n="0338026" resp="CBETA" type="mod"><!--CBETA todo type: a-->仰鼻呼＝誐迎可切【明】，＝仰鼻聲呼【甲】【乙】</note>仰</cb:zi><cb:sg>鼻呼</cb:sg></cb:yin></cb:t></cb:tt>字門一切法支分不可得故。</p>
+<lb n="0338c11" ed="T"/><p xml:id="pT18p0338c1101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47C"/></cb:t><cb:t xml:lang="zh"><note n="0338027" resp="Taisho" place="foot text" type="orig">左＝援左末切【明】</note><app n="0338027"><lem wit="【大】">左</lem><rdg resp="Taisho" wit="【明】">援左末切</rdg></app></cb:t></cb:tt>字門一切法<note n="0338028" resp="Taisho" place="foot text" type="orig">離一切＝一切離【明】</note><app n="0338028"><lem wit="【大】">離一切</lem><rdg resp="Taisho" wit="【明】">一切離</rdg></app>遷變故。</p>
+<lb n="0338c12" ed="T"/><p xml:id="pT18p0338c1201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4AA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338029" resp="Taisho" place="foot text" type="orig">磋上＝攃七曷切【明】</note><note n="0338029" resp="CBETA" type="mod"><!--CBETA todo type: a-->磋上＝攃七曷切【明】</note>磋</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法影像不可得故。</p>
+<lb n="0338c13" ed="T"/><p xml:id="pT18p0338c1301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4B6"/></cb:t><cb:t xml:lang="zh"><note n="0338030" resp="Taisho" place="foot text" type="orig">惹＋（仁左切）夾註【明】</note><app n="0338030"><lem wit="【大】">惹</lem><rdg resp="Taisho" wit="【明】">惹<note place="inline">仁左切</note></rdg></app></cb:t></cb:tt>字門一切法生不可得故。</p>
+<lb n="0338c14" ed="T"/><p xml:id="pT18p0338c1401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4C2"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338031" resp="Taisho" place="foot text" type="orig">酇去＝嵳昨何切【明】，酇上【甲】【乙】</note><note n="0338031" resp="CBETA" type="mod"><!--CBETA todo type: a-->酇去＝嵳昨何切【明】，＝酇上【甲】【乙】</note>酇</cb:zi><cb:sg>去</cb:sg></cb:yin></cb:t></cb:tt>字門一切法戰敵不可得故。</p>
+<lb n="0338c15" ed="T"/><p xml:id="pT18p0338c1501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4CE"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338032" resp="Taisho" place="foot text" type="orig">穰上＝倪倪也切【明】，孃上【甲】【乙】</note><note n="0338032" resp="CBETA" type="mod"><!--CBETA todo type: a-->穰上＝倪倪也切【明】，＝孃上【甲】【乙】</note>穰</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法智不可得故。</p>
+<lb n="0338c16" ed="T"/><p xml:id="pT18p0338c1601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4DA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338033" resp="Taisho" place="foot text" type="orig">吒上＝哳陟轄切【明】</note><note n="0338033" resp="CBETA" type="mod"><!--CBETA todo type: a-->吒上＝哳陟轄切【明】</note>吒</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法慢不可得故。</p>
+<lb n="0338c17" ed="T"/><p xml:id="pT18p0338c1701"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4E6"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338034" resp="Taisho" place="foot text" type="orig">咤上＝詑丑轄切【明】</note><note n="0338034" resp="CBETA" type="mod"><!--CBETA todo type: a-->咤上＝詑丑轄切【明】</note>咤</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法長養不可得故。</p>
+<lb n="0338c18" ed="T"/><p xml:id="pT18p0338c1801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4F2"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338035" resp="Taisho" place="foot text" type="orig">拏上＝痆尼轄切【明】</note><note n="0338035" resp="CBETA" type="mod"><!--CBETA todo type: a-->拏上＝痆尼轄切【明】</note>拏</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法怨<note n="0338036" resp="Taisho" place="foot text" type="orig">敵＝對【甲】【乙】</note><app n="0338036"><lem wit="【大】">敵</lem><rdg resp="Taisho" wit="【甲】【乙】">對</rdg></app>不可得故。</p>
+<lb n="0338c19" ed="T"/><p xml:id="pT18p0338c1901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4FE"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>荼</cb:zi><cb:sg><note n="0338037" resp="Taisho" place="foot text" type="orig">〔去〕－【明】</note><app n="0338037"><lem wit="【大】">去</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt>字門一切法執持不可得故。</p>
+<lb n="0338c20" ed="T"/><p xml:id="pT18p0338c2001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A54B"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>拏</cb:zi><cb:sg type="fangie"><note n="0338038" resp="Taisho" place="foot text" type="orig">〔尼爽反鼻呼〕－【明】</note><note n="0338038" resp="CBETA" type="mod"><!--CBETA todo type: a-->〔尼爽反鼻呼〕－【明】</note>尼爽反</cb:sg><cb:sg>鼻呼</cb:sg></cb:yin></cb:t></cb:tt>字門一切法諍不可得故。</p>
+<lb n="0338c21" ed="T"/><p xml:id="pT18p0338c2101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338039" resp="Taisho" place="foot text" type="orig">多上＝怛【明】</note><note n="0338039" resp="CBETA" type="mod"><!--CBETA todo type: a-->多上＝怛【明】</note>多</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法如如不可得故。</p>
+<lb n="0338c22" ed="T"/><p xml:id="pT18p0338c2201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A563"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338040" resp="Taisho" place="foot text" type="orig">他上＝撻他達切【明】</note><note n="0338040" resp="CBETA" type="mod"><!--CBETA todo type: a-->他上＝撻他達切【明】</note>他</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法住處不可得故。</p>
+<lb n="0338c23" ed="T"/><p xml:id="pT18p0338c2301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A56F"/></cb:t><cb:t xml:lang="zh"><note n="0338041" resp="Taisho" place="foot text" type="orig">娜＝捺【明】</note><app n="0338041"><lem wit="【大】">娜</lem><rdg resp="Taisho" wit="【明】">捺</rdg></app></cb:t></cb:tt>字門一切法施不可得故。</p>
+<lb n="0338c24" ed="T"/><p xml:id="pT18p0338c2401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A57B"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0338042" resp="Taisho" place="foot text" type="orig">馱去＝達【明】</note><note n="0338042" resp="CBETA" type="mod"><!--CBETA todo type: a-->馱去＝達【明】</note>馱</cb:zi><cb:sg>去</cb:sg></cb:yin></cb:t></cb:tt>字門一切<note n="0338043" resp="Taisho" place="foot text" type="orig">（法）＋法【明】</note><app n="0338043"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【明】">法法</rdg></app>界不可得故。</p>
+<pb n="0339a" xml:id="T18.0880.0339a" ed="T"/>
+<lb n="0339a01" ed="T"/><p xml:id="pT18p0339a0101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh"><note n="0339001" resp="Taisho" place="foot text" type="orig">曩＝那【明】</note><app n="0339001"><lem wit="【大】">曩</lem><rdg resp="Taisho" wit="【明】">那</rdg></app></cb:t></cb:tt>字門一切法名不可得故。</p>
+<lb n="0339a02" ed="T"/><p xml:id="pT18p0339a0201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B5"/></cb:t><cb:t xml:lang="zh"><note n="0339002" resp="Taisho" place="foot text" type="orig">跛＝鉢【明】</note><app n="0339002"><lem wit="【大】">跛</lem><rdg resp="Taisho" wit="【明】">鉢</rdg></app></cb:t></cb:tt>字門一切法第一義諦不可得故。</p>
+<lb n="0339a03" ed="T"/><p xml:id="pT18p0339a0301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5C1"/></cb:t><cb:t xml:lang="zh"><note n="0339003" resp="Taisho" place="foot text" type="orig">頗＝發【明】</note><app n="0339003"><lem wit="【大】">頗</lem><rdg resp="Taisho" wit="【明】">發</rdg></app></cb:t></cb:tt>字門一切法不堅如聚沫故。</p>
+<lb n="0339a04" ed="T"/><p xml:id="pT18p0339a0401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5CD"/></cb:t><cb:t xml:lang="zh"><note n="0339004" resp="Taisho" place="foot text" type="orig">麼＝末【明】</note><app n="0339004"><lem wit="【大】">麼</lem><rdg resp="Taisho" wit="【明】">末</rdg></app></cb:t></cb:tt>字門一切法縛不可得故。</p>
+<lb n="0339a05" ed="T"/><p xml:id="pT18p0339a0501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5D9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>婆</cb:zi><cb:sg><note n="0339005" resp="Taisho" place="foot text" type="orig">〔去重〕－【明】，〔去〕－【甲】【乙】</note><app n="0339005"><lem wit="【大】">去重</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【甲】【乙】">重</rdg></app></cb:sg></cb:yin></cb:t></cb:tt>字門一切<note n="0339006" resp="Taisho" place="foot text" type="orig">法＋（一切）【甲】</note><app n="0339006"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【甲】">法一切</rdg></app>有不可得故。</p>
+<lb n="0339a06" ed="T"/><p xml:id="pT18p0339a0601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh"><note n="0339007" resp="Taisho" place="foot text" type="orig">莽＝摩【明】</note><app n="0339007"><lem wit="【大】">莽</lem><rdg resp="Taisho" wit="【明】">摩</rdg></app></cb:t></cb:tt>字門一切法吾我不可得故。</p>
+<lb n="0339a07" ed="T"/><p xml:id="pT18p0339a0701"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh"><note n="0339008" resp="Taisho" place="foot text" type="orig">野＝耶【明】【甲】【乙】</note><app n="0339008"><lem wit="【大】">野</lem><rdg resp="Taisho" wit="【明】【甲】【乙】">耶</rdg></app></cb:t></cb:tt>字門一切<note n="0339009" resp="Taisho" place="foot text" type="orig">法＋（一切）【甲】</note><app n="0339009"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【甲】">法一切</rdg></app>乘不可得故。</p>
+<lb n="0339a08" ed="T"/><p xml:id="pT18p0339a0801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><note n="0339010" resp="Taisho" place="foot text" type="orig">囉＋（歷加切）【明】</note><app n="0339010"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【明】">囉歷加切</rdg></app></cb:t></cb:tt>字門一切法離諸塵染故。</p>
+<lb n="0339a09" ed="T"/><p xml:id="pT18p0339a0901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64A"/></cb:t><cb:t xml:lang="zh"><note n="0339011" resp="Taisho" place="foot text" type="orig">邏＝羅【明】，邏上【甲】【乙】</note><note n="0339011" resp="CBETA" type="mod">邏＝羅【明】，＝邏上【甲】【乙】</note><app n="0339011"><lem wit="【大】">邏</lem><rdg resp="Taisho" wit="【明】">羅</rdg><rdg resp="Taisho" wit="【甲】【乙】">邏上</rdg></app></cb:t></cb:tt>字門一切法相不可得故。</p>
+<lb n="0339a10" ed="T"/><p xml:id="pT18p0339a1001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt>字門一切法語言道斷故。</p>
+<lb n="0339a11" ed="T"/><p xml:id="pT18p0339a1101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A662"/></cb:t><cb:t xml:lang="zh"><note n="0339012" resp="Taisho" place="foot text" type="orig">捨＝沒【明】</note><app n="0339012"><lem wit="【大】">捨</lem><rdg resp="Taisho" wit="【明】">沒</rdg></app></cb:t></cb:tt>字門一切法本性寂故。</p>
+<lb n="0339a12" ed="T"/><p xml:id="pT18p0339a1201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A66E"/></cb:t><cb:t xml:lang="zh"><note n="0339013" resp="Taisho" place="foot text" type="orig">灑＝沙【明】</note><app n="0339013"><lem wit="【大】">灑</lem><rdg resp="Taisho" wit="【明】">沙</rdg></app></cb:t></cb:tt>字門一切法性鈍故。</p>
+<lb n="0339a13" ed="T"/><p xml:id="pT18p0339a1301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0339014" resp="Taisho" place="foot text" type="orig">娑上＝薩【明】</note><note n="0339014" resp="CBETA" type="mod"><!--CBETA todo type: a-->娑上＝薩【明】</note>娑</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt>字門一切法一切諦不可得故。</p>
+<lb n="0339a14" ed="T"/><p xml:id="pT18p0339a1401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A8"/></cb:t><cb:t xml:lang="zh"><note n="0339015" resp="Taisho" place="foot text" type="orig">賀＝訶【明】</note><app n="0339015"><lem wit="【大】">賀</lem><rdg resp="Taisho" wit="【明】">訶</rdg></app></cb:t></cb:tt>字門一切法因不可得故。</p>
+<lb n="0339a15" ed="T"/><p xml:id="pT18p0339a1501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6B4"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0339016" resp="Taisho" place="foot text" type="orig">乞灑二合＝剎【明】</note><note n="0339016" resp="CBETA" type="mod"><!--CBETA todo type: a-->乞灑二合＝剎【明】</note>乞灑</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>字門一切法盡不可得故。</p>
+<lb n="0339a16" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>瑜伽金剛頂經釋字母品<note n="0339017" resp="Taisho" place="foot text" type="orig">〔一卷〕－【明】</note><app n="0339017"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app><note n="0339018" resp="Taisho" place="foot text" type="orig">甲本奧朱書曰，（貞享元甲子年九月二十一早旦校之點之梵字悉錯於筆畫對皆非正本震旦一國密教少緣故爾之乎，是為今日授于諸徒也，河陽延命密寺傳密沙門淨嚴四十六載，元祿十六年二月十六日以淨嚴和上之本再校了，尊敬，寶永三丙戌之春得此密軌戊子之秋一校了，苾芻性寂），但自元祿至尊敬墨書，乙本卷末亦載自始至淨嚴四十六載</note></cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

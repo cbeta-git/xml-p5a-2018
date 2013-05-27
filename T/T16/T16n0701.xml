@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T16n0701">
+<teiHeader>
+        <fileDesc>
+                <titleStmt>
+                        <title>Taisho Tripitaka, Electronic version, No. 0701 佛說溫室洗浴眾僧經</title>
+                        <author>後漢 安世高譯</author>
+                        <respStmt>
+                                <resp>Electronic Version by</resp>
+                                <name>CBETA</name>
+                        </respStmt>
+                </titleStmt>
+        <editionStmt>
+                <edition>$Revision: 1.13 $<date>$Date: 2012/08/27 03:15:09 $</date>新式標點版</edition>
+        </editionStmt>
+        <extent>1卷</extent>
+        <publicationStmt>
+                <distributor>
+                        <name>中華電子佛典協會 (CBETA)</name>
+                        <address>
+                                <addrLine>service@cbeta.org</addrLine>
+                        </address>
+                </distributor>
+                <availability>
+                        <p>Available for non-commercial use when distributed with this header intact.</p>
+                </availability>
+                <date>$Date: 2012/08/27 03:15:09 $</date>
+        </publicationStmt>
+        <sourceDesc>
+                <bibl>Taisho Tripitaka Vol. 16, No. 701 </bibl>
+        </sourceDesc>
+</fileDesc>
+<encodingDesc>
+        <projectDesc>
+                <p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by Mr. Christian Wittern, Text as provided by Anonymous, USA, Punctuated text as provided by San Bao Di Zi</p>
+                <p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，維習安大德提供，北美某大德提供，三寶弟子提供新式標點</p>
+        </projectDesc>
+</encodingDesc>
+<profileDesc>
+                <langUsage>
+                        <language ident="en">English</language>
+                        <language ident="zh">Chinese</language>
+                </langUsage>
+        </profileDesc>
+        <revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+        <change when="1999-10-12T09:45:17">CW (ed.) Created initial TEI XML version with BASICX.BAT (99/10/12)</change>
+<!--
+$Log: T16n0701.xml,v $
+Revision 1.13  2012/08/27 03:15:09  maha
+修訂新標小圓點及著重號
+
+Revision 1.12  2009/05/24 13:31:51  saywhat
+[0803013] <note mod> delete【麗-CB】
+
+Revision 1.11  2009/04/23 07:59:10  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.10  2009/02/26 10:30:52  saywhat
+id="pTp => id="pT16p
+
+Revision 1.9  2007/12/10 05:03:46  saywhat
+新式標點版
+
+Revision 1.8  2007/12/07 05:06:05  saywhat
+TK比對修訂：p0803a27 [忠>中]
+
+Revision 1.7  2006/04/12 21:55:13  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.5  2004/10/12 15:02:18  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/09/13 09:10:10  saywhat
+<trailer> => <juan fun="close"><jhead>
+
+Revision 1.3  2004/04/20 08:38:22  maha
+「版本日期」標記修訂
+
+Revision 1.2  2003/06/23 05:06:45  moved
+＊校勘插入 xml 作業
+
+Revision 1.1.1.1  2003/05/05 04:08:59  ray
+recover cvs
+
+Revision 1.17  2002/12/05 05:48:50  saywhat
+校勘插入處理
+
+Revision 1.16  2002/11/19 08:47:00  saywhat
+modified footnote
+
+Revision 1.15  2002/11/04 10:42:52  ray
+tei.2 => TEI.2
+
+Revision 1.14  2002/10/07 13:08:04  moved
+modified
+
+Revision 1.13  2002/07/29 09:55:10  vinking
+modified lang
+
+Revision 1.12  2002/04/04 08:42:09  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.11  2001/07/27 07:11:57  ray
+去除多餘的 <author>
+
+Revision 1.10  2001/07/24 06:51:47  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.9  2001/05/25 08:56:52  ray
+經號統一為四碼
+
+Revision 1.8  2001/03/30 05:45:23  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.7  2001/03/25 09:05:19  ray
+add <milestone>
+
+Revision 1.6  2001/02/07 06:51:38  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.5  2001/02/03 07:41:15  chris
+Added keywords $Revision: 1.13 $, $Date: 2012/08/27 03:15:09 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0802c02" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0802c03" ed="T"/>
+<lb n="0802c04" ed="T"/><cb:docNumber>No. 701</cb:docNumber>
+<lb n="0802c05" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><title><note n="0802007" resp="Taisho" type="orig" place="foot text">〔佛說〕－【宋】【元】【宮】＊</note><app n="0802007"><lem wit="【大】">佛說</lem><rdg resp="Taisho" wit="【宋】【元】【宮】"><space quantity="0"/></rdg></app>溫室洗浴眾僧經</title></cb:jhead></cb:juan>
+<lb n="0802c06" ed="T"/>
+<lb n="0802c07" ed="T"/><byline cb:type="Translator">後漢安息三藏安世高譯</byline>
+<lb n="0802c08" ed="T"/><cb:div type="jing"><p xml:id="pT16p0802c0801">阿難曰：「吾從佛聞如是：</p><p xml:id="pT16p0802c0810" rend="inline">「一時佛在摩<note n="0802008" resp="Taisho" type="orig" place="foot text">竭＋（提）【三】【宮】</note><note n="0802008" resp="CBETA" type="mod">竭＋（提）【宋】【元】【明】【宮】</note><app n="0802008"><lem wit="【大】">竭</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">竭提</rdg></app>國
+<lb n="0802c09" ed="T"/>因沙崛山中，王舍城內。有大長者奈女之子，
+<lb n="0802c10" ed="T"/>名曰耆域，為大醫王，療治眾病——少小好學，
+<lb n="0802c11" ed="T"/>才藝過通；智達五經、天文地理——其所治者，莫
+<lb n="0802c12" ed="T"/>不除愈；死者更生，喪車得還。其德甚多，不
+<lb n="0802c13" ed="T"/>可具陳；八國宗仰，見者歡喜。</p>
+<lb n="0802c14" ed="T"/><p xml:id="pT16p0802c1401">「於是耆域夜欻生念：『明至佛所，當問我疑。』
+<lb n="0802c15" ed="T"/>晨旦，勅家大小眷屬，嚴至佛所。到精舍門，見
+<lb n="0802c16" ed="T"/>佛炳然，光照天地。眾坐四輩，數千萬人，佛
+<lb n="0802c17" ed="T"/>為說法，一心靜聽。耆域、眷屬下車直進，為
+<lb n="0802c18" ed="T"/>佛作禮，各坐一面。</p>
+<lb n="0802c19" ed="T"/><p xml:id="pT16p0802c1901">「佛慰勞曰：『善來，醫王！欲有所問，莫得疑難！』</p>
+<lb n="0802c20" ed="T"/><p xml:id="pT16p0802c2001">「耆域長跪白佛言：『雖得生世，為人疎野，隨
+<lb n="0802c21" ed="T"/>俗眾流，未曾為福。今欲請佛及<note n="0802009" resp="Taisho" type="orig" place="foot text">〔諸眾〕－【三】【宮】</note><note n="0802009" resp="CBETA" type="mod">〔諸眾〕－【宋】【元】【明】【宮】</note><app n="0802009"><lem wit="【大】">諸眾</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>僧、菩
+<lb n="0802c22" ed="T"/>薩大士，入溫室澡浴。願令眾生長夜清淨，穢
+<lb n="0802c23" ed="T"/>垢消除，不遭眾患。唯佛聖旨，不忽所願！』</p>
+<lb n="0802c24" ed="T"/><p xml:id="pT16p0802c2401">「佛告醫王：『善哉，妙意！治眾人病，皆蒙除愈，
+<lb n="0802c25" ed="T"/>遠近慶賴，莫<note n="0802010" resp="Taisho" type="orig" place="foot text">不＋（復）【三】</note><note n="0802010" resp="CBETA" type="mod">不＋（復）【宋】【元】【明】</note><app n="0802010"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【宋】【元】【明】">不復</rdg></app>歡喜。今<note n="0802011" resp="Taisho" type="orig" place="foot text">〔復〕－【三】</note><note n="0802011" resp="CBETA" type="mod">〔復〕－【宋】【元】【明】</note><app n="0802011"><lem wit="【大】">復</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>請佛及<note n="0802012" resp="Taisho" type="orig" place="foot text">〔諸眾〕－【宮】</note><app n="0802012"><lem wit="【大】">諸眾</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>
+<lb n="0802c26" ed="T"/>僧，<note n="0802013" resp="Taisho" type="orig" place="foot text">〔入溫室〕－【宮】</note><app n="0802013"><lem wit="【大】">入<note n="0802014" resp="Taisho" type="orig" place="foot text">〔溫〕－【三】</note><note n="0802014" resp="CBETA" type="mod">〔溫〕－【宋】【元】【明】</note><app n="0802014"><lem wit="【大】">溫</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>室</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>洗浴，願及十方眾藥療<note n="0802015" resp="Taisho" type="orig" place="foot text">病＝疾【三】【宮】</note><note n="0802015" resp="CBETA" type="mod">病＝疾【宋】【元】【明】【宮】</note><app n="0802015"><lem wit="【大】">病</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">疾</rdg></app>，洗
+<lb n="0802c27" ed="T"/>浴除垢，其福無量。一心<note n="0802016" resp="Taisho" type="orig" place="foot text">諦聽＝聽法【三】【宮】</note><note n="0802016" resp="CBETA" type="mod">諦聽＝聽法【宋】【元】【明】【宮】</note><app n="0802016"><lem wit="【大】">諦聽</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">聽法</rdg></app>，吾當為汝先
+<lb n="0802c28" ed="T"/>說澡浴眾僧<note n="0802017" resp="Taisho" type="orig" place="foot text">反＝及【明】</note><app n="0802017"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【明】">及</rdg></app>報之福！』</p><p xml:id="pT16p0802c2810" rend="inline">「佛告耆域：『澡浴之
+<lb n="0802c29" ed="T"/>法，當用七物，除去七病，得七福報。何謂七
+<pb n="0803a" ed="T" xml:id="T16.0701.0803a"/>
+<lb n="0803a01" ed="T"/>物？一者、然火；二者、淨水；三者、澡豆；四者、
+<lb n="0803a02" ed="T"/><note n="0803001" resp="Taisho" type="orig" place="foot text">蘇＝酥【元】【明】</note><app n="0803001"><lem wit="【大】">蘇</lem><rdg resp="Taisho" wit="【元】【明】">酥</rdg></app>膏；五者、淳灰；六者、楊枝；七者、內衣。此
+<lb n="0803a03" ed="T"/>是澡浴之法。何謂除<note n="0803002" resp="Taisho" type="orig" place="foot text">〔去〕－【三】【宮】</note><note n="0803002" resp="CBETA" type="mod">〔去〕－【宋】【元】【明】【宮】</note><app n="0803002"><lem wit="【大】">去</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>七病？一者、四大安
+<lb n="0803a04" ed="T"/>隱；二者、除風病；三者、除濕痺；四者、除寒氷；
+<lb n="0803a05" ed="T"/>五者、除熱氣；六者、除垢穢；七者、身體輕便，眼
+<lb n="0803a06" ed="T"/>目精明。是為除<anchor xml:id="fxT16p0803a01"/>去眾僧七病。如是供養，便
+<lb n="0803a07" ed="T"/>得七福。何謂七福？一者、四大無病，所生常
+<lb n="0803a08" ed="T"/>安，勇武丁健，眾所敬仰；二者、所生清淨，面
+<lb n="0803a09" ed="T"/><note n="0803003" resp="Taisho" type="orig" place="foot text">目＝貌【三】【宮】</note><note n="0803003" resp="CBETA" type="mod">目＝貌【宋】【元】【明】【宮】</note><app n="0803003"><lem wit="【大】">目</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">貌</rdg></app>端正，塵水不著，為人所敬；三者、身體常
+<lb n="0803a10" ed="T"/>香，衣服潔淨，見者歡喜，莫不<note n="0803004" resp="Taisho" type="orig" place="foot text">恭＝欽【三】【宮】</note><note n="0803004" resp="CBETA" type="mod">恭＝欽【宋】【元】【明】【宮】</note><app n="0803004"><lem wit="【大】">恭</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">欽</rdg></app>敬；四者、
+<lb n="0803a11" ed="T"/>肌體<note n="0803005" resp="Taisho" type="orig" place="foot text">濡＝潤【宮】</note><app n="0803005"><lem wit="【大】">濡</lem><rdg resp="Taisho" wit="【宮】">潤</rdg></app>澤，威光德大，莫不敬歎，獨步無雙；
+<lb n="0803a12" ed="T"/>五者、多饒人從，拂拭塵垢，自然受福，常識
+<lb n="0803a13" ed="T"/>宿命；六者、口齒香好，方白齊平，所說教令，
+<lb n="0803a14" ed="T"/>莫不<note n="0803006" resp="Taisho" type="orig" place="foot text">肅＝開【宮】</note><app n="0803006"><lem wit="【大】">肅</lem><rdg resp="Taisho" wit="【宮】">開</rdg></app>用；七者、所生之處，自然衣裳，光飾
+<lb n="0803a15" ed="T"/>珍寶，見者悚息。』</p>
+<lb n="0803a16" ed="T"/><p xml:id="pT16p0803a1601">「佛告耆域：『作此洗浴眾僧、開士，七福如是。從
+<lb n="0803a17" ed="T"/>此因緣，或為人臣、或為帝王，或為日、月四
+<lb n="0803a18" ed="T"/>天神王，或為帝釋、<note n="0803007" resp="Taisho" type="orig" place="foot text">（或為）＋轉【三】【宮】</note><note n="0803007" resp="CBETA" type="mod">（或為）＋轉【宋】【元】【明】【宮】</note><app n="0803007"><lem wit="【大】">轉</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">或為轉</rdg></app>輪聖王，或<note n="0803008" resp="Taisho" type="orig" place="foot text">生＝為【三】【宮】</note><note n="0803008" resp="CBETA" type="mod">生＝為【宋】【元】【明】【宮】</note><app n="0803008"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">為</rdg></app>梵天，受
+<lb n="0803a19" ed="T"/>福難量；或為菩薩，發意<note n="0803009" resp="Taisho" type="orig" place="foot text">持＝治【三】【宮】</note><note n="0803009" resp="CBETA" type="mod">持＝治【宋】【元】【明】【宮】</note><app n="0803009"><lem wit="【大】">持</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">治</rdg></app>地，功成志就，遂
+<lb n="0803a20" ed="T"/>致作佛。斯之因<note n="0803010" resp="Taisho" type="orig" place="foot text">緣＝由【三】【宮】</note><note n="0803010" resp="CBETA" type="mod">緣＝由【宋】【元】【明】【宮】</note><app n="0803010"><lem wit="【大】">緣</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">由</rdg></app>，供養眾僧，無量福田，旱
+<lb n="0803a21" ed="T"/>澇不傷。』</p><p xml:id="pT16p0803a2104" rend="inline">「於是世尊重為耆域而作頌曰：</p>
+<lb n="0803a22" ed="T"/><lg xml:id="lgT16p0803a2201" rend="margin-left:2em;text-indent:-2em"><l>「『觀諸三界中，</l><l>天人受<note n="0803011" resp="Taisho" type="orig" place="foot text">景＝影【宮】</note><app n="0803011"><lem wit="【大】">景</lem><rdg resp="Taisho" wit="【宮】">影</rdg></app>福，</l>
+<lb n="0803a23" ed="T"/><l>道德無限量，</l><l>諦聽次說之。</l>
+<lb n="0803a24" ed="T"/><l><note n="0803012" resp="Taisho" type="orig" place="foot text">夫＝天【元】</note><app n="0803012"><lem wit="【大】">夫</lem><rdg resp="Taisho" wit="【元】">天</rdg></app>人生處世，</l><l>端正人所敬，</l>
+<lb n="0803a25" ed="T"/><l>體性常清淨，</l><l>斯由洗眾僧。</l>
+<lb n="0803a26" ed="T"/><l>若為大臣子，</l><l>財富常吉安，</l>
+<lb n="0803a27" ed="T"/><l>勇健<note n="0803013" resp="Taisho" type="orig" place="foot text">忠＝中【三】【宮】</note><note n="0803013" resp="CBETA" type="mod">忠＝中【宋】【元】【明】【宮】【麗-CB】【CB】</note><app n="0803013"><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">中<note type="cf1">K12n0367_p0158c10</note><note type="cf2">T39n1793_p0515a22</note></lem><rdg wit="【大】">忠</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">中</rdg></app>賢良，</l><l>出入無罣礙，</l>
+<lb n="0803a28" ed="T"/><l>所說人奉用，</l><l>身體常香潔，</l>
+<lb n="0803a29" ed="T"/><l>端正色從容，</l><l>斯由洗眾僧。</l>
+<pb n="0803b" ed="T" xml:id="T16.0701.0803b"/>
+<lb n="0803b01" ed="T"/><l>若生天王家，</l><l>生即常潔淨，</l>
+<lb n="0803b02" ed="T"/><l>洗浴以香湯，</l><l>苾芬以熏身，</l>
+<lb n="0803b03" ed="T"/><l>形體與眾異，</l><l>見者莫不欣，</l>
+<lb n="0803b04" ed="T"/><l>斯造溫室浴，</l><l>洗僧之福報。</l>
+<lb n="0803b05" ed="T"/><l>第一四天王，</l><l>典領四<note n="0803014" resp="Taisho" type="orig" place="foot text">方域＝域方【三】【宮】</note><note n="0803014" resp="CBETA" type="mod">方域＝域方【宋】【元】【明】【宮】</note><app n="0803014"><lem wit="【大】">方域</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">域方</rdg></app>，</l>
+<lb n="0803b06" ed="T"/><l>光明身端正，</l><l>威德護四鎮，</l>
+<lb n="0803b07" ed="T"/><l>日月及星宿，</l><l><note n="0803015" resp="Taisho" type="orig" place="foot text">光＝晃【三】【宮】</note><note n="0803015" resp="CBETA" type="mod">光＝晃【宋】【元】【明】【宮】</note><app n="0803015"><lem wit="【大】">光</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">晃</rdg></app>照除陰冥，</l>
+<lb n="0803b08" ed="T"/><l>斯由洗眾僧，</l><l>福報如影響。</l>
+<lb n="0803b09" ed="T"/><l>第二忉利天，</l><l>帝釋名曰因，</l>
+<lb n="0803b10" ed="T"/><l>六重之寶城，</l><l>七寶為宮殿，</l>
+<lb n="0803b11" ed="T"/><l>勇猛天中尊，</l><l>端正壽延長，</l>
+<lb n="0803b12" ed="T"/><l>斯由洗眾僧，</l><l>其報無等倫。</l>
+<lb n="0803b13" ed="T"/><l>世間轉輪王，</l><l>七寶導在前，</l>
+<lb n="0803b14" ed="T"/><l>周行四海外，</l><l>兵馬八萬四，</l>
+<lb n="0803b15" ed="T"/><l>明寶照晝夜，</l><l>玉女隨時供，</l>
+<lb n="0803b16" ed="T"/><l>端正身香潔，</l><l>斯由洗眾僧。</l>
+<lb n="0803b17" ed="T"/><l>第六化應天，</l><l>欲界中獨尊，</l>
+<lb n="0803b18" ed="T"/><l>天相光影足，</l><l>威靈震六天，</l>
+<lb n="0803b19" ed="T"/><l>自然食甘露，</l><l><note n="0803016" resp="Taisho" type="orig" place="foot text">妓＝伎【宋】【宮】</note><app n="0803016"><lem wit="【大】">妓</lem><rdg resp="Taisho" wit="【宋】【宮】">伎</rdg></app>女常在邊，</l>
+<lb n="0803b20" ed="T"/><l>眾德難稱<note n="0803017" resp="Taisho" type="orig" place="foot text">譽＝喻【三】【宮】</note><note n="0803017" resp="CBETA" type="mod">譽＝喻【宋】【元】【明】【宮】</note><app n="0803017"><lem wit="【大】">譽</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">喻</rdg></app>，</l><l>斯由洗眾僧。</l>
+<lb n="0803b21" ed="T"/><l>梵魔三鉢天，</l><l>淨居修自然，</l>
+<lb n="0803b22" ed="T"/><l>行淨無垢穢，</l><l>又無女人形，</l>
+<lb n="0803b23" ed="T"/><l>梵行修潔己，</l><l>志淳在泥洹，</l>
+<lb n="0803b24" ed="T"/><l>得生彼天中，</l><l>斯由洗眾僧。</l>
+<lb n="0803b25" ed="T"/><l>佛為三界尊，</l><l>修道甚苦勤，</l>
+<lb n="0803b26" ed="T"/><l>積行無數劫，</l><l>今乃得道真，</l>
+<lb n="0803b27" ed="T"/><l>金體玉為瓔，</l><l>塵垢不著身，</l>
+<lb n="0803b28" ed="T"/><l>圓光相具足，</l><l>斯由洗眾僧。</l>
+<lb n="0803b29" ed="T"/><l>諸佛從行得，</l><l>種種不勞勤，</l>
+<pb n="0803c" ed="T" xml:id="T16.0701.0803c"/>
+<lb n="0803c01" ed="T"/><l>所施三界人，</l><l>無<note n="0803018" resp="Taisho" type="orig" place="foot text">所＝處【三】【宮】</note><note n="0803018" resp="CBETA" type="mod">所＝處【宋】【元】【明】【宮】</note><app n="0803018"><lem wit="【大】">所</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">處</rdg></app>不周遍，</l>
+<lb n="0803c02" ed="T"/><l>眾僧之聖尊，</l><l>四道良福田，</l>
+<lb n="0803c03" ed="T"/><l>道德從中出，</l><l>是行最妙真。』</l></lg>
+<lb n="0803c04" ed="T"/><p xml:id="pT16p0803c0401">「佛說偈已，重告耆域：『觀彼三界，人天品類，
+<lb n="0803c05" ed="T"/>高下長短，福德多少，皆由先世用心不等，是
+<lb n="0803c06" ed="T"/>以所受各異，不同如此；受諸福報，皆由洗
+<lb n="0803c07" ed="T"/>浴聖眾得之耳！』」</p><p xml:id="pT16p0803c0707" rend="inline">佛說經已，阿難白佛言：「當何
+<lb n="0803c08" ed="T"/>名此經？以何勸誨之？」</p>
+<lb n="0803c09" ed="T"/><p xml:id="pT16p0803c0901">佛告阿難：「此經名<note n="0803019" resp="Taisho" type="orig" place="foot text">〔曰〕－【三】【宮】</note><note n="0803019" resp="CBETA" type="mod">〔曰〕－【宋】【元】【明】【宮】</note><app n="0803019"><lem wit="【大】">曰</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>『溫室洗浴眾僧經』。諸
+<lb n="0803c10" ed="T"/>佛所說，非我獨造；行者得度，非神授與。求
+<lb n="0803c11" ed="T"/>清淨福，自當奉行。」</p><p xml:id="pT16p0803c1108" rend="inline">佛說<note n="0803020" resp="Taisho" type="orig" place="foot text">〔是〕－【三】【宮】</note><note n="0803020" resp="CBETA" type="mod">〔是〕－【宋】【元】【明】【宮】</note><app n="0803020"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>經竟，耆域、眷屬
+<lb n="0803c12" ed="T"/>聞經歡喜，<note n="0803021" resp="Taisho" type="orig" place="foot text">〔皆〕－【三】【宮】</note><note n="0803021" resp="CBETA" type="mod">〔皆〕－【宋】【元】【明】【宮】</note><app n="0803021"><lem wit="【大】">皆</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>得須陀洹道，禮佛求退，嚴辦
+<lb n="0803c13" ed="T"/>洗具。眾坐大小，各得道<note n="0803022" resp="Taisho" type="orig" place="foot text">迹＝跡【三】【宮】</note><note n="0803022" resp="CBETA" type="mod">迹＝跡【宋】【元】【明】【宮】</note><app n="0803022"><lem wit="【大】">迹</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">跡</rdg></app>，皆共稽首，禮佛
+<lb n="0803c14" ed="T"/>而去。</p></cb:div>
+<lb n="0803c15" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><app type="star" corresp="#0802007"><lem wit="【大】">佛說</lem><rdg resp="Taisho" wit="【宋】【元】【宮】"><space quantity="0"/></rdg></app>溫室洗浴眾僧經</title></cb:jhead></cb:juan>
+</body></text></TEI>

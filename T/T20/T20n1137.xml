@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T20n1137">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1137 佛說善法方便陀羅尼經</title>
+			<author>失譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $<date>$Date: 2009/04/23 08:01:22 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:22 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1137 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-24T11:15:15">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T20n1137.xml,v $
+Revision 1.8  2009/04/23 08:01:22  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2006/04/12 21:55:46  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.5  2004/10/21 08:20:04  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/04/20 08:39:02  maha
+「版本日期」標記修訂
+
+Revision 1.3  2003/06/23 06:16:04  saywhat
+[＊]校勘插入XML
+
+Revision 1.2  2003/05/26 11:33:13  saywhat
+【宋】【元】【明】＊改成【宋】＊【元】＊【明】＊
+
+Revision 1.1.1.1  2003/05/05 04:09:22  ray
+recover cvs
+
+Revision 1.16  2002/12/05 05:20:25  saywhat
+校勘插入處理
+
+Revision 1.15  2002/11/04 10:45:37  ray
+tei.2 => TEI.2
+
+Revision 1.14  2002/10/07 13:11:57  moved
+modified
+
+Revision 1.13  2002/07/29 09:56:46  vinking
+modified lang
+
+Revision 1.12  2002/04/08 09:05:48  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.11  2001/11/05 06:13:53  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.10  2001/07/24 06:53:18  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.9  2001/03/30 05:55:33  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.8  2001/03/25 09:15:29  ray
+add <milestone>
+
+Revision 1.7  2001/02/07 06:56:20  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.6  2001/02/03 07:46:16  chris
+Added keywords $Revision: 1.8 $, $Date: 2009/04/23 08:01:22 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0580a14" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0580a15" ed="T"/>
+<lb n="0580a16" ed="T"/><cb:docNumber>No. 1137 [Nos. 1138-1140]</cb:docNumber>
+<lb n="0580a17" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0580001" resp="Taisho" place="foot text" type="orig">【原】麗本，〔佛說〕－【三】＊</note><note n="0580001" resp="CBETA" type="mod">【原】麗本，〔佛說〕－【宋】＊【元】＊【明】＊</note><app n="0580001"><lem wit="【大】">佛說</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app><note n="0580001" type="rest" place="foot">【原】麗本</note>善法方便陀羅<note n="0580002" resp="Taisho" place="foot text" type="orig">尼＋（呪）【三】＊</note><note n="0580002" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->尼＋（呪）【宋】＊【元】＊【明】＊</note><app n="0580002"><lem wit="【大】">尼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">尼呪</rdg></app>經</cb:jhead></cb:juan>
+<lb n="0580a18" ed="T"/>
+<lb n="0580a19" ed="T"/><byline cb:type="Translator">失譯<note n="0580003" resp="Taisho" place="foot text" type="orig">〔人名〕－【宋】</note><app n="0580003"><lem wit="【大】">人名</lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app><note n="0580004" resp="Taisho" place="foot text" type="orig">〔今〕－【元】【明】</note><app n="0580004"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【元】【明】"><space quantity="0"/></rdg></app>附東晉錄</byline>
+<lb n="0580a20" ed="T"/><cb:div type="jing"><p xml:id="pT20p0580a2001">如是我聞。一時佛住摩竭提界寂滅道場菩
+<lb n="0580a21" ed="T"/>提樹下。與比丘僧大眾俱集。其名曰大智舍
+<lb n="0580a22" ed="T"/>利弗。長老目揵連。長老阿難。大聲聞等。及諸
+<lb n="0580a23" ed="T"/>菩薩摩訶薩眾。金剛幢菩薩。金剛藏菩薩。彌
+<lb n="0580a24" ed="T"/>勒菩薩。如是賢劫諸大菩薩摩訶薩眾。時執
+<lb n="0580a25" ed="T"/>金剛神白佛言。世尊如來應供正遍知者。如
+<lb n="0580a26" ed="T"/>實知見是善方便陀羅尼呪光明威力。勢能
+<lb n="0580a27" ed="T"/>摧滅一切諸惡。無覆護者能作覆護。若遇一
+<lb n="0580a28" ed="T"/>切惡緣知識。毒龍諸鬼夜叉羅剎。及多那若
+<lb n="0580a29" ed="T"/>鳩槃<note n="0580005" resp="Taisho" place="foot text" type="orig">茶＝荼【宋】【元】</note><app n="0580005"><lem wit="【大】">茶</lem><rdg resp="Taisho" wit="【宋】【元】">荼</rdg></app>人非人等。怖畏刀<note n="0580006" resp="Taisho" place="foot text" type="orig">杖＝仗【三】</note><note n="0580006" resp="CBETA" type="mod">杖＝仗【宋】【元】【明】</note><app n="0580006"><lem wit="【大】">杖</lem><rdg resp="Taisho" wit="【宋】【元】【明】">仗</rdg></app>怨家橫害。邪
+<pb n="0580b" xml:id="T20.1137.0580b" ed="T"/>
+<lb n="0580b01" ed="T"/>魅<note n="0580007" resp="Taisho" place="foot text" type="orig"><g ref="#CB01679"/>＝厭【三】</note><note n="0580007" resp="CBETA" type="mod"><g ref="#CB01679"/>＝厭【宋】【元】【明】</note><app n="0580007"><lem wit="【大】"><g ref="#CB01679"/></lem><rdg resp="Taisho" wit="【宋】【元】【明】">厭</rdg></app>禱不能嬈亂。至四威儀行住坐臥不捨
+<lb n="0580b02" ed="T"/>眾生。如我今者侍衛如來未曾暫離。是陀羅
+<lb n="0580b03" ed="T"/>尼於一切時。覆護眾生利益眾生。初不放捨
+<lb n="0580b04" ed="T"/>亦復如是。是故我今勸請如來說此陀羅尼。
+<lb n="0580b05" ed="T"/>此陀羅尼即是菩薩即是大乘。何以故若善
+<lb n="0580b06" ed="T"/>男子善女人。無覆護者能為覆護。悉滅一切
+<lb n="0580b07" ed="T"/>鬪訟繫縛諸抂橫故。</p>
+<lb n="0580b08" ed="T"/><p xml:id="pT20p0580b0801">是時佛告執金剛神。善哉善哉執金剛神如
+<lb n="0580b09" ed="T"/>汝所說。乃能如是為眾生故勸請如來。汝今
+<lb n="0580b10" ed="T"/>諦聽當為汝說善法方便陀羅尼呪。爾時世
+<lb n="0580b11" ed="T"/>尊即說呪曰。</p>
+<lb n="0580b12" ed="T"/><p xml:id="pT20p0580b1201" cb:type="dharani">優鳩<note place="inline">一</note>茂鳩<note place="inline">二</note>摩毘<note n="0580008" resp="Taisho" place="foot text" type="orig">尼＝呢【三】＊</note><note n="0580008" resp="CBETA" type="mod">尼＝呢【宋】＊【元】＊【明】＊</note><app n="0580008"><lem wit="【大】">尼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">呢</rdg></app><note place="inline">奴利<note n="0580009" resp="Taisho" place="foot text" type="orig">反＝切【明】</note><app n="0580009"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【明】">切</rdg></app>三</note>摩陀尼<note place="inline">四</note>婆羅
+<lb n="0580b13" ed="T"/>遮隷<note place="inline">五</note>那休休梨越多莎呵<note place="inline">六</note></p>
+<lb n="0580b14" ed="T"/><p xml:id="pT20p0580b1401">是時如來應正遍知。說是莊嚴大頂勝王陀
+<lb n="0580b15" ed="T"/>羅尼已。告執金剛。汝當如是憶念受持。如來
+<lb n="0580b16" ed="T"/>今當更為汝說。即說呪曰。</p>
+<lb n="0580b17" ed="T"/><p xml:id="pT20p0580b1701" cb:type="dharani">跋逝唻<note place="inline">一</note>跋逝<note n="0580010" resp="Taisho" place="foot text" type="orig">唻＝來【明】</note><app n="0580010"><lem wit="【大】">唻</lem><rdg resp="Taisho" wit="【明】">來</rdg></app><note place="inline">二</note>跋逝唻陀利<note place="inline">三</note>跋逝唻婆
+<lb n="0580b18" ed="T"/>帝<note place="inline">四</note>跋逝唻陛帝<note place="inline">五</note>跋逝唻達提<note place="inline">六</note>灼迦囉跋
+<lb n="0580b19" ed="T"/>逝唻<note place="inline">七</note>灼迦囉陀唎<note place="inline">八</note>陀唎<note place="inline">九</note>陀唎<note place="inline">十</note>婆<note n="0580011" resp="Taisho" place="foot text" type="orig">𠼝＝唎【三】</note><note n="0580011" resp="CBETA" type="mod">𠼝＝唎【宋】【元】【明】</note><app n="0580011"><lem wit="【大】">𠼝</lem><rdg resp="Taisho" wit="【宋】【元】【明】">唎</rdg></app><note place="inline">十一</note>
+<lb n="0580b20" ed="T"/>茂唎<note place="inline">十二</note>遮唎<note place="inline">十三</note>休休唎<note place="inline">十四</note>朋伽<note place="inline">十五</note>毘毘
+<lb n="0580b21" ed="T"/>利<note place="inline">十六</note>唎唎尸<note place="inline">十七</note>唎尸<note n="0580012" resp="Taisho" place="foot text" type="orig">唎＝利【三】＊</note><note n="0580012" resp="CBETA" type="mod">唎＝利【宋】＊【元】＊【明】＊</note><app n="0580012"><lem wit="【大】">唎</lem><rdg resp="Taisho" wit="【宋】【元】【明】">利</rdg></app><note place="inline">十八</note>嘍嘍旨<note place="inline">十九</note>遮
+<lb n="0580b22" ed="T"/>隷<note place="inline">二十</note>周唎<note place="inline">二十一</note>茂<app type="star" corresp="#0580012"><lem wit="【大】">唎</lem><rdg resp="Taisho" wit="【宋】【元】【明】">利</rdg></app><note place="inline">二十二</note>曼<note n="0580013" resp="Taisho" place="foot text" type="orig">茶＝荼【三】</note><note n="0580013" resp="CBETA" type="mod">茶＝荼【宋】【元】【明】</note><app n="0580013"><lem wit="【大】">茶</lem><rdg resp="Taisho" wit="【宋】【元】【明】">荼</rdg></app>唎<note place="inline">二十三</note>薩波
+<lb n="0580b23" ed="T"/>波<note n="0580014" resp="Taisho" place="foot text" type="orig">毘＋（那）【三】</note><note n="0580014" resp="CBETA" type="mod">毘＋（那）【宋】【元】【明】</note><app n="0580014"><lem wit="【大】">毘</lem><rdg resp="Taisho" wit="【宋】【元】【明】">毘那</rdg></app>賒兜<note place="inline">二十四</note>鵄鵄兜比唎<note place="inline">二十五</note>摩唻<note place="inline">二十六</note>呵多
+<lb n="0580b24" ed="T"/>尼<note place="inline">二十七</note>婆唻<note place="inline">二十八</note>婆唻<note place="inline">二十九</note>婆地<note place="inline">三十</note>跋提<note place="inline">三十一</note>毘題
+<lb n="0580b25" ed="T"/><note place="inline">三十二</note>毘唻<note place="inline">三十三</note>嘍娑唻<note place="inline">三十四</note>舍囉鞞<note place="inline">三十五</note>囉<note n="0580015" resp="Taisho" place="foot text" type="orig">娑＝婆【三】</note><note n="0580015" resp="CBETA" type="mod">娑＝婆【宋】【元】【明】</note><app n="0580015"><lem wit="【大】">娑</lem><rdg resp="Taisho" wit="【宋】【元】【明】">婆</rdg></app>
+<lb n="0580b26" ed="T"/>泥<note place="inline">三十六</note>囉婆那唻曳<note place="inline">三十七</note><g ref="#CB01227"/><note place="inline">父藍反</note>摩遮唎那<note place="inline">三十八</note>因
+<lb n="0580b27" ed="T"/>陀跋帝<note place="inline">三十九</note>提提<note n="0580016" resp="Taisho" place="foot text" type="orig">羅＝囉【三】＊</note><note n="0580016" resp="CBETA" type="mod">羅＝囉【宋】＊【元】＊【明】＊</note><app n="0580016"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】【元】【明】">囉</rdg></app>耶<note place="inline">四十</note>那謨摩醯首<app type="star" corresp="#0580016"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】【元】【明】">囉</rdg></app>耶
+<lb n="0580b28" ed="T"/>尼<note place="inline">四十一</note>利師<g ref="#CB01227"/><note place="inline">父藍反</note>跋尼<note place="inline">四十二</note>波波瞻婆尼<note place="inline">四十三</note>柯
+<lb n="0580b29" ed="T"/>羅婆提<note place="inline">四十四</note>浮多婆提<note place="inline">四十五</note>薩誃<note place="inline">猪邪反</note>柯梯<note place="inline">四十六</note>蘇
+<pb n="0580c" xml:id="T20.1137.0580c" ed="T"/>
+<lb n="0580c01" ed="T"/>摩婆提<note place="inline">四十七</note>蘇摩𡀖<note n="0580017" resp="Taisho" place="foot text" type="orig">𡅘＋（<g ref="#CB03778"/>）【三】</note><note n="0580017" resp="CBETA" type="mod">𡅘＋（<g ref="#CB03778"/>）【宋】【元】【明】</note><app n="0580017"><lem wit="【大】">𡅘</lem><rdg resp="Taisho" wit="【宋】【元】【明】">𡅘<g ref="#CB03778"/></rdg></app>莎呵<note place="inline">四十八</note></p>
+<lb n="0580c02" ed="T"/><p xml:id="pT20p0580c0201">佛告執金剛。復當為汝更說神呪。能令行者
+<lb n="0580c03" ed="T"/>現得長壽。即說呪曰。</p>
+<lb n="0580c04" ed="T"/><p xml:id="pT20p0580c0401" cb:type="dharani">呵囉<note place="inline">一</note>呵囉<note place="inline">二</note>嘻囉<note place="inline">三</note></p>
+<lb n="0580c05" ed="T"/><p xml:id="pT20p0580c0501">時執金剛即白佛言。唯然世尊我當受持。</p>
+<lb n="0580c06" ed="T"/><p xml:id="pT20p0580c0601" cb:type="dharani">迦致多<note place="inline">一</note>波致多<note place="inline">二</note>阿夷那<note place="inline">三</note>呵唎瞻婆尼<note place="inline">四</note>柯
+<lb n="0580c07" ed="T"/>葛旦尼<note place="inline">五</note>頞哆<note place="inline">轉舌音</note><note n="0580018" resp="Taisho" place="foot text" type="orig">阿＝陀【三】</note><note n="0580018" resp="CBETA" type="mod">阿＝陀【宋】【元】【明】</note><app n="0580018"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【宋】【元】【明】">陀</rdg></app>呵尼<note place="inline">六</note>末伽毘嚧呵尼
+<lb n="0580c08" ed="T"/><note place="inline">七</note>休娑婆帝<note place="inline">八</note>復娑婆帝<note place="inline">九</note>嘻<note place="inline">喜梨反</note>利<note place="inline">十</note>嘻利<note place="inline">十一</note>
+<lb n="0580c09" ed="T"/>耶他嗜<note place="inline">十二</note>耶他忌尼<note place="inline">十三</note>耶他波爛遮<note place="inline">十四</note>耶
+<lb n="0580c10" ed="T"/>他婆<note n="0580019" resp="Taisho" place="foot text" type="orig">檐＝擔【三】＊</note><note n="0580019" resp="CBETA" type="mod">檐＝擔【宋】＊【元】＊【明】＊</note><app n="0580019"><lem wit="【大】">檐</lem><rdg resp="Taisho" wit="【宋】【元】【明】">擔</rdg></app><note place="inline">十五</note>耶他憘陀<app type="star" corresp="#0580019"><lem wit="【大】">檐</lem><rdg resp="Taisho" wit="【宋】【元】【明】">擔</rdg></app><note place="inline">十六</note></p>
+<lb n="0580c11" ed="T"/><p xml:id="pT20p0580c1101">說是呪已告執金剛。如是善法陀羅尼呪如
+<lb n="0580c12" ed="T"/>來所說。為利一切諸眾生故。大慈悲故。我今
+<lb n="0580c13" ed="T"/>當更為汝說之。如昔如來應正遍知如是妙
+<lb n="0580c14" ed="T"/>說。去來今佛之所印可誠實不虛。爾時世尊
+<lb n="0580c15" ed="T"/>即放大人眉間相光。遍照一切諸佛剎土。是
+<lb n="0580c16" ed="T"/>光所照普能利益無量眾生。彼方諸佛見是
+<lb n="0580c17" ed="T"/>光已。各從坐起咸共尋光來至忍土。至此土
+<lb n="0580c18" ed="T"/>已同聲讚言。善哉釋迦牟尼世尊善能付囑。
+<lb n="0580c19" ed="T"/>利益安樂一切眾生。善哉善哉釋迦如來應
+<lb n="0580c20" ed="T"/>正遍知。為利一切諸眾生故。為覆護故為照
+<lb n="0580c21" ed="T"/>明故。為令眾生得歡喜故。說是善法陀羅尼
+<lb n="0580c22" ed="T"/>呪。我等諸佛所說章句亦皆如是。善哉釋迦
+<lb n="0580c23" ed="T"/>能廣施者。若善男子及善女人。聞是善法陀
+<lb n="0580c24" ed="T"/>羅尼呪欲得利益。應於晨朝受持讀誦。即為
+<lb n="0580c25" ed="T"/>我等諸佛所護。若有誦持此呪之處則為吉
+<lb n="0580c26" ed="T"/>祥。我等諸佛皆在中故。若諸眾生先來所造。
+<lb n="0580c27" ed="T"/>極重惡業皆滅無餘。能令此諸善男子等。具
+<lb n="0580c28" ed="T"/>足獲得二十善利。一者現得長壽。二者舍宅
+<lb n="0580c29" ed="T"/>安隱。三者名譽遠聞。四者現得尊貴。五者多
+<pb n="0581a" xml:id="T20.1137.0581a" ed="T"/>
+<lb n="0581a01" ed="T"/>宜財寶。六者威貌殊勝。七者勇<note n="0581001" resp="Taisho" place="foot text" type="orig">捍＝悍【元】【明】</note><app n="0581001"><lem wit="【大】">捍</lem><rdg resp="Taisho" wit="【元】【明】">悍</rdg></app>無畏。八
+<lb n="0581a02" ed="T"/>者無諸疾病。九者安隱快樂。十者進行無倦。
+<lb n="0581a03" ed="T"/>十一<note n="0581002" resp="Taisho" place="foot text" type="orig">〔者〕－【三】＊</note><note n="0581002" resp="CBETA" type="mod">〔者〕－【宋】＊【元】＊【明】＊</note><app n="0581002"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>諸佛護念。十二<app type="star" corresp="#0581002"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>諸天守護。十三
+<lb n="0581a04" ed="T"/>人所愛敬。十四現見諸佛。十五善友所護。十
+<lb n="0581a05" ed="T"/>六毒害不加。十七惡鬼降伏。十八怨敵自消。
+<lb n="0581a06" ed="T"/>十九眷屬成就。二十善願從心。如是執金剛。
+<lb n="0581a07" ed="T"/>是陀羅尼<note n="0581003" resp="Taisho" place="foot text" type="orig">〔呪〕－【三】</note><note n="0581003" resp="CBETA" type="mod">〔呪〕－【宋】【元】【明】</note><app n="0581003"><lem wit="【大】">呪</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>即是諸佛微密藏處。一切諸佛
+<lb n="0581a08" ed="T"/>之所護念。真實不虛微妙善說。</p>
+<lb n="0581a09" ed="T"/><p xml:id="pT20p0581a0901">時執金剛神白佛言。世尊我於如來所說神
+<lb n="0581a10" ed="T"/>呪。亦當隨喜信樂演說。所以者何是陀羅尼
+<lb n="0581a11" ed="T"/>神呪勢力。無覆護者能為覆護。多利益故。為
+<lb n="0581a12" ed="T"/>如是等諸善男子善女人故。我今當更演說
+<lb n="0581a13" ed="T"/>善法陀羅尼呪。欲得安樂及求度者。是諸行
+<lb n="0581a14" ed="T"/>人應於晨朝受持讀誦。則得神呪擁護之力。
+<lb n="0581a15" ed="T"/>必當永離一切苦惱。即說呪曰。</p>
+<lb n="0581a16" ed="T"/><p xml:id="pT20p0581a1601" cb:type="dharani">尸棄<note place="inline">一</note>尸棄<note place="inline">二</note>支至<note place="inline">三</note>支至<note place="inline">四</note>婆嘙<note place="inline">五</note>婆嘙<note place="inline">六</note>嚧
+<lb n="0581a17" ed="T"/>嘍<note place="inline">七</note>嚧嘍<note place="inline">八</note>時嗜<note place="inline">九</note>時嗜<note place="inline">十</note>咖囉<note place="inline">十一</note>咖囉<note place="inline">十二</note>
+<lb n="0581a18" ed="T"/><note n="0581004" resp="Taisho" place="foot text" type="orig"><g ref="#CB03873"/>＝<g ref="#CB14336"/>【元】【明】＊</note><app n="0581004"><lem wit="【大】"><g ref="#CB03873"/></lem><rdg resp="Taisho" wit="【元】【明】"><g ref="#CB14336"/></rdg></app>嘻<note place="inline">十三</note><app type="star" corresp="#0581004"><lem wit="【大】"><g ref="#CB03873"/></lem><rdg resp="Taisho" wit="【元】【明】"><g ref="#CB14336"/></rdg></app>嘻<note place="inline">十四</note>頗破<note place="inline">十五</note>頗破<note place="inline">十六</note>磨系<note place="inline">十
+<lb n="0581a19" ed="T"/>七</note>磨系<note place="inline">十八</note>呵那<note place="inline">十九</note>呵那<note place="inline">二十</note>呵那<note place="inline">二十一</note>馱呵<note place="inline">二十二</note>
+<lb n="0581a20" ed="T"/>馱呵<note place="inline">二十三</note>馱呵<note place="inline">二十四</note>波遮<note place="inline">二十五</note>波遮<note place="inline">二十六</note>莎呵<note n="0581005" resp="Taisho" place="foot text" type="orig">〔二十七〕－【宋】</note><app n="0581005"><lem wit="【大】"><note place="inline">二十七</note></lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app></p>
+<lb n="0581a21" ed="T"/><p xml:id="pT20p0581a2101">是時世尊告執金剛。善哉善哉執金剛神。是
+<lb n="0581a22" ed="T"/>陀羅尼最神最驗。為諸眾生是故說之。此陀
+<lb n="0581a23" ed="T"/>羅尼神呪威力。悉能障蔽一一毛孔。令諸龍
+<lb n="0581a24" ed="T"/>鬼一切疾疫。眾邪毒氣不能得入。亦能為作
+<lb n="0581a25" ed="T"/>解脫因緣。</p>
+<lb n="0581a26" ed="T"/><p xml:id="pT20p0581a2601">爾時三千大千界主大梵天王。即從座起為佛
+<lb n="0581a27" ed="T"/>作禮。合掌向佛而白佛言。善哉世尊我今亦
+<lb n="0581a28" ed="T"/>樂讚揚隨喜利益成就。諸善男子行此呪者。
+<lb n="0581a29" ed="T"/>應於晨朝受持讀誦是陀羅尼。如今世尊為
+<pb n="0581b" xml:id="T20.1137.0581b" ed="T"/>
+<lb n="0581b01" ed="T"/>欲利安擁護如是諸眾生故。說此善法陀羅
+<lb n="0581b02" ed="T"/>尼呪時。大梵王即說呪曰。</p>
+<lb n="0581b03" ed="T"/><p xml:id="pT20p0581b0301" cb:type="dharani"><app type="star" corresp="#0581004"><lem wit="【大】"><g ref="#CB03873"/></lem><rdg resp="Taisho" wit="【元】【明】"><g ref="#CB14336"/></rdg></app>利<note place="inline">一</note>彌利<note place="inline">二</note>旨利莎呵<note place="inline">三</note><g ref="#CB01227"/>摩富唎莎呵<note place="inline">四</note>
+<lb n="0581b04" ed="T"/><g ref="#CB01227"/>摩<g ref="#CB03778"/>莎呵<note place="inline">五</note>波劫<g ref="#CB03778"/><note place="inline">六</note>弗巴僧怛唎莎呵<note place="inline">七</note></p>
+<lb n="0581b05" ed="T"/><p xml:id="pT20p0581b0501">說是呪已即白佛言。大德勝尊如是所說陀
+<lb n="0581b06" ed="T"/>羅尼呪能悉擁護。是善男子及善女人。亦能
+<lb n="0581b07" ed="T"/>令得增益壽命。是故行者應當晨朝。如法讀
+<lb n="0581b08" ed="T"/>誦修行受持。爾時釋提桓因復白佛言。世尊
+<lb n="0581b09" ed="T"/>我今亦欲利益擁護如是善男子故。說是陀
+<lb n="0581b10" ed="T"/>羅尼者諸佛世尊之所護念。是故行者若欲
+<lb n="0581b11" ed="T"/>得是陀羅尼呪功德利者。應於晨朝讀誦受
+<lb n="0581b12" ed="T"/>持。是時帝釋即說呪曰。</p>
+<lb n="0581b13" ed="T"/><p xml:id="pT20p0581b1301" cb:type="dharani">毘尼婆<note n="0581006" resp="Taisho" place="foot text" type="orig">囉＝羅【三】</note><note n="0581006" resp="CBETA" type="mod">囉＝羅【宋】【元】【明】</note><app n="0581006"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">羅</rdg></app>泥<note place="inline">一</note>婆陀磨囒帝<note place="inline">二</note>致致致<note place="inline">三</note><note n="0581007" resp="Taisho" place="foot text" type="orig">懼＋（陀）【三】</note><note n="0581007" resp="CBETA" type="mod">懼＋（陀）【宋】【元】【明】</note><app n="0581007"><lem wit="【大】">懼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">懼陀</rdg></app>
+<lb n="0581b14" ed="T"/>利乾陀唎<note place="inline">四</note>摩<note n="0581008" resp="Taisho" place="foot text" type="orig">囉＝羅【明】</note><app n="0581008"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【明】">羅</rdg></app>摩羅婆<note place="inline">五</note>呵那末彈陀羅尼
+<lb n="0581b15" ed="T"/><note place="inline">六</note>陀羅摩利尼<note place="inline">七</note>斫迦婆呮<note place="inline">八</note>扇跋<app type="star" corresp="#0580012"><lem wit="【大】">唎</lem><rdg resp="Taisho" wit="【宋】【元】【明】">利</rdg></app><note place="inline">九</note>扇婆
+<lb n="0581b16" ed="T"/>唎莎呵<note place="inline">十</note></p>
+<lb n="0581b17" ed="T"/><p xml:id="pT20p0581b1701">爾時復有四大天王毘沙門天王提頭賴吒天
+<lb n="0581b18" ed="T"/>王毘樓勒叉天王毘樓博叉天王。合掌恭敬
+<lb n="0581b19" ed="T"/>而白佛言。我等四王亦當為護是善男子善女
+<lb n="0581b20" ed="T"/>人等。樂欲修行是善方便陀羅尼者。彼諸眾
+<lb n="0581b21" ed="T"/>生亦應晨朝受持讀誦。爾時四王即說呪曰。</p>
+<lb n="0581b22" ed="T"/><p xml:id="pT20p0581b2201" cb:type="dharani">弗巴<note place="inline">一</note>修<note n="0581009" resp="Taisho" place="foot text" type="orig">弗＝佛【宋】</note><app n="0581009"><lem wit="【大】">弗</lem><rdg resp="Taisho" wit="【宋】">佛</rdg></app>巴<note place="inline">二</note>頭摩波<note n="0581010" resp="Taisho" place="foot text" type="orig">利＝唎【三】</note><note n="0581010" resp="CBETA" type="mod">利＝唎【宋】【元】【明】</note><app n="0581010"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【宋】【元】【明】">唎</rdg></app>呵唻<note place="inline">三</note>阿唎波
+<lb n="0581b23" ed="T"/>羅世帝<note place="inline">四</note>扇帝<note place="inline">五</note>涅目帝<note place="inline">六</note><g ref="#CB04249"/>伽隷<note place="inline">七</note>兜帝<note place="inline">八</note>兜
+<lb n="0581b24" ed="T"/>帝莎呵<note place="inline">九</note></p>
+<lb n="0581b25" ed="T"/><p xml:id="pT20p0581b2501">爾時釋迦牟尼如來。即舉右手告天帝釋大
+<lb n="0581b26" ed="T"/>梵天王及四護世。善哉善哉大德諸天乃能
+<lb n="0581b27" ed="T"/>於是善法方便陀羅尼王隨喜演說。如此善
+<lb n="0581b28" ed="T"/>法陀羅尼者。皆是諸佛之所護念。汝等應當
+<lb n="0581b29" ed="T"/>常善受持。</p>
+<pb n="0581c" xml:id="T20.1137.0581c" ed="T"/>
+<lb n="0581c01" ed="T"/><p xml:id="pT20p0581c0101">爾時世尊又復重告執金剛神。善哉善哉執
+<lb n="0581c02" ed="T"/>金剛神。是善方便及得長壽陀羅尼呪。此<note n="0581011" resp="Taisho" place="foot text" type="orig">三＝二【三】</note><note n="0581011" resp="CBETA" type="mod">三＝二【宋】【元】【明】</note><app n="0581011"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【宋】【元】【明】">二</rdg></app>
+<lb n="0581c03" ed="T"/>呪者。皆是十方諸佛如來之所護念稱讚印
+<lb n="0581c04" ed="T"/>可。諸天天王大力鬼神之所守護。若善男子
+<lb n="0581c05" ed="T"/>善女人等。欲修行者。應當自淨身口意已。於
+<lb n="0581c06" ed="T"/>晨朝時以殷重心。如法受持淨心讀誦。能如
+<lb n="0581c07" ed="T"/>是者不見天龍諸惡人鬼。有能加害得其便
+<lb n="0581c08" ed="T"/>者。爾時菩薩聲聞大眾執金剛神。及諸天王
+<lb n="0581c09" ed="T"/>一切鬼神龍王夜叉人非人等。咸共恭敬皆
+<lb n="0581c10" ed="T"/>大歡喜受持奉行。</p>
+<lb n="0581c11" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><app type="star" corresp="#0580001"><lem wit="【大】">佛說</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>善法方便陀羅<app type="star" corresp="#0580008"><lem wit="【大】">尼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">呢</rdg></app>經</cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

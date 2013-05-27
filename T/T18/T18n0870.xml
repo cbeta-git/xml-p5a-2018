@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T18n0870">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0870 略述金剛頂瑜伽分別聖位修證法門</title>
+			<author>唐 不空譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.12 $<date>$Date: 2009/04/23 07:59:44 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 07:59:44 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 18, No. 870 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-05T17:54:06">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T18n0870.xml,v $
+Revision 1.12  2009/04/23 07:59:44  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.11  2006/05/19 09:03:24  saywhat
+雙圈 改成 anchor 標記
+
+Revision 1.10  2006/04/12 21:55:25  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.8  2004/11/15 06:34:39  saywhat
+◎。 => 。◎
+
+Revision 1.7  2004/10/17 11:34:27  saywhat
+段落前加入圈點
+
+Revision 1.6  2004/04/20 08:38:34  maha
+「版本日期」標記修訂
+
+Revision 1.5  2003/12/15 03:52:56  saywhat
+序跟經文之間加入 <div1 type="jing">
+
+Revision 1.4  2003/07/30 03:15:56  ray
+<lb> 移到 <milestone> 前
+
+Revision 1.3  2003/06/26 02:50:38  saywhat
+<corr>→<app>
+
+Revision 1.2  2003/06/23 06:13:21  saywhat
+[＊]校勘插入XML
+
+Revision 1.1.1.1  2003/05/05 04:09:06  ray
+recover cvs
+
+Revision 1.16  2002/12/04 01:47:37  saywhat
+校勘插入處理
+
+Revision 1.15  2002/11/04 10:44:22  ray
+tei.2 => TEI.2
+
+Revision 1.14  2002/10/07 13:09:50  moved
+modified
+
+Revision 1.13  2002/07/29 09:44:54  vinking
+modified lang
+
+Revision 1.12  2002/04/08 08:58:20  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.11  2001/11/19 01:49:28  vinking
+modified
+
+Revision 1.10  2001/07/26 09:42:06  vinking
+modified for rtf
+
+Revision 1.9  2001/07/24 06:52:19  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.8  2001/05/25 08:58:07  ray
+經號統一為四碼
+
+Revision 1.7  2001/03/30 05:47:59  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.6  2001/03/25 09:09:15  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 06:53:21  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 07:43:06  chris
+Added keywords $Revision: 1.12 $, $Date: 2009/04/23 07:59:44 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0287c15" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0287c16" ed="T"/><cb:docNumber>No. 870</cb:docNumber><cb:div type="xu">
+<lb n="0287c17" ed="T"/><cb:mulu level="1" type="序">序</cb:mulu><head><note n="0287038" resp="Taisho" place="foot text" type="orig">【原】麗本，【乙】黃蘗版淨嚴等校訂加筆本塚本賢曉氏藏，【丙】縮冊大藏經</note><title>略述金剛頂瑜伽分別聖位修證
+<lb n="0287c18" ed="T"/>法門</title><note n="0287039" resp="Taisho" place="foot text" type="orig">〔序〕－【明】</note><app n="0287039"><lem wit="【大】">序</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></head>
+<lb n="0287c19" ed="T"/>
+<lb n="0287c20" ed="T"/><p xml:id="pT18p0287c2001"><note n="0287040" resp="Taisho" place="foot text" type="orig">夫真前行明乙丙三本有譯號唐大興善寺三藏沙門大廣智不空奉詔譯十七字</note>夫真言陀羅尼宗者。是一切如來祕奧之教。
+<lb n="0287c21" ed="T"/>自覺聖智<note n="0287041" resp="Taisho" place="foot text" type="orig">頓＝修【明】【乙】</note><app n="0287041"><lem wit="【大】">頓</lem><rdg resp="Taisho" wit="【明】【乙】">修</rdg></app>證法門。亦是菩薩。具受淨戒無
+<lb n="0287c22" ed="T"/>量威儀。入一切如來海會壇。受菩薩職位。超
+<lb n="0287c23" ed="T"/>過三界。受佛教勅三摩地門。具<note n="0287042" resp="Taisho" place="foot text" type="orig">足＝是【乙】【丙】</note><app n="0287042"><lem wit="【大】">足</lem><rdg resp="Taisho" wit="【乙】【丙】">是</rdg></app>因緣。頓
+<lb n="0287c24" ed="T"/>集功德廣大智慧。於無上菩提。皆不退轉。離
+<pb n="0288a" xml:id="T18.0870.0288a" ed="T"/>
+<lb n="0288a01" ed="T"/>諸天魔一切煩惱及諸罪障。念念<note n="0288001" resp="Taisho" place="foot text" type="orig">〔消〕－【明】</note><app n="0288001"><lem wit="【大】">消</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>融。證佛
+<lb n="0288a02" ed="T"/>四種身。謂自性身受用身變化身等流身。滿
+<lb n="0288a03" ed="T"/>足五智三十七等不共佛<note n="0288002" resp="Taisho" place="foot text" type="orig">法＋（門）【乙】【丙】</note><app n="0288002"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【乙】【丙】">法門</rdg></app>。然如來變化身。
+<lb n="0288a04" ed="T"/>於閻浮提摩竭陀國菩提<note n="0288003" resp="Taisho" place="foot text" type="orig">場中＝道場【明】【乙】【丙】</note><app n="0288003"><lem wit="【大】">場。中</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">道場</rdg></app>成等正覺。為
+<lb n="0288a05" ed="T"/>地前菩薩聲聞緣覺凡夫。說三乘教法。或依
+<lb n="0288a06" ed="T"/>他意趣說。或自意趣說。種種根器種種方便。
+<lb n="0288a07" ed="T"/>如法修行。得人天果報。或得三乘解脫果。或
+<lb n="0288a08" ed="T"/>進或退。於無上菩提。三無數大劫。修行勤苦。
+<lb n="0288a09" ed="T"/>方得成佛。王宮生雙<note n="0288004" resp="Taisho" place="foot text" type="orig">林＝樹【明】【乙】【丙】</note><app n="0288004"><lem wit="【大】">林</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">樹</rdg></app>滅。遺身舍利起塔供
+<lb n="0288a10" ed="T"/>養。感受人天勝妙果報。及涅槃因。不同報身
+<lb n="0288a11" ed="T"/>毘盧遮那。於色界頂第四禪阿迦尼吒天宮。
+<lb n="0288a12" ed="T"/>雲集盡虛空遍法界一切諸佛。十地滿足諸
+<lb n="0288a13" ed="T"/>大菩薩證明。警覺身心。頓證無上菩提。自受
+<lb n="0288a14" ed="T"/>用佛。從心流出無量菩薩。皆同一性。謂金剛
+<lb n="0288a15" ed="T"/>性。對遍照如來。受灌頂職位。彼等菩薩。各說
+<lb n="0288a16" ed="T"/>三密門。以獻毘盧遮那及一切如來。便請加
+<lb n="0288a17" ed="T"/>持教勅。毘盧遮那佛言。汝等將來。於無量世
+<lb n="0288a18" ed="T"/>界。為最上乘者。令得現生<note n="0288005" resp="Taisho" place="foot text" type="orig">世＋（間）【明】＊</note><note n="0288005" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->世＋（間）【明】＊</note><app n="0288005"><lem wit="【大】">世</lem><rdg resp="Taisho" wit="【明】">世間</rdg></app>出世間悉地成
+<lb n="0288a19" ed="T"/>就。彼諸菩薩受如來勅已。頂禮佛足。圍繞毘
+<lb n="0288a20" ed="T"/>盧遮那佛已。各還本方本位。成為五輪。<note n="0288006" resp="Taisho" place="foot text" type="orig">本願幖＝持本標【明】【乙】【丙】</note><app n="0288006"><lem wit="【大】">本
+<lb n="0288a21" ed="T"/>願幖</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">持本標</rdg></app>幟。若見若聞。若入輪壇。能斷有情五趣
+<lb n="0288a22" ed="T"/>輪轉生死業障。於五解脫輪中。從一佛至一
+<lb n="0288a23" ed="T"/>佛。供養承事。皆令獲得無上菩提。成決定性。
+<lb n="0288a24" ed="T"/>猶如金剛不可沮壞。此即毘盧遮那聖眾集
+<lb n="0288a25" ed="T"/>會。便為現證窣堵波塔。一一菩薩一一金剛。
+<lb n="0288a26" ed="T"/>各住本三昧。住自解脫。皆住大悲願力。廣利
+<lb n="0288a27" ed="T"/>有情。若見若聞。悉證三昧。功德智慧頓集成
+<lb n="0288a28" ed="T"/>就矣。</p><note n="0288007" resp="Taisho" place="foot text" type="orig">不分卷【明】</note><note n="0288007" resp="CBETA" type="mod"><!--CBETA todo type: a-->不分卷【明】</note><anchor type="circle"/></cb:div>
+<pb n="0288b" xml:id="T18.0870.0288b" ed="T"/>
+<lb n="0288b01" ed="T"/><cb:div type="jing">
+<lb n="0288b02" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead>略述金剛頂瑜伽分別聖位修證
+<lb n="0288b03" ed="T"/>法<note n="0288008" resp="Taisho" place="foot text" type="orig">門＋（經一卷）【乙】【丙】</note><app n="0288008"><lem wit="【大】">門</lem><rdg resp="Taisho" wit="【乙】【丙】">門經一卷</rdg></app></cb:jhead></cb:juan>
+<lb n="0288b04" ed="T"/>
+<lb n="0288b05" ed="T"/><byline cb:type="Translator"><note n="0288009" resp="Taisho" place="foot text" type="orig">〔開府…智〕－【明】【乙】【丙】</note><app cb:word-count="33" n="0288009"><lem wit="【大】">開府儀同三司特進試鴻臚卿肅國
+<lb n="0288b06" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒
+<lb n="0288b07" ed="T"/>正號大廣智</lem><rdg resp="Taisho" wit="【明】【乙】【丙】"><space quantity="0"/></rdg></app>大興善寺三藏沙門
+<lb n="0288b08" ed="T"/><note n="0288010" resp="Taisho" place="foot text" type="orig">（大廣智）＋不【明】【乙】【丙】</note><app n="0288010"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">大廣智不</rdg></app>空奉　詔譯</byline>
+<lb n="0288b09" ed="T"/><p xml:id="pT18p0288b0901"><anchor type="circle"/><note n="0288011" resp="Taisho" place="foot text" type="orig">不分卷【明】</note><note n="0288011" resp="CBETA" type="mod"><!--CBETA todo type: a-->不分卷【明】</note>爾時金剛界毘盧遮那佛。在色界頂阿迦
+<lb n="0288b10" ed="T"/>尼吒天宮。初受用身成等正覺。證得一切如
+<lb n="0288b11" ed="T"/>來平等智。即入一切如來金剛平等智印三
+<lb n="0288b12" ed="T"/>昧耶。即證一切如來法平等自性光明智藏。
+<lb n="0288b13" ed="T"/>成等正覺已。一切如來。從薩埵金剛。出虛空
+<lb n="0288b14" ed="T"/>藏大摩尼寶。以灌其頂。令發生觀自在法王
+<lb n="0288b15" ed="T"/>智。安立一切如來毘首羯磨善巧智。令往詣
+<lb n="0288b16" ed="T"/>須彌山頂金剛摩尼寶峯樓閣。集聖眾已。於
+<lb n="0288b17" ed="T"/>是毘盧遮那佛。加持一切如來。施設四方坐
+<lb n="0288b18" ed="T"/>師子座。時不動如來。寶生如來。觀自在王如
+<lb n="0288b19" ed="T"/>來。不空成就如來。復加持毘盧遮那佛。然受
+<lb n="0288b20" ed="T"/>用身有二種。一自受用。二他受用。毘盧遮那
+<lb n="0288b21" ed="T"/>佛於內心。證<note n="0288012" resp="Taisho" place="foot text" type="orig">〔得〕－【明】</note><app n="0288012"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>自受用四智。大圓鏡智。平
+<lb n="0288b22" ed="T"/>等性智。妙觀察智。成所作智。外令十地滿足
+<lb n="0288b23" ed="T"/>菩薩他受用故。從四智中。流出四佛。各住本
+<lb n="0288b24" ed="T"/>方坐本座。毘盧遮那佛於內心。證得五峯金
+<lb n="0288b25" ed="T"/>剛菩提心三摩地智。自受用故。從五峯金剛
+<lb n="0288b26" ed="T"/>菩提心三摩地智中。流出金剛光明。遍照十
+<lb n="0288b27" ed="T"/>方世界。淨一切眾生大菩提心。還來收一
+<lb n="0288b28" ed="T"/><note n="0288013" resp="Taisho" place="foot text" type="orig">體＝聚【明】【乙】【丙】下同</note><app n="0288013"><lem wit="【大】">體</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">聚</rdg></app>。為令一切菩薩。受用三摩地智故。成金
+<lb n="0288b29" ed="T"/>剛波羅蜜形。住毘盧遮那如來前月輪。</p>
+<pb n="0288c" xml:id="T18.0870.0288c" ed="T"/>
+<lb n="0288c01" ed="T"/><p xml:id="pT18p0288c0101">毘盧遮那佛<note n="0288014" resp="Taisho" place="foot text" type="orig">〔於〕－【明】</note><app n="0288014"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>內心。證得虛空寶大摩尼功
+<lb n="0288c02" ed="T"/>德三摩地智。自受用故。從虛空寶大摩尼功
+<lb n="0288c03" ed="T"/>德三摩地智。流出虛空寶光明。遍照十方世
+<lb n="0288c04" ed="T"/>界。令一切眾生功德圓滿。還來收一體。為令
+<lb n="0288c05" ed="T"/>一切菩薩。受用三摩地智故。成金剛寶波羅
+<lb n="0288c06" ed="T"/>蜜形。住毘盧遮那如來右邊月輪。</p>
+<lb n="0288c07" ed="T"/><p xml:id="pT18p0288c0701"><note n="0288015" resp="Taisho" place="foot text" type="orig">（毘盧…輪）九十九字∞（毘盧…輪）八十九字【明】</note><note n="0288015" resp="CBETA" type="mod"><!--CBETA todo type: a-->（毘盧…輪）九十九字∞（毘盧…輪）八十九字【明】</note>毘盧遮那佛於內心。證得羯磨金剛大精進
+<lb n="0288c08" ed="T"/>三摩地智。自受用故。從羯磨金剛大精進三
+<lb n="0288c09" ed="T"/>摩地智。流出羯磨光明。遍照十方世界。令一
+<lb n="0288c10" ed="T"/>切眾生除一切懈怠。成大精進還來收一體。
+<lb n="0288c11" ed="T"/>為令一切菩薩。受用三摩地智故。成羯磨波
+<lb n="0288c12" ed="T"/>羅蜜形。住毘盧遮那如來左邊月輪。</p>
+<lb n="0288c13" ed="T"/><p xml:id="pT18p0288c1301"><note n="0288016" resp="Taisho" place="foot text" type="orig">（毘盧…輪）九十九字∞（毘盧…輪）八十九字【明】</note><note n="0288016" resp="CBETA" type="mod"><!--CBETA todo type: a-->（毘盧…輪）九十九字∞（毘盧…輪）八十九字【明】</note>毘盧遮那佛於內心。證得大蓮花智慧三摩
+<lb n="0288c14" ed="T"/>地智。自受用故。從大蓮花智慧三摩地智。流
+<lb n="0288c15" ed="T"/>出蓮花光明。遍照十方世界淨一切眾生。客
+<lb n="0288c16" ed="T"/>塵煩惱。還來收一體。為令一切菩薩。受用三
+<lb n="0288c17" ed="T"/>摩地智故。成法波羅蜜形。住毘盧遮那如來
+<lb n="0288c18" ed="T"/>後邊月輪。</p>
+<lb n="0288c19" ed="T"/><p xml:id="pT18p0288c1901">毘盧遮那佛於內心。證得金剛薩埵勇猛菩
+<lb n="0288c20" ed="T"/>提心三摩地智。自受用故。從金剛薩埵勇猛
+<lb n="0288c21" ed="T"/>菩提心三摩地智。流出五峯金剛光明。遍照
+<lb n="0288c22" ed="T"/>十方世界。令一切眾生。頓證普賢行。還來收
+<lb n="0288c23" ed="T"/>一體。為令一切菩薩。受用三摩地智故。成金
+<lb n="0288c24" ed="T"/>剛薩埵菩薩形。住阿閦如來前月輪。</p>
+<lb n="0288c25" ed="T"/><p xml:id="pT18p0288c2501">毘盧遮那佛於內心。證得金剛鉤四攝三摩
+<lb n="0288c26" ed="T"/>地智。自受用故。從金剛鉤四攝三摩地智。流
+<lb n="0288c27" ed="T"/>出金<note n="0288017" resp="Taisho" place="foot text" type="orig">剛＋（鉤）【乙】【丙】</note><app n="0288017"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【乙】【丙】">剛鉤</rdg></app>光明。遍照十方世界。以四攝<note n="0288018" resp="Taisho" place="foot text" type="orig">〔法〕－【明】＊</note><app n="0288018"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>攝
+<lb n="0288c28" ed="T"/>一切眾生。<note n="0288019" resp="Taisho" place="foot text" type="orig">安＋（置）【乙】【丙】</note><app n="0288019"><lem wit="【大】">安</lem><rdg resp="Taisho" wit="【乙】【丙】">安置</rdg></app>於無上菩提。還來收一體。為
+<lb n="0288c29" ed="T"/>令一切菩薩。受用三摩地智故。成金剛王菩
+<pb n="0289a" xml:id="T18.0870.0289a" ed="T"/>
+<lb n="0289a01" ed="T"/>薩形。住阿閦如來右邊月輪。</p>
+<lb n="0289a02" ed="T"/><p xml:id="pT18p0289a0201">毘盧遮那佛於內心。證得金剛愛大悲箭三
+<lb n="0289a03" ed="T"/>摩地智。自受用故。從金剛愛大悲箭三摩地
+<lb n="0289a04" ed="T"/>智。流出金剛箭光明。遍照十方世界。射害一
+<lb n="0289a05" ed="T"/>切眾生。於無上菩提。厭離心者。還來收一體。
+<lb n="0289a06" ed="T"/>為令一切菩薩。受用三摩地智故。成金剛愛
+<lb n="0289a07" ed="T"/>菩薩形。住阿閦如來左邊月輪。</p>
+<lb n="0289a08" ed="T"/><p xml:id="pT18p0289a0801">毘盧遮那佛於內心。證得金剛善哉歡喜<note n="0289001" resp="Taisho" place="foot text" type="orig">〔王〕－【乙】【丙】</note><app n="0289001"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【乙】【丙】"><space quantity="0"/></rdg></app>
+<lb n="0289a09" ed="T"/><note n="0289002" resp="Taisho" place="foot text" type="orig">勇＝踊【明】下同</note><app n="0289002"><lem wit="【大】">勇</lem><rdg resp="Taisho" wit="【明】">踊</rdg></app>躍三摩地智。自受用故。從金剛善哉歡喜
+<lb n="0289a10" ed="T"/>勇躍三摩地智。流出金剛善哉印光明。遍照
+<lb n="0289a11" ed="T"/>十方世界。<note n="0289003" resp="Taisho" place="foot text" type="orig">照＝時【明】</note><app n="0289003"><lem wit="【大】">照</lem><rdg resp="Taisho" wit="【明】">時</rdg></app>一切眾生憂慼。於普賢行。<note n="0289004" resp="Taisho" place="foot text" type="orig">生＋（下）【乙】【丙】</note><app n="0289004"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【乙】【丙】">生下</rdg></app>
+<lb n="0289a12" ed="T"/>劣意者。令得身心以勇躍。智還來收一體。為
+<lb n="0289a13" ed="T"/>令一切菩薩。受用三摩地智故。成金剛善哉
+<lb n="0289a14" ed="T"/>菩薩形。住阿閦如來後月輪。</p>
+<lb n="0289a15" ed="T"/><p xml:id="pT18p0289a1501">毘盧遮那佛於內心。證得金剛寶灌頂<choice><corr>三</corr><sic>二</sic></choice>摩
+<lb n="0289a16" ed="T"/>地智。自受用故。從金剛寶灌頂三摩地智。流
+<lb n="0289a17" ed="T"/>出金剛寶光明。遍照十方世界。灌灑一切眾
+<lb n="0289a18" ed="T"/>生頂。獲得菩薩不退轉職位。還來<note n="0289005" resp="Taisho" place="foot text" type="orig">收＋（為）【明】</note><app n="0289005"><lem wit="【大】">收</lem><rdg resp="Taisho" wit="【明】">收為</rdg></app>一體。
+<lb n="0289a19" ed="T"/>為令一切菩薩。受用三摩地智故。成金剛寶
+<lb n="0289a20" ed="T"/>菩薩形。住寶生如來前月輪。</p>
+<lb n="0289a21" ed="T"/><p xml:id="pT18p0289a2101">毘盧遮那佛於內心。證得金剛威光三摩地
+<lb n="0289a22" ed="T"/>智。自受用故。從金剛威光三摩地智。流出金
+<lb n="0289a23" ed="T"/>剛日光明。遍照十方世界。破一切眾生無明
+<lb n="0289a24" ed="T"/>愚暗發大智光。還來收一體。為令一切菩薩。
+<lb n="0289a25" ed="T"/>受用三摩地智故。成金剛威光菩薩形。住寶
+<lb n="0289a26" ed="T"/>生如來右邊月輪。</p>
+<lb n="0289a27" ed="T"/><p xml:id="pT18p0289a2701">毘盧遮那佛於內心。證得金剛寶幢三摩地
+<lb n="0289a28" ed="T"/>智。自受用故從金剛寶幢三摩地智。流出金
+<lb n="0289a29" ed="T"/>剛幢光明。遍照十方世界。滿一切眾生意願
+<pb n="0289b" xml:id="T18.0870.0289b" ed="T"/>
+<lb n="0289b01" ed="T"/>還來收一體。為令一切菩薩受用三摩地智
+<lb n="0289b02" ed="T"/>故。成金剛幢菩薩形。住寶生如來左邊月輪。</p>
+<lb n="0289b03" ed="T"/><p xml:id="pT18p0289b0301">毘盧遮那佛於內心。證得金剛笑印授記三
+<lb n="0289b04" ed="T"/>摩地智。自受用故。從金剛笑印授記三摩地
+<lb n="0289b05" ed="T"/>智。流出金剛笑印光明。遍照十方世界。不定
+<lb n="0289b06" ed="T"/>性眾生。授與平等無上菩提記。還來收一體。
+<lb n="0289b07" ed="T"/>為令一切菩薩。受用三摩地智故。成金剛笑
+<lb n="0289b08" ed="T"/>菩薩形。住寶生如來後邊月輪。</p>
+<lb n="0289b09" ed="T"/><p xml:id="pT18p0289b0901">毘盧遮那佛於內心。證得金剛法清淨無染
+<lb n="0289b10" ed="T"/>三摩地智。自受用故。從金剛法清淨無染三
+<lb n="0289b11" ed="T"/>摩地智。流出金剛<app type="star" corresp="#0288018"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>光明。遍照十方世界。
+<lb n="0289b12" ed="T"/>淨除一切眾生五欲身心。清淨猶如蓮花不
+<lb n="0289b13" ed="T"/>染塵垢。還來收一體。為令一切菩薩。受用三
+<lb n="0289b14" ed="T"/>摩地智故。成金剛法菩薩形。住觀自在王如
+<lb n="0289b15" ed="T"/>來前月輪。</p>
+<lb n="0289b16" ed="T"/><p xml:id="pT18p0289b1601">毘盧遮那佛於內心。證得金剛利劍般若波
+<lb n="0289b17" ed="T"/>羅蜜三摩地智。自受用故。從金剛利劍波羅
+<lb n="0289b18" ed="T"/>蜜三摩地智。流出金剛利劍光明。遍照十方
+<lb n="0289b19" ed="T"/>世界。斷一切眾生結使。離諸苦惱。還來收一
+<lb n="0289b20" ed="T"/>體。為令一切菩薩。受用三摩地智故。成金剛
+<lb n="0289b21" ed="T"/>劍菩薩形。住觀自在王如來右邊月輪。</p>
+<lb n="0289b22" ed="T"/><p xml:id="pT18p0289b2201">毘盧遮那佛於內心。證得金剛因轉法輪三
+<lb n="0289b23" ed="T"/>摩地智。自受用故。從金剛因轉法輪三摩地
+<lb n="0289b24" ed="T"/>智。流出金剛輪光明。遍照十方世界<note n="0289006" resp="Taisho" place="foot text" type="orig">以四攝攝＝能除【明】【乙】【丙】</note><app n="0289006"><lem wit="【大】">以四攝
+<lb n="0289b25" ed="T"/>攝</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">能除</rdg></app>一切眾生。<note n="0289007" resp="Taisho" place="foot text" type="orig">安於無上菩提＝惡種子【明】【乙】【丙】</note><app n="0289007"><lem wit="【大】">安於無上菩提</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">惡種子</rdg></app>。還來收一體。
+<lb n="0289b26" ed="T"/>為令一切菩薩。受用三摩地智故。成金剛因
+<lb n="0289b27" ed="T"/>菩薩形。住觀自在王如來左邊月輪。</p>
+<lb n="0289b28" ed="T"/><p xml:id="pT18p0289b2801">毘盧遮那佛於內心。證得金剛密語離言說
+<lb n="0289b29" ed="T"/>三摩地智。自受用故。從金剛密語離言說三
+<pb n="0289c" xml:id="T18.0870.0289c" ed="T"/>
+<lb n="0289c01" ed="T"/>摩地智。流出金剛舌相光明。遍照十方世界。
+<lb n="0289c02" ed="T"/>能除十方一切眾生惡慧。令得四無礙解樂
+<lb n="0289c03" ed="T"/>說辯才。還來收一體。為令一切菩薩受用三
+<lb n="0289c04" ed="T"/>摩地智故。成金剛語菩薩形。住觀自在王如
+<lb n="0289c05" ed="T"/>來後<note n="0289008" resp="Taisho" place="foot text" type="orig">〔邊〕－【明】【丙】</note><app n="0289008"><lem wit="【大】">邊</lem><rdg resp="Taisho" wit="【明】【丙】"><space quantity="0"/></rdg></app>月輪。</p>
+<lb n="0289c06" ed="T"/><p xml:id="pT18p0289c0601">毘盧遮那佛於內心。證得金剛業虛空庫藏三
+<lb n="0289c07" ed="T"/>摩地智。自受用故。從金剛業虛空庫藏三摩地
+<lb n="0289c08" ed="T"/>智。流出金剛業光明。遍照十方世界。令一切
+<lb n="0289c09" ed="T"/>眾生。於一切如來諸菩薩所。成廣大供養。還
+<lb n="0289c10" ed="T"/>來收一體。為令一切菩薩。受用三摩地智故。
+<lb n="0289c11" ed="T"/>成金剛業菩薩形。住不空成就如來前月輪。</p>
+<lb n="0289c12" ed="T"/><p xml:id="pT18p0289c1201">毘盧遮那佛於內心。證得金剛護大慈莊嚴甲
+<lb n="0289c13" ed="T"/>冑三摩地智。自受用故。從金剛護大慈莊嚴甲
+<lb n="0289c14" ed="T"/>冑三摩地智。流出金剛甲冑光明。遍照十方
+<lb n="0289c15" ed="T"/>世界。能除暴惡恚怒眾生。速獲大慈心。還來
+<lb n="0289c16" ed="T"/>收一體。為令一切菩薩受用三摩地智故。成金
+<lb n="0289c17" ed="T"/>剛護菩薩形。住不空成就如來<note n="0289009" resp="Taisho" place="foot text" type="orig">右＝左【明】</note><app n="0289009"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】">左</rdg></app>邊月輪。</p>
+<lb n="0289c18" ed="T"/><p xml:id="pT18p0289c1801">毘盧遮那佛於內心。證得金剛藥叉方便恐怖
+<lb n="0289c19" ed="T"/>三摩地智。自受用故。從金剛藥叉方便恐怖
+<lb n="0289c20" ed="T"/>三摩地智。流出金剛牙光明。遍照十方世界。
+<lb n="0289c21" ed="T"/>降伏剛強難化眾生安置於菩提道。還來收一
+<lb n="0289c22" ed="T"/>體。為令一切菩薩。受用三摩地智故。成金剛
+<lb n="0289c23" ed="T"/>藥叉菩薩形。住不空成就如來<note n="0289010" resp="Taisho" place="foot text" type="orig">左＝右【明】</note><app n="0289010"><lem wit="【大】">左</lem><rdg resp="Taisho" wit="【明】">右</rdg></app>邊月輪。</p>
+<lb n="0289c24" ed="T"/><p xml:id="pT18p0289c2401">毘盧遮那佛於內心。證得金剛拳印威靈感
+<lb n="0289c25" ed="T"/>應三摩地智。自受用故。從金剛<note n="0289011" resp="Taisho" place="foot text" type="orig">拳＋（印）【明】【乙】【丙】</note><app n="0289011"><lem wit="【大】">拳</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">拳印</rdg></app>威靈感應
+<lb n="0289c26" ed="T"/>三摩地智。流出金剛拳光明。遍照十方世界。
+<lb n="0289c27" ed="T"/><note n="0289012" resp="Taisho" place="foot text" type="orig">令＋（除）【明】【乙】【丙】</note><app n="0289012"><lem wit="【大】">令</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">令除</rdg></app>一切眾生<note n="0289013" resp="Taisho" place="foot text" type="orig">〔除其〕－【明】【乙】【丙】</note><app n="0289013"><lem wit="【大】">除其</lem><rdg resp="Taisho" wit="【明】【乙】【丙】"><space quantity="0"/></rdg></app>業障。速獲<note n="0289014" resp="Taisho" place="foot text" type="orig">世＋（間）【乙】【丙】＊</note><app n="0289014"><lem wit="【大】">世</lem><rdg resp="Taisho" wit="【乙】【丙】">世間</rdg></app>出世間悉
+<lb n="0289c28" ed="T"/>地圓滿。還來收一體。為令一切菩薩受用三
+<lb n="0289c29" ed="T"/>摩地智故。成金剛拳菩薩形。住不空成就如
+<pb n="0290a" xml:id="T18.0870.0290a" ed="T"/>
+<lb n="0290a01" ed="T"/>來後邊月輪。</p>
+<lb n="0290a02" ed="T"/><p xml:id="pT18p0290a0201">毘盧遮那佛於內心。證得金剛嬉戲法樂<note n="0290001" resp="Taisho" place="foot text" type="orig">幖＝標【明】【乙】【丙】下同</note><app n="0290001"><lem wit="【大】">幖</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">標</rdg></app>
+<lb n="0290a03" ed="T"/>幟三摩地智。自受用故。從金剛嬉戲法樂幖
+<lb n="0290a04" ed="T"/>幟三摩地智。流出金剛嬉戲幖幟光明。遍照
+<lb n="0290a05" ed="T"/>十方世界。供養一切如來。及破凡夫貪染世
+<lb n="0290a06" ed="T"/>樂。獲得嬉戲法<note n="0290002" resp="Taisho" place="foot text" type="orig">園＝圓滿【明】【乙】【丙】</note><app n="0290002"><lem wit="【大】">園</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">圓滿</rdg></app>安樂。還來收一體。為令
+<lb n="0290a07" ed="T"/>一切菩薩。受用三摩地智故。成金剛嬉戲天
+<lb n="0290a08" ed="T"/>女形菩薩。住毘盧遮那如來東南隅月輪。</p>
+<lb n="0290a09" ed="T"/><p xml:id="pT18p0290a0901">毘盧遮那佛於內心。證得金剛花鬘菩提分法
+<lb n="0290a10" ed="T"/>三摩地智。自受用故。從金剛花鬘菩提分法
+<lb n="0290a11" ed="T"/>三摩地智。流出金剛花鬘光明。遍照十方世
+<lb n="0290a12" ed="T"/>界。供養一切如來。除諸眾生醜陋之形。獲得
+<lb n="0290a13" ed="T"/>三十二相八十種隨形好身。還來收一體。為
+<lb n="0290a14" ed="T"/>令一切菩薩。受用三摩地智故。成金剛花鬘
+<lb n="0290a15" ed="T"/>天女<note n="0290003" resp="Taisho" place="foot text" type="orig">形菩薩＝菩薩形【乙】【丙】＊</note><app n="0290003"><lem wit="【大】">形菩薩</lem><rdg resp="Taisho" wit="【乙】【丙】">菩薩形</rdg></app>。住毘盧遮那<note n="0290004" resp="Taisho" place="foot text" type="orig">佛＝如來【乙】【丙】＊</note><app n="0290004"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【乙】【丙】">如來</rdg></app>西南隅月輪。</p>
+<lb n="0290a16" ed="T"/><p xml:id="pT18p0290a1601">毘盧遮那佛於內心。證得金剛歌詠淨妙法音
+<lb n="0290a17" ed="T"/>三摩地智。自受用故。從金剛歌詠淨妙法<note n="0290005" resp="Taisho" place="foot text" type="orig">輪＝音【明】【乙】【丙】</note><app n="0290005"><lem wit="【大】">輪</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">音</rdg></app>
+<lb n="0290a18" ed="T"/>三摩地智。流出金剛<note n="0290006" resp="Taisho" place="foot text" type="orig">歌＋（詠）【乙】【丙】</note><app n="0290006"><lem wit="【大】">歌</lem><rdg resp="Taisho" wit="【乙】【丙】">歌詠</rdg></app>光明。遍照十方世
+<lb n="0290a19" ed="T"/>界。供養一切如來。能令眾生。破除語業戲論。
+<lb n="0290a20" ed="T"/>獲得六十四種梵音具足。還來收一體。為令
+<lb n="0290a21" ed="T"/>一切菩薩。受用三摩地智故。成金剛歌詠天
+<lb n="0290a22" ed="T"/>女<app type="star" corresp="#0290003"><lem wit="【大】">形菩薩</lem><rdg resp="Taisho" wit="【乙】【丙】">菩薩形</rdg></app>。住毘盧遮那<note n="0290007" resp="Taisho" place="foot text" type="orig">佛＝如來【明】【乙】【丙】</note><app n="0290007"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">如來</rdg></app>西北隅月輪。</p>
+<lb n="0290a23" ed="T"/><p xml:id="pT18p0290a2301">毘盧遮那佛於內心。證得金剛法舞神通遊
+<lb n="0290a24" ed="T"/>戲三摩地智。自受用故。從金剛法舞神通遊
+<lb n="0290a25" ed="T"/>戲三摩地智。流出金剛舞光明。遍照十方世
+<lb n="0290a26" ed="T"/>界。供養一切如來。及破一切眾生<note n="0290008" resp="Taisho" place="foot text" type="orig">〔無智〕－【明】</note><app n="0290008"><lem wit="【大】">無智</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>無
+<lb n="0290a27" ed="T"/>明。獲得六通自在遊戲。還來收一體。為令一
+<lb n="0290a28" ed="T"/>切菩薩。受用三摩地智故。成金剛法舞天女
+<lb n="0290a29" ed="T"/><app type="star" corresp="#0290003"><lem wit="【大】">形菩薩</lem><rdg resp="Taisho" wit="【乙】【丙】">菩薩形</rdg></app>。住毘盧遮那<app type="star" corresp="#0290004"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【乙】【丙】">如來</rdg></app>東北隅月輪。</p>
+<pb n="0290b" xml:id="T18.0870.0290b" ed="T"/>
+<lb n="0290b01" ed="T"/><p xml:id="pT18p0290b0101">毘盧遮那佛於內心。證得金剛焚香雲海三
+<lb n="0290b02" ed="T"/>摩地智。自受用故。從金剛焚香雲海三摩地
+<lb n="0290b03" ed="T"/>智。流出金剛焚香。光明遍照十方世界。供養
+<lb n="0290b04" ed="T"/>一切如來。及破<note n="0290009" resp="Taisho" place="foot text" type="orig">〔除〕－【明】</note><app n="0290009"><lem wit="【大】">除</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>一切眾生臭穢煩惱。獲得
+<lb n="0290b05" ed="T"/>適悅無礙智香。還來收一體。為令一切菩薩。
+<lb n="0290b06" ed="T"/>受用三摩地智故。成金剛焚香侍女菩薩形。
+<lb n="0290b07" ed="T"/>住東南角金剛寶樓閣。</p>
+<lb n="0290b08" ed="T"/><p xml:id="pT18p0290b0801">毘盧遮那佛於內心。證得金剛覺花雲海三
+<lb n="0290b09" ed="T"/>摩地智。自受用故。從金剛覺花雲海三摩地
+<lb n="0290b10" ed="T"/>智。流出金剛覺花光明。遍照十方世界。供養
+<lb n="0290b11" ed="T"/>一切如來。及破一切眾生迷惑。開敷心花。證
+<lb n="0290b12" ed="T"/>無染智。還來收一體。為令一切菩薩。受用三
+<lb n="0290b13" ed="T"/>摩地智故。成金剛覺花侍女菩薩形。住西南
+<lb n="0290b14" ed="T"/>角金剛寶樓閣。</p>
+<lb n="0290b15" ed="T"/><p xml:id="pT18p0290b1501">毘盧遮那佛於內心。證得金剛燈明雲海三
+<lb n="0290b16" ed="T"/>摩地智。自受用故。從金剛燈明雲海三摩地
+<lb n="0290b17" ed="T"/>智。流出金剛燈明光明。遍照十方世界。供養
+<lb n="0290b18" ed="T"/>一切如來。<note n="0290010" resp="Taisho" place="foot text" type="orig">及＝能【明】【乙】【丙】</note><app n="0290010"><lem wit="【大】">及</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">能</rdg></app>破一切眾生無明住地。獲得如
+<lb n="0290b19" ed="T"/>來<note n="0290011" resp="Taisho" place="foot text" type="orig">五眼清淨＝清淨五眼【明】【乙】【丙】</note><app n="0290011"><lem wit="【大】">五眼清淨</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">清淨五眼</rdg></app>還來收一體。為令一切菩薩。受
+<lb n="0290b20" ed="T"/>用三摩地智故。成金剛燈明侍女菩薩形。住
+<lb n="0290b21" ed="T"/>西北角金剛寶樓閣。</p>
+<lb n="0290b22" ed="T"/><p xml:id="pT18p0290b2201">毘盧遮那佛於內心。證得金剛塗香雲海三
+<lb n="0290b23" ed="T"/>摩地智。自受用故。從金剛塗香雲海三摩地
+<lb n="0290b24" ed="T"/>智。流出金剛塗香光明。遍照十方世界。供養
+<lb n="0290b25" ed="T"/>一切如來。及破一切眾生身口意業非律儀
+<lb n="0290b26" ed="T"/>過。獲得五分無漏法身。還來收一體。為令一
+<lb n="0290b27" ed="T"/>切菩薩。<note n="0290012" resp="Taisho" place="foot text" type="orig">（自）＋受【明】</note><app n="0290012"><lem wit="【大】">受</lem><rdg resp="Taisho" wit="【明】">自受</rdg></app>用三摩地智故。成金剛塗香侍女
+<lb n="0290b28" ed="T"/>菩薩形。住東北角金剛寶樓閣。</p>
+<lb n="0290b29" ed="T"/><p xml:id="pT18p0290b2901">毘盧遮那佛於內心。證得請召金剛鉤三摩
+<pb n="0290c" xml:id="T18.0870.0290c" ed="T"/>
+<lb n="0290c01" ed="T"/>地智。自受用故。從請召金剛鉤三摩地智。流
+<lb n="0290c02" ed="T"/>出金剛鉤光明。遍照十方世界。請召一切如
+<lb n="0290c03" ed="T"/>來金剛界道場。及拔一切眾生惡趣。安於無
+<lb n="0290c04" ed="T"/>住涅槃之城。還來收一體。為令一切菩薩。受
+<lb n="0290c05" ed="T"/>用三摩地智故。成守菩提心戶金剛鉤菩薩
+<lb n="0290c06" ed="T"/>形。住東門月輪。</p>
+<lb n="0290c07" ed="T"/><p xml:id="pT18p0290c0701">毘盧遮那佛於內心。證得金剛引入方便羂
+<lb n="0290c08" ed="T"/>索三摩地智。自受用故。從引入方便羂索三
+<lb n="0290c09" ed="T"/>摩地智。流出金剛羂索光明。遍照十方世界。
+<lb n="0290c10" ed="T"/>引入一切如來聖眾。及羂索一切眾生。<note n="0290013" resp="Taisho" place="foot text" type="orig">沈＝脫【乙】【丙】</note><app n="0290013"><lem wit="【大】">沈</lem><rdg resp="Taisho" wit="【乙】【丙】">脫</rdg></app>於
+<lb n="0290c11" ed="T"/>二乘實際三摩地<note n="0290014" resp="Taisho" place="foot text" type="orig">〔智〕－【明】</note><app n="0290014"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>淤泥。安置覺王法界宮
+<lb n="0290c12" ed="T"/>殿。還來收一體。為令一切菩薩。受用三摩地
+<lb n="0290c13" ed="T"/>智故。成衛護功德戶金剛<note n="0290015" resp="Taisho" place="foot text" type="orig">〔羂〕－【明】【丙】</note><app n="0290015"><lem wit="【大】">羂</lem><rdg resp="Taisho" wit="【明】【丙】"><space quantity="0"/></rdg></app>索菩薩形。住南
+<lb n="0290c14" ed="T"/>門月輪。</p>
+<lb n="0290c15" ed="T"/><p xml:id="pT18p0290c1501">毘盧遮那佛於內心。證得堅固金剛鎖械三
+<lb n="0290c16" ed="T"/>摩地智。自受用故。從堅固金剛鎖械三摩地
+<lb n="0290c17" ed="T"/>智。流出金剛鎖械光明。遍照十方世界。令已
+<lb n="0290c18" ed="T"/>入一切如來聖眾<note n="0290016" resp="Taisho" place="foot text" type="orig">〔金剛〕－【明】</note><app n="0290016"><lem wit="【大】">金剛</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>界道場。以大悲誓。繫
+<lb n="0290c19" ed="T"/>縛而住。及摧一切眾生外道諸見。住無上菩
+<lb n="0290c20" ed="T"/>提不退堅固無<note n="0290017" resp="Taisho" place="foot text" type="orig">畏＝礙【明】【乙】【丙】</note><app n="0290017"><lem wit="【大】">畏</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">礙</rdg></app>大城。還來收一體。為令一
+<lb n="0290c21" ed="T"/>切菩薩。受用三摩地智故。成金剛鎖械菩薩
+<lb n="0290c22" ed="T"/>形。守智慧戶。住西門月輪。</p>
+<lb n="0290c23" ed="T"/><p xml:id="pT18p0290c2301">毘盧遮那佛於內心。證得般若波羅蜜金剛
+<lb n="0290c24" ed="T"/>鈴三摩地智。自受用故。從般若波羅蜜金剛
+<lb n="0290c25" ed="T"/>鈴三摩地智。流出金剛鈴光明。遍照十方世
+<lb n="0290c26" ed="T"/>界。歡喜一切如來海會聖眾。住金剛界道場
+<lb n="0290c27" ed="T"/>者。及破一切眾生二乘異見。安置般若波羅
+<lb n="0290c28" ed="T"/>蜜宮。還來收一體。為令一切菩薩。受用三摩
+<lb n="0290c29" ed="T"/>地智故。成金剛鈴菩薩形。守精進戶。住北門
+<pb n="0291a" xml:id="T18.0870.0291a" ed="T"/>
+<lb n="0291a01" ed="T"/>月輪。</p>
+<lb n="0291a02" ed="T"/><p xml:id="pT18p0291a0201">若依次<note n="0291001" resp="Taisho" place="foot text" type="orig">〔第〕－【明】【乙】【丙】</note><app n="0291001"><lem wit="【大】">第</lem><rdg resp="Taisho" wit="【明】【乙】【丙】"><space quantity="0"/></rdg></app>說。前後有差據報身佛。頓證身口
+<lb n="0291a03" ed="T"/>意三種淨業。遍周法界。於一一法門一一理
+<lb n="0291a04" ed="T"/>趣一一毛孔身分相好。盡虛空界。不相障礙。
+<lb n="0291a05" ed="T"/>各<note n="0291002" resp="Taisho" place="foot text" type="orig">居＝住【明】【乙】【丙】</note><app n="0291002"><lem wit="【大】">居</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">住</rdg></app>本位。以成遍照光明毘盧遮那自受用
+<lb n="0291a06" ed="T"/>身他受用身。若依二乘。次第而說。若不具修
+<lb n="0291a07" ed="T"/>三十七菩提分法。證得道果。無有是處。若證
+<lb n="0291a08" ed="T"/>自受用身佛。必須三十七三摩地智。以成佛
+<lb n="0291a09" ed="T"/>果。梵本入楞伽偈頌品云。自性及受用。變化
+<lb n="0291a10" ed="T"/>并等流。佛德三十六。皆同自性身。并法界身。
+<lb n="0291a11" ed="T"/>總成三十七也。</p>
+<lb n="0291a12" ed="T"/><p xml:id="pT18p0291a1201">最初於無上乘。發菩提心。由阿閦佛加持故。
+<lb n="0291a13" ed="T"/>證得圓滿菩提心。<note n="0291003" resp="Taisho" place="foot text" type="orig">由＋（寶生佛加持故內）【乙】【丙】</note><app n="0291003"><lem wit="【大】">由</lem><rdg resp="Taisho" wit="【乙】【丙】">由寶生佛加持故內</rdg></app>證菩提。外感空中寶生
+<lb n="0291a14" ed="T"/>佛灌頂。受三界法王位。由觀自在王佛加持。
+<lb n="0291a15" ed="T"/>語輪能說無量修多羅法門。由不空成就佛
+<lb n="0291a16" ed="T"/>加<note n="0291004" resp="Taisho" place="foot text" type="orig">持＋（故）【乙】【丙】</note><app n="0291004"><lem wit="【大】">持</lem><rdg resp="Taisho" wit="【乙】【丙】">持故</rdg></app>。於諸佛事及有情事。<note n="0291005" resp="Taisho" place="foot text" type="orig">所＋（修）【明】【乙】【丙】</note><app n="0291005"><lem wit="【大】">所</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">所修</rdg></app>行利樂皆悉
+<lb n="0291a17" ed="T"/>成就。由金剛波羅蜜加持故。證得圓滿周法
+<lb n="0291a18" ed="T"/>界遍虛空大圓鏡智。由寶波羅蜜加持故。於
+<lb n="0291a19" ed="T"/>無邊眾生世間及無邊器世間。證得平等性
+<lb n="0291a20" ed="T"/>智。由法波羅蜜加持故。於無量三昧陀羅尼
+<lb n="0291a21" ed="T"/>門諸解脫法。<note n="0291006" resp="Taisho" place="foot text" type="orig">（證）＋得【乙】【丙】</note><app n="0291006"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【乙】【丙】">證得</rdg></app>妙觀察智。由羯磨波羅蜜加
+<lb n="0291a22" ed="T"/>持故。於無量安立雜染世界清淨世界。證得
+<lb n="0291a23" ed="T"/>成所作智。由金剛薩埵菩薩加持故。剎那猛
+<lb n="0291a24" ed="T"/>利心頓證無上菩提。由金剛王菩薩加持故。
+<lb n="0291a25" ed="T"/>於諸有情利樂門中。<note n="0291007" resp="Taisho" place="foot text" type="orig">被＝備【明】，彼【乙】【丙】</note><note n="0291007" resp="CBETA" type="mod">被＝備【明】，＝彼【乙】【丙】</note><app n="0291007"><lem wit="【大】">被</lem><rdg resp="Taisho" wit="【明】">備</rdg><rdg resp="Taisho" wit="【乙】【丙】">彼</rdg></app>具四攝法門。由金剛
+<lb n="0291a26" ed="T"/>愛菩薩加持故。於無邊有情。無緣大悲曾無
+<lb n="0291a27" ed="T"/>間斷。由金剛善哉菩薩加持故。於諸善法。渴
+<lb n="0291a28" ed="T"/>仰無厭。見微少善<note n="0291008" resp="Taisho" place="foot text" type="orig">便為＝即便【明】【乙】【丙】</note><app n="0291008"><lem wit="【大】">便為</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">即便</rdg></app>稱美。由金剛寶菩薩
+<lb n="0291a29" ed="T"/>加持故。<note n="0291009" resp="Taisho" place="foot text" type="orig">證＋（得）【乙】【丙】</note><app n="0291009"><lem wit="【大】">證</lem><rdg resp="Taisho" wit="【乙】【丙】">證得</rdg></app>無染智。猶如虛空廣大圓滿。由
+<pb n="0291b" xml:id="T18.0870.0291b" ed="T"/>
+<lb n="0291b01" ed="T"/>金剛光明菩薩加持故。證得慧光。喻若日輪
+<lb n="0291b02" ed="T"/>無不照曜。由金剛幢菩薩加持故。能滿有情
+<lb n="0291b03" ed="T"/><app type="star" corresp="#0289014"><lem wit="【大】">世</lem><rdg resp="Taisho" wit="【乙】【丙】">世間</rdg></app>出世間所有希願。如真多摩尼寶幢。心無
+<lb n="0291b04" ed="T"/>分別。皆令滿足。由金剛笑菩薩加持故。一切
+<lb n="0291b05" ed="T"/>有情若見若聞。心生踊躍。於法決定。受法利
+<lb n="0291b06" ed="T"/>樂。由金剛法菩薩加持故。證得法本性清淨。
+<lb n="0291b07" ed="T"/>悉能演說微妙法門知一切法皆如筏喻。由
+<lb n="0291b08" ed="T"/>金剛利菩薩加持故。以般若波羅蜜劍。能斷
+<lb n="0291b09" ed="T"/>自他無量雜染結使諸苦。由金剛因菩薩加
+<lb n="0291b10" ed="T"/>持故。於無量諸佛世界。請一切如來轉妙法
+<lb n="0291b11" ed="T"/>輪。由金剛語菩薩加持故。以六十四種法音。
+<lb n="0291b12" ed="T"/>遍至十方。隨眾生類皆成法益。由金剛業菩
+<lb n="0291b13" ed="T"/>薩加持故。於無邊佛剎海會。成大供養儀。由
+<lb n="0291b14" ed="T"/>金剛護菩薩加持故。被大誓願莊嚴甲冑。返
+<lb n="0291b15" ed="T"/>入生死。廣作菩薩。引育<note n="0291010" resp="Taisho" place="foot text" type="orig">有情＝眾生【明】【乙】【丙】</note><app n="0291010"><lem wit="【大】">有情</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">眾生</rdg></app>。置於佛法。由
+<lb n="0291b16" ed="T"/>金剛藥叉菩薩加持故。能摧天魔一切<note n="0291011" resp="Taisho" place="foot text" type="orig">外道＝諸障【明】【乙】【丙】</note><app n="0291011"><lem wit="【大】">外道</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">諸障</rdg></app>。
+<lb n="0291b17" ed="T"/>能<note n="0291012" resp="Taisho" place="foot text" type="orig">羸＝贏【明】</note><app n="0291012"><lem wit="【大】">羸</lem><rdg resp="Taisho" wit="【明】">贏</rdg></app>無始煩惱<note n="0291013" resp="Taisho" place="foot text" type="orig">怨＝冤【明】</note><app n="0291013"><lem wit="【大】">怨</lem><rdg resp="Taisho" wit="【明】">冤</rdg></app>敵。由金剛拳菩薩加持
+<lb n="0291b18" ed="T"/>故。於三密門無量真言三昧印契。合成一體。
+<lb n="0291b19" ed="T"/>由金剛嬉戲菩薩加持故。於受用法。圓滿快
+<lb n="0291b20" ed="T"/>樂。得受用智自在。由金剛鬘菩薩加持故。得
+<lb n="0291b21" ed="T"/>菩提分法花鬘。以為莊嚴。由金剛歌菩薩加
+<lb n="0291b22" ed="T"/>持故。得如來微妙音聲。聞者無厭。於聖德
+<lb n="0291b23" ed="T"/>解脫。了覺諸法。猶如呼響。由金剛舞菩薩加
+<lb n="0291b24" ed="T"/>持故。得剎那迅疾分身。頓至無邊世界。由金
+<lb n="0291b25" ed="T"/>剛<note n="0291014" resp="Taisho" place="foot text" type="orig">焱＝焚【明】【乙】【丙】</note><app n="0291014"><lem wit="【大】">焱</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">焚</rdg></app>香菩薩加持故。得如來悅意無礙智香。
+<lb n="0291b26" ed="T"/>由金剛花菩薩加持故。能開眾生煩惱淤泥
+<lb n="0291b27" ed="T"/>覺意妙花。由金剛燈明菩薩加持故。獲得五
+<lb n="0291b28" ed="T"/>眼清淨。自利利他照法自在。由金剛塗香菩
+<lb n="0291b29" ed="T"/>薩加持故。得佛五種無漏淨身。由金剛鉤菩
+<pb n="0291c" xml:id="T18.0870.0291c" ed="T"/>
+<lb n="0291c01" ed="T"/>薩加持故。得召集一切聖眾速疾三昧。由金
+<lb n="0291c02" ed="T"/>剛羂索菩薩加持故。得如虛空無障礙善巧
+<lb n="0291c03" ed="T"/>智。由金剛鎖菩薩加持故。得佛堅固無染觀
+<lb n="0291c04" ed="T"/>察大悲解脫。由金剛鈴菩薩加持故。得如來
+<lb n="0291c05" ed="T"/>般若波羅蜜音聲。聞者能摧藏識中諸惡種
+<lb n="0291c06" ed="T"/>子。</p>
+<lb n="0291c07" ed="T"/><p xml:id="pT18p0291c0701">以<note n="0291015" resp="Taisho" place="foot text" type="orig">〔此〕－【明】</note><app n="0291015"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>三十七內證無上金剛界分智威力加
+<lb n="0291c08" ed="T"/>持。頓證毘盧遮那之身。從無見頂相。流出無
+<lb n="0291c09" ed="T"/>量佛頂法身。雲集空中。以成法會。光明遍覆
+<lb n="0291c10" ed="T"/>如塔相輪。十地滿足莫能覩見。冥加有情。身
+<lb n="0291c11" ed="T"/>心罪障悉令殄滅。無能知者。雖不能<note n="0291016" resp="Taisho" place="foot text" type="orig">〔覺〕－【明】【乙】【丙】</note><app n="0291016"><lem wit="【大】">覺</lem><rdg resp="Taisho" wit="【明】【乙】【丙】"><space quantity="0"/></rdg></app>知。
+<lb n="0291c12" ed="T"/>能息諸苦而生善趣。從光<note n="0291017" resp="Taisho" place="foot text" type="orig">〔明〕－【明】</note><app n="0291017"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>流出十六菩薩
+<lb n="0291c13" ed="T"/>及八方等內外大護。展轉出光。照觸<note n="0291018" resp="Taisho" place="foot text" type="orig">惡＝六【乙】【丙】</note><app n="0291018"><lem wit="【大】">惡</lem><rdg resp="Taisho" wit="【乙】【丙】">六</rdg></app>趣。
+<lb n="0291c14" ed="T"/>以成窣<note n="0291019" resp="Taisho" place="foot text" type="orig">覩＝堵【明】＊</note><app n="0291019"><lem wit="【大】">覩</lem><rdg resp="Taisho" wit="【明】">堵</rdg></app>波階級。衛護諸佛窣<app type="star" corresp="#0291019"><lem wit="【大】">覩</lem><rdg resp="Taisho" wit="【明】">堵</rdg></app>波法界
+<lb n="0291c15" ed="T"/>宮殿。成為<note n="0291020" resp="Taisho" place="foot text" type="orig">相輪令＝全【明】【乙】【丙】</note><app n="0291020"><lem wit="【大】">相輪令</lem><rdg resp="Taisho" wit="【明】【乙】【丙】">全</rdg></app>身。現證金剛界如來毘盧
+<lb n="0291c16" ed="T"/>遮那遍照之身也。</p>
+<lb n="0291c17" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>略述金剛頂瑜伽分別聖位修證法<note n="0291021" resp="Taisho" place="foot text" type="orig">門＋（經一卷）【乙】【丙】，乙本奧朱書及丙本云貞享甲子九月二十日校之點之是為明日傳授于諸徒也迴此功德薦宗味信士十三回之冥福耳淨嚴四十六，乙本奧朱書更曰元祿十五年十二月二十四日以和尚御本再校了尊教</note><app n="0291021"><lem wit="【大】">門</lem><rdg resp="Taisho" wit="【乙】【丙】">門經一卷</rdg></app><note n="0291021" type="rest" place="foot">乙本奧朱書及丙本云貞享甲子九月二十日校之點之是為明日傳授于諸徒也迴此功德薦宗味信士十三回之冥福耳淨嚴四十六，乙本奧朱書更曰元祿十五年十二月二十四日以和尚御本再校了尊教</note></cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

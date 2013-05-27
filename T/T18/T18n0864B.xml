@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T18n0864B">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0864B 胎藏金剛教法名號</title>
+			<author>唐 義操集</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $<date>$Date: 2009/04/23 07:59:44 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 07:59:44 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 18, No. 864B </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-05T17:54:04">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T18n0864B.xml,v $
+Revision 1.10  2009/04/23 07:59:44  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2006/04/12 21:55:24  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.7  2004/10/17 11:34:27  saywhat
+段落前加入圈點
+
+Revision 1.6  2004/09/11 10:01:21  saywhat
+刪除空的 juan close
+
+Revision 1.5  2004/07/04 13:38:47  saywhat
+修訂 div 位置
+
+Revision 1.4  2004/04/20 08:38:33  maha
+「版本日期」標記修訂
+
+Revision 1.3  2003/06/26 02:50:38  saywhat
+<corr>→<app>
+
+Revision 1.2  2003/06/23 06:13:20  saywhat
+[＊]校勘插入XML
+
+Revision 1.1.1.1  2003/05/05 04:09:06  ray
+recover cvs
+
+Revision 1.16  2003/03/10 05:01:42  saywhat
+移動todo type=i位置
+
+Revision 1.15  2002/12/04 01:47:35  saywhat
+校勘插入處理
+
+Revision 1.14  2002/11/04 10:44:20  ray
+tei.2 => TEI.2
+
+Revision 1.13  2002/10/07 13:09:49  moved
+modified
+
+Revision 1.12  2002/07/29 09:44:53  vinking
+modified lang
+
+Revision 1.11  2002/04/08 08:58:19  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.10  2001/11/05 06:12:44  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.9  2001/07/24 06:52:17  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.8  2001/05/25 08:58:06  ray
+經號統一為四碼
+
+Revision 1.7  2001/03/30 05:47:55  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.6  2001/03/25 09:09:13  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 06:53:13  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 07:42:57  chris
+Added keywords $Revision: 1.10 $, $Date: 2009/04/23 07:59:44 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="0203b" xml:id="T18.0864B.0203b" ed="T"/>
+<lb n="0203b01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0203b02" ed="T"/>
+<lb n="0203b03" ed="T"/><cb:docNumber>No. 864B</cb:docNumber>
+<lb n="0203b04" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><note n="0203004" resp="Taisho" place="foot text" type="orig">【原】正德二年寫東寺三密藏藏本，【甲】大日本續藏經</note><cb:jhead>胎藏金剛教法名號</cb:jhead></cb:juan>
+<lb n="0203b05" ed="T"/>
+<lb n="0203b06" ed="T"/><byline cb:type="Collector">青龍寺東塔院沙門阿囉他捺哩荼<note place="inline">唐云義操</note>集</byline>
+<lb n="0203b07" ed="T"/><cb:div type="jing"><p xml:id="pT18p0203b0701">大毘盧遮那如來<note place="inline">號遍照金剛</note></p>
+<lb n="0203b08" ed="T"/><p xml:id="pT18p0203b0801">東方寶幢如來<note place="inline"><note n="0203005" resp="Taisho" place="foot text" type="orig">名＝號【甲】</note><app n="0203005"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【甲】">號</rdg></app>福聚金剛</note></p>
+<lb n="0203b09" ed="T"/><p xml:id="pT18p0203b0901">南方開敷花如來<note place="inline">號平等金剛</note></p>
+<lb n="0203b10" ed="T"/><p xml:id="pT18p0203b1001">西方無量壽如來<note place="inline">號清淨金剛</note></p>
+<lb n="0203b11" ed="T"/><p xml:id="pT18p0203b1101">北方<note n="0203006" resp="Taisho" place="foot text" type="orig">（天）＋鼓【甲】</note><app n="0203006"><lem wit="【大】">鼓</lem><rdg resp="Taisho" wit="【甲】">天鼓</rdg></app>音如來<note place="inline">號不動金剛</note></p>
+<lb n="0203b12" ed="T"/><p xml:id="pT18p0203b1201">東南方普賢菩薩<note place="inline"><note n="0203007" resp="Taisho" place="foot text" type="orig">（號）＋真【甲】</note><app n="0203007"><lem wit="【大】">真</lem><rdg resp="Taisho" wit="【甲】">號真</rdg></app>如金剛</note></p>
+<lb n="0203b13" ed="T"/><p xml:id="pT18p0203b1301"><note n="0203008" resp="Taisho" place="foot text" type="orig">甲本東北方置西北方下</note>東北方彌勒菩薩<note place="inline">號迅疾金剛</note></p>
+<lb n="0203b14" ed="T"/><p xml:id="pT18p0203b1401">西南方文殊菩薩<note place="inline">號吉祥金剛</note></p>
+<lb n="0203b15" ed="T"/><p xml:id="pT18p0203b1501">西北方觀自在菩薩<note place="inline">號<note n="0203009" resp="Taisho" place="foot text" type="orig">（正）＋法【甲】</note><app n="0203009"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【甲】">正法</rdg></app>金剛</note></p>
+<lb n="0203b16" ed="T"/><p xml:id="pT18p0203b1601">中般若波羅蜜菩薩<note place="inline"><note n="0203010" resp="Taisho" place="foot text" type="orig">（號）＋智【甲】</note><app n="0203010"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】">號智</rdg></app>慧金剛</note></p>
+<lb n="0203b17" ed="T"/><p xml:id="pT18p0203b1701">右邊焰曼得迦<note place="inline">大威德金剛<note n="0203011" resp="Taisho" place="foot text" type="orig">寺＝持【甲】</note><app n="0203011"><lem wit="【大】">寺</lem><rdg resp="Taisho" wit="【甲】">持</rdg></app>明金剛</note></p>
+<lb n="0203b18" ed="T"/><p xml:id="pT18p0203b1801">右邊降三世菩薩<note place="inline">最勝金剛</note></p>
+<lb n="0203b19" ed="T"/><p xml:id="pT18p0203b1901">右邊馬頭明王<note place="inline">迅速金剛亦<note n="0203012" resp="Taisho" place="foot text" type="orig">名＝號【甲】</note><app n="0203012"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【甲】">號</rdg></app>噉食金剛</note></p>
+<lb n="0203b20" ed="T"/><p xml:id="pT18p0203b2001">左邊<note n="0203013" resp="Taisho" place="foot text" type="orig">聖＝勝【甲】</note><app n="0203013"><lem wit="【大】">聖</lem><rdg resp="Taisho" wit="【甲】">勝</rdg></app>降三世菩薩<note place="inline">吽迦羅金剛</note></p>
+<lb n="0203b21" ed="T"/><p xml:id="pT18p0203b2101">左邊不動尊菩薩<note place="inline">常住金剛</note></p>
+<lb n="0203b22" ed="T"/><p xml:id="pT18p0203b2201">左邊月<note n="0203014" resp="Taisho" place="foot text" type="orig">厭＝黶【甲】</note><app n="0203014"><lem wit="【大】">厭</lem><rdg resp="Taisho" wit="【甲】">黶</rdg></app>菩薩<note place="inline">底羅金剛</note></p>
+<lb n="0203b23" ed="T"/><p xml:id="pT18p0203b2301">中虛空藏菩薩<note place="inline">如意金剛</note></p>
+<lb n="0203b24" ed="T"/><p xml:id="pT18p0203b2401"><note n="0203015" resp="Taisho" place="foot text" type="orig">右＋（邊）【甲】</note><app n="0203015"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【甲】">右邊</rdg></app>檀波羅蜜菩薩<note place="inline">普施金剛</note></p>
+<lb n="0203b25" ed="T"/><p xml:id="pT18p0203b2501">右邊戒波羅蜜菩薩<note place="inline">尸羅金剛</note></p>
+<lb n="0203b26" ed="T"/><p xml:id="pT18p0203b2601">右邊忍波羅蜜菩薩<note place="inline"><note n="0203016" resp="Taisho" place="foot text" type="orig">帝剎＝常利ィ【甲】</note><app n="0203016"><lem wit="【大】">帝剎</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">常利</rdg></app>金剛</note></p>
+<lb n="0203b27" ed="T"/><p xml:id="pT18p0203b2701">右邊精進波羅蜜菩薩<note place="inline">慈護金剛</note></p>
+<lb n="0203b28" ed="T"/><p xml:id="pT18p0203b2801">右邊禪波羅蜜菩薩<note place="inline">正定金剛</note></p>
+<lb n="0203b29" ed="T"/><p xml:id="pT18p0203b2901"><note n="0203017" resp="Taisho" place="foot text" type="orig">（中）＋左【甲】</note><app n="0203017"><lem wit="【大】">左</lem><rdg resp="Taisho" wit="【甲】">中左</rdg></app>邊智慧波羅蜜菩薩<note place="inline">大慧金剛</note></p>
+<pb n="0203c" xml:id="T18.0864B.0203c" ed="T"/>
+<lb n="0203c01" ed="T"/><p xml:id="pT18p0203c0101">左邊方便波羅蜜菩薩<note place="inline">究竟金剛善巧金剛</note></p>
+<lb n="0203c02" ed="T"/><p xml:id="pT18p0203c0201">左邊願波羅蜜菩薩<note place="inline">成就金剛</note></p>
+<lb n="0203c03" ed="T"/><p xml:id="pT18p0203c0301">左邊力波羅蜜菩薩<note place="inline">勇進金剛</note></p>
+<lb n="0203c04" ed="T"/><p xml:id="pT18p0203c0401">左邊智波羅蜜菩薩<note place="inline">圓淨金剛</note></p>
+<lb n="0203c05" ed="T"/><p xml:id="pT18p0203c0501"><note n="0203018" resp="Taisho" place="foot text" type="orig">（中）＋右【甲】</note><app n="0203018"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【甲】">中右</rdg></app>邊發意轉<note n="0203019" resp="Taisho" place="foot text" type="orig">〔法〕－【甲】</note><app n="0203019"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>輪<note place="inline">法輪金剛</note></p>
+<lb n="0203c06" ed="T"/><p xml:id="pT18p0203c0601">右邊生念處菩薩<note place="inline">憶持金剛</note></p>
+<lb n="0203c07" ed="T"/><p xml:id="pT18p0203c0701">右邊聖觀自在菩薩<note place="inline">持鉤金剛</note></p>
+<lb n="0203c08" ed="T"/><p xml:id="pT18p0203c0801">右邊不空鉤菩薩<note place="inline">化現金剛</note></p>
+<lb n="0203c09" ed="T"/><p xml:id="pT18p0203c0901">右邊千<note n="0203020" resp="Taisho" place="foot text" type="orig">手＋（眼）【甲】</note><app n="0203020"><lem wit="【大】">手</lem><rdg resp="Taisho" wit="【甲】">手眼</rdg></app>觀自在菩薩<note place="inline"><note n="0203021" resp="Taisho" place="foot text" type="orig">大悲＝悉地【甲】</note><app n="0203021"><lem wit="【大】">大悲</lem><rdg resp="Taisho" wit="【甲】">悉地</rdg></app>金剛</note></p>
+<lb n="0203c10" ed="T"/><p xml:id="pT18p0203c1001">左邊無垢逝菩薩<note place="inline">明徹金剛</note></p>
+<lb n="0203c11" ed="T"/><p xml:id="pT18p0203c1101">左邊蘇婆呼菩薩<note place="inline">悉地金剛</note></p>
+<lb n="0203c12" ed="T"/><p xml:id="pT18p0203c1201">左邊金剛<note n="0203022" resp="Taisho" place="foot text" type="orig">針＋（菩薩）【甲】</note><app n="0203022"><lem wit="【大】">針</lem><rdg resp="Taisho" wit="【甲】">針菩薩</rdg></app><note place="inline">精進金剛</note></p>
+<lb n="0203c13" ed="T"/><p xml:id="pT18p0203c1301">左邊蘇悉地羯羅菩薩<note place="inline">成就金剛</note></p>
+<lb n="0203c14" ed="T"/><p xml:id="pT18p0203c1401">左邊<note n="0203023" resp="Taisho" place="foot text" type="orig">金剛藏王∞曼荼羅【甲】</note><app n="0203023"><lem wit="【大】">金剛藏王</lem><rdg resp="Taisho" wit="【甲】">曼荼羅</rdg></app>菩薩<note place="inline">祕密金剛</note></p>
+<lb n="0203c15" ed="T"/><p xml:id="pT18p0203c1501">左邊<note n="0203024" resp="Taisho" place="foot text" type="orig">金剛藏王∞曼荼羅【甲】</note><app n="0203024"><lem wit="【大】">曼荼羅</lem><rdg resp="Taisho" wit="【甲】">金剛藏王</rdg></app>菩薩<note place="inline">大輪金剛</note></p>
+<lb n="0203c16" ed="T"/><p xml:id="pT18p0203c1601"><note n="0203025" resp="Taisho" place="foot text" type="orig">右＝左【甲】</note><app n="0203025"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【甲】">左</rdg></app>邊供養寶菩薩<note place="inline">如意金剛</note></p>
+<lb n="0203c17" ed="T"/><p xml:id="pT18p0203c1701">右邊孔雀明王菩薩<note place="inline">佛母金剛</note></p>
+<lb n="0203c18" ed="T"/><p xml:id="pT18p0203c1801">右邊一髻羅剎王菩薩<note place="inline">雷電金剛</note></p>
+<lb n="0203c19" ed="T"/><p xml:id="pT18p0203c1901">右邊十一面觀世音菩薩<note place="inline">變異金剛</note></p>
+<lb n="0203c20" ed="T"/><p xml:id="pT18p0203c2001">西門南第一左邊不空金剛<note n="0203026" resp="Taisho" place="foot text" type="orig">〔菩薩〕－【甲】</note><app n="0203026"><lem wit="【大】">菩薩</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0203c21" ed="T"/><note place="inline">辨事金剛</note></p>
+<lb n="0203c22" ed="T"/><p xml:id="pT18p0203c2201">左邊軍吒利菩薩<note place="inline">甘露金剛</note></p>
+<lb n="0203c23" ed="T"/><p xml:id="pT18p0203c2301">左邊金剛將菩薩<note place="inline">首領金剛</note></p>
+<lb n="0203c24" ed="T"/><p xml:id="pT18p0203c2401">左邊金剛明王菩薩<note place="inline">持明金剛</note></p>
+<lb n="0203c25" ed="T"/><p xml:id="pT18p0203c2501">北面第一重從西第二<note n="0203027" resp="Taisho" place="foot text" type="orig">大明＝明大【甲】</note><app n="0203027"><lem wit="【大】">大明</lem><rdg resp="Taisho" wit="【甲】">明大</rdg></app>白身菩薩
+<lb n="0203c26" ed="T"/><note place="inline"><note n="0203028" resp="Taisho" place="foot text" type="orig">〔號〕－【甲】</note><app n="0203028"><lem wit="【大】">號</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>放光金剛</note></p>
+<lb n="0203c27" ed="T"/><p xml:id="pT18p0203c2701">第三多羅尊菩薩<note place="inline">悲生金剛</note></p>
+<lb n="0203c28" ed="T"/><p xml:id="pT18p0203c2801">第四觀自在菩薩<note place="inline"><note n="0203029" resp="Taisho" place="foot text" type="orig">號＝正【甲】</note><app n="0203029"><lem wit="【大】">號</lem><rdg resp="Taisho" wit="【甲】">正</rdg></app>法金剛</note></p>
+<lb n="0203c29" ed="T"/><p xml:id="pT18p0203c2901">第五毘俱胝菩薩<note place="inline">降伏金剛</note></p>
+<pb n="0204a" xml:id="T18.0864B.0204a" ed="T"/>
+<lb n="0204a01" ed="T"/><p xml:id="pT18p0204a0101">第六大勢至菩薩<note place="inline">持輪金剛</note></p>
+<lb n="0204a02" ed="T"/><p xml:id="pT18p0204a0201">第七蓮花部發生菩薩<note place="inline">無盡金剛</note></p>
+<lb n="0204a03" ed="T"/><p xml:id="pT18p0204a0301">北面第二重從西第一寂留明菩薩
+<lb n="0204a04" ed="T"/><note place="inline"><note n="0204001" resp="Taisho" place="foot text" type="orig">〔號〕－【甲】</note><app n="0204001"><lem wit="【大】">號</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>定光金剛</note></p>
+<lb n="0204a05" ed="T"/><p xml:id="pT18p0204a0501">第二大吉祥明菩薩<note place="inline">常慶金剛</note></p>
+<lb n="0204a06" ed="T"/><p xml:id="pT18p0204a0601">第三大吉祥大明菩薩<note place="inline">靈瑞金剛</note></p>
+<lb n="0204a07" ed="T"/><p xml:id="pT18p0204a0701">第四如意輪菩薩<note place="inline">持寶金剛</note></p>
+<lb n="0204a08" ed="T"/><p xml:id="pT18p0204a0801">第五耶輸陀羅菩薩<note place="inline">示現金剛</note></p>
+<lb n="0204a09" ed="T"/><p xml:id="pT18p0204a0901">第六窣堵波大吉祥菩薩<note place="inline">利樂金剛</note></p>
+<lb n="0204a10" ed="T"/><p xml:id="pT18p0204a1001">第七大隨求菩薩<note place="inline">與願金剛</note></p>
+<lb n="0204a11" ed="T"/><p xml:id="pT18p0204a1101">北面第三重從西第一白<note n="0204002" resp="Taisho" place="foot text" type="orig">處＋（尊）【甲】</note><app n="0204002"><lem wit="【大】">處</lem><rdg resp="Taisho" wit="【甲】">處尊</rdg></app>菩薩
+<lb n="0204a12" ed="T"/><note place="inline">離垢金剛</note></p>
+<lb n="0204a13" ed="T"/><p xml:id="pT18p0204a1301">第二大吉變菩薩<note place="inline">動用金剛</note></p>
+<lb n="0204a14" ed="T"/><p xml:id="pT18p0204a1401">第三水吉祥菩薩<note place="inline">潤生金剛</note></p>
+<lb n="0204a15" ed="T"/><p xml:id="pT18p0204a1501">第四不空羂索菩薩<note place="inline">等引金剛</note></p>
+<lb n="0204a16" ed="T"/><p xml:id="pT18p0204a1601">第五豐財菩薩<note place="inline">如意金剛</note></p>
+<lb n="0204a17" ed="T"/><p xml:id="pT18p0204a1701">第六白身觀世音菩薩<note place="inline">普化金剛</note></p>
+<lb n="0204a18" ed="T"/><p xml:id="pT18p0204a1801">第七披葉衣菩薩<note place="inline">異行金剛</note></p>
+<lb n="0204a19" ed="T"/><p xml:id="pT18p0204a1901">北面第四重從西第一除蓋障菩薩
+<lb n="0204a20" ed="T"/><note place="inline">離惱金剛</note></p>
+<lb n="0204a21" ed="T"/><p xml:id="pT18p0204a2101">第二堅固深心菩薩<note place="inline">超越金剛</note></p>
+<lb n="0204a22" ed="T"/><p xml:id="pT18p0204a2201">第三持地菩薩<note place="inline">內修金剛亦名<note n="0204003" resp="Taisho" place="foot text" type="orig">顯＝願【甲】</note><app n="0204003"><lem wit="【大】">顯</lem><rdg resp="Taisho" wit="【甲】">願</rdg></app>相金剛</note></p>
+<lb n="0204a23" ed="T"/><p xml:id="pT18p0204a2301">第四寶手菩薩<note place="inline">滿足金剛</note></p>
+<lb n="0204a24" ed="T"/><p xml:id="pT18p0204a2401">第五地藏菩薩<note place="inline">悲願金剛</note></p>
+<lb n="0204a25" ed="T"/><p xml:id="pT18p0204a2501">第六寶光菩薩<note place="inline">祥瑞金剛</note></p>
+<lb n="0204a26" ed="T"/><p xml:id="pT18p0204a2601">第七寶印菩薩<note place="inline">執契金剛</note></p>
+<lb n="0204a27" ed="T"/><p xml:id="pT18p0204a2701">第八不空見菩薩<note place="inline">普觀金剛</note></p>
+<lb n="0204a28" ed="T"/><p xml:id="pT18p0204a2801">第九除一切憂冥菩薩<note place="inline">大<note n="0204004" resp="Taisho" place="foot text" type="orig">赦＝救ィ【甲】</note><app n="0204004"><lem wit="【大】">赦</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">救</rdg></app>金剛</note></p>
+<lb n="0204a29" ed="T"/><p xml:id="pT18p0204a2901">南面第一重從西第二金剛拳菩薩
+<pb n="0204b" xml:id="T18.0864B.0204b" ed="T"/>
+<lb n="0204b01" ed="T"/><note place="inline">祕密金剛</note></p>
+<lb n="0204b02" ed="T"/><p xml:id="pT18p0204b0201">第三持金剛鋒菩薩<note place="inline">迅利金剛</note></p>
+<lb n="0204b03" ed="T"/><p xml:id="pT18p0204b0301">第四金剛薩埵菩薩<note place="inline">真如金剛</note></p>
+<lb n="0204b04" ed="T"/><p xml:id="pT18p0204b0401">第五手持金剛菩薩<note place="inline">堅固金剛</note></p>
+<lb n="0204b05" ed="T"/><p xml:id="pT18p0204b0501">第六金剛鉤菩薩<note place="inline">召集金剛</note></p>
+<lb n="0204b06" ed="T"/><p xml:id="pT18p0204b0601">第七發生金剛部菩薩<note place="inline">不壞金剛</note></p>
+<lb n="0204b07" ed="T"/><p xml:id="pT18p0204b0701">南面第二重從西第一住無戲論菩薩
+<lb n="0204b08" ed="T"/><note place="inline">無異語金剛</note></p>
+<lb n="0204b09" ed="T"/><p xml:id="pT18p0204b0901">第二持金剛菩薩<note place="inline">常定金剛</note></p>
+<lb n="0204b10" ed="T"/><p xml:id="pT18p0204b1001">第三金剛鎖菩薩<note place="inline">堅持金剛</note></p>
+<lb n="0204b11" ed="T"/><p xml:id="pT18p0204b1101">第四虛空無邊超越<note n="0204005" resp="Taisho" place="foot text" type="orig">金剛＝菩薩【甲】</note><app n="0204005"><lem wit="【大】">金剛</lem><rdg resp="Taisho" wit="【甲】">菩薩</rdg></app><note place="inline">廣大金剛</note></p>
+<lb n="0204b12" ed="T"/><p xml:id="pT18p0204b1201">第五忿怒持金剛菩薩<note place="inline">威<note n="0204006" resp="Taisho" place="foot text" type="orig">德＝猛【甲】</note><app n="0204006"><lem wit="【大】">德</lem><rdg resp="Taisho" wit="【甲】">猛</rdg></app>金剛</note></p>
+<lb n="0204b13" ed="T"/><p xml:id="pT18p0204b1301">第六金剛牢持菩薩<note place="inline">守護金剛</note></p>
+<lb n="0204b14" ed="T"/><p xml:id="pT18p0204b1401">第七虛空無垢菩薩<note place="inline">離染金剛</note></p>
+<lb n="0204b15" ed="T"/><p xml:id="pT18p0204b1501">南面第三重從西第一持金剛利菩薩
+<lb n="0204b16" ed="T"/><note place="inline">般若金剛</note></p>
+<lb n="0204b17" ed="T"/><p xml:id="pT18p0204b1701">第二持妙金剛菩薩<note place="inline">微細金剛</note></p>
+<lb n="0204b18" ed="T"/><p xml:id="pT18p0204b1801">第三離戲論菩薩<note place="inline">真行金剛</note></p>
+<lb n="0204b19" ed="T"/><p xml:id="pT18p0204b1901">第四金剛牙菩薩<note place="inline">調伏金剛</note></p>
+<lb n="0204b20" ed="T"/><p xml:id="pT18p0204b2001">第五適悅持金剛菩薩<note place="inline">慶喜金剛</note></p>
+<lb n="0204b21" ed="T"/><p xml:id="pT18p0204b2101">第六金剛銳菩薩<note place="inline">刃迅金剛</note></p>
+<lb n="0204b22" ed="T"/><p xml:id="pT18p0204b2201">第七金剛持輪菩薩<note place="inline">摧伏金剛</note></p>
+<lb n="0204b23" ed="T"/><p xml:id="pT18p0204b2301">南面第四重從西第一日光菩薩
+<lb n="0204b24" ed="T"/><note place="inline">威德金剛</note></p>
+<lb n="0204b25" ed="T"/><p xml:id="pT18p0204b2501">第二折諸熱惱菩薩<note place="inline">離怖畏金剛</note></p>
+<lb n="0204b26" ed="T"/><p xml:id="pT18p0204b2601">第三慈發生菩薩<note place="inline">悲念金剛</note></p>
+<lb n="0204b27" ed="T"/><p xml:id="pT18p0204b2701">第四悲愍菩薩<note place="inline">救護金剛</note></p>
+<lb n="0204b28" ed="T"/><p xml:id="pT18p0204b2801">第五不思議惠菩薩<note place="inline">難測<note n="0204007" resp="Taisho" place="foot text" type="orig">〔量〕－【甲】</note><app n="0204007"><lem wit="【大】">量</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>金剛</note></p>
+<lb n="0204b29" ed="T"/><p xml:id="pT18p0204b2901">第六賢護菩薩<note place="inline"><note n="0204008" resp="Taisho" place="foot text" type="orig">巧＝功【甲】</note><app n="0204008"><lem wit="【大】">巧</lem><rdg resp="Taisho" wit="【甲】">功</rdg></app>濟金剛</note></p>
+<pb n="0204c" xml:id="T18.0864B.0204c" ed="T"/>
+<lb n="0204c01" ed="T"/><p xml:id="pT18p0204c0101">第七施無畏菩薩<note place="inline">自在金剛</note></p>
+<lb n="0204c02" ed="T"/><p xml:id="pT18p0204c0201">第八破惡趣菩薩<note place="inline">除障金剛</note></p>
+<lb n="0204c03" ed="T"/><p xml:id="pT18p0204c0301">第九悲愍菩薩<note place="inline">救護金剛</note></p>
+<lb n="0204c04" ed="T"/><p xml:id="pT18p0204c0401">東門第一重一切如來智印<note place="inline">發生金剛</note></p>
+<lb n="0204c05" ed="T"/><p xml:id="pT18p0204c0501">從門向北第一佛眼佛母<note place="inline">殊勝金剛</note></p>
+<lb n="0204c06" ed="T"/><p xml:id="pT18p0204c0601">第二七俱胝佛母<note place="inline">最勝金剛</note></p>
+<lb n="0204c07" ed="T"/><p xml:id="pT18p0204c0701">門南第一<note n="0204009" resp="Taisho" place="foot text" type="orig">（大）＋勇【甲】</note><app n="0204009"><lem wit="【大】">勇</lem><rdg resp="Taisho" wit="【甲】">大勇</rdg></app>猛菩薩<note place="inline">嚴迅金剛</note></p>
+<lb n="0204c08" ed="T"/><p xml:id="pT18p0204c0801">第二大樂不空菩薩<note place="inline">真實金剛</note></p>
+<lb n="0204c09" ed="T"/><p xml:id="pT18p0204c0901">向上第<note n="0204010" resp="Taisho" place="foot text" type="orig">二＝三【甲】</note><app n="0204010"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】">三</rdg></app>重當門釋迦牟尼佛
+<lb n="0204c10" ed="T"/><note place="inline"><note n="0204011" resp="Taisho" place="foot text" type="orig">〔號〕－【甲】</note><app n="0204011"><lem wit="【大】">號</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>寂靜金剛</note></p>
+<lb n="0204c11" ed="T"/><p xml:id="pT18p0204c1101">侍者虛空菩薩<note place="inline">無盡金剛</note></p>
+<lb n="0204c12" ed="T"/><p xml:id="pT18p0204c1201">侍者觀自在菩薩<note place="inline">清淨金剛</note></p>
+<lb n="0204c13" ed="T"/><note n="0204012" resp="Taisho" place="foot text" type="orig">〔侍者…生長金剛〕十九字－【甲】</note><app cb:word-count="19" n="0204012"><lem wit="【大】"><p xml:id="pT18p0204c1301">侍者無能勝<note place="inline">勝妙金剛</note></p>
+<lb n="0204c14" ed="T"/><p xml:id="pT18p0204c1401">侍者無能勝妃<note place="inline">生長金剛</note></p></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0204c15" ed="T"/><p xml:id="pT18p0204c1501">門北第一一切如來寶<note place="inline"><note n="0204013" resp="Taisho" place="foot text" type="orig">實＝寶【甲】</note><app n="0204013"><lem wit="【大】">實</lem><rdg resp="Taisho" wit="【甲】">寶</rdg></app>相金剛</note></p>
+<lb n="0204c16" ed="T"/><p xml:id="pT18p0204c1601">第二如來毫相<note place="inline">妙<note n="0204014" resp="Taisho" place="foot text" type="orig">用＝色ィ【甲】</note><app n="0204014"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">色</rdg></app>金剛</note></p>
+<lb n="0204c17" ed="T"/><p xml:id="pT18p0204c1701">第三大轉輪佛頂<note place="inline">破魔金剛</note></p>
+<lb n="0204c18" ed="T"/><p xml:id="pT18p0204c1801">第四光聚佛頂<note place="inline">神通金剛</note></p>
+<lb n="0204c19" ed="T"/><p xml:id="pT18p0204c1901">第五無邊音聲佛頂<note place="inline">妙響金剛</note></p>
+<lb n="0204c20" ed="T"/><p xml:id="pT18p0204c2001">第六如來悲<note place="inline">慈化金剛</note></p>
+<lb n="0204c21" ed="T"/><p xml:id="pT18p0204c2101">第七如來愍<note place="inline">教令金剛</note></p>
+<lb n="0204c22" ed="T"/><p xml:id="pT18p0204c2201">第八如來慈<note place="inline">護念金剛</note></p>
+<lb n="0204c23" ed="T"/><p xml:id="pT18p0204c2301">門南第一白傘<note n="0204015" resp="Taisho" place="foot text" type="orig">〔蓋〕－【甲】</note><app n="0204015"><lem wit="【大】">蓋</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>佛頂<note place="inline">異相金剛</note></p>
+<lb n="0204c24" ed="T"/><p xml:id="pT18p0204c2401">第二勝佛頂<note place="inline">大尊金剛亦號無<note n="0204016" resp="Taisho" place="foot text" type="orig">比＋（行）【甲】</note><app n="0204016"><lem wit="【大】">比</lem><rdg resp="Taisho" wit="【甲】">比行</rdg></app>金剛</note></p>
+<lb n="0204c25" ed="T"/><p xml:id="pT18p0204c2501">第三最勝佛頂<note place="inline">最大尊金剛亦號<note n="0204017" resp="Taisho" place="foot text" type="orig">上＝無【甲】</note><app n="0204017"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【甲】">無</rdg></app>行金剛</note></p>
+<lb n="0204c26" ed="T"/><p xml:id="pT18p0204c2601">第四高佛頂<note place="inline">難覩金剛</note></p>
+<lb n="0204c27" ed="T"/><p xml:id="pT18p0204c2701">第五摧碎佛頂<note place="inline"><note n="0204018" resp="Taisho" place="foot text" type="orig">除＝降【甲】</note><app n="0204018"><lem wit="【大】">除</lem><rdg resp="Taisho" wit="【甲】">降</rdg></app>魔金剛</note></p>
+<lb n="0204c28" ed="T"/><p xml:id="pT18p0204c2801">第六如來舌<note place="inline">辯說金剛</note></p>
+<lb n="0204c29" ed="T"/><p xml:id="pT18p0204c2901">第七如來語<note place="inline">性空金剛</note></p>
+<pb n="0205a" xml:id="T18.0864B.0205a" ed="T"/>
+<lb n="0205a01" ed="T"/><p xml:id="pT18p0205a0101">第八如來笑<note place="inline">歡喜金剛亦號破顏金剛</note></p>
+<lb n="0205a02" ed="T"/><p xml:id="pT18p0205a0201">第四重當東門文殊師利菩薩
+<lb n="0205a03" ed="T"/><note place="inline"><note n="0205001" resp="Taisho" place="foot text" type="orig">〔號〕－【甲】</note><app n="0205001"><lem wit="【大】">號</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>般若金剛</note></p>
+<lb n="0205a04" ed="T"/><p xml:id="pT18p0205a0401">門北第一光網菩薩<note place="inline">色相金剛</note></p>
+<lb n="0205a05" ed="T"/><p xml:id="pT18p0205a0501">第二寶冠菩薩<note place="inline">莊嚴金剛</note></p>
+<lb n="0205a06" ed="T"/><p xml:id="pT18p0205a0601">第三無垢光菩薩<note place="inline">離塵金剛</note></p>
+<lb n="0205a07" ed="T"/><p xml:id="pT18p0205a0701">第四月光菩薩<note place="inline">威德金剛</note></p>
+<lb n="0205a08" ed="T"/><p xml:id="pT18p0205a0801">第五五髻文殊菩薩<note place="inline">吉祥金剛</note></p>
+<lb n="0205a09" ed="T"/><p xml:id="pT18p0205a0901">門南第一烏波髻失儞菩薩<note place="inline">妙惠金剛</note></p>
+<lb n="0205a10" ed="T"/><p xml:id="pT18p0205a1001">第二奉教菩薩<note place="inline">密持金剛</note></p>
+<lb n="0205a11" ed="T"/><p xml:id="pT18p0205a1101">第三文殊師利菩薩<note place="inline">吉祥金剛</note></p>
+<lb n="0205a12" ed="T"/><p xml:id="pT18p0205a1201">第四曼殊室利菩薩<note place="inline">般若金剛</note></p>
+<lb n="0205a13" ed="T"/><p xml:id="pT18p0205a1301">第五鉤召菩薩<note place="inline">普集金剛</note></p>
+<lb n="0205a14" ed="T"/><p xml:id="pT18p0205a1401">東門南第一如來牙菩薩<note place="inline">護法金剛化現金剛</note></p>
+<lb n="0205a15" ed="T"/><p xml:id="pT18p0205a1501">第二輪輻辟支佛<note place="inline">摧障金剛</note></p>
+<lb n="0205a16" ed="T"/><p xml:id="pT18p0205a1601">第三寶輻辟支佛<note place="inline">圓寂金剛</note></p>
+<lb n="0205a17" ed="T"/><p xml:id="pT18p0205a1701">第四拘絺羅<note place="inline">悟性金剛<note n="0205002" resp="Taisho" place="foot text" type="orig">〔亦名〕－【甲】＊</note><app n="0205002"><lem wit="【大】">亦名</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>解脫金剛</note></p>
+<lb n="0205a18" ed="T"/><p xml:id="pT18p0205a1801">第五阿難<note place="inline">集法金剛</note></p>
+<lb n="0205a19" ed="T"/><p xml:id="pT18p0205a1901">第六迦旃延<note place="inline">辨才金剛<app type="star" corresp="#0205002"><lem wit="【大】">亦名</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>涌泉金剛</note></p>
+<lb n="0205a20" ed="T"/><p xml:id="pT18p0205a2001">第七憂波離<note place="inline">尸羅金剛</note></p>
+<lb n="0205a21" ed="T"/><p xml:id="pT18p0205a2101">第八智拘絺羅<note place="inline">正因金剛<app type="star" corresp="#0205002"><lem wit="【大】">亦名</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>宿惠金剛</note></p>
+<lb n="0205a22" ed="T"/><p xml:id="pT18p0205a2201">第九供養雲<note n="0205003" resp="Taisho" place="foot text" type="orig">海＝蓋【甲】</note><app n="0205003"><lem wit="【大】">海</lem><rdg resp="Taisho" wit="【甲】">蓋</rdg></app><note place="inline">普覆金剛</note></p>
+<lb n="0205a23" ed="T"/><p xml:id="pT18p0205a2301">門北第一如來爍乞底<note place="inline">眾行金剛</note></p>
+<lb n="0205a24" ed="T"/><p xml:id="pT18p0205a2401">第二旃檀香辟支佛<note place="inline">清涼金剛</note></p>
+<lb n="0205a25" ed="T"/><p xml:id="pT18p0205a2501">第三多摩羅香辟支佛<note place="inline">𣱦氳金剛</note></p>
+<lb n="0205a26" ed="T"/><p xml:id="pT18p0205a2601">第四大目乾連<note place="inline">妙用金剛</note></p>
+<lb n="0205a27" ed="T"/><p xml:id="pT18p0205a2701">第五須菩提<note place="inline">無相金剛</note></p>
+<lb n="0205a28" ed="T"/><p xml:id="pT18p0205a2801">第六迦葉波<note place="inline">離塵金剛</note></p>
+<lb n="0205a29" ed="T"/><p xml:id="pT18p0205a2901">第七舍利弗<note place="inline">般若金剛<app type="star" corresp="#0205002"><lem wit="【大】">亦名</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>巧<note n="0205004" resp="Taisho" place="foot text" type="orig">智＋（金剛）【甲】</note><app n="0205004"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】">智金剛</rdg></app><app type="star" corresp="#0205002"><lem wit="【大】">亦名</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>善<note n="0205005" resp="Taisho" place="foot text" type="orig">巧＋（金剛）【甲】</note><app n="0205005"><lem wit="【大】">巧</lem><rdg resp="Taisho" wit="【甲】">巧金剛</rdg></app></note></p>
+<pb n="0205b" xml:id="T18.0864B.0205b" ed="T"/>
+<lb n="0205b01" ed="T"/><p xml:id="pT18p0205b0101">第八如來喜<note place="inline">稱法金剛</note></p>
+<lb n="0205b02" ed="T"/><p xml:id="pT18p0205b0201">第九如來捨<note place="inline"><note n="0205006" resp="Taisho" place="foot text" type="orig">〔號〕－【甲】</note><app n="0205006"><lem wit="【大】">號</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>平等金剛</note></p>
+<lb n="0205b03" ed="T"/><p xml:id="pT18p0205b0301">諸天外金剛部聖者<note place="inline">總名護法金剛</note></p>
+<lb n="0205b04" ed="T"/><p xml:id="pT18p0205b0401"><note n="0205007" resp="Taisho" place="foot text" type="orig">金剛界金剛名號＝金剛頂大教王曼荼羅灌頂金剛名號，此卷附胎藏名號前【甲】</note>金剛界金剛名號</p>
+<lb n="0205b05" ed="T"/><p xml:id="pT18p0205b0501">毘盧遮<note n="0205008" resp="Taisho" place="foot text" type="orig">那＋（佛）【甲】</note><app n="0205008"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【甲】">那佛</rdg></app><note place="inline">大<note n="0205009" resp="Taisho" place="foot text" type="orig">日＋（金剛），以下金剛名皆同【甲】</note><note n="0205009" resp="CBETA" type="mod">日＋（金剛）【甲】，<!--CBETA todo type: i-->以下金剛名皆同【甲】</note><app n="0205009"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【甲】">日金剛</rdg></app>遍照無障</note></p>
+<lb n="0205b06" ed="T"/><p xml:id="pT18p0205b0601">阿閦佛<note place="inline">不動怖畏</note></p>
+<lb n="0205b07" ed="T"/><p xml:id="pT18p0205b0701">寶生佛<note place="inline">平等大福眾<note n="0205010" resp="Taisho" place="foot text" type="orig">行＝福【甲】</note><app n="0205010"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【甲】">福</rdg></app></note></p>
+<lb n="0205b08" ed="T"/><p xml:id="pT18p0205b0801">無量壽佛<note place="inline">大<note n="0205011" resp="Taisho" place="foot text" type="orig">悲＝慈【甲】</note><app n="0205011"><lem wit="【大】">悲</lem><rdg resp="Taisho" wit="【甲】">慈</rdg></app>壽命清淨</note></p>
+<lb n="0205b09" ed="T"/><p xml:id="pT18p0205b0901">不空成就佛<note place="inline">悉地成就業<note n="0205012" resp="Taisho" place="foot text" type="orig">用下有已上五佛四字【甲】</note><note n="0205012" resp="CBETA" type="mod">用＋（已上五佛）四字【甲】</note><app n="0205012"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【甲】">用已上五佛</rdg></app></note></p>
+<lb n="0205b10" ed="T"/><p xml:id="pT18p0205b1001">金剛波羅密<note place="inline">堅固堅實</note></p>
+<lb n="0205b11" ed="T"/><p xml:id="pT18p0205b1101">寶波羅蜜<note place="inline">寶金剛<note n="0205013" resp="Taisho" place="foot text" type="orig">〔亦名〕－【甲】＊</note><app n="0205013"><lem wit="【大】">亦名</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>持寶</note></p>
+<lb n="0205b12" ed="T"/><p xml:id="pT18p0205b1201">法波羅密<note place="inline">蓮花清淨</note></p>
+<lb n="0205b13" ed="T"/><p xml:id="pT18p0205b1301">羯磨波羅密<note place="inline">妙用作<note n="0205014" resp="Taisho" place="foot text" type="orig">業下有已上四波羅蜜菩薩種子同上十二字【甲】</note><note n="0205014" resp="CBETA" type="mod">業＋（已上四波羅蜜菩薩種子同上）十二字【甲】</note><app n="0205014"><lem wit="【大】">業</lem><rdg resp="Taisho" wit="【甲】">業已上四波羅蜜菩薩種子同上</rdg></app></note></p>
+<lb n="0205b14" ed="T"/><p xml:id="pT18p0205b1401">薩埵菩薩<note place="inline">真如大勇</note></p>
+<lb n="0205b15" ed="T"/><p xml:id="pT18p0205b1501">王菩薩<note place="inline">自在執鉤</note></p>
+<lb n="0205b16" ed="T"/><p xml:id="pT18p0205b1601">愛菩薩<note place="inline">離樂離愛</note></p>
+<lb n="0205b17" ed="T"/><p xml:id="pT18p0205b1701">善哉菩薩<note place="inline">讚歎安<note n="0205015" resp="Taisho" place="foot text" type="orig">樂下有已上東方四菩薩七字【甲】</note><note n="0205015" resp="CBETA" type="mod">樂＋（已上東方四菩薩）七字【甲】</note><app n="0205015"><lem wit="【大】">樂</lem><rdg resp="Taisho" wit="【甲】">樂已上東方四菩薩</rdg></app></note></p>
+<lb n="0205b18" ed="T"/><p xml:id="pT18p0205b1801">寶菩薩<note place="inline">大寶如意<note n="0205016" resp="Taisho" place="foot text" type="orig">〔庫藏〕－【甲】</note><app n="0205016"><lem wit="【大】">庫藏</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></note></p>
+<lb n="0205b19" ed="T"/><p xml:id="pT18p0205b1901">光菩薩<note place="inline">威德威<note n="0205017" resp="Taisho" place="foot text" type="orig">光＋（庫藏）【甲】</note><app n="0205017"><lem wit="【大】">光</lem><rdg resp="Taisho" wit="【甲】">光庫藏</rdg></app></note></p>
+<lb n="0205b20" ed="T"/><p xml:id="pT18p0205b2001"><choice><corr>幢</corr><sic>憧</sic></choice>菩薩<note place="inline">圓滿<note n="0205018" resp="Taisho" place="foot text" type="orig">滿願＝願滿【甲】</note><app n="0205018"><lem wit="【大】">滿願</lem><rdg resp="Taisho" wit="【甲】">願滿</rdg></app></note></p>
+<lb n="0205b21" ed="T"/><p xml:id="pT18p0205b2101"><note n="0205019" resp="Taisho" place="foot text" type="orig">微咲＝笑【甲】</note><app n="0205019"><lem wit="【大】">微咲</lem><rdg resp="Taisho" wit="【甲】">笑</rdg></app>菩薩<note place="inline">喜悅歡<note n="0205020" resp="Taisho" place="foot text" type="orig">喜下有已方南方四菩薩七字【甲】</note><note n="0205020" resp="CBETA" type="mod">喜＋（已方南方四菩薩）七字【甲】</note><app n="0205020"><lem wit="【大】">喜</lem><rdg resp="Taisho" wit="【甲】">喜已方南方四菩薩</rdg></app></note></p>
+<lb n="0205b22" ed="T"/><p xml:id="pT18p0205b2201">法菩薩<note place="inline">正法蓮花</note></p>
+<lb n="0205b23" ed="T"/><p xml:id="pT18p0205b2301">利菩薩<note place="inline">般若除罪<note n="0205021" resp="Taisho" place="foot text" type="orig">〔障〕－【甲】</note><app n="0205021"><lem wit="【大】">障</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></note></p>
+<lb n="0205b24" ed="T"/><p xml:id="pT18p0205b2401">因菩薩<note place="inline">不退菩提</note></p>
+<lb n="0205b25" ed="T"/><p xml:id="pT18p0205b2501">語言菩薩<note place="inline">性空妙<note n="0205022" resp="Taisho" place="foot text" type="orig">語＝悟，悟下有已上西方四菩薩七字【甲】</note><note n="0205022" resp="CBETA" type="mod">語＝（悟已上西方四菩薩）七字【甲】</note><app n="0205022"><lem wit="【大】">語</lem><rdg resp="Taisho" wit="【甲】">悟已上西方四菩薩</rdg></app></note></p>
+<lb n="0205b26" ed="T"/><p xml:id="pT18p0205b2601">業菩薩<note place="inline">善巧辨事</note></p>
+<lb n="0205b27" ed="T"/><p xml:id="pT18p0205b2701">護菩薩<note place="inline">精進難敵</note></p>
+<lb n="0205b28" ed="T"/><p xml:id="pT18p0205b2801">藥叉菩薩<note place="inline">護法調伏</note></p>
+<lb n="0205b29" ed="T"/><p xml:id="pT18p0205b2901">拳菩薩<note place="inline">祕<note n="0205023" resp="Taisho" place="foot text" type="orig">密下有已上北方四菩薩七字【甲】</note><note n="0205023" resp="CBETA" type="mod">密＋（已上北方四菩薩）七字【甲】</note><app n="0205023"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【甲】">密已上北方四菩薩</rdg></app></note></p>
+<pb n="0205c" xml:id="T18.0864B.0205c" ed="T"/>
+<lb n="0205c01" ed="T"/><p xml:id="pT18p0205c0101">戲菩薩<note place="inline">普敬<note n="0205024" resp="Taisho" place="foot text" type="orig">〔善〕－【甲】</note><app n="0205024"><lem wit="【大】">善</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></note></p>
+<lb n="0205c02" ed="T"/><p xml:id="pT18p0205c0201">鬘菩薩<note place="inline">妙嚴金剛</note></p>
+<lb n="0205c03" ed="T"/><p xml:id="pT18p0205c0301">歌菩薩<note place="inline">妙音金剛<app type="star" corresp="#0205013"><lem wit="【大】">亦名</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>無畏</note></p>
+<lb n="0205c04" ed="T"/><p xml:id="pT18p0205c0401"><note n="0205025" resp="Taisho" place="foot text" type="orig">儛＝舞【甲】</note><app n="0205025"><lem wit="【大】">儛</lem><rdg resp="Taisho" wit="【甲】">舞</rdg></app>菩薩<note place="inline">妙通金<note n="0205026" resp="Taisho" place="foot text" type="orig">剛下有已上內四供養菩薩八字【甲】</note><note n="0205026" resp="CBETA" type="mod">剛＋（已上內四供養菩薩）八字【甲】</note><app n="0205026"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【甲】">剛已上內四供養菩薩</rdg></app></note></p>
+<lb n="0205c05" ed="T"/><p xml:id="pT18p0205c0501">焚<note n="0205027" resp="Taisho" place="foot text" type="orig">〔香〕－【甲】</note><app n="0205027"><lem wit="【大】">香</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>菩薩<note place="inline">速疾金剛端嚴金剛</note></p>
+<lb n="0205c06" ed="T"/><p xml:id="pT18p0205c0601"><note n="0205028" resp="Taisho" place="foot text" type="orig">〔散〕－【甲】</note><app n="0205028"><lem wit="【大】">散</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>花菩薩<note place="inline">妙色金剛清淨金剛</note></p>
+<lb n="0205c07" ed="T"/><p xml:id="pT18p0205c0701">燈菩薩<note place="inline">普照金剛除闇金剛</note></p>
+<lb n="0205c08" ed="T"/><p xml:id="pT18p0205c0801">塗<note n="0205029" resp="Taisho" place="foot text" type="orig">〔香〕－【甲】</note><app n="0205029"><lem wit="【大】">香</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>菩薩<note place="inline">清<note n="0205030" resp="Taisho" place="foot text" type="orig">冷＝淨【甲】</note><app n="0205030"><lem wit="【大】">冷</lem><rdg resp="Taisho" wit="【甲】">淨</rdg></app>金剛勝<note n="0205031" resp="Taisho" place="foot text" type="orig">淨＝靜【甲】</note><app n="0205031"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【甲】">靜</rdg></app>金<note n="0205032" resp="Taisho" place="foot text" type="orig">剛下有已上外四供養菩薩八字【甲】</note><note n="0205032" resp="CBETA" type="mod">剛＋（已上外四供養菩薩）八字【甲】</note><app n="0205032"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【甲】">剛已上外四供養菩薩</rdg></app></note></p>
+<lb n="0205c09" ed="T"/><p xml:id="pT18p0205c0901">鉤菩薩<note place="inline">召集金剛</note></p>
+<lb n="0205c10" ed="T"/><p xml:id="pT18p0205c1001">索菩薩<note place="inline">等引金剛慈<note n="0205033" resp="Taisho" place="foot text" type="orig">引＝悲【甲】</note><app n="0205033"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】">悲</rdg></app>金剛</note></p>
+<lb n="0205c11" ed="T"/><p xml:id="pT18p0205c1101">鎖菩薩<note place="inline">妙住金剛堅持金剛</note></p>
+<lb n="0205c12" ed="T"/><p xml:id="pT18p0205c1201">鈴菩薩<note place="inline">解脫金<note n="0205034" resp="Taisho" place="foot text" type="orig">剛下有已上四攝菩薩六字【甲】</note><note n="0205034" resp="CBETA" type="mod">剛＋（已上四攝菩薩）六字【甲】</note><app n="0205034"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【甲】">剛已上四攝菩薩</rdg></app></note></p>
+<lb n="0205c13" ed="T"/><p xml:id="pT18p0205c1301"><note n="0205035" resp="Taisho" place="foot text" type="orig">（（次…薩））八字＝（（賢劫十六位））五字【甲】</note><app cb:word-count="8" n="0205035"><lem wit="【大】">次賢劫十六位菩薩</lem><rdg resp="Taisho" wit="【甲】">賢劫十六位</rdg></app></p>
+<lb n="0205c14" ed="T"/><p xml:id="pT18p0205c1401">彌<note n="0205036" resp="Taisho" place="foot text" type="orig">勒＋（菩薩），以下菩薩名皆同【甲】</note><note n="0205036" resp="CBETA" type="mod">勒＋（菩薩）【甲】，<!--CBETA todo type: i-->以下菩薩名皆同【甲】</note><app n="0205036"><lem wit="【大】">勒</lem><rdg resp="Taisho" wit="【甲】">勒菩薩</rdg></app><note place="inline">迅疾金剛</note></p>
+<lb n="0205c15" ed="T"/><p xml:id="pT18p0205c1501">不空見<note place="inline">普見金剛</note></p>
+<lb n="0205c16" ed="T"/><p xml:id="pT18p0205c1601">滅惡趣<note place="inline">普救金剛</note></p>
+<lb n="0205c17" ed="T"/><p xml:id="pT18p0205c1701">無憂闇<note place="inline">解脫金<note n="0205037" resp="Taisho" place="foot text" type="orig">剛下有已上東方中院六字【甲】</note><note n="0205037" resp="CBETA" type="mod">剛＋（已上東方中院）六字【甲】</note><app n="0205037"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【甲】">剛已上東方中院</rdg></app></note></p>
+<lb n="0205c18" ed="T"/><p xml:id="pT18p0205c1801">香<note n="0205038" resp="Taisho" place="foot text" type="orig">像＝象【甲】</note><app n="0205038"><lem wit="【大】">像</lem><rdg resp="Taisho" wit="【甲】">象</rdg></app><note place="inline">大力金剛</note></p>
+<lb n="0205c19" ed="T"/><p xml:id="pT18p0205c1901"><note n="0205039" resp="Taisho" place="foot text" type="orig">（善）＋勇【甲】</note><app n="0205039"><lem wit="【大】">勇</lem><rdg resp="Taisho" wit="【甲】">善勇</rdg></app>猛<note place="inline">不退金剛</note></p>
+<lb n="0205c20" ed="T"/><p xml:id="pT18p0205c2001">虛空藏<note place="inline">富貴</note></p>
+<lb n="0205c21" ed="T"/><p xml:id="pT18p0205c2101">智幢<note place="inline">智滿法滿金<note n="0205040" resp="Taisho" place="foot text" type="orig">剛下有已上南方中院六字【甲】</note><note n="0205040" resp="CBETA" type="mod">剛＋（已上南方中院）六字【甲】</note><app n="0205040"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【甲】">剛已上南方中院</rdg></app></note></p>
+<lb n="0205c22" ed="T"/><p xml:id="pT18p0205c2201">賢護<note place="inline">巧護金剛</note></p>
+<lb n="0205c23" ed="T"/><p xml:id="pT18p0205c2301">無量光<note place="inline">大明金剛</note></p>
+<lb n="0205c24" ed="T"/><p xml:id="pT18p0205c2401">網明<note place="inline">方便</note></p>
+<pb n="0206a" xml:id="T18.0864B.0206a" ed="T"/>
+<lb n="0206a01" ed="T"/><p xml:id="pT18p0206a0101">月光<note place="inline">清涼金<note n="0206001" resp="Taisho" place="foot text" type="orig">剛下有已上西方中院六字</note><note n="0206001" resp="CBETA" type="mod">剛＋（已上西方中院）六字【甲】</note><app n="0206001"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【甲】">剛已上西方中院</rdg></app></note></p>
+<lb n="0206a02" ed="T"/><p xml:id="pT18p0206a0201">辨積<note place="inline"><note n="0206002" resp="Taisho" place="foot text" type="orig">巧辨＝□□【甲】</note><app n="0206002"><lem wit="【大】">巧辨</lem><rdg resp="Taisho" wit="【甲】">□□</rdg></app>金剛</note></p>
+<lb n="0206a03" ed="T"/><p xml:id="pT18p0206a0301">無盡意<note place="inline"><note n="0206003" resp="Taisho" place="foot text" type="orig">實＝寶【甲】</note><app n="0206003"><lem wit="【大】">實</lem><rdg resp="Taisho" wit="【甲】">寶</rdg></app>惠<note n="0206004" resp="Taisho" place="foot text" type="orig">〔寶〕－【甲】</note><app n="0206004"><lem wit="【大】">寶</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></note></p>
+<lb n="0206a04" ed="T"/><p xml:id="pT18p0206a0401">金剛藏<note place="inline">持教金剛亦號立驗金剛</note></p>
+<lb n="0206a05" ed="T"/><p xml:id="pT18p0206a0501">普賢<note place="inline">普攝金<note n="0206005" resp="Taisho" place="foot text" type="orig">剛下有已上北方中院六字【甲】</note><note n="0206005" resp="CBETA" type="mod">剛＋（已上北方中院）六字【甲】</note><app n="0206005"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【甲】">剛已上北方中院</rdg></app></note></p>
+<lb n="0206a06" ed="T"/><p xml:id="pT18p0206a0601">檀菩薩<note place="inline">普施金剛</note></p>
+<lb n="0206a07" ed="T"/><p xml:id="pT18p0206a0701">戒菩薩<note place="inline">淨戒金剛</note></p>
+<lb n="0206a08" ed="T"/><p xml:id="pT18p0206a0801">忍菩薩<note place="inline"><note n="0206006" resp="Taisho" place="foot text" type="orig">帝剎＝常利ィ【甲】</note><app n="0206006"><lem wit="【大】">帝剎</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">常利</rdg></app>金剛</note></p>
+<lb n="0206a09" ed="T"/><p xml:id="pT18p0206a0901"><note n="0206007" resp="Taisho" place="foot text" type="orig">〔精〕－【甲】</note><app n="0206007"><lem wit="【大】">精</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>進菩薩<note place="inline"><note n="0206008" resp="Taisho" place="foot text" type="orig">慈＝普【甲】</note><app n="0206008"><lem wit="【大】">慈</lem><rdg resp="Taisho" wit="【甲】">普</rdg></app>護金剛</note></p>
+<lb n="0206a10" ed="T"/><p xml:id="pT18p0206a1001"><note n="0206009" resp="Taisho" place="foot text" type="orig">〔禪〕－【甲】</note><app n="0206009"><lem wit="【大】">禪</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>定菩薩<note place="inline">正定金剛</note></p>
+<lb n="0206a11" ed="T"/><p xml:id="pT18p0206a1101"><note n="0206010" resp="Taisho" place="foot text" type="orig">〔智〕－【甲】</note><app n="0206010"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>慧菩薩<note place="inline">大<note n="0206011" resp="Taisho" place="foot text" type="orig">惠＝慈【甲】</note><app n="0206011"><lem wit="【大】">惠</lem><rdg resp="Taisho" wit="【甲】">慈</rdg></app>金剛般若金剛</note></p>
+<lb n="0206a12" ed="T"/><p xml:id="pT18p0206a1201">方<note n="0206012" resp="Taisho" place="foot text" type="orig">〔便〕－【甲】</note><app n="0206012"><lem wit="【大】">便</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>菩薩<note place="inline">善巧金剛究竟金剛</note></p>
+<lb n="0206a13" ed="T"/><p xml:id="pT18p0206a1301">願菩薩<note place="inline">成就金剛</note></p>
+<lb n="0206a14" ed="T"/><p xml:id="pT18p0206a1401">力菩薩<note place="inline">勇<note n="0206013" resp="Taisho" place="foot text" type="orig">進＝猛【甲】</note><app n="0206013"><lem wit="【大】">進</lem><rdg resp="Taisho" wit="【甲】">猛</rdg></app>金剛</note></p>
+<lb n="0206a15" ed="T"/><p xml:id="pT18p0206a1501">智菩薩<note place="inline">圓淨金剛</note></p>
+<lb n="0206a16" ed="T"/><p xml:id="pT18p0206a1601">不動尊<note place="inline">無動金剛<note n="0206014" resp="Taisho" place="foot text" type="orig">〔常住金剛〕－【甲】</note><app n="0206014"><lem wit="【大】">常住金剛</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></note></p>
+<lb n="0206a17" ed="T"/><p xml:id="pT18p0206a1701">降三世<note place="inline">最勝金剛</note></p>
+<lb n="0206a18" ed="T"/><p xml:id="pT18p0206a1801">六足尊<note place="inline"><note n="0206015" resp="Taisho" place="foot text" type="orig">〔大〕－【甲】</note><app n="0206015"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>威德金剛</note></p>
+<lb n="0206a19" ed="T"/><p xml:id="pT18p0206a1901"><note n="0206016" resp="Taisho" place="foot text" type="orig">馬頭∞軍吒利【甲】</note><app n="0206016"><lem wit="【大】">馬頭</lem><rdg resp="Taisho" wit="【甲】">軍吒利</rdg></app>明王<note place="inline">敢食<note n="0206017" resp="Taisho" place="foot text" type="orig">〔速疾〕－【甲】</note><app n="0206017"><lem wit="【大】">速疾</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>金剛</note></p>
+<lb n="0206a20" ed="T"/><p xml:id="pT18p0206a2001"><note n="0206018" resp="Taisho" place="foot text" type="orig">馬頭∞軍吒利【甲】</note><app n="0206018"><lem wit="【大】">軍吒利</lem><rdg resp="Taisho" wit="【甲】">馬頭</rdg></app><note place="inline">甘露</note></p>
+<lb n="0206a21" ed="T"/><p xml:id="pT18p0206a2101">火頭<note place="inline">大力金<note n="0206019" resp="Taisho" place="foot text" type="orig">剛下有已上忿怒尊竝外院菩薩十字【甲】</note><note n="0206019" resp="CBETA" type="mod">剛＋（已上忿怒尊竝外院菩薩）十字【甲】</note><app n="0206019"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【甲】">剛已上忿怒尊竝外院菩薩</rdg></app></note></p>
+<lb n="0206a22" ed="T"/><p xml:id="pT18p0206a2201"><note n="0206020" resp="Taisho" place="foot text" type="orig">（（廿天…金剛））二十字＝（（次下二十天皆名外金剛部總名護法金剛））十七字</note><note n="0206020" resp="CBETA" type="mod">（（廿天…金剛））二十字＝（（次下二十天皆名外金剛部總名護法金剛））十七字【unknown】</note><app cb:word-count="20" n="0206020"><lem wit="【大】">廿天聖者都名外金剛部<note place="inline">名護法金剛或云普金剛</note></lem><rdg resp="Taisho" wit="【unknown】">次下二十天皆名外金剛部總名護法金剛</rdg></app></p></cb:div>
+<lb n="0206a23" ed="T"/><cb:div type="W"><p xml:id="pT18p0206a2301">　　　已上勘青龍寺本。</p>
+<lb n="0206a24" ed="T"/><p xml:id="pT18p0206a2401">本記<note place="inline">云</note>。</p>
+<lb n="0206a25" ed="T"/><p xml:id="pT18p0206a2501">貞永二年三月二十三日於極樂房閑窓以
+<lb n="0206a26" ed="T"/>先師御本書寫了　　　　金剛佛子憲□</p>
+<lb n="0206a27" ed="T"/><p xml:id="pT18p0206a2701">　　　　　　　　　　　一校了<note place="inline">云云</note></p>
+<lb n="0206a28" ed="T"/>
+<lb n="0206a29" ed="T"/><p xml:id="pT18p0206a2901">文應二年二月十五日於觀心院以報恩院
+<pb n="0206b" xml:id="T18.0864B.0206b" ed="T"/>
+<lb n="0206b01" ed="T"/>御本寫了　　　　　　　金剛佛子玄慶</p>
+<lb n="0206b02" ed="T"/><p xml:id="pT18p0206b0201">正應二年五月十五日於木幡以僧都御房
+<lb n="0206b03" ed="T"/>御本寫了　　　　　　　金剛資　澄禪</p>
+<lb n="0206b04" ed="T"/><p xml:id="pT18p0206b0401">雅訓云無相尋者進不可出此書祕藏<note place="inline">云云已上</note>。</p></cb:div>
+</body></text></TEI>

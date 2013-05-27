@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T34n1728">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1728 觀音義疏</title>
+			<author>隋 智顗說．灌頂記</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.13 $<date>$Date: 2010/05/07 08:07:18 $</date></edition>
+	</editionStmt>
+	<extent>2卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/05/07 08:07:18 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 34, No. 1728 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-03-29T08:43:14">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T34n1728.xml,v $
+Revision 1.13  2010/05/07 08:07:18  amtbgrace
+modified: 按 2010/4/26 maha 來信修訂（主旨為: [經文修訂] modified: 按 2010/4/23 maha 來信修訂（主旨為: [經文修訂]  [飄>漂]香象）
+
+Revision 1.12  2009/04/23 08:09:04  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.11  2006/04/12 21:57:34  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.9  2004/11/14 03:17:49  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.8  2004/10/27 10:39:43  saywhat
+段落前加入圈點
+
+Revision 1.7  2004/04/20 08:41:14  maha
+「版本日期」標記修訂
+
+Revision 1.6  2004/04/20 03:26:06  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.5  2004/03/16 02:19:50  ray
+resp 屬性 統一格式為 CBETA.xxx
+
+Revision 1.4  2004/01/02 05:54:48  maha
+<note mod>裡的corr2app
+
+Revision 1.3  2003/06/23 05:08:11  moved
+＊校勘插入 xml 作業
+
+Revision 1.2  2003/06/16 03:51:25  moved
+「找不到對應的校勘」作業
+
+Revision 1.1.1.1  2003/05/05 04:10:04  ray
+recover cvs
+
+Revision 1.15  2002/12/06 03:03:00  moved
+modified
+
+Revision 1.14  2002/11/04 10:53:06  ray
+tei.2 => TEI.2
+
+Revision 1.13  2002/10/07 13:20:42  moved
+modified
+
+Revision 1.12  2002/07/29 10:09:59  vinking
+modified lang
+
+Revision 1.11  2002/04/08 09:30:53  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.10  2001/07/24 06:57:41  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.9  2001/04/01 08:27:12  ray
+CB00380 => CB00308
+
+Revision 1.8  2001/03/30 06:17:48  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.7  2001/03/25 10:12:13  ray
+add <milestone>
+
+Revision 1.6  2001/02/07 07:08:20  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.5  2001/02/03 07:59:09  chris
+Added keywords $Revision: 1.13 $, $Date: 2010/05/07 08:07:18 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0921a21" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0921a22" ed="T"/>
+<lb n="0921a23" ed="T"/><cb:docNumber>No. 1728 [cf. Nos. 262(25), 1729]</cb:docNumber>
+<lb n="0921a24" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead><note n="0921002" resp="Taisho" place="foot text" type="orig">【原】明萬曆年中刊增上寺報恩寺藏本，【甲】正保四年刊宗教大學藏本</note>觀<note n="0921003" resp="Taisho" place="foot text" type="orig">（世）＋音【甲】</note><app n="0921003"><lem wit="【大】">音</lem><rdg resp="Taisho" wit="【甲】">世音</rdg></app>義疏卷上</cb:jhead></cb:juan>
+<lb n="0921a25" ed="T"/>
+<lb n="0921a26" ed="T"/><byline cb:type="Other"><note n="0921004" resp="Taisho" place="foot text" type="orig">（（隋天台…記））十三字＝（（天台山修禪寺智者大師說））十一字【甲】</note><app cb:word-count="13" n="0921004"><lem wit="【大】">隋天台智者大師說　門人灌頂記</lem><rdg resp="Taisho" wit="【甲】">天台山修禪寺智者大師說</rdg></app></byline>
+<lb n="0921a27" ed="T"/><cb:div type="jing"><p xml:id="pT34p0921a2701">此文既別出大部。有人亦作三段分文。謂初
+<lb n="0921a28" ed="T"/>問去為序。佛答去為正。持地去為流通。復有
+<lb n="0921a29" ed="T"/>云經家<note n="0921005" resp="Taisho" place="foot text" type="orig">序＝所敘【甲】</note><app n="0921005"><lem wit="【大】">序</lem><rdg resp="Taisho" wit="【甲】">所敘</rdg></app>者為序。無盡意<note n="0921006" resp="Taisho" place="foot text" type="orig">白＝自【甲】</note><app n="0921006"><lem wit="【大】">白</lem><rdg resp="Taisho" wit="【甲】">自</rdg></app>佛去為正。持
+<pb n="0921b" xml:id="T34.1728.0921b" ed="T"/>
+<lb n="0921b01" ed="T"/>地去為流通。今師有時亦作三段。有時不作
+<lb n="0921b02" ed="T"/>三段名。但分為三章。一無盡意問二佛答三持
+<lb n="0921b03" ed="T"/>地歎。或為四章三如前。四者<note n="0921007" resp="Taisho" place="foot text" type="orig">聞＝門【甲】</note><app n="0921007"><lem wit="【大】">聞</lem><rdg resp="Taisho" wit="【甲】">門</rdg></app>品得益。或
+<lb n="0921b04" ed="T"/>作二段。謂前後兩問答也。多種分章隨人意
+<lb n="0921b05" ed="T"/>用也。若作問答分章則有兩問答。初問答明
+<lb n="0921b06" ed="T"/>觀音樹王冥益等義。後問答明普門珠王顯
+<lb n="0921b07" ed="T"/>益等義。就前問答為二。一問二答。就問為四。
+<lb n="0921b08" ed="T"/>一時節。二標人。三敬儀。四正問。一爾時者
+<lb n="0921b09" ed="T"/>爾<note n="0921008" resp="Taisho" place="foot text" type="orig">言＝訓【甲】</note><app n="0921008"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【甲】">訓</rdg></app>即也。即是說東方妙音弘經已訖。次說
+<lb n="0921b10" ed="T"/>西方觀音弘經之時故言爾時。或可大眾已
+<lb n="0921b11" ed="T"/>聞妙音弘經歡喜已竟。宜聞觀音發心生善
+<lb n="0921b12" ed="T"/>之時。故言爾時。或可時眾<note n="0921009" resp="Taisho" place="foot text" type="orig">疑＋（貶）【甲】</note><app n="0921009"><lem wit="【大】">疑</lem><rdg resp="Taisho" wit="【甲】">疑貶</rdg></app>於妙音。若為
+<lb n="0921b13" ed="T"/>利益上來說法破眾疑情已竟。時眾有疑觀
+<lb n="0921b14" ed="T"/>音之德。正破此疑之時。故言爾時。或可時眾
+<lb n="0921b15" ed="T"/>機在妙音聞即得道。如二土菩薩得道已竟。
+<lb n="0921b16" ed="T"/>八萬四千悟理之時須聞觀音。故言爾時。諸
+<lb n="0921b17" ed="T"/>佛如來不空說法。有四悉檀因緣爾乃為說。
+<lb n="0921b18" ed="T"/>正是敷演四悉檀時故言爾時也。二標人者。
+<lb n="0921b19" ed="T"/>即是無盡意也。名無盡者。非<note n="0921010" resp="Taisho" place="foot text" type="orig">盡＋（爾）【甲】</note><app n="0921010"><lem wit="【大】">盡</lem><rdg resp="Taisho" wit="【甲】">盡爾</rdg></app>非無盡為
+<lb n="0921b20" ed="T"/>對小乘<note n="0921011" resp="Taisho" place="foot text" type="orig">名＝明【甲】</note><app n="0921011"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【甲】">明</rdg></app>盡故言無盡。小乘明盡為對盡智
+<lb n="0921b21" ed="T"/>無生智。滅色取空之盡故名無盡也。又云。何
+<lb n="0921b22" ed="T"/>無盡所謂空不可盡假不可盡中不可盡。故
+<lb n="0921b23" ed="T"/>言無盡。大品經云。即色是空非色滅空空故
+<lb n="0921b24" ed="T"/>無盡也。<note n="0921012" resp="Taisho" place="foot text" type="orig">〔又〕－【甲】</note><app n="0921012"><lem wit="【大】">又</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>大集經釋無盡意。東方過十<note n="0921013" resp="Taisho" place="foot text" type="orig">恒＋（河）【甲】</note><app n="0921013"><lem wit="【大】">恒</lem><rdg resp="Taisho" wit="【甲】">恒河</rdg></app>
+<lb n="0921b25" ed="T"/>沙國微塵世界。國名不眴佛號普賢。純諸菩
+<lb n="0921b26" ed="T"/>薩無二乘名。但修念佛三昧不滅不生不出。
+<lb n="0921b27" ed="T"/>心行平等猶如虛空。是為念佛。即見佛時即
+<lb n="0921b28" ed="T"/>具六波羅<note n="0921014" resp="Taisho" place="foot text" type="orig">蜜＝密【甲】下同</note><app n="0921014"><lem wit="【大】">蜜</lem><rdg resp="Taisho" wit="【甲】">密</rdg></app>得無生忍。所謂不取色即檀。除
+<lb n="0921b29" ed="T"/>色相即尸。觀色盡即羼<note n="0921015" resp="Taisho" place="foot text" type="orig">提觀＝視【甲】</note><app n="0921015"><lem wit="【大】">提。觀</lem><rdg resp="Taisho" wit="【甲】">視</rdg></app>色寂滅即毘
+<pb n="0921c" xml:id="T34.1728.0921c" ed="T"/>
+<lb n="0921c01" ed="T"/>黎<note n="0921016" resp="Taisho" place="foot text" type="orig">〔耶〕－【甲】</note><app n="0921016"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。不行色即禪。不戲論色即般若也。身
+<lb n="0921c02" ed="T"/>子問。誰為汝作字名無盡意。答曰。一切諸法
+<lb n="0921c03" ed="T"/>因緣果報無盡。一切諸法不可盡。初發無上菩
+<lb n="0921c04" ed="T"/>提心已不可盡。譬如虛空不可窮盡。為一切
+<lb n="0921c05" ed="T"/>智發菩提心。豈可盡乎。諸佛戒定慧解脫解
+<lb n="0921c06" ed="T"/>脫知見十力無畏等無盡。因如是等發心故
+<lb n="0921c07" ed="T"/>不可盡。眾生性無盡。教化眾生無盡。知一切
+<lb n="0921c08" ed="T"/>法性無盡故無盡。是名菩薩發心無盡。又檀
+<lb n="0921c09" ed="T"/>波羅蜜無盡。乃至方便無盡。凡八十無盡。八
+<lb n="0921c10" ed="T"/>十無盡悉能含受一切佛法。從是得名名無
+<lb n="0921c11" ed="T"/>盡意也。又淨名云。何謂為盡謂不盡有為。何
+<lb n="0921c12" ed="T"/>謂無盡不住無為。華嚴有十無盡法門如此
+<lb n="0921c13" ed="T"/>等經皆就假名。分別一切諸法因緣果報。以
+<lb n="0921c14" ed="T"/>明無盡意。又如勝鬘經云。如來色<note n="0921017" resp="Taisho" place="foot text" type="orig">（一切）＋無【甲】</note><app n="0921017"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">一切無</rdg></app>盡智慧
+<lb n="0921c15" ed="T"/>亦復然。一切法常住。又大品經云。一切法
+<lb n="0921c16" ed="T"/><note n="0921018" resp="Taisho" place="foot text" type="orig">趣＝起【甲】＊</note><app n="0921018"><lem wit="【大】">趣</lem><rdg resp="Taisho" wit="【甲】">起</rdg></app>意是<app type="star" corresp="#0921018"><lem wit="【大】">趣</lem><rdg resp="Taisho" wit="【甲】">起</rdg></app>不過。意為法界意則非盡非無
+<lb n="0921c17" ed="T"/>盡。如是無盡例如非常非無常是乃為常。又
+<lb n="0921c18" ed="T"/>淨名云。法若盡若不盡皆<note n="0921019" resp="Taisho" place="foot text" type="orig">〔是〕－【甲】</note><app n="0921019"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>無盡<note n="0921020" resp="Taisho" place="foot text" type="orig">〔相〕－【甲】＊</note><app n="0921020"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。無盡
+<lb n="0921c19" ed="T"/><app type="star" corresp="#0921020"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>即是空空則無有盡與不盡。故知非盡非
+<lb n="0921c20" ed="T"/>無盡是真無盡義。又大品經云。癡如虛空不
+<lb n="0921c21" ed="T"/>可盡。乃至老死如虛空不可盡。色不可盡乃
+<lb n="0921c22" ed="T"/>至識不可盡。如此等經皆約中道之理。以名
+<lb n="0921c23" ed="T"/>無盡。通達空假中三諦之法不可盡。故名無
+<lb n="0921c24" ed="T"/>盡意菩薩。亦名無盡心智識色受想行等義。
+<lb n="0921c25" ed="T"/>不可說不可說不能<note n="0921021" resp="Taisho" place="foot text" type="orig">具＝其【甲】</note><app n="0921021"><lem wit="【大】">具</lem><rdg resp="Taisho" wit="【甲】">其</rdg></app>載。菩薩者。外國云摩
+<lb n="0921c26" ed="T"/><note n="0921022" resp="Taisho" place="foot text" type="orig">訶＋（薩）【甲】</note><app n="0921022"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【甲】">訶薩</rdg></app>菩提質多薩埵。此云大道心眾生。始心行
+<lb n="0921c27" ed="T"/>者為煩惱所生。二乘為五分法身所生。六度
+<lb n="0921c28" ed="T"/>菩薩為福德所生。別圓為中道所生。故大品
+<lb n="0921c29" ed="T"/>云。如來身者不從一因一緣生。如來身菩薩
+<pb n="0922a" xml:id="T34.1728.0922a" ed="T"/>
+<lb n="0922a01" ed="T"/>為眾<note n="0922001" resp="Taisho" place="foot text" type="orig">行＝生【甲】</note><app n="0922001"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【甲】">生</rdg></app>生。故言眾生發心求佛。故言為大
+<lb n="0922a02" ed="T"/>道。利益一切以法道成他。或言成眾生。廣釋
+<lb n="0922a03" ed="T"/>菩薩義如別記。三敬儀者為三。一起二<note n="0922002" resp="Taisho" place="foot text" type="orig">袒＝祖【甲】＊</note><app n="0922002"><lem wit="【大】">袒</lem><rdg resp="Taisho" wit="【甲】">祖</rdg></app>三
+<lb n="0922a04" ed="T"/>合掌。起者禮云請益起請業起。菩薩於佛備
+<lb n="0922a05" ed="T"/>其二儀故言起也。觀釋者菩薩常<note n="0922003" resp="Taisho" place="foot text" type="orig">〔修〕－【甲】</note><app n="0922003"><lem wit="【大】">修</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>遠離行
+<lb n="0922a06" ed="T"/>故言起。亦是契諸法空空即是座。於此空無
+<lb n="0922a07" ed="T"/>所染著故言起也。又菩薩安<note n="0922004" resp="Taisho" place="foot text" type="orig">住＝於【甲】</note><app n="0922004"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【甲】">於</rdg></app>空理理本無
+<lb n="0922a08" ed="T"/>起。愍眾生故<note n="0922005" resp="Taisho" place="foot text" type="orig">乘＝承【甲】</note><app n="0922005"><lem wit="【大】">乘</lem><rdg resp="Taisho" wit="【甲】">承</rdg></app>機利益故言起。又中道之寂
+<lb n="0922a09" ed="T"/>非起非不起。而能起能不起無起之起。起即
+<lb n="0922a10" ed="T"/>實相亦起眾生實相故言起也。偏<app type="star" corresp="#0922002"><lem wit="【大】">袒</lem><rdg resp="Taisho" wit="【甲】">祖</rdg></app>右肩者。
+<lb n="0922a11" ed="T"/>外國以<app type="star" corresp="#0922002"><lem wit="【大】">袒</lem><rdg resp="Taisho" wit="【甲】">祖</rdg></app>為敬露<note n="0922006" resp="Taisho" place="foot text" type="orig">右＋（肩）【甲】</note><app n="0922006"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【甲】">右肩</rdg></app>者示執奉為便。表弟
+<lb n="0922a12" ed="T"/>子事師充役之儀。是故以<app type="star" corresp="#0922002"><lem wit="【大】">袒</lem><rdg resp="Taisho" wit="【甲】">祖</rdg></app>為恭也。此方以
+<lb n="0922a13" ed="T"/><app type="star" corresp="#0922002"><lem wit="【大】">袒</lem><rdg resp="Taisho" wit="【甲】">祖</rdg></app>為慢。然古<note n="0922007" resp="Taisho" place="foot text" type="orig">有須賈＝需假（須賈先生）四字傍註【甲】</note><note n="0922007" resp="CBETA" type="mod"><!--CBETA todo type: a-->有須賈＝需假（須賈先生）四字傍註【甲】</note>有須賈肉<app type="star" corresp="#0922002"><lem wit="【大】">袒</lem><rdg resp="Taisho" wit="【甲】">祖</rdg></app>謝於張儀露兩
+<lb n="0922a14" ed="T"/>髀也。此方亦不一向是慢也。<note n="0922008" resp="Taisho" place="foot text" type="orig">觀＝覼【甲】＊</note><app n="0922008"><lem wit="【大】">觀</lem><rdg resp="Taisho" wit="【甲】">覼</rdg></app>解者。覆露
+<lb n="0922a15" ed="T"/>表空假二諦。又表權實實不可說。如覆左表
+<lb n="0922a16" ed="T"/>有冥益權於化便。如露右表有顯益也。合掌
+<lb n="0922a17" ed="T"/>者。此方以<note n="0922009" resp="Taisho" place="foot text" type="orig">拱＝捧【甲】</note><app n="0922009"><lem wit="【大】">拱</lem><rdg resp="Taisho" wit="【甲】">捧</rdg></app>手為恭。外國合掌為敬。手本
+<lb n="0922a18" ed="T"/>二邊今合為一。表不敢<note n="0922010" resp="Taisho" place="foot text" type="orig">散＝敬【甲】</note><app n="0922010"><lem wit="【大】">散</lem><rdg resp="Taisho" wit="【甲】">敬</rdg></app>誕專至一心。<note n="0922011" resp="Taisho" place="foot text" type="orig">一＝心【甲】＊</note><app n="0922011"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">心</rdg></app>
+<lb n="0922a19" ed="T"/>心相當故以此表敬也。觀解者。<note n="0922012" resp="Taisho" place="foot text" type="orig">〔昔〕－【甲】</note><app n="0922012"><lem wit="【大】">昔</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>權實不
+<lb n="0922a20" ed="T"/>合而今得合。又五指表<note n="0922013" resp="Taisho" place="foot text" type="orig">（五）＋陰【甲】</note><app n="0922013"><lem wit="【大】">陰</lem><rdg resp="Taisho" wit="【甲】">五陰</rdg></app>。仁王經云。法性
+<lb n="0922a21" ed="T"/>色受想行識。此即實智真身亦有五陰也。應
+<lb n="0922a22" ed="T"/>化因緣亦有五陰也。眾生性<note n="0922014" resp="Taisho" place="foot text" type="orig">德＝得【甲】</note><app n="0922014"><lem wit="【大】">德</lem><rdg resp="Taisho" wit="【甲】">得</rdg></app>之理亦有五
+<lb n="0922a23" ed="T"/>陰也。眾生生死果報亦有五陰也。聖人為化
+<lb n="0922a24" ed="T"/>眾生示有應身五陰。是則權實陰殊。若眾生
+<lb n="0922a25" ed="T"/>法性理顯。聖人亦息化歸真權實不二。合掌
+<lb n="0922a26" ed="T"/>表於返本還源。入非權非實事理契合故合
+<lb n="0922a27" ed="T"/>掌也。向佛者。表萬善之因向萬德之果也。亦
+<lb n="0922a28" ed="T"/>是行人分證權實合。向於究竟權實合故言
+<lb n="0922a29" ed="T"/>向佛也。四發問者。此下有兩番問答。初番
+<pb n="0922b" xml:id="T34.1728.0922b" ed="T"/>
+<lb n="0922b01" ed="T"/>問<app type="star" corresp="#0922008"><lem wit="【大】">觀</lem><rdg resp="Taisho" wit="【甲】">覼</rdg></app>世音後番問普門。前問為三。一稱歎。二
+<lb n="0922b02" ed="T"/>標所問人。三正問。大經云。汝具二莊嚴能問
+<lb n="0922b03" ed="T"/>是義。我具二莊嚴能答是義。今無盡意具二
+<lb n="0922b04" ed="T"/>莊嚴欲顯觀音二種莊嚴。諮發如來。如來究
+<lb n="0922b05" ed="T"/>竟具二莊嚴。當答此義。釋論云。問有多種不
+<lb n="0922b06" ed="T"/>解問試問赴機問。今無盡意即是赴機問也。
+<lb n="0922b07" ed="T"/>世尊者。即是稱歎尊號十號具出釋論。用彼
+<lb n="0922b08" ed="T"/>釋此觀世音菩薩。即是標所問之人也。具如
+<lb n="0922b09" ed="T"/>前釋。何因緣者。因緣甚多略言境智因緣。若
+<lb n="0922b10" ed="T"/>就眾生則以善惡兩機為因。聖人靈智慈悲為
+<lb n="0922b11" ed="T"/>緣。若就聖人觀智慈悲為因。眾生機感為緣。
+<lb n="0922b12" ed="T"/>以是因緣名觀世音。如上釋也。第二佛答即
+<lb n="0922b13" ed="T"/>為三。初總答。次別答。三勸持。就初總答為
+<lb n="0922b14" ed="T"/>二。一明機。二明應。就機為四。一標人數。<note n="0922015" resp="Taisho" place="foot text" type="orig">二＋（明）【甲】</note><app n="0922015"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】">二明</rdg></app>
+<lb n="0922b15" ed="T"/>遭苦。三聞名。四稱號。數者十法界機實自無
+<lb n="0922b16" ed="T"/>量而言百千萬億者。此乃通途商略。業同者
+<lb n="0922b17" ed="T"/>如一地獄界大略是同。其間優降復有何<note n="0922016" resp="Taisho" place="foot text" type="orig">量＝異地獄【甲】</note><app n="0922016"><lem wit="【大】">量</lem><rdg resp="Taisho" wit="【甲】">異地獄</rdg></app>。
+<lb n="0922b18" ed="T"/>如一<note n="0922017" resp="Taisho" place="foot text" type="orig">（地）＋獄【甲】</note><app n="0922017"><lem wit="【大】">獄</lem><rdg resp="Taisho" wit="【甲】">地獄</rdg></app>復有百千萬億品格之殊。一一品格
+<lb n="0922b19" ed="T"/>復有百千萬億罪人。<note n="0922018" resp="Taisho" place="foot text" type="orig">是＋（人）【甲】</note><app n="0922018"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】">是人</rdg></app>罪業正同所以同受
+<lb n="0922b20" ed="T"/>一品罪苦。將此意廣歷餓鬼畜生修羅人天
+<lb n="0922b21" ed="T"/>皆亦如是。故知此數是標同業之意也。所以
+<lb n="0922b22" ed="T"/>舉多數者。明百千萬億種業遭苦稱名。一時
+<lb n="0922b23" ed="T"/>有機一時能應。皆得解脫。何況一人一業一
+<lb n="0922b24" ed="T"/>機獨來而不能救。此舉境眾機多以顯觀深
+<lb n="0922b25" ed="T"/>應大也。二明遭苦者。即是受諸苦惱也。此語
+<lb n="0922b26" ed="T"/>成上義。上百千是業同此言諸苦<note n="0922019" resp="Taisho" place="foot text" type="orig">惱＝總【甲】</note><app n="0922019"><lem wit="【大】">惱</lem><rdg resp="Taisho" wit="【甲】">總</rdg></app>。一苦
+<lb n="0922b27" ed="T"/>惱是一業者。凡有百千萬億。故知有諸百千
+<lb n="0922b28" ed="T"/>萬億。上明數同下明業別。用此意歷十法界
+<lb n="0922b29" ed="T"/><note n="0922020" resp="Taisho" place="foot text" type="orig">萬＝百【甲】</note><app n="0922020"><lem wit="【大】">萬</lem><rdg resp="Taisho" wit="【甲】">百</rdg></app>機之徒。不可說<note n="0922021" resp="Taisho" place="foot text" type="orig">〔不可說〕－【甲】</note><app n="0922021"><lem wit="【大】">不可說</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>也。今言受苦惱
+<pb n="0922c" xml:id="T34.1728.0922c" ed="T"/>
+<lb n="0922c01" ed="T"/>者。正是現遭苦厄也。此苦由於結業果多故
+<lb n="0922c02" ed="T"/>因亦多。此即總答文略而意廣。遍該十<note n="0922022" resp="Taisho" place="foot text" type="orig">（法）＋界【甲】</note><app n="0922022"><lem wit="【大】">界</lem><rdg resp="Taisho" wit="【甲】">法界</rdg></app>不
+<lb n="0922c03" ed="T"/>止人道而已。後別答中文廣而意狹。別舉人
+<lb n="0922c04" ed="T"/>間七難而已。故此處總答也。三聞名者。上明
+<lb n="0922c05" ed="T"/>遭苦次明生善。善惡合為機。此即明<note n="0922023" resp="Taisho" place="foot text" type="orig">文＋（也）【甲】</note><app n="0922023"><lem wit="【大】">文</lem><rdg resp="Taisho" wit="【甲】">文也</rdg></app>聞有
+<lb n="0922c06" ed="T"/>四義如別記。若能如是通達四種聞義即聞
+<lb n="0922c07" ed="T"/>慧。心無所依無住無著即是思慧。一心稱名。
+<lb n="0922c08" ed="T"/><note n="0922024" resp="Taisho" place="foot text" type="orig">即＋（是）【甲】</note><app n="0922024"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【甲】">即是</rdg></app>修慧。此文雖<note n="0922025" resp="Taisho" place="foot text" type="orig">窄＝迮【甲】</note><app n="0922025"><lem wit="【大】">窄</lem><rdg resp="Taisho" wit="【甲】">迮</rdg></app>三慧意顯。四稱名者。稱
+<lb n="0922c09" ed="T"/>名有二。一事二理。若用心存念念念相續餘
+<lb n="0922c10" ed="T"/>心不間。故<note n="0922026" resp="Taisho" place="foot text" type="orig">名＋（事）【甲】</note><app n="0922026"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【甲】">名事</rdg></app>一心。或可如請觀音中。繫念
+<lb n="0922c11" ed="T"/>數息十息不亂名一念。或可無量息不<note n="0922027" resp="Taisho" place="foot text" type="orig">雜＝離【甲】</note><app n="0922027"><lem wit="【大】">雜</lem><rdg resp="Taisho" wit="【甲】">離</rdg></app>異
+<lb n="0922c12" ed="T"/>想。心想雖長亦名一心。<app type="star" corresp="#0922011"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">心</rdg></app>心歸憑更無二
+<lb n="0922c13" ed="T"/>意。故名事一心也。稱名者。或可略稱。如此文
+<lb n="0922c14" ed="T"/>或廣稱如下文。南無<note n="0922028" resp="Taisho" place="foot text" type="orig">〔者〕－【甲】</note><app n="0922028"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。歸命之辭。皆是事一
+<lb n="0922c15" ed="T"/>心稱名也。理一心者。達此心自他共無因不
+<lb n="0922c16" ed="T"/>可得。無心無念空慧相應。此乃無一亦無心
+<lb n="0922c17" ed="T"/>知聲相空呼<note n="0922029" resp="Taisho" place="foot text" type="orig">響＝嚮【甲】＊</note><app n="0922029"><lem wit="【大】">響</lem><rdg resp="Taisho" wit="【甲】">嚮</rdg></app>不實。能稱所稱皆不可得。是
+<lb n="0922c18" ed="T"/>名無稱。是為理一心稱名也。二應者。先明應
+<lb n="0922c19" ed="T"/>次明解脫。應有多種。三教之應應不一時。圓
+<lb n="0922c20" ed="T"/>教觀音一時圓應<note n="0922030" resp="Taisho" place="foot text" type="orig">眾機＝機眾【甲】</note><app n="0922030"><lem wit="【大】">眾機</lem><rdg resp="Taisho" wit="【甲】">機眾</rdg></app>厄急應速。一時<note n="0922031" resp="Taisho" place="foot text" type="orig">（即）＋聞【甲】</note><app n="0922031"><lem wit="【大】">聞</lem><rdg resp="Taisho" wit="【甲】">即聞</rdg></app>
+<lb n="0922c21" ed="T"/>即稱是機速。<note n="0922032" resp="Taisho" place="foot text" type="orig">稱＝即聞【甲】</note><app n="0922032"><lem wit="【大】">稱</lem><rdg resp="Taisho" wit="【甲】">即聞</rdg></app>即應是應速。皆得解脫者。
+<lb n="0922c22" ed="T"/>即是蒙應利益也。皆者非但顯於多機眾益。
+<lb n="0922c23" ed="T"/>亦是顯於圓遍之應也。或時為機速應速平等
+<lb n="0922c24" ed="T"/>利益速<note n="0922033" resp="Taisho" place="foot text" type="orig">貼＝怗【甲】＊</note><app n="0922033"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">怗</rdg></app>文。</p><p xml:id="pT34p0922c2406" rend="inline">問。十法界眾生無量機<note n="0922034" resp="Taisho" place="foot text" type="orig">〔既〕－【甲】</note><app n="0922034"><lem wit="【大】">既</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>無
+<lb n="0922c25" ed="T"/>量。云何一時令得解脫。</p><p xml:id="pT34p0922c2510" rend="inline">答。譬如父母念子心
+<lb n="0922c26" ed="T"/>重多智多<note n="0922035" resp="Taisho" place="foot text" type="orig">才＝財【甲】</note><app n="0922035"><lem wit="【大】">才</lem><rdg resp="Taisho" wit="【甲】">財</rdg></app>具大勢力。眾子在難即能<note n="0922036" resp="Taisho" place="foot text" type="orig">〔俱〕－【甲】</note><app n="0922036"><lem wit="【大】">俱</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0922c27" ed="T"/>拔之。菩薩亦如是。無緣慈悲重權實二智深。
+<lb n="0922c28" ed="T"/>聖財無量神通力大。十界雖多應有餘裕。安
+<lb n="0922c29" ed="T"/>樂行云。忍辱大力智慧寶藏。以大慈悲如法
+<pb n="0923a" xml:id="T34.1728.0923a" ed="T"/>
+<lb n="0923a01" ed="T"/>化世。即此意也。又<note n="0923001" resp="Taisho" place="foot text" type="orig">〔如〕－【甲】</note><app n="0923001"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>毒龍罪報尚能以一眼
+<lb n="0923a02" ed="T"/>遍視一切。視之皆死。何況菩薩種<note n="0923002" resp="Taisho" place="foot text" type="orig">智＝起【甲】</note><app n="0923002"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】">起</rdg></app>圓明
+<lb n="0923a03" ed="T"/>耶。又如<note n="0923003" resp="Taisho" place="foot text" type="orig"><g ref="#CB01475"/>＝磁【甲】</note><app n="0923003"><lem wit="【大】"><g ref="#CB01475"/></lem><rdg resp="Taisho" wit="【甲】">磁</rdg></app>石。亦類明鏡。又是入王三昧力
+<lb n="0923a04" ed="T"/>一時十番利益一切。此義具在大本玄義。</p><p xml:id="pT34p0923a0417" rend="inline">問。
+<lb n="0923a05" ed="T"/>一心稱名皆得解脫。今見稱唱累。<note n="0923004" resp="Taisho" place="foot text" type="orig">年＝耳【甲】</note><app n="0923004"><lem wit="【大】">年</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>不蒙寸
+<lb n="0923a06" ed="T"/><note n="0923005" resp="Taisho" place="foot text" type="orig">斆＝效【甲】</note><app n="0923005"><lem wit="【大】">斆</lem><rdg resp="Taisho" wit="【甲】">效</rdg></app>何也。</p><p xml:id="pT34p0923a0604" rend="inline">答。經云。一心稱名有事一理。一二
+<lb n="0923a07" ed="T"/>途。無取<note n="0923006" resp="Taisho" place="foot text" type="orig">可＝何【甲】</note><app n="0923006"><lem wit="【大】">可</lem><rdg resp="Taisho" wit="【甲】">何</rdg></app>能感聖。譬如臨鏡背視對谷閉
+<lb n="0923a08" ed="T"/>口。何能致影<app type="star" corresp="#0922029"><lem wit="【大】">響</lem><rdg resp="Taisho" wit="【甲】">嚮</rdg></app>耶。第二別答為三。一口機
+<lb n="0923a09" ed="T"/>感應。二意機感應。三身機感應。就口機為二。
+<lb n="0923a10" ed="T"/>初明七難。次結口機。有人<note n="0923007" resp="Taisho" place="foot text" type="orig">〔云〕－【甲】</note><app n="0923007"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。次第三機者
+<lb n="0923a11" ed="T"/>口顯居前音成由意意識成身也。通論口機
+<lb n="0923a12" ed="T"/>亦脫三種苦。但先除果苦。次除苦因。次滿願
+<lb n="0923a13" ed="T"/>與樂。</p><p xml:id="pT34p0923a1303" rend="inline">問。此中明拔苦那忽與樂。</p><p xml:id="pT34p0923a1313" rend="inline">答。少分與樂
+<lb n="0923a14" ed="T"/>欲引<note n="0923008" resp="Taisho" place="foot text" type="orig">接＝攝【甲】＊</note><app n="0923008"><lem wit="【大】">接</lem><rdg resp="Taisho" wit="【甲】">攝</rdg></app>之也。</p><p xml:id="pT34p0923a1406" rend="inline">問。何意不與其樂因。</p><p xml:id="pT34p0923a1414" rend="inline">答。因非
+<lb n="0923a15" ed="T"/>引<app type="star" corresp="#0923008"><lem wit="【大】">接</lem><rdg resp="Taisho" wit="【甲】">攝</rdg></app>故不與。又其文在後為說法是與樂因。</p>
+<lb n="0923a16" ed="T"/><p xml:id="pT34p0923a1601">問。悲門既少分與樂。慈門應少分拔苦。</p><p xml:id="pT34p0923a1616" rend="inline">答。前
+<lb n="0923a17" ed="T"/>悲全拔苦已竟後但與樂。無苦可拔何論少
+<lb n="0923a18" ed="T"/>分。有人解七難為兩雙一<note n="0923009" resp="Taisho" place="foot text" type="orig">隻＝雙【甲】＊</note><app n="0923009"><lem wit="【大】">隻</lem><rdg resp="Taisho" wit="【甲】">雙</rdg></app>。火水無識為
+<lb n="0923a19" ed="T"/>一雙。鬼非類為一<app type="star" corresp="#0923009"><lem wit="【大】">隻</lem><rdg resp="Taisho" wit="【甲】">雙</rdg></app>。王賤是類為一雙。鬼
+<lb n="0923a20" ed="T"/>開去來王論輕重故成七難也。次第者火水
+<lb n="0923a21" ed="T"/>無識為難則重。鬼雖有識非類為次。王賊有
+<lb n="0923a22" ed="T"/>識是類故輕。然鬼王相<note n="0923010" resp="Taisho" place="foot text" type="orig">間＝雜【甲】</note><app n="0923010"><lem wit="【大】">間</lem><rdg resp="Taisho" wit="【甲】">雜</rdg></app>初以鬼比王。王輕
+<lb n="0923a23" ed="T"/>則鬼重。又以王比鬼。王重鬼輕。此二相似故
+<lb n="0923a24" ed="T"/><note n="0923011" resp="Taisho" place="foot text" type="orig">間＝開【甲】＊</note><app n="0923011"><lem wit="【大】">間</lem><rdg resp="Taisho" wit="【甲】">開</rdg></app>出。有師以風足為八難。有人彈之。文云。
+<lb n="0923a25" ed="T"/>稱名皆得解脫。羅剎之難不道<note n="0923012" resp="Taisho" place="foot text" type="orig">風＝<g ref="#CB13628"/>【甲】</note><app n="0923012"><lem wit="【大】">風</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB13628"/></rdg></app>為難。今
+<lb n="0923a26" ed="T"/>明聖人赴機何必如此情<note n="0923013" resp="Taisho" place="foot text" type="orig">卜＝分【甲】</note><app n="0923013"><lem wit="【大】">卜</lem><rdg resp="Taisho" wit="【甲】">分</rdg></app>。次第何必不次
+<lb n="0923a27" ed="T"/>第。今不同前者。此本明赴機拔苦。那得更以
+<lb n="0923a28" ed="T"/>與樂<app type="star" corresp="#0923011"><lem wit="【大】">間</lem><rdg resp="Taisho" wit="【甲】">開</rdg></app>之。今言次第者。先入<note n="0923014" resp="Taisho" place="foot text" type="orig">國＝圓【甲】</note><app n="0923014"><lem wit="【大】">國</lem><rdg resp="Taisho" wit="【甲】">圓</rdg></app>隨俗赴口
+<lb n="0923a29" ed="T"/>機為初。意冥身顯以為次也。若尋經意一時
+<pb n="0923b" xml:id="T34.1728.0923b" ed="T"/>
+<lb n="0923b01" ed="T"/>觀其音聲皆得解脫。經不云次第觀機。那可
+<lb n="0923b02" ed="T"/>作次第釋耶。他既作七難次第。今還復作對
+<lb n="0923b03" ed="T"/>之耳。入火即有焦身絕命之憂。最為卒重故
+<lb n="0923b04" ed="T"/>居初。水漂沈<note n="0923015" resp="Taisho" place="foot text" type="orig">浮小緩＝淳少後【甲】</note><app n="0923015"><lem wit="【大】">浮小緩</lem><rdg resp="Taisho" wit="【甲】">淳少後</rdg></app>於火。羅剎雖暴如經云
+<lb n="0923b05" ed="T"/>有五百羅剎女。妻五百飄人生子受樂。時節
+<lb n="0923b06" ed="T"/>猶長。然後頓食。此復<note n="0923016" resp="Taisho" place="foot text" type="orig">緩＝後【甲】＊</note><app n="0923016"><lem wit="【大】">緩</lem><rdg resp="Taisho" wit="【甲】">後</rdg></app>於水。王難非即得即
+<lb n="0923b07" ed="T"/>戮。研罪虛實實刑虛<note n="0923017" resp="Taisho" place="foot text" type="orig">赦＝散【甲】</note><app n="0923017"><lem wit="【大】">赦</lem><rdg resp="Taisho" wit="【甲】">散</rdg></app>。不同於鬼一概併食。
+<lb n="0923b08" ed="T"/>故復次羅剎也。鬼來取者無的所取。衰乃逢
+<lb n="0923b09" ed="T"/>害<note n="0923018" resp="Taisho" place="foot text" type="orig">逃＝桃【甲】</note><app n="0923018"><lem wit="【大】">逃</lem><rdg resp="Taisho" wit="【甲】">桃</rdg></app>脫可<note n="0923019" resp="Taisho" place="foot text" type="orig">免＝勉【甲】＊</note><app n="0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>。不同王法定判死生。故復次
+<lb n="0923b10" ed="T"/>王難也。枷鎖節身不<note n="0923020" resp="Taisho" place="foot text" type="orig">慮＝定【甲】</note><app n="0923020"><lem wit="【大】">慮</lem><rdg resp="Taisho" wit="【甲】">定</rdg></app>失命。但有禁固之苦
+<lb n="0923b11" ed="T"/>小<app type="star" corresp="#0923016"><lem wit="【大】">緩</lem><rdg resp="Taisho" wit="【甲】">後</rdg></app>於鬼。怨賊覓寶輸寶即畢。若能卑辭善
+<lb n="0923b12" ed="T"/>巧方便即可<app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>脫。此一往次第<note n="0923021" resp="Taisho" place="foot text" type="orig">爾＝耳【甲】</note><app n="0923021"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。至如兇賊
+<lb n="0923b13" ed="T"/><note n="0923022" resp="Taisho" place="foot text" type="orig">忽＝急【甲】</note><app n="0923022"><lem wit="【大】">忽</lem><rdg resp="Taisho" wit="【甲】">急</rdg></app>發與<note n="0923023" resp="Taisho" place="foot text" type="orig">火＋（之）【甲】</note><app n="0923023"><lem wit="【大】">火</lem><rdg resp="Taisho" wit="【甲】">火之</rdg></app>燒何異。</p><p xml:id="pT34p0923b1308" rend="inline">問。諸難<note n="0923024" resp="Taisho" place="foot text" type="orig">眾多＝甚眾【甲】</note><app n="0923024"><lem wit="【大】">眾多</lem><rdg resp="Taisho" wit="【甲】">甚眾</rdg></app>何意取七
+<lb n="0923b14" ed="T"/>耶。</p><p xml:id="pT34p0923b1402" rend="inline">答。此有所表人以六種成身。還以六種自
+<lb n="0923b15" ed="T"/>害。如人共七難同住復以七為難。今通用七
+<lb n="0923b16" ed="T"/>難<note n="0923025" resp="Taisho" place="foot text" type="orig">等來＝算束【甲】</note><app n="0923025"><lem wit="【大】">等來</lem><rdg resp="Taisho" wit="【甲】">算束</rdg></app>表六種也。火水風即表身內三種也。
+<lb n="0923b17" ed="T"/>刀杖枷鎖表地種也。鬼賊王等表識種也。三
+<lb n="0923b18" ed="T"/>千大千世界表空種也。云何空得為難。如人
+<lb n="0923b19" ed="T"/>身有內空。四大圍之識於中住。何異大千界
+<lb n="0923b20" ed="T"/>圍地水火風。王鬼賊等於中住耶。空為難者
+<lb n="0923b21" ed="T"/>空是來難之由。如<note n="0923026" resp="Taisho" place="foot text" type="orig">身＝人宗【甲】</note><app n="0923026"><lem wit="【大】">身</lem><rdg resp="Taisho" wit="【甲】">人宗</rdg></app>體堅實外病不侵。身若
+<lb n="0923b22" ed="T"/>虛疎眾疾逼惱。又如人家宅無垣牆。盜賊則
+<lb n="0923b23" ed="T"/>進能來難。故空亦成難。識種是難者心<note n="0923027" resp="Taisho" place="foot text" type="orig">識＝議【甲】</note><app n="0923027"><lem wit="【大】">識</lem><rdg resp="Taisho" wit="【甲】">議</rdg></app>耶。
+<lb n="0923b24" ed="T"/>計橫起愛見毀滅法身慧命。如王鬼賊劫奪
+<lb n="0923b25" ed="T"/>財寶。斷傷壽命故識種是難。所以不多取者
+<lb n="0923b26" ed="T"/>正應表此。假令多舉諸難亦是表此一。火難
+<lb n="0923b27" ed="T"/>為四。一持名即是善為機。二遭苦即是惡為
+<lb n="0923b28" ed="T"/>機。三應。四結。上總云受諸苦惱未判其相。今
+<lb n="0923b29" ed="T"/>別答故舉水火等也。釋諸難例為三意。一<app type="star" corresp="#0922033"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">怗</rdg></app>
+<pb n="0923c" xml:id="T34.1728.0923c" ed="T"/>
+<lb n="0923c01" ed="T"/>文。二舉事證。三觀行解釋。<app type="star" corresp="#0922033"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">怗</rdg></app>文者。持者口
+<lb n="0923c02" ed="T"/>為誦持心為秉持。秉持為理不失。雖非口持
+<lb n="0923c03" ed="T"/>覺觀亦得是口行。故通屬口業機攝。若有設
+<lb n="0923c04" ed="T"/>有復有皆是不定挑脫之辭也。餘皆難起方
+<lb n="0923c05" ed="T"/>稱名。此中前持名而遭難。此或是前後互
+<lb n="0923c06" ed="T"/>出<note n="0923028" resp="Taisho" place="foot text" type="orig">爾＝耳【甲】</note><app n="0923028"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。今<note n="0923029" resp="Taisho" place="foot text" type="orig">為＝謂【甲】</note><app n="0923029"><lem wit="【大】">為</lem><rdg resp="Taisho" wit="【甲】">謂</rdg></app>火難卒暴須預憶持。憶持必無
+<lb n="0923c07" ed="T"/>此難。設脫有者。皆是放捨所持。背善從惡稱
+<lb n="0923c08" ed="T"/>之為設。如慈童女因緣。若能至意修<note n="0923030" resp="Taisho" place="foot text" type="orig">孝＋（者）【甲】</note><app n="0923030"><lem wit="【大】">孝</lem><rdg resp="Taisho" wit="【甲】">孝者</rdg></app>不遭
+<lb n="0923c09" ed="T"/>火輪。違母絕髮受地獄苦。此是秉孝<note n="0923031" resp="Taisho" place="foot text" type="orig">不＋（能）【甲】</note><app n="0923031"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】">不能</rdg></app>純
+<lb n="0923c10" ed="T"/>廣出因緣。<note n="0923032" resp="Taisho" place="foot text" type="orig">〔云云〕－【甲】</note><app n="0923032"><lem wit="【大】">云云</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。行人持名本不應遭難緣
+<lb n="0923c11" ed="T"/>差忽忘。設入大火<note n="0923033" resp="Taisho" place="foot text" type="orig">若＝苦【甲】</note><app n="0923033"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【甲】">苦</rdg></app>能憶先所持。即得<app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>
+<lb n="0923c12" ed="T"/>難。火難既重機亦須深。故先持後脫其義可
+<lb n="0923c13" ed="T"/>見。威神力是結火難也。次<note n="0923034" resp="Taisho" place="foot text" type="orig">約＝引【甲】</note><app n="0923034"><lem wit="【大】">約</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app>證者。晉世謝
+<lb n="0923c14" ed="T"/>敷作觀世音應驗傳。齊陸<note n="0923035" resp="Taisho" place="foot text" type="orig">杲＝果【甲】</note><app n="0923035"><lem wit="【大】">杲</lem><rdg resp="Taisho" wit="【甲】">果</rdg></app>又續之。其傳
+<lb n="0923c15" ed="T"/>云。竺長舒晉元康<note n="0923036" resp="Taisho" place="foot text" type="orig">〔年〕－【甲】</note><app n="0923036"><lem wit="【大】">年</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>中於洛陽為延火所及。
+<lb n="0923c16" ed="T"/>草屋下風豈有<app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>理。一心稱名風迴火轉
+<lb n="0923c17" ed="T"/><note n="0923037" resp="Taisho" place="foot text" type="orig">隣＝除【甲】</note><app n="0923037"><lem wit="【大】">隣</lem><rdg resp="Taisho" wit="【甲】">除</rdg></app>舍而滅。鄉里淺見謂為自爾。因風燥日。
+<lb n="0923c18" ed="T"/>擲火燒之。三擲三滅。即叩頭懺謝。法力於魯
+<lb n="0923c19" ed="T"/>郡起精舍。於上谷乞得一車麻。於空野遇火。
+<lb n="0923c20" ed="T"/>法力<note n="0923038" resp="Taisho" place="foot text" type="orig">疲＝初【甲】</note><app n="0923038"><lem wit="【大】">疲</lem><rdg resp="Taisho" wit="【甲】">初</rdg></app>極小臥。比覺火勢已及。因舉聲稱
+<lb n="0923c21" ed="T"/>觀。未得稱世音應聲火滅。又法智遇野火。頭
+<lb n="0923c22" ed="T"/>面作禮至心稱名。餘處皆燒智容身所無損。
+<lb n="0923c23" ed="T"/>又吳<note n="0923039" resp="Taisho" place="foot text" type="orig">興＝與【甲】</note><app n="0923039"><lem wit="【大】">興</lem><rdg resp="Taisho" wit="【甲】">與</rdg></app>郡吏此皆記傳所明非為虛說信矣。
+<lb n="0923c24" ed="T"/>三就觀行釋者。火有多種有果報火業火煩
+<lb n="0923c25" ed="T"/>惱火。果報火至初禪。業火通三界。煩惱火通
+<lb n="0923c26" ed="T"/>三乘人。果報火難者。從地獄有上至初禪皆
+<lb n="0923c27" ed="T"/>有<note n="0923040" resp="Taisho" place="foot text" type="orig">火＋（報）【甲】</note><app n="0923040"><lem wit="【大】">火</lem><rdg resp="Taisho" wit="【甲】">火報</rdg></app>難。如阿鼻<note n="0923041" resp="Taisho" place="foot text" type="orig">鬲＝融【甲】</note><app n="0923041"><lem wit="【大】">鬲</lem><rdg resp="Taisho" wit="【甲】">融</rdg></app>子八萬四千內外洞徹
+<lb n="0923c28" ed="T"/>上下<note n="0923042" resp="Taisho" place="foot text" type="orig">交＝夾【甲】</note><app n="0923042"><lem wit="【大】">交</lem><rdg resp="Taisho" wit="【甲】">夾</rdg></app>炎。餓鬼支節煙起舉體焦然。畜生
+<lb n="0923c29" ed="T"/>燠煮湯炭。修羅亦有火難。人中焚燒現見故。
+<pb n="0924a" xml:id="T34.1728.0924a" ed="T"/>
+<lb n="0924a01" ed="T"/>若至劫盡須彌洞<note n="0924001" resp="Taisho" place="foot text" type="orig">然＝燋【甲】＊</note><app n="0924001"><lem wit="【大】">然</lem><rdg resp="Taisho" wit="【甲】">燋</rdg></app>。諸天宮殿<note n="0924002" resp="Taisho" place="foot text" type="orig">〔悉〕－【甲】</note><app n="0924002"><lem wit="【大】">悉</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>皆都盡。
+<lb n="0924a02" ed="T"/>初禪已下無<app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>火災。凡一十五有眾生百千
+<lb n="0924a03" ed="T"/>萬億諸業苦惱。持是觀世音<note n="0924003" resp="Taisho" place="foot text" type="orig">名＋（者）【甲】</note><app n="0924003"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【甲】">名者</rdg></app>火不能燒。何
+<lb n="0924a04" ed="T"/>但<note n="0924004" resp="Taisho" place="foot text" type="orig">〔止〕－【甲】</note><app n="0924004"><lem wit="【大】">止</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>就閻浮提人作解耶。直就<note n="0924005" resp="Taisho" place="foot text" type="orig">〔一〕－【甲】</note><app n="0924005"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>十五有果
+<lb n="0924a05" ed="T"/>報。望舊解火<note n="0924006" resp="Taisho" place="foot text" type="orig">誠＝成【甲】</note><app n="0924006"><lem wit="【大】">誠</lem><rdg resp="Taisho" wit="【甲】">成</rdg></app>可笑<note n="0924007" resp="Taisho" place="foot text" type="orig">〔哉〕－【甲】</note><app n="0924007"><lem wit="【大】">哉</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。餘九番非彼所知。
+<lb n="0924a06" ed="T"/>次明修<note n="0924008" resp="Taisho" place="foot text" type="orig">因＝羅【甲】</note><app n="0924008"><lem wit="【大】">因</lem><rdg resp="Taisho" wit="【甲】">羅</rdg></app>惡業火者。隨有改惡修善之處。若
+<lb n="0924a07" ed="T"/>五戒十善多為惡業所難。故經云。燒諸善根
+<lb n="0924a08" ed="T"/>無過瞋恚。雖生有頂頭上火<app type="star" corresp="#0924001"><lem wit="【大】">然</lem><rdg resp="Taisho" wit="【甲】">燋</rdg></app>。術<note n="0924009" resp="Taisho" place="foot text" type="orig">婆＝娑【甲】</note><app n="0924009"><lem wit="【大】">婆</lem><rdg resp="Taisho" wit="【甲】">娑</rdg></app><note n="0924010" resp="Taisho" place="foot text" type="orig">伽＋（波）【甲】</note><app n="0924010"><lem wit="【大】">伽</lem><rdg resp="Taisho" wit="【甲】">伽波</rdg></app>欲
+<lb n="0924a09" ed="T"/>火所燒。金光明云。憂愁盛火今來燒我。能破
+<lb n="0924a10" ed="T"/>善業退上墮下。皆名為火。若能稱名得離惡
+<lb n="0924a11" ed="T"/>業。故請觀音云。破梵行人作十惡業。蕩除糞
+<lb n="0924a12" ed="T"/>穢<note n="0924011" resp="Taisho" place="foot text" type="orig">今＝令【甲】＊</note><app n="0924011"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【甲】">令</rdg></app>得清淨。由斯菩薩威神之力也。次明煩
+<lb n="0924a13" ed="T"/>惱火。若聲聞人厭惡生死。見三界因果猶如
+<lb n="0924a14" ed="T"/>火宅。四倒結業<anchor xml:id="fxT34p0924a03"/>煙炎<note n="0924012" resp="Taisho" place="foot text" type="orig">俱＝但【甲】</note><app n="0924012"><lem wit="【大】">俱</lem><rdg resp="Taisho" wit="【甲】">但</rdg></app>起。輪轉墮落為火
+<lb n="0924a15" ed="T"/>所燒。生死蔓延晝夜不息。勤求方便競共推
+<lb n="0924a16" ed="T"/><note n="0924013" resp="Taisho" place="foot text" type="orig">排爭＝挑諍【甲】</note><app n="0924013"><lem wit="【大】">排爭</lem><rdg resp="Taisho" wit="【甲】">挑諍</rdg></app>出火宅。稱觀世音<note n="0924014" resp="Taisho" place="foot text" type="orig">〔機成…實相〕二百七十二字－【甲】 cf[27]</note><note n="0924014" resp="CBETA" type="mod"><!--CBETA todo type: a-->〔機成…實相〕二百七十二字－【甲】，cf[27]</note>機成感應。乘於羊
+<lb n="0924a17" ed="T"/>車速出火宅。入有餘無餘涅槃。即得解脫也。
+<lb n="0924a18" ed="T"/>次明支佛。次<note n="0924015" resp="Taisho" place="foot text" type="orig">〔明〕－【甲】</note><app n="0924015"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>六度行。次明通教。次明別
+<lb n="0924a19" ed="T"/>教。次明圓教。次明變易土鈍根人。次明變易
+<lb n="0924a20" ed="T"/>土利根人。凡有九番行人。修道之時並為五
+<lb n="0924a21" ed="T"/>住煩惱惑火之所燒害。各修方便。方便未成
+<lb n="0924a22" ed="T"/>火難恒逼。稱觀世音方便即成便得解脫。一
+<lb n="0924a23" ed="T"/><note n="0924016" resp="Taisho" place="foot text" type="orig">一＋（如是）【甲】</note><app n="0924016"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">一如是</rdg></app>當其法門細作機感之義。</p><p xml:id="pT34p0924a2312" rend="inline">問。菩薩住何法
+<lb n="0924a24" ed="T"/>門而能如是耶。</p><p xml:id="pT34p0924a2407" rend="inline">答。菩薩法門無量不出別圓兩
+<lb n="0924a25" ed="T"/>觀。本起慈悲故能十番垂應。所以者何。菩薩
+<lb n="0924a26" ed="T"/>元初發菩提心。見果報火燒諸眾生。即起慈
+<lb n="0924a27" ed="T"/>悲誓當度脫。受持禁戒亦起慈悲救諸業火。
+<lb n="0924a28" ed="T"/>修無漏觀白骨流<note n="0924017" resp="Taisho" place="foot text" type="orig">光＝充【甲】</note><app n="0924017"><lem wit="【大】">光</lem><rdg resp="Taisho" wit="【甲】">充</rdg></app>發火光三昧。八勝處中
+<lb n="0924a29" ed="T"/>有火勝處。十一切處中有火一切處。皆起慈
+<pb n="0924b" xml:id="T34.1728.0924b" ed="T"/>
+<lb n="0924b01" ed="T"/>悲<note n="0924018" resp="Taisho" place="foot text" type="orig">當＋（知）【甲】</note><app n="0924018"><lem wit="【大】">當</lem><rdg resp="Taisho" wit="【甲】">當知</rdg></app>為眾生滅煩惱火。又觀諸火悉是因緣
+<lb n="0924b02" ed="T"/>所生法。體之即空。又從火空而觀火假分別
+<lb n="0924b03" ed="T"/>因緣。又觀火中<note n="0924019" resp="Taisho" place="foot text" type="orig">〔見火〕－【甲】</note><app n="0924019"><lem wit="【大】">見火</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>實相。如是次第節節皆
+<lb n="0924b04" ed="T"/>有慈悲誓當利物。今住補處力用無盡。以本
+<lb n="0924b05" ed="T"/>誓力熏諸眾生未<note n="0924020" resp="Taisho" place="foot text" type="orig">曾＝魯【甲】</note><app n="0924020"><lem wit="【大】">曾</lem><rdg resp="Taisho" wit="【甲】">魯</rdg></app>捨離。隨有機感即能垂
+<lb n="0924b06" ed="T"/>應。若事火起稱名求救。即對本時果上慈悲
+<lb n="0924b07" ed="T"/>拔苦與樂。惡業火起即用持戒修定中慈悲。
+<lb n="0924b08" ed="T"/>煩惱火起即用無漏入空入假入中等慈悲。
+<lb n="0924b09" ed="T"/>節節相關。若<note n="0924021" resp="Taisho" place="foot text" type="orig">眾＋（生）【甲】</note><app n="0924021"><lem wit="【大】">眾</lem><rdg resp="Taisho" wit="【甲】">眾生</rdg></app>機競起一<note n="0924022" resp="Taisho" place="foot text" type="orig">〔時〕－【甲】</note><app n="0924022"><lem wit="【大】">時</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>牽感。慈悲遍
+<lb n="0924b10" ed="T"/>應皆得解脫。如華嚴第四十云。善財詣進求
+<lb n="0924b11" ed="T"/>國。見方便命<note n="0924023" resp="Taisho" place="foot text" type="orig">婆＝波【甲】</note><app n="0924023"><lem wit="【大】">婆</lem><rdg resp="Taisho" wit="【甲】">波</rdg></app>羅門修苦行求一切智。有
+<lb n="0924b12" ed="T"/><note n="0924024" resp="Taisho" place="foot text" type="orig">大＝火【甲】</note><app n="0924024"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】">火</rdg></app>刀山四面火聚。從刀山上自投於火。語善
+<lb n="0924b13" ed="T"/>財云。能入此者是菩薩行。善財生疑言是邪
+<lb n="0924b14" ed="T"/>法。梵語善財。莫作此念。此是金剛大智人欲
+<lb n="0924b15" ed="T"/>竭愛海。自在天云。此菩薩五熱炙身。令我滅
+<lb n="0924b16" ed="T"/>邪見離我心諸魔。又云。菩薩炙身時。我等宮
+<lb n="0924b17" ed="T"/>殿猶如聚墨。我即發菩提心。乃至<note n="0924025" resp="Taisho" place="foot text" type="orig">他化＝化他【甲】</note><app n="0924025"><lem wit="【大】">他化</lem><rdg resp="Taisho" wit="【甲】">化他</rdg></app>自在
+<lb n="0924b18" ed="T"/><note n="0924026" resp="Taisho" place="foot text" type="orig">〔天〕－【甲】</note><app n="0924026"><lem wit="【大】">天</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>於煩惱中得自在法門。乃至龍鬼阿鼻皆
+<lb n="0924b19" ed="T"/>發菩提心捨本惡念。善財聞<note n="0924027" resp="Taisho" place="foot text" type="orig">空＋（音）＋（機成…實相）二百七十二字【甲】 cf[14]</note><note n="0924027" resp="CBETA" type="mod"><!--CBETA todo type: a-->空＋（音）＋（機成…實相）二百七十二字【甲】 cf[14]</note>空中語已。即時
+<lb n="0924b20" ed="T"/>悔過。登刀山入大火聚。未至得菩薩安住三
+<lb n="0924b21" ed="T"/>昧。入火得菩薩寂靜安樂照明三昧。此火山
+<lb n="0924b22" ed="T"/>者名為無盡法門。若入此門能知諸法。故舉
+<lb n="0924b23" ed="T"/>彼經火法門如此。證成觀音火法門慈悲救
+<lb n="0924b24" ed="T"/>苦十番利益也。次明菩薩本修圓觀所起慈
+<lb n="0924b25" ed="T"/>悲者。但觀一火具十法界。一切諸法入火字
+<lb n="0924b26" ed="T"/>門於一火門雖無分別。明識一切果報火業
+<lb n="0924b27" ed="T"/>火煩惱火等。明了通達。無緣慈悲遍覆一切。
+<lb n="0924b28" ed="T"/>是為火門入王三昧。若法界火起菩薩以本
+<lb n="0924b29" ed="T"/>地誓願。普應眾生如磁石吸鐵。雖無分別而
+<pb n="0924c" xml:id="T34.1728.0924c" ed="T"/>
+<lb n="0924c01" ed="T"/>分別說者。以<note n="0924028" resp="Taisho" place="foot text" type="orig">（二）＋十【甲】</note><app n="0924028"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【甲】">二十</rdg></app>五三昧救果報火。用二十四
+<lb n="0924c02" ed="T"/>三昧救修因火。二十五三昧通救二<note n="0924029" resp="Taisho" place="foot text" type="orig">乘＋（火）【甲】</note><app n="0924029"><lem wit="【大】">乘</lem><rdg resp="Taisho" wit="【甲】">乘火</rdg></app>通教
+<lb n="0924c03" ed="T"/>六度別圓等入空煩惱火。還用二十五三昧
+<lb n="0924c04" ed="T"/>救別教<note n="0924030" resp="Taisho" place="foot text" type="orig">山＝出【甲】</note><app n="0924030"><lem wit="【大】">山</lem><rdg resp="Taisho" wit="【甲】">出</rdg></app>假火。還用二十五三昧圓救圓教
+<lb n="0924c05" ed="T"/>人入中煩惱火。雖應入諸火不為諸火所燒。
+<lb n="0924c06" ed="T"/>大集經云。譬如虛空火災起時所不能燒。菩
+<lb n="0924c07" ed="T"/>薩亦如是。以不思議慈悲。普應一切皆得解
+<lb n="0924c08" ed="T"/>脫也。常途釋七難。止解得救人中苦。失二十
+<lb n="0924c09" ed="T"/>四有及變易中苦。止得如幻三昧少分。全失
+<lb n="0924c10" ed="T"/>二十四三昧廣大之用也。第二水難者。亦為
+<lb n="0924c11" ed="T"/>三意。一<note n="0924031" resp="Taisho" place="foot text" type="orig">貼＝帖【甲】</note><app n="0924031"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文。二引證。三觀釋。<app type="star" corresp="#0922033"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">怗</rdg></app>文為三。
+<lb n="0924c12" ed="T"/>一遭水是有苦。二稱名是善。三得淺處是應
+<lb n="0924c13" ed="T"/>也。</p><p xml:id="pT34p0924c1302" rend="inline">問。何意言為大水所漂。</p><p xml:id="pT34p0924c1311" rend="inline">答。<note n="0924032" resp="Taisho" place="foot text" type="orig">小＝少【甲】＊</note><app n="0924032"><lem wit="【大】">小</lem><rdg resp="Taisho" wit="【甲】">少</rdg></app>水不成難或
+<lb n="0924c14" ed="T"/>戲故入水亦不成難。欲論其難故言大水所
+<lb n="0924c15" ed="T"/>漂。火難所以<note n="0924033" resp="Taisho" place="foot text" type="orig">言入＝必不言大【甲】</note><app n="0924033"><lem wit="【大】">言入</lem><rdg resp="Taisho" wit="【甲】">必不言大</rdg></app>者。<app type="star" corresp="#0924032"><lem wit="【大】">小</lem><rdg resp="Taisho" wit="【甲】">少</rdg></app>火亦能斷命。若故
+<lb n="0924c16" ed="T"/>入若不故入。入則害命。<note n="0924034" resp="Taisho" place="foot text" type="orig">今＝此【甲】</note><app n="0924034"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【甲】">此</rdg></app>舉其重難。重難
+<lb n="0924c17" ed="T"/>既救何況其輕。是故言其入火不言入水。言
+<lb n="0924c18" ed="T"/>其大<note n="0924035" resp="Taisho" place="foot text" type="orig">水亦＝火不【甲】</note><app n="0924035"><lem wit="【大】">水亦</lem><rdg resp="Taisho" wit="【甲】">火不</rdg></app>言<note n="0924036" resp="Taisho" place="foot text" type="orig">大火＝其大【甲】</note><app n="0924036"><lem wit="【大】">大火</lem><rdg resp="Taisho" wit="【甲】">其大</rdg></app>。水論其淺即成應。火猶
+<lb n="0924c19" ed="T"/>少在未成應也。二引證者。應驗傳云。海鹽有
+<lb n="0924c20" ed="T"/>溺水同伴皆沈。此人稱觀音。<note n="0924037" resp="Taisho" place="foot text" type="orig">遇＝偶【甲】</note><app n="0924037"><lem wit="【大】">遇</lem><rdg resp="Taisho" wit="【甲】">偶</rdg></app>得一石困倦
+<lb n="0924c21" ed="T"/>如眠。夢見兩人乘船喚入。開眼果見有船人
+<lb n="0924c22" ed="T"/>送達岸。不復見人船。此人為沙門大精進。又
+<lb n="0924c23" ed="T"/>劉澄隨<note n="0924038" resp="Taisho" place="foot text" type="orig">費＝賣買【甲】</note><app n="0924038"><lem wit="【大】">費</lem><rdg resp="Taisho" wit="【甲】">賣買</rdg></app>淹。為廣州<note n="0924039" resp="Taisho" place="foot text" type="orig">〔牧〕－【甲】</note><app n="0924039"><lem wit="【大】">牧</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。行達宮停遭風。澄
+<lb n="0924c24" ed="T"/>母及<note n="0924040" resp="Taisho" place="foot text" type="orig">兩＋（兒）【甲】</note><app n="0924040"><lem wit="【大】">兩</lem><rdg resp="Taisho" wit="【甲】">兩兒</rdg></app>尼聲聲不絕唱觀世音。忽見兩人
+<lb n="0924c25" ed="T"/><note n="0924041" resp="Taisho" place="foot text" type="orig">挾＝扶【甲】</note><app n="0924041"><lem wit="【大】">挾</lem><rdg resp="Taisho" wit="【甲】">扶</rdg></app>船遂得安隱。澄妻在別船及他船皆不濟。
+<lb n="0924c26" ed="T"/>道<note n="0924042" resp="Taisho" place="foot text" type="orig">冏＝囹【甲】＊</note><app n="0924042"><lem wit="【大】">冏</lem><rdg resp="Taisho" wit="【甲】">囹</rdg></app>三人乘氷度孟津。垂半一人前<note n="0924043" resp="Taisho" place="foot text" type="orig">陷＝滔【甲】</note><app n="0924043"><lem wit="【大】">陷</lem><rdg resp="Taisho" wit="【甲】">滔</rdg></app>一
+<lb n="0924c27" ed="T"/>人次沒。<app type="star" corresp="#0924042"><lem wit="【大】">冏</lem><rdg resp="Taisho" wit="【甲】">囹</rdg></app>進退氷上必死不疑。一心稱觀世
+<lb n="0924c28" ed="T"/>音。脚如<note n="0924044" resp="Taisho" place="foot text" type="orig">蹋＝踰【甲】</note><app n="0924044"><lem wit="【大】">蹋</lem><rdg resp="Taisho" wit="【甲】">踰</rdg></app>板夜遇赤光徑得至岸。此例甚
+<lb n="0924c29" ed="T"/>多。皆蒙聖力也。三約觀解者。果報水至二禪。
+<pb n="0925a" xml:id="T34.1728.0925a" ed="T"/>
+<lb n="0925a01" ed="T"/>惡業水通三界。煩惱水通大小乘。如地獄鑊
+<lb n="0925a02" ed="T"/>湯沸<note n="0925001" resp="Taisho" place="foot text" type="orig">（尿）＋屎【甲】</note><app n="0925001"><lem wit="【大】">屎</lem><rdg resp="Taisho" wit="【甲】">尿屎</rdg></app>鹹海灰河流漂沒溺。餓鬼道中亦有
+<lb n="0925a03" ed="T"/>填河塞海。畜生淹沒衝波致患。阿脩羅亦有
+<lb n="0925a04" ed="T"/>水難。人中可知。水災及二禪汎瀁無岸。是時
+<lb n="0925a05" ed="T"/>若不稱名尚不致淺處。何況永<app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>耶。次惡業
+<lb n="0925a06" ed="T"/>水者。諸惡破壞善業者。悉名惡業波浪愛欲
+<lb n="0925a07" ed="T"/>因緣之所毀壞。澍入三惡道中忘失正念放
+<lb n="0925a08" ed="T"/>捨浮囊。見思羅剎退善入惡者即是水漂。何
+<lb n="0925a09" ed="T"/>必洪濤巨浪耶。若能一心稱名即得淺處也。
+<lb n="0925a10" ed="T"/><note n="0925002" resp="Taisho" place="foot text" type="orig">〔次〕－【甲】</note><app n="0925002"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>次明煩惱水者。經云。煩惱大河能<choice cb:resp="CBETA.maha"><corr>漂<note type="cf1">T12n0374_p0501b21</note><note type="cf2">X13n0287_p0894c08</note></corr><sic>飄</sic></choice>香象。
+<lb n="0925a11" ed="T"/>緣<note n="0925003" resp="Taisho" place="foot text" type="orig">覺觀＝學【甲】</note><app n="0925003"><lem wit="【大】">覺觀</lem><rdg resp="Taisho" wit="【甲】">學</rdg></app>愛欲之水增長二十五有稠林。<note n="0925004" resp="Taisho" place="foot text" type="orig">潦＝老【甲】</note><app n="0925004"><lem wit="【大】">潦</lem><rdg resp="Taisho" wit="【甲】">老</rdg></app>
+<lb n="0925a12" ed="T"/>水波蕩惱亂我心。暴風巨浪有河<note n="0925005" resp="Taisho" place="foot text" type="orig">洄澓＝浀復【甲】</note><app n="0925005"><lem wit="【大】">洄澓</lem><rdg resp="Taisho" wit="【甲】">浀復</rdg></app>沒
+<lb n="0925a13" ed="T"/><note n="0925006" resp="Taisho" place="foot text" type="orig">〔溺〕－【甲】</note><app n="0925006"><lem wit="【大】">溺</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>眾生。無明所盲<note n="0925007" resp="Taisho" place="foot text" type="orig">〔而〕－【甲】</note><app n="0925007"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>不能出。涅槃彼岸何
+<lb n="0925a14" ed="T"/>由可登。二乘人修三十七品之機。運手動足
+<lb n="0925a15" ed="T"/>截有生死險岸。前途遙遠一心稱名。若發見
+<lb n="0925a16" ed="T"/>諦三<note n="0925008" resp="Taisho" place="foot text" type="orig">果＝昧【甲】</note><app n="0925008"><lem wit="【大】">果</lem><rdg resp="Taisho" wit="【甲】">昧</rdg></app>皆名淺處。無學為彼岸。次支佛侵習
+<lb n="0925a17" ed="T"/>為淺處。通教正習盡為彼岸。次別教斷四住
+<lb n="0925a18" ed="T"/>為淺處。斷無明為彼岸。次明圓教六根清淨
+<lb n="0925a19" ed="T"/>為淺處。入銅輪為彼岸。變易中分分是淺處。
+<lb n="0925a20" ed="T"/>究竟無<note n="0925009" resp="Taisho" place="foot text" type="orig">明＋（盡）【甲】</note><app n="0925009"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】">明盡</rdg></app>方稱彼岸。</p><p xml:id="pT34p0925a2009" rend="inline">復次初果<app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>見流。三
+<lb n="0925a21" ed="T"/>果<app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>欲流。四果<app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>有流。乃至圓教方<app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>無
+<lb n="0925a22" ed="T"/>明流。菩薩所以遍應水難者。皆是本修別圓
+<lb n="0925a23" ed="T"/>二觀慈悲。今日成就王三昧力。所以者何。菩
+<lb n="0925a24" ed="T"/>薩修別觀時。見眾生漂果報水。起誓<note n="0925010" resp="Taisho" place="foot text" type="orig">拯＝極【甲】</note><app n="0925010"><lem wit="【大】">拯</lem><rdg resp="Taisho" wit="【甲】">極</rdg></app>濟。
+<lb n="0925a25" ed="T"/>菩薩修戒定時。以善治惡。於諸禪定水光三
+<lb n="0925a26" ed="T"/>昧水勝處水一切<note n="0925011" resp="Taisho" place="foot text" type="orig">處＋（水）【甲】</note><app n="0925011"><lem wit="【大】">處</lem><rdg resp="Taisho" wit="【甲】">處水</rdg></app>。皆起慈悲以善<note n="0925012" resp="Taisho" place="foot text" type="orig">攻＝改【甲】</note><app n="0925012"><lem wit="【大】">攻</lem><rdg resp="Taisho" wit="【甲】">改</rdg></app>惡。
+<lb n="0925a27" ed="T"/>又從水假入空發真無漏。從空出假達水因
+<lb n="0925a28" ed="T"/>緣。入水中道見水實相。節節法門皆起慈悲
+<lb n="0925a29" ed="T"/>熏諸眾生。<app type="star" corresp="#0924011"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【甲】">令</rdg></app>成王三昧。寂而常照眾生報水
+<pb n="0925b" xml:id="T34.1728.0925b" ed="T"/>
+<lb n="0925b01" ed="T"/>所漂。稱名為機對事。慈悲救果報水。戒定慈
+<lb n="0925b02" ed="T"/>悲救惡業水。三觀慈悲救煩惱水。一切一時
+<lb n="0925b03" ed="T"/>皆得解脫。如華嚴三十八明。善財至海門國。
+<lb n="0925b04" ed="T"/>海雲比丘為說普眼經云。十二年來常觀此
+<lb n="0925b05" ed="T"/>海漸漸轉深。大身居止珍寶聚集。如是觀已
+<lb n="0925b06" ed="T"/>則見海底生大蓮華。無量天龍八部莊嚴華
+<lb n="0925b07" ed="T"/>上。有佛相好無邊。即申右手摩於我頂。為說
+<lb n="0925b08" ed="T"/>普眼經千二百歲。一日所受阿僧<note n="0925013" resp="Taisho" place="foot text" type="orig">〔祇〕－【甲】</note><app n="0925013"><lem wit="【大】">祇</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>品無量
+<lb n="0925b09" ed="T"/>無邊。若以海<note n="0925014" resp="Taisho" place="foot text" type="orig">〔水〕－【甲】</note><app n="0925014"><lem wit="【大】">水</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>為墨須彌聚筆。書寫此經不
+<lb n="0925b10" ed="T"/>能得盡。當知水法門攝一切法。亦如大品阿
+<lb n="0925b11" ed="T"/>字門具足一切義。觀音於水法門久已通達。
+<lb n="0925b12" ed="T"/>故能遍應一切水難。</p><p xml:id="pT34p0925b1209" rend="inline">復次本修圓觀法門。無
+<lb n="0925b13" ed="T"/>緣慈悲遍應一切者。觀水字門。十法界趣水
+<lb n="0925b14" ed="T"/>字是趣不過。水尚不可得。云何當有趣不趣。
+<lb n="0925b15" ed="T"/>十法界趣水是俗諦。水尚不可得即真諦。云
+<lb n="0925b16" ed="T"/>何當有趣不趣。即雙非顯中道第一義諦。如
+<lb n="0925b17" ed="T"/>此觀水字十法界三諦之法。即<note n="0925015" resp="Taisho" place="foot text" type="orig">起＝趣【甲】</note><app n="0925015"><lem wit="【大】">起</lem><rdg resp="Taisho" wit="【甲】">趣</rdg></app>無緣慈悲
+<lb n="0925b18" ed="T"/>遍熏三諦十法界眾生。故能圓應<note n="0925016" resp="Taisho" place="foot text" type="orig">〔一切〕－【甲】</note><app n="0925016"><lem wit="【大】">一切</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。若分
+<lb n="0925b19" ed="T"/>別觀者。以十<note n="0925017" resp="Taisho" place="foot text" type="orig">〔六〕－【甲】</note><app n="0925017"><lem wit="【大】">六</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>三昧救果報水。以二十四三
+<lb n="0925b20" ed="T"/>昧救惡業水。以二十五三昧救二乘通別圓
+<lb n="0925b21" ed="T"/>入空有流等水。以二十五三昧救別教出假。
+<lb n="0925b22" ed="T"/>於有流中令無染<note n="0925018" resp="Taisho" place="foot text" type="orig">濕＝溫【甲】</note><app n="0925018"><lem wit="【大】">濕</lem><rdg resp="Taisho" wit="【甲】">溫</rdg></app>。以二十五三昧救圓教
+<lb n="0925b23" ed="T"/>入中無明流水。一切一時俱<note n="0925019" resp="Taisho" place="foot text" type="orig">〔得〕－【甲】</note><app n="0925019"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>解脫<note n="0925020" resp="Taisho" place="foot text" type="orig">〔也〕－【甲】</note><app n="0925020"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。第
+<lb n="0925b24" ed="T"/>三羅剎難者。亦為三。一<note n="0925021" resp="Taisho" place="foot text" type="orig">貼＝怗【甲】</note><app n="0925021"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">怗</rdg></app>文。二<note n="0925022" resp="Taisho" place="foot text" type="orig">約＝引【甲】＊</note><app n="0925022"><lem wit="【大】">約</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app>事。三
+<lb n="0925b25" ed="T"/>觀釋。<note n="0925023" resp="Taisho" place="foot text" type="orig">貼＝帖【甲】</note><app n="0925023"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文又為二。一明難。二結名。難中為
+<lb n="0925b26" ed="T"/>五。一舉數。二明遇難之由。三遭苦。四明機。
+<lb n="0925b27" ed="T"/>五明應。人數者但舉百千總數不定判多少。
+<lb n="0925b28" ed="T"/>明入海求珍結伴無定。<note n="0925024" resp="Taisho" place="foot text" type="orig">難＝散雖【甲】</note><app n="0925024"><lem wit="【大】">難</lem><rdg resp="Taisho" wit="【甲】">散雖</rdg></app>無定數終不可獨
+<lb n="0925b29" ed="T"/>往。故舉百千也。賢愚云。田殖百倍商估千倍
+<pb n="0925c" xml:id="T34.1728.0925c" ed="T"/>
+<lb n="0925c01" ed="T"/>仕<note n="0925025" resp="Taisho" place="foot text" type="orig">宦＝官【甲】</note><app n="0925025"><lem wit="【大】">宦</lem><rdg resp="Taisho" wit="【甲】">官</rdg></app>萬倍。入海吉還得無量倍。故入海也。
+<lb n="0925c02" ed="T"/>次遭風是難由<app type="star" corresp="#0925022"><lem wit="【大】">約</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app>下文證。今若開風為正難。
+<lb n="0925c03" ed="T"/>下文云。皆得解脫<note n="0925026" resp="Taisho" place="foot text" type="orig">〔罪剎之難〕－【甲】</note><note n="0925026" resp="CBETA" type="mod">〔<choice cb:resp="CBETA.maha"><corr>羅</corr><sic>罪</sic></choice>剎之難〕－【甲】</note><app n="0925026"><lem wit="【大】">羅剎之難</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。此<note n="0925027" resp="Taisho" place="foot text" type="orig">〔豈〕－【甲】</note><app n="0925027"><lem wit="【大】">豈</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>不獨是
+<lb n="0925c04" ed="T"/>羅剎難也。難由正<note n="0925028" resp="Taisho" place="foot text" type="orig">〔應〕－【甲】</note><app n="0925028"><lem wit="【大】">應</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>無在由者。何但由風。
+<lb n="0925c05" ed="T"/>由風墮難由入海遭風。求寶入海由貪求珍
+<lb n="0925c06" ed="T"/><note n="0925029" resp="Taisho" place="foot text" type="orig">寶展轉＝展𠚤【甲】</note><app n="0925029"><lem wit="【大】">寶。展轉</lem><rdg resp="Taisho" wit="【甲】">展𠚤</rdg></app>相由風<note n="0925030" resp="Taisho" place="foot text" type="orig">災＝來【甲】</note><app n="0925030"><lem wit="【大】">災</lem><rdg resp="Taisho" wit="【甲】">來</rdg></app>難切。故風是墮難之由
+<lb n="0925c07" ed="T"/>也。七寶是正寶珠是<note n="0925031" resp="Taisho" place="foot text" type="orig">偽＝傍【甲】</note><app n="0925031"><lem wit="【大】">偽</lem><rdg resp="Taisho" wit="【甲】">傍</rdg></app>寶。又如意珠寶最
+<lb n="0925c08" ed="T"/>上。今言等者<note n="0925032" resp="Taisho" place="foot text" type="orig">等＋（者）【甲】</note><app n="0925032"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【甲】">等者</rdg></app>上等下諸寶也。樓炭云。巨
+<lb n="0925c09" ed="T"/>海有七<note n="0925033" resp="Taisho" place="foot text" type="orig">種＝寶【甲】</note><app n="0925033"><lem wit="【大】">種</lem><rdg resp="Taisho" wit="【甲】">寶</rdg></app>似寶一百二十種真珠寶。黑風者。
+<lb n="0925c10" ed="T"/>舊云風無色吹黑沙故<note n="0925034" resp="Taisho" place="foot text" type="orig">爾＝耳【甲】＊</note><app n="0925034"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。有人<note n="0925035" resp="Taisho" place="foot text" type="orig">彈＋（此）【甲】</note><app n="0925035"><lem wit="【大】">彈</lem><rdg resp="Taisho" wit="【甲】">彈此</rdg></app>云。沙中
+<lb n="0925c11" ed="T"/>無船水中無沙。非是吹黑沙乃是吹黑雲<app type="star" corresp="#0925034"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。
+<lb n="0925c12" ed="T"/>今還例此難。水中無雲雲中無船。何得彈沙
+<lb n="0925c13" ed="T"/>而取雲。<note n="0925036" resp="Taisho" place="foot text" type="orig">風＝雲【甲】</note><app n="0925036"><lem wit="【大】">風</lem><rdg resp="Taisho" wit="【甲】">雲</rdg></app>能吹黑雲何意不能吹黑沙。請
+<lb n="0925c14" ed="T"/>觀音云。黑風<note n="0925037" resp="Taisho" place="foot text" type="orig">洄＝洞【甲】</note><app n="0925037"><lem wit="【大】">洄</lem><rdg resp="Taisho" wit="【甲】">洞</rdg></app>波。仁王般若有六色風黑赤
+<lb n="0925c15" ed="T"/>青天地火也。受陰經明五風。阿含亦云。有黑
+<lb n="0925c16" ed="T"/>風風加以黑怖之甚也。羅剎是食人鬼人屍
+<lb n="0925c17" ed="T"/>若臭能呪養之令鮮。復有噉精氣<note n="0925038" resp="Taisho" place="foot text" type="orig">鬼＋（又）【甲】</note><app n="0925038"><lem wit="【大】">鬼</lem><rdg resp="Taisho" wit="【甲】">鬼又</rdg></app>。人心中
+<lb n="0925c18" ed="T"/>有七渧甜水和<note n="0925039" resp="Taisho" place="foot text" type="orig">氣＝養【甲】</note><app n="0925039"><lem wit="【大】">氣</lem><rdg resp="Taisho" wit="【甲】">養</rdg></app>精神。鬼噉一渧<note n="0925040" resp="Taisho" place="foot text" type="orig">令＋（人）【甲】</note><app n="0925040"><lem wit="【大】">令</lem><rdg resp="Taisho" wit="【甲】">令人</rdg></app>頭痛。
+<lb n="0925c19" ed="T"/>三渧悶絕。七渧盡即死。一人稱名餘者悉脫
+<lb n="0925c20" ed="T"/>者。<note n="0925041" resp="Taisho" place="foot text" type="orig">同＋（舟）【甲】</note><app n="0925041"><lem wit="【大】">同</lem><rdg resp="Taisho" wit="【甲】">同舟</rdg></app>憂<note n="0925042" resp="Taisho" place="foot text" type="orig">慼＝感【甲】</note><app n="0925042"><lem wit="【大】">慼</lem><rdg resp="Taisho" wit="【甲】">感</rdg></app>休否。是<note n="0925043" resp="Taisho" place="foot text" type="orig">共＋（散）【甲】</note><app n="0925043"><lem wit="【大】">共</lem><rdg resp="Taisho" wit="【甲】">共散</rdg></app>雖口不同唱。心<note n="0925044" resp="Taisho" place="foot text" type="orig">助＋（一）【甲】</note><app n="0925044"><lem wit="【大】">助</lem><rdg resp="Taisho" wit="【甲】">助一</rdg></app>
+<lb n="0925c21" ed="T"/>覓福故俱獲濟是均。若後值賊則同聲者。陸
+<lb n="0925c22" ed="T"/><note n="0925045" resp="Taisho" place="foot text" type="orig">地＝隨【甲】</note><app n="0925045"><lem wit="【大】">地</lem><rdg resp="Taisho" wit="【甲】">隨</rdg></app>心多不<note n="0925046" resp="Taisho" place="foot text" type="orig">并＝並【甲】</note><app n="0925046"><lem wit="【大】">并</lem><rdg resp="Taisho" wit="【甲】">並</rdg></app>決。須稱號令。使齊與水難為
+<lb n="0925c23" ed="T"/>異。何意就此結觀音之名。此正就一人稱名
+<lb n="0925c24" ed="T"/>而賴兼群黨。明慈力廣被救護平等。顯觀音
+<lb n="0925c25" ed="T"/>之名也。二<app type="star" corresp="#0925022"><lem wit="【大】">約</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app>事<note n="0925047" resp="Taisho" place="foot text" type="orig">證＋（者）【甲】</note><note n="0925047" resp="CBETA" type="mod">證＋（者）【甲】<choice cb:resp="CBETA.march"><corr>＊</corr><sic></sic></choice></note><app n="0925047"><lem wit="【大】">證</lem><rdg resp="Taisho" wit="【甲】">證者</rdg></app>。應驗傳云。外國百餘人
+<lb n="0925c26" ed="T"/>從師子國<note n="0925048" resp="Taisho" place="foot text" type="orig">汎＝浮【甲】</note><app n="0925048"><lem wit="【大】">汎</lem><rdg resp="Taisho" wit="【甲】">浮</rdg></app>海向扶南。忽遇惡風<note n="0925049" resp="Taisho" place="foot text" type="orig">墮＝隨【甲】</note><app n="0925049"><lem wit="【大】">墮</lem><rdg resp="Taisho" wit="【甲】">隨</rdg></app>鬼國。
+<lb n="0925c27" ed="T"/>便欲盡食。一舶眾人怖稱觀音。中有一小乘
+<lb n="0925c28" ed="T"/>沙門不信觀音。不肯稱名。鬼索此沙門。沙門
+<lb n="0925c29" ed="T"/>狼狽學稱亦得<app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>脫。次觀釋者不但明世界
+<pb n="0926a" xml:id="T34.1728.0926a" ed="T"/>
+<lb n="0926a01" ed="T"/>中風。黑業名風。華嚴云。嫌恨猛風吹罪心火
+<lb n="0926a02" ed="T"/>常令熾然。吹諸行商人墮落惡道。失人道善
+<lb n="0926a03" ed="T"/><note n="0926001" resp="Taisho" place="foot text" type="orig">寶＝宅【甲】</note><app n="0926001"><lem wit="【大】">寶</lem><rdg resp="Taisho" wit="【甲】">宅</rdg></app>及無漏聖財。從地獄上至三禪。皆有果報
+<lb n="0926a04" ed="T"/>風難。如僧護經明地獄種種形相。疾風猛浪
+<lb n="0926a05" ed="T"/>沒溺<note n="0926002" resp="Taisho" place="foot text" type="orig">破＝致【甲】</note><app n="0926002"><lem wit="【大】">破</lem><rdg resp="Taisho" wit="【甲】">致</rdg></app>壞。餓鬼所噉若鬼道中寒風裂骨<note n="0926003" resp="Taisho" place="foot text" type="orig">身碎＝碎身【甲】</note><app n="0926003"><lem wit="【大】">身
+<lb n="0926a06" ed="T"/>碎</lem><rdg resp="Taisho" wit="【甲】">碎身</rdg></app>碑。<note n="0926004" resp="Taisho" place="foot text" type="orig">䃀＝<g ref="#CB13618"/>【甲】</note><app n="0926004"><lem wit="【大】">䃀</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB13618"/></rdg></app>畜生飛走之類傾巢覆卵何可勝
+<lb n="0926a07" ed="T"/>言。脩羅亦有風<note n="0926005" resp="Taisho" place="foot text" type="orig">災＝難【甲】</note><app n="0926005"><lem wit="【大】">災</lem><rdg resp="Taisho" wit="【甲】">難</rdg></app>。若風災起時諸山擊搏。
+<lb n="0926a08" ed="T"/>上<note n="0926006" resp="Taisho" place="foot text" type="orig">至＝王【甲】</note><app n="0926006"><lem wit="【大】">至</lem><rdg resp="Taisho" wit="【甲】">王</rdg></app>三禪宮殿碎為微塵。當<note n="0926007" resp="Taisho" place="foot text" type="orig">此之＝知此【甲】</note><app n="0926007"><lem wit="【大】">此之</lem><rdg resp="Taisho" wit="【甲】">知此</rdg></app>時誰能
+<lb n="0926a09" ed="T"/>救濟。唯當一心稱觀世音菩薩。以王三昧力。
+<lb n="0926a10" ed="T"/>或以手<note n="0926008" resp="Taisho" place="foot text" type="orig">障＝漳【甲】</note><app n="0926008"><lem wit="【大】">障</lem><rdg resp="Taisho" wit="【甲】">漳</rdg></app>或以口吸。無量方便令得解脫也。
+<lb n="0926a11" ed="T"/>次明若修諸善惡。業風吹壞五戒十善船舫。
+<lb n="0926a12" ed="T"/>墮三途鬼國及愛見境中。大經云。羅剎<note n="0926009" resp="Taisho" place="foot text" type="orig">婦女＝女婦【甲】</note><app n="0926009"><lem wit="【大】">婦女</lem><rdg resp="Taisho" wit="【甲】">女婦</rdg></app>
+<lb n="0926a13" ed="T"/>隨所生子而悉食之。食子既盡復食其夫。急
+<lb n="0926a14" ed="T"/>須稱觀世音菩薩。以慈悲力能令解脫。次明
+<lb n="0926a15" ed="T"/>二乘人採聖財寶。為煩惱風吹慧行船。<note n="0926010" resp="Taisho" place="foot text" type="orig">行＝修【甲】</note><app n="0926010"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【甲】">修</rdg></app>
+<lb n="0926a16" ed="T"/>行舫墮見愛境。為<note n="0926011" resp="Taisho" place="foot text" type="orig">見爰＝愛見【甲】</note><note n="0926011" resp="CBETA" type="mod">見<choice cb:resp="CBETA.maha"><corr>愛</corr><sic>爰</sic></choice>＝愛見【甲】</note><app n="0926011"><lem wit="【大】">見愛</lem><rdg resp="Taisho" wit="【甲】">愛見</rdg></app>羅剎所害。若能稱觀
+<lb n="0926a17" ed="T"/>世音得脫見愛二輪。<note n="0926012" resp="Taisho" place="foot text" type="orig">永得＝求【甲】</note><app n="0926012"><lem wit="【大】">永得</lem><rdg resp="Taisho" wit="【甲】">求</rdg></app><app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>二十五有黑
+<lb n="0926a18" ed="T"/>業也。<note n="0926013" resp="Taisho" place="foot text" type="orig">〔次〕－【甲】</note><app n="0926013"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>明支佛六度行通別圓變易等。入
+<lb n="0926a19" ed="T"/>煩惱海採一切智寶。八倒暴風所吹飄。諸行
+<lb n="0926a20" ed="T"/>船墮二邊鬼國。用正觀心。體達諸法不生不
+<lb n="0926a21" ed="T"/>滅。入<note n="0926014" resp="Taisho" place="foot text" type="orig">實際＝寶澄【甲】</note><app n="0926014"><lem wit="【大】">實際</lem><rdg resp="Taisho" wit="【甲】">寶澄</rdg></app>中。即得解脫。鬼義合前後章故
+<lb n="0926a22" ed="T"/>不重說也。法界風難無量一時圓應者。<note n="0926015" resp="Taisho" place="foot text" type="orig">〔皆〕－【甲】</note><app n="0926015"><lem wit="【大】">皆</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0926a23" ed="T"/>由別圓慈悲所熏。菩薩本修別觀。見事中風
+<lb n="0926a24" ed="T"/>即起慈悲修戒<note n="0926016" resp="Taisho" place="foot text" type="orig">定＋（慧）【甲】</note><app n="0926016"><lem wit="【大】">定</lem><rdg resp="Taisho" wit="【甲】">定慧</rdg></app>。見惡業風即起慈悲修三
+<lb n="0926a25" ed="T"/>觀時。節節慈悲令入風實相王三昧中。以事
+<lb n="0926a26" ed="T"/>慈悲救果報風。以戒定慈悲救惡業風。三觀
+<lb n="0926a27" ed="T"/>慈悲救煩惱風。故能十番拔難。若作圓觀論
+<lb n="0926a28" ed="T"/>機應者。但觀風字門具照十法界。三諦宛然
+<lb n="0926a29" ed="T"/>通達無礙慈悲遍覆。若分別說王三昧者。以
+<pb n="0926b" xml:id="T34.1728.0926b" ed="T"/>
+<lb n="0926b01" ed="T"/>十七三昧救果報風。以二十四三昧救修因
+<lb n="0926b02" ed="T"/>風。以二十五三昧救二乘通別圓從假入空
+<lb n="0926b03" ed="T"/>煩惱風。以二十五三昧救別教出假無知風。
+<lb n="0926b04" ed="T"/>以二十五三昧救圓教入中無明風。變易可
+<lb n="0926b05" ed="T"/>解。如是遍救法界。一切一時皆得解脫也。第
+<lb n="0926b06" ed="T"/>四明刀杖難者。亦為三。一<note n="0926017" resp="Taisho" place="foot text" type="orig">貼＝帖【甲】＊</note><app n="0926017"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文二<app type="star" corresp="#0925022"><lem wit="【大】">約</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app>證。三
+<lb n="0926b07" ed="T"/>觀釋。<app type="star" corresp="#0926017"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文為三。一遭難即是苦。二稱名即
+<lb n="0926b08" ed="T"/>是善。三<note n="0926018" resp="Taisho" place="foot text" type="orig">應＋（也）【甲】</note><app n="0926018"><lem wit="【大】">應</lem><rdg resp="Taisho" wit="【甲】">應也</rdg></app>。今言刀杖段段壞者。明人執殺
+<lb n="0926b09" ed="T"/>具。一折一來隨來隨斷。彌顯<note n="0926019" resp="Taisho" place="foot text" type="orig">力＝刀【甲】＊</note><app n="0926019"><lem wit="【大】">力</lem><rdg resp="Taisho" wit="【甲】">刀</rdg></app>大。</p><p xml:id="pT34p0926b0914" rend="inline">問。水火何
+<lb n="0926b10" ed="T"/>不令<note n="0926020" resp="Taisho" place="foot text" type="orig">再滅＝滅減【甲】</note><app n="0926020"><lem wit="【大】">再滅</lem><rdg resp="Taisho" wit="【甲】">滅減</rdg></app>耶。</p><p xml:id="pT34p0926b1006" rend="inline">答。刀杖折再來重明聖<app type="star" corresp="#0926019"><lem wit="【大】">力</lem><rdg resp="Taisho" wit="【甲】">刀</rdg></app>。水
+<lb n="0926b11" ed="T"/>火滅後誰復持來。既無持來滅何所顯。今只
+<lb n="0926b12" ed="T"/>令絕炎不燒洪流更淺。存顯<app type="star" corresp="#0926019"><lem wit="【大】">力</lem><rdg resp="Taisho" wit="【甲】">刀</rdg></app>大各有其意。
+<lb n="0926b13" ed="T"/>不得一例作難也。二<app type="star" corresp="#0925022"><lem wit="【大】">約</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app>事證者。應驗傳云。
+<lb n="0926b14" ed="T"/>晉太元中彭城有一人被枉為賊。本供養金像
+<lb n="0926b15" ed="T"/>帶在髻中。後伏法刀下但聞金聲。刀三<note n="0926021" resp="Taisho" place="foot text" type="orig">斫頸＝折頭【甲】</note><app n="0926021"><lem wit="【大】">斫
+<lb n="0926b16" ed="T"/>頸</lem><rdg resp="Taisho" wit="【甲】">折頭</rdg></app>終無異。解看像有三痕。由是得放。又蜀
+<lb n="0926b17" ed="T"/>有一人檀函盛像安髻中。值姚萇寇蜀。此人
+<lb n="0926b18" ed="T"/>與萇相遇。萇以手斫之聞<note n="0926022" resp="Taisho" place="foot text" type="orig">頂＝項【甲】</note><app n="0926022"><lem wit="【大】">頂</lem><rdg resp="Taisho" wit="【甲】">項</rdg></app>有聲。退後看像
+<lb n="0926b19" ed="T"/>果見有痕。其人悲感。寧傷我身<note n="0926023" resp="Taisho" place="foot text" type="orig">反＝變【甲】</note><app n="0926023"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【甲】">變</rdg></app>損聖容。
+<lb n="0926b20" ed="T"/>益加精進。晉太元高<note n="0926024" resp="Taisho" place="foot text" type="orig">簡榮＝句策【甲】</note><app n="0926024"><lem wit="【大】">簡榮</lem><rdg resp="Taisho" wit="【甲】">句策</rdg></app>陽京人。犯法臨刑
+<lb n="0926b21" ed="T"/>一心歸命。<note n="0926025" resp="Taisho" place="foot text" type="orig">鉗＝鉺【甲】</note><app n="0926025"><lem wit="【大】">鉗</lem><rdg resp="Taisho" wit="【甲】">鉺</rdg></app>鎖不復見處。下刀刀折。絞之
+<lb n="0926b22" ed="T"/>寸斷。遂賣妻子及自身起五層塔在京縣。宋
+<lb n="0926b23" ed="T"/>太始初四方兵亂。<note n="0926026" resp="Taisho" place="foot text" type="orig">沈文＝沋文【甲】</note><app n="0926026"><lem wit="【大】">沈文</lem><rdg resp="Taisho" wit="【甲】">沋文</rdg></app>秀牧青州。為土人明
+<lb n="0926b24" ed="T"/>僧駿所攻。秀將<note n="0926027" resp="Taisho" place="foot text" type="orig">〔杜〕－【甲】</note><app n="0926027"><lem wit="【大】">杜</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>賀<note n="0926028" resp="Taisho" place="foot text" type="orig">刑＝剌【甲】</note><app n="0926028"><lem wit="【大】">刑</lem><rdg resp="Taisho" wit="【甲】">剌</rdg></app>妻司馬氏云云。三
+<lb n="0926b25" ed="T"/>明觀釋者。非但世間殺具名為刀杖。惡業亦
+<lb n="0926b26" ed="T"/>能傷善業身命。煩惱六塵三毒等皆名刀箭。
+<lb n="0926b27" ed="T"/>從地獄去即有刀山<note n="0926029" resp="Taisho" place="foot text" type="orig">挂＝桂【甲】</note><app n="0926029"><lem wit="【大】">挂</lem><rdg resp="Taisho" wit="【甲】">桂</rdg></app>骨劍樹傷身。鋸解屠
+<lb n="0926b28" ed="T"/><note n="0926030" resp="Taisho" place="foot text" type="orig">膾＝鯰【甲】</note><app n="0926030"><lem wit="【大】">膾</lem><rdg resp="Taisho" wit="【甲】">鯰</rdg></app>狼籍痛楚。餓鬼更相斬刺互相殘害。畜生
+<lb n="0926b29" ed="T"/>自有雌雄牙角自相觸突。又被剉切㓟剝。脩
+<pb n="0926c" xml:id="T34.1728.0926c" ed="T"/>
+<lb n="0926c01" ed="T"/>羅晝夜征戰。龍王降雨變成刀刃。人中前履
+<lb n="0926c02" ed="T"/>白刃却怖難誅。復有橫屍塞<note n="0926031" resp="Taisho" place="foot text" type="orig">外＝水【甲】</note><app n="0926031"><lem wit="【大】">外</lem><rdg resp="Taisho" wit="【甲】">水</rdg></app>。復有銜刀東
+<lb n="0926c03" ed="T"/><note n="0926032" resp="Taisho" place="foot text" type="orig">市＋（地）【甲】</note><app n="0926032"><lem wit="【大】">市</lem><rdg resp="Taisho" wit="【甲】">市地</rdg></app>。天共脩羅鬪時五情失守。皆有刀杖怖畏
+<lb n="0926c04" ed="T"/>失命之苦。若能稱觀世音。若應刑所<note n="0926033" resp="Taisho" place="foot text" type="orig">〔刀〕－【甲】</note><app n="0926033"><lem wit="【大】">刀</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>尋
+<lb n="0926c05" ed="T"/><note n="0926034" resp="Taisho" place="foot text" type="orig">斷＋（斷）【甲】</note><app n="0926034"><lem wit="【大】">斷</lem><rdg resp="Taisho" wit="【甲】">斷斷</rdg></app>壞。若應戰陣立之等力令得<note n="0926035" resp="Taisho" place="foot text" type="orig">安和＝知安【甲】</note><app n="0926035"><lem wit="【大】">安和</lem><rdg resp="Taisho" wit="【甲】">知安</rdg></app>。次明
+<lb n="0926c06" ed="T"/>修諸善因。為三毒刀箭惡業破壞善心。割斷
+<lb n="0926c07" ed="T"/>戒皮定肉慧骨。微妙心髓法身慧命。退失墮
+<lb n="0926c08" ed="T"/>落失人天道。乃至正命登難崩易。萬劫不復
+<lb n="0926c09" ed="T"/>起怖畏心。稱觀<note n="0926036" resp="Taisho" place="foot text" type="orig">〔世〕－【甲】</note><app n="0926036"><lem wit="【大】">世</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>音即蒙救護。三毒不傷清
+<lb n="0926c10" ed="T"/>昇受樂。即菩薩力也。次明聲聞人厭患生死。
+<lb n="0926c11" ed="T"/>即時觀三界見思劇於刀箭。故大經云。寧以
+<lb n="0926c12" ed="T"/>終身近旃陀羅。不能暫時親近五陰愛詐親善
+<lb n="0926c13" ed="T"/>六拔刀賊。趣向正路如為怨逐。大論云。譬如
+<lb n="0926c14" ed="T"/>臨陣白刃間。結賊未<note n="0926037" resp="Taisho" place="foot text" type="orig">滅＋（惱）【甲】</note><app n="0926037"><lem wit="【大】">滅</lem><rdg resp="Taisho" wit="【甲】">滅惱</rdg></app>害未除。如共毒蛇同
+<lb n="0926c15" ed="T"/>室居。如人被縛將去殺。爾時云何安可眠。五
+<lb n="0926c16" ed="T"/>苦章句云。十二<note n="0926038" resp="Taisho" place="foot text" type="orig">重＋（如）【甲】</note><app n="0926038"><lem wit="【大】">重</lem><rdg resp="Taisho" wit="【甲】">重如</rdg></app>城三重棘<note n="0926039" resp="Taisho" place="foot text" type="orig">舘＝籬【甲】</note><app n="0926039"><lem wit="【大】">舘</lem><rdg resp="Taisho" wit="【甲】">籬</rdg></app>五拔刀人
+<lb n="0926c17" ed="T"/>守門。爾時思惟如此怖畏何由得脫。著於正
+<lb n="0926c18" ed="T"/>路。須一心稱觀世音。三業至到機成感徹。則
+<lb n="0926c19" ed="T"/>能裂生死券度恩愛河。不為煩惱刀杖所害。
+<lb n="0926c20" ed="T"/>欲主魔<note n="0926040" resp="Taisho" place="foot text" type="orig">〔王〕－【甲】</note><app n="0926040"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>無如之何。次明支佛。次明六度
+<lb n="0926c21" ed="T"/>行。次明通別圓變易等。五住刀箭傷法身損
+<lb n="0926c22" ed="T"/>慧命者。若能稱名即蒙聖應。<app type="star" corresp="#0923019"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>離通別刀杖
+<lb n="0926c23" ed="T"/>脫二死地。豈非法身慈力耶。<note n="0926041" resp="Taisho" place="foot text" type="orig">復次＝次復【甲】</note><app n="0926041"><lem wit="【大】">復次</lem><rdg resp="Taisho" wit="【甲】">次復</rdg></app>明刀杖機
+<lb n="0926c24" ed="T"/>應遍法界者。良由本修別圓觀時。見諸鋒刃
+<lb n="0926c25" ed="T"/>傷毀。即起慈悲我當救護。修善遮惡<note n="0926042" resp="Taisho" place="foot text" type="orig">時＝復【甲】</note><app n="0926042"><lem wit="【大】">時</lem><rdg resp="Taisho" wit="【甲】">復</rdg></app>。於
+<lb n="0926c26" ed="T"/>善惡業復起慈悲。若觀刀杖是因緣生法修
+<lb n="0926c27" ed="T"/>三觀時。復起慈悲<note n="0926043" resp="Taisho" place="foot text" type="orig">願行填＝行願慎【甲】</note><app n="0926043"><lem wit="【大】">願行填</lem><rdg resp="Taisho" wit="【甲】">行願慎</rdg></app>滿。今住王三昧
+<lb n="0926c28" ed="T"/>中。無量神力以本事慈悲對果報刀箭。修善
+<lb n="0926c29" ed="T"/>慈悲救惡業刀箭。三觀慈悲救煩惱刀箭。刀
+<pb n="0927a" xml:id="T34.1728.0927a" ed="T"/>
+<lb n="0927a01" ed="T"/>杖是質礙屬地字門攝。菩薩於質礙<note n="0927001" resp="Taisho" place="foot text" type="orig">〔地〕－【甲】</note><app n="0927001"><lem wit="【大】">地</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>門通
+<lb n="0927a02" ed="T"/>達明了。如華嚴四十明。彌多羅童女於師子
+<lb n="0927a03" ed="T"/>奮迅城師子幢王宮中。處明淨寶藏法堂。不
+<lb n="0927a04" ed="T"/>可思議莊校此堂。<note n="0927002" resp="Taisho" place="foot text" type="orig">（一）＋一【甲】＊</note><app n="0927002"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">一一</rdg></app>瑠璃柱一<anchor xml:id="fxT34p0927a01"/>金剛壁<app type="star" corresp="#0927002"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">一一</rdg></app>
+<lb n="0927a05" ed="T"/>摩尼鏡。諸寶諸鈴諸樹諸形像諸瓔珞中。住
+<lb n="0927a06" ed="T"/>是一切質礙具內。悉見一切如來從初發心
+<lb n="0927a07" ed="T"/>行菩薩道。乃至成等正覺入<note n="0927003" resp="Taisho" place="foot text" type="orig">滅＝成【甲】</note><app n="0927003"><lem wit="【大】">滅</lem><rdg resp="Taisho" wit="【甲】">成</rdg></app>。皆於中現無
+<lb n="0927a08" ed="T"/>不<note n="0927004" resp="Taisho" place="foot text" type="orig">明了＝了明【甲】</note><app n="0927004"><lem wit="【大】">明了</lem><rdg resp="Taisho" wit="【甲】">了明</rdg></app>。如於淨水見月影像。此法門名般若
+<lb n="0927a09" ed="T"/>普莊嚴法門。善財入此地法門時。能得不可
+<lb n="0927a10" ed="T"/>說陀羅尼大慈大悲陀羅<note n="0927005" resp="Taisho" place="foot text" type="orig">尼＋（門）【甲】</note><app n="0927005"><lem wit="【大】">尼</lem><rdg resp="Taisho" wit="【甲】">尼門</rdg></app>。能作佛事陀羅
+<lb n="0927a11" ed="T"/>尼。一切法無不具足。當知地字門普應一切
+<lb n="0927a12" ed="T"/>令得解脫也。</p><p xml:id="pT34p0927a1206" rend="inline">復次圓觀觀地大質礙之法。攝
+<lb n="0927a13" ed="T"/>一切十法界三諦宛然。明了在地門中。圓起
+<lb n="0927a14" ed="T"/>慈悲遍於法界。寂而常照無機不應。若欲分
+<lb n="0927a15" ed="T"/>別說之令易解者。以十三昧救果報刀杖。以
+<lb n="0927a16" ed="T"/>二十四三昧救三毒刀杖。以二十五三昧救
+<lb n="0927a17" ed="T"/>入空煩惱刀杖。以二十五三昧救出假無知
+<lb n="0927a18" ed="T"/>刀杖。以二十五三昧救入中無明刀杖。一切
+<lb n="0927a19" ed="T"/>一時皆得解脫。第五鬼難亦為三。一<app type="star" corresp="#0926017"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文。
+<lb n="0927a20" ed="T"/>二<app type="star" corresp="#0925022"><lem wit="【大】">約</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app>證。三觀解。<app type="star" corresp="#0926017"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文為四。一標處所。二明
+<lb n="0927a21" ed="T"/>遭難即是苦。三稱名即是善。四應。三千大千
+<lb n="0927a22" ed="T"/>滿中者。此假設之辭也。若言滿中復。更從何
+<lb n="0927a23" ed="T"/>處來。知是假言<app type="star" corresp="#0925034"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。<note n="0927006" resp="Taisho" place="foot text" type="orig">上＋（來）【甲】</note><app n="0927006"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【甲】">上來</rdg></app>水火何不假設滿大
+<lb n="0927a24" ed="T"/>千耶。鬼有心識相<note n="0927007" resp="Taisho" place="foot text" type="orig">延＝近【甲】</note><app n="0927007"><lem wit="【大】">延</lem><rdg resp="Taisho" wit="【甲】">近</rdg></app>故滿假設為便。水火無
+<lb n="0927a25" ed="T"/>心假設為難。鬼所以畏者觀音有威有恩。若
+<lb n="0927a26" ed="T"/>非懷恩則是畏威。所以聞名尚不能加<note n="0927008" resp="Taisho" place="foot text" type="orig">〔於〕－【甲】＊</note><app n="0927008"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>惡
+<lb n="0927a27" ed="T"/>眼。豈容興害心。害心惡眼二俱歇也。<note n="0927009" resp="Taisho" place="foot text" type="orig">〔次約…證者〕五字－【甲】</note><app cb:word-count="5" n="0927009"><lem wit="【大】">次約事
+<lb n="0927a28" ed="T"/>證者</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。次觀解者。若果報論鬼難者。地獄道亦
+<lb n="0927a29" ed="T"/>應有弊惡大力鬼惱諸罪人。鬼道中力大者惱
+<pb n="0927b" xml:id="T34.1728.0927b" ed="T"/>
+<lb n="0927b01" ed="T"/><app type="star" corresp="#0927008"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>小鬼。畜生道鬼亦噉畜生。人中可知諸天
+<lb n="0927b02" ed="T"/>既領鬼何容為鬼所惱。如阿含中云。有大力
+<lb n="0927b03" ed="T"/>鬼忽坐帝釋床。帝釋大瞋鬼光明轉盛。釋<note n="0927010" resp="Taisho" place="foot text" type="orig">還＝<g ref="#CB13632"/>【甲】</note><app n="0927010"><lem wit="【大】">還</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB13632"/></rdg></app>
+<lb n="0927b04" ed="T"/>發慈心鬼光<note n="0927011" resp="Taisho" place="foot text" type="orig">〔明〕－【甲】</note><app n="0927011"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>滅即去。天主既為鬼所惱。
+<lb n="0927b05" ed="T"/>何況四王脩羅道耶。如是等處鬼難怖畏稱
+<lb n="0927b06" ed="T"/>觀世音。即不能加害也。次明修因者。自有惡
+<lb n="0927b07" ed="T"/>業名為鬼。自有鬼動三毒。如阿含云。婬亦有
+<lb n="0927b08" ed="T"/>鬼鬼入人心則使人婬<note n="0927012" resp="Taisho" place="foot text" type="orig">佚＝逸【甲】</note><app n="0927012"><lem wit="【大】">佚</lem><rdg resp="Taisho" wit="【甲】">逸</rdg></app>無度。或鬼使瞋使
+<lb n="0927b09" ed="T"/><note n="0927013" resp="Taisho" place="foot text" type="orig">邪＝前【甲】</note><app n="0927013"><lem wit="【大】">邪</lem><rdg resp="Taisho" wit="【甲】">前</rdg></app>。當知鬼亦破善。三毒當體是鬼者。婬破梵
+<lb n="0927b10" ed="T"/>行。瞋破慈悲。貪鬼惱不盜戒。嗜<note n="0927014" resp="Taisho" place="foot text" type="orig">鬼＝酒鬼來【甲】</note><app n="0927014"><lem wit="【大】">鬼</lem><rdg resp="Taisho" wit="【甲】">酒鬼來</rdg></app>惱不<note n="0927015" resp="Taisho" place="foot text" type="orig">飲＋（酒）【甲】</note><app n="0927015"><lem wit="【大】">飲</lem><rdg resp="Taisho" wit="【甲】">飲酒</rdg></app>
+<lb n="0927b11" ed="T"/>戒。乃至十善諸禪亦如是。<note n="0927016" resp="Taisho" place="foot text" type="orig">〔皆〕－【甲】</note><app n="0927016"><lem wit="【大】">皆</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>為惡<note n="0927017" resp="Taisho" place="foot text" type="orig">業＝<g ref="#CB13643"/>【甲】</note><app n="0927017"><lem wit="【大】">業</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB13643"/></rdg></app>鬼毀
+<lb n="0927b12" ed="T"/>損。人天動不動業若能稱名即不加害也。次
+<lb n="0927b13" ed="T"/>明煩惱鬼者。見心為男鬼。愛心為女鬼。若論
+<lb n="0927b14" ed="T"/>此鬼即得滿三千大千世界。非復假設之言。
+<lb n="0927b15" ed="T"/>何以故。<note n="0927018" resp="Taisho" place="foot text" type="orig">〔以〕－【甲】</note><app n="0927018"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>見使歷三界有八十<note n="0927019" resp="Taisho" place="foot text" type="orig">八＋（使）【甲】</note><app n="0927019"><lem wit="【大】">八</lem><rdg resp="Taisho" wit="【甲】">八使</rdg></app>。愛歷三
+<lb n="0927b16" ed="T"/>界合有九十八。豈不遍滿。此鬼欲來惱<note n="0927020" resp="Taisho" place="foot text" type="orig">二＝三【甲】＊</note><app n="0927020"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】">三</rdg></app>乘
+<lb n="0927b17" ed="T"/>人乃至六度通別圓等行人。大經云。唯願世
+<lb n="0927b18" ed="T"/>尊。善良呪師當為我等除無明鬼。又云。愚癡
+<lb n="0927b19" ed="T"/>羅剎止住其中。豈非煩惱鬼耶。若稱名誦念
+<lb n="0927b20" ed="T"/>觀<note n="0927021" resp="Taisho" place="foot text" type="orig">智＝知【甲】</note><app n="0927021"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】">知</rdg></app>成就。能令見愛塵勞隨意所轉不能為
+<lb n="0927b21" ed="T"/>害也。<note n="0927022" resp="Taisho" place="foot text" type="orig">次＋（明）【甲】</note><app n="0927022"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【甲】">次明</rdg></app>別圓本觀慈悲機應者。別觀菩薩初
+<lb n="0927b22" ed="T"/>發心時。見諸惡鬼惱亂世間。無能救解。如訖
+<lb n="0927b23" ed="T"/>拏迦<note n="0927023" resp="Taisho" place="foot text" type="orig">羅＝邏【甲】</note><app n="0927023"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】">邏</rdg></app>等惱毘舍離。是故菩薩興起慈悲為
+<lb n="0927b24" ed="T"/>作擁護。若修諸善為惡所<note n="0927024" resp="Taisho" place="foot text" type="orig">壞＝懷【甲】</note><app n="0927024"><lem wit="【大】">壞</lem><rdg resp="Taisho" wit="【甲】">懷</rdg></app>。亦起慈悲令善
+<lb n="0927b25" ed="T"/>成就。若觀此鬼及以業鬼。皆是因緣生法從
+<lb n="0927b26" ed="T"/>假入空出假入中。皆節節慈悲誓願。於諸煩
+<lb n="0927b27" ed="T"/>惱深達實相成王三昧。以<note n="0927025" resp="Taisho" place="foot text" type="orig">（本）＋誓【甲】</note><app n="0927025"><lem wit="【大】">誓</lem><rdg resp="Taisho" wit="【甲】">本誓</rdg></app>願熏修法<note n="0927026" resp="Taisho" place="foot text" type="orig">界＝身【甲】</note><app n="0927026"><lem wit="【大】">界</lem><rdg resp="Taisho" wit="【甲】">身</rdg></app>眾
+<lb n="0927b28" ed="T"/>生。若遭鬼難能遍法界<note n="0927027" resp="Taisho" place="foot text" type="orig">救＝教【甲】</note><app n="0927027"><lem wit="【大】">救</lem><rdg resp="Taisho" wit="【甲】">教</rdg></app>護。以事中慈悲救
+<lb n="0927b29" ed="T"/>果報上<note n="0927028" resp="Taisho" place="foot text" type="orig">鬼＋（以）【甲】</note><app n="0927028"><lem wit="【大】">鬼</lem><rdg resp="Taisho" wit="【甲】">鬼以</rdg></app>。修善慈悲救惡業鬼。以三觀慈悲
+<pb n="0927c" xml:id="T34.1728.0927c" ed="T"/>
+<lb n="0927c01" ed="T"/>救愛見無明等鬼。悉令諸鬼堪任<note n="0927029" resp="Taisho" place="foot text" type="orig">乘＝乖【甲】</note><app n="0927029"><lem wit="【大】">乘</lem><rdg resp="Taisho" wit="【甲】">乖</rdg></app>御。不能
+<lb n="0927c02" ed="T"/>為惡眼視之。如華嚴四十三迦毘羅婆城。<note n="0927030" resp="Taisho" place="foot text" type="orig">（婆）＋娑【甲】</note><app n="0927030"><lem wit="【大】">娑</lem><rdg resp="Taisho" wit="【甲】">婆娑</rdg></app>
+<lb n="0927c03" ed="T"/>婆陀夜天。於日沒後見處虛空。見其身上有
+<lb n="0927c04" ed="T"/>一切星<note n="0927031" resp="Taisho" place="foot text" type="orig">現＝見【甲】</note><app n="0927031"><lem wit="【大】">現</lem><rdg resp="Taisho" wit="【甲】">見</rdg></app>一毛孔中。見所化眾生。或生天上
+<lb n="0927c05" ed="T"/>或得二乘。或修菩薩行種種方便皆悉見聞。
+<lb n="0927c06" ed="T"/>爾時夜天告善財言。我於惡眾生發大慈心。
+<lb n="0927c07" ed="T"/>不善眾生發大悲心。於聲聞緣覺發安立一
+<lb n="0927c08" ed="T"/>切智道心。我見眾生遠離正道趣於邪徑。著
+<lb n="0927c09" ed="T"/>諸顛倒虛妄迷惑受眾苦惱。我見此<note n="0927032" resp="Taisho" place="foot text" type="orig">已＝以【甲】</note><app n="0927032"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【甲】">以</rdg></app>。無量
+<lb n="0927c10" ed="T"/>方便除<note n="0927033" resp="Taisho" place="foot text" type="orig">諸＝其【甲】</note><app n="0927033"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【甲】">其</rdg></app>邪惑安立正見。故知法身菩薩以
+<lb n="0927c11" ed="T"/>夜叉鬼身。能作如此安立眾生。觀音菩薩於
+<lb n="0927c12" ed="T"/>此鬼神法門。豈不通達。普應一切令得無害。
+<lb n="0927c13" ed="T"/>若圓觀識種是愛見<note n="0927034" resp="Taisho" place="foot text" type="orig">〔鬼〕－【甲】</note><app n="0927034"><lem wit="【大】">鬼</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>門。一切法趣此識種
+<lb n="0927c14" ed="T"/>鬼法門。十法界三諦具足無緣慈悲。普被一
+<lb n="0927c15" ed="T"/>切即是鬼門。王三昧力遍應法界。若分別說
+<lb n="0927c16" ed="T"/>者。以十三昧救事鬼。二十四三昧救惡業鬼。
+<lb n="0927c17" ed="T"/>以二十五三昧救<app type="star" corresp="#0927020"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】">三</rdg></app>乘通別圓入空鬼。乃至
+<lb n="0927c18" ed="T"/>入中道。一切一時俱不加害。第六枷鎖難亦
+<lb n="0927c19" ed="T"/>為三。一<app type="star" corresp="#0926017"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文。二<app type="star" corresp="#0925022"><lem wit="【大】">約</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app>證。三觀<note n="0927035" resp="Taisho" place="foot text" type="orig">釋＝解【甲】</note><app n="0927035"><lem wit="【大】">釋</lem><rdg resp="Taisho" wit="【甲】">解</rdg></app>。貼文為四。
+<lb n="0927c20" ed="T"/>一標有罪無罪。二遭難。三稱名。四應。上臨當
+<lb n="0927c21" ed="T"/>被害此定入死<note n="0927036" resp="Taisho" place="foot text" type="orig">目＝自【甲】</note><app n="0927036"><lem wit="【大】">目</lem><rdg resp="Taisho" wit="【甲】">自</rdg></app>。此明有罪無罪。或是推檢
+<lb n="0927c22" ed="T"/>未定。或可判入徒流。若判未判俱被禁節。明
+<lb n="0927c23" ed="T"/>聖<note n="0927037" resp="Taisho" place="foot text" type="orig">心＋（平）【甲】</note><app n="0927037"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【甲】">心平</rdg></app>等本救其囚執。不論有罪無罪也。在手
+<lb n="0927c24" ed="T"/>名杻在脚名械。在頸名枷連身名鎖。此則三
+<lb n="0927c25" ed="T"/>木一鐵之名也。繫名繫礙檢是封檢。繫未必
+<lb n="0927c26" ed="T"/>檢檢必被繫。繫而具檢憂怖亦深。鳥死聲哀
+<lb n="0927c27" ed="T"/>人死言善。若能稱觀世音者。重關自開鐵木
+<lb n="0927c28" ed="T"/>斷壞。次引事證者應驗傳云。蓋護山陽人。繫
+<lb n="0927c29" ed="T"/>獄應死。三日三夜心無間息。即眼見觀音放
+<pb n="0928a" xml:id="T34.1728.0928a" ed="T"/>
+<lb n="0928a01" ed="T"/>光照之。鎖脫門開尋光而去。行二十里光<note n="0928001" resp="Taisho" place="foot text" type="orig">〔明〕－【甲】</note><app n="0928001"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0928a02" ed="T"/>方息。張暢為譙王長史。王及暢繫廷尉誦經
+<lb n="0928a03" ed="T"/>千遍。鎖寸寸斷<note n="0928002" resp="Taisho" place="foot text" type="orig">不＝少【甲】</note><app n="0928002"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】">少</rdg></app>日即散。虛<note n="0928003" resp="Taisho" place="foot text" type="orig">丞相云云＝承祖【甲】</note><app n="0928003"><lem wit="【大】">丞相云云</lem><rdg resp="Taisho" wit="【甲】">承祖</rdg></app>。三
+<lb n="0928a04" ed="T"/>觀釋者。地獄體是囹圄。鬼及畜生亦有籠繫。
+<lb n="0928a05" ed="T"/>修羅亦被五縛。北方及天上自在應無此難。
+<lb n="0928a06" ed="T"/>降是已還無免幽厄。若能稱名皆得斷壞也。
+<lb n="0928a07" ed="T"/>次明修因惡業即名枷鎖也。諸業雖有力不
+<lb n="0928a08" ed="T"/>逐不作者。若有造業果終不失。故云不失法
+<lb n="0928a09" ed="T"/>如券。若人修習諸善被惡業覆。如大山映覆
+<lb n="0928a10" ed="T"/>於心。使善<note n="0928004" resp="Taisho" place="foot text" type="orig">敗壞＝壞敗【甲】</note><app n="0928004"><lem wit="【大】">敗壞</lem><rdg resp="Taisho" wit="【甲】">壞敗</rdg></app>更增惡業。惡業即招果縛無
+<lb n="0928a11" ed="T"/>由可解。若欲脫此業者因時可救。急稱觀音
+<lb n="0928a12" ed="T"/>能令三惡業壞。故經云。妻子以為鎖械。錢財
+<lb n="0928a13" ed="T"/>以為牢獄。王法以為<note n="0928005" resp="Taisho" place="foot text" type="orig">獄籍＝狼𤢎【甲】</note><app n="0928005"><lem wit="【大】">獄籍</lem><rdg resp="Taisho" wit="【甲】">狼𤢎</rdg></app>。遮礙行人不得修
+<lb n="0928a14" ed="T"/>道。望現在是果報縛。望過去是業。次明聲聞
+<lb n="0928a15" ed="T"/>者。凡夫及三果皆是有罪。羅漢是無罪。大品
+<lb n="0928a16" ed="T"/>云。摩訶那伽雖有罪無罪同在三界獄中。五
+<lb n="0928a17" ed="T"/>陰繩所縛三相無常檢束印封之。權實上惑
+<lb n="0928a18" ed="T"/>名杻。定慧上惑名械。中道上惑名枷。法身上
+<lb n="0928a19" ed="T"/>惑名鎖。如是等束縛行人不能得脫。稱名繫
+<lb n="0928a20" ed="T"/>念必蒙靈應。若發定慧是械斷。若發權實是
+<lb n="0928a21" ed="T"/>杻斷。若破無明是枷斷。法身顯現是鎖斷。入
+<lb n="0928a22" ed="T"/>無餘涅槃是縛斷。免三相是離檢。出三界是
+<lb n="0928a23" ed="T"/>出獄。此復有通別意。次明支佛六度行通別
+<lb n="0928a24" ed="T"/>圓。若論枷鎖猶<note n="0928006" resp="Taisho" place="foot text" type="orig">是地＝地是【甲】</note><app n="0928006"><lem wit="【大】">是地</lem><rdg resp="Taisho" wit="【甲】">地是</rdg></app>質礙。別圓本觀所起慈
+<lb n="0928a25" ed="T"/>悲遍應之義不異<app type="star" corresp="#0927008"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>前。若三千大千以表空
+<lb n="0928a26" ed="T"/>種。王賊鬼等以表識種。論其十番普應此亦
+<lb n="0928a27" ed="T"/>如前論其本觀。<note n="0928007" resp="Taisho" place="foot text" type="orig">今＋（觀）【甲】</note><app n="0928007"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【甲】">今觀</rdg></app>當說菩薩見眾生以空識
+<lb n="0928a28" ed="T"/>成果報身。還為空識所惱。修諸善時空識之
+<lb n="0928a29" ed="T"/>業亦能壞善。觀空識有三諦之障有三諦之
+<pb n="0928b" xml:id="T34.1728.0928b" ed="T"/>
+<lb n="0928b01" ed="T"/>理。如是節節皆起慈悲。悲欲拔眾生苦。慈欲
+<lb n="0928b02" ed="T"/>與眾生樂。故淨名云。菩薩觀四大種空<note n="0928008" resp="Taisho" place="foot text" type="orig">〔種〕－【甲】</note><app n="0928008"><lem wit="【大】">種</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>識
+<lb n="0928b03" ed="T"/><note n="0928009" resp="Taisho" place="foot text" type="orig">種＋（願）【甲】</note><app n="0928009"><lem wit="【大】">種</lem><rdg resp="Taisho" wit="【甲】">種願</rdg></app>皆空<note n="0928010" resp="Taisho" place="foot text" type="orig">〔空〕－【甲】</note><app n="0928010"><lem wit="【大】">空</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>故。無四大無空無識。是為入不
+<lb n="0928b04" ed="T"/>二法門。<note n="0928011" resp="Taisho" place="foot text" type="orig">成＝或【甲】</note><app n="0928011"><lem wit="【大】">成</lem><rdg resp="Taisho" wit="【甲】">或</rdg></app>王三昧能遍十法界垂應。以事
+<lb n="0928b05" ed="T"/>中慈悲。救果報空識難。以修善慈悲。救惡業
+<lb n="0928b06" ed="T"/>空識難。<note n="0928012" resp="Taisho" place="foot text" type="orig">〔以三…識難〕十一字－【甲】</note><app cb:word-count="11" n="0928012"><lem wit="【大】">以三觀慈悲。救煩惱空識難</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。故知
+<lb n="0928b07" ed="T"/>觀音於空識法門而得自在。華嚴三十九<note n="0928013" resp="Taisho" place="foot text" type="orig">善住＝云菩薩【甲】</note><app n="0928013"><lem wit="【大】">善
+<lb n="0928b08" ed="T"/>住</lem><rdg resp="Taisho" wit="【甲】">云菩薩</rdg></app>比丘於虛空中大作佛事。若作圓觀。觀空
+<lb n="0928b09" ed="T"/>種因緣性相本末究竟等。則一切十法界悉
+<lb n="0928b10" ed="T"/><note n="0928014" resp="Taisho" place="foot text" type="orig">趣＝起【甲】</note><app n="0928014"><lem wit="【大】">趣</lem><rdg resp="Taisho" wit="【甲】">起</rdg></app>空門。識亦如是。起無綠慈悲熏諸眾生。
+<lb n="0928b11" ed="T"/>十法界有機即能一切一時而得解脫。第七怨
+<lb n="0928b12" ed="T"/>賊難亦為三。一<app type="star" corresp="#0926017"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文。二<app type="star" corresp="#0925022"><lem wit="【大】">約</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app>證。三觀釋。<app type="star" corresp="#0926017"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>
+<lb n="0928b13" ed="T"/>文為四。一標難處。二標遭難人。三明有機。四
+<lb n="0928b14" ed="T"/>明應。難處者先明處。即是大千國土。次明難
+<lb n="0928b15" ed="T"/>即滿中怨賊滿<note n="0928015" resp="Taisho" place="foot text" type="orig">中＝者【甲】</note><app n="0928015"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【甲】">者</rdg></app>假<note n="0928016" resp="Taisho" place="foot text" type="orig">〔設之〕－【甲】</note><app n="0928016"><lem wit="【大】">設之</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>辭也。國曠賊多
+<lb n="0928b16" ed="T"/>聖力能救顯功之至也。怨者此難重也。賊本
+<lb n="0928b17" ed="T"/>求財怨本奪命。今怨為賊必財命兩圖。若過
+<lb n="0928b18" ed="T"/>去流血名怨。現在奪財名賊。如此怨賊遍滿
+<lb n="0928b19" ed="T"/>大千尚能<note n="0928017" resp="Taisho" place="foot text" type="orig">護＝欀【甲】</note><app n="0928017"><lem wit="【大】">護</lem><rdg resp="Taisho" wit="【甲】">欀</rdg></app>之。輕者豈不能救也。二標遭難
+<lb n="0928b20" ed="T"/>人者。即<note n="0928018" resp="Taisho" place="foot text" type="orig">商＝啇【甲】＊</note><app n="0928018"><lem wit="【大】">商</lem><rdg resp="Taisho" wit="【甲】">啇</rdg></app>主也。此<note n="0928019" resp="Taisho" place="foot text" type="orig">又＝文【甲】</note><app n="0928019"><lem wit="【大】">又</lem><rdg resp="Taisho" wit="【甲】">文</rdg></app>為四。一明主。二有
+<lb n="0928b21" ed="T"/><note n="0928020" resp="Taisho" place="foot text" type="orig">從＝徒【甲】</note><app n="0928020"><lem wit="【大】">從</lem><rdg resp="Taisho" wit="【甲】">徒</rdg></app>。三<note n="0928021" resp="Taisho" place="foot text" type="orig">懷＝壞重【甲】</note><app n="0928021"><lem wit="【大】">懷</lem><rdg resp="Taisho" wit="【甲】">壞重</rdg></app>寶。四涉險。<app type="star" corresp="#0928018"><lem wit="【大】">商</lem><rdg resp="Taisho" wit="【甲】">啇</rdg></app>者訓量。此人<note n="0928022" resp="Taisho" place="foot text" type="orig">擇＝精【甲】</note><app n="0928022"><lem wit="【大】">擇</lem><rdg resp="Taisho" wit="【甲】">精</rdg></app>
+<lb n="0928b22" ed="T"/>識貴賤善解財利<app type="star" corresp="#0928018"><lem wit="【大】">商</lem><rdg resp="Taisho" wit="【甲】">啇</rdg></app>量得宜。堪為<app type="star" corresp="#0928018"><lem wit="【大】">商</lem><rdg resp="Taisho" wit="【甲】">啇</rdg></app>人之
+<lb n="0928b23" ed="T"/>主。既有<app type="star" corresp="#0928018"><lem wit="【大】">商</lem><rdg resp="Taisho" wit="【甲】">啇</rdg></app>主即有將領。諸<app type="star" corresp="#0928018"><lem wit="【大】">商</lem><rdg resp="Taisho" wit="【甲】">啇</rdg></app>人既涉<note n="0928023" resp="Taisho" place="foot text" type="orig">〔險〕－【甲】</note><app n="0928023"><lem wit="【大】">險</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>遠
+<lb n="0928b24" ed="T"/>所齎者。必是難得之貨。故言重寶也。險路
+<lb n="0928b25" ed="T"/><note n="0928024" resp="Taisho" place="foot text" type="orig">〔者〕－【甲】</note><app n="0928024"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>或可曠絕幽<note n="0928025" resp="Taisho" place="foot text" type="orig">隘＝溢【甲】</note><app n="0928025"><lem wit="【大】">隘</lem><rdg resp="Taisho" wit="【甲】">溢</rdg></app>。名為險<note n="0928026" resp="Taisho" place="foot text" type="orig">〔路〕－【甲】</note><app n="0928026"><lem wit="【大】">路</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。或值怨賊衝
+<lb n="0928b26" ed="T"/>出之處。名為險路者也。機者亦四。先明一人
+<lb n="0928b27" ed="T"/>安慰。二勸稱名。三歎德。四眾人俱稱。所以安
+<lb n="0928b28" ed="T"/>慰者止其恐怖也。所以勸稱名者設其上策
+<lb n="0928b29" ed="T"/>也。所以歎德者獎令定膽也。若不安慰則怖
+<pb n="0928c" xml:id="T34.1728.0928c" ed="T"/>
+<lb n="0928c01" ed="T"/>遽慞惶。雖安慰止怖。若不設計唐慰何益。故
+<lb n="0928c02" ed="T"/>勸稱名。雖勸稱名。若不歎德設計。則心不定
+<lb n="0928c03" ed="T"/><note n="0928027" resp="Taisho" place="foot text" type="orig">膽＝瞻【甲】</note><app n="0928027"><lem wit="【大】">膽</lem><rdg resp="Taisho" wit="【甲】">瞻</rdg></app>亦不勇。所以歎德。故知此菩薩決定能施
+<lb n="0928c04" ed="T"/>無畏。決果依憑三義既足。俱時稱唱<note n="0928028" resp="Taisho" place="foot text" type="orig">機＋（成獲）【甲】</note><app n="0928028"><lem wit="【大】">機</lem><rdg resp="Taisho" wit="【甲】">機成獲</rdg></app>應即
+<lb n="0928c05" ed="T"/>得解脫也。南無云歸命。亦稱為救我。次結口
+<lb n="0928c06" ed="T"/>機也。今言觀音勢<note n="0928029" resp="Taisho" place="foot text" type="orig">〔力〕－【甲】</note><app n="0928029"><lem wit="【大】">力</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>既大加護亦<note n="0928030" resp="Taisho" place="foot text" type="orig">曠＝廣【甲】</note><app n="0928030"><lem wit="【大】">曠</lem><rdg resp="Taisho" wit="【甲】">廣</rdg></app>。豈止
+<lb n="0928c07" ed="T"/>七難而已。當知遍法界<note n="0928031" resp="Taisho" place="foot text" type="orig">皆＋（得）【甲】</note><app n="0928031"><lem wit="【大】">皆</lem><rdg resp="Taisho" wit="【甲】">皆得</rdg></app>能救護。故言巍
+<lb n="0928c08" ed="T"/>巍。巍巍者。重明高累之辭也。明觀音之力出
+<lb n="0928c09" ed="T"/>於分段之外豎應二土。故言重明。<note n="0928032" resp="Taisho" place="foot text" type="orig">載＝再【甲】</note><app n="0928032"><lem wit="【大】">載</lem><rdg resp="Taisho" wit="【甲】">再</rdg></app>沐神
+<lb n="0928c10" ed="T"/>應故言高累。以是義故。<note n="0928033" resp="Taisho" place="foot text" type="orig">〔故〕－【甲】</note><app n="0928033"><lem wit="【大】">故</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>言巍巍如是也。
+<lb n="0928c11" ed="T"/>二<app type="star" corresp="#0925022"><lem wit="【大】">約</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app>事證者。應驗傳云。慧達以晉隆安二
+<lb n="0928c12" ed="T"/>年。北<note n="0928034" resp="Taisho" place="foot text" type="orig">隴＝瀧【甲】</note><app n="0928034"><lem wit="【大】">隴</lem><rdg resp="Taisho" wit="【甲】">瀧</rdg></app>上<note n="0928035" resp="Taisho" place="foot text" type="orig">掘＝堀【甲】</note><app n="0928035"><lem wit="【大】">掘</lem><rdg resp="Taisho" wit="【甲】">堀</rdg></app>甘草。于時羌餓捕人食之。達
+<lb n="0928c13" ed="T"/>為羌所得<note n="0928036" resp="Taisho" place="foot text" type="orig">閉＝閑【甲】</note><app n="0928036"><lem wit="【大】">閉</lem><rdg resp="Taisho" wit="【甲】">閑</rdg></app>在柵中。擇肥者先食。達急一心
+<lb n="0928c14" ed="T"/>稱名誦經。食餘人稍盡。唯達<note n="0928037" resp="Taisho" place="foot text" type="orig">并＝並【甲】</note><app n="0928037"><lem wit="【大】">并</lem><rdg resp="Taisho" wit="【甲】">並</rdg></app>一小兒次擬
+<lb n="0928c15" ed="T"/>明日。達竟夜誦猶冀一感。向曉羌來取之。忽
+<lb n="0928c16" ed="T"/>見一虎從草透出咆<note n="0928038" resp="Taisho" place="foot text" type="orig">哮＝乳【甲】</note><app n="0928038"><lem wit="【大】">哮</lem><rdg resp="Taisho" wit="【甲】">乳</rdg></app>。諸羌散走虎因<note n="0928039" resp="Taisho" place="foot text" type="orig">齧＝喫【甲】</note><app n="0928039"><lem wit="【大】">齧</lem><rdg resp="Taisho" wit="【甲】">喫</rdg></app>
+<lb n="0928c17" ed="T"/>柵作一<note n="0928040" resp="Taisho" place="foot text" type="orig">穴＝<g ref="#CB13629"/>【甲】</note><app n="0928040"><lem wit="【大】">穴</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB13629"/></rdg></app>而去。達將小兒走<note n="0928041" resp="Taisho" place="foot text" type="orig">叛＝粄【甲】＊</note><app n="0928041"><lem wit="【大】">叛</lem><rdg resp="Taisho" wit="【甲】">粄</rdg></app>得免。又<note n="0928042" resp="Taisho" place="foot text" type="orig">斐＝非【甲】</note><note n="0928042" resp="CBETA" type="mod"><choice cb:resp="CBETA.maha"><corr>裴</corr><sic>斐</sic></choice>＝非【甲】</note><app n="0928042"><lem wit="【大】">裴</lem><rdg resp="Taisho" wit="【甲】">非</rdg></app>
+<lb n="0928c18" ed="T"/>安<note n="0928043" resp="Taisho" place="foot text" type="orig">起＝赴【甲】＊</note><app n="0928043"><lem wit="【大】">起</lem><rdg resp="Taisho" wit="【甲】">赴</rdg></app>從虜<app type="star" corresp="#0928041"><lem wit="【大】">叛</lem><rdg resp="Taisho" wit="【甲】">粄</rdg></app>還。南至河邊不<note n="0928044" resp="Taisho" place="foot text" type="orig">〔能〕－【甲】</note><app n="0928044"><lem wit="【大】">能</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>得過。望見
+<lb n="0928c19" ed="T"/>追騎在後死至須臾。於是稱觀世音。見一白
+<lb n="0928c20" ed="T"/>狼安<app type="star" corresp="#0928043"><lem wit="【大】">起</lem><rdg resp="Taisho" wit="【甲】">赴</rdg></app>透抱。一擲便過南岸。即失狼所。追
+<lb n="0928c21" ed="T"/>騎共在北岸望之歎惋無極。道明於武原劫
+<lb n="0928c22" ed="T"/>奪船道<note n="0928045" resp="Taisho" place="foot text" type="orig">往＝任【甲】</note><app n="0928045"><lem wit="【大】">往</lem><rdg resp="Taisho" wit="【甲】">任</rdg></app>徑遇賊難等。三觀釋者。若果報論
+<lb n="0928c23" ed="T"/>怨賊者。從地獄至第六天皆有鬪諍。如阿含
+<lb n="0928c24" ed="T"/>云。忉利戰不如修羅。索援至第六天。如此怨
+<lb n="0928c25" ed="T"/>會稱名得脫也。次修善時惡<note n="0928046" resp="Taisho" place="foot text" type="orig">多＝色【甲】</note><app n="0928046"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】">色</rdg></app>是怨。猶如
+<lb n="0928c26" ed="T"/><note n="0928047" resp="Taisho" place="foot text" type="orig">氷炭＝水<g ref="#CB01926"/>【甲】</note><app n="0928047"><lem wit="【大】">氷炭</lem><rdg resp="Taisho" wit="【甲】">水<g ref="#CB01926"/></rdg></app>。稱名惡退善業成就。如闇滅明生。次
+<lb n="0928c27" ed="T"/>明煩惱為怨賊者。一切煩惱是出世法<note n="0928048" resp="Taisho" place="foot text" type="orig">怨＋（也）【甲】</note><app n="0928048"><lem wit="【大】">怨</lem><rdg resp="Taisho" wit="【甲】">怨也</rdg></app>。商
+<lb n="0928c28" ed="T"/>主是<note n="0928049" resp="Taisho" place="foot text" type="orig">三＋（諦）【甲】</note><app n="0928049"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【甲】">三諦</rdg></app>師羯<note n="0928050" resp="Taisho" place="foot text" type="orig">磨＝摩【甲】</note><app n="0928050"><lem wit="【大】">磨</lem><rdg resp="Taisho" wit="【甲】">摩</rdg></app>。受戒人是商人。無作戒是
+<lb n="0928c29" ed="T"/>重寶。五塵是怨賊。或法<note n="0928051" resp="Taisho" place="foot text" type="orig">〔師〕－【甲】</note><app n="0928051"><lem wit="【大】">師</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>是商主。商人是
+<pb n="0929a" xml:id="T34.1728.0929a" ed="T"/>
+<lb n="0929a01" ed="T"/>徒眾。理教是重寶。兩遇魔事是怨賊。或心王
+<lb n="0929a02" ed="T"/>是商主。心數是商人。正觀之智是重寶。覺觀
+<lb n="0929a03" ed="T"/>為怨賊。或般若是商主。五度萬行是商人。
+<lb n="0929a04" ed="T"/>法性<note n="0929001" resp="Taisho" place="foot text" type="orig">實＝寶【甲】</note><app n="0929001"><lem wit="【大】">實</lem><rdg resp="Taisho" wit="【甲】">寶</rdg></app>相是重寶。六蔽是怨賊。將此意歷諸
+<lb n="0929a05" ed="T"/>教義自在作。悉成稱名即得解脫也。<note n="0929002" resp="Taisho" place="foot text" type="orig">復＝後【甲】</note><app n="0929002"><lem wit="【大】">復</lem><rdg resp="Taisho" wit="【甲】">後</rdg></app>次
+<lb n="0929a06" ed="T"/>約怨賊難結成別圓慈悲應。例前可解<note n="0929003" resp="Taisho" place="foot text" type="orig">〔云云〕－【甲】</note><app n="0929003"><lem wit="【大】">云云</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。</p>
+<lb n="0929a07" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>觀<note n="0929004" resp="Taisho" place="foot text" type="orig">音義＝世音經【甲】＊</note><app n="0929004"><lem wit="【大】">音義</lem><rdg resp="Taisho" wit="【甲】">世音經</rdg></app>疏卷<note n="0929005" resp="Taisho" place="foot text" type="orig">上＋（終）夾註【甲】</note><app n="0929005"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【甲】">上<note place="inline">終</note></rdg></app></cb:jhead></cb:juan>
+<lb n="0929a08" ed="T"/>
+<milestone n="2" unit="juan"/>
+<lb n="0929a09" ed="T"/>
+<lb n="0929a10" ed="T"/>
+<lb n="0929a11" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="2" type="卷"></cb:mulu><cb:jhead>觀<anchor xml:id="fxT34p0929a01"/>音義疏卷下</cb:jhead></cb:juan>
+<lb n="0929a12" ed="T"/>
+<lb n="0929a13" ed="T"/><byline cb:type="Other"><note n="0929006" resp="Taisho" place="foot text" type="orig">（（隋天…記））十三字＝（（天台山修禪寺　智者大師說））十一字【甲】</note><app cb:word-count="13" n="0929006"><lem wit="【大】">隋天台智者大師說　弟子灌頂記</lem><rdg resp="Taisho" wit="【甲】">天台山修禪寺　智者大師說</rdg></app></byline>
+<lb n="0929a14" ed="T"/><p xml:id="pT34p0929a1401">第二從若有眾生多於婬欲去。是明意機也。
+<lb n="0929a15" ed="T"/>釋此為二。初<note n="0929007" resp="Taisho" place="foot text" type="orig">貼＝帖【甲】＊</note><app n="0929007"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文二觀解。<app type="star" corresp="#0929007"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文為二。初正
+<lb n="0929a16" ed="T"/>明意機。次結意機。意機約三毒為三章。章各
+<lb n="0929a17" ed="T"/>有三。一明有苦。二默念。此兩即是明機。三明
+<lb n="0929a18" ed="T"/>離即是明其應三也。通稱毒者。侵害行人喻
+<lb n="0929a19" ed="T"/>之如毒。但名有單複。有人解云。三毒多者不
+<lb n="0929a20" ed="T"/>知其是過故不求觀音。少者念觀音梵行之
+<lb n="0929a21" ed="T"/>德。所以能感。意謂此解乖文。文云。若有眾生
+<lb n="0929a22" ed="T"/>多於婬欲念即得離。云何對面違經耶。今明
+<lb n="0929a23" ed="T"/>三毒多者。能念觀音菩薩有力令多得離。何
+<lb n="0929a24" ed="T"/>況<note n="0929008" resp="Taisho" place="foot text" type="orig">少相＝於少【甲】</note><app n="0929008"><lem wit="【大】">少相</lem><rdg resp="Taisho" wit="【甲】">於少</rdg></app>。此則以多況少<note n="0929009" resp="Taisho" place="foot text" type="orig">爾＝耳【甲】＊</note><app n="0929009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。大論云。女人
+<lb n="0929a25" ed="T"/><note n="0929010" resp="Taisho" place="foot text" type="orig">違＝為【甲】</note><app n="0929010"><lem wit="【大】">違</lem><rdg resp="Taisho" wit="【甲】">為</rdg></app>戒垢謗法餘殃。不擇禽獸不避高牆廣塹
+<lb n="0929a26" ed="T"/>之難。不計名聞德行。破家亡國滅族<note n="0929011" resp="Taisho" place="foot text" type="orig">傾＝<g ref="#CB04713"/>【甲】</note><app n="0929011"><lem wit="【大】">傾</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB04713"/></rdg></app>宗。
+<lb n="0929a27" ed="T"/>禍延其身。如術婆伽禍延其國。如周敗褒姒。
+<lb n="0929a28" ed="T"/>淨住及禪經明。多欲人有欲蟲男蟲<note n="0929012" resp="Taisho" place="foot text" type="orig">（沃）＋淚【甲】</note><app n="0929012"><lem wit="【大】">淚</lem><rdg resp="Taisho" wit="【甲】">沃淚</rdg></app>出而
+<lb n="0929a29" ed="T"/>青白。女蟲吐血而紅赤。又言。有欲鬼嬈動其
+<pb n="0929b" xml:id="T34.1728.0929b" ed="T"/>
+<lb n="0929b01" ed="T"/><note n="0929013" resp="Taisho" place="foot text" type="orig">心＋（念）【甲】</note><app n="0929013"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【甲】">心念</rdg></app>令生倒惑。如大經云。若習近貪欲是報熟
+<lb n="0929b02" ed="T"/>時。此舉多欲相也。若少欲人蟲鬼潛伏。無過
+<lb n="0929b03" ed="T"/>狂醉是少欲<note n="0929014" resp="Taisho" place="foot text" type="orig">相＋（疏云自愛為貪他愛為欲云云）夾註【甲】</note><app n="0929014"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【甲】">相<note place="inline">疏云自愛為貪他愛為欲云云</note></rdg></app>。瞋恚多者今<note n="0929015" resp="Taisho" place="foot text" type="orig">世＋（後世）【甲】</note><app n="0929015"><lem wit="【大】">世</lem><rdg resp="Taisho" wit="【甲】">世後世</rdg></app>人不喜見。
+<lb n="0929b04" ed="T"/>如渴馬護水如射師子母。故遺教云。劫功德
+<lb n="0929b05" ed="T"/>賊無過瞋恚。華嚴云。一念<note n="0929016" resp="Taisho" place="foot text" type="orig">瞋＋（恚）【甲】</note><app n="0929016"><lem wit="【大】">瞋</lem><rdg resp="Taisho" wit="【甲】">瞋恚</rdg></app>起障百法明
+<lb n="0929b06" ed="T"/>門。菩薩以瞋乖慈障道事重。大集云。一念起
+<lb n="0929b07" ed="T"/>瞋一切魔鬼得便。涅槃云。習近瞋恚。若<note n="0929017" resp="Taisho" place="foot text" type="orig">例＝倒【甲】</note><app n="0929017"><lem wit="【大】">例</lem><rdg resp="Taisho" wit="【甲】">倒</rdg></app>
+<lb n="0929b08" ed="T"/>婬<note n="0929018" resp="Taisho" place="foot text" type="orig">恚＝毒【甲】</note><app n="0929018"><lem wit="【大】">恚</lem><rdg resp="Taisho" wit="【甲】">毒</rdg></app>亦應有鬼。如<note n="0929019" resp="Taisho" place="foot text" type="orig">柰＝李【甲】</note><app n="0929019"><lem wit="【大】">柰</lem><rdg resp="Taisho" wit="【甲】">李</rdg></app>女經。瞋則有蝎蟲是
+<lb n="0929b09" ed="T"/>名多<note n="0929020" resp="Taisho" place="foot text" type="orig">〔瞋〕－【甲】</note><app n="0929020"><lem wit="【大】">瞋</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>相。與上相違是瞋少相愚癡多者邪
+<lb n="0929b10" ed="T"/>畫諸見。撥無因果謗毀大乘。如大經。例前亦
+<lb n="0929b11" ed="T"/>應有蟲鬼。三毒過患如此。欲離此故<note n="0929021" resp="Taisho" place="foot text" type="orig">至＝志【甲】</note><app n="0929021"><lem wit="【大】">至</lem><rdg resp="Taisho" wit="【甲】">志</rdg></app>心存
+<lb n="0929b12" ed="T"/>念觀音。即得離也。有人解云。起伏相違稱之
+<lb n="0929b13" ed="T"/>為離。非滅離也。今謂經文說離何意言非。若
+<lb n="0929b14" ed="T"/>依請觀音者。淨於三毒根成佛道無疑。今作
+<lb n="0929b15" ed="T"/>十番明救三毒。三番是伏惑論離。七番是斷
+<lb n="0929b16" ed="T"/>惑論離也。</p><p xml:id="pT34p0929b1605" rend="inline">問。離煩惱須智慧。但念豈得離耶。</p>
+<lb n="0929b17" ed="T"/><p xml:id="pT34p0929b1701">答。經稱常念即是正念。體達煩惱性無所有。
+<lb n="0929b18" ed="T"/>住貪欲際即是實<note n="0929022" resp="Taisho" place="foot text" type="orig">際＋（實際）【甲】</note><app n="0929022"><lem wit="【大】">際</lem><rdg resp="Taisho" wit="【甲】">際實際</rdg></app>。絕四句無能無所念性
+<lb n="0929b19" ed="T"/>清淨。如此正念非是智慧。更何處覓智慧。此
+<lb n="0929b20" ed="T"/>慧不離煩惱。其誰能離耶。若如所難必須別
+<lb n="0929b21" ed="T"/>用。智慧破煩惱者。此則有惑可斷有智能斷。
+<lb n="0929b22" ed="T"/>非唯惑不可斷慧還成惑。豈得名斷惑之慧
+<lb n="0929b23" ed="T"/>耶。今此正念不以色念不以非色念。如是四
+<lb n="0929b24" ed="T"/>句亦以色念亦以非色念。如是四句或次第
+<lb n="0929b25" ed="T"/>論非念。或不次第論非念。或不次第論念。或
+<lb n="0929b26" ed="T"/>次第論念。或次第論離。或不次第論離。次就
+<lb n="0929b27" ed="T"/>觀解者。七番例上可解。今但順逆兩意約界
+<lb n="0929b28" ed="T"/>外作也。不取分段三毒相。今取善欲之心名
+<lb n="0929b29" ed="T"/>貪。大經云。一切善法欲為其本。二乘欲樂涅
+<pb n="0929c" xml:id="T34.1728.0929c" ed="T"/>
+<lb n="0929c01" ed="T"/>槃名貪。厭生死名瞋。不達此理名癡。開三毒
+<lb n="0929c02" ed="T"/>即有八萬四千宛然具足。淨名云。結習未<note n="0929023" resp="Taisho" place="foot text" type="orig">盡＋（亦）【甲】</note><app n="0929023"><lem wit="【大】">盡</lem><rdg resp="Taisho" wit="【甲】">盡亦</rdg></app>
+<lb n="0929c03" ed="T"/>華則著身。二乘未斷此三毒。即變易三毒相
+<lb n="0929c04" ed="T"/>也。未斷別惑菩薩亦同有此三毒。故云菩薩
+<lb n="0929c05" ed="T"/>貪求佛法於恒沙劫未曾暫捨。多學問無厭
+<lb n="0929c06" ed="T"/>足即貪相。惡<note n="0929024" resp="Taisho" place="foot text" type="orig">賤＝賊【甲】</note><app n="0929024"><lem wit="【大】">賤</lem><rdg resp="Taisho" wit="【甲】">賊</rdg></app>二乘不喜聞其名。故言寧起
+<lb n="0929c07" ed="T"/>惡癩野干心不起二乘心。如大樹折枝之譬。
+<lb n="0929c08" ed="T"/>豈非瞋相。無明重數甚多。佛菩提智之所能
+<lb n="0929c09" ed="T"/>斷。佛<note n="0929025" resp="Taisho" place="foot text" type="orig">性＋（理）【甲】</note><app n="0929025"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【甲】">性理</rdg></app>未了<note n="0929026" resp="Taisho" place="foot text" type="orig">（未）＋了【甲】</note><app n="0929026"><lem wit="【大】">了</lem><rdg resp="Taisho" wit="【甲】">未了</rdg></app>者皆是癡相。欲除此三煩
+<lb n="0929c10" ed="T"/>惱故。常念觀音隨機應赴即得永離。永離有
+<lb n="0929c11" ed="T"/>兩種。若此菩薩於生身中全未除別惑。就變
+<lb n="0929c12" ed="T"/>易論全未永離。若生身中已侵別惑。就變易
+<lb n="0929c13" ed="T"/>中除<note n="0929027" resp="Taisho" place="foot text" type="orig">（餘）＋殘【甲】</note><app n="0929027"><lem wit="【大】">殘</lem><rdg resp="Taisho" wit="【甲】">餘殘</rdg></app>論永離。次明逆說<note n="0929028" resp="Taisho" place="foot text" type="orig">〔三〕－【甲】</note><app n="0929028"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>毒觀者。一切
+<lb n="0929c14" ed="T"/>眾生名為少欲瞋癡。何以故。<note n="0929029" resp="Taisho" place="foot text" type="orig">〔止〕－【甲】</note><app n="0929029"><lem wit="【大】">止</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>瞋三途之
+<lb n="0929c15" ed="T"/>苦。貪人天之樂。二乘只瞋生死欲得涅槃樂。
+<lb n="0929c16" ed="T"/>皆名為少。菩薩不爾。樂求佛法非但求一佛
+<lb n="0929c17" ed="T"/>法。遍求一切不可說佛法。如海吞眾流猶自
+<lb n="0929c18" ed="T"/>不滿。非但不受生死亦不受涅槃。故大品五
+<lb n="0929c19" ed="T"/>不受此<note n="0929030" resp="Taisho" place="foot text" type="orig">〔即〕－【甲】</note><app n="0929030"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>大瞋。無明力大佛智能斷。菩薩於
+<lb n="0929c20" ed="T"/>無明大力之惑尚在。又癡如虛空不可盡。乃
+<lb n="0929c21" ed="T"/>至老死如虛空不可盡。如此三毒即為三法
+<lb n="0929c22" ed="T"/>門。一取二捨三不取不捨。大慈大悲四攝十
+<lb n="0929c23" ed="T"/>力無畏三昧解脫無上菩提。淨佛國土化度
+<lb n="0929c24" ed="T"/>眾生。名為取門。即大貪也。一切法空無所有
+<lb n="0929c25" ed="T"/>不住不著。般若如大火炎四邊不可取。大涅
+<lb n="0929c26" ed="T"/>槃空迦毘羅城空。言語道斷心行處滅。不以
+<lb n="0929c27" ed="T"/>四句得菩提。無得無證即是捨門。名為大瞋
+<lb n="0929c28" ed="T"/>也。中道非取非捨。不憎不愛。不斷不常。無去
+<lb n="0929c29" ed="T"/>無來。無生無滅。如鏡中像不可見而見。見而
+<pb n="0930a" xml:id="T34.1728.0930a" ed="T"/>
+<lb n="0930a01" ed="T"/>不可見。非可見非<note n="0930001" resp="Taisho" place="foot text" type="orig">〔不〕－【甲】</note><app n="0930001"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>可見。遮二邊故不可言
+<lb n="0930a02" ed="T"/>說。淨名杜口名為中道。此即大癡。故文殊云。
+<lb n="0930a03" ed="T"/>我是貪欲尸利瞋恚尸利邪見尸利。此即其
+<lb n="0930a04" ed="T"/>明證。欲滿此三法門。常念觀音<note n="0930002" resp="Taisho" place="foot text" type="orig">即＋（能）【甲】</note><app n="0930002"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【甲】">即能</rdg></app>得滿願一
+<lb n="0930a05" ed="T"/>切。聖人自行化他無不從此三門而入。離此
+<lb n="0930a06" ed="T"/>更無有道。故無行經云。貪欲即是道。恚癡亦
+<lb n="0930a07" ed="T"/>如是。如是三法中。具足一切佛法。一切佛法
+<lb n="0930a08" ed="T"/>不出萬行波羅<note n="0930003" resp="Taisho" place="foot text" type="orig">蜜＝密【甲】</note><app n="0930003"><lem wit="【大】">蜜</lem><rdg resp="Taisho" wit="【甲】">密</rdg></app>。不受三昧廣大之用中道
+<lb n="0930a09" ed="T"/>實相。此三法門不可宣示。愍眾生故或作順
+<lb n="0930a10" ed="T"/>說或作逆說互有去取。此即四悉<note n="0930004" resp="Taisho" place="foot text" type="orig">檀＝且【甲】</note><app n="0930004"><lem wit="【大】">檀</lem><rdg resp="Taisho" wit="【甲】">且</rdg></app>意赴緣
+<lb n="0930a11" ed="T"/>利益。如華嚴<note n="0930005" resp="Taisho" place="foot text" type="orig">四＝三【甲】</note><app n="0930005"><lem wit="【大】">四</lem><rdg resp="Taisho" wit="【甲】">三</rdg></app>十二明。險難國寶<note n="0930006" resp="Taisho" place="foot text" type="orig">莊＝華【甲】</note><app n="0930006"><lem wit="【大】">莊</lem><rdg resp="Taisho" wit="【甲】">華</rdg></app>嚴城
+<lb n="0930a12" ed="T"/>婆須密多女。說離欲際法門。一切眾生隨類
+<lb n="0930a13" ed="T"/>見我。我皆為其女像。見我者得歡喜三昧。共
+<lb n="0930a14" ed="T"/>我語得無礙妙音三昧。執我手得詣諸佛剎
+<lb n="0930a15" ed="T"/>三昧。共我宿者得解脫光明三昧。目視我者
+<lb n="0930a16" ed="T"/>得寂靜法門。見我嚬<note n="0930007" resp="Taisho" place="foot text" type="orig">伸＝呻【甲】</note><app n="0930007"><lem wit="【大】">伸</lem><rdg resp="Taisho" wit="【甲】">呻</rdg></app>得<note n="0930008" resp="Taisho" place="foot text" type="orig">壞＝懷【甲】</note><app n="0930008"><lem wit="【大】">壞</lem><rdg resp="Taisho" wit="【甲】">懷</rdg></app>散外道法門。
+<lb n="0930a17" ed="T"/>阿<note n="0930009" resp="Taisho" place="foot text" type="orig">𪏭＝梨【甲】</note><app n="0930009"><lem wit="【大】">𪏭</lem><rdg resp="Taisho" wit="【甲】">梨</rdg></app>宜我<note n="0930010" resp="Taisho" place="foot text" type="orig">者＝肴【甲】</note><app n="0930010"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【甲】">肴</rdg></app>得攝一切眾生三昧。阿眾鞞我
+<lb n="0930a18" ed="T"/>者<note n="0930011" resp="Taisho" place="foot text" type="orig">得＝以【甲】</note><app n="0930011"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【甲】">以</rdg></app>諸功德密藏。住是離欲法門廣為利益。
+<lb n="0930a19" ed="T"/>此豈非逆順欲法門導利<note n="0930012" resp="Taisho" place="foot text" type="orig">群＝譬【甲】</note><app n="0930012"><lem wit="【大】">群</lem><rdg resp="Taisho" wit="【甲】">譬</rdg></app>品耶。又四十一
+<lb n="0930a20" ed="T"/>滿幢城滿足王。於正殿行王法。其犯法者斬
+<lb n="0930a21" ed="T"/>截燒煮<note n="0930013" resp="Taisho" place="foot text" type="orig">劈＝襞【甲】</note><app n="0930013"><lem wit="【大】">劈</lem><rdg resp="Taisho" wit="【甲】">襞</rdg></app>裂屠膾。嗔目訶責苦楚治罪。善財
+<lb n="0930a22" ed="T"/>生疑。王斷事已執善財手入其宮。見不可思
+<lb n="0930a23" ed="T"/>議境界不可譬喻。語善財云。我知幻化法門。
+<lb n="0930a24" ed="T"/>化作眾生。而苦治之。以調一切。其見聞者發
+<lb n="0930a25" ed="T"/>菩提心。此豈非瞋法門。方便命婆羅門五熱
+<lb n="0930a26" ed="T"/>炙身即是癡法門如前說。次此應明別圓兩
+<lb n="0930a27" ed="T"/>觀觀三毒慈悲機感例可知。不具記。第三從
+<lb n="0930a28" ed="T"/>若有女人去。明身業為機亦為三。一<app type="star" corresp="#0929007"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文。
+<lb n="0930a29" ed="T"/>二引事證。三觀解。<app type="star" corresp="#0929007"><lem wit="【大】">貼</lem><rdg resp="Taisho" wit="【甲】">帖</rdg></app>文為二。一求願滿。二
+<pb n="0930b" xml:id="T34.1728.0930b" ed="T"/>
+<lb n="0930b01" ed="T"/>結歎求。又為二。一求男二求女。文云。女人求
+<lb n="0930b02" ed="T"/>男若是無子則絕嗣。有子則父母俱<note n="0930014" resp="Taisho" place="foot text" type="orig">欣＝𣢥【甲】＊</note><app n="0930014"><lem wit="【大】">欣</lem><rdg resp="Taisho" wit="【甲】">𣢥</rdg></app>。云何
+<lb n="0930b03" ed="T"/>獨標女人求男耶。解者或云。女厭女身非求
+<lb n="0930b04" ed="T"/>子也。又解女性多愛<app type="star" corresp="#0930014"><lem wit="【大】">欣</lem><rdg resp="Taisho" wit="【甲】">𣢥</rdg></app>子偏重故標女人。今
+<lb n="0930b05" ed="T"/>解女人以無子為苦。夫之所棄並婦所輕<note n="0930015" resp="Taisho" place="foot text" type="orig">旁＝傍【甲】</note><app n="0930015"><lem wit="【大】">旁</lem><rdg resp="Taisho" wit="【甲】">傍</rdg></app>
+<lb n="0930b06" ed="T"/>人所笑。又婦有七失。六猶可忍無子最劇。容
+<lb n="0930b07" ed="T"/>惡性妬不能事公姑貪食無子<note n="0930016" resp="Taisho" place="foot text" type="orig">拙＝柮【甲】</note><app n="0930016"><lem wit="【大】">拙</lem><rdg resp="Taisho" wit="【甲】">柮</rdg></app>。無子既苦
+<lb n="0930b08" ed="T"/>故以標女人求男也。<note n="0930017" resp="Taisho" place="foot text" type="orig">〔求男〕－【甲】</note><app n="0930017"><lem wit="【大】">求男</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>文為三。一立願。
+<lb n="0930b09" ed="T"/>二修行。三德業。願與行如文。德業者。明士有
+<lb n="0930b10" ed="T"/>百行智居其首。若但智而無福則位卑而財
+<lb n="0930b11" ed="T"/>貧觸途壈坎。智與福合彌相扶顯福則<note n="0930018" resp="Taisho" place="foot text" type="orig">〔財〕－【甲】</note><app n="0930018"><lem wit="【大】">財</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>位
+<lb n="0930b12" ed="T"/>高昇。慧則名聞博遠。故言便生福德智慧之
+<lb n="0930b13" ed="T"/>男也。求女文中但明願與德業不明修行者。
+<lb n="0930b14" ed="T"/>行同禮拜故不重論。願德既殊故須各<note n="0930019" resp="Taisho" place="foot text" type="orig">辯＝辨【甲】＊</note><app n="0930019"><lem wit="【大】">辯</lem><rdg resp="Taisho" wit="【甲】">辨</rdg></app>。女
+<lb n="0930b15" ed="T"/>人端正七德之初。但端正無相者或<note n="0930020" resp="Taisho" place="foot text" type="orig">早＝卑【甲】</note><app n="0930020"><lem wit="【大】">早</lem><rdg resp="Taisho" wit="【甲】">卑</rdg></app>孤少
+<lb n="0930b16" ed="T"/>寡相<note n="0930021" resp="Taisho" place="foot text" type="orig">祿＝貌【甲】</note><app n="0930021"><lem wit="【大】">祿</lem><rdg resp="Taisho" wit="【甲】">貌</rdg></app>不佳。今明貌與相相扶彌顯其德。端
+<lb n="0930b17" ed="T"/>正則招寵愛相則招於祿敬。故文云。眾人愛
+<lb n="0930b18" ed="T"/>敬。若愛帶慢何謂為德。愛而敬之故是相也。
+<lb n="0930b19" ed="T"/>有人解。宿<note n="0930022" resp="Taisho" place="foot text" type="orig">植＝殖【甲】＊</note><app n="0930022"><lem wit="【大】">植</lem><rdg resp="Taisho" wit="【甲】">殖</rdg></app>德本<note n="0930023" resp="Taisho" place="foot text" type="orig">是＋（足）【甲】</note><app n="0930023"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】">是足</rdg></app>釋疑。眾人<note n="0930024" resp="Taisho" place="foot text" type="orig">咸＝減【甲】</note><app n="0930024"><lem wit="【大】">咸</lem><rdg resp="Taisho" wit="【甲】">減</rdg></app>謂。觀
+<lb n="0930b20" ed="T"/>音<note n="0930025" resp="Taisho" place="foot text" type="orig">〔但〕－【甲】</note><app n="0930025"><lem wit="【大】">但</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>能交會父母智慧端正兒之宿<app type="star" corresp="#0930022"><lem wit="【大】">植</lem><rdg resp="Taisho" wit="【甲】">殖</rdg></app>。若
+<lb n="0930b21" ed="T"/>是觀音與其智慧端正。則墮無因之過。私難
+<lb n="0930b22" ed="T"/>此語。若言福慧是兒業。觀音唯能會其受生。
+<lb n="0930b23" ed="T"/>兒無生緣觀音會生。<note n="0930026" resp="Taisho" place="foot text" type="orig">〔兒〕－【甲】</note><app n="0930026"><lem wit="【大】">兒</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>無福慧觀音亦能使
+<lb n="0930b24" ed="T"/>有。觀音遂不能令無福。種福何<note n="0930027" resp="Taisho" place="foot text" type="orig">能＋（可）【甲】</note><app n="0930027"><lem wit="【大】">能</lem><rdg resp="Taisho" wit="【甲】">能可</rdg></app>使無生而
+<lb n="0930b25" ed="T"/>生。論福畏墮無因。論生何不畏墮無因。若爾。
+<lb n="0930b26" ed="T"/>聖人全不能與福慧。只能作媒人。此不可解
+<lb n="0930b27" ed="T"/>也。難觀音不能令兒有福慧者。上一人稱名
+<lb n="0930b28" ed="T"/>多人皆脫羅剎之難。此無因而不與彼。無機
+<lb n="0930b29" ed="T"/>那忽脫耶。今明聖力甚大無所不與。能使先
+<pb n="0930c" xml:id="T34.1728.0930c" ed="T"/>
+<lb n="0930c01" ed="T"/>世有福慧者託生也。縱令先世不<app type="star" corresp="#0930022"><lem wit="【大】">植</lem><rdg resp="Taisho" wit="【甲】">殖</rdg></app>善緣。亦
+<lb n="0930c02" ed="T"/>能令其於中陰中修福。此義出中陰經也。今
+<lb n="0930c03" ed="T"/>不取此句為釋疑之意。若有禮拜福不唐捐。
+<lb n="0930c04" ed="T"/>此結成身業之機。亦是釋疑之義。結義可解。
+<lb n="0930c05" ed="T"/>釋疑者若言禮拜願滿。自有禮拜不蒙願滿
+<lb n="0930c06" ed="T"/>者。何得云不唐捐。唐者言徒。捐者言棄。由心
+<lb n="0930c07" ed="T"/>不<note n="0930028" resp="Taisho" place="foot text" type="orig">志＝至【甲】</note><app n="0930028"><lem wit="【大】">志</lem><rdg resp="Taisho" wit="【甲】">至</rdg></app>即願未滿。禮拜之功冥資不失。此得
+<lb n="0930c08" ed="T"/>是釋疑也。</p><p xml:id="pT34p0930c0805" rend="inline">問。禮拜是身業機亦應脫水火等
+<lb n="0930c09" ed="T"/>難不。</p><p xml:id="pT34p0930c0903" rend="inline">答。此舉男女為言端<app type="star" corresp="#0929009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。次引事<anchor xml:id="fxT34p0930c03"/>證者。
+<lb n="0930c10" ed="T"/>應驗<note n="0930029" resp="Taisho" place="foot text" type="orig">傳＋（云）【甲】</note><app n="0930029"><lem wit="【大】">傳</lem><rdg resp="Taisho" wit="【甲】">傳云</rdg></app>有人<note n="0930030" resp="Taisho" place="foot text" type="orig">姓＝性【甲】</note><app n="0930030"><lem wit="【大】">姓</lem><rdg resp="Taisho" wit="【甲】">性</rdg></app>鬲。四月八日生月氏國癡
+<lb n="0930c11" ed="T"/>人。次觀解者。果報求男女者如阿含中。地獄
+<lb n="0930c12" ed="T"/><note n="0930031" resp="Taisho" place="foot text" type="orig">〔界〕－【甲】</note><app n="0930031"><lem wit="【大】">界</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>已上乃至欲天皆有無子之苦。禮拜求願
+<lb n="0930c13" ed="T"/>亦能滿心。次明修因論男女者。先<app type="star" corresp="#0930019"><lem wit="【大】">辯</lem><rdg resp="Taisho" wit="【甲】">辨</rdg></app>法門。
+<lb n="0930c14" ed="T"/>次明與願。法門者無明為父貪愛為母。六根
+<lb n="0930c15" ed="T"/>男六塵女。識為媒嫁生出無量煩惱之子孫。
+<lb n="0930c16" ed="T"/>此男女不勞願求任運成眷屬也。若外書以天
+<lb n="0930c17" ed="T"/>陽地陰沈動為男女。何況佛法而無此耶。若
+<lb n="0930c18" ed="T"/><note n="0930032" resp="Taisho" place="foot text" type="orig">就＋（內典）【甲】</note><app n="0930032"><lem wit="【大】">就</lem><rdg resp="Taisho" wit="【甲】">就內典</rdg></app>佛為國王經教為夫人。出生一切菩薩佛
+<lb n="0930c19" ed="T"/>子。又善權方便父。智度菩薩母。一切諸導師。
+<lb n="0930c20" ed="T"/>無不由是生。又慈悲為女善心為男。或禪定
+<lb n="0930c21" ed="T"/>靜細為女。觀慧分別為男。二乘定多慧少。菩
+<lb n="0930c22" ed="T"/>薩定少慧多。大經云。若聞大涅槃佛性之法。
+<lb n="0930c23" ed="T"/>當知是人有丈夫相。正觀剛決為男。無緣<note n="0930033" resp="Taisho" place="foot text" type="orig">〔慈〕－【甲】</note><app n="0930033"><lem wit="【大】">慈</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0930c24" ed="T"/>悲含覆一切為女。今借世間男女以表法門
+<lb n="0930c25" ed="T"/><app type="star" corresp="#0929009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。</p><p xml:id="pT34p0930c2502" rend="inline">問。那得以男女表法門。無男女故即無法
+<lb n="0930c26" ed="T"/>門。如大經<note n="0930034" resp="Taisho" place="foot text" type="orig">永＝水【甲】</note><app n="0930034"><lem wit="【大】">永</lem><rdg resp="Taisho" wit="【甲】">水</rdg></app>離十相名大涅槃。大論云。無
+<lb n="0930c27" ed="T"/>男女相故名無相。淨名云。一切諸法非男非
+<lb n="0930c28" ed="T"/>女。如佛所說亦非男非女。安樂行云。亦<note n="0930035" resp="Taisho" place="foot text" type="orig">〔不〕－【甲】</note><app n="0930035"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0930c29" ed="T"/>分別是男是女。入不二法門云。無聲聞心即
+<pb n="0931a" xml:id="T34.1728.0931a" ed="T"/>
+<lb n="0931a01" ed="T"/>無於定。無菩薩心即無於慧。小乘三藏緣諦
+<lb n="0931a02" ed="T"/>理。吾聞解脫之中無有言說。成論入空平等
+<lb n="0931a03" ed="T"/>亦無男女。男女既無所表安<note n="0931001" resp="Taisho" place="foot text" type="orig">在＝住【甲】</note><app n="0931001"><lem wit="【大】">在</lem><rdg resp="Taisho" wit="【甲】">住</rdg></app>。故知無定慧
+<lb n="0931a04" ed="T"/>法門也。</p><p xml:id="pT34p0931a0404" rend="inline">答。大乘實相不當有男女及無男女。
+<lb n="0931a05" ed="T"/>善巧方便以四悉檀說於有無。天<note n="0931002" resp="Taisho" place="foot text" type="orig">女＝如【甲】</note><app n="0931002"><lem wit="【大】">女</lem><rdg resp="Taisho" wit="【甲】">如</rdg></app>云。無離
+<lb n="0931a06" ed="T"/>文字說解脫義。文字性離即<note n="0931003" resp="Taisho" place="foot text" type="orig">〔是〕－【甲】</note><app n="0931003"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>解脫。皆以文
+<lb n="0931a07" ed="T"/>字有去來今。非謂菩提實相亦爾。非有非無
+<lb n="0931a08" ed="T"/>非二而二。明此二法未曾相離。譬如一身有
+<lb n="0931a09" ed="T"/>左右手。定慧亦爾。定靜慧照。雖復二分。不離
+<lb n="0931a10" ed="T"/>法性。言定即有慧。言慧即有定。譬如女人而
+<lb n="0931a11" ed="T"/>有<note n="0931004" resp="Taisho" place="foot text" type="orig">左＝右【甲】</note><app n="0931004"><lem wit="【大】">左</lem><rdg resp="Taisho" wit="【甲】">右</rdg></app>手。亦如男子而有<note n="0931005" resp="Taisho" place="foot text" type="orig">右＝左【甲】</note><app n="0931005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【甲】">左</rdg></app>手。定<note n="0931006" resp="Taisho" place="foot text" type="orig">〔慧〕－【甲】</note><app n="0931006"><lem wit="【大】">慧</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>亦爾。
+<lb n="0931a12" ed="T"/>無緣之慈具正觀慧而以定當名。中道種智。
+<lb n="0931a13" ed="T"/>具大慈定以智標目。何但理然今文亦爾。文
+<lb n="0931a14" ed="T"/>云。便生福德智慧之男。此語自具二法門何
+<lb n="0931a15" ed="T"/>勞有疑而稱男子也。文云。便生端正有相之
+<lb n="0931a16" ed="T"/>女。端正無邪醜表中道正觀。離二邊<note n="0931007" resp="Taisho" place="foot text" type="orig">之醜＝曲【甲】</note><app n="0931007"><lem wit="【大】">之醜</lem><rdg resp="Taisho" wit="【甲】">曲</rdg></app>。
+<lb n="0931a17" ed="T"/>即慧義也。相即三十二相慈心所種。<note n="0931008" resp="Taisho" place="foot text" type="orig">〔即〕－【甲】</note><app n="0931008"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>表
+<lb n="0931a18" ed="T"/>定義也。雖具<note n="0931009" resp="Taisho" place="foot text" type="orig">二＋（義）【甲】</note><app n="0931009"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】">二義</rdg></app>而名<note n="0931010" resp="Taisho" place="foot text" type="orig">女＋（也）【甲】</note><app n="0931010"><lem wit="【大】">女</lem><rdg resp="Taisho" wit="【甲】">女也</rdg></app>。故知此文若作男
+<lb n="0931a19" ed="T"/>女二解。即表定慧不二而二。<note n="0931011" resp="Taisho" place="foot text" type="orig">〔若作不二…不二〕十三字－【甲】</note><app cb:word-count="13" n="0931011"><lem wit="【大】">若作不二解。
+<lb n="0931a20" ed="T"/>即表定慧二而不二</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。理實非二非不二。赴緣
+<lb n="0931a21" ed="T"/>為二為不二。即是表二法門文義斯在。次明
+<lb n="0931a22" ed="T"/>應機滿願者。果報滿願如前說。修因者。若就
+<lb n="0931a23" ed="T"/>修五戒<note n="0931012" resp="Taisho" place="foot text" type="orig">事＝而【甲】</note><app n="0931012"><lem wit="【大】">事</lem><rdg resp="Taisho" wit="【甲】">而</rdg></app>論。不殺是仁不盜是廉。屬女表定
+<lb n="0931a24" ed="T"/>法。不<note n="0931013" resp="Taisho" place="foot text" type="orig">妄＝忘【甲】</note><app n="0931013"><lem wit="【大】">妄</lem><rdg resp="Taisho" wit="【甲】">忘</rdg></app>語是質直不婬是<note n="0931014" resp="Taisho" place="foot text" type="orig">貞＝真【甲】</note><app n="0931014"><lem wit="【大】">貞</lem><rdg resp="Taisho" wit="【甲】">真</rdg></app>良不飲酒是
+<lb n="0931a25" ed="T"/>離邪昏。此屬男表慧法。若不得此五戒男女。
+<lb n="0931a26" ed="T"/>則失人天道。孤獨墮在三途。歸命求救五戒
+<lb n="0931a27" ed="T"/>完全即男女願滿。十善例<note n="0931015" resp="Taisho" place="foot text" type="orig">可＝不【甲】</note><app n="0931015"><lem wit="【大】">可</lem><rdg resp="Taisho" wit="【甲】">不</rdg></app>知。修禪時。方
+<lb n="0931a28" ed="T"/>便修慧精進等三方便為男。念一心為女。若
+<lb n="0931a29" ed="T"/>就支林。覺觀喜為男。樂一心為女。乃至非想
+<pb n="0931b" xml:id="T34.1728.0931b" ed="T"/>
+<lb n="0931b01" ed="T"/>禪禪中細作可解。次明聲聞男女者。五停心
+<lb n="0931b02" ed="T"/>觀。治瞋用慈治散用數。此二為女。治貪用不
+<lb n="0931b03" ed="T"/>淨。治癡用因緣。治障道用念佛。此三屬男。又
+<lb n="0931b04" ed="T"/>直緣諦理正智決斷名為男。出觀用法緣慈
+<lb n="0931b05" ed="T"/>為女。若不得此兩法。即當墮落凡夫。為火宅
+<lb n="0931b06" ed="T"/>燒<note n="0931016" resp="Taisho" place="foot text" type="orig">〔害〕－【甲】</note><app n="0931016"><lem wit="【大】">害</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>貧窮孤<note n="0931017" resp="Taisho" place="foot text" type="orig">露＝霑【甲】</note><app n="0931017"><lem wit="【大】">露</lem><rdg resp="Taisho" wit="【甲】">霑</rdg></app>。若蒙垂應五停心男女生
+<lb n="0931b07" ed="T"/>即得入真。出觀男女生得入假。二義既滿則
+<lb n="0931b08" ed="T"/>不復畏二十五有也。次支佛者。緣方便道起
+<lb n="0931b09" ed="T"/><note n="0931018" resp="Taisho" place="foot text" type="orig">慈＋（悲）【甲】</note><app n="0931018"><lem wit="【大】">慈</lem><rdg resp="Taisho" wit="【甲】">慈悲</rdg></app>觀名女。慧觀為男。若發真緣理名男。出
+<lb n="0931b10" ed="T"/>觀緣慈名女。支佛譬鹿猶有迴顧之慈也。若
+<lb n="0931b11" ed="T"/>不得如此定慧。何由速出殷勤求法。若得願
+<lb n="0931b12" ed="T"/>滿坦然快樂。次明六度菩薩。菩薩有慈悲不
+<lb n="0931b13" ed="T"/>斷惑在生死利物名女。<note n="0931019" resp="Taisho" place="foot text" type="orig">〔行〕－【甲】</note><app n="0931019"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>六度方便智慧名
+<lb n="0931b14" ed="T"/>男。女人法應生子。慈悲法應受生死化物。化
+<lb n="0931b15" ed="T"/>於前人善心開發。即是生子義。前人生五度
+<lb n="0931b16" ed="T"/>者是生女。前人生智慧是生男。若定慧義不
+<lb n="0931b17" ed="T"/>成。則菩薩行不立。故求觀音而獲願滿。次
+<lb n="0931b18" ed="T"/><note n="0931020" resp="Taisho" place="foot text" type="orig">通＋（教）【甲】</note><app n="0931020"><lem wit="【大】">通</lem><rdg resp="Taisho" wit="【甲】">通教</rdg></app>菩薩。既斷煩惱則有智斷緣諦理之慧為
+<lb n="0931b19" ed="T"/>男。慈悲扶餘習入三界名女。何以故。如男法
+<lb n="0931b20" ed="T"/>不生表智慧決斷斷<note n="0931021" resp="Taisho" place="foot text" type="orig">〔於〕－【甲】</note><app n="0931021"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>煩惱。不生三界而今
+<lb n="0931b21" ed="T"/>還生者。乃是慈扶餘習故得更生。稱之為女。
+<lb n="0931b22" ed="T"/>求願觀音蒙此願滿。次明別教十信菩薩。修
+<lb n="0931b23" ed="T"/>福德莊嚴五波羅<note n="0931022" resp="Taisho" place="foot text" type="orig">蜜＝密【甲】</note><app n="0931022"><lem wit="【大】">蜜</lem><rdg resp="Taisho" wit="【甲】">密</rdg></app>為女。從一地二地智慧
+<lb n="0931b24" ed="T"/>莊嚴為男。三十心名男女交處聖胎。初地中
+<lb n="0931b25" ed="T"/>道正智開發名為男生。無緣慈心發名為女
+<lb n="0931b26" ed="T"/>生。此兩要在初地方得開發。亦名男女雙生。
+<lb n="0931b27" ed="T"/>若不如此即墮二乘生死兩邊之過。生此男
+<lb n="0931b28" ed="T"/>女者生大歡喜故稱歡喜地。慈悲被物物荷
+<lb n="0931b29" ed="T"/>恩故稱為大慈大悲。大慈大悲能成佛道生
+<pb n="0931c" xml:id="T34.1728.0931c" ed="T"/>
+<lb n="0931c01" ed="T"/>出般若。是諸佛之祖母故稱為大女。十力無
+<lb n="0931c02" ed="T"/>畏等眾生不知故不名為大也。次圓教以無
+<lb n="0931c03" ed="T"/>緣慈悲種三十二相業<note n="0931023" resp="Taisho" place="foot text" type="orig">〔亦〕－【甲】</note><app n="0931023"><lem wit="【大】">亦</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>名為女。此女端正
+<lb n="0931c04" ed="T"/>有相以中道智慧為男。此男質直福德。十信
+<lb n="0931c05" ed="T"/>六根清淨名為處胎。初住慈智男女雙生。若
+<lb n="0931c06" ed="T"/>得此男不畏愛見大悲順道法愛。亦不畏無
+<lb n="0931c07" ed="T"/>慧方便縛無方便慧縛。方便與慧俱解者。即
+<lb n="0931c08" ed="T"/>男女具足<note n="0931024" resp="Taisho" place="foot text" type="orig">二＋（俱）【甲】</note><app n="0931024"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】">二俱</rdg></app>求願滿也。變易兩番可解。</p><p xml:id="pT34p0931c0816" rend="inline">復次
+<lb n="0931c09" ed="T"/>從五戒十善齊第六天<note n="0931025" resp="Taisho" place="foot text" type="orig">已＝以【甲】</note><app n="0931025"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【甲】">以</rdg></app>來皆無禪定。<note n="0931026" resp="Taisho" place="foot text" type="orig">〔番番〕－【甲】</note><app n="0931026"><lem wit="【大】">番番</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0931c10" ed="T"/>悉是散心慧法<note n="0931027" resp="Taisho" place="foot text" type="orig">狂＝妊【甲】</note><app n="0931027"><lem wit="【大】">狂</lem><rdg resp="Taisho" wit="【甲】">妊</rdg></app>男子也。但慧無定四禪有
+<lb n="0931c11" ed="T"/>支林一心名為男女福慧備也。從三界定慧
+<lb n="0931c12" ed="T"/>男女。男無破惑之功。女無生出無漏之力。此
+<lb n="0931c13" ed="T"/>無用之男女。從二乘通教等。慧有斷惑之用。
+<lb n="0931c14" ed="T"/>則是幹事之男。女有發生<note n="0931028" resp="Taisho" place="foot text" type="orig">〔無〕－【甲】</note><app n="0931028"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>漏紹繼之德也。
+<lb n="0931c15" ed="T"/>從二乘通教所有定慧不能破無明見佛性雖
+<lb n="0931c16" ed="T"/>男而女。定則不能懷於中道之子猶如石女。
+<lb n="0931c17" ed="T"/>雖女而男。故大經云。二乘之人定多慧少不
+<lb n="0931c18" ed="T"/>見佛性。通教菩薩之人慧多定少亦不見佛
+<lb n="0931c19" ed="T"/>性。自此之前我等皆名邪見人也。唯有別教
+<lb n="0931c20" ed="T"/>登地真明慧發無緣慈成。此乃名為真正男
+<lb n="0931c21" ed="T"/>女。圓教初住見中道時。定慧具足男女相滿。
+<lb n="0931c22" ed="T"/>方稱經文男則福德女則端正。故知借事表
+<lb n="0931c23" ed="T"/>法。何得作媒嫁解觀音耶。第三從是故眾生
+<lb n="0931c24" ed="T"/>去。是勸受持也。即為三。一勸持。二格量。三
+<lb n="0931c25" ed="T"/>結勸。持者上說觀音得名因緣其力廣大。既
+<lb n="0931c26" ed="T"/>不<note n="0931029" resp="Taisho" place="foot text" type="orig">辯＝辨【甲】</note><app n="0931029"><lem wit="【大】">辯</lem><rdg resp="Taisho" wit="【甲】">辨</rdg></app>形質相對正述名論德。若欲歸崇宜奉
+<lb n="0931c27" ed="T"/>持名號。故舉持名為勸也。二格量為四。一格
+<lb n="0931c28" ed="T"/>量本。二問。三答。四正格量。格量本者舉三
+<lb n="0931c29" ed="T"/>多。六十二億舉福田多。盡形壽舉時節多。四
+<pb n="0932a" xml:id="T34.1728.0932a" ed="T"/>
+<lb n="0932a01" ed="T"/>事具足舉種子多。舊但三意今持名號多。凡
+<lb n="0932a02" ed="T"/>舉四多為格量本也。次問答如文。次正格量
+<lb n="0932a03" ed="T"/>者。還舉四少以格四多也。功德正等持名少
+<lb n="0932a04" ed="T"/>田少時少種子少。</p><p xml:id="pT34p0932a0408" rend="inline">問。何意以少敵多。</p><p xml:id="pT34p0932a0415" rend="inline">答。佛眼
+<lb n="0932a05" ed="T"/>稱量不增不減。四多重倍功德正齊如此。格
+<lb n="0932a06" ed="T"/>量秋毫無謬。</p><p xml:id="pT34p0932a0606" rend="inline">問。何意等。</p><p xml:id="pT34p0932a0610" rend="inline">舊解有五。一云其福
+<lb n="0932a07" ed="T"/>實殊引物<note n="0932001" resp="Taisho" place="foot text" type="orig">論＝言【甲】</note><app n="0932001"><lem wit="【大】">論</lem><rdg resp="Taisho" wit="【甲】">言</rdg></app>等。此解乃是虛談。觀音遂無實
+<lb n="0932a08" ed="T"/>德可貴也。二云田有高下薄<note n="0932002" resp="Taisho" place="foot text" type="orig">瘠＝原【甲】</note><app n="0932002"><lem wit="【大】">瘠</lem><rdg resp="Taisho" wit="【甲】">原</rdg></app>所致。如供養
+<lb n="0932a09" ed="T"/>百初果不如一二果乃至無學。此亦非歎德之
+<lb n="0932a10" ed="T"/>意。乃是以下比高法應<note n="0932003" resp="Taisho" place="foot text" type="orig">優＝憂【甲】</note><app n="0932003"><lem wit="【大】">優</lem><rdg resp="Taisho" wit="【甲】">憂</rdg></app>劣<app type="star" corresp="#0929009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。三心有濃
+<lb n="0932a11" ed="T"/>淡故令福不等。四時得解不得解。此二釋皆
+<lb n="0932a12" ed="T"/>是前人心力致福。何<note n="0932004" resp="Taisho" place="foot text" type="orig">關＝開【甲】</note><app n="0932004"><lem wit="【大】">關</lem><rdg resp="Taisho" wit="【甲】">開</rdg></app>觀音德高也。五有緣
+<lb n="0932a13" ed="T"/>無緣者。如供毀路人罪福淺。供毀父母罪福
+<lb n="0932a14" ed="T"/>深也。今明一多性不可得無有二相。一則非
+<lb n="0932a15" ed="T"/>一多<note n="0932005" resp="Taisho" place="foot text" type="orig">則＝亦【甲】</note><app n="0932005"><lem wit="【大】">則</lem><rdg resp="Taisho" wit="【甲】">亦</rdg></app>非多。同入如實際實際正等無異。一
+<lb n="0932a16" ed="T"/>中解無量故說六十二億。無量中解一故說
+<lb n="0932a17" ed="T"/>觀音展轉生非<note n="0932006" resp="Taisho" place="foot text" type="orig">實＋（非實者）【甲】</note><app n="0932006"><lem wit="【大】">實</lem><rdg resp="Taisho" wit="【甲】">實非實者</rdg></app>者。則是一無一實一從無
+<lb n="0932a18" ed="T"/>量生故。多無多實多從一生故其理正均。故
+<lb n="0932a19" ed="T"/>言不異智者。無所畏者照其事理既明不生
+<lb n="0932a20" ed="T"/>疑畏。故言正等也。法華論云。畢竟決定知法
+<lb n="0932a21" ed="T"/>故。法即法性真如法身。是故六十二億佛名
+<lb n="0932a22" ed="T"/>與觀音名功德無差別也。又約觀解者。二觀
+<lb n="0932a23" ed="T"/>發中道二觀實不等而言等者。以中道等故。
+<lb n="0932a24" ed="T"/>故言為等。如<note n="0932007" resp="Taisho" place="foot text" type="orig">乞＝是【甲】</note><app n="0932007"><lem wit="【大】">乞</lem><rdg resp="Taisho" wit="【甲】">是</rdg></app>人等彼難勝如來故言等也。
+<lb n="0932a25" ed="T"/>三結成一時稱名福不可盡。大品云。一華散
+<lb n="0932a26" ed="T"/>空乃至畢苦其福不盡。如文第二問答。從無
+<lb n="0932a27" ed="T"/>盡意白佛言云何遊娑婆下前。</p><p xml:id="pT34p0932a2713" rend="inline">問。何緣得名
+<lb n="0932a28" ed="T"/>佛。</p><p xml:id="pT34p0932a2802" rend="inline">答。眾生三業顯機為境法身靈智冥應。境
+<lb n="0932a29" ed="T"/>智因緣名觀世音。此義已竟。今問。云何遊此
+<pb n="0932b" xml:id="T34.1728.0932b" ed="T"/>
+<lb n="0932b01" ed="T"/>娑婆世界。佛答以普門示現。三業顯應應眾
+<lb n="0932b02" ed="T"/>生<note n="0932008" resp="Taisho" place="foot text" type="orig">〔冥〕－【甲】</note><app n="0932008"><lem wit="【大】">冥</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>機等十義。一問二答。問即為三。一云
+<lb n="0932b03" ed="T"/>何遊是問身業。云何說是問口業。方便是問
+<lb n="0932b04" ed="T"/>意業。此是聖人三業無謀而遍應一切。亦名
+<lb n="0932b05" ed="T"/>三不失三輪不思議化也。亦名三不護。三不
+<lb n="0932b06" ed="T"/>護者。明觀音住不思議圓普法門。實不作意
+<lb n="0932b07" ed="T"/>計校籌量。次第經營方施此應。<note n="0932009" resp="Taisho" place="foot text" type="orig">既＝即【甲】</note><app n="0932009"><lem wit="【大】">既</lem><rdg resp="Taisho" wit="【甲】">即</rdg></app>無分別
+<lb n="0932b08" ed="T"/>亦無前後。任運成就譬如明鏡隨對即現一
+<lb n="0932b09" ed="T"/>時等應。故言三業不護也。三無失者。眾生根
+<lb n="0932b10" ed="T"/>機不同深淺有異。觀音雖不作念逗機。逗機
+<lb n="0932b11" ed="T"/>無失契當前人。冥會事理故言不失。三輪不
+<lb n="0932b12" ed="T"/>思議化者。若<note n="0932010" resp="Taisho" place="foot text" type="orig">示＝亦【甲】</note><app n="0932010"><lem wit="【大】">示</lem><rdg resp="Taisho" wit="【甲】">亦</rdg></app>為佛身亦示佛心佛口。乃至
+<lb n="0932b13" ed="T"/>示執金剛神身。亦示金剛心口。雖普現色身
+<lb n="0932b14" ed="T"/>屈曲利物。於法身智慧無所損減淨名云。善
+<lb n="0932b15" ed="T"/>能分別諸法相。於第一義而不動。不動而動。
+<lb n="0932b16" ed="T"/>此乃不思義化故也。</p><p xml:id="pT34p0932b1609" rend="inline">問。意業云何可示。</p><p xml:id="pT34p0932b1616" rend="inline">答。聖
+<lb n="0932b17" ed="T"/>意無能測者。若欲示之。乃至昆蟲亦能得知
+<lb n="0932b18" ed="T"/>也。佛答為三。一別答。二總答。三勸供養。初
+<lb n="0932b19" ed="T"/>別答還答三問。應以之言是答其方便之力
+<lb n="0932b20" ed="T"/>意業問也。何以故。意地觀機見其所宜。宜示
+<lb n="0932b21" ed="T"/>何身宜說何法。隨而化之。故知應以是答意
+<lb n="0932b22" ed="T"/>也。現身<note n="0932011" resp="Taisho" place="foot text" type="orig">〔是〕－【甲】</note><app n="0932011"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>答身業。說法是答口業。故知具
+<lb n="0932b23" ed="T"/>答三問也。又但作二答兼得於三。<note n="0932012" resp="Taisho" place="foot text" type="orig">論＝輪【甲】</note><app n="0932012"><lem wit="【大】">論</lem><rdg resp="Taisho" wit="【甲】">輪</rdg></app>其現
+<lb n="0932b24" ed="T"/>身不止色陰而已。必具五陰。即兼答意也。口
+<lb n="0932b25" ed="T"/>亦依身即兼答口。若說法者不止如樹木無
+<lb n="0932b26" ed="T"/>心。欲知智在說巧運四悉檀方便。即兼口以
+<lb n="0932b27" ed="T"/>答意也。二釋俱明答三問也。從別答中凡現
+<lb n="0932b28" ed="T"/>三十三身十九說法。束為十界身。而文闕二
+<lb n="0932b29" ed="T"/>界者。<note n="0932013" resp="Taisho" place="foot text" type="orig">〔或〕－【甲】</note><app n="0932013"><lem wit="【大】">或</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>指上品云菩薩身。或<note n="0932014" resp="Taisho" place="foot text" type="orig">翻＝言翻者【甲】</note><app n="0932014"><lem wit="【大】">翻</lem><rdg resp="Taisho" wit="【甲】">言翻者</rdg></app>脫落或依
+<pb n="0932c" xml:id="T34.1728.0932c" ed="T"/>
+<lb n="0932c01" ed="T"/>古本正法華文。或言觀音即是菩薩身。何須
+<lb n="0932c02" ed="T"/>更現若三解皆有難今所不用。今依古本為
+<lb n="0932c03" ed="T"/>明菩薩義故。然菩薩一界或權或實。種種應
+<lb n="0932c04" ed="T"/>化義不可闕。故釋菩薩界也。又無地獄界身
+<lb n="0932c05" ed="T"/>者。或指上品或言苦重不可度。或言其形破
+<lb n="0932c06" ed="T"/>壞人見驚畏故不現。今明別釋雖無總。答中
+<lb n="0932c07" ed="T"/>有文云以種種形遊諸國土。何得言無耶。又
+<lb n="0932c08" ed="T"/>請觀音云。或遊戲地獄大悲代受苦。或言止
+<lb n="0932c09" ed="T"/>代受苦不論說法。若依方等婆<note n="0932015" resp="Taisho" place="foot text" type="orig">藪＝蘇【甲】</note><app n="0932015"><lem wit="【大】">藪</lem><rdg resp="Taisho" wit="【甲】">蘇</rdg></app>教化即有
+<lb n="0932c10" ed="T"/>說法。釋論云。菩薩化地獄多作佛身。獄卒見
+<lb n="0932c11" ed="T"/>不敢遮。以此而<note n="0932016" resp="Taisho" place="foot text" type="orig">推＝椎【甲】</note><app n="0932016"><lem wit="【大】">推</lem><rdg resp="Taisho" wit="【甲】">椎</rdg></app>。應有地獄界身說法也。
+<lb n="0932c12" ed="T"/>若爾。十法界身則為具足。今通約十身四句
+<lb n="0932c13" ed="T"/>料簡。自有一界身度一界。自有十界身度十
+<lb n="0932c14" ed="T"/>界。自有一界身度十界。<note n="0932017" resp="Taisho" place="foot text" type="orig">〔自有〕－【甲】</note><app n="0932017"><lem wit="【大】">自有</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>十界身度一界
+<lb n="0932c15" ed="T"/>也。若妙覺法身應實報土。為舍那佛受化之
+<lb n="0932c16" ed="T"/>人。純諸菩薩皆求佛道更無異身。此一界度
+<lb n="0932c17" ed="T"/>一界也。若方便有餘土五人同生皆求大乘。
+<lb n="0932c18" ed="T"/>上文云。而於彼土求佛智慧於此土為佛。亦
+<lb n="0932c19" ed="T"/>是一界度一界也。若同居土寂滅道場。初成
+<lb n="0932c20" ed="T"/>佛先開頓說。稟教之徒皆有見思煩惱之人。
+<lb n="0932c21" ed="T"/><note n="0932018" resp="Taisho" place="foot text" type="orig">而＋（人）【甲】</note><app n="0932018"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【甲】">而人</rdg></app>是圓機同感佛身。亦得是一界身度一界
+<lb n="0932c22" ed="T"/>也。若寂滅道場稟教之徒諸界不同。或人或
+<lb n="0932c23" ed="T"/>天龍神鬼等。又根性圓別兩異。雖諸界不同
+<lb n="0932c24" ed="T"/>同見一佛身而為說法者。即是一界度多界
+<lb n="0932c25" ed="T"/>也。若有一界之<note n="0932019" resp="Taisho" place="foot text" type="orig">機＝身【甲】</note><app n="0932019"><lem wit="【大】">機</lem><rdg resp="Taisho" wit="【甲】">身</rdg></app>但見一界身現則不得度。
+<lb n="0932c26" ed="T"/>則示種種之身眷屬圍繞。共逗一緣。是名多
+<lb n="0932c27" ed="T"/>界身度一界也。若佛身菩薩<note n="0932020" resp="Taisho" place="foot text" type="orig">身＋（度）【甲】</note><app n="0932020"><lem wit="【大】">身</lem><rdg resp="Taisho" wit="【甲】">身度</rdg></app>遍作十法界
+<lb n="0932c28" ed="T"/>身。遍入諸道各令得見。同其形像而為說法。
+<lb n="0932c29" ed="T"/>此是多界度多界。用此四句。歷五味<note n="0932021" resp="Taisho" place="foot text" type="orig">〔五〕－【甲】</note><app n="0932021"><lem wit="【大】">五</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>時現
+<pb n="0933a" xml:id="T34.1728.0933a" ed="T"/>
+<lb n="0933a01" ed="T"/>身皆如此。</p><p xml:id="pT34p0933a0105" rend="inline">復次約說法多少者。如善財從百
+<lb n="0933a02" ed="T"/>一十知識<note n="0933001" resp="Taisho" place="foot text" type="orig">聞＝問【甲】</note><app n="0933001"><lem wit="【大】">聞</lem><rdg resp="Taisho" wit="【甲】">問</rdg></app>諸法門。<note n="0933002" resp="Taisho" place="foot text" type="orig">則＋（多人）【甲】</note><app n="0933002"><lem wit="【大】">則</lem><rdg resp="Taisho" wit="【甲】">則多人</rdg></app>多法為一人說。如
+<lb n="0933a03" ed="T"/>淨名云。為聲聞說四諦。為緣覺說十二因緣。
+<lb n="0933a04" ed="T"/>乃至為梵王說勝慧。為帝釋說無常。一人用
+<lb n="0933a05" ed="T"/>一法為一人說。若如通教說般若三乘人同
+<lb n="0933a06" ed="T"/>稟。此則一法為多人說也。若是一切無礙人
+<lb n="0933a07" ed="T"/>一道出生死開佛知見。此則多法為多人說。
+<lb n="0933a08" ed="T"/>復次因果相對明多少者。五戒十善因少果
+<lb n="0933a09" ed="T"/>亦少。聲聞五停心煖頂等入二涅槃此因多
+<lb n="0933a10" ed="T"/>果少。支佛見<note n="0933003" resp="Taisho" place="foot text" type="orig">花飛＝飛華【甲】</note><app n="0933003"><lem wit="【大】">花飛</lem><rdg resp="Taisho" wit="【甲】">飛華</rdg></app>葉落即得道此因少果多。
+<lb n="0933a11" ed="T"/>諸菩薩萬行成就萬德果圓因多果亦多。觀
+<lb n="0933a12" ed="T"/>音明了眾生根之所趣。或示現身多少。或說
+<lb n="0933a13" ed="T"/>法多少。或修因多少。或證果多少。逗彼機宜
+<lb n="0933a14" ed="T"/>必無有差。有人云。現因身說果法。現果身說
+<lb n="0933a15" ed="T"/>因法現一身說多法。現多身說一法。或現身
+<lb n="0933a16" ed="T"/>而無說。此比十法界機<note n="0933004" resp="Taisho" place="foot text" type="orig">狹＝校【甲】</note><app n="0933004"><lem wit="【大】">狹</lem><rdg resp="Taisho" wit="【甲】">校</rdg></app>。舊釋三十三身為
+<lb n="0933a17" ed="T"/>三。初三<note n="0933005" resp="Taisho" place="foot text" type="orig">乘＋（聖）【甲】</note><app n="0933005"><lem wit="【大】">乘</lem><rdg resp="Taisho" wit="【甲】">乘聖</rdg></app>人。二四眾。三八部。各有<note n="0933006" resp="Taisho" place="foot text" type="orig">枝末＝支未【甲】</note><app n="0933006"><lem wit="【大】">枝末</lem><rdg resp="Taisho" wit="【甲】">支未</rdg></app>以
+<lb n="0933a18" ed="T"/>人天為聖<note n="0933007" resp="Taisho" place="foot text" type="orig">末＝未【甲】＊</note><app n="0933007"><lem wit="【大】">末</lem><rdg resp="Taisho" wit="【甲】">未</rdg></app>。以其是受道器故。童男<note n="0933008" resp="Taisho" place="foot text" type="orig">〔童〕－【甲】</note><app n="0933008"><lem wit="【大】">童</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>女
+<lb n="0933a19" ed="T"/>為四眾<note n="0933009" resp="Taisho" place="foot text" type="orig">未＝末【甲】</note><app n="0933009"><lem wit="【大】">未</lem><rdg resp="Taisho" wit="【甲】">末</rdg></app>。可成四眾故。執金剛為八部<app type="star" corresp="#0933007"><lem wit="【大】">末</lem><rdg resp="Taisho" wit="【甲】">未</rdg></app>。
+<lb n="0933a20" ed="T"/>同有大力故。若爾。執金剛<note n="0933010" resp="Taisho" place="foot text" type="orig">力大＝本【甲】</note><app n="0933010"><lem wit="【大】">力大</lem><rdg resp="Taisho" wit="【甲】">本</rdg></app>何意為<app type="star" corresp="#0933007"><lem wit="【大】">末</lem><rdg resp="Taisho" wit="【甲】">未</rdg></app>。
+<lb n="0933a21" ed="T"/>答此最在後為掩<note n="0933011" resp="Taisho" place="foot text" type="orig">跡＝蹄【甲】</note><app n="0933011"><lem wit="【大】">跡</lem><rdg resp="Taisho" wit="【甲】">蹄</rdg></app>故也。今明三十三身文
+<lb n="0933a22" ed="T"/>為八番。一聖身。二天身。三人身。四四眾身。
+<lb n="0933a23" ed="T"/>五婦女身。六童男女身。七八部身。八金剛身。
+<lb n="0933a24" ed="T"/>明其次第出自人意<app type="star" corresp="#0929009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。一明聖人先明佛者。
+<lb n="0933a25" ed="T"/>為是應佛為是化佛。但聖人逗物具有二義。
+<lb n="0933a26" ed="T"/>若一時欻<note n="0933012" resp="Taisho" place="foot text" type="orig">有＋（名）【甲】</note><app n="0933012"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【甲】">有名</rdg></app>為化。應同始終<note n="0933013" resp="Taisho" place="foot text" type="orig">名＋（為）【甲】</note><app n="0933013"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【甲】">名為</rdg></app>應。若尋此
+<lb n="0933a27" ed="T"/>文明於應義也。</p><p xml:id="pT34p0933a2707" rend="inline">問。何不以真佛為眾生說法
+<lb n="0933a28" ed="T"/>而以應耶。</p><p xml:id="pT34p0933a2805" rend="inline">答。佛身多種。若應化非真佛。亦非
+<lb n="0933a29" ed="T"/>說法人。真佛者<note n="0933014" resp="Taisho" place="foot text" type="orig">〔據〕－【甲】</note><app n="0933014"><lem wit="【大】">據</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>妙覺法身究竟極地毘盧
+<pb n="0933b" xml:id="T34.1728.0933b" ed="T"/>
+<lb n="0933b01" ed="T"/>遮那乃名真佛。真佛淵遠不可說示。云何能
+<lb n="0933b02" ed="T"/>解。如妙音所作文殊不知。況下地凡夫為示
+<lb n="0933b03" ed="T"/>真身耶。如為牛羊彈琴不如作蚊虻之聲。若
+<lb n="0933b04" ed="T"/>從妙覺應。為實報圓滿相好光明無量。同四
+<lb n="0933b05" ed="T"/>十一地實報土眾生。為說一實諦正真之法
+<lb n="0933b06" ed="T"/>而教化之。如此之應非餘界所堪也。何以故。
+<lb n="0933b07" ed="T"/>此等諸地已分入地位。不可以餘界身應。亦
+<lb n="0933b08" ed="T"/>不得以餘佛身應。如此應者唯應彼土。非餘
+<lb n="0933b09" ed="T"/>土所堪也。</p><p xml:id="pT34p0933b0905" rend="inline">復次變易土明應佛者。小乘經云。
+<lb n="0933b10" ed="T"/>三界外無生大乘五種意生身<note n="0933015" resp="Taisho" place="foot text" type="orig">〔方〕－【甲】</note><app n="0933015"><lem wit="【大】">方</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>生方便土。
+<lb n="0933b11" ed="T"/>此即三界外受生生變易土也。釋論云。法性
+<lb n="0933b12" ed="T"/>身菩薩生三界外。既有生寧無應佛。法華云。
+<lb n="0933b13" ed="T"/>我於餘國作佛更有異名。即是此義也。<note n="0933016" resp="Taisho" place="foot text" type="orig">此應＝應此【甲】</note><app n="0933016"><lem wit="【大】">此
+<lb n="0933b14" ed="T"/>應</lem><rdg resp="Taisho" wit="【甲】">應此</rdg></app>佛即有兩相。一示勝應身。圓滿相海如前
+<lb n="0933b15" ed="T"/>實報之應。二示劣應。令見者劣於前。但為二
+<lb n="0933b16" ed="T"/>佛更不示為種種諸身。何故<note n="0933017" resp="Taisho" place="foot text" type="orig">爾＋（示）【甲】</note><app n="0933017"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">爾示</rdg></app>。五種意<note n="0933018" resp="Taisho" place="foot text" type="orig">生＋（身）【甲】</note><app n="0933018"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】">生身</rdg></app>
+<lb n="0933b17" ed="T"/>利鈍之別。赴此根性故示二身。但說次第不
+<lb n="0933b18" ed="T"/>次第兩種大乘。故不須餘身餘法化也。若圓
+<lb n="0933b19" ed="T"/>人無明未破及已分破。別人於回向中及分
+<lb n="0933b20" ed="T"/>破無明者。此人生於彼<note n="0933019" resp="Taisho" place="foot text" type="orig">土＝上【甲】</note><app n="0933019"><lem wit="【大】">土</lem><rdg resp="Taisho" wit="【甲】">上</rdg></app>則利。別人未修未
+<lb n="0933b21" ed="T"/>破。及通教斷惑者。三藏中斷惑者。生彼皆鈍
+<lb n="0933b22" ed="T"/>也。凡聖同居土明應佛者。土有二種。一淨二
+<lb n="0933b23" ed="T"/>穢。如富樓那土西方等土。其中眾生具三毒
+<lb n="0933b24" ed="T"/>見思。無三惡名果報嚴淨。此名淨土。如此娑
+<lb n="0933b25" ed="T"/>婆三惡四趣荊棘<note n="0933020" resp="Taisho" place="foot text" type="orig">丘＝坵【甲】</note><app n="0933020"><lem wit="【大】">丘</lem><rdg resp="Taisho" wit="【甲】">坵</rdg></app>墟。是名穢土。若淨若穢
+<lb n="0933b26" ed="T"/>皆是凡聖同居土也。二土眾生各有二種。根
+<lb n="0933b27" ed="T"/>利濁重根鈍濁重。根利濁輕根鈍<note n="0933021" resp="Taisho" place="foot text" type="orig">〔濁輕〕－【甲】</note><app n="0933021"><lem wit="【大】">濁輕</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。濁重
+<lb n="0933b28" ed="T"/>者若娑婆眾生身形醜惡<note n="0933022" resp="Taisho" place="foot text" type="orig">矬＝痤【甲】</note><app n="0933022"><lem wit="【大】">矬</lem><rdg resp="Taisho" wit="【甲】">痤</rdg></app>短卑<note n="0933023" resp="Taisho" place="foot text" type="orig">小＝少【甲】</note><app n="0933023"><lem wit="【大】">小</lem><rdg resp="Taisho" wit="【甲】">少</rdg></app>。命止
+<lb n="0933b29" ed="T"/>八十或復中夭。煩惱熾盛諸見心<note n="0933024" resp="Taisho" place="foot text" type="orig">彊＝強【甲】</note><app n="0933024"><lem wit="【大】">彊</lem><rdg resp="Taisho" wit="【甲】">強</rdg></app>。時節麁
+<pb n="0933c" xml:id="T34.1728.0933c" ed="T"/>
+<lb n="0933c01" ed="T"/>險。是為五濁重也。淨土不爾。是為五濁輕也。
+<lb n="0933c02" ed="T"/>何故爾。不多修福德生<note n="0933025" resp="Taisho" place="foot text" type="orig">〔重濁…德生〕八字－【甲】</note><app cb:word-count="8" n="0933025"><lem wit="【大】">重濁土。多修福德生</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0933c03" ed="T"/>於輕土。若穢土中生有戒乘俱緩。有乘急戒
+<lb n="0933c04" ed="T"/>緩。有乘緩戒急。<note n="0933026" resp="Taisho" place="foot text" type="orig">〔有〕－【甲】</note><app n="0933026"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>戒乘俱急。戒急受人天
+<lb n="0933c05" ed="T"/>身。乘急有感聖之機機有二種。一大二小。小
+<lb n="0933c06" ed="T"/>機則示三藏佛身說法。大機應以舍那佛身
+<lb n="0933c07" ed="T"/>說法。是故降神母胎即示兩相。頓機所感即
+<lb n="0933c08" ed="T"/>見舍那菩薩與百千圍繞<note n="0933027" resp="Taisho" place="foot text" type="orig">處＝所【甲】</note><app n="0933027"><lem wit="【大】">處</lem><rdg resp="Taisho" wit="【甲】">所</rdg></app>胎說法。十方眾
+<lb n="0933c09" ed="T"/><note n="0933028" resp="Taisho" place="foot text" type="orig">聖＝生【甲】</note><app n="0933028"><lem wit="【大】">聖</lem><rdg resp="Taisho" wit="【甲】">生</rdg></app>皆在胎中。出胎光明遍滿寂滅道場。成盧
+<lb n="0933c10" ed="T"/>舍那佛轉一實諦無量四諦等法輪。譬如日
+<lb n="0933c11" ed="T"/>出高山前照。即聞頓教見佛性得度也。故涅
+<lb n="0933c12" ed="T"/>槃云。雪山有草名曰忍辱。牛若食者即得醍
+<lb n="0933c13" ed="T"/>醐。此之謂也。若小機之人感佛。正念入母胎
+<lb n="0933c14" ed="T"/>出生王宮。六年苦行樹下坐草。成老比丘佛。
+<lb n="0933c15" ed="T"/>於鹿野苑轉生滅四諦法輪。拘隣五人初得
+<lb n="0933c16" ed="T"/>甘露悟小乘道。既非醍醐未名得度。故云。但
+<lb n="0933c17" ed="T"/>離虛妄名為解脫。其實未得一切解脫。未堪
+<lb n="0933c18" ed="T"/>大教如聾如啞。於其無益於大教中。止有冥
+<lb n="0933c19" ed="T"/>勳之力。<note n="0933029" resp="Taisho" place="foot text" type="orig">取＝耳【甲】</note><app n="0933029"><lem wit="【大】">取</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>譬如乳。聞方便說三界斷見思
+<lb n="0933c20" ed="T"/>時。爾時轉乳名酪。次聞方等四種四諦。用大
+<lb n="0933c21" ed="T"/>彈小恥權慕實。起<note n="0933030" resp="Taisho" place="foot text" type="orig">殷＝愍【甲】</note><app n="0933030"><lem wit="【大】">殷</lem><rdg resp="Taisho" wit="【甲】">愍</rdg></app>重心名為生<note n="0933031" resp="Taisho" place="foot text" type="orig">酥＝蘇【甲】＊</note><app n="0933031"><lem wit="【大】">酥</lem><rdg resp="Taisho" wit="【甲】">蘇</rdg></app>。次聞
+<lb n="0933c22" ed="T"/>般若三種四諦轉教。其心稍純名為熟<app type="star" corresp="#0933031"><lem wit="【大】">酥</lem><rdg resp="Taisho" wit="【甲】">蘇</rdg></app>。次
+<lb n="0933c23" ed="T"/>聞法華捨三方便。但說一實佛之知見。聲聞
+<lb n="0933c24" ed="T"/>疑除受記作佛。菩薩迷去增道損生。爾時名
+<lb n="0933c25" ed="T"/>為醍醐。菩薩之人處處得去。鈍者亦同二乘。
+<lb n="0933c26" ed="T"/>二乘之人始自於此得見佛性。故<note n="0933032" resp="Taisho" place="foot text" type="orig">云＝言【甲】</note><app n="0933032"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】">言</rdg></app>。始見我
+<lb n="0933c27" ed="T"/>身聞我所說。即皆信受入如來慧。證前大機
+<lb n="0933c28" ed="T"/>人初得醍醐也。除先修習學小乘者。我今亦
+<lb n="0933c29" ed="T"/>令得聞此經入如來慧。即證小機始於法華
+<pb n="0934a" xml:id="T34.1728.0934a" ed="T"/>
+<lb n="0934a01" ed="T"/>得入醍醐也。若復有鈍根於法華不悟。更於
+<lb n="0934a02" ed="T"/>般若調熟至于涅槃。說<note n="0934001" resp="Taisho" place="foot text" type="orig">〔勝〕－【甲】</note><app n="0934001"><lem wit="【大】">勝</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>三修。即明常住得
+<lb n="0934a03" ed="T"/>見佛性。乃是醍醐。是為同居穢<note n="0934002" resp="Taisho" place="foot text" type="orig">國＝閏【甲】</note><app n="0934002"><lem wit="【大】">國</lem><rdg resp="Taisho" wit="【甲】">閏</rdg></app>示現佛身
+<lb n="0934a04" ed="T"/>說圓漸法。或示種種身說圓漸法。四句此開
+<lb n="0934a05" ed="T"/>五味義。穢國既爾淨國亦然。既有利鈍兩機。
+<lb n="0934a06" ed="T"/>寧不頓漸二說以明應身及說法也。此中應
+<lb n="0934a07" ed="T"/>明別圓本觀所起慈悲。今遍法界起<note n="0934003" resp="Taisho" place="foot text" type="orig">應＋（云云）【甲】</note><app n="0934003"><lem wit="【大】">應</lem><rdg resp="Taisho" wit="【甲】">應云云</rdg></app>例前
+<lb n="0934a08" ed="T"/>思<note n="0934004" resp="Taisho" place="foot text" type="orig">之云云＝知之也【甲】</note><app n="0934004"><lem wit="【大】">之云云</lem><rdg resp="Taisho" wit="【甲】">知之也</rdg></app>。</p><p xml:id="pT34p0934a0805" rend="inline">問。經但言遊於娑婆。不言實報方
+<lb n="0934a09" ed="T"/>便等國。</p><p xml:id="pT34p0934a0904" rend="inline">答。總答中云遊諸國土諸是不一。豈
+<lb n="0934a10" ed="T"/>止獨娑婆耶。又如大本。文云。若能深觀見我
+<lb n="0934a11" ed="T"/>在耆闍<note n="0934005" resp="Taisho" place="foot text" type="orig">崛＝堀【甲】</note><app n="0934005"><lem wit="【大】">崛</lem><rdg resp="Taisho" wit="【甲】">堀</rdg></app>山共聲聞菩薩僧。此即娑婆而是
+<lb n="0934a12" ed="T"/>方便也。又云。即見我純諸菩薩無聲聞緣覺
+<lb n="0934a13" ed="T"/>者。即此是實報也。故約<note n="0934006" resp="Taisho" place="foot text" type="orig">二＝此【甲】</note><app n="0934006"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】">此</rdg></app>土明義無咎。</p><p xml:id="pT34p0934a1316" rend="inline">問。
+<lb n="0934a14" ed="T"/>二土同稱為法性云何異。</p><p xml:id="pT34p0934a1411" rend="inline">答。真諦中道此則
+<lb n="0934a15" ed="T"/>大異。次明應以菩薩得度者。或上地下地三
+<lb n="0934a16" ed="T"/>藏通別圓等<note n="0934007" resp="Taisho" place="foot text" type="orig">輔＝神【甲】＊</note><app n="0934007"><lem wit="【大】">輔</lem><rdg resp="Taisho" wit="【甲】">神</rdg></app>佛不同。若佛於實報作佛。觀
+<lb n="0934a17" ed="T"/>音即為實報菩薩形。或作方便土菩薩形。或
+<lb n="0934a18" ed="T"/>作同居土菩薩形。赴利鈍兩緣。赴利緣者即
+<lb n="0934a19" ed="T"/>如華嚴中法<note n="0934008" resp="Taisho" place="foot text" type="orig">〔慧〕－【甲】</note><app n="0934008"><lem wit="【大】">慧</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>金剛藏等。赴鈍緣者或如彌
+<lb n="0934a20" ed="T"/>勒等。若佛轉五味法門。法門興廢<app type="star" corresp="#0934007"><lem wit="【大】">輔</lem><rdg resp="Taisho" wit="【甲】">神</rdg></app>佛菩薩
+<lb n="0934a21" ed="T"/>亦節節興廢。若權若實廣利眾生。此中亦應
+<lb n="0934a22" ed="T"/>明別圓本觀機應。次明應以支佛者。如文殊
+<lb n="0934a23" ed="T"/>二萬億劫作支佛。化眾生現身說法。次明應
+<lb n="0934a24" ed="T"/>以聲聞身者。或作三藏或作通教聲聞。或作
+<lb n="0934a25" ed="T"/>隨五味轉。聲聞內祕外現莊嚴。四枯四榮<note n="0934009" resp="Taisho" place="foot text" type="orig">引導＝導利【甲】</note><app n="0934009"><lem wit="【大】">引
+<lb n="0934a26" ed="T"/>導</lem><rdg resp="Taisho" wit="【甲】">導利</rdg></app>眾生。次引華嚴中諸菩薩比丘入法界所
+<lb n="0934a27" ed="T"/>見住不思議法門者。成此義也。次引大經四
+<lb n="0934a28" ed="T"/>種觀十二因緣觀。別圓本地慈悲不取不捨。
+<lb n="0934a29" ed="T"/>今作四種聖人普應一切。</p><p xml:id="pT34p0934a2911" rend="inline">問。佛云何度佛。</p><p xml:id="pT34p0934a2917" rend="inline">答。
+<pb n="0934b" xml:id="T34.1728.0934b" ed="T"/>
+<lb n="0934b01" ed="T"/>等覺菩薩作佛身度初地佛。何意不得。如人
+<lb n="0934b02" ed="T"/>亦能度人云云。二明梵身者。梵即色天主名
+<lb n="0934b03" ed="T"/>為尸棄。此云頂髻。瓔珞明四禪皆有王。此言
+<lb n="0934b04" ed="T"/>梵者。應是初禪頂。猶有覺觀語法得為千界
+<lb n="0934b05" ed="T"/>之主也。觀音修白色三昧不取不捨。不取故
+<lb n="0934b06" ed="T"/>不隨禪生。不捨故應為梵王說出欲論四句
+<lb n="0934b07" ed="T"/>現身以權引實。應以帝釋身者。此地居天主
+<lb n="0934b08" ed="T"/>也。具云釋迦提桓因陀羅。釋迦言能。<note n="0934010" resp="Taisho" place="foot text" type="orig">（提）＋桓【甲】</note><app n="0934010"><lem wit="【大】">桓</lem><rdg resp="Taisho" wit="【甲】">提桓</rdg></app>只
+<lb n="0934b09" ed="T"/>是提婆。提婆即是天。因陀羅名主。能作天主。
+<lb n="0934b10" ed="T"/>菩薩修難伏三昧不取不捨。說種種勝論。四
+<lb n="0934b11" ed="T"/>句現身以權引實。自在天是欲界頂。具云婆
+<lb n="0934b12" ed="T"/>舍跋提。此云他化自在。假他所作以成己樂。
+<lb n="0934b13" ed="T"/>即是魔<note n="0934011" resp="Taisho" place="foot text" type="orig">主＝王【甲】</note><app n="0934011"><lem wit="【大】">主</lem><rdg resp="Taisho" wit="【甲】">王</rdg></app>也。淨名云。多是不思議解脫菩薩
+<lb n="0934b14" ed="T"/>住赤色三昧不取不捨。應為魔王令諸魔界
+<lb n="0934b15" ed="T"/>即是佛界。四句現身以<note n="0934012" resp="Taisho" place="foot text" type="orig">〔權〕－【甲】</note><app n="0934012"><lem wit="【大】">權</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>引實。大自在即色
+<lb n="0934b16" ed="T"/>界頂魔醯首羅也。樓炭稱為阿迦尼吒。華嚴
+<lb n="0934b17" ed="T"/>稱為色究竟。或有人以為第六天。而諸經論
+<lb n="0934b18" ed="T"/>多稱大自在是色界頂。釋論云。過淨居天有
+<lb n="0934b19" ed="T"/>十住菩薩號大自在。大千界主。十住經云。大
+<lb n="0934b20" ed="T"/>自在天光明勝一切眾生。涅槃獻供大自在
+<lb n="0934b21" ed="T"/>天最勝故非第六天。釋論云。魔醯首羅此稱
+<lb n="0934b22" ed="T"/>大自在。騎白牛八臂三眼是諸天將。未知此
+<lb n="0934b23" ed="T"/>是同名為即指王為將。天大將軍者。如金光
+<lb n="0934b24" ed="T"/>明即以散脂為大將。大經云。八<note n="0934013" resp="Taisho" place="foot text" type="orig">健＝建【甲】</note><app n="0934013"><lem wit="【大】">健</lem><rdg resp="Taisho" wit="【甲】">建</rdg></app>提天中力
+<lb n="0934b25" ed="T"/>士。釋論稱魔醯首羅如前。又稱鳩摩伽。此云
+<lb n="0934b26" ed="T"/>童子。騎孔雀擎雞持鐸<note n="0934014" resp="Taisho" place="foot text" type="orig">捉＝提【甲】</note><app n="0934014"><lem wit="【大】">捉</lem><rdg resp="Taisho" wit="【甲】">提</rdg></app>赤旛。韋紐此稱遍
+<lb n="0934b27" ed="T"/>聞。四臂捉貝持輪騎金翅烏。皆是諸天大將。
+<lb n="0934b28" ed="T"/>未知此大將軍定是何等四句相對。小王身
+<lb n="0934b29" ed="T"/>者。或云天王為大人王為小。就人王中四種
+<pb n="0934c" xml:id="T34.1728.0934c" ed="T"/>
+<lb n="0934c01" ed="T"/>轉輪王自有大小。<note n="0934015" resp="Taisho" place="foot text" type="orig">如＝只【甲】</note><app n="0934015"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】">只</rdg></app>非四輪王者名粟散王。
+<lb n="0934c02" ed="T"/>自有小大。中國名大附庸名小。傳傳相望。今
+<lb n="0934c03" ed="T"/>言小者。小尚為<note n="0934016" resp="Taisho" place="foot text" type="orig">之＝王【甲】</note><app n="0934016"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】">王</rdg></app>何況其大耶。此亦有四
+<lb n="0934c04" ed="T"/>句。<note n="0934017" resp="Taisho" place="foot text" type="orig">〔何〕－【甲】</note><app n="0934017"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>獨為福業受報。入同居土具足化他。
+<lb n="0934c05" ed="T"/>共修功德慈心利物。是為王也。長者身者。應
+<lb n="0934c06" ed="T"/>釋十長<note n="0934018" resp="Taisho" place="foot text" type="orig">人之＝者人𠚤取【甲】</note><app n="0934018"><lem wit="【大】">人之</lem><rdg resp="Taisho" wit="【甲】">者人𠚤取</rdg></app>德內合法門。居士者。多積賄貨
+<lb n="0934c07" ed="T"/>居業豐盈。以此為名也。宰官者。宰主義官是
+<lb n="0934c08" ed="T"/><note n="0934019" resp="Taisho" place="foot text" type="orig">功＝工【甲】＊</note><app n="0934019"><lem wit="【大】">功</lem><rdg resp="Taisho" wit="【甲】">工</rdg></app>能義。謂三台以<app type="star" corresp="#0934019"><lem wit="【大】">功</lem><rdg resp="Taisho" wit="【甲】">工</rdg></app>能<note n="0934020" resp="Taisho" place="foot text" type="orig">〔能〕－【甲】</note><app n="0934020"><lem wit="【大】">能</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>輔政於主故云
+<lb n="0934c09" ed="T"/>宰官。郡縣亦稱為宰<note n="0934021" resp="Taisho" place="foot text" type="orig">〔官〕－【甲】</note><app n="0934021"><lem wit="【大】">官</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。宰政民下也。婆羅
+<lb n="0934c10" ed="T"/>門者。稱為淨行。劫初種族<note n="0934022" resp="Taisho" place="foot text" type="orig">山＝止【甲】</note><app n="0934022"><lem wit="【大】">山</lem><rdg resp="Taisho" wit="【甲】">止</rdg></app>野自閑人以稱
+<lb n="0934c11" ed="T"/>之也。一一身皆有四句本觀。次列四眾釋如
+<lb n="0934c12" ed="T"/>舊。次婦女者。不明小王婦女者。王家禁固不
+<lb n="0934c13" ed="T"/>得遊散。化物為難故不作。若如妙音即云於
+<lb n="0934c14" ed="T"/>王後宮變為女像<note n="0934023" resp="Taisho" place="foot text" type="orig">也＋（六）【甲】</note><app n="0934023"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】">也六</rdg></app>。童男女者。取妙莊<note n="0934024" resp="Taisho" place="foot text" type="orig">嚴＋（王）【甲】</note><app n="0934024"><lem wit="【大】">嚴</lem><rdg resp="Taisho" wit="【甲】">嚴王</rdg></app>
+<lb n="0934c15" ed="T"/>二子釋之。華嚴童子<note n="0934025" resp="Taisho" place="foot text" type="orig">算＝弄【甲】</note><app n="0934025"><lem wit="【大】">算</lem><rdg resp="Taisho" wit="【甲】">弄</rdg></app>砂嬉戲也。七明八部
+<lb n="0934c16" ed="T"/>者。上列大威德天。今更舉二十八天等。或可
+<lb n="0934c17" ed="T"/>星宿<note n="0934026" resp="Taisho" place="foot text" type="orig">掌＝宰【甲】</note><app n="0934026"><lem wit="【大】">掌</lem><rdg resp="Taisho" wit="【甲】">宰</rdg></app>人間者也。龍有四種。一守天宮殿持
+<lb n="0934c18" ed="T"/>令不落人間。屋上作龍<note n="0934027" resp="Taisho" place="foot text" type="orig">像＝象【甲】</note><app n="0934027"><lem wit="【大】">像</lem><rdg resp="Taisho" wit="【甲】">象</rdg></app>之<app type="star" corresp="#0929009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。二興雲致
+<lb n="0934c19" ed="T"/>雨益人間者。三地龍決江開瀆。四伏藏守轉
+<lb n="0934c20" ed="T"/>輪王大福人藏也。肇師但出三不出天龍。夜
+<lb n="0934c21" ed="T"/>叉此云捷疾。此有三處。海島空中天上。傳傳
+<lb n="0934c22" ed="T"/>相持不得食人。佛初成道及說法傳唱至天。
+<lb n="0934c23" ed="T"/>乾闥婆此云香陰。帝釋<note n="0934028" resp="Taisho" place="foot text" type="orig">〔樂〕－【甲】</note><app n="0934028"><lem wit="【大】">樂</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>神。在須彌南金剛
+<lb n="0934c24" ed="T"/>窟住。天欲作樂其心動。什師云。在寶山中住
+<lb n="0934c25" ed="T"/>身有異相。即上奏樂也。阿脩羅千頭二千手。
+<lb n="0934c26" ed="T"/>萬頭二萬手。或三頭六手。此云無酒。<note n="0934029" resp="Taisho" place="foot text" type="orig">一持＝持一【甲】</note><app n="0934029"><lem wit="【大】">一持</lem><rdg resp="Taisho" wit="【甲】">持一</rdg></app>
+<lb n="0934c27" ed="T"/>不飲酒戒。男醜女端。在眾相山中住。或言居
+<lb n="0934c28" ed="T"/>海底。風輪持水如雲<note n="0934030" resp="Taisho" place="foot text" type="orig">居＋（在）【甲】</note><app n="0934030"><lem wit="【大】">居</lem><rdg resp="Taisho" wit="【甲】">居在</rdg></app>其下。上文云。居在
+<lb n="0934c29" ed="T"/>大海邊。有大力口訶日月。日月為之失光。掌
+<pb n="0935a" xml:id="T34.1728.0935a" ed="T"/>
+<lb n="0935a01" ed="T"/>搏須彌須彌為之跛<note n="0935001" resp="Taisho" place="foot text" type="orig">𨁟＝哦【甲】</note><app n="0935001"><lem wit="【大】">𨁟</lem><rdg resp="Taisho" wit="【甲】">哦</rdg></app>。入海<note n="0935002" resp="Taisho" place="foot text" type="orig">齊＝臍【甲】</note><app n="0935002"><lem wit="【大】">齊</lem><rdg resp="Taisho" wit="【甲】">臍</rdg></app>腰。見天飲
+<lb n="0935a02" ed="T"/>甘露。而四天下採華。置四海<note n="0935003" resp="Taisho" place="foot text" type="orig">中＋（酒）【甲】</note><app n="0935003"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【甲】">中酒</rdg></app>釀。海中眾
+<lb n="0935a03" ed="T"/>生業力持。進失甘露退不成酒。即斷酒故云
+<lb n="0935a04" ed="T"/>無酒。神不飲酒故得大力也。迦樓羅者。此云
+<lb n="0935a05" ed="T"/>金翅。翅頭金色因以名之。此鳥與龍約汝<note n="0935004" resp="Taisho" place="foot text" type="orig">繞＝達【甲】</note><app n="0935004"><lem wit="【大】">繞</lem><rdg resp="Taisho" wit="【甲】">達</rdg></app>
+<lb n="0935a06" ed="T"/>須彌令斷。我搏海見泥。我不如輸子為汝給
+<lb n="0935a07" ed="T"/>使汝不如輸子與我噉。天力持須彌不可斷
+<lb n="0935a08" ed="T"/>故龍輸子。<note n="0935005" resp="Taisho" place="foot text" type="orig">卵生＝卯鳥【甲】</note><app n="0935005"><lem wit="【大】">卵生</lem><rdg resp="Taisho" wit="【甲】">卯鳥</rdg></app>食<note n="0935006" resp="Taisho" place="foot text" type="orig">卵＝卯【甲】</note><app n="0935006"><lem wit="【大】">卵</lem><rdg resp="Taisho" wit="【甲】">卯</rdg></app>龍。不能食三生。濕生
+<lb n="0935a09" ed="T"/>食二胎生食三。化生食四。緊那羅者。天帝絲
+<lb n="0935a10" ed="T"/>竹樂神。小不如乾闥婆。形似人而頭有角。亦
+<lb n="0935a11" ed="T"/>呼為疑神。亦為人非人。今不取人非人釋緊
+<lb n="0935a12" ed="T"/>那羅。此乃是結八部數<app type="star" corresp="#0929009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。摩<note n="0935007" resp="Taisho" place="foot text" type="orig">睺＋（羅）【甲】</note><app n="0935007"><lem wit="【大】">睺</lem><rdg resp="Taisho" wit="【甲】">睺羅</rdg></app>者。什師云。
+<lb n="0935a13" ed="T"/>是地龍。肇師云。是大蟒腹行也。八部皆能變
+<lb n="0935a14" ed="T"/>本形在座聽法<note n="0935008" resp="Taisho" place="foot text" type="orig">也＋（八）【甲】</note><app n="0935008"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】">也八</rdg></app>。金剛非八部數。手執此寶
+<lb n="0935a15" ed="T"/>護持佛法。或言。在欲色天中教化諸天。即大
+<lb n="0935a16" ed="T"/>權神也。經云。是吾之兄。</p><p xml:id="pT34p0935a1610" rend="inline">問。上界身可化下。下
+<lb n="0935a17" ed="T"/>界身云何化上。</p><p xml:id="pT34p0935a1707" rend="inline">答。菩薩所為應以得度乃應
+<lb n="0935a18" ed="T"/>之<app type="star" corresp="#0929009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。如王聞蟻鬪。第二從成就如是功德
+<lb n="0935a19" ed="T"/>者。是總答也。此則結別開總。成就如是功德
+<lb n="0935a20" ed="T"/>是結別也。以種種形遊諸國土是總答也。諸
+<lb n="0935a21" ed="T"/>名不一。橫則遍周十方。豎則冠通三土。隨機
+<lb n="0935a22" ed="T"/>變現何止三十三身。<note n="0935009" resp="Taisho" place="foot text" type="orig">託＝任【甲】</note><app n="0935009"><lem wit="【大】">託</lem><rdg resp="Taisho" wit="【甲】">任</rdg></app>化<note n="0935010" resp="Taisho" place="foot text" type="orig">逐＝遂【甲】</note><app n="0935010"><lem wit="【大】">逐</lem><rdg resp="Taisho" wit="【甲】">遂</rdg></app>緣豈局在娑
+<lb n="0935a23" ed="T"/>婆世界。以種種形總明示現身廣。遊諸國土
+<lb n="0935a24" ed="T"/>總明所化處廣。度脫眾生總明得益廣。言雖
+<lb n="0935a25" ed="T"/>略上義極廣前故。稱為總答<note n="0935011" resp="Taisho" place="foot text" type="orig">〔也〕－【甲】</note><app n="0935011"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。善財入法界
+<lb n="0935a26" ed="T"/>文雖廣義未必<note n="0935012" resp="Taisho" place="foot text" type="orig">該＝䛷【甲】</note><app n="0935012"><lem wit="【大】">該</lem><rdg resp="Taisho" wit="【甲】">䛷</rdg></app>十法界。地人見文廣判為
+<lb n="0935a27" ed="T"/>圓宗。見法華文略判為不真宗。若尋此意無
+<lb n="0935a28" ed="T"/>不真之義也。三從是故汝等去。是勸供養也。
+<lb n="0935a29" ed="T"/>佛答前問先總後別。<note n="0935013" resp="Taisho" place="foot text" type="orig">末＝未【甲】＊</note><app n="0935013"><lem wit="【大】">末</lem><rdg resp="Taisho" wit="【甲】">未</rdg></app>勸受持而眾生仰
+<pb n="0935b" xml:id="T34.1728.0935b" ed="T"/>
+<lb n="0935b01" ed="T"/><note n="0935014" resp="Taisho" place="foot text" type="orig">荷＝俯【甲】</note><app n="0935014"><lem wit="【大】">荷</lem><rdg resp="Taisho" wit="【甲】">俯</rdg></app>冥益。但可持名秉字而已。故前開三段始
+<lb n="0935b02" ed="T"/>終開合於義相稱。佛答後問前別後總。<app type="star" corresp="#0935013"><lem wit="【大】">末</lem><rdg resp="Taisho" wit="【甲】">未</rdg></app>
+<lb n="0935b03" ed="T"/>勸供養眾生既荷顯益。見色<note n="0935015" resp="Taisho" place="foot text" type="orig">聞＝開【甲】</note><app n="0935015"><lem wit="【大】">聞</lem><rdg resp="Taisho" wit="【甲】">開</rdg></app>聲故勸供
+<lb n="0935b04" ed="T"/>養。此則開<note n="0935016" resp="Taisho" place="foot text" type="orig">合＝文【甲】</note><app n="0935016"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【甲】">文</rdg></app>始終相稱。而總別前後者互舉
+<lb n="0935b05" ed="T"/><app type="star" corresp="#0929009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。有人以總答為歎德。此分文傷義。</p><p xml:id="pT34p0935b0515" rend="inline">問。後
+<lb n="0935b06" ed="T"/>勸供養受旨奉瓔珞。前勸持名何得無耶。</p><p xml:id="pT34p0935b0617" rend="inline">答。
+<lb n="0935b07" ed="T"/>默<note n="0935017" resp="Taisho" place="foot text" type="orig">然＝念【甲】</note><app n="0935017"><lem wit="【大】">然</lem><rdg resp="Taisho" wit="【甲】">念</rdg></app>持名故不彰文。供養事顯須脫瓔珞也。
+<lb n="0935b08" ed="T"/>又欲成冥顯義前是顯機。更持名默念即成
+<lb n="0935b09" ed="T"/>冥機。後是冥機。<note n="0935018" resp="Taisho" place="foot text" type="orig">〔復〕－【甲】</note><app n="0935018"><lem wit="【大】">復</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>更供養即成顯機。<note n="0935019" resp="Taisho" place="foot text" type="orig">合＝令【甲】</note><app n="0935019"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【甲】">令</rdg></app>二
+<lb n="0935b10" ed="T"/>義具足。</p><p xml:id="pT34p0935b1004" rend="inline">問。<note n="0935020" resp="Taisho" place="foot text" type="orig">亦＝示【甲】</note><app n="0935020"><lem wit="【大】">亦</lem><rdg resp="Taisho" wit="【甲】">示</rdg></app>應更成二應耶。</p><p xml:id="pT34p0935b1012" rend="inline">答。二機既具必
+<lb n="0935b11" ed="T"/>知有應。故不更說。<note n="0935021" resp="Taisho" place="foot text" type="orig">初＋（總）【甲】</note><app n="0935021"><lem wit="【大】">初</lem><rdg resp="Taisho" wit="【甲】">初總</rdg></app>勸供養。二奉旨。初又
+<lb n="0935b12" ed="T"/>二。先稱美功德如文。二出供養之意。意者正
+<lb n="0935b13" ed="T"/>由能施眾生無畏從德受名。眾生於畏得脫
+<lb n="0935b14" ed="T"/>為作此名。德既無量名亦應多。不可說不可
+<lb n="0935b15" ed="T"/>說也。奉旨供養中為六。一奉命。二<note n="0935022" resp="Taisho" place="foot text" type="orig">〔不〕－【甲】</note><app n="0935022"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>受。三
+<lb n="0935b16" ed="T"/>重奉。四佛勸。五受。六結其德。經文不定。或
+<lb n="0935b17" ed="T"/>眾寶瓔珞或<note n="0935023" resp="Taisho" place="foot text" type="orig">珠或＝作【甲】</note><app n="0935023"><lem wit="【大】">珠或</lem><rdg resp="Taisho" wit="【甲】">作</rdg></app>眾寶珠。此翻譯減長<app type="star" corresp="#0929009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。
+<lb n="0935b18" ed="T"/>眾寶者。眾寶間珠共為嚴飾也。</p><p xml:id="pT34p0935b1813" rend="inline">若依瓔珞經。
+<lb n="0935b19" ed="T"/>從初住銅寶瓔珞乃至等覺摩尼瓔珞。今無
+<lb n="0935b20" ed="T"/>盡意位高。那忽止直百千兩金。</p><p xml:id="pT34p0935b2013" rend="inline">答。此略言百
+<lb n="0935b21" ed="T"/><note n="0935024" resp="Taisho" place="foot text" type="orig">姓＝性【甲】</note><app n="0935024"><lem wit="【大】">姓</lem><rdg resp="Taisho" wit="【甲】">性</rdg></app>萬<note n="0935025" resp="Taisho" place="foot text" type="orig">氏＝民【甲】</note><app n="0935025"><lem wit="【大】">氏</lem><rdg resp="Taisho" wit="【甲】">民</rdg></app><app type="star" corresp="#0929009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】">耳</rdg></app>。實不啻堪此也。若就觀解者。
+<lb n="0935b22" ed="T"/>將事表理何得一向事解耶。頸者表中道一
+<lb n="0935b23" ed="T"/>實之理。以眾多無著法門莊嚴實相如瓔珞
+<lb n="0935b24" ed="T"/>在頸。解者表菩薩為常捨行故。一切願行功
+<lb n="0935b25" ed="T"/>德乃至佛<note n="0935026" resp="Taisho" place="foot text" type="orig">智＝皆【甲】</note><app n="0935026"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】">皆</rdg></app>菩提涅槃。亦不住不著無依無
+<lb n="0935b26" ed="T"/>倚故言解也。大集云。戒定慧陀羅尼以為瓔
+<lb n="0935b27" ed="T"/>珞。莊嚴法身也。百千是十萬。此表一地有萬
+<lb n="0935b28" ed="T"/>功德。即十萬也。法施者。舊云。如法施重法施
+<lb n="0935b29" ed="T"/>求法施學法施皆名法施。無盡意重法故施
+<pb n="0935c" xml:id="T34.1728.0935c" ed="T"/>
+<lb n="0935c01" ed="T"/>也。今明如法施也。正以財通於法名財。即是
+<lb n="0935c02" ed="T"/>法財。即因緣生法即空即假即中。三諦一心
+<lb n="0935c03" ed="T"/>一切具足。於法平等於財亦等。如此施者即
+<lb n="0935c04" ed="T"/>是法施。不肯受者。事解無盡意奉命供養。我
+<lb n="0935c05" ed="T"/>未奉命那忽輒受。亦是事須遜讓。觀解者。不
+<lb n="0935c06" ed="T"/>受三昧廣大之用故無所受重<note n="0935027" resp="Taisho" place="foot text" type="orig">白＝為【甲】</note><app n="0935027"><lem wit="【大】">白</lem><rdg resp="Taisho" wit="【甲】">為</rdg></app>愍我者。或
+<lb n="0935c07" ed="T"/>可請上愍下。或可地位相齊故相愍。或可我
+<lb n="0935c08" ed="T"/>為四眾故施。仁愍四眾故受。以無所受而受
+<lb n="0935c09" ed="T"/><note n="0935028" resp="Taisho" place="foot text" type="orig">諸＝請【甲】</note><app n="0935028"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【甲】">請</rdg></app>受。佛勸愍者。即是愍一切眾生及四眾
+<lb n="0935c10" ed="T"/>也。正以菩薩為物故施為物故受。二分者。表
+<lb n="0935c11" ed="T"/>事理二。因奉二佛者。將二因趣二果也。理圓
+<lb n="0935c12" ed="T"/>即法佛。事圓即報佛。二佛表二果也。第三從
+<lb n="0935c13" ed="T"/>持地<note n="0935029" resp="Taisho" place="foot text" type="orig">〔說〕－【甲】</note><app n="0935029"><lem wit="【大】">說</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>去。歎<note n="0935030" resp="Taisho" place="foot text" type="orig">聞＝門【甲】</note><app n="0935030"><lem wit="【大】">聞</lem><rdg resp="Taisho" wit="【甲】">門</rdg></app>品功德也。文云。聞是觀世
+<lb n="0935c14" ed="T"/>音者。是聞上冥益一段問答也。普門品者。是
+<lb n="0935c15" ed="T"/>聞顯益一段問答也。此中明自在業。者若是
+<lb n="0935c16" ed="T"/>凡夫之業為愛所潤。有漏因緣不得自在。觀
+<lb n="0935c17" ed="T"/>音為調伏十法界。示此三業慈悲力潤隨感
+<lb n="0935c18" ed="T"/>受生。不為煩惱所累。故言自在業。為中道第
+<lb n="0935c19" ed="T"/>一義諦所攝。於二諦中得自在無等等者二
+<lb n="0935c20" ed="T"/>乘雖出三界猶有上法非是無<note n="0935031" resp="Taisho" place="foot text" type="orig">等＋（等）【甲】</note><app n="0935031"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【甲】">等等</rdg></app>。佛是極地
+<lb n="0935c21" ed="T"/>故言無等。發求佛心故言無等等。<note n="0935032" resp="Taisho" place="foot text" type="orig">〔等〕－【甲】</note><app n="0935032"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>於佛
+<lb n="0935c22" ed="T"/>也。又約心。<note n="0935033" resp="Taisho" place="foot text" type="orig">心＝之【甲】</note><app n="0935033"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【甲】">之</rdg></app>中具足八萬四千法門。若發
+<lb n="0935c23" ed="T"/>實相心即是等八萬四千法門也。亦是八萬四
+<lb n="0935c24" ed="T"/>千波羅<note n="0935034" resp="Taisho" place="foot text" type="orig">蜜＝密【甲】</note><app n="0935034"><lem wit="【大】">蜜</lem><rdg resp="Taisho" wit="【甲】">密</rdg></app>。亦是八萬四千塵勞門為如來種
+<lb n="0935c25" ed="T"/>故。經云。發心畢竟二不別。如是二心前心難。
+<lb n="0935c26" ed="T"/>今發初心等於後心。初心難發故言是無等。
+<lb n="0935c27" ed="T"/>等於後心名無等等。此即四悉檀意明發心
+<lb n="0935c28" ed="T"/>也。發心有三。一名字發。即五品弟子。二相似
+<lb n="0935c29" ed="T"/>發。是六根清淨。三分真<note n="0935035" resp="Taisho" place="foot text" type="orig">發＋（心）【甲】</note><app n="0935035"><lem wit="【大】">發</lem><rdg resp="Taisho" wit="【甲】">發心</rdg></app>。即初住已上此。
+<pb n="0936a" xml:id="T34.1728.0936a" ed="T"/>
+<lb n="0936a01" ed="T"/>發心是真發心也<note n="0936001" resp="Taisho" place="foot text" type="orig">甲本卷末曰　正保四丁亥年仲冬吉日</note>。</p>
+<lb n="0936a02" ed="T"/><cb:juan n="002" fun="close"><cb:jhead>觀<anchor xml:id="fxT34p0936a01"/>音義疏卷<note n="0936002" resp="Taisho" place="foot text" type="orig">下＋（終）夾註【甲】</note><app n="0936002"><lem wit="【大】">下</lem><rdg resp="Taisho" wit="【甲】">下<note place="inline">終</note></rdg></app></cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

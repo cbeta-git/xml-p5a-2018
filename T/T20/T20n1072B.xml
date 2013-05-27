@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T20n1072B">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1072B 馬頭觀音心陀羅尼</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.9 $<date>$Date: 2009/04/23 08:01:18 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:18 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1072B </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="sa-Sidd">Sanskrit-Siddam</language>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-24T11:15:05">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T20n1072B.xml,v $
+Revision 1.9  2009/04/23 08:01:18  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.8  2006/04/12 21:55:41  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2006/03/25 10:22:55  saywhat
+p0170a29 SD-A65A=>SD-E3AD, SD-AF71=>SD-D9F9
+
+Revision 1.5  2004/12/22 06:50:01  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.4  2004/10/21 08:20:03  saywhat
+段落前加入圈點
+
+Revision 1.3  2004/09/10 03:39:04  saywhat
+刪除空的 juan close
+
+Revision 1.2  2004/04/20 08:38:53  maha
+「版本日期」標記修訂
+
+Revision 1.1.1.1  2003/05/05 04:09:19  ray
+recover cvs
+
+Revision 1.18  2002/12/05 05:20:19  saywhat
+校勘插入處理
+
+Revision 1.17  2002/11/04 10:45:30  ray
+tei.2 => TEI.2
+
+Revision 1.16  2002/07/29 09:56:40  vinking
+modified lang
+
+Revision 1.15  2002/04/08 09:05:43  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.14  2001/11/05 06:13:38  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.13  2001/07/24 06:53:04  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.12  2001/03/25 09:15:21  ray
+add <milestone>
+
+Revision 1.11  2001/02/07 06:55:38  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.10  2001/02/03 07:45:35  chris
+Added keywords $Revision: 1.9 $, $Date: 2009/04/23 08:01:18 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0170a10" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0170a11" ed="T"/>
+<lb n="0170a12" ed="T"/>
+<lb n="0170a13" ed="T"/><cb:docNumber>No. 1072B</cb:docNumber>
+<lb n="0170a14" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><note n="0170004" resp="Taisho" place="foot text" type="orig">【原】東寺三密藏古寫本</note><cb:jhead>馬頭觀音心陀羅尼</cb:jhead></cb:juan>
+<lb n="0170a15" ed="T"/><cb:div type="dharani"><p xml:lang="sa-Sidd" xml:id="pT20p0170a1501" cb:type="dharani"><g ref="#SD-D5B5"/><g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5FD"/><g ref="#SD-B448"/><g ref="#SD-AA5E"/><g ref="#SD-A5F1"/><g ref="#SD-A5F1"/><g ref="#SD-D7C4"/><g ref="#SD-A5A9"/><g ref="#SD-A5F0"/><g ref="#SD-CFC6"/><g ref="#SD-B76A"/><g ref="#SD-A656"/><g ref="#SD-A652"/>
+<lb n="0170a16" ed="T"/><g ref="#SD-A442"/><g ref="#SD-A55D"/><g ref="#SD-E0AB"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/><g ref="#SD-D7C4"/><g ref="#SD-A5D5"/><g ref="#SD-A57D"/><g ref="#SD-A67A"/><g ref="#SD-AF59"/><g ref="#SD-A5F1"/><g ref="#SD-D7C4"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A67A"/>
+<lb n="0170a17" ed="T"/><g ref="#SD-AF5A"/><g ref="#SD-A5F1"/><g ref="#SD-D7C4"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A441"/><g ref="#SD-A642"/><g ref="#SD-A54D"/><g ref="#SD-A441"/><g ref="#SD-A5F1"/><g ref="#SD-D7C4"/><g ref="#SD-CFCF"/><g ref="#SD-A8A2"/><g ref="#SD-A5A9"/><g ref="#SD-A5E5"/>
+<lb n="0170a18" ed="T"/><g ref="#SD-E0CE"/><g ref="#SD-AF5A"/><g ref="#SD-D7C4"/><g ref="#SD-E1F2"/><g ref="#SD-A579"/><g ref="#SD-A5E6"/><g ref="#SD-B76A"/><g ref="#SD-A656"/><g ref="#SD-A652"/><g ref="#SD-A442"/><g ref="#SD-A55D"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-D7C4"/><g ref="#SD-E043"/>
+<lb n="0170a19" ed="T"/><g ref="#SD-A66A"/><g ref="#SD-C97D"/><g ref="#SD-CA48"/><g ref="#SD-A6A8"/><g ref="#SD-A5F1"/><g ref="#SD-A962"/><g ref="#SD-A656"/><g ref="#SD-CC68"/><g ref="#SD-A56F"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5ED"/><g ref="#SD-A656"/><g ref="#SD-CA60"/><g ref="#SD-A5F3"/>
+<lb n="0170a20" ed="T"/><g ref="#SD-A855"/><g ref="#SD-A5E7"/><g ref="#SD-D5B4"/><g ref="#SD-CFCF"/><g ref="#SD-E0AF"/><g ref="#SD-A6AA"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-D7C4"/><g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-D957"/><g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A5A9"/>
+<lb n="0170a21" ed="T"/><g ref="#SD-A44C"/><g ref="#SD-D5B4"/><g ref="#SD-A656"/><g ref="#SD-A9BE"/><g ref="#SD-A646"/><g ref="#SD-A5E5"/><g ref="#SD-D7C4"/><g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A446"/><g ref="#SD-A662"/><g ref="#SD-D7C4"/><g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-E1F5"/>
+<lb n="0170a22" ed="T"/><g ref="#SD-A5FD"/><g ref="#SD-D957"/><g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A579"/><g ref="#SD-E1D2"/><g ref="#SD-D7C4"/><g ref="#SD-A6A8"/><g ref="#SD-A5A9"/><g ref="#SD-D957"/><g ref="#SD-D7C4"/><g ref="#SD-A56F"/><g ref="#SD-A6A8"/><g ref="#SD-D957"/><g ref="#SD-D7C4"/>
+<lb n="0170a23" ed="T"/><g ref="#SD-A5B5"/><g ref="#SD-A47C"/><g ref="#SD-D957"/><g ref="#SD-D7C4"/><g ref="#SD-A458"/><g ref="#SD-E052"/><g ref="#SD-D957"/><g ref="#SD-D7C4"/><g ref="#SD-A656"/><g ref="#SD-AFAB"/><g ref="#SD-D957"/><g ref="#SD-D7C4"/><g ref="#SD-A5FD"/><g ref="#SD-CCAB"/><g ref="#SD-D957"/>
+<lb n="0170a24" ed="T"/><g ref="#SD-D7C4"/><g ref="#SD-A6A8"/><g ref="#SD-A67A"/><g ref="#SD-D957"/><g ref="#SD-A4B6"/><g ref="#SD-B27A"/><g ref="#SD-D957"/><g ref="#SD-D7C4"/><g ref="#SD-A4CE"/><g ref="#SD-A9E1"/><g ref="#SD-D957"/><g ref="#SD-E0C1"/><g ref="#SD-A5A9"/><g ref="#SD-D957"/><g ref="#SD-A658"/>
+<lb n="0170a25" ed="T"/><g ref="#SD-E0C1"/><g ref="#SD-A5A9"/><g ref="#SD-D957"/><g ref="#SD-A5E5"/><g ref="#SD-A564"/><g ref="#SD-D957"/><g ref="#SD-A440"/><g ref="#SD-A8A6"/><g ref="#SD-D957"/><g ref="#SD-A440"/><g ref="#SD-A5C1"/><g ref="#SD-D957"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A575"/>
+<lb n="0170a26" ed="T"/><g ref="#SD-E2BE"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5AA"/><g ref="#SD-E072"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5F1"/><g ref="#SD-E0DA"/><g ref="#SD-D7C4"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A658"/><g ref="#SD-A6AA"/><g ref="#SD-A6AE"/>
+<lb n="0170a27" ed="T"/><g ref="#SD-A4E6"/><g ref="#SD-E0BE"/><g ref="#SD-D7C4"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A658"/><g ref="#SD-E25A"/><g ref="#SD-AABC"/><g ref="#SD-A658"/><g ref="#SD-A662"/><g ref="#SD-D957"/><g ref="#SD-D7C4"/><g ref="#SD-A6A8"/><g ref="#SD-A5F1"/><g ref="#SD-A962"/>
+<lb n="0170a28" ed="T"/><g ref="#SD-A656"/><g ref="#SD-A658"/><g ref="#SD-A66E"/><g ref="#SD-AB6B"/><g ref="#SD-A5F1"/><g ref="#SD-D7C4"/><g ref="#SD-AABC"/><g ref="#SD-AEB8"/><g ref="#SD-A64A"/><g ref="#SD-D957"/><g ref="#SD-CFC6"/><g ref="#SD-A658"/><g ref="#SD-A662"/><g ref="#SD-D957"/><g ref="#SD-A658"/>
+<lb n="0170a29" ed="T"/><g ref="#SD-A662"/><g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-E1F5"/><g ref="#SD-A5FD"/><g ref="#SD-A5E5"/><g ref="#SD-A658"/><g ref="#SD-A654"/><g ref="#SD-D7C4"/><g ref="#SD-E3AD"/><g ref="#SD-D9F9"/><g ref="#SD-A57B"/><g ref="#SD-E1BA"/><g ref="#SD-A6A6"/><g ref="#SD-A464"/>
+<pb n="0170b" xml:id="T20.1072B.0170b" ed="T"/>
+<lb n="0170b01" ed="T"/><g ref="#SD-A656"/><g ref="#SD-A47C"/><g ref="#SD-A5A9"/><g ref="#SD-D7C4"/><g ref="#SD-A5E5"/><g ref="#SD-A5AD"/><g ref="#SD-B2CC"/><g ref="#SD-A5FD"/><g ref="#SD-A4B6"/><g ref="#SD-A559"/><g ref="#SD-A5E5"/><g ref="#SD-A5AD"/><g ref="#SD-B2CC"/><g ref="#SD-A5FD"/><g ref="#SD-CC68"/>
+<lb n="0170b02" ed="T"/><g ref="#SD-A56F"/><g ref="#SD-A5F1"/><g ref="#SD-D7C4"/><g ref="#SD-A5E5"/><g ref="#SD-A5AD"/><g ref="#SD-B2CC"/><g ref="#SD-A5FD"/><g ref="#SD-A658"/><g ref="#SD-A443"/><g ref="#SD-A5FD"/><g ref="#SD-D7C4"/><g ref="#SD-A458"/><g ref="#SD-B5ED"/><g ref="#SD-D957"/><g ref="#SD-A5A9"/>
+<lb n="0170b03" ed="T"/><g ref="#SD-E1E4"/><g ref="#SD-D957"/><g ref="#SD-A5E5"/><g ref="#SD-A56F"/><g ref="#SD-A45C"/><g ref="#SD-E245"/><g ref="#SD-D957"/><g ref="#SD-A658"/><g ref="#SD-A5AB"/><g ref="#SD-A6A8"/><g ref="#SD-A5A9"/><g ref="#SD-A6A8"/><g ref="#SD-A5A9"/><g ref="#SD-DA74"/><g ref="#SD-DA74"/>
+<lb n="0170b04" ed="T"/><g ref="#SD-A5C1"/><g ref="#SD-A4DA"/><g ref="#SD-A5C1"/><g ref="#SD-E046"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-D5B4"/></p></cb:div>
+<lb n="0170b05" ed="T"/><cb:div type="W"><p xml:id="pT20p0170b0501">以隆　僧都本書寫之件本大師御筆<note place="inline">云云</note>
+<lb n="0170b06" ed="T"/>後日以般若寺僧正御手跡本比交以朱付
+<lb n="0170b07" ed="T"/>點本也。</p></cb:div>
+</body></text></TEI>

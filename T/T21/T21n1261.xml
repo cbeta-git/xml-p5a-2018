@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T21n1261">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1261 訶利帝母真言經</title>
+			<author>唐 不空譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $<date>$Date: 2009/04/23 08:01:45 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:45 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 21, No. 1261 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-31T09:31:32">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T21n1261.xml,v $
+Revision 1.8  2009/04/23 08:01:45  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2006/04/12 21:55:55  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.5  2004/10/22 04:03:44  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/04/20 08:39:12  maha
+「版本日期」標記修訂
+
+Revision 1.3  2003/06/23 06:16:50  saywhat
+[＊]校勘插入XML
+
+Revision 1.2  2003/05/26 11:39:20  saywhat
+【宋】【元】【明】＊改成【宋】＊【元】＊【明】＊
+
+Revision 1.1.1.1  2003/05/05 04:09:28  ray
+recover cvs
+
+Revision 1.16  2002/11/28 10:06:37  saywhat
+校勘插入處理
+
+Revision 1.15  2002/11/04 10:46:13  ray
+tei.2 => TEI.2
+
+Revision 1.14  2002/10/21 08:13:34  ray
+移動 <anchor>+<note>, <anchor>+雙圈
+
+Revision 1.13  2002/10/07 13:13:02  moved
+modified
+
+Revision 1.12  2002/07/29 09:57:20  vinking
+modified lang
+
+Revision 1.11  2002/04/08 09:07:13  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.10  2001/11/05 06:14:16  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.9  2001/07/27 07:12:34  ray
+去除多餘的 <author>
+
+Revision 1.8  2001/07/24 06:53:41  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.7  2001/03/30 05:57:31  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.6  2001/03/25 09:18:36  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 06:57:28  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 07:47:21  chris
+Added keywords $Revision: 1.8 $, $Date: 2009/04/23 08:01:45 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0289b15" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0289b16" ed="T"/>
+<lb n="0289b17" ed="T"/>
+<lb n="0289b18" ed="T"/><cb:docNumber>No. 1261</cb:docNumber><cb:div type="jing">
+<lb n="0289b19" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0289016" resp="Taisho" place="foot text" type="orig">【原】麗本，【甲】卅帖策子第十六，【乙】黃檗版淨嚴等加筆本</note><title>訶利帝母真言<note n="0289017" resp="Taisho" place="foot text" type="orig">經＝法【三】【甲】【乙】</note><note n="0289017" resp="CBETA" type="mod">經＝法【宋】【元】【明】【甲】【乙】</note><app n="0289017"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">法</rdg></app></title></cb:jhead></cb:juan>
+<lb n="0289b20" ed="T"/>
+<lb n="0289b21" ed="T"/><byline cb:type="Translator"><note n="0289018" resp="Taisho" place="foot text" type="orig">（（開府…門））四十一字＝（（特進試鴻臚卿大廣善寺三藏沙門大廣智））十七字【宋】【元】【甲】，（（唐特進試鴻臚卿三藏沙門大廣智））十四字【明】【乙】</note><app cb:word-count="41" n="0289018"><lem wit="【大】">開府儀同三司特進試鴻臚卿肅國
+<lb n="0289b22" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒
+<lb n="0289b23" ed="T"/>正號大廣智大興善寺三藏沙門</lem><rdg resp="Taisho" wit="【宋】【元】【甲】">特進試鴻臚卿大廣善寺三藏沙門大廣智</rdg><rdg resp="Taisho" wit="【明】【乙】">唐特進試鴻臚卿三藏沙門大廣智</rdg></app>
+<lb n="0289b24" ed="T"/>不空奉　詔譯</byline>
+<lb n="0289b25" ed="T"/><p xml:id="pT21p0289b2501">爾時訶利<note n="0289019" resp="Taisho" place="foot text" type="orig">帝＋（母）【乙】</note><app n="0289019"><lem wit="【大】">帝</lem><rdg resp="Taisho" wit="【乙】">帝母</rdg></app>藥叉女。在佛眾會從座而起。五
+<lb n="0289b26" ed="T"/>體投地禮佛雙足。而白佛言。我有心真言。
+<lb n="0289b27" ed="T"/><note n="0289020" resp="Taisho" place="foot text" type="orig">由＝猶【元】【明】【乙】</note><app n="0289020"><lem wit="【大】">由</lem><rdg resp="Taisho" wit="【元】【明】【乙】">猶</rdg></app>如真多摩尼寶能滿一切意願。為利益安
+<lb n="0289b28" ed="T"/>樂閻浮提諸善<note n="0289021" resp="Taisho" place="foot text" type="orig">男子及善女人＝女人及男女故【三】【甲】【乙】</note><note n="0289021" resp="CBETA" type="mod">男子及善女人＝女人及男女故【宋】【元】【明】【甲】【乙】</note><app n="0289021"><lem wit="【大】">男子<note n="0289022" resp="Taisho" place="foot text" type="orig">及善女人＝善女人等及男女故ィ【乙】</note><app n="0289022"><lem wit="【大】">及善女人</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">善女人等及男女故</rdg></app></lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">女人及男女故</rdg></app>。<note n="0289023" resp="Taisho" place="foot text" type="orig">唯＝惟【三】【乙】</note><note n="0289023" resp="CBETA" type="mod">唯＝惟【宋】【元】【明】【乙】</note><app n="0289023"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">惟</rdg></app>願世尊
+<lb n="0289b29" ed="T"/>哀愍聽許。我今說之。</p>
+<pb n="0289c" xml:id="T21.1261.0289c" ed="T"/>
+<lb n="0289c01" ed="T"/><p xml:id="pT21p0289c0101">真言曰。</p>
+<lb n="0289c02" ed="T"/><p xml:id="pT21p0289c0201" cb:type="dharani"><note n="0289024" resp="Taisho" place="foot text" type="orig">唵＋（引一）夾註【三】【乙】</note><note n="0289024" resp="CBETA" type="mod">唵＋（引一）夾註【宋】【元】【明】【乙】</note><app n="0289024"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">唵<note place="inline">引一</note></rdg></app>弩弩麼<note place="inline">引</note>里迦<note place="inline">引</note>呬帝娑嚩<note place="inline">二合引</note>訶<note place="inline"><note n="0289025" resp="Taisho" place="foot text" type="orig">引＋（二）【三】【乙】</note><note n="0289025" resp="CBETA" type="mod">引＋（二）【宋】【元】【明】【乙】</note><app n="0289025"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">引二</rdg></app></note></p>
+<lb n="0289c03" ed="T"/><p xml:id="pT21p0289c0301">若有女人不宜男女。或在胎中墮落斷<note n="0289026" resp="Taisho" place="foot text" type="orig">緒＝敘【三】【甲】</note><note n="0289026" resp="CBETA" type="mod">緒＝敘【宋】【元】【明】【甲】</note><app n="0289026"><lem wit="【大】">緒</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">敘</rdg></app>不
+<lb n="0289c04" ed="T"/>收。皆由四大<note n="0289027" resp="Taisho" place="foot text" type="orig">不＋（宜男女）【三】【甲】</note><note n="0289027" resp="CBETA" type="mod">不＋（宜男女）【宋】【元】【明】【甲】</note><app n="0289027"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">不宜男女</rdg></app>不能調適。或被鬼神作諸障
+<lb n="0289c05" ed="T"/>難。<note n="0289028" resp="Taisho" place="foot text" type="orig">或＝此【明】【乙】</note><app n="0289028"><lem wit="【大】">或</lem><rdg resp="Taisho" wit="【明】【乙】">此</rdg></app>是宿業因緣不宜男女。應取白㲲或一
+<lb n="0289c06" ed="T"/>肘或一<note n="0289029" resp="Taisho" place="foot text" type="orig">搩＝磔【三】【乙】</note><note n="0289029" resp="CBETA" type="mod">搩＝磔【宋】【元】【明】【乙】</note><app n="0289029"><lem wit="【大】">搩</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">磔</rdg></app>手或長五寸<note n="0289030" resp="Taisho" place="foot text" type="orig">（或）＋隨【三】【甲】【乙】</note><note n="0289030" resp="CBETA" type="mod">（或）＋隨【宋】【元】【明】【甲】【乙】</note><app n="0289030"><lem wit="【大】">隨</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">或隨</rdg></app>意大小。畫訶利
+<lb n="0289c07" ed="T"/>帝母。作天女形<note n="0289031" resp="Taisho" place="foot text" type="orig">純＝像【三】【乙】</note><note n="0289031" resp="CBETA" type="mod">純＝像【宋】【元】【明】【乙】</note><app n="0289031"><lem wit="【大】">純</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">像</rdg></app>金色。身著天衣頭冠瓔
+<lb n="0289c08" ed="T"/>珞。坐<note n="0289032" resp="Taisho" place="foot text" type="orig">宣＝寶【三】＊</note><note n="0289032" resp="CBETA" type="mod">宣＝寶【宋】＊【元】＊【明】＊</note><app n="0289032"><lem wit="【大】">宣</lem><rdg resp="Taisho" wit="【宋】【元】【明】">寶</rdg></app>臺上垂下兩足。於垂足兩邊畫二孩
+<lb n="0289c09" ed="T"/>子。傍<app type="star" corresp="#0289032"><lem wit="【大】">宣</lem><rdg resp="Taisho" wit="【宋】【元】【明】">寶</rdg></app>臺立。於二膝上各坐一孩子。以左
+<lb n="0289c10" ed="T"/><note n="0289033" resp="Taisho" place="foot text" type="orig">〔手〕－【三】【甲】</note><note n="0289033" resp="CBETA" type="mod">〔手〕－【宋】【元】【明】【甲】</note><app n="0289033"><lem wit="【大】">手</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】"><space quantity="0"/></rdg></app>懷中抱一孩子。於右手中持吉祥菓。畫師
+<lb n="0289c11" ed="T"/>應受八戒。其彩色中不用皮膠。畫像成已。淨
+<lb n="0289c12" ed="T"/>治一室嚴儀塗拭。以香<note n="0289034" resp="Taisho" place="foot text" type="orig">塗＝泥【三】【甲】【乙】</note><note n="0289034" resp="CBETA" type="mod">塗＝泥【宋】【元】【明】【甲】【乙】</note><app n="0289034"><lem wit="【大】">塗</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">泥</rdg></app>作<note n="0289035" resp="Taisho" place="foot text" type="orig">〔一〕－【三】【甲】【乙】</note><note n="0289035" resp="CBETA" type="mod">〔一〕－【宋】【元】【明】【甲】【乙】</note><app n="0289035"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app>方壇。置像
+<lb n="0289c13" ed="T"/>壇中。以種種華散於壇上。復以甘脆飲食乳
+<lb n="0289c14" ed="T"/>糜酪飯及諸菓子閼伽香水。燒沈水香而<note n="0289036" resp="Taisho" place="foot text" type="orig">〔用〕－【三】【甲】【乙】</note><note n="0289036" resp="CBETA" type="mod">〔用〕－【宋】【元】【明】【甲】【乙】</note><app n="0289036"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app>
+<lb n="0289c15" ed="T"/>供養。像面向西持誦者面東。對像念誦每日
+<lb n="0289c16" ed="T"/>三時。時別誦一千遍。取月生五日起首。先誦
+<lb n="0289c17" ed="T"/><note n="0289037" resp="Taisho" place="foot text" type="orig">十＝千【元】【明】</note><app n="0289037"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【元】【明】">千</rdg></app>萬遍。然後對像前念誦。所求一切事皆悉
+<lb n="0289c18" ed="T"/>圓滿。</p>
+<lb n="0289c19" ed="T"/><p xml:id="pT21p0289c1901">又法女人欲得男女者。月經後澡浴。取黃<note n="0289038" resp="Taisho" place="foot text" type="orig">乳牛＝牛乳【三】【甲】【乙】</note><note n="0289038" resp="CBETA" type="mod">乳牛＝牛乳【宋】【元】【明】【甲】【乙】</note><app n="0289038"><lem wit="【大】">乳
+<lb n="0289c20" ed="T"/>牛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">牛乳</rdg></app>母子同色者。<note n="0289039" resp="Taisho" place="foot text" type="orig">搆＝𤛗【三】【乙】</note><note n="0289039" resp="CBETA" type="mod">搆＝𤛗【宋】【元】【明】【乙】</note><app n="0289039"><lem wit="【大】">搆</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">𤛗</rdg></app>乳一升置銀器中。以右手
+<lb n="0289c21" ed="T"/>無名指攪乳。誦真言加持一千八十遍。然後
+<lb n="0289c22" ed="T"/>取服。至<note n="0289040" resp="Taisho" place="foot text" type="orig">七＝五【三】【乙】</note><note n="0289040" resp="CBETA" type="mod">七＝五【宋】【元】【明】【乙】</note><app n="0289040"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">五</rdg></app>日內則得有胎。</p>
+<lb n="0289c23" ed="T"/><p xml:id="pT21p0289c2301">又法欲令他人歡喜敬愛者。或飲食菓子或
+<pb n="0290a" xml:id="T21.1261.0290a" ed="T"/>
+<lb n="0290a01" ed="T"/>華或香。加持一百八遍。於真言句中加彼人
+<lb n="0290a02" ed="T"/>名。將與彼人則得歡喜<note n="0290001" resp="Taisho" place="foot text" type="orig">愛敬＝敬愛【宋】【明】【乙】，敬受【元】</note><note n="0290001" resp="CBETA" type="mod">愛敬＝敬愛【宋】【明】【乙】，＝敬受【元】</note><app n="0290001"><lem wit="【大】">愛敬</lem><rdg resp="Taisho" wit="【宋】【明】【乙】">敬愛</rdg><rdg resp="Taisho" wit="【元】">敬受</rdg></app>。</p>
+<lb n="0290a03" ed="T"/><p xml:id="pT21p0290a0301">又法若有人作留難口舌者。畫彼人形左脚
+<lb n="0290a04" ed="T"/>踏之。誦真言一千八十遍則得無難。</p>
+<lb n="0290a05" ed="T"/><p xml:id="pT21p0290a0501">又法欲令一切人歡喜<note n="0290002" resp="Taisho" place="foot text" type="orig">〔者〕－【三】【甲】</note><note n="0290002" resp="CBETA" type="mod">〔者〕－【宋】【元】【明】【甲】</note><app n="0290002"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】"><space quantity="0"/></rdg></app>。取牛黃末置銀器
+<lb n="0290a06" ed="T"/>中。准前以無名指攪誦真言加持一百八遍。
+<lb n="0290a07" ed="T"/>點於額上一切人見皆歡喜順伏。</p>
+<lb n="0290a08" ed="T"/><p xml:id="pT21p0290a0801">又法若<note n="0290003" resp="Taisho" place="foot text" type="orig">〔得〕－【三】【甲】【乙】</note><note n="0290003" resp="CBETA" type="mod">〔得〕－【宋】【元】【明】【甲】【乙】</note><app n="0290003"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app>新衣服。對像前加持一百八遍。然
+<lb n="0290a09" ed="T"/>後取著一切人見亦皆歡喜敬愛。</p>
+<lb n="0290a10" ed="T"/><p xml:id="pT21p0290a1001">又法若有惡夢。誦真言一百八遍。則得惡夢
+<lb n="0290a11" ed="T"/>消除。</p>
+<lb n="0290a12" ed="T"/><p xml:id="pT21p0290a1201">又法若月蝕時。取酥五兩置<note n="0290004" resp="Taisho" place="foot text" type="orig">〔金〕－【三】【甲】【乙】</note><note n="0290004" resp="CBETA" type="mod">〔金〕－【宋】【元】【明】【甲】【乙】</note><app n="0290004"><lem wit="【大】">金</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app>器中。以金筯
+<lb n="0290a13" ed="T"/>攪。無<note n="0290005" resp="Taisho" place="foot text" type="orig">〔令〕－【三】【甲】【乙】</note><note n="0290005" resp="CBETA" type="mod">〔令〕－【宋】【元】【明】【甲】【乙】</note><app n="0290005"><lem wit="【大】">令</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app>間斷念誦加持。乃至月却得圓滿為
+<lb n="0290a14" ed="T"/>限。然後取一分供養訶利帝母。餘者漸喫。即
+<lb n="0290a15" ed="T"/>有胎孕所生男女聰慧福德　又法取牛膝根
+<lb n="0290a16" ed="T"/>作齒木。加持一百八遍嚼及揩齒。所出言詞
+<lb n="0290a17" ed="T"/>令人樂聞。意欲所求他人之事皆得隨意成
+<lb n="0290a18" ed="T"/>就　又法欲得壽命長遠者。取骨屢草嫩苗。
+<lb n="0290a19" ed="T"/>搵蘇蜜酪護摩七夜。夜別誦真言一千八<note n="0290006" resp="Taisho" place="foot text" type="orig">遍一遍＝十遍【三】【乙】</note><note n="0290006" resp="CBETA" type="mod">〔遍〕－【宋】【元】【明】【乙】</note><app n="0290006"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】"><space quantity="0"/></rdg></app>。
+<lb n="0290a20" ed="T"/><note n="0290007" resp="Taisho" place="foot text" type="orig">〔一遍一擲〕－【甲】</note><note n="0290007" resp="CBETA" type="mod">〔一遍一擲〕－【甲】，一遍＝十遍【宋】【元】【明】【乙】</note><app n="0290007"><lem wit="【大】">一遍一擲</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">十遍一擲</rdg></app>火中則長壽。</p>
+<lb n="0290a21" ed="T"/><p xml:id="pT21p0290a2101">又法欲得所為所作隨意成就者。每月<note n="0290008" resp="Taisho" place="foot text" type="orig">〔月〕－【三】【甲】【乙】</note><note n="0290008" resp="CBETA" type="mod">〔月〕－【宋】【元】【明】【甲】【乙】</note><app n="0290008"><lem wit="【大】">月</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app>生
+<lb n="0290a22" ed="T"/>五日二十日。塗<note n="0290009" resp="Taisho" place="foot text" type="orig">拭＝飾【三】【乙】</note><note n="0290009" resp="CBETA" type="mod">拭＝飾【宋】【元】【明】【乙】</note><app n="0290009"><lem wit="【大】">拭</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">飾</rdg></app>道場散華。種種飲食乳糜
+<lb n="0290a23" ed="T"/>酪飯。及諸菓子閼伽香水。燒沈香薰陸以用
+<lb n="0290a24" ed="T"/>供養。先供養一切如來文殊師利菩薩普賢
+<lb n="0290a25" ed="T"/>等一切菩薩。然後供養我訶利帝母。何以故。
+<lb n="0290a26" ed="T"/>我本藥叉女。如來<note n="0290010" resp="Taisho" place="foot text" type="orig">授＝受【三】【甲】【乙】</note><note n="0290010" resp="CBETA" type="mod">授＝受【宋】【元】【明】【甲】【乙】</note><app n="0290010"><lem wit="【大】">授</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">受</rdg></app>與我三歸五戒菩提心
+<lb n="0290a27" ed="T"/>律儀戒。對諸十地菩薩故。是先供養諸佛菩
+<lb n="0290a28" ed="T"/>薩。供養已。對此像前誦一萬遍。所求事業皆
+<lb n="0290a29" ed="T"/>得滿足。</p>
+<pb n="0290b" xml:id="T21.1261.0290b" ed="T"/>
+<lb n="0290b01" ed="T"/><p xml:id="pT21p0290b0101">訶利帝母念誦法。</p>
+<lb n="0290b02" ed="T"/><p xml:id="pT21p0290b0201">愛子心真言<note n="0290011" resp="Taisho" place="foot text" type="orig">〔曰〕－【三】【甲】【乙】</note><note n="0290011" resp="CBETA" type="mod">〔曰〕－【宋】【元】【明】【甲】【乙】</note><app n="0290011"><lem wit="【大】">曰</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app>。</p>
+<lb n="0290b03" ed="T"/><p xml:id="pT21p0290b0301" cb:type="dharani"><note n="0290012" resp="Taisho" place="foot text" type="orig">唵＋（引一）夾註【三】【乙】</note><note n="0290012" resp="CBETA" type="mod">唵＋（引一）夾註【宋】【元】【明】【乙】</note><app n="0290012"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">唵<note place="inline">引一</note></rdg></app>知<note place="inline">上</note>尾知<note place="inline">上</note>𩕳娑嚩<note place="inline">二合引</note><note n="0290013" resp="Taisho" place="foot text" type="orig">訶＋（引二）夾註【三】【乙】</note><note n="0290013" resp="CBETA" type="mod">訶＋（引二）夾註【宋】【元】【明】【乙】</note><app n="0290013"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">訶<note place="inline">引二</note></rdg></app></p>
+<lb n="0290b04" ed="T"/><p xml:id="pT21p0290b0401">印合掌屈二大拇指入掌中。誦心真言供養
+<lb n="0290b05" ed="T"/>訖。於頂上放二大拇指即散去。請召發遣皆
+<lb n="0290b06" ed="T"/><note n="0290014" resp="Taisho" place="foot text" type="orig">放＝倣【三】【乙】</note><note n="0290014" resp="CBETA" type="mod">放＝倣【宋】【元】【明】【乙】</note><app n="0290014"><lem wit="【大】">放</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">倣</rdg></app>此印。以白檀香。橫量六指作童子形。具
+<lb n="0290b07" ed="T"/>足兩手各把菓子與人。頭上作三髻角子。於
+<lb n="0290b08" ed="T"/>閑<note n="0290015" resp="Taisho" place="foot text" type="orig">淨＝靜【三】【乙】</note><note n="0290015" resp="CBETA" type="mod">淨＝靜【宋】【元】【明】【乙】</note><app n="0290015"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">靜</rdg></app>處安置。誦真言<note n="0290016" resp="Taisho" place="foot text" type="orig">（一）＋萬【乙】</note><app n="0290016"><lem wit="【大】">萬</lem><rdg resp="Taisho" wit="【乙】">一萬</rdg></app>遍。即現身問言。喚
+<lb n="0290b09" ed="T"/>我何事。隨心答之。取黃牛肉方寸。一加持一
+<lb n="0290b10" ed="T"/>燒日三時。滿四日得大自在隨意。</p>
+<lb n="0290b11" ed="T"/><p xml:id="pT21p0290b1101">又法牛肉<note n="0290017" resp="Taisho" place="foot text" type="orig">（和）＋安【乙】</note><app n="0290017"><lem wit="【大】">安</lem><rdg resp="Taisho" wit="【乙】">和安</rdg></app><note n="0290018" resp="Taisho" place="foot text" type="orig">悉＝息【明】【乙】＊</note><app n="0290018"><lem wit="【大】">悉</lem><rdg resp="Taisho" wit="【明】【乙】">息</rdg></app>香為丸。月八日<note n="0290019" resp="Taisho" place="foot text" type="orig">（日）＋三【乙】</note><app n="0290019"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【乙】">日三</rdg></app>時念誦。
+<lb n="0290b12" ed="T"/>燒上香<note n="0290020" resp="Taisho" place="foot text" type="orig">一＋（千）【三】【甲】【乙】</note><note n="0290020" resp="CBETA" type="mod">一＋（千）【宋】【元】【明】【甲】【乙】</note><app n="0290020"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">一千</rdg></app>八遍。至<note n="0290021" resp="Taisho" place="foot text" type="orig">十＋（四）ヵ【乙】</note><app n="0290021"><lem resp="Taisho" wit="【大】">十</lem><rdg resp="Taisho" wit="【乙】" type="correctionRemark">十四</rdg></app>日已。夜半現大光相
+<lb n="0290b13" ed="T"/>得大神力。安<app type="star" corresp="#0290018"><lem wit="【大】">悉</lem><rdg resp="Taisho" wit="【明】【乙】">息</rdg></app>香為丸一加持一燒日三時。
+<lb n="0290b14" ed="T"/>時別一千八遍五日調伏一切人。</p>
+<lb n="0290b15" ed="T"/><p xml:id="pT21p0290b1501">又法百草花一一加持散身上。得千人衣食。</p>
+<lb n="0290b16" ed="T"/><p xml:id="pT21p0290b1601">又法日誦真言燒蘇合香七日。見地下金藏。
+<lb n="0290b17" ed="T"/><note n="0290022" resp="Taisho" place="foot text" type="orig">以＝已【三】【甲】</note><note n="0290022" resp="CBETA" type="mod">以＝已【宋】【元】【明】【甲】</note><app n="0290022"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">已</rdg></app>種種花菓飲食壇中供養。日日如是得一
+<lb n="0290b18" ed="T"/>切財寶。</p>
+<lb n="0290b19" ed="T"/><p xml:id="pT21p0290b1901">又法安<note n="0290023" resp="Taisho" place="foot text" type="orig">悉＝悉香【宋】【元】，息香【明】【乙】</note><note n="0290023" resp="CBETA" type="mod">悉＝悉香【宋】【元】，＝息香【明】【乙】</note><app n="0290023"><lem wit="【大】">悉</lem><rdg resp="Taisho" wit="【宋】【元】">悉香</rdg><rdg resp="Taisho" wit="【明】【乙】">息香</rdg></app>和乳粥。一加持一燒七日。日三時
+<lb n="0290b20" ed="T"/>時別一千八遍。現身共語<note n="0290024" resp="Taisho" place="foot text" type="orig">供＝任【三】【甲】【乙】</note><note n="0290024" resp="CBETA" type="mod">供＝任【宋】【元】【明】【甲】【乙】</note><app n="0290024"><lem wit="【大】">供</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">任</rdg></app>意問。</p>
+<lb n="0290b21" ed="T"/><p xml:id="pT21p0290b2101">又法被禁閉。誦一萬遍即解脫。治病加持菴
+<lb n="0290b22" ed="T"/>羅菓<note n="0290025" resp="Taisho" place="foot text" type="orig">芽＝葉【三】【甲】【乙】</note><note n="0290025" resp="CBETA" type="mod">芽＝葉【宋】【元】【明】【甲】【乙】</note><app n="0290025"><lem wit="【大】">芽</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">葉</rdg></app>乳中漬燒加持。除一切病。</p>
+<lb n="0290b23" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>訶利帝母<note n="0290026" resp="Taisho" place="foot text" type="orig">經＝真言法【三】【乙】，經＝法【甲】</note><note n="0290026" resp="CBETA" type="mod">經＝真言法【宋】【元】【明】【乙】，經＝法【甲】</note><app n="0290026"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">真言法</rdg><rdg resp="Taisho" wit="【甲】">法</rdg></app><note n="0290027" resp="Taisho" place="foot text" type="orig">乙本冠註曰貞享四年二月十六挍點之了淨嚴四十九載，元祿十五年十一月二十五日以淨嚴大和尚御本再挍了尊教</note></title></cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

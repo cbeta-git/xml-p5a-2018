@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T55n2181">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 2181 注進法相宗章疏</title>
+			<author>日本 藏俊撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $<date>$Date: 2009/04/23 08:14:36 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:14:36 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 55, No. 2181 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2001-02-01T16:31:29">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T55n2181.xml,v $
+Revision 1.10  2009/04/23 08:14:36  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2006/04/12 22:00:39  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.7  2004/07/16 09:13:11  moved
+modified：執行 margin.pl，加入 em 單位。
+
+Revision 1.6  2004/04/20 08:44:41  maha
+「版本日期」標記修訂
+
+Revision 1.5  2004/01/02 05:56:05  maha
+<note mod>裡的corr2app
+
+Revision 1.4  2003/06/19 03:48:14  eva
+modified: 插入星號校勘
+
+Revision 1.3  2003/05/10 10:04:37  ray
+add <milestone type="juan"/>
+
+Revision 1.2  2003/05/05 06:33:29  eva
+modified
+
+Revision 1.26  2002/12/05 12:53:00  eva
+modified
+
+Revision 1.24  2002/11/19 10:07:47  eva
+modified
+
+Revision 1.23  2002/11/11 11:25:18  eva
+modified
+
+Revision 1.20  2002/11/04 11:04:12  ray
+tei.2 => TEI.2
+
+Revision 1.19  2002/10/21 08:24:34  ray
+移動 <anchor>+<note>, <anchor>+雙圈
+
+Revision 1.18  2002/09/27 06:59:10  vinking
+modified anchor和全型空白對調
+
+Revision 1.17  2002/08/08 06:56:41  eva
+modified
+
+Revision 1.16  2002/07/29 09:47:44  vinking
+modified lang
+
+Revision 1.15  2002/04/08 09:50:02  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.14  2001/11/05 06:23:40  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.13  2001/07/27 07:15:48  ray
+去除多餘的 <author>
+
+Revision 1.12  2001/07/24 07:03:44  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.11  2001/06/20 10:36:35  vinking
+added
+
+Revision 1.10  2001/05/14 08:54:01  saywhat
+html help recheck
+
+Revision 1.9  2001/04/12 14:13:25  vinking
+modified <div>
+
+Revision 1.8  2001/04/04 12:19:58  moved
+modified normal
+
+Revision 1.7  2001/04/03 11:57:47  moved
+modified normal
+
+Revision 1.6  2001/04/01 07:56:45  moved
+modified normal
+
+Revision 1.5  2001/03/30 07:18:39  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.4  2001/03/28 02:27:22  luchun147
+標記修改
+
+Revision 1.3  2001/02/07 07:47:21  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.2  2001/02/03 08:19:01  chris
+Added keywords $Revision: 1.10 $, $Date: 2009/04/23 08:14:36 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="1140b14" ed="T"/><milestone n="1" unit="juan"/>
+<lb n="1140b15" ed="T"/>
+<lb n="1140b16" ed="T"/><cb:docNumber>No. 2181</cb:docNumber><cb:div type="other">
+<lb n="1140b17" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead><note n="1140020" resp="Taisho" place="foot text" type="orig">【原】大日本佛教全書，【甲】大谷大學藏寫本</note>注進法相宗章<note n="1140021" resp="Taisho" place="foot text" type="orig">疏＋（私云安元目錄是也）細註【甲】</note><app n="1140021"><lem wit="【大】">疏</lem><rdg resp="Taisho" wit="【甲】">疏<note place="inline">私云安元目錄是也</note></rdg></app></cb:jhead></cb:juan>
+<lb n="1140b18" ed="T"/>
+<lb n="1140b19" ed="T"/><byline cb:type="Author">藏俊撰</byline>
+<lb n="1140b20" ed="T"/><list><item xml:id="itemT55p1140b2001"><title>妙法蓮華經玄贊十卷</title><note place="inline">本末十八卷</note>　大乘基撰</item>
+<lb n="1140b21" ed="T"/><item xml:id="itemT55p1140b2101"><title>同經音訓一卷</title>　同上</item>
+<lb n="1140b22" ed="T"/><item xml:id="itemT55p1140b2201"><title>同經為<note n="1140022" resp="Taisho" place="foot text" type="orig">〔為二〕－【甲】，〔為〕ィ－【甲】</note><app n="1140022"><lem wit="【大】">為二</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【甲】" type="variantRemark">二</rdg></app>章一卷</title>　同上</item>
+<lb n="1140b23" ed="T"/><item xml:id="itemT55p1140b2301"><title>同經科文一卷</title>　同上</item>
+<lb n="1140b24" ed="T"/><item xml:id="itemT55p1140b2401"><title>同經義決一卷</title>　惠沼</item>
+<lb n="1140b25" ed="T"/><item xml:id="itemT55p1140b2501"><title>同經攝釋四卷</title><note n="1140023" resp="Taisho" place="foot text" type="orig">〔釋…卷〕－【甲】</note><app cb:word-count="8" n="1140023"><lem wit="【大】"><note place="inline">釋玄贊本末合八卷</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　樸<note n="1140024" resp="Taisho" place="foot text" type="orig">楊寺＝陽【甲】</note><app n="1140024"><lem wit="【大】">楊寺</lem><rdg resp="Taisho" wit="【甲】">陽</rdg></app>智周</item>
+<lb n="1140b26" ed="T"/><item xml:id="itemT55p1140b2601"><title>同經決擇記八卷</title>　同上</item>
+<lb n="1140b27" ed="T"/><item xml:id="itemT55p1140b2701"><title>同經要集</title>三十卷　鏡水寺沙門栖<note n="1140025" resp="Taisho" place="foot text" type="orig">複撰＝復【甲】</note><app n="1140025"><lem wit="【大】">複撰</lem><rdg resp="Taisho" wit="【甲】">復</rdg></app></item>
+<lb n="1140b28" ed="T"/><item xml:id="itemT55p1140b2801"><title>同經翼贊十卷</title>　法<note n="1140026" resp="Taisho" place="foot text" type="orig">證＝澄ィ【甲】</note><app n="1140026"><lem wit="【大】">證</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">澄</rdg></app>撰</item>
+<lb n="1140b29" ed="T"/><item xml:id="itemT55p1140b2901"><title>同經弘贊</title>十三卷<note place="inline">或廿五卷</note>　行賀</item>
+<pb n="1140c" xml:id="T55.2181.1140c" ed="T"/>
+<lb n="1140c01" ed="T"/><item xml:id="itemT55p1140c0101"><title>同經<note n="1140027" resp="Taisho" place="foot text" type="orig">辨＋（闍）【甲】</note><app n="1140027"><lem wit="【大】">辨</lem><rdg resp="Taisho" wit="【甲】">辨闍</rdg></app></title>十二卷　有則</item>
+<lb n="1140c02" ed="T"/><item xml:id="itemT55p1140c0201"><title>同經解節記三卷</title><note place="inline">釋義決</note>　元興寺護命<note n="1140028" resp="Taisho" place="foot text" type="orig">〔撰〕－【甲】＊</note><app n="1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1140c03" ed="T"/><item xml:id="itemT55p1140c0301"><title>同經解節記十卷</title>　同上</item>
+<lb n="1140c04" ed="T"/><item xml:id="itemT55p1140c0401"><title>同經略記三卷</title><note place="inline">或四卷</note>　東大寺明一<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1140c05" ed="T"/><item xml:id="itemT55p1140c0501"><note n="1140029" resp="Taisho" place="foot text" type="orig">（同經…一撰）十一字∞（同經…珠撰）十二字【甲】</note><note n="1140029" resp="CBETA" type="mod">（同經要略三卷奧州德一撰）十一字∞（同經肝心一卷興福寺善珠撰）十二字【甲】</note><app n="1140029"><lem wit="【大】"><title>同經要略三卷</title>　奧州德一<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></lem><rdg resp="Taisho" wit="【甲】">同經肝心一卷興福寺善珠撰</rdg></app></item>
+<lb n="1140c06" ed="T"/><item xml:id="itemT55p1140c0601"><note n="1140030" resp="Taisho" place="foot text" type="orig">（同經…一撰）十一字∞（同經…珠撰）十二字【甲】</note><note n="1140030" resp="CBETA" type="mod">（同經要略三卷奧州德一撰）十一字∞（同經肝心一卷興福寺善珠撰）十二字【甲】</note><app n="1140030"><lem wit="【大】"><title>同經肝心一卷</title>　興福寺善珠<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></lem><rdg resp="Taisho" wit="【甲】">同經要略三卷奧州德一撰</rdg></app></item>
+<lb n="1140c07" ed="T"/><item xml:id="itemT55p1140c0701"><title>同經肝心二卷</title>　德一<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1140c08" ed="T"/><item xml:id="itemT55p1140c0801"><title>同經常記十卷</title>　作者可尋</item>
+<lb n="1140c09" ed="T"/><item xml:id="itemT55p1140c0901"><title>同經述讚十卷</title>　惠<note n="1140031" resp="Taisho" place="foot text" type="orig">淨＝沼【甲】</note><app n="1140031"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【甲】">沼</rdg></app></item>
+<lb n="1140c10" ed="T"/><item xml:id="itemT55p1140c1001"><title>同經讚略二卷</title>　同上</item>
+<lb n="1140c11" ed="T"/><item xml:id="itemT55p1140c1101"><title>同經疏八卷</title>　玄範<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1140c12" ed="T"/><item xml:id="itemT55p1140c1201"><title>同經略頌一卷</title>　興福寺仲算</item>
+<lb n="1140c13" ed="T"/><item xml:id="itemT55p1140c1301"><title>同經陀羅尼集一卷</title>　同上</item>
+<lb n="1140c14" ed="T"/><item xml:id="itemT55p1140c1401"><title>同經釋文三卷</title>　同上</item>
+<lb n="1140c15" ed="T"/><item xml:id="itemT55p1140c1501"><title>同經或本異文抄一卷</title>　興福寺定慶<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1140c16" ed="T"/><item xml:id="itemT55p1140c1601"><title>大般若經幽贊一卷</title>　義寂撰</item>
+<lb n="1140c17" ed="T"/><item xml:id="itemT55p1140c1701"><title>同經略記□<note n="1140032" resp="Taisho" place="foot text" type="orig">〔卷〕－【甲】</note><app n="1140032"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></title>　遁倫<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1140c18" ed="T"/><item xml:id="itemT55p1140c1801"><title>同經玄文</title>二十卷　東大寺法藏<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1140c19" ed="T"/><item xml:id="itemT55p1140c1901"><title>同經籍目二卷</title></item>
+<lb n="1140c20" ed="T"/><item xml:id="itemT55p1140c2001"><title>同經音義三卷</title>　玄應</item>
+<lb n="1140c21" ed="T"/><item xml:id="itemT55p1140c2101"><title>同經音義三卷</title>　元興寺信行</item>
+<lb n="1140c22" ed="T"/><item xml:id="itemT55p1140c2201"><title>同經音訓四卷</title>　興福寺真興</item>
+<pb n="1141a" xml:id="T55.2181.1141a" ed="T"/>
+<lb n="1141a01" ed="T"/><item xml:id="itemT55p1141a0101"><title>同經略頌</title>　仲算</item>
+<lb n="1141a02" ed="T"/><item xml:id="itemT55p1141a0201"><title>同經十六會序一卷</title>　玄測</item>
+<lb n="1141a03" ed="T"/><item xml:id="itemT55p1141a0301"><title>仁王般若經疏一卷</title>　惠沼<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141a04" ed="T"/><item xml:id="itemT55p1141a0401"><title>同經疏三卷</title>　圓測</item>
+<lb n="1141a05" ed="T"/><item xml:id="itemT55p1141a0501"><title>同經疏三卷</title>　法隆寺行信</item>
+<lb n="1141a06" ed="T"/><item xml:id="itemT55p1141a0601"><title>新翻仁王經三卷</title><note n="1141001" resp="Taisho" place="foot text" type="orig">〔本末六卷〕－【甲】</note><app n="1141001"><lem wit="【大】"><note place="inline">本末六卷</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　良賁</item>
+<lb n="1141a07" ed="T"/><item xml:id="itemT55p1141a0701"><title>般若心經幽贊二卷</title>　<note n="1141002" resp="Taisho" place="foot text" type="orig">〔大乘〕－【甲】＊</note><app n="1141002"><lem wit="【大】">大乘</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>基撰</item>
+<lb n="1141a08" ed="T"/><item xml:id="itemT55p1141a0801"><title>同經略贊一卷</title>　同上</item>
+<lb n="1141a09" ed="T"/><item xml:id="itemT55p1141a0901"><title>同經疏一卷</title>　圓測</item>
+<lb n="1141a10" ed="T"/><item xml:id="itemT55p1141a1001"><title>同經幽贊解節記六卷</title>　護命</item>
+<lb n="1141a11" ed="T"/><item xml:id="itemT55p1141a1101"><title>同經略釋一卷</title>　真興</item>
+<lb n="1141a12" ed="T"/><item xml:id="itemT55p1141a1201"><title>般若理趣分述贊三卷</title>　義<note n="1141003" resp="Taisho" place="foot text" type="orig">寂＋（私云印本基師述恐後人書矣）細註【甲】</note><app n="1141003"><lem wit="【大】">寂</lem><rdg resp="Taisho" wit="【甲】">寂<note place="inline">私云印本基師述恐後人書矣</note></rdg></app></item>
+<lb n="1141a13" ed="T"/><item xml:id="itemT55p1141a1301"><title>同經幽贊一卷</title>　<app type="star" corresp="#1141002"><lem wit="【大】">大乘</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>基撰</item>
+<lb n="1141a14" ed="T"/><item xml:id="itemT55p1141a1401"><title>同經疏一卷</title>　遁<note n="1141004" resp="Taisho" place="foot text" type="orig">經撰＝倫【甲】</note><app n="1141004"><lem wit="【大】">經撰</lem><rdg resp="Taisho" wit="【甲】">倫</rdg></app></item>
+<lb n="1141a15" ed="T"/><item xml:id="itemT55p1141a1501"><title>同經私抄三卷</title>　平備</item>
+<lb n="1141a16" ed="T"/><item xml:id="itemT55p1141a1601"><title>同經<note n="1141005" resp="Taisho" place="foot text" type="orig">注＝法ィ【甲】</note><app n="1141005"><lem wit="【大】">注</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">法</rdg></app>一卷</title>　<note n="1141006" resp="Taisho" place="foot text" type="orig">清＝聖ィ【甲】</note><app n="1141006"><lem wit="【大】">清</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">聖</rdg></app>範</item>
+<lb n="1141a17" ed="T"/><item xml:id="itemT55p1141a1701"><title>同經私<note n="1141007" resp="Taisho" place="foot text" type="orig">蹟＝<g ref="#CB14259"/>【甲】</note><app n="1141007"><lem wit="【大】">蹟</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB14259"/></rdg></app>三卷</title>　法藏</item>
+<lb n="1141a18" ed="T"/><item xml:id="itemT55p1141a1801"><title>金剛般若經述贊二卷</title>　<app type="star" corresp="#1141002"><lem wit="【大】">大乘</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>基撰</item>
+<lb n="1141a19" ed="T"/><item xml:id="itemT55p1141a1901"><title>同經會釋<note n="1141008" resp="Taisho" place="foot text" type="orig">三卷∞長五經二論會釋【甲】</note><app n="1141008"><lem wit="【大】">三卷</lem><rdg resp="Taisho" wit="【甲】">長五經二論會釋</rdg></app></title><note n="1141009" resp="Taisho" place="foot text" type="orig">三卷∞長五經二論會釋【甲】</note><app n="1141009"><lem wit="【大】"><note place="inline">長五經二論會釋</note></lem><rdg resp="Taisho" wit="【甲】"><note place="inline">三卷</note></rdg></app>　同上</item>
+<lb n="1141a20" ed="T"/><item xml:id="itemT55p1141a2001"><title>同經疏二卷</title>　<note n="1141010" resp="Taisho" place="foot text" type="orig">漢＝普【甲】</note><app n="1141010"><lem wit="【大】">漢</lem><rdg resp="Taisho" wit="【甲】">普</rdg></app>光</item>
+<lb n="1141a21" ed="T"/><item xml:id="itemT55p1141a2101"><title>同經疏二卷</title>　玄範</item>
+<lb n="1141a22" ed="T"/><item xml:id="itemT55p1141a2201"><title>同經疏<note n="1141011" resp="Taisho" place="foot text" type="orig">□＝二【甲】</note><app n="1141011"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">二</rdg></app>卷</title>　惠沼</item>
+<lb n="1141a23" ed="T"/><item xml:id="itemT55p1141a2301"><title>同經宣演三卷</title>　道<note n="1141012" resp="Taisho" place="foot text" type="orig">氤集＝氳【甲】</note><app n="1141012"><lem wit="【大】">氤集</lem><rdg resp="Taisho" wit="【甲】">氳</rdg></app></item>
+<lb n="1141a24" ed="T"/><item xml:id="itemT55p1141a2401"><title>同經料簡三卷</title>　<note n="1141013" resp="Taisho" place="foot text" type="orig">璟＝憬【甲】＊</note><app n="1141013"><lem wit="【大】">璟</lem><rdg resp="Taisho" wit="【甲】">憬</rdg></app>興<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141a25" ed="T"/><item xml:id="itemT55p1141a2501"><title>盂蘭盆經疏一卷</title>　大雲寺惠沼</item>
+<lb n="1141a26" ed="T"/><item xml:id="itemT55p1141a2601"><title>同經疏一卷</title>　惠淨<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141a27" ed="T"/><item xml:id="itemT55p1141a2701"><title>藥師經疏一卷</title>　基撰</item>
+<lb n="1141a28" ed="T"/><item xml:id="itemT55p1141a2801"><title>同經疏一卷</title>　靖邁<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141a29" ed="T"/><item xml:id="itemT55p1141a2901"><title>同經疏一卷</title>　遁倫<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<pb n="1141b" xml:id="T55.2181.1141b" ed="T"/>
+<lb n="1141b01" ed="T"/><item xml:id="itemT55p1141b0101"><title>同經疏一卷</title>　善珠<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b02" ed="T"/><item xml:id="itemT55p1141b0201"><title>千手經疏三卷</title>　基撰</item>
+<lb n="1141b03" ed="T"/><item xml:id="itemT55p1141b0301"><title>六門陀羅尼經疏一卷</title>　同上</item>
+<lb n="1141b04" ed="T"/><item xml:id="itemT55p1141b0401"><title>十一面經疏一卷</title>　惠沼</item>
+<lb n="1141b05" ed="T"/><item xml:id="itemT55p1141b0501"><title>同經疏一卷</title>　遁倫</item>
+<lb n="1141b06" ed="T"/><item xml:id="itemT55p1141b0601"><title>同經疏一卷</title>　靖邁</item>
+<lb n="1141b07" ed="T"/><item xml:id="itemT55p1141b0701"><title>不增不減經<note n="1141014" resp="Taisho" place="foot text" type="orig">〔疏〕－【甲】</note><app n="1141014"><lem wit="【大】">疏</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>一卷</title>　元曉</item>
+<lb n="1141b08" ed="T"/><item xml:id="itemT55p1141b0801"><title>八名經私記一卷</title>　善珠</item>
+<lb n="1141b09" ed="T"/><item xml:id="itemT55p1141b0901"><title><note n="1141015" resp="Taisho" place="foot text" type="orig">此次行甲本有同經抄一卷善珠七字</note>不空羂索經疏</title>　大莊嚴寺文軌</item>
+<lb n="1141b10" ed="T"/><item xml:id="itemT55p1141b1001"><title>十輪經抄<note n="1141016" resp="Taisho" place="foot text" type="orig">〔三卷〕－【甲】</note><app n="1141016"><lem wit="【大】">三卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></title>　大乘<note n="1141017" resp="Taisho" place="foot text" type="orig">昉撰＝神昉【甲】</note><app n="1141017"><lem wit="【大】">昉撰</lem><rdg resp="Taisho" wit="【甲】">神昉</rdg></app></item>
+<lb n="1141b11" ed="T"/><item xml:id="itemT55p1141b1101"><title>菩薩藏經疏<note n="1141018" resp="Taisho" place="foot text" type="orig">〔十卷〕－【甲】</note><app n="1141018"><lem wit="【大】">十卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></title>　靖邁<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b12" ed="T"/><item xml:id="itemT55p1141b1201"><title>般舟三昧經略記一卷</title>　元曉<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b13" ed="T"/><item xml:id="itemT55p1141b1301"><title>無量壽經疏三卷</title>　<app type="star" corresp="#1141013"><lem wit="【大】">璟</lem><rdg resp="Taisho" wit="【甲】">憬</rdg></app>興<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b14" ed="T"/><item xml:id="itemT55p1141b1401"><title>阿彌陀經疏一卷</title>　<app type="star" corresp="#1141002"><lem wit="【大】">大乘</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b15" ed="T"/><item xml:id="itemT55p1141b1501"><title>同經通贊疏二卷</title>　同上</item>
+<lb n="1141b16" ed="T"/><item xml:id="itemT55p1141b1601"><title>稱讚淨土<note n="1141019" resp="Taisho" place="foot text" type="orig">〔佛〕－【甲】</note><app n="1141019"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>攝受經疏一卷</title>　靖邁<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b17" ed="T"/><item xml:id="itemT55p1141b1701"><title>勝鬘經述記一卷</title>　<app type="star" corresp="#1141002"><lem wit="【大】">大乘</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b18" ed="T"/><item xml:id="itemT55p1141b1801"><title>同經疏一卷</title>　靖邁<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b19" ed="T"/><item xml:id="itemT55p1141b1901"><title>同經疏三卷</title>　元曉<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b20" ed="T"/><item xml:id="itemT55p1141b2001"><title>維摩詰經略贊七<note n="1141020" resp="Taisho" place="foot text" type="orig">卷＋（基）【甲】</note><app n="1141020"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷基</rdg></app></title></item>
+<lb n="1141b21" ed="T"/><item xml:id="itemT55p1141b2101"><title>無垢稱經疏六卷</title>　<app type="star" corresp="#1141002"><lem wit="【大】">大乘</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="1141021" resp="Taisho" place="foot text" type="orig">基＋（印本讚疏云）細註【甲】</note><app n="1141021"><lem wit="【大】">基</lem><rdg resp="Taisho" wit="【甲】">基<note place="inline">印本讚疏云</note></rdg></app><app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b22" ed="T"/><item xml:id="itemT55p1141b2201"><title>彌勒上生經贊二卷</title>　<note n="1141022" resp="Taisho" place="foot text" type="orig">同上＝基【甲】＊</note><app n="1141022"><lem wit="【大】">同上</lem><rdg resp="Taisho" wit="【甲】">基</rdg></app></item>
+<lb n="1141b23" ed="T"/><item xml:id="itemT55p1141b2301"><title>彌勒下<note n="1141023" resp="Taisho" place="foot text" type="orig">生＋（經成佛經疏一卷）【甲】</note><app n="1141023"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】">生經成佛經疏一卷</rdg></app></title>　<app type="star" corresp="#1141022"><lem wit="【大】">同上</lem><rdg resp="Taisho" wit="【甲】">基</rdg></app></item>
+<lb n="1141b24" ed="T"/><item xml:id="itemT55p1141b2401"><title><note n="1141024" resp="Taisho" place="foot text" type="orig">〔三〕－【甲】</note><app n="1141024"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>彌勒經贊三卷</title>　<app type="star" corresp="#1141013"><lem wit="【大】">璟</lem><rdg resp="Taisho" wit="【甲】">憬</rdg></app>興<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b25" ed="T"/><item xml:id="itemT55p1141b2501"><title>同經略贊三卷</title>　善珠<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b26" ed="T"/><item xml:id="itemT55p1141b2601"><title>同經抄一卷</title>　<note n="1141025" resp="Taisho" place="foot text" type="orig">善珠＝同上【甲】</note><app n="1141025"><lem wit="【大】">善珠</lem><rdg resp="Taisho" wit="【甲】">同上</rdg></app></item>
+<lb n="1141b27" ed="T"/><item xml:id="itemT55p1141b2701"><title>天請問經疏一卷</title>　基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b28" ed="T"/><item xml:id="itemT55p1141b2801"><note n="1141026" resp="Taisho" place="foot text" type="orig">〔解深…測〕九字－【甲】</note><app cb:word-count="9" n="1141026"><lem wit="【大】"><title>解深密經疏十卷</title>　圓測</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141b29" ed="T"/><item xml:id="itemT55p1141b2901"><title><note n="1141027" resp="Taisho" place="foot text" type="orig">同＝解深密【甲】</note><app n="1141027"><lem wit="【大】">同</lem><rdg resp="Taisho" wit="【甲】">解深密</rdg></app>經疏三卷</title>　元曉</item>
+<pb n="1141c" xml:id="T55.2181.1141c" ed="T"/>
+<lb n="1141c01" ed="T"/><item xml:id="itemT55p1141c0101"><title>觀普賢經玄贊三卷</title>　興福寺守朝</item>
+<lb n="1141c02" ed="T"/><item xml:id="itemT55p1141c0201"><title>同經略釋一卷</title>　同寺真興</item>
+<lb n="1141c03" ed="T"/><item xml:id="itemT55p1141c0301"><title>楞伽經疏八卷</title>　惠讚</item>
+<lb n="1141c04" ed="T"/><item xml:id="itemT55p1141c0401"><title>最勝<note n="1141028" resp="Taisho" place="foot text" type="orig">王＋（經）【甲】</note><app n="1141028"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【甲】">王經</rdg></app>疏六卷</title>　惠沼</item>
+<lb n="1141c05" ed="T"/><item xml:id="itemT55p1141c0501"><title>同經略贊五卷</title>　憬興</item>
+<lb n="1141c06" ed="T"/><item xml:id="itemT55p1141c0601"><title>同經羽足一卷</title>　平備</item>
+<lb n="1141c07" ed="T"/><item xml:id="itemT55p1141c0701"><title>同經遊心決三卷</title>　善珠</item>
+<lb n="1141c08" ed="T"/><item xml:id="itemT55p1141c0801"><title>涅槃經述贊</title>十四卷　憬興</item>
+<lb n="1141c09" ed="T"/><item xml:id="itemT55p1141c0901"><title>同經古迹記三卷</title>　太賢</item>
+<lb n="1141c10" ed="T"/><item xml:id="itemT55p1141c1001"><title>梵網經疏五卷</title>　<note n="1141029" resp="Taisho" place="foot text" type="orig">樸＝撲【甲】＊</note><app n="1141029"><lem wit="【大】">樸</lem><rdg resp="Taisho" wit="【甲】">撲</rdg></app>楊<note n="1141030" resp="Taisho" place="foot text" type="orig">〔寺〕－【甲】＊</note><app n="1141030"><lem wit="【大】">寺</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>智周</item>
+<lb n="1141c11" ed="T"/><item xml:id="itemT55p1141c1101"><title>同經疏二卷</title>　義寂</item>
+<lb n="1141c12" ed="T"/><item xml:id="itemT55p1141c1201"><title>同經古<note n="1141031" resp="Taisho" place="foot text" type="orig">迹＋（記）【甲】</note><app n="1141031"><lem wit="【大】">迹</lem><rdg resp="Taisho" wit="【甲】">迹記</rdg></app>二卷</title>　太賢</item>
+<lb n="1141c13" ed="T"/><item xml:id="itemT55p1141c1301"><title>同經私<note n="1141032" resp="Taisho" place="foot text" type="orig">抄＝鈔【甲】＊</note><app n="1141032"><lem wit="【大】">抄</lem><rdg resp="Taisho" wit="【甲】">鈔</rdg></app>二卷</title>　平備</item>
+<lb n="1141c14" ed="T"/><item xml:id="itemT55p1141c1401"><title>同經略抄三卷</title>　善珠</item>
+<lb n="1141c15" ed="T"/><item xml:id="itemT55p1141c1501"><title>法花經論述記三卷</title>　義<note n="1141033" resp="Taisho" place="foot text" type="orig">〔寂釋義〕－【甲】</note><app n="1141033"><lem wit="【大】">寂釋義</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="1141034" resp="Taisho" place="foot text" type="orig">一＝寂ヵ【甲】</note><app n="1141034"><lem resp="Taisho" wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">寂</rdg></app>撰</item>
+<lb n="1141c16" ed="T"/><item xml:id="itemT55p1141c1601"><title>同經記二卷</title>　明一<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141c17" ed="T"/><item xml:id="itemT55p1141c1701"><title>佛地論疏六卷</title>　靖邁<anchor xml:id="fxT55p1141c28"/>述</item>
+<lb n="1141c18" ed="T"/><item xml:id="itemT55p1141c1801"><title>同論疏四卷</title>　智仁</item>
+<lb n="1141c19" ed="T"/><item xml:id="itemT55p1141c1901"><title>攝大乘論<note n="1141035" resp="Taisho" place="foot text" type="orig">抄＝疏【甲】</note><app n="1141035"><lem wit="【大】">抄</lem><rdg resp="Taisho" wit="【甲】">疏</rdg></app>十卷</title>　基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141c20" ed="T"/><item xml:id="itemT55p1141c2001"><title>同論章五卷</title>　神廓</item>
+<lb n="1141c21" ed="T"/><item xml:id="itemT55p1141c2101"><title>同論疏</title>十一卷　同上</item>
+<lb n="1141c22" ed="T"/><item xml:id="itemT55p1141c2201"><title>同論疏十卷</title>　神泰</item>
+<lb n="1141c23" ed="T"/><item xml:id="itemT55p1141c2301"><title>顯揚論疏八卷</title>　憬興</item>
+<lb n="1141c24" ed="T"/><item xml:id="itemT55p1141c2401"><title>同論疏十卷</title>　智仁</item>
+<lb n="1141c25" ed="T"/><item xml:id="itemT55p1141c2501"><title>大莊嚴論疏十卷</title>　惠淨</item>
+<lb n="1141c26" ed="T"/><item xml:id="itemT55p1141c2601"><title>同論記九卷</title></item>
+<lb n="1141c27" ed="T"/><item xml:id="itemT55p1141c2701"><title>辨中邊論述記三卷</title>　大乘基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141c28" ed="T"/><item xml:id="itemT55p1141c2801"><title>同論疏三卷</title>　法範<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1141c29" ed="T"/><item xml:id="itemT55p1141c2901"><title>同論私記<note n="1141036" resp="Taisho" place="foot text" type="orig">九＝三ィ【甲】</note><app n="1141036"><lem wit="【大】">九</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">三</rdg></app>卷</title>　守朝</item>
+<pb n="1142a" xml:id="T55.2181.1142a" ed="T"/>
+<lb n="1142a01" ed="T"/><item xml:id="itemT55p1142a0101"><title>觀所緣緣論疏一卷</title>　神泰</item>
+<lb n="1142a02" ed="T"/><item xml:id="itemT55p1142a0201"><title>同論疏一卷</title></item>
+<lb n="1142a03" ed="T"/><item xml:id="itemT55p1142a0301"><title>百法論玄贊一卷</title>　大乘基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142a04" ed="T"/><item xml:id="itemT55p1142a0401"><title>同論疏一卷</title>　大乘光<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142a05" ed="T"/><item xml:id="itemT55p1142a0501"><title>同論疏一卷</title>　圓測<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142a06" ed="T"/><item xml:id="itemT55p1142a0601"><title>同論顯幽抄十卷</title><note n="1142001" resp="Taisho" place="foot text" type="orig">〔分本末為十九卷〕－【甲】</note><app n="1142001"><lem wit="【大】"><note place="inline">分本末為十九卷</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　從<note n="1142002" resp="Taisho" place="foot text" type="orig">方述＝芳【甲】</note><app n="1142002"><lem wit="【大】">方述</lem><rdg resp="Taisho" wit="【甲】">芳</rdg></app></item>
+<lb n="1142a07" ed="T"/><item xml:id="itemT55p1142a0701"><title>同論義選抄四卷</title>　全則</item>
+<lb n="1142a08" ed="T"/><item xml:id="itemT55p1142a0801"><title>雜集論述記八卷</title>　大乘基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142a09" ed="T"/><item xml:id="itemT55p1142a0901"><note n="1142003" resp="Taisho" place="foot text" type="orig">同論疏十卷玄範撰∞同論疏十六卷靈携【甲】</note><app n="1142003"><lem wit="【大】"><title>同論疏十卷</title>　玄範<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></lem><rdg resp="Taisho" wit="【甲】">同論疏十六卷靈携</rdg></app></item>
+<lb n="1142a10" ed="T"/><item xml:id="itemT55p1142a1001"><note n="1142004" resp="Taisho" place="foot text" type="orig">同論疏十卷玄範撰∞同論疏十六卷靈携【甲】</note><app n="1142004"><lem wit="【大】"><title>同論疏</title>十六卷　靈<note n="1142005" resp="Taisho" place="foot text" type="orig">携＝俊【甲】</note><app n="1142005"><lem wit="【大】">携</lem><rdg resp="Taisho" wit="【甲】">俊</rdg></app></lem><rdg resp="Taisho" wit="【甲】">同論疏十卷玄範撰</rdg></app></item>
+<lb n="1142a11" ed="T"/><item xml:id="itemT55p1142a1101"><title>同論疏</title>十二卷<note n="1142006" resp="Taisho" place="foot text" type="orig">〔云述記〕－【甲】</note><app n="1142006"><lem wit="【大】"><note place="inline">云述記</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　勝莊<note n="1142007" resp="Taisho" place="foot text" type="orig">〔述〕－【甲】＊</note><app n="1142007"><lem wit="【大】">述</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142a12" ed="T"/><item xml:id="itemT55p1142a1201"><title>二十唯識論<note n="1142008" resp="Taisho" place="foot text" type="orig">疏＝述記【甲】</note><app n="1142008"><lem wit="【大】">疏</lem><rdg resp="Taisho" wit="【甲】">述記</rdg></app>二卷</title>　<app type="star" corresp="#1141002"><lem wit="【大】">大乘</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142a13" ed="T"/><item xml:id="itemT55p1142a1301"><title><note n="1142009" resp="Taisho" place="foot text" type="orig">（同論…卷）十二行∞（記信…卷）十三行【甲】</note><note n="1142009" resp="CBETA" type="mod"><!--CBETA todo type: a-->（同論…卷）十二行∞（記信…卷）十三行【甲】</note>同論疏二卷</title>　圓測</item>
+<lb n="1142a14" ed="T"/><item xml:id="itemT55p1142a1401"><title>瑜伽論略纂</title>十六卷　<app type="star" corresp="#1141002"><lem wit="【大】">大乘</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="1142010" resp="Taisho" place="foot text" type="orig">基＋（興福寺藏板）細註【甲】</note><app n="1142010"><lem wit="【大】">基</lem><rdg resp="Taisho" wit="【甲】">基<note place="inline">興福寺藏板</note></rdg></app><app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142a15" ed="T"/><item xml:id="itemT55p1142a1501"><title>同論<note n="1142011" resp="Taisho" place="foot text" type="orig">（略）＋疏【甲】</note><app n="1142011"><lem wit="【大】">疏</lem><rdg resp="Taisho" wit="【甲】">略疏</rdg></app></title>二十五卷<note n="1142012" resp="Taisho" place="foot text" type="orig">〔云釋瑜迦記〕－【甲】</note><note n="1142012" resp="CBETA" type="mod">〔云釋瑜<choice cb:resp="CBETA.maha"><corr>伽</corr><sic>迦</sic></choice>記〕－【甲】</note><app n="1142012"><lem wit="【大】"><note place="inline">云釋瑜伽記</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　真空</item>
+<lb n="1142a16" ed="T"/><item xml:id="itemT55p1142a1601"><title>同論抄</title>三十六卷　<note n="1142013" resp="Taisho" place="foot text" type="orig">景法師＝憬興【甲】</note><app n="1142013"><lem wit="【大】">景法師</lem><rdg resp="Taisho" wit="【甲】">憬興</rdg></app></item>
+<lb n="1142a17" ed="T"/><item xml:id="itemT55p1142a1701"><title>同<note n="1142014" resp="Taisho" place="foot text" type="orig">論＋（疏）【甲】</note><app n="1142014"><lem wit="【大】">論</lem><rdg resp="Taisho" wit="【甲】">論疏</rdg></app>三十<note n="1142015" resp="Taisho" place="foot text" type="orig">六＝五【甲】</note><app n="1142015"><lem wit="【大】">六</lem><rdg resp="Taisho" wit="【甲】">五</rdg></app>卷</title>　<note n="1142016" resp="Taisho" place="foot text" type="orig">璟興＝圓測【甲】</note><app n="1142016"><lem wit="【大】">璟興</lem><rdg resp="Taisho" wit="【甲】">圓測</rdg></app><app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142a18" ed="T"/><item xml:id="itemT55p1142a1801"><title>同論釋文集</title>二十卷　浮丘<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142a19" ed="T"/><item xml:id="itemT55p1142a1901"><title>同論記</title>二十四卷　遁倫<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142a20" ed="T"/><item xml:id="itemT55p1142a2001"><title>同論音義四卷</title><note n="1142017" resp="Taisho" place="foot text" type="orig">〔云相應論音義〕－【甲】</note><app n="1142017"><lem wit="【大】"><note place="inline">云相應論音義</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　元興寺信行</item>
+<lb n="1142a21" ed="T"/><item xml:id="itemT55p1142a2101"><title><note n="1142018" resp="Taisho" place="foot text" type="orig">同論文義次第一卷∞同論略頌二卷真興【甲】</note><app n="1142018"><lem wit="【大】">同論文義次第一卷</lem><rdg resp="Taisho" wit="【甲】">同論略頌二卷真興</rdg></app></title></item>
+<lb n="1142a22" ed="T"/><item xml:id="itemT55p1142a2201"><note n="1142019" resp="Taisho" place="foot text" type="orig">同論文義次第一卷∞同論略頌二卷真興【甲】</note><app n="1142019"><lem wit="【大】"><title>同論略頌二卷</title>　真興</lem><rdg resp="Taisho" wit="【甲】">同論文義次第一卷</rdg></app><app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142a23" ed="T"/><item xml:id="itemT55p1142a2301"><title>發菩提心論疏三卷</title>　惠沼</item>
+<lb n="1142a24" ed="T"/><item xml:id="itemT55p1142a2401"><title>佛性論疏四卷</title></item>
+<lb n="1142a25" ed="T"/><item xml:id="itemT55p1142a2501"><title><note n="1142020" resp="Taisho" place="foot text" type="orig">（同論…卷）十二行∞（記信…卷）十三行【甲】</note><note n="1142020" resp="CBETA" type="mod"><!--CBETA todo type: a-->（同論…卷）十二行∞（記信…卷）十三行【甲】</note>起信論疏二卷</title>　元曉</item>
+<lb n="1142a26" ed="T"/><item xml:id="itemT55p1142a2601"><title>同論別記一卷</title>　同上</item>
+<lb n="1142a27" ed="T"/><item xml:id="itemT55p1142a2701"><title>同論寬狹章三卷</title>　德一</item>
+<lb n="1142a28" ed="T"/><item xml:id="itemT55p1142a2801"><title>掌珍論疏二卷</title>　神泰</item>
+<lb n="1142a29" ed="T"/><item xml:id="itemT55p1142a2901"><title>同論疏二卷</title>　靖邁</item>
+<pb n="1142b" xml:id="T55.2181.1142b" ed="T"/>
+<lb n="1142b01" ed="T"/><item xml:id="itemT55p1142b0101"><title>同論疏二卷</title>　文備</item>
+<lb n="1142b02" ed="T"/><item xml:id="itemT55p1142b0201"><title>廣百論抄十卷</title>　文備</item>
+<lb n="1142b03" ed="T"/><item xml:id="itemT55p1142b0301"><title>同論疏十卷</title>　文軌</item>
+<lb n="1142b04" ed="T"/><item xml:id="itemT55p1142b0401"><title>成唯識論<note n="1142021" resp="Taisho" place="foot text" type="orig">疏＝述記ィ【甲】</note><app n="1142021"><lem wit="【大】">疏</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">述記</rdg></app>十卷</title>　大乘基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142b05" ed="T"/><item xml:id="itemT55p1142b0501"><title>同論樞要二卷</title>　同上</item>
+<lb n="1142b06" ed="T"/><item xml:id="itemT55p1142b0601"><title>同論開發二卷</title><note n="1142022" resp="Taisho" place="foot text" type="orig">〔亦云料簡〕－【甲】</note><app n="1142022"><lem wit="【大】"><note place="inline">亦云料簡</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　同上</item>
+<lb n="1142b07" ed="T"/><item xml:id="itemT55p1142b0701"><title>同論別抄<note n="1142023" resp="Taisho" place="foot text" type="orig">三＝二【甲】</note><app n="1142023"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【甲】">二</rdg></app>卷</title><note n="1142024" resp="Taisho" place="foot text" type="orig">〔分為五卷〕－【甲】</note><app n="1142024"><lem wit="【大】"><note place="inline">分為五卷</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　同上</item>
+<lb n="1142b08" ed="T"/><item xml:id="itemT55p1142b0801"><title>同論應抄五卷</title></item>
+<lb n="1142b09" ed="T"/><item xml:id="itemT55p1142b0901"><title>同論光抄八卷</title></item>
+<lb n="1142b10" ed="T"/><item xml:id="itemT55p1142b1001"><title>同論料簡一卷</title>　順璟<app type="star" corresp="#1142007"><lem wit="【大】">述</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142b11" ed="T"/><item xml:id="itemT55p1142b1101"><title>同論開發一卷</title>　醴泉<note n="1142025" resp="Taisho" place="foot text" type="orig">沙門＝寺【甲】</note><app n="1142025"><lem wit="【大】">沙門</lem><rdg resp="Taisho" wit="【甲】">寺</rdg></app>玄應</item>
+<lb n="1142b12" ed="T"/><item xml:id="itemT55p1142b1201"><title>同論疏十卷</title>　圓測<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142b13" ed="T"/><item xml:id="itemT55p1142b1301"><title>同論<note n="1142026" resp="Taisho" place="foot text" type="orig">道＝噵【甲】</note><app n="1142026"><lem wit="【大】">道</lem><rdg resp="Taisho" wit="【甲】">噵</rdg></app><note n="1142027" resp="Taisho" place="foot text" type="orig">〔□卷〕－【甲】＊</note><app n="1142027"><lem wit="【大】">□卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></title>　極太撰</item>
+<lb n="1142b14" ed="T"/><item xml:id="itemT55p1142b1401"><title>同論疏四卷</title>　<note n="1142028" resp="Taisho" place="foot text" type="orig">惠＝慧【甲】</note><app n="1142028"><lem wit="【大】">惠</lem><rdg resp="Taisho" wit="【甲】">慧</rdg></app>觀</item>
+<lb n="1142b15" ed="T"/><item xml:id="itemT55p1142b1501"><title>同論文義記十卷</title><note place="inline">或十三卷</note>　神昉</item>
+<lb n="1142b16" ed="T"/><item xml:id="itemT55p1142b1601"><title>同論<note n="1142029" resp="Taisho" place="foot text" type="orig">（要）＋集【甲】</note><app n="1142029"><lem wit="【大】">集</lem><rdg resp="Taisho" wit="【甲】">要集</rdg></app></title>十四卷　道證</item>
+<lb n="1142b17" ed="T"/><item xml:id="itemT55p1142b1701"><title>同論貶量</title>二十五卷　璟興</item>
+<lb n="1142b18" ed="T"/><item xml:id="itemT55p1142b1801"><title>同論貶量抄十卷</title>　極太</item>
+<lb n="1142b19" ed="T"/><item xml:id="itemT55p1142b1901"><title>同論古迹五卷</title>　太賢</item>
+<lb n="1142b20" ed="T"/><item xml:id="itemT55p1142b2001"><title>同論決擇一卷</title>　同上</item>
+<lb n="1142b21" ed="T"/><item xml:id="itemT55p1142b2101"><title>同論廣釋本母頌三卷</title>　同上</item>
+<lb n="1142b22" ed="T"/><item xml:id="itemT55p1142b2201"><title>同論未詳決三卷</title><note n="1142030" resp="Taisho" place="foot text" type="orig">〔云別抄〕－【甲】</note><app n="1142030"><lem wit="【大】"><note place="inline">云別抄</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　義寂</item>
+<lb n="1142b23" ed="T"/><item xml:id="itemT55p1142b2301"><title>同論同異義一卷</title><note n="1142031" resp="Taisho" place="foot text" type="orig">〔廿四張〕－【甲】</note><app n="1142031"><lem wit="【大】"><note place="inline">廿四張</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　<note n="1142032" resp="Taisho" place="foot text" type="orig">〔東都〕－【甲】</note><app n="1142032"><lem wit="【大】">東都</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>太平寺利涉</item>
+<lb n="1142b24" ed="T"/><item xml:id="itemT55p1142b2401"><title>同論了義燈七卷</title>　惠沼</item>
+<lb n="1142b25" ed="T"/><item xml:id="itemT55p1142b2501"><title>同論演祕七卷</title>　智周</item>
+<lb n="1142b26" ed="T"/><item xml:id="itemT55p1142b2601"><title>同論義薀五卷</title><note n="1142033" resp="Taisho" place="foot text" type="orig">〔或分本末為十卷〕－【甲】</note><app n="1142033"><lem wit="【大】"><note place="inline">或分本末為十卷</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　<note n="1142034" resp="Taisho" place="foot text" type="orig">（道）＋邑【甲】</note><app n="1142034"><lem wit="【大】">邑</lem><rdg resp="Taisho" wit="【甲】">道邑</rdg></app><app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142b27" ed="T"/><item xml:id="itemT55p1142b2701"><title>同論北京抄<note n="1142035" resp="Taisho" place="foot text" type="orig">〔三卷〕－【甲】</note><app n="1142035"><lem wit="【大】">三卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></title>　<note place="inline"><note n="1142036" resp="Taisho" place="foot text" type="orig">亦直＝受真【甲】</note><app n="1142036"><lem wit="【大】">亦直</lem><rdg resp="Taisho" wit="【甲】">受真</rdg></app>云比抄</note></item>
+<lb n="1142b28" ed="T"/><item xml:id="itemT55p1142b2801"><title>同論東京<note n="1142037" resp="Taisho" place="foot text" type="orig">鈔＝抄【甲】＊</note><app n="1142037"><lem wit="【大】">鈔</lem><rdg resp="Taisho" wit="【甲】">抄</rdg></app>二卷</title><note place="inline">見本<note n="1142038" resp="Taisho" place="foot text" type="orig">直＝真【甲】</note><app n="1142038"><lem wit="【大】">直</lem><rdg resp="Taisho" wit="【甲】">真</rdg></app>云東抄<note n="1142039" resp="Taisho" place="foot text" type="orig">在＝有【甲】</note><app n="1142039"><lem wit="【大】">在</lem><rdg resp="Taisho" wit="【甲】">有</rdg></app>本末二卷下卷<note n="1142040" resp="Taisho" place="foot text" type="orig">尺＝釋【甲】</note><app n="1142040"><lem wit="【大】">尺</lem><rdg resp="Taisho" wit="【甲】">釋</rdg></app>疏第五<note n="1142041" resp="Taisho" place="foot text" type="orig">以＝已【甲】</note><app n="1142041"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【甲】">已</rdg></app>下</note></item>
+<lb n="1142b29" ed="T"/><item xml:id="itemT55p1142b2901"><title>同論顯述難知抄五卷</title></item>
+<pb n="1142c" xml:id="T55.2181.1142c" ed="T"/>
+<lb n="1142c01" ed="T"/><item xml:id="itemT55p1142c0101"><title>同論太抄</title>十八卷<note n="1142042" resp="Taisho" place="foot text" type="orig">〔調本有云可詳〕－【甲】</note><app n="1142042"><lem wit="【大】"><note place="inline">調本有云可詳</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　靈泰<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142c02" ed="T"/><item xml:id="itemT55p1142c0201"><note n="1142043" resp="Taisho" place="foot text" type="orig">（同論…理）九字∞（同論…上）九字【甲】</note><note n="1142043" resp="CBETA" type="mod">（同論義演十三卷如理）九字∞（同論談微抄五卷同上）九字【甲】</note><app n="1142043"><lem wit="【大】"><title>同論義演十三<note n="1142044" resp="Taisho" place="foot text" type="orig">卷＋（或五）細註【甲】</note><app n="1142044"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷<note place="inline">或五</note></rdg></app></title>　<note n="1142045" resp="Taisho" place="foot text" type="orig">如理＝同上【甲】</note><app n="1142045"><lem wit="【大】">如理</lem><rdg resp="Taisho" wit="【甲】">同上</rdg></app></lem><rdg resp="Taisho" wit="【甲】">同論談微抄五卷同上</rdg></app></item>
+<lb n="1142c03" ed="T"/><item xml:id="itemT55p1142c0301"><note n="1142046" resp="Taisho" place="foot text" type="orig">（同論…理）九字∞（同論…上）九字【甲】</note><note n="1142046" resp="CBETA" type="mod">（同論義演十三卷如理）九字∞（同論談微抄五卷同上）九字【甲】</note><app n="1142046"><lem wit="【大】"><title>同論談微抄五<note n="1142047" resp="Taisho" place="foot text" type="orig">卷＋（或十三）【甲】</note><app n="1142047"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷或十三</rdg></app></title>　<note n="1142048" resp="Taisho" place="foot text" type="orig">如理＝同上【甲】</note><note n="1142048" resp="CBETA" type="mod"><!--CBETA todo type: c-->如理＝同上【甲】</note>同上</lem><rdg resp="Taisho" wit="【甲】">同論義演十三卷如理</rdg></app></item>
+<lb n="1142c04" ed="T"/><item xml:id="itemT55p1142c0401"><title>同論義翼七卷</title><note place="inline">天竺寺蓮峯沙門崇俊撰<app type="star" corresp="#1141029"><lem wit="【大】">樸</lem><rdg resp="Taisho" wit="【甲】">撲</rdg></app><note n="1142049" resp="Taisho" place="foot text" type="orig">楊＝陽【甲】</note><app n="1142049"><lem wit="【大】">楊</lem><rdg resp="Taisho" wit="【甲】">陽</rdg></app><app type="star" corresp="#1141030"><lem wit="【大】">寺</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>禪智寺法清釋</note></item>
+<lb n="1142c05" ed="T"/><item xml:id="itemT55p1142c0501"><title>同論羽足四卷</title>　平備</item>
+<lb n="1142c06" ed="T"/><item xml:id="itemT55p1142c0601"><title>同論疏記五卷</title>　哲師</item>
+<lb n="1142c07" ed="T"/><item xml:id="itemT55p1142c0701"><title>同論記十卷</title>　清素</item>
+<lb n="1142c08" ed="T"/><item xml:id="itemT55p1142c0801"><title>同論記<app type="star" corresp="#1142027"><lem wit="【大】">□卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></title>　信<note n="1142050" resp="Taisho" place="foot text" type="orig">叡＝獻【甲】＊</note><app n="1142050"><lem wit="【大】">叡</lem><rdg resp="Taisho" wit="【甲】">獻</rdg></app></item>
+<lb n="1142c09" ed="T"/><item xml:id="itemT55p1142c0901"><title>同論僉記</title>三十卷　行賀</item>
+<lb n="1142c10" ed="T"/><item xml:id="itemT55p1142c1001"><title>同論肝心八卷</title>　善珠</item>
+<lb n="1142c11" ed="T"/><item xml:id="itemT55p1142c1101"><title>同論分量決一卷</title>　同上</item>
+<lb n="1142c12" ed="T"/><item xml:id="itemT55p1142c1201"><title>注唯識論</title>二十卷　崇俊</item>
+<lb n="1142c13" ed="T"/><item xml:id="itemT55p1142c1301"><title><note n="1142051" resp="Taisho" place="foot text" type="orig">〔同〕－【甲】</note><app n="1142051"><lem wit="【大】">同</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>注論記四卷</title><note place="inline">內題云要<app type="star" corresp="#1142037"><lem wit="【大】">鈔</lem><rdg resp="Taisho" wit="【甲】">抄</rdg></app></note></item>
+<lb n="1142c14" ed="T"/><item xml:id="itemT55p1142c1401"><title>顯唯識<note n="1142052" resp="Taisho" place="foot text" type="orig">（論）＋疏【甲】＊</note><app n="1142052"><lem wit="【大】">疏</lem><rdg resp="Taisho" wit="【甲】">論疏</rdg></app>隱文抄十卷</title>　常騰<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142c15" ed="T"/><item xml:id="itemT55p1142c1501"><title>成唯識決三卷</title>　勝<note n="1142053" resp="Taisho" place="foot text" type="orig">庄＝莊【甲】</note><app n="1142053"><lem wit="【大】">庄</lem><rdg resp="Taisho" wit="【甲】">莊</rdg></app></item>
+<lb n="1142c16" ed="T"/><item xml:id="itemT55p1142c1601"><title>同論同異補闕章二卷</title>　東大寺德一<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1142c17" ed="T"/><item xml:id="itemT55p1142c1701"><title>同論開題一卷</title><note place="inline">尺疏序</note>　嘉遁訪集記</item>
+<lb n="1142c18" ed="T"/><item xml:id="itemT55p1142c1801"><title>同論義精一卷</title><note place="inline"><note n="1142054" resp="Taisho" place="foot text" type="orig">釋序＝同【甲】</note><app n="1142054"><lem wit="【大】">釋序</lem><rdg resp="Taisho" wit="【甲】">同</rdg></app></note>　行賀</item>
+<lb n="1142c19" ed="T"/><item xml:id="itemT55p1142c1901"><title>同論序釋一卷</title>　善珠</item>
+<lb n="1142c20" ed="T"/><item xml:id="itemT55p1142c2001"><title>同論樞要<note n="1142055" resp="Taisho" place="foot text" type="orig">方＝訪【甲】</note><app n="1142055"><lem wit="【大】">方</lem><rdg resp="Taisho" wit="【甲】">訪</rdg></app>誌二卷</title>　智周</item>
+<lb n="1142c21" ed="T"/><item xml:id="itemT55p1142c2101"><note n="1142056" resp="Taisho" place="foot text" type="orig">同記二卷為四卷義賓∞同義暉一卷行賀【甲】</note><app n="1142056"><lem wit="【大】"><title>同記二卷</title><note n="1142057" resp="Taisho" place="foot text" type="orig">〔為四卷〕－【甲】</note><app n="1142057"><lem wit="【大】"><note place="inline">為四卷</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　義賓</lem><rdg resp="Taisho" wit="【甲】">同義暉一卷行賀</rdg></app></item>
+<lb n="1142c22" ed="T"/><item xml:id="itemT55p1142c2201"><note n="1142058" resp="Taisho" place="foot text" type="orig">同記二卷為四卷義賓∞同義暉一卷行賀【甲】</note><app n="1142058"><lem wit="【大】"><title>同<note n="1142059" resp="Taisho" place="foot text" type="orig">（論）＋義【甲】</note><app n="1142059"><lem wit="【大】">義</lem><rdg resp="Taisho" wit="【甲】">論義</rdg></app>暉一卷</title>　行賀</lem><rdg resp="Taisho" wit="【甲】">同記二卷為四卷義賓</rdg></app></item>
+<pb n="1143a" xml:id="T55.2181.1143a" ed="T"/>
+<lb n="1143a01" ed="T"/><item xml:id="itemT55p1143a0101"><title>同記二卷</title>　憬興</item>
+<lb n="1143a02" ed="T"/><item xml:id="itemT55p1143a0201"><title>同記二卷</title>　憲</item>
+<lb n="1143a03" ed="T"/><item xml:id="itemT55p1143a0301"><title>同記二卷</title>　常騰</item>
+<lb n="1143a04" ed="T"/><item xml:id="itemT55p1143a0401"><title>同記二卷</title>　<app type="star" corresp="#1142050"><lem wit="【大】">叡</lem><rdg resp="Taisho" wit="【甲】">獻</rdg></app></item>
+<lb n="1143a05" ed="T"/><item xml:id="itemT55p1143a0501"><title>同記二卷</title>　印師</item>
+<lb n="1143a06" ed="T"/><item xml:id="itemT55p1143a0601"><title>同記二卷</title>　哲</item>
+<lb n="1143a07" ed="T"/><item xml:id="itemT55p1143a0701"><title><note n="1143001" resp="Taisho" place="foot text" type="orig">（同記二卷）＋注【甲】</note><app n="1143001"><lem wit="【大】">注</lem><rdg resp="Taisho" wit="【甲】">同記二卷注</rdg></app>樞要二卷</title>　西大寺勝<note n="1143002" resp="Taisho" place="foot text" type="orig">均＝筠【甲】</note><app n="1143002"><lem wit="【大】">均</lem><rdg resp="Taisho" wit="【甲】">筠</rdg></app><app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1143a08" ed="T"/><item xml:id="itemT55p1143a0801"><title>同解節記</title>十七卷　護命</item>
+<lb n="1143a09" ed="T"/><item xml:id="itemT55p1143a0901"><title>同記二卷</title></item>
+<lb n="1143a10" ed="T"/><item xml:id="itemT55p1143a1001"><title>同記四卷</title></item>
+<lb n="1143a11" ed="T"/><item xml:id="itemT55p1143a1101"><title>唯識樞要義一卷</title>　行賀</item>
+<lb n="1143a12" ed="T"/><item xml:id="itemT55p1143a1201"><title>同要<note n="1143003" resp="Taisho" place="foot text" type="orig">節＝解【甲】</note><app n="1143003"><lem wit="【大】">節</lem><rdg resp="Taisho" wit="【甲】">解</rdg></app>二卷</title></item>
+<lb n="1143a13" ed="T"/><item xml:id="itemT55p1143a1301"><title>同記二卷</title>　義斌</item>
+<lb n="1143a14" ed="T"/><item xml:id="itemT55p1143a1401"><title>同抄記四卷</title><note n="1143004" resp="Taisho" place="foot text" type="orig">〔二卷〕－【甲】</note><app n="1143004"><lem wit="【大】"><note place="inline">二卷</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　圓證</item>
+<lb n="1143a15" ed="T"/><item xml:id="itemT55p1143a1501"><title>同要決八卷</title>　常騰</item>
+<lb n="1143a16" ed="T"/><item xml:id="itemT55p1143a1601"><title>同私記一卷</title><note n="1143005" resp="Taisho" place="foot text" type="orig">〔二十二紙〕－【甲】</note><app n="1143005"><lem wit="【大】"><note place="inline">二十二紙</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　玄壹<note n="1143006" resp="Taisho" place="foot text" type="orig">〔集〕－【甲】</note><app n="1143006"><lem wit="【大】">集</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1143a17" ed="T"/><item xml:id="itemT55p1143a1701"><title><note n="1143007" resp="Taisho" place="foot text" type="orig">〔同〕－【甲】＊</note><app n="1143007"><lem wit="【大】">同</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>了義燈記一卷</title><note n="1143008" resp="Taisho" place="foot text" type="orig">〔訖燈第六〕－【甲】</note><app n="1143008"><lem wit="【大】"><note place="inline">訖燈第六</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　智周</item>
+<lb n="1143a18" ed="T"/><item xml:id="itemT55p1143a1801"><title>同增明記四卷</title><note place="inline">盡燈第一</note>　善珠</item>
+<lb n="1143a19" ed="T"/><item xml:id="itemT55p1143a1901"><title>同抄七卷</title>　常騰</item>
+<lb n="1143a20" ed="T"/><item xml:id="itemT55p1143a2001"><title>同解節記二卷</title>　護命</item>
+<lb n="1143a21" ed="T"/><item xml:id="itemT55p1143a2101"><title>同抄四卷</title>　信叡</item>
+<lb n="1143a22" ed="T"/><item xml:id="itemT55p1143a2201"><title>同演祕釋五卷</title>　如理</item>
+<lb n="1143a23" ed="T"/><item xml:id="itemT55p1143a2301"><title>大因明論記二卷</title><note place="inline">亦外題<note n="1143009" resp="Taisho" place="foot text" type="orig">〔云〕－【甲】</note><app n="1143009"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>理門疏永徽三年六月日大乘光對面三藏記</note></item>
+<lb n="1143a24" ed="T"/><item xml:id="itemT55p1143a2401"><title>同理門論述記一卷</title>　泰法師</item>
+<lb n="1143a25" ed="T"/><item xml:id="itemT55p1143a2501"><title>同疏二卷</title>　圓測</item>
+<lb n="1143a26" ed="T"/><item xml:id="itemT55p1143a2601"><title>同疏三卷</title>　文軌</item>
+<lb n="1143a27" ed="T"/><item xml:id="itemT55p1143a2701"><title>同疏三卷</title>　淨眼</item>
+<lb n="1143a28" ed="T"/><item xml:id="itemT55p1143a2801"><title><note n="1143010" resp="Taisho" place="foot text" type="orig">（同義抄一卷同上）＋同【甲】</note><app n="1143010"><lem wit="【大】">同</lem><rdg resp="Taisho" wit="【甲】">同義抄一卷同上同</rdg></app>義抄一卷</title>　憬興</item>
+<lb n="1143a29" ed="T"/><item xml:id="itemT55p1143a2901"><title>同疏二卷</title>　道證</item>
+<pb n="1143b" xml:id="T55.2181.1143b" ed="T"/>
+<lb n="1143b01" ed="T"/><item xml:id="itemT55p1143b0101"><title><note n="1143011" resp="Taisho" place="foot text" type="orig">同＋（疏）【甲】</note><app n="1143011"><lem wit="【大】">同</lem><rdg resp="Taisho" wit="【甲】">同疏</rdg></app>述記二卷</title>　<note n="1143012" resp="Taisho" place="foot text" type="orig">騰庄＝勝莊【甲】</note><app n="1143012"><lem wit="【大】">騰庄</lem><rdg resp="Taisho" wit="【甲】">勝莊</rdg></app></item>
+<lb n="1143b02" ed="T"/><item xml:id="itemT55p1143b0201"><title>同疏一卷</title>　玄範</item>
+<lb n="1143b03" ed="T"/><item xml:id="itemT55p1143b0301"><title>同抄二卷</title>　道證</item>
+<lb n="1143b04" ed="T"/><item xml:id="itemT55p1143b0401"><title>同疏六卷</title>　定賓</item>
+<lb n="1143b05" ed="T"/><item xml:id="itemT55p1143b0501"><title>同疏三卷</title>　文備</item>
+<lb n="1143b06" ed="T"/><item xml:id="itemT55p1143b0601"><title>同抄一卷</title>　同上</item>
+<lb n="1143b07" ed="T"/><item xml:id="itemT55p1143b0701"><title>同注釋一卷</title>　同上</item>
+<lb n="1143b08" ed="T"/><item xml:id="itemT55p1143b0801"><title>同註四卷</title>　沙門崇<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1143b09" ed="T"/><item xml:id="itemT55p1143b0901"><title><note n="1143013" resp="Taisho" place="foot text" type="orig">同＝導【甲】</note><app n="1143013"><lem wit="【大】">同</lem><rdg resp="Taisho" wit="【甲】">導</rdg></app>論抄<note n="1143014" resp="Taisho" place="foot text" type="orig">二＝一【甲】</note><app n="1143014"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】">一</rdg></app>卷</title>　道獻</item>
+<lb n="1143b10" ed="T"/><item xml:id="itemT55p1143b1001"><title>同義抄二卷</title>　善珠</item>
+<lb n="1143b11" ed="T"/><item xml:id="itemT55p1143b1101"><title><app type="star" corresp="#1143007"><lem wit="【大】">同</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>十四過類記一卷</title>　護命</item>
+<lb n="1143b12" ed="T"/><item xml:id="itemT55p1143b1201"><title>同解節記六卷</title>　同上</item>
+<lb n="1143b13" ed="T"/><item xml:id="itemT55p1143b1301"><title>因明入正理論疏三卷</title><note place="inline">在序</note>　大乘基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1143b14" ed="T"/><item xml:id="itemT55p1143b1401"><title>同論疏一卷</title>　<note n="1143015" resp="Taisho" place="foot text" type="orig">精＝靖【甲】</note><app n="1143015"><lem wit="【大】">精</lem><rdg resp="Taisho" wit="【甲】">靖</rdg></app>邁</item>
+<lb n="1143b15" ed="T"/><item xml:id="itemT55p1143b1501"><title>同論疏三卷</title>　<note n="1143016" resp="Taisho" place="foot text" type="orig">壁＝肇ィ【甲】</note><app n="1143016"><lem wit="【大】">壁</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">肇</rdg></app>法師</item>
+<lb n="1143b16" ed="T"/><item xml:id="itemT55p1143b1601"><title>同論疏三卷</title>　大莊嚴寺文軌</item>
+<lb n="1143b17" ed="T"/><item xml:id="itemT55p1143b1701"><title>同論疏二卷</title>　道證</item>
+<lb n="1143b18" ed="T"/><item xml:id="itemT55p1143b1801"><title>同論疏三卷</title>　玄應</item>
+<lb n="1143b19" ed="T"/><item xml:id="itemT55p1143b1901"><title>同論疏一卷</title>　玄範</item>
+<lb n="1143b20" ed="T"/><item xml:id="itemT55p1143b2001"><title>同論抄一卷</title>　順憬</item>
+<lb n="1143b21" ed="T"/><item xml:id="itemT55p1143b2101"><title>同論述記一卷</title>　神泰</item>
+<lb n="1143b22" ed="T"/><item xml:id="itemT55p1143b2201"><title>同論記一卷</title>　元曉</item>
+<lb n="1143b23" ed="T"/><item xml:id="itemT55p1143b2301"><title>同抄一卷</title>　文備</item>
+<lb n="1143b24" ed="T"/><item xml:id="itemT55p1143b2401"><title>同古迹一卷</title>　太賢</item>
+<lb n="1143b25" ed="T"/><item xml:id="itemT55p1143b2501"><title>同論要抄一卷</title>　利涉</item>
+<lb n="1143b26" ed="T"/><item xml:id="itemT55p1143b2601"><title>同論<note n="1143017" resp="Taisho" place="foot text" type="orig">（義）＋疏【甲】</note><app n="1143017"><lem wit="【大】">疏</lem><rdg resp="Taisho" wit="【甲】">義疏</rdg></app>三卷</title>　利明師</item>
+<lb n="1143b27" ed="T"/><item xml:id="itemT55p1143b2701"><title>同論疏二卷</title>　清<note n="1143018" resp="Taisho" place="foot text" type="orig"><g ref="#CB07080"/>＝幹【甲】</note><app n="1143018"><lem wit="【大】"><g ref="#CB07080"/></lem><rdg resp="Taisho" wit="【甲】">幹</rdg></app>師<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1143b28" ed="T"/><item xml:id="itemT55p1143b2801"><title>同論略纂四卷</title><note n="1143019" resp="Taisho" place="foot text" type="orig">〔文中…決〕九字－【甲】</note><app cb:word-count="9" n="1143019"><lem wit="【大】"><note place="inline">文中云如要釋及義決</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　惠沼</item>
+<pb n="1143c" xml:id="T55.2181.1143c" ed="T"/>
+<lb n="1143c01" ed="T"/><item xml:id="itemT55p1143c0101"><title>同論纂要一卷</title>　同上</item>
+<lb n="1143c02" ed="T"/><item xml:id="itemT55p1143c0201"><title>同論義斷一卷</title><note n="1143020" resp="Taisho" place="foot text" type="orig">〔有序〕－【甲】</note><app n="1143020"><lem wit="【大】"><note place="inline">有序</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　同上</item>
+<lb n="1143c03" ed="T"/><item xml:id="itemT55p1143c0301"><title>同論要略一<note n="1143021" resp="Taisho" place="foot text" type="orig">卷＋（作者不知）【甲】</note><app n="1143021"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷作者不知</rdg></app></title></item>
+<lb n="1143c04" ed="T"/><item xml:id="itemT55p1143c0401"><title>同論義心一卷</title>　道獻<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1143c05" ed="T"/><item xml:id="itemT55p1143c0501"><title>同論疏記三卷</title>　同上</item>
+<lb n="1143c06" ed="T"/><item xml:id="itemT55p1143c0601"><title>同論糅<app type="star" corresp="#1141032"><lem wit="【大】">抄</lem><rdg resp="Taisho" wit="【甲】">鈔</rdg></app>三卷</title><note n="1143022" resp="Taisho" place="foot text" type="orig">〔釋慈恩疏〕－【甲】</note><app n="1143022"><lem wit="【大】"><note place="inline">釋慈恩疏</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　章敬寺釋隣</item>
+<lb n="1143c07" ed="T"/><item xml:id="itemT55p1143c0701"><title>同論義衡二卷</title>　清<note n="1143023" resp="Taisho" place="foot text" type="orig">索＝素【甲】</note><app n="1143023"><lem wit="【大】">索</lem><rdg resp="Taisho" wit="【甲】">素</rdg></app></item>
+<lb n="1143c08" ed="T"/><item xml:id="itemT55p1143c0801"><title>同論柔抄一卷</title>　同悟</item>
+<lb n="1143c09" ed="T"/><item xml:id="itemT55p1143c0901"><title>同論疏記三卷</title></item>
+<lb n="1143c10" ed="T"/><item xml:id="itemT55p1143c1001"><title>同論髓腦一卷</title></item>
+<lb n="1143c11" ed="T"/><item xml:id="itemT55p1143c1101"><title>同論義翼三卷</title>　<note n="1143024" resp="Taisho" place="foot text" type="orig"><g ref="#CB00003"/>＝誓【甲】</note><note n="1143024" resp="CBETA" type="mod"><choice cb:resp="CBETA.maha"><corr>𧦪</corr><sic><g ref="#CB00003"/></sic></choice>＝誓【甲】</note><app n="1143024"><lem wit="【大】">𧦪</lem><rdg resp="Taisho" wit="【甲】">誓</rdg></app>空</item>
+<lb n="1143c12" ed="T"/><item xml:id="itemT55p1143c1201"><title>同論別義抄一卷</title><note n="1143025" resp="Taisho" place="foot text" type="orig">〔或直云抄〕－【甲】</note><app n="1143025"><lem wit="【大】"><note place="inline">或直云抄</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　淨眼</item>
+<lb n="1143c13" ed="T"/><item xml:id="itemT55p1143c1301"><title>同論疏記三卷</title><note place="inline">亦云義範一卷<note n="1143026" resp="Taisho" place="foot text" type="orig">〔亦云記衡云前記〕－【甲】</note><app n="1143026"><lem wit="【大】">亦云記衡云前記</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></note>　邑師</item>
+<lb n="1143c14" ed="T"/><item xml:id="itemT55p1143c1401"><title>同論疏記三<note n="1143027" resp="Taisho" place="foot text" type="orig">卷＋（亦云記衡云前記）細註【甲】</note><app n="1143027"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷<note place="inline">亦云記衡云前記</note></rdg></app></title>　智周</item>
+<lb n="1143c15" ed="T"/><item xml:id="itemT55p1143c1501"><title>同論後記三卷</title>　同上</item>
+<lb n="1143c16" ed="T"/><item xml:id="itemT55p1143c1601"><title>同論略記一卷</title><note n="1143028" resp="Taisho" place="foot text" type="orig">〔抄三卷一卷〕－【甲】</note><app n="1143028"><lem wit="【大】"><note place="inline">抄三卷一卷</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　同上</item>
+<lb n="1143c17" ed="T"/><item xml:id="itemT55p1143c1701"><title>同論疏記三卷</title>　<note n="1143029" resp="Taisho" place="foot text" type="orig"><g ref="#CB07074"/>＝充【甲】</note><app n="1143029"><lem wit="【大】"><g ref="#CB07074"/></lem><rdg resp="Taisho" wit="【甲】">充</rdg></app>州智<note n="1143030" resp="Taisho" place="foot text" type="orig">頻＝頴【甲】</note><app n="1143030"><lem wit="【大】">頻</lem><rdg resp="Taisho" wit="【甲】">頴</rdg></app><app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1143c18" ed="T"/><item xml:id="itemT55p1143c1801"><title>同論疏抄二卷</title>　<note n="1143031" resp="Taisho" place="foot text" type="orig">（茂林俊）＋林【甲】</note><app n="1143031"><lem wit="【大】">林</lem><rdg resp="Taisho" wit="【甲】">茂林俊林</rdg></app></item>
+<lb n="1143c19" ed="T"/><item xml:id="itemT55p1143c1901"><title>同<note n="1143032" resp="Taisho" place="foot text" type="orig">略＝論【甲】</note><app n="1143032"><lem wit="【大】">略</lem><rdg resp="Taisho" wit="【甲】">論</rdg></app>集記一卷</title></item>
+<lb n="1143c20" ed="T"/><item xml:id="itemT55p1143c2001"><title>同<app type="star" corresp="#1142052"><lem wit="【大】">疏</lem><rdg resp="Taisho" wit="【甲】">論疏</rdg></app>記九卷</title>　平備</item>
+<lb n="1143c21" ed="T"/><item xml:id="itemT55p1143c2101"><title>同<app type="star" corresp="#1142052"><lem wit="【大】">疏</lem><rdg resp="Taisho" wit="【甲】">論疏</rdg></app>記三卷</title>　<note n="1143033" resp="Taisho" place="foot text" type="orig">〔法隆寺〕－【甲】</note><app n="1143033"><lem wit="【大】">法隆寺</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>孝仁</item>
+<lb n="1143c22" ed="T"/><item xml:id="itemT55p1143c2201"><title>同<note n="1143034" resp="Taisho" place="foot text" type="orig">（論）＋明【甲】</note><app n="1143034"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】">論明</rdg></app>燈抄六卷</title><note n="1143035" resp="Taisho" place="foot text" type="orig">〔分本末為十二卷〕－【甲】</note><app n="1143035"><lem wit="【大】"><note place="inline">分本末為十二卷</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　善珠</item>
+<lb n="1143c23" ed="T"/><item xml:id="itemT55p1143c2301"><title>同疏抄一卷</title><note place="inline"><note n="1143036" resp="Taisho" place="foot text" type="orig">（（或云…故））十一字＝（（或清記云））四字【甲】</note><app cb:word-count="11" n="1143036"><lem wit="【大】">或云清記此師本名俊清故</lem><rdg resp="Taisho" wit="【甲】">或清記云</rdg></app>名取一字</note>　俊</item>
+<lb n="1143c24" ed="T"/><item xml:id="itemT55p1143c2401"><title>同疏集記六卷</title><note place="inline">興福寺願建八部唐記集為六卷已上在彼記題下</note></item>
+<lb n="1143c25" ed="T"/><item xml:id="itemT55p1143c2501"><title>同指事一卷</title></item>
+<lb n="1143c26" ed="T"/><item xml:id="itemT55p1143c2601"><title>同<note n="1143037" resp="Taisho" place="foot text" type="orig">疏＋（記）【甲】</note><app n="1143037"><lem wit="【大】">疏</lem><rdg resp="Taisho" wit="【甲】">疏記</rdg></app>三卷</title>　法藏<note n="1143038" resp="Taisho" place="foot text" type="orig">〔未詳可勘〕－【甲】</note><app n="1143038"><lem wit="【大】"><note place="inline">未詳可勘</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1143c27" ed="T"/><item xml:id="itemT55p1143c2701"><title>同六因義集記一卷</title>　願建</item>
+<lb n="1143c28" ed="T"/><item xml:id="itemT55p1143c2801"><title>同疏抄七卷</title></item>
+<lb n="1143c29" ed="T"/><item xml:id="itemT55p1143c2901"><title>同四種相違記二卷</title></item>
+<pb n="1144a" xml:id="T55.2181.1144a" ed="T"/>
+<lb n="1144a01" ed="T"/><item xml:id="itemT55p1144a0101"><title>同記五卷</title>　池邊詮律</item>
+<lb n="1144a02" ed="T"/><item xml:id="itemT55p1144a0201"><title>同四種相違義一卷</title>　法隆寺道詮</item>
+<lb n="1144a03" ed="T"/><item xml:id="itemT55p1144a0301"><title>同<note n="1144001" resp="Taisho" place="foot text" type="orig">丈＝文【甲】</note><app n="1144001"><lem wit="【大】">丈</lem><rdg resp="Taisho" wit="【甲】">文</rdg></app>軌疏記三卷</title>　慶俊</item>
+<lb n="1144a04" ed="T"/><item xml:id="itemT55p1144a0401"><title>同纂要記<note n="1144002" resp="Taisho" place="foot text" type="orig">〔一卷亦云抄〕－【甲】</note><note n="1144002" resp="CBETA" type="mod"><!--CBETA todo type: a-->〔一卷亦云抄〕－【甲】</note>一卷</title><note place="inline">亦云抄</note><byline cb:type="author">福<note n="1144003" resp="Taisho" place="foot text" type="orig">〔壽〕－【甲】</note><app n="1144003"><lem wit="【大】">壽</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>寺如理</byline></item>
+<lb n="1144a05" ed="T"/><item xml:id="itemT55p1144a0501"><title>同記一卷</title><note n="1144004" resp="Taisho" place="foot text" type="orig">〔亦云抄〕－【甲】＊</note><app n="1144004"><lem wit="【大】"><note place="inline">亦云抄</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　智周</item>
+<lb n="1144a06" ed="T"/><item xml:id="itemT55p1144a0601"><title>同記一卷</title>　清素</item>
+<lb n="1144a07" ed="T"/><item xml:id="itemT55p1144a0701"><title>同記一卷</title>　<note n="1144005" resp="Taisho" place="foot text" type="orig">首＝智周【甲】</note><app n="1144005"><lem wit="【大】">首</lem><rdg resp="Taisho" wit="【甲】">智周</rdg></app></item>
+<lb n="1144a08" ed="T"/><item xml:id="itemT55p1144a0801"><title>同記一卷</title>　<note n="1144006" resp="Taisho" place="foot text" type="orig">俊清＝道憲【甲】</note><app n="1144006"><lem wit="【大】">俊清</lem><rdg resp="Taisho" wit="【甲】">道憲</rdg></app></item>
+<lb n="1144a09" ed="T"/><item xml:id="itemT55p1144a0901"><title>同記一卷</title>　<note n="1144007" resp="Taisho" place="foot text" type="orig">琳＝俊清【甲】</note><app n="1144007"><lem wit="【大】">琳</lem><rdg resp="Taisho" wit="【甲】">俊清</rdg></app></item>
+<lb n="1144a10" ed="T"/><item xml:id="itemT55p1144a1001"><title>同記一卷</title>　<note n="1144008" resp="Taisho" place="foot text" type="orig">道憲＝琳【甲】</note><app n="1144008"><lem wit="【大】">道憲</lem><rdg resp="Taisho" wit="【甲】">琳</rdg></app></item>
+<lb n="1144a11" ed="T"/><item xml:id="itemT55p1144a1101"><title>同<app type="star" corresp="#1141032"><lem wit="【大】">抄</lem><rdg resp="Taisho" wit="【甲】">鈔</rdg></app>三卷</title></item>
+<lb n="1144a12" ed="T"/><item xml:id="itemT55p1144a1201"><title>同集記三<note n="1144009" resp="Taisho" place="foot text" type="orig">卷＋（檉生修因）【甲】，（檉生修圓）ィ【甲】</note><app n="1144009"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷檉生修因</rdg><rdg resp="Taisho" wit="【甲】" type="variantRemark">卷檉生修圓</rdg></app></title></item>
+<lb n="1144a13" ed="T"/><item xml:id="itemT55p1144a1301"><note n="1144010" resp="Taisho" place="foot text" type="orig">〔同鈔…因〕九字－【甲】</note><app cb:word-count="9" n="1144010"><lem wit="【大】"><title>同鈔集二卷</title>　檉生修因</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1144a14" ed="T"/><item xml:id="itemT55p1144a1401"><title>同祕心一卷</title>　同上</item>
+<lb n="1144a15" ed="T"/><item xml:id="itemT55p1144a1501"><title>同抄一卷</title>　獻</item>
+<lb n="1144a16" ed="T"/><item xml:id="itemT55p1144a1601"><title>同義斷<note n="1144011" resp="Taisho" place="foot text" type="orig">記＝抄【甲】</note><app n="1144011"><lem wit="【大】">記</lem><rdg resp="Taisho" wit="【甲】">抄</rdg></app>一卷</title><app type="star" corresp="#1144004"><lem wit="【大】"><note place="inline">亦云抄</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　俊清</item>
+<lb n="1144a17" ed="T"/><item xml:id="itemT55p1144a1701"><title>同記一卷</title>　<note n="1144012" resp="Taisho" place="foot text" type="orig">周＋（法）【甲】</note><app n="1144012"><lem wit="【大】">周</lem><rdg resp="Taisho" wit="【甲】">周法</rdg></app></item>
+<lb n="1144a18" ed="T"/><item xml:id="itemT55p1144a1801"><title>同<app type="star" corresp="#1142037"><lem wit="【大】">鈔</lem><rdg resp="Taisho" wit="【甲】">抄</rdg></app>一卷</title></item>
+<lb n="1144a19" ed="T"/><item xml:id="itemT55p1144a1901"><title>同記一卷</title>　<note n="1144013" resp="Taisho" place="foot text" type="orig">沸＝拂【甲】</note><app n="1144013"><lem wit="【大】">沸</lem><rdg resp="Taisho" wit="【甲】">拂</rdg></app>林</item>
+<lb n="1144a20" ed="T"/><item xml:id="itemT55p1144a2001"><title>同集記一卷</title>　願建</item>
+<lb n="1144a21" ed="T"/><item xml:id="itemT55p1144a2101"><title>同記一卷</title>　<note n="1144014" resp="Taisho" place="foot text" type="orig">釋＝擇ィ【甲】</note><app n="1144014"><lem wit="【大】">釋</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">擇</rdg></app>隣</item>
+<lb n="1144a22" ed="T"/><item xml:id="itemT55p1144a2201"><title>同明盞定廣</title>三十卷　木山</item>
+<lb n="1144a23" ed="T"/><item xml:id="itemT55p1144a2301"><title>因明義骨三卷</title>　元興寺願曉<note n="1144015" resp="Taisho" place="foot text" type="orig">〔律師〕－【甲】</note><app n="1144015"><lem wit="【大】">律師</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1144a24" ed="T"/><item xml:id="itemT55p1144a2401"><title>判比量論一卷</title>　元曉</item>
+<lb n="1144a25" ed="T"/><item xml:id="itemT55p1144a2501"><title><note n="1144016" resp="Taisho" place="foot text" type="orig">答＝三【甲】</note><app n="1144016"><lem wit="【大】">答</lem><rdg resp="Taisho" wit="【甲】">三</rdg></app>量撮一卷</title>　東大寺長載</item>
+<lb n="1144a26" ed="T"/><item xml:id="itemT55p1144a2601"><title>清辨量決一卷</title></item>
+<lb n="1144a27" ed="T"/><item xml:id="itemT55p1144a2701"><note n="1144017" resp="Taisho" place="foot text" type="orig">（唯識…建）十字∞（唯識…賀）十三字【甲】</note><note n="1144017" resp="CBETA" type="mod">（唯識比量集記一卷願建）十字∞（唯識比量遣偽興真章一卷行賀）十三字【甲】</note><app n="1144017"><lem wit="【大】"><title>唯識比量集記一卷</title>　願建</lem><rdg resp="Taisho" wit="【甲】">唯識比量遣偽興真章一卷行賀</rdg></app></item>
+<lb n="1144a28" ed="T"/><item xml:id="itemT55p1144a2801"><note n="1144018" resp="Taisho" place="foot text" type="orig">（唯識…建）十字∞（唯識…賀）十三字【甲】</note><note n="1144018" resp="CBETA" type="mod">（唯識比量集記一卷願建）十字∞（唯識比量遣偽興真章一卷行賀）十三字【甲】</note><app n="1144018"><lem wit="【大】"><title>唯識比量遣偽興真章一卷</title>　行賀</lem><rdg resp="Taisho" wit="【甲】">唯識比量集記一卷願建</rdg></app></item>
+<lb n="1144a29" ed="T"/><item xml:id="itemT55p1144a2901"><title>勝軍比量集記一卷</title>　<note n="1144019" resp="Taisho" place="foot text" type="orig">願建＝同上【甲】</note><app n="1144019"><lem wit="【大】">願建</lem><rdg resp="Taisho" wit="【甲】">同上</rdg></app></item>
+<pb n="1144b" xml:id="T55.2181.1144b" ed="T"/>
+<lb n="1144b01" ed="T"/><item xml:id="itemT55p1144b0101"><title>宗輪論疏<note n="1144020" resp="Taisho" place="foot text" type="orig">一＝二【甲】</note><app n="1144020"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">二</rdg></app>卷</title>　大乘基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1144b02" ed="T"/><item xml:id="itemT55p1144b0201"><title>大毘婆<note n="1144021" resp="Taisho" place="foot text" type="orig">娑抄＝沙論【甲】</note><app n="1144021"><lem wit="【大】">娑抄</lem><rdg resp="Taisho" wit="【甲】">沙論</rdg></app>十卷</title></item>
+<lb n="1144b03" ed="T"/><item xml:id="itemT55p1144b0301"><title>俱舍論抄十卷</title>　大乘基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1144b04" ed="T"/><item xml:id="itemT55p1144b0401"><title>同論記</title>十五卷　大乘光<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1144b05" ed="T"/><item xml:id="itemT55p1144b0501"><title>同論頌疏六卷</title>　圓暉</item>
+<lb n="1144b06" ed="T"/><item xml:id="itemT55p1144b0601"><title><note n="1144022" resp="Taisho" place="foot text" type="orig">（同）＋頌【甲】</note><app n="1144022"><lem wit="【大】">頌</lem><rdg resp="Taisho" wit="【甲】">同頌</rdg></app>疏記五卷</title>　遁麟</item>
+<lb n="1144b07" ed="T"/><item xml:id="itemT55p1144b0701"><title>同<app type="star" corresp="#1141032"><lem wit="【大】">抄</lem><rdg resp="Taisho" wit="【甲】">鈔</rdg></app>三卷</title>　<note n="1144023" resp="Taisho" place="foot text" type="orig">惠＝慧【甲】</note><app n="1144023"><lem wit="【大】">惠</lem><rdg resp="Taisho" wit="【甲】">慧</rdg></app>暉</item>
+<lb n="1144b08" ed="T"/><item xml:id="itemT55p1144b0801"><title><note n="1144024" resp="Taisho" place="foot text" type="orig">（同論記十五卷又云疏大乘寶同論疏十五卷神泰）＋順【甲】</note><app n="1144024"><lem wit="【大】">順</lem><rdg resp="Taisho" wit="【甲】">同論記十五卷又云疏大乘寶同論疏十五卷神泰順</rdg></app>正理<note n="1144025" resp="Taisho" place="foot text" type="orig">論＋（鈔五卷）【甲】</note><app n="1144025"><lem wit="【大】">論</lem><rdg resp="Taisho" wit="【甲】">論鈔五卷</rdg></app></title>　元<note n="1144026" resp="Taisho" place="foot text" type="orig">瑜＝喻【甲】</note><app n="1144026"><lem wit="【大】">瑜</lem><rdg resp="Taisho" wit="【甲】">喻</rdg></app></item>
+<lb n="1144b09" ed="T"/><item xml:id="itemT55p1144b0901"><title><note n="1144027" resp="Taisho" place="foot text" type="orig">（弘仁格云）＋大【甲】</note><app n="1144027"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】">弘仁格云大</rdg></app>乘法苑<note n="1144028" resp="Taisho" place="foot text" type="orig">（義）＋林【甲】</note><app n="1144028"><lem wit="【大】">林</lem><rdg resp="Taisho" wit="【甲】">義林</rdg></app>章七卷</title>　大乘基<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1144b10" ed="T"/><item xml:id="itemT55p1144b1001"><title>二十七賢聖章一卷</title><note n="1144029" resp="Taisho" place="foot text" type="orig">〔私云…歟〕十二字－【甲】</note><app cb:word-count="12" n="1144029"><lem wit="【大】"><note place="inline">私云是上法苑林章內別章歟</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　<note n="1144030" resp="Taisho" place="foot text" type="orig">大乘基撰＝同上【甲】</note><app n="1144030"><lem wit="【大】">大乘基撰</lem><rdg resp="Taisho" wit="【甲】">同上</rdg></app></item>
+<lb n="1144b11" ed="T"/><item xml:id="itemT55p1144b1101"><title>同記二卷</title><note place="inline"><note n="1144031" resp="Taisho" place="foot text" type="orig">亦＋（云）【甲】</note><app n="1144031"><lem wit="【大】">亦</lem><rdg resp="Taisho" wit="【甲】">亦云</rdg></app>決擇抄</note>　智周</item>
+<lb n="1144b12" ed="T"/><item xml:id="itemT55p1144b1201"><title>同義鏡<app type="star" corresp="#1142027"><lem wit="【大】">□卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></title>　善珠</item>
+<lb n="1144b13" ed="T"/><item xml:id="itemT55p1144b1301"><title>同撰集<app type="star" corresp="#1142027"><lem wit="【大】">□卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></title>　常騰</item>
+<lb n="1144b14" ed="T"/><item xml:id="itemT55p1144b1401"><title>同記四卷</title>　憬興</item>
+<lb n="1144b15" ed="T"/><item xml:id="itemT55p1144b1501"><title>同補闕章三卷</title>　惠沼</item>
+<lb n="1144b16" ed="T"/><item xml:id="itemT55p1144b1601"><title>大乘義林<note n="1144032" resp="Taisho" place="foot text" type="orig">（廣）＋章【甲】</note><app n="1144032"><lem wit="【大】">章</lem><rdg resp="Taisho" wit="【甲】">廣章</rdg></app></title>十二卷　義寂</item>
+<lb n="1144b17" ed="T"/><item xml:id="itemT55p1144b1701"><title>能顯中邊惠日<note n="1144033" resp="Taisho" place="foot text" type="orig">論＝章【甲】</note><app n="1144033"><lem wit="【大】">論</lem><rdg resp="Taisho" wit="【甲】">章</rdg></app>四卷</title>　惠沼</item>
+<lb n="1144b18" ed="T"/><item xml:id="itemT55p1144b1801"><title>同惠日羽足三卷</title>　德一<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1144b19" ed="T"/><item xml:id="itemT55p1144b1901"><title>大乘入道章一卷</title>　智周</item>
+<lb n="1144b20" ed="T"/><item xml:id="itemT55p1144b2001"><title>中邊義鏡章三卷</title>　德一<app type="star" corresp="#1140028"><lem wit="【大】">撰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1144b21" ed="T"/><item xml:id="itemT55p1144b2101"><title>中邊義鏡殘</title>二十卷　同上</item>
+<lb n="1144b22" ed="T"/><item xml:id="itemT55p1144b2201"><title>法相了義燈</title>十一卷　同上</item>
+<lb n="1144b23" ed="T"/><item xml:id="itemT55p1144b2301"><title>遮異見章三卷</title>　同上</item>
+<lb n="1144b24" ed="T"/><item xml:id="itemT55p1144b2401"><title>種姓差別集三<note n="1144034" resp="Taisho" place="foot text" type="orig">卷＋（神昉）【甲】</note><app n="1144034"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷神昉</rdg></app></title></item>
+<lb n="1144b25" ed="T"/><item xml:id="itemT55p1144b2501"><title>勸發菩提心集三<note n="1144035" resp="Taisho" place="foot text" type="orig">卷＋（惠沼）【甲】</note><app n="1144035"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷惠沼</rdg></app></title></item>
+<lb n="1144b26" ed="T"/><item xml:id="itemT55p1144b2601"><title>新撰大乘義章五<note n="1144036" resp="Taisho" place="foot text" type="orig">卷＋（遁倫）【甲】</note><app n="1144036"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷遁倫</rdg></app></title></item>
+<lb n="1144b27" ed="T"/><item xml:id="itemT55p1144b2701"><title>西方要決一<note n="1144037" resp="Taisho" place="foot text" type="orig">卷＋（大乘基）【甲】</note><app n="1144037"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷大乘基</rdg></app></title></item>
+<lb n="1144b28" ed="T"/><item xml:id="itemT55p1144b2801"><title>圓弘師章四卷</title></item>
+<lb n="1144b29" ed="T"/><item xml:id="itemT55p1144b2901"><title>研神章五<note n="1144038" resp="Taisho" place="foot text" type="orig">卷＋（護命）【甲】</note><app n="1144038"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷護命</rdg></app></title></item>
+<pb n="1144c" xml:id="T55.2181.1144c" ed="T"/>
+<lb n="1144c01" ed="T"/><item xml:id="itemT55p1144c0101"><title>一切經音義二十五<note n="1144039" resp="Taisho" place="foot text" type="orig">卷＋（玄應）【甲】</note><app n="1144039"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷玄應</rdg></app></title></item>
+<lb n="1144c02" ed="T"/><item xml:id="itemT55p1144c0201"><title>大唐西域記</title>十二卷<note n="1144040" resp="Taisho" place="foot text" type="orig">〔玄弉…之〕二十四字－【甲】</note><app cb:word-count="24" n="1144040"><lem wit="【大】"><note place="inline">玄弉三藏渡天十七年間見聞百三十箇國記之歸唐翻譯之</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1144c03" ed="T"/><item xml:id="itemT55p1144c0301"><title>大唐<note n="1144041" resp="Taisho" place="foot text" type="orig">〔大〕－【甲】</note><app n="1144041"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>慈恩三藏傳十卷</title></item></list>
+<lb n="1144c04" ed="T"/><p xml:id="pT55p1144c0401" rend="margin-left:3em">安元二年十一月日　權律師藏俊</p>
+<lb n="1144c05" ed="T"/><p xml:id="pT55p1144c0501" rend="margin-left:4em">依院宣注進<note n="1144042" resp="Taisho" place="foot text" type="orig">之＋（都合三百四十二部卷都千五百十九）【甲】</note><app n="1144042"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】">之都合三百四十二部卷都千五百十九</rdg></app></p></cb:div>
+</body></text></TEI>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T21n1333">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1333 虛空藏菩薩問七佛陀羅尼呪經</title>
+			<author>失譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.12 $<date>$Date: 2009/04/23 08:01:47 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:47 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 21, No. 1333 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-31T09:31:41">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T21n1333.xml,v $
+Revision 1.12  2009/04/23 08:01:47  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.11  2006/04/12 21:55:59  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.9  2005/10/26 14:38:54  saywhat
+resp="resp=CBETA  =>  resp="CBETA
+
+Revision 1.8  2005/10/26 09:51:00  saywhat
+p0561b29 [處>虛]
+
+Revision 1.7  2004/11/14 03:17:27  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.6  2004/10/22 04:03:44  saywhat
+段落前加入圈點
+
+Revision 1.5  2004/04/20 08:39:15  maha
+「版本日期」標記修訂
+
+Revision 1.4  2004/01/02 05:54:02  maha
+<note mod>裡的corr2app
+
+Revision 1.3  2003/06/23 06:16:51  saywhat
+[＊]校勘插入XML
+
+Revision 1.2  2003/05/26 11:39:20  saywhat
+【宋】【元】【明】＊改成【宋】＊【元】＊【明】＊
+
+Revision 1.1.1.1  2003/05/05 04:09:31  ray
+recover cvs
+
+Revision 1.13  2002/11/28 10:06:42  saywhat
+校勘插入處理
+
+Revision 1.12  2002/11/04 10:46:15  ray
+tei.2 => TEI.2
+
+Revision 1.11  2002/10/07 13:13:04  moved
+modified
+
+Revision 1.10  2002/07/29 09:57:23  vinking
+modified lang
+
+Revision 1.9  2002/04/08 09:07:16  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.8  2001/07/24 06:53:50  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.7  2001/03/30 05:57:42  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.6  2001/03/25 09:18:41  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 06:57:58  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 07:47:49  chris
+Added keywords $Revision: 1.12 $, $Date: 2009/04/23 08:01:47 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0561b10" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0561b11" ed="T"/>
+<lb n="0561b12" ed="T"/><cb:docNumber>No. 1333 [Nos. 1147, 1334]</cb:docNumber><cb:div type="jing">
+<lb n="0561b13" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0561028" resp="Taisho" place="foot text" type="orig">【原】麗本，【甲】知恩院藏古寫本</note>虛空藏菩薩問七佛陀羅尼呪經</cb:jhead></cb:juan>
+<lb n="0561b14" ed="T"/>
+<lb n="0561b15" ed="T"/><byline cb:type="Translator"><note n="0561029" resp="Taisho" place="foot text" type="orig">〔失譯…錄〕－【甲】</note><app cb:word-count="8" n="0561029"><lem wit="【大】">失譯<note n="0561030" resp="Taisho" place="foot text" type="orig">〔人名〕－【宋】</note><app n="0561030"><lem wit="【大】">人名</lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app>今附梁錄</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></byline>
+<lb n="0561b16" ed="T"/><p xml:id="pT21p0561b1601">如是我聞。一時佛住雞羅莎<note n="0561031" resp="Taisho" place="foot text" type="orig">〔山〕－【甲】</note><app n="0561031"><lem wit="【大】">山</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。在山頂上諸
+<lb n="0561b17" ed="T"/>天住處。去諸賢聖不遠。與大眾俱前後圍繞。
+<lb n="0561b18" ed="T"/>大比丘足滿五百。又有五百諸大菩薩俱。其
+<lb n="0561b19" ed="T"/>名曰彌勒菩薩。虛空藏菩薩。普賢菩薩。無盡
+<lb n="0561b20" ed="T"/><note n="0561032" resp="Taisho" place="foot text" type="orig">華＝意【甲】</note><app n="0561032"><lem wit="【大】">華</lem><rdg resp="Taisho" wit="【甲】">意</rdg></app>菩薩。文殊師利菩薩。與五百菩薩摩訶薩
+<lb n="0561b21" ed="T"/>等皆一生補處。</p>
+<lb n="0561b22" ed="T"/><p xml:id="pT21p0561b2201">爾時世尊觀於四方。去其住處不遠。觀見林
+<lb n="0561b23" ed="T"/>中有一比丘。為惡鬼所持口出種種惡言。其
+<lb n="0561b24" ed="T"/>林中又有一比丘。露其身形而舉兩手。口出
+<lb n="0561b25" ed="T"/>種種異音。或復<note n="0561033" resp="Taisho" place="foot text" type="orig">〔呼天乍復〕－【甲】</note><app n="0561033"><lem wit="【大】">呼天乍復</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>喚地。爾時虛空
+<lb n="0561b26" ed="T"/>藏菩薩摩訶薩。聞其聲<note n="0561034" resp="Taisho" place="foot text" type="orig">已＝己【甲】＊</note><app n="0561034"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【甲】">己</rdg></app>承佛神力。整理
+<lb n="0561b27" ed="T"/>衣服右膝著地。合掌向佛白佛言。世尊此二
+<lb n="0561b28" ed="T"/>比丘。何意唱如是聲。或舉於兩手復出惡<note n="0561035" resp="Taisho" place="foot text" type="orig">〔言〕－【三】【甲】</note><note n="0561035" resp="CBETA" type="mod">〔言〕－【宋】【元】【明】【甲】</note><app n="0561035"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】"><space quantity="0"/></rdg></app>
+<lb n="0561b29" ed="T"/>音。於是世尊告<app><lem resp="CBETA.maha" wit="【CBETA】【麗】">虛<note type="cf1">K12n0346_p0053a18</note><note type="cf2">T21n1334_p0565a19</note></lem><rdg wit="【大】">處</rdg></app>空藏菩薩摩訶薩言。此一
+<pb n="0561c" xml:id="T21.1333.0561c" ed="T"/>
+<lb n="0561c01" ed="T"/>比丘為惡病所持出是音聲。又一比丘為惡
+<lb n="0561c02" ed="T"/>鬼所持露形而走。</p>
+<lb n="0561c03" ed="T"/><p xml:id="pT21p0561c0301">爾時虛空藏菩薩摩訶薩。白佛言世尊。為治
+<lb n="0561c04" ed="T"/>眾生一切病故。為除一切惡鬼障難不起故。
+<lb n="0561c05" ed="T"/>唯願世尊為一切眾生。說陀羅尼呪。</p>
+<lb n="0561c06" ed="T"/><p xml:id="pT21p0561c0601">爾時世尊現威神力。於虛空中即現六佛。時
+<lb n="0561c07" ed="T"/>釋迦牟尼佛即騰虛空依次而坐。是時大眾
+<lb n="0561c08" ed="T"/>悉皆<note n="0561036" resp="Taisho" place="foot text" type="orig">觀＝覩【三】【甲】</note><note n="0561036" resp="CBETA" type="mod">觀＝覩【宋】【元】【明】【甲】</note><app n="0561036"><lem wit="【大】">觀</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">覩</rdg></app><note n="0561037" resp="Taisho" place="foot text" type="orig">〔見〕－【甲】</note><app n="0561037"><lem wit="【大】">見</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>七佛世尊。</p>
+<lb n="0561c09" ed="T"/><p xml:id="pT21p0561c0901">爾時毘婆尸佛為一切眾生故。為除一切惡
+<lb n="0561c10" ed="T"/>鬼障難故。說大威德陀羅尼呪。而說呪曰。</p>
+<lb n="0561c11" ed="T"/><p xml:id="pT21p0561c1101" cb:type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶
+<lb n="0561c12" ed="T"/>　南無毘婆尸　多他伽多耶　<note n="0561038" resp="Taisho" place="foot text" type="orig">呵＝阿【宋】【元】</note><app n="0561038"><lem wit="【大】">呵</lem><rdg resp="Taisho" wit="【宋】【元】">阿</rdg></app>羅呵提三藐
+<lb n="0561c13" ed="T"/>三佛陀<note n="0561039" resp="Taisho" place="foot text" type="orig">耶＋（多絰他）【三】</note><note n="0561039" resp="CBETA" type="mod">耶＋（多絰他）【宋】【元】【明】</note><app n="0561039"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【宋】【元】【明】">耶多絰他</rdg></app>　<note n="0561040" resp="Taisho" place="foot text" type="orig">唵＝菴【三】＊</note><note n="0561040" resp="CBETA" type="mod">唵＝菴【宋】＊【元】＊【明】＊</note><app n="0561040"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【宋】【元】【明】">菴</rdg></app>　呵羅呵羅　醯利醯羅耶
+<lb n="0561c14" ed="T"/>　南無雞利吉羅耶　<note n="0561041" resp="Taisho" place="foot text" type="orig">閱＝闍【三】【甲】</note><note n="0561041" resp="CBETA" type="mod">閱＝闍【宋】【元】【明】【甲】</note><app n="0561041"><lem wit="【大】">閱</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">闍</rdg></app>伽無遮那耶　南
+<lb n="0561c15" ed="T"/>無南摩娑波<note n="0561042" resp="Taisho" place="foot text" type="orig">（婆）＋呵【甲】</note><app n="0561042"><lem wit="【大】">呵</lem><rdg resp="Taisho" wit="【甲】">婆呵</rdg></app></p>
+<lb n="0561c16" ed="T"/><p xml:id="pT21p0561c1601">爾時毘婆尸佛。告虛空藏菩薩摩訶薩言。若
+<lb n="0561c17" ed="T"/>有善男子善女人受持此呪者。若讀若誦。若
+<lb n="0561c18" ed="T"/>復有人推覓此呪者。若樂聽聞者。是人不為
+<lb n="0561c19" ed="T"/>一切刀仗所害。不為一切水溺。不為一切苦
+<lb n="0561c20" ed="T"/>患所持。不受一切橫死。若復有人與持此呪
+<lb n="0561c21" ed="T"/>人毒<note n="0561043" resp="Taisho" place="foot text" type="orig">藥＝氣【甲】</note><app n="0561043"><lem wit="【大】">藥</lem><rdg resp="Taisho" wit="【甲】">氣</rdg></app>者。其藥變成美食不著於人。若復有
+<lb n="0561c22" ed="T"/>人若<note n="0561044" resp="Taisho" place="foot text" type="orig">飲＝飯【甲】</note><app n="0561044"><lem wit="【大】">飲</lem><rdg resp="Taisho" wit="【甲】">飯</rdg></app>若食。先呪作七遍然後而食。食<app type="star" corresp="#0561034"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【甲】">己</rdg></app>
+<lb n="0561c23" ed="T"/>是諸蠱道惡口眾邪。皆悉自滅不能為害。若
+<lb n="0561c24" ed="T"/>受持是呪者。令人壽命延長。所有習誦一聞
+<lb n="0561c25" ed="T"/>領悟終不忘失。晝夜恒見佛像。若復有人為
+<lb n="0561c26" ed="T"/>惡鬼所打不得<note n="0561045" resp="Taisho" place="foot text" type="orig">差＝瘥【宋】＊</note><app n="0561045"><lem wit="【大】">差</lem><rdg resp="Taisho" wit="【宋】">瘥</rdg></app>者。而於此人耳邊。呪之七
+<lb n="0561c27" ed="T"/>遍即時除愈。若有人患團風白癬及以癲病。
+<lb n="0561c28" ed="T"/>取蘇曼青<note n="0561046" resp="Taisho" place="foot text" type="orig">水＝木【三】【甲】＊</note><note n="0561046" resp="CBETA" type="mod">水＝木【宋】【元】【明】【甲】＊</note><app n="0561046"><lem wit="【大】">水</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">木</rdg></app>香蓮華<note n="0561047" resp="Taisho" place="foot text" type="orig">茴＝槐【三】【甲】＊</note><note n="0561047" resp="CBETA" type="mod">茴＝槐【宋】【元】【明】【甲】＊</note><app n="0561047"><lem wit="【大】">茴</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">槐</rdg></app>香細辛。各以等分
+<lb n="0561c29" ed="T"/>取胡麻油煎之。摩其患處即得除愈。一切所
+<pb n="0562a" xml:id="T21.1333.0562a" ed="T"/>
+<lb n="0562a01" ed="T"/>有病者。用此呪呪之無不獲<app type="star" corresp="#0561045"><lem wit="【大】">差</lem><rdg resp="Taisho" wit="【宋】">瘥</rdg></app>。</p>
+<lb n="0562a02" ed="T"/><p xml:id="pT21p0562a0201">爾時尸棄佛在於<note n="0562001" resp="Taisho" place="foot text" type="orig">（虛）＋空【甲】</note><app n="0562001"><lem wit="【大】">空</lem><rdg resp="Taisho" wit="【甲】">虛空</rdg></app>中。欲為一切眾生除一
+<lb n="0562a03" ed="T"/>切病故。欲除一切惡鬼障難故。而說呪曰。</p>
+<lb n="0562a04" ed="T"/><p xml:id="pT21p0562a0401" cb:type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶
+<lb n="0562a05" ed="T"/>　南無尸<note n="0562002" resp="Taisho" place="foot text" type="orig">棄＋（佛）【甲】</note><app n="0562002"><lem wit="【大】">棄</lem><rdg resp="Taisho" wit="【甲】">棄佛</rdg></app><note n="0562003" resp="Taisho" place="foot text" type="orig">禰＝彌【三】</note><note n="0562003" resp="CBETA" type="mod">禰＝彌【宋】【元】【明】</note><app n="0562003"><lem wit="【大】">禰</lem><rdg resp="Taisho" wit="【宋】【元】【明】">彌</rdg></app>多陀伽多耶　阿羅訶<note n="0562004" resp="Taisho" place="foot text" type="orig">〔提〕－【三】＊</note><note n="0562004" resp="CBETA" type="mod">〔提〕－【宋】＊【元】＊【明】＊</note><app n="0562004"><lem wit="【大】">提</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>三
+<lb n="0562a06" ed="T"/>藐三佛陀　<app type="star" corresp="#0561040"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【宋】【元】【明】">菴</rdg></app>　波遮波遮　波遮波耶
+<lb n="0562a07" ed="T"/>　薩婆浮多南嗔陀吉羅耶　波邏毘陀南　娑
+<lb n="0562a08" ed="T"/>波呵</p>
+<lb n="0562a09" ed="T"/><p xml:id="pT21p0562a0901">爾時尸棄佛告虛空藏菩薩摩訶薩言。我此
+<lb n="0562a10" ed="T"/>神呪百千那由他無數億諸佛所說我今說
+<lb n="0562a11" ed="T"/>之。為一切眾生故。除一切病故。除一切諸惡
+<lb n="0562a12" ed="T"/>鬼障難故。除一切惡夢故。除一切橫病死故。
+<lb n="0562a13" ed="T"/>又告虛空藏菩薩摩訶薩言。若有善男子善女
+<lb n="0562a14" ed="T"/>人。若晝誦此呪三遍夜誦三遍。或復心念一
+<lb n="0562a15" ed="T"/>切蠱毒。厭禱呪<note n="0562005" resp="Taisho" place="foot text" type="orig">詛＝咀【宋】＊【元】</note><app n="0562005"><lem wit="【大】">詛</lem><rdg resp="Taisho" wit="【宋】【元】">咀</rdg></app>惡口赤舌。眾<note n="0562006" resp="Taisho" place="foot text" type="orig">耶＝邪【三】</note><note n="0562006" resp="CBETA" type="mod">耶＝邪【宋】【元】【明】</note><app n="0562006"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【宋】【元】【明】">邪</rdg></app>魍魎皆
+<lb n="0562a16" ed="T"/>不得近。昏夜警中恒見諸佛。所有食噉之<note n="0562007" resp="Taisho" place="foot text" type="orig">物＝初【甲】</note><app n="0562007"><lem wit="【大】">物</lem><rdg resp="Taisho" wit="【甲】">初</rdg></app>
+<lb n="0562a17" ed="T"/>即自消化而<note n="0562008" resp="Taisho" place="foot text" type="orig">充＝死【甲】</note><app n="0562008"><lem wit="【大】">充</lem><rdg resp="Taisho" wit="【甲】">死</rdg></app>氣力。其人若命終已。昏夜所
+<lb n="0562a18" ed="T"/>見佛者皆來<note n="0562009" resp="Taisho" place="foot text" type="orig">迎＝近【甲】</note><app n="0562009"><lem wit="【大】">迎</lem><rdg resp="Taisho" wit="【甲】">近</rdg></app>其精神恒相隨逐。若復有人
+<lb n="0562a19" ed="T"/>依此呪法作功能者。於一切病須結呪索。若
+<lb n="0562a20" ed="T"/>有人困病時。取蘇<note n="0562010" resp="Taisho" place="foot text" type="orig">曼木＝蔓華【宋】【元】，曼華【明】，夢【甲】</note><note n="0562010" resp="CBETA" type="mod">曼木＝蔓華【宋】【元】，＝曼華【明】，＝夢【甲】</note><app n="0562010"><lem wit="【大】">曼木</lem><rdg resp="Taisho" wit="【宋】【元】">蔓華</rdg><rdg resp="Taisho" wit="【明】">曼華</rdg><rdg resp="Taisho" wit="【甲】">夢</rdg></app>取油煎之。摩其身體
+<lb n="0562a21" ed="T"/>皆得除愈。若有眾生晝夜恐怖。取淨水呪之
+<lb n="0562a22" ed="T"/>灑著四方。作呪索<note n="0562011" resp="Taisho" place="foot text" type="orig">繫＝繼【甲】＊</note><app n="0562011"><lem wit="【大】">繫</lem><rdg resp="Taisho" wit="【甲】">繼</rdg></app><note n="0562012" resp="Taisho" place="foot text" type="orig">〔其〕－【三】【甲】</note><note n="0562012" resp="CBETA" type="mod">〔其〕－【宋】【元】【明】【甲】</note><app n="0562012"><lem wit="【大】">其</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】"><space quantity="0"/></rdg></app>身上。一切魍魎不
+<lb n="0562a23" ed="T"/>得其便。若有小兒被惡鬼所打。用碧<note n="0562013" resp="Taisho" place="foot text" type="orig">綖＝線【三】【甲】</note><note n="0562013" resp="CBETA" type="mod">綖＝線【宋】【元】【明】【甲】</note><app n="0562013"><lem wit="【大】">綖</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">線</rdg></app>作
+<lb n="0562a24" ed="T"/>呪索。<app type="star" corresp="#0562011"><lem wit="【大】">繫</lem><rdg resp="Taisho" wit="【甲】">繼</rdg></app>著頸下即得除愈。若復有人被惡鬼
+<lb n="0562a25" ed="T"/>所打。於耳邊呪作七遍亦得除愈。隨心所欲
+<lb n="0562a26" ed="T"/>造者無不得成。</p>
+<lb n="0562a27" ed="T"/><p xml:id="pT21p0562a2701">爾時毘舍浮佛在虛空中。欲為一切眾生除
+<lb n="0562a28" ed="T"/>一切病故。除一切諸惡鬼故。障難不起故。而
+<lb n="0562a29" ed="T"/>說呪曰。</p>
+<pb n="0562b" xml:id="T21.1333.0562b" ed="T"/>
+<lb n="0562b01" ed="T"/><p xml:id="pT21p0562b0101" cb:type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶
+<lb n="0562b02" ed="T"/>　南無毘舍<note n="0562014" resp="Taisho" place="foot text" type="orig">浮＋（毘）【三】，＋（多）【甲】</note><note n="0562014" resp="CBETA" type="mod">浮＋（毘）【宋】【元】【明】，＋（多）【甲】</note><app n="0562014"><lem wit="【大】">浮</lem><rdg resp="Taisho" wit="【宋】【元】【明】">浮毘</rdg><rdg resp="Taisho" wit="【甲】">浮多</rdg></app>多他竭多耶　阿羅訶<app type="star" corresp="#0562004"><lem wit="【大】">提</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>三藐
+<lb n="0562b03" ed="T"/>三佛陀耶　<app type="star" corresp="#0561040"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【宋】【元】【明】">菴</rdg></app>　伽邏伽邏伽邏伽邏　拘
+<lb n="0562b04" ed="T"/>樓拘樓拘樓拘樓　拘盧蹉陀喃　拘樓薩婆
+<lb n="0562b05" ed="T"/>伽呵喃　娑波呵</p>
+<lb n="0562b06" ed="T"/><p xml:id="pT21p0562b0601">爾時毘舍浮佛說此呪已。告虛空藏菩薩摩
+<lb n="0562b07" ed="T"/>訶薩言。如此神呪賢劫千佛中過去佛已說
+<lb n="0562b08" ed="T"/>此呪。現在佛今說。未來佛當說。又告虛空藏
+<lb n="0562b09" ed="T"/>菩薩言。汝當受持此呪。若未來世復有眾生。
+<lb n="0562b10" ed="T"/>受持呪者若讀若誦。若復有人推覓此呪。不
+<lb n="0562b11" ed="T"/>為刀<note n="0562015" resp="Taisho" place="foot text" type="orig">杖＝仗【三】＊</note><note n="0562015" resp="CBETA" type="mod">杖＝仗【宋】＊【元】＊【明】＊</note><app n="0562015"><lem wit="【大】">杖</lem><rdg resp="Taisho" wit="【宋】【元】【明】">仗</rdg></app>怖畏一切蠱毒。一切熱病一切水溺。
+<lb n="0562b12" ed="T"/>不受橫死不被惡病。如是<note n="0562016" resp="Taisho" place="foot text" type="orig">等＋（事）【元】【明】</note><app n="0562016"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【元】【明】">等事</rdg></app>悉得除却。唯宿
+<lb n="0562b13" ed="T"/>殃不除耳。若有比丘比丘尼優婆塞優婆夷。
+<lb n="0562b14" ed="T"/>晨起澡浴并洗頭面。在於佛前誦此呪一百
+<lb n="0562b15" ed="T"/>八遍。一切諸惡不加其身。一切疾病自然除
+<lb n="0562b16" ed="T"/>愈。壽命延長一切財寶自然富足。一切身中
+<lb n="0562b17" ed="T"/>障難不善之事皆各銷除。一切怨家自然和
+<lb n="0562b18" ed="T"/>解。一切厭禱皆不著身。澡浴誦呪因緣得如
+<lb n="0562b19" ed="T"/>此福。若有人於嶮難怖畏之處。能憶念此呪
+<lb n="0562b20" ed="T"/>皆得離於恐怖。若復有人鬪<note n="0562017" resp="Taisho" place="foot text" type="orig">諍＝誦【甲】</note><app n="0562017"><lem wit="【大】">諍</lem><rdg resp="Taisho" wit="【甲】">誦</rdg></app>。為縣官口
+<lb n="0562b21" ed="T"/>舌。以白綖結呪索。呪之一百八遍<app type="star" corresp="#0562011"><lem wit="【大】">繫</lem><rdg resp="Taisho" wit="【甲】">繼</rdg></app>其右臂
+<lb n="0562b22" ed="T"/>上。若有人眼<note n="0562018" resp="Taisho" place="foot text" type="orig">痛＝病【甲】</note><app n="0562018"><lem wit="【大】">痛</lem><rdg resp="Taisho" wit="【甲】">病</rdg></app>者。以<note n="0562019" resp="Taisho" place="foot text" type="orig">桔＝梏【宋】＊</note><app n="0562019"><lem wit="【大】">桔</lem><rdg resp="Taisho" wit="【宋】">梏</rdg></app>皮結呪索<app type="star" corresp="#0562011"><lem wit="【大】">繫</lem><rdg resp="Taisho" wit="【甲】">繼</rdg></app>其耳
+<lb n="0562b23" ed="T"/>上。若他方有賊欲來侵境者。用<note n="0562020" resp="Taisho" place="foot text" type="orig">酥＝蘇【宋】＊</note><app n="0562020"><lem wit="【大】">酥</lem><rdg resp="Taisho" wit="【宋】">蘇</rdg></app>酪蜜胡麻
+<lb n="0562b24" ed="T"/>等分和之。在佛像前用銅<note n="0562021" resp="Taisho" place="foot text" type="orig">𨥌＝柢【宋】＊，匙【元】【明】＊，振【甲】＊</note><note n="0562021" resp="CBETA" type="mod">𨥌＝柢【宋】＊，＝匙【元】【明】＊，＝振【甲】＊</note><app n="0562021"><lem wit="【大】">𨥌</lem><rdg resp="Taisho" wit="【宋】">柢</rdg><rdg resp="Taisho" wit="【元】【明】">匙</rdg><rdg resp="Taisho" wit="【甲】">振</rdg></app><note n="0562022" resp="Taisho" place="foot text" type="orig">卷＝捲【宋】，𢍶【元】【明】＊</note><note n="0562022" resp="CBETA" type="mod">卷＝捲【宋】，＝𢍶【元】【明】＊</note><app n="0562022"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【宋】">捲</rdg><rdg resp="Taisho" wit="【元】【明】">𢍶</rdg></app>一<app type="star" corresp="#0562021"><lem wit="【大】">𨥌</lem><rdg resp="Taisho" wit="【宋】">柢</rdg><rdg resp="Taisho" wit="【元】【明】">匙</rdg><rdg resp="Taisho" wit="【甲】">振</rdg></app>呪之
+<lb n="0562b25" ed="T"/>一遍擲著火中至一千八遍。是諸怨賊無問
+<lb n="0562b26" ed="T"/>遠近自然退散。若復有人欲求長命者。當用
+<lb n="0562b27" ed="T"/>酪蜜<note n="0562023" resp="Taisho" place="foot text" type="orig">炒＝<g ref="#CB14621"/>【甲】</note><app n="0562023"><lem wit="【大】">炒</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB14621"/></rdg></app>粳米為華。三種等分和之。在於佛前
+<lb n="0562b28" ed="T"/>以銅<app type="star" corresp="#0562021"><lem wit="【大】">𨥌</lem><rdg resp="Taisho" wit="【宋】">柢</rdg><rdg resp="Taisho" wit="【元】【明】">匙</rdg><rdg resp="Taisho" wit="【甲】">振</rdg></app><app type="star" corresp="#0562022"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【元】【明】">𢍶</rdg></app>之一<app type="star" corresp="#0562021"><lem wit="【大】">𨥌</lem><rdg resp="Taisho" wit="【宋】">柢</rdg><rdg resp="Taisho" wit="【元】【明】">匙</rdg><rdg resp="Taisho" wit="【甲】">振</rdg></app>呪之一遍擲著火中至
+<lb n="0562b29" ed="T"/>一千八遍。然後乃止。又復有人。欲為自身及
+<pb n="0562c" xml:id="T21.1333.0562c" ed="T"/>
+<lb n="0562c01" ed="T"/>為他人。一切怖畏一切諸罪欲得除滅者欲
+<lb n="0562c02" ed="T"/>求一切富貴財寶者。欲除身中障難令得清
+<lb n="0562c03" ed="T"/>淨者。若復有人欲誦持此呪。一切怖畏障難
+<lb n="0562c04" ed="T"/>悉自除滅所作成就。又復依一切呪法者。亦
+<lb n="0562c05" ed="T"/>得成就。若有一切怨家不得其便。若有人欲
+<lb n="0562c06" ed="T"/>作法。當須合藥塗身。須<app type="star" corresp="#0561047"><lem wit="【大】">茴</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">槐</rdg></app>香須<note n="0562024" resp="Taisho" place="foot text" type="orig">稻＝酒【甲】</note><app n="0562024"><lem wit="【大】">稻</lem><rdg resp="Taisho" wit="【甲】">酒</rdg></app>米須那
+<lb n="0562c07" ed="T"/>羅陀尸利沙。須沈水香尸利耶欝金香。須香
+<lb n="0562c08" ed="T"/>附子須因陀婆路。須菩提樹木。如是等藥等
+<lb n="0562c09" ed="T"/>分和之。晨朝起<note n="0562025" resp="Taisho" place="foot text" type="orig">淨＝涌【甲】</note><app n="0562025"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【甲】">涌</rdg></app>洗浴以藥塗身。若復有人
+<lb n="0562c10" ed="T"/>欲見國王大臣。須在於像前然<app type="star" corresp="#0562019"><lem wit="【大】">桔</lem><rdg resp="Taisho" wit="【宋】">梏</rdg></app>木。為火用
+<lb n="0562c11" ed="T"/>五指撮胡麻。呪之一遍擲著火中。如此一千
+<lb n="0562c12" ed="T"/>八遍乃<note n="0562026" resp="Taisho" place="foot text" type="orig">止＝等【甲】</note><app n="0562026"><lem wit="【大】">止</lem><rdg resp="Taisho" wit="【甲】">等</rdg></app>。若有善男子善女人。欲得一切怨
+<lb n="0562c13" ed="T"/>家自然和解。當淨洗浴著淨衣。中夜時在於
+<lb n="0562c14" ed="T"/>佛前以香華供養。當用粳米炒以為華。取<app type="star" corresp="#0562019"><lem wit="【大】">桔</lem><rdg resp="Taisho" wit="【宋】">梏</rdg></app>
+<lb n="0562c15" ed="T"/>木<note n="0562027" resp="Taisho" place="foot text" type="orig">然＝當【甲】</note><app n="0562027"><lem wit="【大】">然</lem><rdg resp="Taisho" wit="【甲】">當</rdg></app>為火。以三指撮取米華。呪之一遍擲著
+<lb n="0562c16" ed="T"/>火中。如此一千八遍然後乃止。若有善男子
+<lb n="0562c17" ed="T"/>善女人。夜見惡夢怨家伺求其便。一切所作
+<lb n="0562c18" ed="T"/>不得<note n="0562028" resp="Taisho" place="foot text" type="orig">諧偶＝偕<g ref="#CB02932"/>【甲】</note><app n="0562028"><lem wit="【大】">諧偶</lem><rdg resp="Taisho" wit="【甲】">偕<g ref="#CB02932"/></rdg></app>者。於十四日朝<note n="0562029" resp="Taisho" place="foot text" type="orig">全＝令【甲】</note><app n="0562029"><lem wit="【大】">全</lem><rdg resp="Taisho" wit="【甲】">令</rdg></app>不得食。至於
+<lb n="0562c19" ed="T"/>日暮以香湯洗浴其身著新淨衣。在於佛前
+<lb n="0562c20" ed="T"/>誦呪。隨其力分<note n="0562030" resp="Taisho" place="foot text" type="orig">不限＝受恨【甲】</note><app n="0562030"><lem wit="【大】">不限</lem><rdg resp="Taisho" wit="【甲】">受恨</rdg></app>多少。唯<note n="0562031" resp="Taisho" place="foot text" type="orig">盡＝神【甲】</note><app n="0562031"><lem wit="【大】">盡</lem><rdg resp="Taisho" wit="【甲】">神</rdg></app>力至<note n="0562032" resp="Taisho" place="foot text" type="orig">之＝乏【甲】</note><app n="0562032"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】">乏</rdg></app>
+<lb n="0562c21" ed="T"/>乃<note n="0562033" resp="Taisho" place="foot text" type="orig">止＝正【甲】＊</note><app n="0562033"><lem wit="【大】">止</lem><rdg resp="Taisho" wit="【甲】">正</rdg></app>。不得出其道場。<note n="0562034" resp="Taisho" place="foot text" type="orig">仍＝仞【甲】</note><app n="0562034"><lem wit="【大】">仍</lem><rdg resp="Taisho" wit="【甲】">仞</rdg></app>於像前眠睡。到十
+<lb n="0562c22" ed="T"/>五日晨朝。即起淨洗釜著滿中淨水作湯。其
+<lb n="0562c23" ed="T"/>湯中須取有名草木。種種隨分著於湯中。漉
+<lb n="0562c24" ed="T"/>其草出。然後著丁香紫檀白檀。磨作末。隨分
+<lb n="0562c25" ed="T"/>投著湯中。須銅<note n="0562035" resp="Taisho" place="foot text" type="orig">瓮＝盆【甲】＊</note><note n="0562035" resp="CBETA" type="mod"><choice cb:resp="CBETA.maha"><corr>瓫</corr><sic>瓮</sic></choice>＝盆【甲】＊</note><app n="0562035"><lem wit="【大】">瓫</lem><rdg resp="Taisho" wit="【甲】">盆</rdg></app>受五<note n="0562036" resp="Taisho" place="foot text" type="orig">斗＝升【甲】</note><app n="0562036"><lem wit="【大】">斗</lem><rdg resp="Taisho" wit="【甲】">升</rdg></app>者二口。取香水
+<lb n="0562c26" ed="T"/>滿<app type="star" corresp="#0562035"><lem wit="【大】">瓫</lem><rdg resp="Taisho" wit="【甲】">盆</rdg></app>盛之。著於像前。呪之一千八遍竟。即
+<lb n="0562c27" ed="T"/>用此湯洗浴其身。然後乃食。若復有人被毒
+<lb n="0562c28" ed="T"/>藥者。須紫<note n="0562037" resp="Taisho" place="foot text" type="orig">橿＝薑【宋】</note><app n="0562037"><lem wit="【大】">橿</lem><rdg resp="Taisho" wit="【宋】">薑</rdg></app>木寸截之如<note n="0562038" resp="Taisho" place="foot text" type="orig">筋＝箸【三】【甲】</note><note n="0562038" resp="CBETA" type="mod">筋＝箸【宋】【元】【明】【甲】</note><app n="0562038"><lem wit="【大】">筋</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">箸</rdg></app>大作一千八
+<lb n="0562c29" ed="T"/>段。以牛糞塗之。在於像前然火。取木一段呪
+<pb n="0563a" xml:id="T21.1333.0563a" ed="T"/>
+<lb n="0563a01" ed="T"/>之一遍。擲著火中一千八遍。然後乃<app type="star" corresp="#0562033"><lem wit="【大】">止</lem><rdg resp="Taisho" wit="【甲】">正</rdg></app>。稱
+<lb n="0563a02" ed="T"/>病人名。我為彼人除其藥毒即得除愈。此呪
+<lb n="0563a03" ed="T"/>功能說不可盡。若心中所欲作事者。依此呪
+<lb n="0563a04" ed="T"/>法無不成就。</p>
+<lb n="0563a05" ed="T"/><p xml:id="pT21p0563a0501">爾時拘樓孫佛在於空中。為一切眾生除一
+<lb n="0563a06" ed="T"/>切病故。除一切惡鬼障難故。而說呪曰。</p>
+<lb n="0563a07" ed="T"/><p xml:id="pT21p0563a0701" cb:type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶
+<lb n="0563a08" ed="T"/>　南無拘樓孫　多咃<note n="0563001" resp="Taisho" place="foot text" type="orig">〔伽〕－【宋】【元】【甲】</note><app n="0563001"><lem wit="【大】">伽</lem><rdg resp="Taisho" wit="【宋】【元】【甲】"><space quantity="0"/></rdg></app>多耶　阿羅呵<app type="star" corresp="#0562004"><lem wit="【大】">提</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>三
+<lb n="0563a09" ed="T"/>藐三佛陀耶　<app type="star" corresp="#0561040"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【宋】【元】【明】">菴</rdg></app>　伽吒伽吒伽吒伽吒　吉
+<lb n="0563a10" ed="T"/>帝吉帝吉帝吉<note n="0563002" resp="Taisho" place="foot text" type="orig">帝＋（耶）【三】</note><note n="0563002" resp="CBETA" type="mod">帝＋（耶）【宋】【元】【明】</note><app n="0563002"><lem wit="【大】">帝</lem><rdg resp="Taisho" wit="【宋】【元】【明】">帝耶</rdg></app>　南無薩婆多　咃伽帝
+<lb n="0563a11" ed="T"/>毘逾　阿羅呵<note n="0563003" resp="Taisho" place="foot text" type="orig">〔諦〕－【三】，諦＝提【甲】</note><note n="0563003" resp="CBETA" type="mod">〔諦〕－【宋】【元】【明】，諦＝提【甲】</note><app n="0563003"><lem wit="【大】">諦</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【甲】">提</rdg></app>三藐三佛陀毘耶　娑波
+<lb n="0563a12" ed="T"/>呵</p>
+<lb n="0563a13" ed="T"/><p xml:id="pT21p0563a1301">爾時拘樓孫佛說此呪已。告虛空藏菩薩摩
+<lb n="0563a14" ed="T"/>訶薩言。此呪是恒河沙同名拘樓孫佛已說。
+<lb n="0563a15" ed="T"/>我今說之。我亦讚歎此呪不可思議無量功
+<lb n="0563a16" ed="T"/>德。汝今至心受持。若未來世有人受持此呪
+<lb n="0563a17" ed="T"/>者。於三寶中至心敬信者。香湯洗浴著新淨
+<lb n="0563a18" ed="T"/>衣。以香華供養佛像。在於像前<note n="0563004" resp="Taisho" place="foot text" type="orig">胡＝朝【甲】＊</note><app n="0563004"><lem wit="【大】">胡</lem><rdg resp="Taisho" wit="【甲】">朝</rdg></app>跪合掌。
+<lb n="0563a19" ed="T"/><note n="0563005" resp="Taisho" place="foot text" type="orig">誦＝頌【甲】＊</note><app n="0563005"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】">頌</rdg></app>呪一百八遍。於七百身中自知宿命。若欲
+<lb n="0563a20" ed="T"/>生天中諸天之王。若生人中則為轉輪聖王。
+<lb n="0563a21" ed="T"/>若能日日受持。其人命終則往生無量壽國
+<lb n="0563a22" ed="T"/>不生人中。若人晝夜讀誦此呪者。所有一切
+<lb n="0563a23" ed="T"/>橫病不著其身。若欲食時先當呪之七遍。然
+<lb n="0563a24" ed="T"/>後乃食。身中一切疾病自然除愈。若有人被
+<lb n="0563a25" ed="T"/>一切惡鬼所打。或為惡鬼所著者。作好香湯
+<lb n="0563a26" ed="T"/>以此呪呪之一千八遍。然後用此湯與病人
+<lb n="0563a27" ed="T"/>洗浴。仍以此呪呪此病人一千八遍。其病即
+<lb n="0563a28" ed="T"/>得除愈。</p>
+<lb n="0563a29" ed="T"/><p xml:id="pT21p0563a2901">若復有人身生惡瘡者。以<note n="0563006" resp="Taisho" place="foot text" type="orig">鑌＝賓【甲】＊</note><app n="0563006"><lem wit="【大】">鑌</lem><rdg resp="Taisho" wit="【甲】">賓</rdg></app><note n="0563007" resp="Taisho" place="foot text" type="orig">〔鐵〕－【宋】【甲】＊</note><app n="0563007"><lem wit="【大】">鐵</lem><rdg resp="Taisho" wit="【宋】【甲】"><space quantity="0"/></rdg></app>刀呪此病
+<pb n="0563b" xml:id="T21.1333.0563b" ed="T"/>
+<lb n="0563b01" ed="T"/>人。又取銅鍼呪之。然後鍼此瘡上即得除愈。</p>
+<lb n="0563b02" ed="T"/><p xml:id="pT21p0563b0201">若復有人被一切牢獄繫縛。用此呪呪其手
+<lb n="0563b03" ed="T"/>七遍以自摩面。一切官事自然解脫。若人恒
+<lb n="0563b04" ed="T"/>受持此呪者。一切財物自然充足無所乏少。
+<lb n="0563b05" ed="T"/>一切障難即得消滅。若人欲求見佛者。淨持
+<lb n="0563b06" ed="T"/>房舍香泥塗地。安置佛像懸繒幡蓋。香華供
+<lb n="0563b07" ed="T"/>養。香湯浴身著淨衣服。燒沈水香。在於像
+<lb n="0563b08" ed="T"/>前<app type="star" corresp="#0563004"><lem wit="【大】">胡</lem><rdg resp="Taisho" wit="【甲】">朝</rdg></app>跪面正向東。其像面向西。<app type="star" corresp="#0563005"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】">頌</rdg></app>呪一千
+<lb n="0563b09" ed="T"/>八遍。誦訖即於像前。頭向東眠。於其夢中即
+<lb n="0563b10" ed="T"/>得見佛。心裏所有憶念爾時即見。或念其命
+<lb n="0563b11" ed="T"/>長短爾時即得自知。或念其身有病無病爾
+<lb n="0563b12" ed="T"/>時亦見。或有怨家鬪諍勝負。皆知如是等。
+<lb n="0563b13" ed="T"/><note n="0563008" resp="Taisho" place="foot text" type="orig">心所＝所心【三】【甲】</note><note n="0563008" resp="CBETA" type="mod">心所＝所心【宋】【元】【明】【甲】</note><app n="0563008"><lem wit="【大】">心所</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">所心</rdg></app>念者爾時皆知。感是夢已。身中一切障
+<lb n="0563b14" ed="T"/>難<note n="0563009" resp="Taisho" place="foot text" type="orig">疾病＝病疾【三】</note><note n="0563009" resp="CBETA" type="mod">疾病＝病疾【宋】【元】【明】</note><app n="0563009"><lem wit="【大】">疾病</lem><rdg resp="Taisho" wit="【宋】【元】【明】">病疾</rdg></app>。悉自<note n="0563010" resp="Taisho" place="foot text" type="orig">消＝銷【三】【甲】＊</note><note n="0563010" resp="CBETA" type="mod">消＝銷【宋】【元】【明】【甲】＊</note><app n="0563010"><lem wit="【大】">消</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">銷</rdg></app>除無復遺餘。</p>
+<lb n="0563b15" ed="T"/><p xml:id="pT21p0563b1501">爾時拘那含牟尼佛在於空中。欲為一切眾
+<lb n="0563b16" ed="T"/>生除諸病故。除一切惡鬼障難故。而說呪曰。</p>
+<lb n="0563b17" ed="T"/><p xml:id="pT21p0563b1701" cb:type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶
+<lb n="0563b18" ed="T"/>　南無伽那伽牟尼易　多咃伽<note n="0563011" resp="Taisho" place="foot text" type="orig">多＋（耶）【三】【甲】</note><note n="0563011" resp="CBETA" type="mod">多＋（耶）【宋】【元】【明】【甲】</note><app n="0563011"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">多耶</rdg></app>阿羅呵<app type="star" corresp="#0562004"><lem wit="【大】">提</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>
+<lb n="0563b19" ed="T"/>三藐三佛陀耶　<app type="star" corresp="#0561040"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【宋】【元】【明】">菴</rdg></app>　莎羅莎羅莎羅莎羅
+<lb n="0563b20" ed="T"/>　私利私利私利私利　私羅波耶　陀摩陀
+<lb n="0563b21" ed="T"/>摩陀摩陀摩　頭牟頭牟頭牟頭牟　頭摩波
+<lb n="0563b22" ed="T"/>夜<note n="0563012" resp="Taisho" place="foot text" type="orig">〔南無〕－【三】</note><note n="0563012" resp="CBETA" type="mod">〔南無〕－【宋】【元】【明】</note><app n="0563012"><lem wit="【大】">南無</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>那摩<note n="0563013" resp="Taisho" place="foot text" type="orig">（南無）＋伽【三】</note><note n="0563013" resp="CBETA" type="mod">（南無）＋伽【宋】【元】【明】</note><app n="0563013"><lem wit="【大】">伽</lem><rdg resp="Taisho" wit="【宋】【元】【明】">南無伽</rdg></app>那伽牟尼易　多咃伽多易
+<lb n="0563b23" ed="T"/>　阿羅呵<note n="0563014" resp="Taisho" place="foot text" type="orig">〔渧〕－【三】【甲】</note><note n="0563014" resp="CBETA" type="mod">〔渧〕－【宋】【元】【明】【甲】</note><app n="0563014"><lem wit="【大】">渧</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】"><space quantity="0"/></rdg></app>三藐三佛陀耶　私田鬪　曼
+<lb n="0563b24" ed="T"/>多羅波羅娑波呵</p>
+<lb n="0563b25" ed="T"/><p xml:id="pT21p0563b2501">爾時拘那含牟尼佛告虛空藏菩薩摩訶薩
+<lb n="0563b26" ed="T"/>言。若善男子善女人。受持此呪抄寫流通者。
+<lb n="0563b27" ed="T"/>則遠一切怨家不得其便。火不能燒水不能
+<lb n="0563b28" ed="T"/>溺。不為雷電霹靂所近。若有人以毒藥與
+<lb n="0563b29" ed="T"/><note n="0563015" resp="Taisho" place="foot text" type="orig">持＋（之）【甲】</note><app n="0563015"><lem wit="【大】">持</lem><rdg resp="Taisho" wit="【甲】">持之</rdg></app>是呪人。是人食之如飡<note n="0563016" resp="Taisho" place="foot text" type="orig">羹＝美【三】【甲】</note><note n="0563016" resp="CBETA" type="mod">羹＝美【宋】【元】【明】【甲】</note><app n="0563016"><lem wit="【大】">羹</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">美</rdg></app>饍。自然銷化
+<pb n="0563c" xml:id="T21.1333.0563c" ed="T"/>
+<lb n="0563c01" ed="T"/>無諸毒氣不。為一切橫死等畏。一切所食入
+<lb n="0563c02" ed="T"/>腹自然銷化。得色得力壽命延長。恒常富貴
+<lb n="0563c03" ed="T"/>財寶自然。一切諸佛憶念擁護。若人過去有
+<lb n="0563c04" ed="T"/>三障重業。能日誦此呪三遍即得除滅。</p>
+<lb n="0563c05" ed="T"/><p xml:id="pT21p0563c0501">若復有人自病他病若欲治者。淨<note n="0563017" resp="Taisho" place="foot text" type="orig">治＝持【三】【甲】</note><note n="0563017" resp="CBETA" type="mod">治＝持【宋】【元】【明】【甲】</note><app n="0563017"><lem wit="【大】">治</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">持</rdg></app>房舍香
+<lb n="0563c06" ed="T"/>泥塗地。懸繒幡蓋安置高座施設佛像。其人
+<lb n="0563c07" ed="T"/>香湯浴身。燒沈水薰陸等香。種種素食持以
+<lb n="0563c08" ed="T"/>獻佛隨力取辦。病人在於像前。稱病人名而
+<lb n="0563c09" ed="T"/>呪之即得除愈。一切鬼神魍魎著人。以此呪
+<lb n="0563c10" ed="T"/>呪香水浴身即自<app type="star" corresp="#0563010"><lem wit="【大】">消</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">銷</rdg></app>除。</p>
+<lb n="0563c11" ed="T"/><p xml:id="pT21p0563c1101">若復有人身生團風白癬及以癩病。取<note n="0563018" resp="Taisho" place="foot text" type="orig">菖蒲＝昌蒱【宋】</note><app n="0563018"><lem wit="【大】">菖蒲</lem><rdg resp="Taisho" wit="【宋】">昌蒱</rdg></app>
+<lb n="0563c12" ed="T"/>根擣以為末一升。以白蜜和之。在於像前呪
+<lb n="0563c13" ed="T"/>之一千八遍。晨朝未食。日取方寸<note n="0563019" resp="Taisho" place="foot text" type="orig">匕＝上【宋】</note><app n="0563019"><lem wit="【大】">匕</lem><rdg resp="Taisho" wit="【宋】">上</rdg></app>服之即
+<lb n="0563c14" ed="T"/>得除愈。及<note n="0563020" resp="Taisho" place="foot text" type="orig">餘＝除【三】</note><note n="0563020" resp="CBETA" type="mod">餘＝除【宋】【元】【明】</note><app n="0563020"><lem wit="【大】">餘</lem><rdg resp="Taisho" wit="【宋】【元】【明】">除</rdg></app>一切宿癖亦得除<note n="0563021" resp="Taisho" place="foot text" type="orig">愈＝瘥【宋】，差【元】【明】</note><note n="0563021" resp="CBETA" type="mod">愈＝瘥【宋】，＝差【元】【明】</note><app n="0563021"><lem wit="【大】">愈</lem><rdg resp="Taisho" wit="【宋】">瘥</rdg><rdg resp="Taisho" wit="【元】【明】">差</rdg></app>。</p>
+<lb n="0563c15" ed="T"/><p xml:id="pT21p0563c1501">若有人患寒熱病者。或四日一發或三日一
+<lb n="0563c16" ed="T"/>發。或二日一發<note n="0563022" resp="Taisho" place="foot text" type="orig">〔或〕－【三】</note><note n="0563022" resp="CBETA" type="mod">〔或〕－【宋】【元】【明】</note><app n="0563022"><lem wit="【大】">或</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>一日一發。取雜華為冠。
+<lb n="0563c17" ed="T"/>在於<note n="0563023" resp="Taisho" place="foot text" type="orig">〔像前…耳〕三十四字－【甲】</note><app cb:word-count="34" n="0563023"><lem wit="【大】">像前呪一千八遍。<note n="0563024" resp="Taisho" place="foot text" type="orig">貫＝冠【明】</note><app n="0563024"><lem wit="【大】">貫</lem><rdg resp="Taisho" wit="【明】">冠</rdg></app>病人頭上即得
+<lb n="0563c18" ed="T"/>除愈。若復有人為惡鬼所打。口噤不言。在於
+<lb n="0563c19" ed="T"/>病人耳</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>邊。小聲呪之一百八遍即得<note n="0563025" resp="Taisho" place="foot text" type="orig">除愈＝愈除【甲】</note><app n="0563025"><lem wit="【大】">除愈</lem><rdg resp="Taisho" wit="【甲】">愈除</rdg></app>。</p>
+<lb n="0563c20" ed="T"/><p xml:id="pT21p0563c2001">若復有人為顛鬼所打。或<note n="0563026" resp="Taisho" place="foot text" type="orig">〔富單鬼迦吒〕－【甲】</note><note n="0563026" resp="CBETA" type="mod">〔富單鬼〕－【甲】</note><app n="0563026"><lem wit="【大】">富<note n="0563027" resp="Taisho" place="foot text" type="orig">單＋（那）【三】</note><note n="0563027" resp="CBETA" type="mod">單＋（那）【宋】【元】【明】</note><app n="0563027"><lem wit="【大】">單</lem><rdg resp="Taisho" wit="【宋】【元】【明】">單那</rdg></app>鬼</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="0563028" resp="Taisho" place="foot text" type="orig">〔迦吒富單那鬼〕－【三】</note><note n="0563028" resp="CBETA" type="mod">〔迦吒富單那鬼〕－【宋】【元】【明】，〔迦吒〕－【甲】</note><app n="0563028"><lem wit="【大】">迦吒富
+<lb n="0563c21" ed="T"/>單那鬼</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【甲】">富單那鬼</rdg></app>毘舍闍鬼鳩槃<note n="0563029" resp="Taisho" place="foot text" type="orig">茶＝荼【三】【甲】</note><note n="0563029" resp="CBETA" type="mod">茶＝荼【宋】【元】【明】【甲】</note><app n="0563029"><lem wit="【大】">茶</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">荼</rdg></app>鬼一切諸惡鬼等。
+<lb n="0563c22" ed="T"/>取獻佛身上花。呪之一千八遍。燒之熏於病
+<lb n="0563c23" ed="T"/>人鼻。其烟入鼻即得除愈。若心中所念者悉
+<lb n="0563c24" ed="T"/>得成就。此呪如是功能說不可盡。</p>
+<lb n="0563c25" ed="T"/><p xml:id="pT21p0563c2501">爾時迦葉佛在虛空中。欲為眾生除一切惡
+<lb n="0563c26" ed="T"/>病故。除一切惡鬼障難故。而說呪曰。</p>
+<lb n="0563c27" ed="T"/><p xml:id="pT21p0563c2701" cb:type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶
+<lb n="0563c28" ed="T"/>　<note n="0563030" resp="Taisho" place="foot text" type="orig">唵＝菴【宋】</note><app n="0563030"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【宋】">菴</rdg></app>　呵邏呵邏呵邏呵邏　呵呵呵　南無
+<lb n="0563c29" ed="T"/>迦葉波<note n="0563031" resp="Taisho" place="foot text" type="orig">〔耶〕－【甲】</note><app n="0563031"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>　多咃伽多<note n="0563032" resp="Taisho" place="foot text" type="orig">〔耶〕－【三】【甲】</note><note n="0563032" resp="CBETA" type="mod">〔耶〕－【宋】【元】【明】【甲】</note><app n="0563032"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】"><space quantity="0"/></rdg></app>阿羅呵<app type="star" corresp="#0562004"><lem wit="【大】">提</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>三藐
+<pb n="0564a" xml:id="T21.1333.0564a" ed="T"/>
+<lb n="0564a01" ed="T"/>三佛陀　私<note n="0564001" resp="Taisho" place="foot text" type="orig">田＝甜【三】</note><note n="0564001" resp="CBETA" type="mod">田＝甜【宋】【元】【明】</note><app n="0564001"><lem wit="【大】">田</lem><rdg resp="Taisho" wit="【宋】【元】【明】">甜</rdg></app><note n="0564002" resp="Taisho" place="foot text" type="orig">妬＝姤【宋】，如【甲】</note><note n="0564002" resp="CBETA" type="mod">妬＝姤【宋】，＝如【甲】</note><app n="0564002"><lem wit="【大】">妬</lem><rdg resp="Taisho" wit="【宋】">姤</rdg><rdg resp="Taisho" wit="【甲】">如</rdg></app>　<note n="0564003" resp="Taisho" place="foot text" type="orig">曼＝蔓【三】</note><note n="0564003" resp="CBETA" type="mod">曼＝蔓【宋】【元】【明】</note><app n="0564003"><lem wit="【大】">曼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">蔓</rdg></app>多羅波陀　娑波
+<lb n="0564a02" ed="T"/>呵</p>
+<lb n="0564a03" ed="T"/><p xml:id="pT21p0564a0301">爾時迦葉佛告虛空藏菩薩摩訶薩言。我此
+<lb n="0564a04" ed="T"/>呪是恒河沙諸佛所說。我今已說。汝今受持
+<lb n="0564a05" ed="T"/>讀誦。晝夜憶念勿令忘失。未來世中若有善
+<lb n="0564a06" ed="T"/>男子善女人受持此呪者。一日中三時誦之。
+<lb n="0564a07" ed="T"/>隨力多少。其人昏夜警中得見諸佛。若得此
+<lb n="0564a08" ed="T"/>警一切重罪自然<app type="star" corresp="#0563010"><lem wit="【大】">消</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">銷</rdg></app>滅。若有作五逆罪不信
+<lb n="0564a09" ed="T"/>大乘者。如是重罪不可救<note n="0564004" resp="Taisho" place="foot text" type="orig">拔＝護【甲】</note><app n="0564004"><lem wit="【大】">拔</lem><rdg resp="Taisho" wit="【甲】">護</rdg></app>所有事業。誦此
+<lb n="0564a10" ed="T"/>呪<app type="star" corresp="#0561034"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【甲】">己</rdg></app>悉得成就。一切團風白癬癩病等。取佛
+<lb n="0564a11" ed="T"/>上華在於像前呪之一千八遍。擣以為末冷
+<lb n="0564a12" ed="T"/>水和之。塗其病處即得除愈。及和冷水飲之
+<lb n="0564a13" ed="T"/>亦良。若復有人得頭痛病者。取佛上華在於
+<lb n="0564a14" ed="T"/>像前。呪之一千八遍。擣以為<note n="0564005" resp="Taisho" place="foot text" type="orig">未＝末【甲】</note><app n="0564005"><lem wit="【大】">未</lem><rdg resp="Taisho" wit="【甲】">末</rdg></app>和冷水。分
+<lb n="0564a15" ed="T"/>為三分塗於頭上。乾竟更著如是三遍即得
+<lb n="0564a16" ed="T"/>除愈。若婦人<note n="0564006" resp="Taisho" place="foot text" type="orig">生產＝產生【甲】</note><app n="0564006"><lem wit="【大】">生產</lem><rdg resp="Taisho" wit="【甲】">產生</rdg></app>難者。取佛上華擣為末。
+<lb n="0564a17" ed="T"/>和牛<app type="star" corresp="#0562020"><lem wit="【大】">酥</lem><rdg resp="Taisho" wit="【宋】">蘇</rdg></app>煎之。煎竟置於像前。呪之一千八
+<lb n="0564a18" ed="T"/>遍。塗其產門兒即易生身即平復。若天多雨
+<lb n="0564a19" ed="T"/>不晴。取佛上華在於佛前。呪之一千八遍。出
+<lb n="0564a20" ed="T"/>於空地燒之即得止斷。若復有人為惡鬼所
+<lb n="0564a21" ed="T"/>打。口噤不言。或為毘舍闍鬼所打。或有癖病
+<lb n="0564a22" ed="T"/>或患濕病。取佛上華擣為<note n="0564007" resp="Taisho" place="foot text" type="orig">未＝末【三】【甲】</note><note n="0564007" resp="CBETA" type="mod">未＝末【宋】【元】【明】【甲】</note><app n="0564007"><lem wit="【大】">未</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">末</rdg></app>。和酒若<note n="0564008" resp="Taisho" place="foot text" type="orig">葡萄＝蒲桃【宋】【元】，蒲萄【明】</note><note n="0564008" resp="CBETA" type="mod">葡萄＝蒲桃【宋】【元】，＝蒲萄【明】</note><app n="0564008"><lem wit="【大】">葡萄</lem><rdg resp="Taisho" wit="【宋】【元】">蒲桃</rdg><rdg resp="Taisho" wit="【明】">蒲萄</rdg></app>
+<lb n="0564a23" ed="T"/>酒<note n="0564009" resp="Taisho" place="foot text" type="orig">及＝乃【甲】</note><app n="0564009"><lem wit="【大】">及</lem><rdg resp="Taisho" wit="【甲】">乃</rdg></app>以米酒。銀椀盛之在於像前。呪之一千
+<lb n="0564a24" ed="T"/>八遍。與病人服之即得除<app type="star" corresp="#0561045"><lem wit="【大】">差</lem><rdg resp="Taisho" wit="【宋】">瘥</rdg></app>。一切所有事
+<lb n="0564a25" ed="T"/>業。皆在於像前呪之一千八遍悉得成就。若
+<lb n="0564a26" ed="T"/>欲為一切事。讀誦此呪莫生疑心。</p>
+<lb n="0564a27" ed="T"/><p xml:id="pT21p0564a2701">爾時釋迦牟尼佛在虛空中。欲為眾生除一
+<lb n="0564a28" ed="T"/>切病故。除一切惡鬼障難故。而說呪曰。</p>
+<lb n="0564a29" ed="T"/><p xml:id="pT21p0564a2901" cb:type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶
+<pb n="0564b" xml:id="T21.1333.0564b" ed="T"/>
+<lb n="0564b01" ed="T"/>　南無<note n="0564010" resp="Taisho" place="foot text" type="orig">賒＝釋【三】</note><note n="0564010" resp="CBETA" type="mod">賒＝釋【宋】【元】【明】</note><app n="0564010"><lem wit="【大】">賒</lem><rdg resp="Taisho" wit="【宋】【元】【明】">釋</rdg></app>迦牟尼耶　多他伽多耶　阿羅呵
+<lb n="0564b02" ed="T"/><app type="star" corresp="#0562004"><lem wit="【大】">提</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>三藐三佛陀耶　怛<note n="0564011" resp="Taisho" place="foot text" type="orig"><g ref="#CB02975"/>咃＝姪他【三】，經咃【甲】</note><note n="0564011" resp="CBETA" type="mod"><g ref="#CB02975"/>咃＝姪他【宋】【元】【明】，＝經咃【甲】</note><app n="0564011"><lem wit="【大】"><g ref="#CB02975"/>咃</lem><rdg resp="Taisho" wit="【宋】【元】【明】">姪他</rdg><rdg resp="Taisho" wit="【甲】">經咃</rdg></app>　求弭　求弭
+<lb n="0564b03" ed="T"/>　摩訶求弭　多麗多麗　摩訶多麗　遮麗
+<lb n="0564b04" ed="T"/>遮麗　摩訶遮麗　達麗達麗　摩訶達麗
+<lb n="0564b05" ed="T"/>　帝利帝利　摩訶帝利　呵呵　吉利吉利
+<lb n="0564b06" ed="T"/>　摩訶吉利　周漏周漏　摩訶周漏　彌利彌
+<lb n="0564b07" ed="T"/>利　摩訶彌利　帝利帝利　摩訶帝利　頭
+<lb n="0564b08" ed="T"/>弭頭弭　摩訶頭弭　遮麗遮麗　摩訶遮麗
+<lb n="0564b09" ed="T"/>　棄利棄利　摩訶棄利　支利支利　摩摩
+<lb n="0564b10" ed="T"/>支利　娑波呵</p>
+<lb n="0564b11" ed="T"/><p xml:id="pT21p0564b1101">爾時釋迦牟尼佛。告虛空藏菩薩摩訶薩言。
+<lb n="0564b12" ed="T"/>若有善男子善女人。受持讀誦晝夜憶<note n="0564012" resp="Taisho" place="foot text" type="orig">念＋（之）【甲】</note><app n="0564012"><lem wit="【大】">念</lem><rdg resp="Taisho" wit="【甲】">念之</rdg></app>此
+<lb n="0564b13" ed="T"/>呪者。其人不為一切刀<app type="star" corresp="#0562015"><lem wit="【大】">杖</lem><rdg resp="Taisho" wit="【宋】【元】【明】">仗</rdg></app>等畏。不為一切惡
+<lb n="0564b14" ed="T"/>病所著。不受一切橫死。如前六佛所說功能。
+<lb n="0564b15" ed="T"/>我此呪者亦復如是無有異也。</p>
+<lb n="0564b16" ed="T"/><p xml:id="pT21p0564b1601">爾<note n="0564013" resp="Taisho" place="foot text" type="orig">無＝時【甲】</note><app n="0564013"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">時</rdg></app>虛空藏菩薩摩訶薩。白佛言世尊。我今
+<lb n="0564b17" ed="T"/>欲說呪者。防護七佛所說神呪故。是以復更
+<lb n="0564b18" ed="T"/>說之。此呪能破一切罪障。而說呪曰。</p>
+<lb n="0564b19" ed="T"/><p xml:id="pT21p0564b1901" cb:type="dharani">南無佛陀耶　南無達摩耶　南無僧伽<note n="0564014" resp="Taisho" place="foot text" type="orig">耶＋（南無虛空藏菩薩摩訶薩）十字【三】，＋（南無）【甲】</note><note n="0564014" resp="CBETA" type="mod">耶＋（南無虛空藏菩薩摩訶薩）十字【宋】【元】【明】，＋（南無）【甲】</note><app n="0564014"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【宋】【元】【明】">耶南無虛空藏菩薩摩訶薩</rdg><rdg resp="Taisho" wit="【甲】">耶南無</rdg></app>
+<lb n="0564b20" ed="T"/>　<note n="0564015" resp="Taisho" place="foot text" type="orig">〔阿迦…耶〕二十五字－【三】</note><note n="0564015" resp="CBETA" type="mod">〔阿迦…耶〕二十五字－【宋】【元】【明】</note><app cb:word-count="25" n="0564015"><lem wit="【大】">阿迦舍竭婆耶　菩提薩<note n="0564016" resp="Taisho" place="foot text" type="orig">多＝埵【甲】＊</note><app n="0564016"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】">埵</rdg></app>波耶　摩訶
+<lb n="0564b21" ed="T"/>薩<app type="star" corresp="#0564016"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】">埵</rdg></app>波耶　摩訶迦盧尼迦耶</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>　多<note n="0564017" resp="Taisho" place="foot text" type="orig"><g ref="#CB02975"/>＝絰【三】【甲】</note><note n="0564017" resp="CBETA" type="mod"><g ref="#CB02975"/>＝絰【宋】【元】【明】【甲】</note><app n="0564017"><lem wit="【大】"><g ref="#CB02975"/></lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">絰</rdg></app><note n="0564018" resp="Taisho" place="foot text" type="orig">咃＝唯【甲】</note><app n="0564018"><lem wit="【大】">咃</lem><rdg resp="Taisho" wit="【甲】">唯</rdg></app>
+<lb n="0564b22" ed="T"/>　支利支利　摩訶支利　兜漏兜漏　摩訶
+<lb n="0564b23" ed="T"/>兜漏　闍婆利闍婆利　摩訶闍婆利　醯利
+<lb n="0564b24" ed="T"/>醯利　摩訶醯利　娑波呵</p>
+<lb n="0564b25" ed="T"/><p xml:id="pT21p0564b2501">其呪所有功能者我今說之。若人為惡鬼所
+<lb n="0564b26" ed="T"/>打。須結呪索呪之一千八遍。用蘇曼<note n="0564019" resp="Taisho" place="foot text" type="orig">木＝華【三】，〔木〕－【甲】</note><note n="0564019" resp="CBETA" type="mod">木＝華【宋】【元】【明】，〔木〕－【甲】</note><app n="0564019"><lem wit="【大】">木</lem><rdg resp="Taisho" wit="【宋】【元】【明】">華</rdg><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="0564020" resp="Taisho" place="foot text" type="orig">用＝牛【元】【明】</note><app n="0564020"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【元】【明】">牛</rdg></app>
+<lb n="0564b27" ed="T"/><app type="star" corresp="#0562020"><lem wit="【大】">酥</lem><rdg resp="Taisho" wit="【宋】">蘇</rdg></app><note n="0564021" resp="Taisho" place="foot text" type="orig">芥＝芬【甲】</note><app n="0564021"><lem wit="【大】">芥</lem><rdg resp="Taisho" wit="【甲】">芬</rdg></app>子三種等分和之。在病人前用三指
+<lb n="0564b28" ed="T"/>撮取。呪之一遍擲著火中。如此一千八遍乃
+<lb n="0564b29" ed="T"/>止。其病即得除愈。</p>
+<pb n="0564c" xml:id="T21.1333.0564c" ed="T"/>
+<lb n="0564c01" ed="T"/><p xml:id="pT21p0564c0101">若復有人恐怖欲結界者。當取刀呪之一千
+<lb n="0564c02" ed="T"/>八遍。當戶安之。若人在空中結界<note n="0564022" resp="Taisho" place="foot text" type="orig">畏＝有【三】，者【甲】</note><note n="0564022" resp="CBETA" type="mod">畏＝有【宋】【元】【明】，＝者【甲】</note><app n="0564022"><lem wit="【大】">畏</lem><rdg resp="Taisho" wit="【宋】【元】【明】">有</rdg><rdg resp="Taisho" wit="【甲】">者</rdg></app>諸惡鬼
+<lb n="0564c03" ed="T"/>求便者。當取水呪之七遍用灑四方。若自身
+<lb n="0564c04" ed="T"/>中有恐怖者。結呪索用自防身。若有人被毒
+<lb n="0564c05" ed="T"/><note n="0564023" resp="Taisho" place="foot text" type="orig">藥＝樂【宋】</note><app n="0564023"><lem wit="【大】">藥</lem><rdg resp="Taisho" wit="【宋】">樂</rdg></app>者。取<note n="0564024" resp="Taisho" place="foot text" type="orig">古＝吉【元】【明】</note><app n="0564024"><lem wit="【大】">古</lem><rdg resp="Taisho" wit="【元】【明】">吉</rdg></app>縷草。用呪病人即得除愈。若有
+<lb n="0564c06" ed="T"/>風病者。呪香油一千八遍。塗其所病即得除
+<lb n="0564c07" ed="T"/>愈。若有人患耳痛者。取青木香用油煎之。持
+<lb n="0564c08" ed="T"/>灌其耳即得除<app type="star" corresp="#0561045"><lem wit="【大】">差</lem><rdg resp="Taisho" wit="【宋】">瘥</rdg></app>。若人患腹痛者。取烏鹽呪
+<lb n="0564c09" ed="T"/>之一百八遍。與病人服之即得除愈。若有人
+<lb n="0564c10" ed="T"/>患齒痛者。取蘇曼<app type="star" corresp="#0561046"><lem wit="【大】">水</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">木</rdg></app>呪一百八遍。打碎用
+<lb n="0564c11" ed="T"/>持<note n="0564025" resp="Taisho" place="foot text" type="orig">刷＝剔【三】【甲】</note><note n="0564025" resp="CBETA" type="mod">刷＝剔【宋】【元】【明】【甲】</note><app n="0564025"><lem wit="【大】">刷</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">剔</rdg></app>齒即得除痛。若有小兒晝夜驚啼怖畏
+<lb n="0564c12" ed="T"/>者。取白綖用結呪索。呪之一百八遍。<note n="0564026" resp="Taisho" place="foot text" type="orig">繫＝繼【宋】【甲】</note><app n="0564026"><lem wit="【大】">繫</lem><rdg resp="Taisho" wit="【宋】【甲】">繼</rdg></app>小
+<lb n="0564c13" ed="T"/>兒項下即得除<note n="0564027" resp="Taisho" place="foot text" type="orig">怖＝愈【三】</note><note n="0564027" resp="CBETA" type="mod">怖＝愈【宋】【元】【明】</note><app n="0564027"><lem wit="【大】">怖</lem><rdg resp="Taisho" wit="【宋】【元】【明】">愈</rdg></app>。若有人頭痛者。取<app type="star" corresp="#0563006"><lem wit="【大】">鑌</lem><rdg resp="Taisho" wit="【甲】">賓</rdg></app><app type="star" corresp="#0563007"><lem wit="【大】">鐵</lem><rdg resp="Taisho" wit="【宋】【甲】"><space quantity="0"/></rdg></app>
+<lb n="0564c14" ed="T"/>刀或用手呪之一百八遍。摩於頭上即得除
+<lb n="0564c15" ed="T"/><app type="star" corresp="#0561045"><lem wit="【大】">差</lem><rdg resp="Taisho" wit="【宋】">瘥</rdg></app>。若有人被<note n="0564028" resp="Taisho" place="foot text" type="orig">他＋（人）【三】</note><note n="0564028" resp="CBETA" type="mod">他＋（人）【宋】【元】【明】</note><app n="0564028"><lem wit="【大】">他</lem><rdg resp="Taisho" wit="【宋】【元】【明】">他人</rdg></app>厭<note n="0564029" resp="Taisho" place="foot text" type="orig"><g ref="#CB01679"/>＝禱【三】【甲】</note><note n="0564029" resp="CBETA" type="mod"><g ref="#CB01679"/>＝禱【宋】【元】【明】【甲】</note><app n="0564029"><lem wit="【大】"><g ref="#CB01679"/></lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">禱</rdg></app>呪<app type="star" corresp="#0562005"><lem wit="【大】">詛</lem><rdg resp="Taisho" wit="【宋】">咀</rdg></app>者。取<app type="star" corresp="#0563006"><lem wit="【大】">鑌</lem><rdg resp="Taisho" wit="【甲】">賓</rdg></app><app type="star" corresp="#0563007"><lem wit="【大】">鐵</lem><rdg resp="Taisho" wit="【宋】【甲】"><space quantity="0"/></rdg></app>
+<lb n="0564c16" ed="T"/>刀七日七夜。用呪病人即得除愈。若有雷電
+<lb n="0564c17" ed="T"/>霹靂起時。用手折取石榴枝。不得除刺葉。手
+<lb n="0564c18" ed="T"/><note n="0564030" resp="Taisho" place="foot text" type="orig">捉＝投【甲】</note><app n="0564030"><lem wit="【大】">捉</lem><rdg resp="Taisho" wit="【甲】">投</rdg></app>向於<note n="0564031" resp="Taisho" place="foot text" type="orig">嗚＝鳴【甲】</note><app n="0564031"><lem wit="【大】">嗚</lem><rdg resp="Taisho" wit="【甲】">鳴</rdg></app>處。呪之一百八遍即得除却。一
+<lb n="0564c19" ed="T"/>切所欲造於事業者。讀誦此呪悉用香華先
+<lb n="0564c20" ed="T"/>供養。然後誦呪無不成就。說是經已。虛空藏
+<lb n="0564c21" ed="T"/>菩薩摩訶薩。天龍八部一時歡喜讚歎。一心
+<lb n="0564c22" ed="T"/>奉行。</p>
+<lb n="0564c23" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><note n="0564032" resp="Taisho" place="foot text" type="orig">（佛說）＋虛【甲】</note><app n="0564032"><lem wit="【大】">虛</lem><rdg resp="Taisho" wit="【甲】">佛說虛</rdg></app>空藏菩薩問七佛陀羅尼呪經</cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

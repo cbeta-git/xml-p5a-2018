@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T20n1152">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1152 佛說佛母般若波羅蜜多大明觀想儀軌</title>
+			<author>宋 施護譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $<date>$Date: 2009/04/23 08:01:22 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:22 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1152 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="sa-Sidd">Sanskrit-Siddam</language>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-24T11:15:16">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T20n1152.xml,v $
+Revision 1.8  2009/04/23 08:01:22  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2006/04/12 21:55:47  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.5  2004/10/21 08:20:04  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/04/20 08:39:03  maha
+「版本日期」標記修訂
+
+Revision 1.3  2003/06/23 06:16:04  saywhat
+[＊]校勘插入XML
+
+Revision 1.2  2003/05/26 11:33:14  saywhat
+【宋】【元】【明】＊改成【宋】＊【元】＊【明】＊
+
+Revision 1.1.1.1  2003/05/05 04:09:23  ray
+recover cvs
+
+Revision 1.26  2002/12/05 05:20:25  saywhat
+校勘插入處理
+
+Revision 1.25  2002/11/04 10:45:38  ray
+tei.2 => TEI.2
+
+Revision 1.24  2002/10/21 08:13:02  ray
+移動 <anchor>+<note>, <anchor>+雙圈
+
+Revision 1.23  2002/10/07 13:11:57  moved
+modified
+
+Revision 1.22  2002/07/29 09:56:46  vinking
+modified lang
+
+Revision 1.21  2002/04/08 09:05:49  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.20  2001/11/19 01:49:08  vinking
+modified
+
+Revision 1.19  2001/11/05 06:13:55  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.18  2001/07/24 06:53:20  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.17  2001/06/22 10:02:57  moved
+modified normal
+
+Revision 1.16  2001/06/13 10:12:23  moved
+modified normal
+
+Revision 1.15  2001/05/29 02:35:50  ray
+no message
+
+Revision 1.14  2001/05/28 09:37:49  saywhat
+modified <sg.........><note........> to <sg..........>
+
+Revision 1.13  2001/05/28 07:51:54  vinking
+modified <sg><note place="inline"> to <sg>
+
+Revision 1.12  2001/03/30 05:55:34  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.11  2001/03/25 09:15:29  ray
+add <milestone>
+
+Revision 1.10  2001/02/07 06:56:26  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.9  2001/02/03 07:46:22  chris
+Added keywords $Revision: 1.8 $, $Date: 2009/04/23 08:01:22 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0614a08" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0614a09" ed="T"/>
+<lb n="0614a10" ed="T"/><cb:docNumber>No. 1152</cb:docNumber>
+<lb n="0614a11" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0614002" resp="Taisho" place="foot text" type="orig">【原】麗本</note>佛說佛母般若波羅蜜多大明觀
+<lb n="0614a12" ed="T"/>想儀<note n="0614003" resp="Taisho" place="foot text" type="orig">軌＋（經）【明】＊</note><app n="0614003"><lem wit="【大】">軌</lem><rdg resp="Taisho" wit="【明】">軌經</rdg></app></cb:jhead></cb:juan>
+<lb n="0614a13" ed="T"/>
+<lb n="0614a14" ed="T"/><byline cb:type="Translator"><note n="0614004" resp="Taisho" place="foot text" type="orig">（宋）＋西【明】</note><app n="0614004"><lem wit="【大】">西</lem><rdg resp="Taisho" wit="【明】">宋西</rdg></app>天<note n="0614005" resp="Taisho" place="foot text" type="orig">〔譯經〕－【明】</note><app n="0614005"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>三藏朝奉大夫試光祿卿
+<lb n="0614a15" ed="T"/>傳法大師<note n="0614006" resp="Taisho" place="foot text" type="orig">〔賜紫臣〕－【明】</note><app n="0614006"><lem wit="【大】">賜紫臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>施護奉　詔譯</byline>
+<lb n="0614a16" ed="T"/><cb:div type="jing"><p xml:id="pT20p0614a1601">爾時世尊。普為一切修出世間最上悉地者。
+<lb n="0614a17" ed="T"/>宣說佛母般若波羅蜜多大明觀想法。</p>
+<lb n="0614a18" ed="T"/><p xml:id="pT20p0614a1801">彼大明曰。</p>
+<lb n="0614a19" ed="T"/><p xml:id="pT20p0614a1901" cb:type="dharani">那謨<note place="inline">引</note>婆誐嚩帝<note place="inline">引一<note n="0614007" resp="Taisho" place="foot text" type="orig">〔句〕－【明】</note><app n="0614007"><lem wit="【大】">句</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></note>阿哩也<note place="inline">二合</note>鉢囉<note place="inline">二合</note>倪
+<lb n="0614a20" ed="T"/>也<note place="inline">二合引</note>播<note place="inline">引</note>囉彌多<note place="inline">引</note>曳<note place="inline">引二</note>阿波哩彌多虞拏
+<lb n="0614a21" ed="T"/><note place="inline">引</note>曳<note place="inline">引三</note>薄訖底<note place="inline">二合</note>嚩蹉邏<note place="inline">引</note>曳<note place="inline">引四</note>薩哩嚩<note place="inline">二
+<lb n="0614a22" ed="T"/>合</note>怛他<note place="inline">引</note>誐多倪也<note place="inline">二合引</note>那波哩布哩多<note place="inline">引</note>曳
+<lb n="0614a23" ed="T"/><note place="inline">引五</note>薩埵嚩蹉邏<note place="inline">引</note>曳<note place="inline">引六</note>怛<g ref="#CB00853"/><note place="inline"><note n="0614008" resp="Taisho" place="foot text" type="orig">切身＝寧也切【明】</note><app n="0614008"><lem wit="【大】">切身</lem><rdg resp="Taisho" wit="【明】">寧也切</rdg></app></note>他<note place="inline">引七</note>唵<note place="inline">引</note>
+<lb n="0614a24" ed="T"/>提<note place="inline">引八</note>率嚕<note place="inline">二合</note>底<note place="inline">九</note>娑蜜哩<note place="inline">三合</note>底<note place="inline">十</note>尾惹曳<note place="inline">引
+<lb n="0614a25" ed="T"/>十一</note>莎<note place="inline">引</note>賀<note place="inline">引十二</note></p>
+<lb n="0614a26" ed="T"/><p xml:id="pT20p0614a2601">如是大明有大功德。最上最勝不可思議。諸
+<lb n="0614a27" ed="T"/>修瑜伽行者。若欲觀想此大明字求悉地法。
+<lb n="0614a28" ed="T"/>先當發起大菩提心。然後依法於自心上想淨
+<lb n="0614a29" ed="T"/>月輪。於月輪中觀想提字。從臍輪轉於心而
+<pb n="0614b" xml:id="T20.1152.0614b" ed="T"/>
+<lb n="0614b01" ed="T"/>住。其字黃色是即般若波羅蜜多菩薩根本
+<lb n="0614b02" ed="T"/>心字。如是想已。復想此字即成般若波羅蜜
+<lb n="0614b03" ed="T"/>多菩薩。<note n="0614009" resp="Taisho" place="foot text" type="orig">想＝相【三】＊</note><note n="0614009" resp="CBETA" type="mod">想＝相【宋】＊【元】＊【明】＊</note><app n="0614009"><lem wit="【大】">想</lem><rdg resp="Taisho" wit="【宋】【元】【明】">相</rdg></app>此菩薩<app type="star" corresp="#0614009"><lem wit="【大】">想</lem><rdg resp="Taisho" wit="【宋】【元】【明】">相</rdg></app>身真金色有其六臂。
+<lb n="0614b04" ed="T"/>相好圓滿種種莊嚴頂戴寶冠。最上二手結
+<lb n="0614b05" ed="T"/>說法印。其印以二手作合掌。二中指入掌內
+<lb n="0614b06" ed="T"/>指面相合。二大指及二頭指。各各指面相捻。
+<lb n="0614b07" ed="T"/>餘指不動成印。餘手持般若波羅蜜多經。優
+<lb n="0614b08" ed="T"/>鉢羅華。爍吉帝等。依法觀想如是想已。又復
+<lb n="0614b09" ed="T"/>諦想般若波羅蜜多大明。最上甚深從無我
+<lb n="0614b10" ed="T"/>生。由如是觀般若波羅蜜多無我生故。即一
+<lb n="0614b11" ed="T"/>切法無我平等。以如是平等故。即從般若波
+<lb n="0614b12" ed="T"/>羅蜜多。出生無邊諸文字相。文字相者攝一
+<lb n="0614b13" ed="T"/>切相諸修瑜伽行者若聞。</p>
+<lb n="0614b14" ed="T"/><p xml:id="pT20p0614b1401" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E074"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1D5"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>提</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614b15" ed="T"/>　二字</p>
+<lb n="0614b16" ed="T"/><p xml:id="pT20p0614b1601">當於<note n="0614010" resp="Taisho" place="foot text" type="orig">頂＝項【三】</note><note n="0614010" resp="CBETA" type="mod">頂＝項【宋】【元】【明】</note><app n="0614010"><lem wit="【大】">頂</lem><rdg resp="Taisho" wit="【宋】【元】【明】">項</rdg></app>上而作觀想若聞。</p>
+<lb n="0614b17" ed="T"/><p xml:id="pT20p0614b1701" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E074"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A45E"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>詣</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614b18" ed="T"/>　二字</p>
+<lb n="0614b19" ed="T"/><p xml:id="pT20p0614b1901">當於舌端而作觀想若聞。</p>
+<lb n="0614b20" ed="T"/><p xml:id="pT20p0614b2001" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E074"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4BC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>𡁠</cb:zi><cb:sg type="fangie">仁齊切</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614b21" ed="T"/>　二字</p>
+<lb n="0614b22" ed="T"/><p xml:id="pT20p0614b2201">當於二耳輪而作觀想。</p>
+<lb n="0614b23" ed="T"/><p xml:id="pT20p0614b2301">復次修瑜伽行者若欲觀想此佛母般若波羅
+<lb n="0614b24" ed="T"/>蜜多大明文字應當諦誠於自心上觀想八葉
+<lb n="0614b25" ed="T"/>大紅蓮華成曼拏羅於八葉位分布觀想大明
+<lb n="0614b26" ed="T"/>文字是諸文字各於方位不相間雜於蓮華東
+<lb n="0614b27" ed="T"/>葉位想安布。</p>
+<lb n="0614b28" ed="T"/><p xml:id="pT20p0614b2801" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">那</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5ED"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>謨</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614b29" ed="T"/>　二字</p>
+<pb n="0614c" xml:id="T20.1152.0614c" ed="T"/>
+<lb n="0614c01" ed="T"/><p xml:id="pT20p0614c0101">於東南葉位想安布。</p>
+<lb n="0614c02" ed="T"/><p xml:id="pT20p0614c0201" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5D9"/></cb:t><cb:t xml:lang="zh">婆</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">誐</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A55D"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>帝</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614c03" ed="T"/>　四字</p>
+<lb n="0614c04" ed="T"/><p xml:id="pT20p0614c0401">於南葉位想安布。</p>
+<lb n="0614c05" ed="T"/><p xml:id="pT20p0614c0501" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh">阿</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA47"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>哩也</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AABC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>鉢囉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0A4"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>倪也</cb:zi><cb:sg>二合引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B5"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>播</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">囉</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E7"/></cb:t><cb:t xml:lang="zh">彌</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>多</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614c06" ed="T"/>
+<lb n="0614c07" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F7"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>曳</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614c08" ed="T"/>　九字</p>
+<lb n="0614c09" ed="T"/><p xml:id="pT20p0614c0901">於西南葉位想安布。</p>
+<lb n="0614c10" ed="T"/><p xml:id="pT20p0614c1001" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh">阿</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B5"/></cb:t><cb:t xml:lang="zh">波</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">哩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E7"/></cb:t><cb:t xml:lang="zh">彌</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A45C"/></cb:t><cb:t xml:lang="zh">虞</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A54B"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>拏</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F7"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>曳</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614c11" ed="T"/>　八字</p>
+<lb n="0614c12" ed="T"/><p xml:id="pT20p0614c1201">於西葉位想安布。</p>
+<lb n="0614c13" ed="T"/><p xml:id="pT20p0614c1301" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5D9"/></cb:t><cb:t xml:lang="zh">薄</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E04D"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>訖底</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">蹉</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64B"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>邏</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F7"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>曳</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614c14" ed="T"/>　六字</p>
+<lb n="0614c15" ed="T"/><p xml:id="pT20p0614c1501">於西北葉位想安布。</p>
+<lb n="0614c16" ed="T"/><p xml:id="pT20p0614c1601" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">薩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B7A3"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>哩嚩</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">怛</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A564"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>他</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">誐</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A558"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0A4"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>倪也</cb:zi><cb:sg>二合引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">那</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B5"/></cb:t><cb:t xml:lang="zh">波</cb:t></cb:tt>
+<lb n="0614c17" ed="T"/>
+<lb n="0614c18" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A640"/></cb:t><cb:t xml:lang="zh">哩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E042"/></cb:t><cb:t xml:lang="zh">布</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A640"/></cb:t><cb:t xml:lang="zh">哩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F7"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>曳</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614c19" ed="T"/>　十四字</p>
+<lb n="0614c20" ed="T"/><p xml:id="pT20p0614c2001">於北葉位想安布。</p>
+<lb n="0614c21" ed="T"/><p xml:id="pT20p0614c2101" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">薩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">埵</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">蹉</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64B"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>邏</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F7"/></cb:t><cb:t xml:lang="zh">曳</cb:t></cb:tt>
+<lb n="0614c22" ed="T"/>　六字</p>
+<lb n="0614c23" ed="T"/><p xml:id="pT20p0614c2301">於東北葉位想安布。</p>
+<lb n="0614c24" ed="T"/><p xml:id="pT20p0614c2401" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">怛</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A7EF"/></cb:t><cb:t xml:lang="zh"><g ref="#CB00853"/></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A564"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>他</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614c25" ed="T"/>　三字</p>
+<lb n="0614c26" ed="T"/><p xml:id="pT20p0614c2601">此八葉位次第想已於蓮華中心當想安布。</p>
+<lb n="0614c27" ed="T"/><p xml:id="pT20p0614c2701" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E074"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1D5"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>提</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0614c28" ed="T"/>二字</p>
+<lb n="0614c29" ed="T"/><p xml:id="pT20p0614c2901">復於蓮華內圍想分布八位於東位想。</p>
+<pb n="0615a" xml:id="T20.1152.0615a" ed="T"/>
+<lb n="0615a01" ed="T"/><p xml:id="pT20p0615a0101" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AB61"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>率嚕</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0615a02" ed="T"/>一字</p>
+<lb n="0615a03" ed="T"/><p xml:id="pT20p0615a0301">東南位想。</p>
+<lb n="0615a04" ed="T"/><p xml:id="pT20p0615a0401" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4E8"/></cb:t><cb:t xml:lang="zh">底</cb:t></cb:tt>
+<lb n="0615a05" ed="T"/>一字</p>
+<lb n="0615a06" ed="T"/><p xml:id="pT20p0615a0601">南位想。</p>
+<lb n="0615a07" ed="T"/><p xml:id="pT20p0615a0701" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2CE"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑蜜哩</cb:zi><cb:sg>三<note n="0615001" resp="Taisho" place="foot text" type="orig">合＋（一字）本文【三】</note><note n="0615001" resp="CBETA" type="mod">合＋（一字）本文【宋】【元】【明】</note><app n="0615001"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【宋】【元】【明】">合一字</rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0615a08" ed="T"/>
+<lb n="0615a09" ed="T"/><p xml:id="pT20p0615a0901">西南位想。</p>
+<lb n="0615a10" ed="T"/><p xml:id="pT20p0615a1001" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47E"/></cb:t><cb:t xml:lang="zh">底</cb:t></cb:tt>
+<lb n="0615a11" ed="T"/>一字</p>
+<lb n="0615a12" ed="T"/><p xml:id="pT20p0615a1201">西位想。</p>
+<lb n="0615a13" ed="T"/><p xml:id="pT20p0615a1301" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A658"/></cb:t><cb:t xml:lang="zh">尾</cb:t></cb:tt>
+<lb n="0615a14" ed="T"/>一字</p>
+<lb n="0615a15" ed="T"/><p xml:id="pT20p0615a1501">西北位想。</p>
+<lb n="0615a16" ed="T"/><p xml:id="pT20p0615a1601" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4B6"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>惹</cb:zi><cb:sg type="fangie">仁左切</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0615a17" ed="T"/>一字</p>
+<lb n="0615a18" ed="T"/><p xml:id="pT20p0615a1801">北位想。</p>
+<lb n="0615a19" ed="T"/><p xml:id="pT20p0615a1901" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F7"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>曳</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0615a20" ed="T"/>一字</p>
+<lb n="0615a21" ed="T"/><p xml:id="pT20p0615a2101">東北位想。</p>
+<lb n="0615a22" ed="T"/><p xml:id="pT20p0615a2201" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA49"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>莎</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0615a23" ed="T"/>二字</p>
+<lb n="0615a24" ed="T"/><p xml:id="pT20p0615a2401">如是觀想大明文字。各安布已。即當依法諦
+<lb n="0615a25" ed="T"/>想文字真理法門。或復依法憶念持誦。於日
+<lb n="0615a26" ed="T"/>三時依法布壇。<note n="0615002" resp="Taisho" place="foot text" type="orig">持＝特【宋】</note><app n="0615002"><lem wit="【大】">持</lem><rdg resp="Taisho" wit="【宋】">特</rdg></app>誦一百八遍。或一千八十
+<lb n="0615a27" ed="T"/>遍。若一月或六月。乃至一年不間斷者。即得
+<lb n="0615a28" ed="T"/>最上勝悉地法。又復若聞若持若誦者。是人
+<lb n="0615a29" ed="T"/>當得聞持具足證空三摩地。如是佛母般若
+<pb n="0615b" xml:id="T20.1152.0615b" ed="T"/>
+<lb n="0615b01" ed="T"/>波羅蜜多大明。最上甚深有大功德。修瑜伽
+<lb n="0615b02" ed="T"/>者<note n="0615003" resp="Taisho" place="foot text" type="orig">應＋（當）【三】</note><note n="0615003" resp="CBETA" type="mod">應＋（當）【宋】【元】【明】</note><app n="0615003"><lem wit="【大】">應</lem><rdg resp="Taisho" wit="【宋】【元】【明】">應當</rdg></app>依法如是觀想。</p>
+<lb n="0615b03" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛說佛母般若波羅蜜多大明觀想儀<app type="star" corresp="#0614003"><lem wit="【大】">軌</lem><rdg resp="Taisho" wit="【明】">軌經</rdg></app></cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T55n2168B">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 2168B 惠運律師書目錄</title>
+			<author>日本 惠運撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.11 $<date>$Date: 2009/04/23 08:14:35 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:14:35 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 55, No. 2168B </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2001-02-01T16:31:28">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T55n2168B.xml,v $
+Revision 1.11  2009/04/23 08:14:35  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.10  2006/04/12 22:00:38  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.8  2004/10/14 03:32:11  saywhat
+段落前加入圈點
+
+Revision 1.7  2004/07/16 09:13:11  moved
+modified：執行 margin.pl，加入 em 單位。
+
+Revision 1.6  2004/04/20 08:44:40  maha
+「版本日期」標記修訂
+
+Revision 1.5  2004/01/02 05:56:05  maha
+<note mod>裡的corr2app
+
+Revision 1.4  2003/06/19 03:48:13  eva
+modified: 插入星號校勘
+
+Revision 1.3  2003/05/10 10:04:36  ray
+add <milestone type="juan"/>
+
+Revision 1.2  2003/05/05 06:33:28  eva
+modified
+
+Revision 1.19  2002/12/05 12:52:59  eva
+modified
+
+Revision 1.17  2002/11/19 10:07:47  eva
+modified
+
+Revision 1.16  2002/11/11 11:25:17  eva
+modified
+
+Revision 1.13  2002/11/04 11:04:10  ray
+tei.2 => TEI.2
+
+Revision 1.12  2002/08/08 06:56:40  eva
+modified
+
+Revision 1.11  2002/07/29 09:47:42  vinking
+modified lang
+
+Revision 1.10  2002/04/08 09:49:59  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.9  2001/11/05 06:23:38  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.8  2001/07/27 07:15:47  ray
+去除多餘的 <author>
+
+Revision 1.7  2001/07/24 07:03:41  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.6  2001/04/01 07:56:43  moved
+modified normal
+
+Revision 1.5  2001/03/30 07:18:37  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.4  2001/03/28 02:27:21  luchun147
+標記修改
+
+Revision 1.3  2001/02/07 07:46:44  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.2  2001/02/03 08:18:56  chris
+Added keywords $Revision: 1.11 $, $Date: 2009/04/23 08:14:35 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="1089a17" ed="T"/><milestone n="1" unit="juan"/>
+<lb n="1089a18" ed="T"/>
+<lb n="1089a19" ed="T"/><cb:docNumber>No. 2168B</cb:docNumber>
+<lb n="1089a20" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead><note n="1089003" resp="Taisho" place="foot text" type="orig">【原】鎌倉時代寫高山寺藏本，【甲】享保二年寫大谷大學藏本，（安詳寺）＋惠【甲】</note><app n="1089003"><lem wit="【大】">惠</lem><rdg resp="Taisho" wit="【甲】">安詳寺惠</rdg></app><note n="1089003" type="rest" place="foot">【原】鎌倉時代寫高山寺藏本，【甲】享保二年寫大谷大學藏本</note>運<note n="1089004" resp="Taisho" place="foot text" type="orig">律師＝僧都【甲】</note><app n="1089004"><lem wit="【大】">律師</lem><rdg resp="Taisho" wit="【甲】">僧都</rdg></app><note n="1089005" resp="Taisho" place="foot text" type="orig">書＝將來教法ィ【甲】</note><app n="1089005"><lem wit="【大】">書</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">將來教法</rdg></app>目錄</cb:jhead></cb:juan>
+<lb n="1089a21" ed="T"/>
+<lb n="1089a22" ed="T"/><cb:div type="other"><p xml:id="pT55p1089a2201" rend="margin-left:2em">請來經儀軌等合二百二十<note n="1089006" resp="Taisho" place="foot text" type="orig">〔二〕－【甲】</note><app n="1089006"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>卷。</p>
+<lb n="1089a23" ed="T"/><p xml:id="pT55p1089a2301" rend="margin-left:3em">新來七十六卷。</p>
+<lb n="1089a24" ed="T"/><list><item xml:id="itemT55p1089a2401"><title>佛頂尊勝陀羅尼念誦儀軌經一卷</title><note place="inline">大興善寺三藏<note n="1089007" resp="Taisho" place="foot text" type="orig">法師＝沙門【甲】</note><app n="1089007"><lem wit="【大】">法師</lem><rdg resp="Taisho" wit="【甲】">沙門</rdg></app>大
+<lb n="1089a25" ed="T"/>興<note n="1089008" resp="Taisho" place="foot text" type="orig">智＋（不空）【甲】</note><app n="1089008"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】">智不空</rdg></app>譯</note></item>
+<lb n="1089a26" ed="T"/><item xml:id="itemT55p1089a2601"><title>尊勝佛頂<note n="1089009" resp="Taisho" place="foot text" type="orig">修＋（行）【甲】</note><app n="1089009"><lem wit="【大】">修</lem><rdg resp="Taisho" wit="【甲】">修行</rdg></app>喻伽內別行成就三十四法一
+<lb n="1089a27" ed="T"/>卷</title></item>
+<lb n="1089a28" ed="T"/><item xml:id="itemT55p1089a2801"><title>奇特最<note n="1089010" resp="Taisho" place="foot text" type="orig">初＝勝【甲】</note><app n="1089010"><lem wit="【大】">初</lem><rdg resp="Taisho" wit="【甲】">勝</rdg></app>金輪佛頂念誦儀軌法要一卷</title></item>
+<lb n="1089a29" ed="T"/><item xml:id="itemT55p1089a2901"><title>佛說一切<note n="1089011" resp="Taisho" place="foot text" type="orig">〔諸〕－【甲】</note><app n="1089011"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>如來心光明加持普賢菩薩延
+<pb n="1089b" xml:id="T55.2168B.1089b" ed="T"/>
+<lb n="1089b01" ed="T"/>命金剛最勝陀羅尼經一卷<note place="inline">大廣智不空譯</note></title></item>
+<lb n="1089b02" ed="T"/><item xml:id="itemT55p1089b0201"><title>注佛頂尊勝陀羅尼一卷</title><note place="inline">三<note n="1089012" resp="Taisho" place="foot text" type="orig">家＝宛【甲】</note><app n="1089012"><lem wit="【大】">家</lem><rdg resp="Taisho" wit="【甲】">宛</rdg></app>譯</note></item>
+<lb n="1089b03" ed="T"/><item xml:id="itemT55p1089b0301"><title>金剛頂經大瑜伽祕密心地法門義訣第一</title>
+<lb n="1089b04" ed="T"/><p xml:id="pT55p1089b0401" rend="margin-left:3em">已上六<note n="1089013" resp="Taisho" place="foot text" type="orig">卷＝書【甲】</note><app n="1089013"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">書</rdg></app>為一策子。</p></item>
+<lb n="1089b05" ed="T"/><item xml:id="itemT55p1089b0501"><title>尊勝佛頂真言修瑜伽法</title>一部二卷<note place="inline">善無畏三藏譯</note></item>
+<lb n="1089b06" ed="T"/><item xml:id="itemT55p1089b0601"><title>金剛恐怖集會方廣儀軌觀自在菩薩三世最
+<lb n="1089b07" ed="T"/>勝心明王經上卷<note place="inline">大廣智不空譯</note></title>
+<lb n="1089b08" ed="T"/><p xml:id="pT55p1089b0801" rend="margin-left:3em">已上三卷為一策子。</p></item>
+<lb n="1089b09" ed="T"/><item xml:id="itemT55p1089b0901"><title>諸佛境界攝真實經一</title><note n="1089014" resp="Taisho" place="foot text" type="orig">部＋（一部）【甲】</note><app n="1089014"><lem wit="【大】">部</lem><rdg resp="Taisho" wit="【甲】">部一部</rdg></app>三卷<note place="inline">般若三藏譯</note></item>
+<lb n="1089b10" ed="T"/><item xml:id="itemT55p1089b1001"><title>觀世音說多利心呪經一卷</title>
+<lb n="1089b11" ed="T"/><p xml:id="pT55p1089b1101" rend="margin-left:3em">已上四卷為一策子。</p></item>
+<lb n="1089b12" ed="T"/><item xml:id="itemT55p1089b1201"><title>仁王護國般若波羅<note n="1089015" resp="Taisho" place="foot text" type="orig">密＝蜜【甲】＊</note><app n="1089015"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【甲】">蜜</rdg></app>多經陀羅尼念誦儀
+<lb n="1089b13" ed="T"/>軌一卷<note place="inline">不空三藏譯</note></title></item>
+<lb n="1089b14" ed="T"/><item xml:id="itemT55p1089b1401"><title>金剛頂瑜伽青頸大悲王觀自在念誦儀軌一
+<lb n="1089b15" ed="T"/>卷<note place="inline"><note n="1089016" resp="Taisho" place="foot text" type="orig">金剛智＝不空【甲】</note><app n="1089016"><lem wit="【大】">金剛智</lem><rdg resp="Taisho" wit="【甲】">不空</rdg></app>三藏譯</note></title></item>
+<lb n="1089b16" ed="T"/><item xml:id="itemT55p1089b1601"><title>普賢金剛薩埵瑜伽念誦儀軌一卷</title><note place="inline">不空三藏譯</note></item>
+<lb n="1089b17" ed="T"/><item xml:id="itemT55p1089b1701"><title>金剛頂勝初瑜伽經大樂金剛薩埵念誦儀軌
+<lb n="1089b18" ed="T"/>一卷<note place="inline">不空三藏譯</note></title></item>
+<lb n="1089b19" ed="T"/><item xml:id="itemT55p1089b1901"><title>金剛頂瑜伽要訣一卷</title></item>
+<lb n="1089b20" ed="T"/><item xml:id="itemT55p1089b2001"><title>金剛頂瑜伽三十七尊出生義一卷</title></item>
+<lb n="1089b21" ed="T"/><item xml:id="itemT55p1089b2101"><title>菩提心義一卷</title></item>
+<lb n="1089b22" ed="T"/><item xml:id="itemT55p1089b2201"><title>佛說<note n="1089017" resp="Taisho" place="foot text" type="orig"><g ref="#CB07079"/><g ref="#CB07081"/>＝襄虞【甲】＊</note><app n="1089017"><lem wit="【大】"><g ref="#CB07079"/><g ref="#CB07081"/></lem><rdg resp="Taisho" wit="【甲】">襄虞</rdg></app>梨童女經一卷</title></item>
+<lb n="1089b23" ed="T"/><item xml:id="itemT55p1089b2301"><title>佛說<app type="star" corresp="#1089017"><lem wit="【大】"><g ref="#CB07079"/><g ref="#CB07081"/></lem><rdg resp="Taisho" wit="【甲】">襄虞</rdg></app>梨童女經念誦儀軌一卷</title>
+<lb n="1089b24" ed="T"/><p xml:id="pT55p1089b2401" rend="margin-left:3em">已上九卷為一策子。</p></item>
+<lb n="1089b25" ed="T"/><item xml:id="itemT55p1089b2501"><title>聖迦抳忿怒金剛童子菩薩成就儀軌經一部
+<lb n="1089b26" ed="T"/>三卷<note place="inline">不空<note n="1089018" resp="Taisho" place="foot text" type="orig">〔三藏譯〕－【甲】</note><app n="1089018"><lem wit="【大】">三藏譯</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></note></title></item>
+<lb n="1089b27" ed="T"/><item xml:id="itemT55p1089b2701"><title>成就妙法蓮花經<note n="1089019" resp="Taisho" place="foot text" type="orig">王＝五【甲】</note><app n="1089019"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【甲】">五</rdg></app>瑜伽觀智儀軌一卷</title><note place="inline">不空三藏
+<lb n="1089b28" ed="T"/>譯</note></item>
+<lb n="1089b29" ed="T"/><item xml:id="itemT55p1089b2901"><title>降三世金剛瑜伽成就極<note n="1089020" resp="Taisho" place="foot text" type="orig">祕＝深【甲】</note><app n="1089020"><lem wit="【大】">祕</lem><rdg resp="Taisho" wit="【甲】">深</rdg></app>密法門一卷</title><note place="inline">遍智
+<pb n="1089c" xml:id="T55.2168B.1089c" ed="T"/>
+<lb n="1089c01" ed="T"/>指授</note></item>
+<lb n="1089c02" ed="T"/><item xml:id="itemT55p1089c0201"><title>持世陀羅尼別行功能法一卷</title><note place="inline">義淨三藏譯</note>
+<lb n="1089c03" ed="T"/><p xml:id="pT55p1089c0301" rend="margin-left:3em">已上六卷為一策子。</p></item>
+<lb n="1089c04" ed="T"/><item xml:id="itemT55p1089c0401"><title>佛說金剛頂瑜伽中略出念誦經</title>一部六卷</item>
+<lb n="1089c05" ed="T"/><item xml:id="itemT55p1089c0501"><title>聖閻曼德迦威怒王立成大神驗念誦法一卷</title></item>
+<lb n="1089c06" ed="T"/><item xml:id="itemT55p1089c0601"><title>金剛手光明灌頂最勝立印聖無動尊威怒王
+<lb n="1089c07" ed="T"/>念誦儀軌一卷</title></item>
+<lb n="1089c08" ed="T"/><item xml:id="itemT55p1089c0801"><title>不動使者陀羅尼祕密法一卷</title>
+<lb n="1089c09" ed="T"/><p xml:id="pT55p1089c0901" rend="margin-left:3em">已上九卷為<note n="1089021" resp="Taisho" place="foot text" type="orig">一＝二【甲】＊</note><app n="1089021"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">二</rdg></app>策子。</p></item>
+<lb n="1089c10" ed="T"/><item xml:id="itemT55p1089c1001"><title>金剛恐怖集會方廣儀軌觀自在菩薩三世最
+<lb n="1089c11" ed="T"/>勝心明王經下卷<note place="inline">不空三藏譯</note></title></item>
+<lb n="1089c12" ed="T"/><item xml:id="itemT55p1089c1201"><title>大威力烏樞<note n="1089022" resp="Taisho" place="foot text" type="orig">〔瑟〕－【甲】</note><app n="1089022"><lem wit="【大】">瑟</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>摩明王經</title>一部二卷<note place="inline">北天竺國三藏阿質
+<lb n="1089c13" ed="T"/>達<note n="1089023" resp="Taisho" place="foot text" type="orig">霰＝露【甲】</note><app n="1089023"><lem wit="【大】">霰</lem><rdg resp="Taisho" wit="【甲】">露</rdg></app>譯</note></item>
+<lb n="1089c14" ed="T"/><item xml:id="itemT55p1089c1401"><title>大聖妙吉祥菩薩祕密八字陀羅尼修行曼荼
+<lb n="1089c15" ed="T"/>羅次第儀軌一卷<note place="inline">中天竺國三藏沙門菩提標<note n="1089024" resp="Taisho" place="foot text" type="orig">使＋（二合）【甲】</note><app n="1089024"><lem wit="【大】">使</lem><rdg resp="Taisho" wit="【甲】">使二合</rdg></app>淨智金剛譯</note></title></item>
+<lb n="1089c16" ed="T"/><item xml:id="itemT55p1089c1601"><title>一字頂輪王念誦儀軌一卷</title><note place="inline">依忉利天宮所說經譯</note>
+<lb n="1089c17" ed="T"/><p xml:id="pT55p1089c1701" rend="margin-left:3em">已上四卷為一策子。</p></item>
+<lb n="1089c18" ed="T"/><item xml:id="itemT55p1089c1801"><title>佛說普遍光焰如意寶印心<note n="1089025" resp="Taisho" place="foot text" type="orig">光＝無能【甲】</note><app n="1089025"><lem wit="【大】">光</lem><rdg resp="Taisho" wit="【甲】">無能</rdg></app>勝隨求陀羅
+<lb n="1089c19" ed="T"/>尼經</title>一部三卷</item>
+<lb n="1089c20" ed="T"/><item xml:id="itemT55p1089c2001"><title>大威怒烏芻澁<note n="1089026" resp="Taisho" place="foot text" type="orig">摩＝麼【甲】</note><app n="1089026"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】">麼</rdg></app>成就儀軌一卷</title>
+<lb n="1089c21" ed="T"/><p xml:id="pT55p1089c2101" rend="margin-left:3em">已上四卷為<app type="star" corresp="#1089021"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">二</rdg></app>策子。</p></item>
+<lb n="1089c22" ed="T"/><item xml:id="itemT55p1089c2201"><title>蓮花部多利心菩薩念誦一卷</title><note place="inline">南天竺國三藏跋折羅菩提集撰樞要念
+<lb n="1089c23" ed="T"/>誦門</note></item>
+<lb n="1089c24" ed="T"/><item xml:id="itemT55p1089c2401"><title>大毘盧遮那佛說要<note n="1089027" resp="Taisho" place="foot text" type="orig">領＝略【甲】</note><app n="1089027"><lem wit="【大】">領</lem><rdg resp="Taisho" wit="【甲】">略</rdg></app>念誦經一卷</title><note place="inline">菩提金剛三藏譯</note></item>
+<lb n="1089c25" ed="T"/><item xml:id="itemT55p1089c2501"><title>文殊師利耶曼德迦金剛陀羅<note n="1089028" resp="Taisho" place="foot text" type="orig">尼＋（經）【甲】</note><app n="1089028"><lem wit="【大】">尼</lem><rdg resp="Taisho" wit="【甲】">尼經</rdg></app>一卷</title></item>
+<lb n="1089c26" ed="T"/><item xml:id="itemT55p1089c2601"><title>餓鬼陀羅尼一卷</title></item>
+<lb n="1089c27" ed="T"/><item xml:id="itemT55p1089c2701"><title>金剛頂經多羅菩薩念誦法一卷</title>
+<lb n="1089c28" ed="T"/><p xml:id="pT55p1089c2801" rend="margin-left:3em">已上五卷為一策子。</p></item>
+<pb n="1090a" xml:id="T55.2168B.1090a" ed="T"/>
+<lb n="1090a01" ed="T"/><item xml:id="itemT55p1090a0101"><title><note n="1090001" resp="Taisho" place="foot text" type="orig">王＝玉【甲】</note><app n="1090001"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【甲】">玉</rdg></app>𠰘<note n="1090002" resp="Taisho" place="foot text" type="orig">怛＝坦【甲】</note><app n="1090002"><lem wit="【大】">怛</lem><rdg resp="Taisho" wit="【甲】">坦</rdg></app>跢羅經</title>一部三卷</item>
+<lb n="1090a02" ed="T"/><item xml:id="itemT55p1090a0201"><title>胎藏教法金剛名號一卷</title></item>
+<lb n="1090a03" ed="T"/><item xml:id="itemT55p1090a0301"><title>金剛界金剛名號一卷</title></item>
+<lb n="1090a04" ed="T"/><item xml:id="itemT55p1090a0401"><title>授灌頂金剛最上菩提心戒義一卷</title></item>
+<lb n="1090a05" ed="T"/><item xml:id="itemT55p1090a0501"><title>三<note n="1090003" resp="Taisho" place="foot text" type="orig">厨＝顧【甲】</note><app n="1090003"><lem wit="【大】">厨</lem><rdg resp="Taisho" wit="【甲】">顧</rdg></app>經一卷</title></item>
+<lb n="1090a06" ed="T"/><item xml:id="itemT55p1090a0601"><title>別行要法一卷</title></item>
+<lb n="1090a07" ed="T"/><item xml:id="itemT55p1090a0701"><title>八大菩薩曼荼羅一卷</title></item>
+<lb n="1090a08" ed="T"/><item xml:id="itemT55p1090a0801"><title>纔發心轉法輪菩薩印一卷</title></item>
+<lb n="1090a09" ed="T"/><item xml:id="itemT55p1090a0901"><title>最上乘教授戒懺悔文一卷</title>
+<lb n="1090a10" ed="T"/><p xml:id="pT55p1090a1001" rend="margin-left:3em">已上九卷為<note n="1090004" resp="Taisho" place="foot text" type="orig">〔一〕－【甲】</note><app n="1090004"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>策子。</p></item>
+<lb n="1090a11" ed="T"/><item xml:id="itemT55p1090a1101"><title>慈氏菩薩略修愈誐念誦法</title>一部二卷
+<lb n="1090a12" ed="T"/><p xml:id="pT55p1090a1201" rend="margin-left:3em">已上為一策子。</p></item>
+<lb n="1090a13" ed="T"/><item xml:id="itemT55p1090a1301"><title>蘇悉地羯<note n="1090005" resp="Taisho" place="foot text" type="orig">囉＝羅【甲】</note><app n="1090005"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【甲】">羅</rdg></app>供養法</title>一部二卷</item>
+<lb n="1090a14" ed="T"/><item xml:id="itemT55p1090a1401"><title>最上乘受菩提心地祕訣一卷</title><note place="inline">三藏善無畏依密教出弟子一行記</note></item>
+<lb n="1090a15" ed="T"/><item xml:id="itemT55p1090a1501"><title>大毘盧遮那略要速疾門五支念誦法一卷</title><note place="inline">連存
+<lb n="1090a16" ed="T"/>灌頂儀</note></item>
+<lb n="1090a17" ed="T"/><item xml:id="itemT55p1090a1701"><title>能淨一切眼疾病陀羅尼經一卷</title><note place="inline">不空<note n="1090006" resp="Taisho" place="foot text" type="orig">（三藏）＋譯【甲】＊</note><app n="1090006"><lem wit="【大】">譯</lem><rdg resp="Taisho" wit="【甲】">三藏譯</rdg></app></note></item>
+<lb n="1090a18" ed="T"/><item xml:id="itemT55p1090a1801"><title>金<note n="1090007" resp="Taisho" place="foot text" type="orig">輪＝剛【甲】</note><app n="1090007"><lem wit="【大】">輪</lem><rdg resp="Taisho" wit="【甲】">剛</rdg></app>五佛頂略念誦法通一切佛頂尊同用
+<lb n="1090a19" ed="T"/>一卷</title></item>
+<lb n="1090a20" ed="T"/><item xml:id="itemT55p1090a2001"><title>摩利<note n="1090008" resp="Taisho" place="foot text" type="orig">支＋（天）【甲】</note><app n="1090008"><lem wit="【大】">支</lem><rdg resp="Taisho" wit="【甲】">支天</rdg></app>菩薩略念誦法一卷</title><note place="inline">不空<app type="star" corresp="#1090006"><lem wit="【大】">譯</lem><rdg resp="Taisho" wit="【甲】">三藏譯</rdg></app></note></item>
+<lb n="1090a21" ed="T"/><item xml:id="itemT55p1090a2101"><title>聖觀自在菩薩心真言瑜伽觀行儀軌一卷</title><note place="inline">不
+<lb n="1090a22" ed="T"/>空<app type="star" corresp="#1090006"><lem wit="【大】">譯</lem><rdg resp="Taisho" wit="【甲】">三藏譯</rdg></app></note></item>
+<lb n="1090a23" ed="T"/><item xml:id="itemT55p1090a2301"><title>大日如來成佛經釋中略出世間六月持明禁
+<lb n="1090a24" ed="T"/>戒念誦儀軌一卷<note place="inline"><note n="1090009" resp="Taisho" place="foot text" type="orig">淨＝譯【甲】</note><app n="1090009"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【甲】">譯</rdg></app>彰寺北經院內道場五部持念沙門惟謹述</note></title></item>
+<lb n="1090a25" ed="T"/><item xml:id="itemT55p1090a2501"><title>大隨求根本八印一紙</title><note n="1090010" resp="Taisho" place="foot text" type="orig">但未勘挍∞已上十卷為一策子【甲】</note><note n="1090010" resp="CBETA" type="mod">但未勘<choice cb:resp="CBETA.maha"><corr>校</corr><sic>挍</sic></choice>∞已上十卷為一策子【甲】</note><app n="1090010"><lem wit="【大】"><note place="inline">但未勘校</note></lem><rdg resp="Taisho" wit="【甲】"><note place="inline">已上十卷為一策子</note></rdg></app></item>
+<lb n="1090a26" ed="T"/><item xml:id="itemT55p1090a2601"><title><note n="1090011" resp="Taisho" place="foot text" type="orig">但未勘挍∞已上十卷為一策子【甲】</note><note n="1090011" resp="CBETA" type="mod">但未勘<choice cb:resp="CBETA.maha"><corr>校</corr><sic>挍</sic></choice>∞已上十卷為一策子【甲】</note><app n="1090011"><lem wit="【大】">已上十卷為一策子</lem><rdg resp="Taisho" wit="【甲】">但未勘校</rdg></app></title></item>
+<lb n="1090a27" ed="T"/><item xml:id="itemT55p1090a2701"><title>金剛峯樓閣一切瑜伽瑜祇經一卷</title><note place="inline">金剛智<app type="star" corresp="#1090006"><lem wit="【大】">譯</lem><rdg resp="Taisho" wit="【甲】">三藏譯</rdg></app></note></item>
+<lb n="1090a28" ed="T"/><item xml:id="itemT55p1090a2801"><title>大樂金剛不空真實三昧耶經般若波羅密多
+<lb n="1090a29" ed="T"/>理趣釋</title>一部二卷
+<pb n="1090b" xml:id="T55.2168B.1090b" ed="T"/>
+<lb n="1090b01" ed="T"/><p xml:id="pT55p1090b0101" rend="margin-left:3em">已上三卷為一策子。</p></item>
+<lb n="1090b02" ed="T"/><item xml:id="itemT55p1090b0201"><title>玄鏡宿曜<note n="1090012" resp="Taisho" place="foot text" type="orig">〔經〕－【甲】</note><app n="1090012"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>一卷</title></item>
+<lb n="1090b03" ed="T"/><item xml:id="itemT55p1090b0301"><title>大妙金剛大甘露軍拏利焰鬘熾<note n="1090013" resp="Taisho" place="foot text" type="orig">威＝盛【甲】</note><app n="1090013"><lem wit="【大】">威</lem><rdg resp="Taisho" wit="【甲】">盛</rdg></app>佛頂經
+<lb n="1090b04" ed="T"/>一卷<note place="inline"><note n="1090014" resp="Taisho" place="foot text" type="orig">幸＝達【甲】</note><app n="1090014"><lem wit="【大】">幸</lem><rdg resp="Taisho" wit="【甲】">達</rdg></app>摩栖那譯</note></title></item>
+<lb n="1090b05" ed="T"/><item xml:id="itemT55p1090b0501"><title>梵本般若波羅<app type="star" corresp="#1089015"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【甲】">蜜</rdg></app>多心經一卷</title><note place="inline">醴泉寺般若三藏梵本</note></item>
+<lb n="1090b06" ed="T"/><item xml:id="itemT55p1090b0601"><title>梵讚</title></item>
+<lb n="1090b07" ed="T"/><item xml:id="itemT55p1090b0701"><title>大毘盧遮那如來菩提讚</title></item>
+<lb n="1090b08" ed="T"/><item xml:id="itemT55p1090b0801"><title>毘盧佛心略讚</title></item>
+<lb n="1090b09" ed="T"/><item xml:id="itemT55p1090b0901"><title>釋迦牟尼佛成道在菩提<note n="1090015" resp="Taisho" place="foot text" type="orig">樹＋（下）【甲】</note><app n="1090015"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【甲】">樹下</rdg></app>降魔讚</title></item>
+<lb n="1090b10" ed="T"/><item xml:id="itemT55p1090b1001"><title>釋迦如來足下千輻輪相真言并讚</title></item>
+<lb n="1090b11" ed="T"/><item xml:id="itemT55p1090b1101"><title>天龍八部讚</title></item>
+<lb n="1090b12" ed="T"/><item xml:id="itemT55p1090b1201"><title>三寶讚</title></item>
+<lb n="1090b13" ed="T"/><item xml:id="itemT55p1090b1301"><title>蓮華部讚</title></item>
+<lb n="1090b14" ed="T"/><item xml:id="itemT55p1090b1401"><title>金剛部讚</title></item>
+<lb n="1090b15" ed="T"/><item xml:id="itemT55p1090b1501"><title>如意輪讚</title></item>
+<lb n="1090b16" ed="T"/><item xml:id="itemT55p1090b1601"><title>吉慶讚</title></item>
+<lb n="1090b17" ed="T"/><item xml:id="itemT55p1090b1701"><title>文殊師利菩薩一百八名讚</title></item>
+<lb n="1090b18" ed="T"/><item xml:id="itemT55p1090b1801"><title>金剛頂瑜伽念<note n="1090016" resp="Taisho" place="foot text" type="orig">誦＝珠【甲】</note><app n="1090016"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】">珠</rdg></app>經一卷</title></item>
+<lb n="1090b19" ed="T"/><item xml:id="itemT55p1090b1901"><title>新翻最勝王經陀羅尼一卷</title>
+<lb n="1090b20" ed="T"/><p xml:id="pT55p1090b2001" rend="margin-left:3em">已上十二部讚并二部經合為一卷。</p></item>
+<lb n="1090b21" ed="T"/><item xml:id="itemT55p1090b2101"><title>虛空藏念誦法一卷</title></item>
+<lb n="1090b22" ed="T"/><item xml:id="itemT55p1090b2201"><title>無量壽如來念誦法一卷</title></item>
+<lb n="1090b23" ed="T"/><item xml:id="itemT55p1090b2301"><title>涅槃經十四音<note n="1090017" resp="Taisho" place="foot text" type="orig">七＝悉ィ【甲】＊</note><app n="1090017"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">悉</rdg></app>曇章圖卷</title></item>
+<lb n="1090b24" ed="T"/><item xml:id="itemT55p1090b2401"><title><app type="star" corresp="#1090017"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">悉</rdg></app>曇梵字一卷</title></item>
+<lb n="1090b25" ed="T"/><item xml:id="itemT55p1090b2501"><title><app type="star" corresp="#1090017"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">悉</rdg></app>曇記一卷</title></item>
+<lb n="1090b26" ed="T"/><item xml:id="itemT55p1090b2601"><title>大毘盧遮那廣大儀軌真言一<note n="1090018" resp="Taisho" place="foot text" type="orig">卷＋（印大隨求陀羅尼一卷）【甲】</note><app n="1090018"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷印大隨求陀羅尼一卷</rdg></app></title></item>
+<lb n="1090b27" ed="T"/><item xml:id="itemT55p1090b2701"><title>大隨求經一卷</title></item>
+<lb n="1090b28" ed="T"/><item xml:id="itemT55p1090b2801"><title>金剛羯<note n="1090019" resp="Taisho" place="foot text" type="orig">摩＝尼【甲】</note><app n="1090019"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】">尼</rdg></app>經一卷</title></item>
+<lb n="1090b29" ed="T"/><item xml:id="itemT55p1090b2901"><title>大佛頂如來大道場儀軌一卷</title></item>
+<pb n="1090c" xml:id="T55.2168B.1090c" ed="T"/>
+<lb n="1090c01" ed="T"/><item xml:id="itemT55p1090c0101"><title><note n="1090020" resp="Taisho" place="foot text" type="orig">〔印隨…卷〕八字－【甲】</note><app cb:word-count="8" n="1090020"><lem wit="【大】">印隨求陀羅尼一卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></title></item>
+<lb n="1090c02" ed="T"/><item xml:id="itemT55p1090c0201"><title>印大佛頂陀羅尼<note n="1090021" resp="Taisho" place="foot text" type="orig">七＝一【甲】＊</note><app n="1090021"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【甲】">一</rdg></app>卷</title></item>
+<lb n="1090c03" ed="T"/><item xml:id="itemT55p1090c0301"><title>大輪金剛總持陀羅<note n="1090022" resp="Taisho" place="foot text" type="orig">尼＋（呪）【甲】</note><app n="1090022"><lem wit="【大】">尼</lem><rdg resp="Taisho" wit="【甲】">尼呪</rdg></app>經一卷</title></item>
+<lb n="1090c04" ed="T"/><item xml:id="itemT55p1090c0401"><title>建立曼荼羅法一卷</title><note place="inline">惠林依教略述</note></item>
+<lb n="1090c05" ed="T"/><item xml:id="itemT55p1090c0501"><title><note n="1090023" resp="Taisho" place="foot text" type="orig">（金剛…譯）二十九字∞（文殊…卷）十一字【甲】</note><note n="1090023" resp="CBETA" type="mod"><!--CBETA todo type: a-->（金剛…譯）二十九字∞（文殊…卷）十一字【甲】</note>金剛頂經曼殊<note n="1090024" resp="Taisho" place="foot text" type="orig">師＝室【甲】</note><app n="1090024"><lem wit="【大】">師</lem><rdg resp="Taisho" wit="【甲】">室</rdg></app>利菩薩無字心陀羅尼品
+<lb n="1090c06" ed="T"/>一卷<note place="inline">南天竺國三藏金剛智譯</note></title></item>
+<lb n="1090c07" ed="T"/><item xml:id="itemT55p1090c0701"><title><note n="1090025" resp="Taisho" place="foot text" type="orig">（金剛…譯）二十九字∞（文殊…卷）十一字【甲】</note><note n="1090025" resp="CBETA" type="mod"><!--CBETA todo type: a-->（金剛…譯）二十九字∞（文殊…卷）十一字【甲】</note>文殊<note n="1090026" resp="Taisho" place="foot text" type="orig">瑜伽＝師利【甲】</note><app n="1090026"><lem wit="【大】">瑜伽</lem><rdg resp="Taisho" wit="【甲】">師利</rdg></app>五字念誦經一卷</title></item>
+<lb n="1090c08" ed="T"/><item xml:id="itemT55p1090c0801"><title>無量壽如來十甘露真言一卷</title></item>
+<lb n="1090c09" ed="T"/><item xml:id="itemT55p1090c0901"><title>佛說北方毘沙門天王甘露太子那吒俱伐羅
+<lb n="1090c10" ed="T"/><note n="1090027" resp="Taisho" place="foot text" type="orig">瑟＝祕【甲】</note><app n="1090027"><lem wit="【大】">瑟</lem><rdg resp="Taisho" wit="【甲】">祕</rdg></app>密藏王隨心如意救攝眾生根本陀羅尼
+<lb n="1090c11" ed="T"/>一卷</title></item>
+<lb n="1090c12" ed="T"/><item xml:id="itemT55p1090c1201"><title>熾盛佛頂威德光明真言儀軌一卷</title></item>
+<lb n="1090c13" ed="T"/><item xml:id="itemT55p1090c1301"><title>佛說大金剛香勝陀羅尼一卷</title></item>
+<lb n="1090c14" ed="T"/><item xml:id="itemT55p1090c1401"><title>總釋陀羅尼義讚一卷</title><note place="inline">不空三藏譯</note></item>
+<lb n="1090c15" ed="T"/><item xml:id="itemT55p1090c1501"><title>跋折羅頓拏法一卷</title></item>
+<lb n="1090c16" ed="T"/><item xml:id="itemT55p1090c1601"><title>訶利帝母真言法一卷</title><note place="inline">不空三藏譯</note></item>
+<lb n="1090c17" ed="T"/><item xml:id="itemT55p1090c1701"><title>普賢菩薩行願讚一卷</title></item>
+<lb n="1090c18" ed="T"/><item xml:id="itemT55p1090c1801"><title>孔雀明王經</title>一部三卷</item>
+<lb n="1090c19" ed="T"/><item xml:id="itemT55p1090c1901"><title><note n="1090028" resp="Taisho" place="foot text" type="orig">〔如意…卷〕八字－【甲】</note><app cb:word-count="8" n="1090028"><lem wit="【大】">如意輪要略法一卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></title></item>
+<lb n="1090c20" ed="T"/><item xml:id="itemT55p1090c2001"><title>地藏真言一紙</title></item>
+<lb n="1090c21" ed="T"/><item xml:id="itemT55p1090c2101"><title>毘那<note n="1090029" resp="Taisho" place="foot text" type="orig">耶＝夜【甲】</note><app n="1090029"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】">夜</rdg></app>迦法<app type="star" corresp="#1090021"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【甲】">一</rdg></app>卷</title></item>
+<lb n="1090c22" ed="T"/><item xml:id="itemT55p1090c2201"><title>底里三昧法一卷</title></item>
+<lb n="1090c23" ed="T"/><item xml:id="itemT55p1090c2301"><title>大自在天女經一卷</title></item>
+<lb n="1090c24" ed="T"/><item xml:id="itemT55p1090c2401"><title>內護摩法一卷</title></item>
+<lb n="1090c25" ed="T"/><item xml:id="itemT55p1090c2501"><title>三十五佛名禮懺文一卷</title></item>
+<lb n="1090c26" ed="T"/><item xml:id="itemT55p1090c2601"><title>略集印契<note n="1090030" resp="Taisho" place="foot text" type="orig">慓熾＝標幟【甲】</note><app n="1090030"><lem wit="【大】">慓熾</lem><rdg resp="Taisho" wit="【甲】">標幟</rdg></app>釋義一卷</title></item>
+<lb n="1090c27" ed="T"/><item xml:id="itemT55p1090c2701"><title>百法論梵本一卷</title></item>
+<lb n="1090c28" ed="T"/><item xml:id="itemT55p1090c2801"><title>唯識三十本論梵本一卷</title></item>
+<lb n="1090c29" ed="T"/><item xml:id="itemT55p1090c2901"><title><note n="1090031" resp="Taisho" place="foot text" type="orig">（摩醯…一卷）四十五字∞（新集…卷）八字【甲】</note><note n="1090031" resp="CBETA" type="mod"><!--CBETA todo type: a-->（摩醯…一卷）四十五字∞（新集…卷）八字【甲】</note>摩醯首羅大自在王神通化生伎藝天女念
+<pb n="1091a" xml:id="T55.2168B.1091a" ed="T"/>
+<lb n="1091a01" ed="T"/>誦法一卷</title></item>
+<lb n="1091a02" ed="T"/><item xml:id="itemT55p1091a0201"><title>妙吉祥速疾成就大羅<note n="1091001" resp="Taisho" place="foot text" type="orig">□＝剎【甲】</note><app n="1091001"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">剎</rdg></app>美女諸法中祕密
+<lb n="1091a03" ed="T"/>心所成就法一卷</title></item>
+<lb n="1091a04" ed="T"/><item xml:id="itemT55p1091a0401"><title>新集浴像儀軌一卷</title></item>
+<lb n="1091a05" ed="T"/><item xml:id="itemT55p1091a0501"><title>五髻文殊法一卷</title></item>
+<lb n="1091a06" ed="T"/><item xml:id="itemT55p1091a0601"><title>底哩三昧耶不動尊聖者念誦祕密法三卷</title><note place="inline">複
+<lb n="1091a07" ed="T"/>為一卷</note></item>
+<lb n="1091a08" ed="T"/><item xml:id="itemT55p1091a0801"><title>憂丘滿願法一<note n="1091002" resp="Taisho" place="foot text" type="orig">卷＋（十八住金剛般若經一卷）【甲】</note><app n="1091002"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">卷十八住金剛般若經一卷</rdg></app></title></item>
+<lb n="1091a09" ed="T"/><item xml:id="itemT55p1091a0901"><title>金剛頂略出經一卷</title></item>
+<lb n="1091a10" ed="T"/><item xml:id="itemT55p1091a1001"><title>金剛頂教王經一卷</title></item>
+<lb n="1091a11" ed="T"/><item xml:id="itemT55p1091a1101"><title>佛說一髻尊陀羅尼經一卷</title></item>
+<lb n="1091a12" ed="T"/><item xml:id="itemT55p1091a1201"><title>寶藏天女陀羅尼法一卷</title></item>
+<lb n="1091a13" ed="T"/><item xml:id="itemT55p1091a1301"><title><note n="1091003" resp="Taisho" place="foot text" type="orig">註＝注【甲】＊</note><app n="1091003"><lem wit="【大】">註</lem><rdg resp="Taisho" wit="【甲】">注</rdg></app>大佛頂陀羅尼一卷</title></item>
+<lb n="1091a14" ed="T"/><item xml:id="itemT55p1091a1401"><title>速疾<note n="1091004" resp="Taisho" place="foot text" type="orig">三＝立【甲】</note><app n="1091004"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【甲】">立</rdg></app>驗魔醯首羅天迦樓羅阿尾奢法一
+<lb n="1091a15" ed="T"/>卷</title></item>
+<lb n="1091a16" ed="T"/><item xml:id="itemT55p1091a1601"><title>佛說聖者摩尼跋陀羅菩薩陀羅尼經<note n="1091005" resp="Taisho" place="foot text" type="orig">〔一卷〕－【甲】</note><app n="1091005"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="1091a17" ed="T"/><note place="inline">亦名水自在菩薩經一卷</note></title></item>
+<lb n="1091a18" ed="T"/><item xml:id="itemT55p1091a1801"><title>佛說三亭厨經一卷</title></item>
+<lb n="1091a19" ed="T"/><item xml:id="itemT55p1091a1901"><title>金剛頂三摩地儀軌一卷</title><note place="inline">金<note n="1091006" resp="Taisho" place="foot text" type="orig">剛＋（智）【甲】＊</note><app n="1091006"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【甲】">剛智</rdg></app>三藏譯</note></item>
+<lb n="1091a20" ed="T"/><item xml:id="itemT55p1091a2001"><title>註大悲呪一紙</title></item>
+<lb n="1091a21" ed="T"/><item xml:id="itemT55p1091a2101"><title>四成就法一卷</title></item>
+<lb n="1091a22" ed="T"/><item xml:id="itemT55p1091a2201"><title>諸梵字</title>十二卷<note place="inline">初頭有大隨求結護真言梵字</note></item>
+<lb n="1091a23" ed="T"/><item xml:id="itemT55p1091a2301"><title>無垢淨光真言一卷</title></item>
+<lb n="1091a24" ed="T"/><item xml:id="itemT55p1091a2401"><title>都攝一切真言王一卷</title></item>
+<lb n="1091a25" ed="T"/><item xml:id="itemT55p1091a2501"><title>金剛頂瑜伽佛頂心真言一卷</title></item>
+<lb n="1091a26" ed="T"/><item xml:id="itemT55p1091a2601"><title>梵字真言二卷</title><note place="inline">無題</note></item>
+<lb n="1091a27" ed="T"/><item xml:id="itemT55p1091a2701"><title>梵本普賢行<note n="1091007" resp="Taisho" place="foot text" type="orig">願＝觀ィ【甲】</note><app n="1091007"><lem wit="【大】">願</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">觀</rdg></app>讚一卷</title></item>
+<lb n="1091a28" ed="T"/><item xml:id="itemT55p1091a2801"><title>無邊門八字一卷</title></item>
+<lb n="1091a29" ed="T"/><item xml:id="itemT55p1091a2901"><title>金<note n="1091008" resp="Taisho" place="foot text" type="orig">輪＝剛【甲】</note><app n="1091008"><lem wit="【大】">輪</lem><rdg resp="Taisho" wit="【甲】">剛</rdg></app>佛頂抄一卷</title></item>
+<pb n="1091b" xml:id="T55.2168B.1091b" ed="T"/>
+<lb n="1091b01" ed="T"/><item xml:id="itemT55p1091b0101"><title>大佛頂真言一卷</title></item>
+<lb n="1091b02" ed="T"/><item xml:id="itemT55p1091b0201"><title>十六菩薩百八名讚三十七尊種子</title></item>
+<lb n="1091b03" ed="T"/><item xml:id="itemT55p1091b0301"><title>召罪摧罪真言</title></item>
+<lb n="1091b04" ed="T"/><item xml:id="itemT55p1091b0401"><title>文殊行<note n="1091009" resp="Taisho" place="foot text" type="orig">觀＝願ィ【甲】</note><app n="1091009"><lem wit="【大】">觀</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">願</rdg></app>讚</title></item>
+<lb n="1091b05" ed="T"/><item xml:id="itemT55p1091b0501"><title>金光明最勝王經梵字真言一卷</title></item>
+<lb n="1091b06" ed="T"/><item xml:id="itemT55p1091b0601"><title><app type="star" corresp="#1091003"><lem wit="【大】">註</lem><rdg resp="Taisho" wit="【甲】">注</rdg></app>金剛般若二卷</title><note place="inline">一卷御<app type="star" corresp="#1091003"><lem wit="【大】">註</lem><rdg resp="Taisho" wit="【甲】">注</rdg></app>一卷江寧縣牛頭山融和尚<app type="star" corresp="#1091003"><lem wit="【大】">註</lem><rdg resp="Taisho" wit="【甲】">注</rdg></app></note></item>
+<lb n="1091b07" ed="T"/><item xml:id="itemT55p1091b0701"><title>賢劫論頌一卷</title><note place="inline">世親菩薩造義淨<app type="star" corresp="#1090006"><lem wit="【大】">譯</lem><rdg resp="Taisho" wit="【甲】">三藏譯</rdg></app></note></item>
+<lb n="1091b08" ed="T"/><item xml:id="itemT55p1091b0801"><title>劫章頌釋一卷</title></item>
+<lb n="1091b09" ed="T"/><item xml:id="itemT55p1091b0901"><title>劫章記一卷</title></item>
+<lb n="1091b10" ed="T"/><item xml:id="itemT55p1091b1001"><title>劫章疏一卷</title></item>
+<lb n="1091b11" ed="T"/><item xml:id="itemT55p1091b1101"><title>釋氏器儀類例儒教凶禮集要一卷</title><note place="inline"><note n="1091010" resp="Taisho" place="foot text" type="orig">（沙門）＋羅【甲】</note><app n="1091010"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】">沙門羅</rdg></app><note n="1091011" resp="Taisho" place="foot text" type="orig">□＝普【甲】</note><app n="1091011"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">普</rdg></app>撰</note></item>
+<lb n="1091b12" ed="T"/><item xml:id="itemT55p1091b1201"><title>釋氏器要義記一卷</title><note place="inline">沙門明<note n="1091012" resp="Taisho" place="foot text" type="orig">□＝峻【甲】</note><app n="1091012"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">峻</rdg></app>撰</note></item>
+<lb n="1091b13" ed="T"/><item xml:id="itemT55p1091b1301"><title>梵漢普賢行願讚一卷</title></item>
+<lb n="1091b14" ed="T"/><item xml:id="itemT55p1091b1401"><title>御<app type="star" corresp="#1091003"><lem wit="【大】">註</lem><rdg resp="Taisho" wit="【甲】">注</rdg></app>金剛般若經宣演一部<note n="1091013" resp="Taisho" place="foot text" type="orig">二＝三【甲】</note><app n="1091013"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】">三</rdg></app>卷</title></item>
+<lb n="1091b15" ed="T"/><item xml:id="itemT55p1091b1501"><title>勅隨賀讚論</title><note place="inline">沙門道<note n="1091014" resp="Taisho" place="foot text" type="orig">氤＝氣【甲】</note><app n="1091014"><lem wit="【大】">氤</lem><rdg resp="Taisho" wit="【甲】">氣</rdg></app>集</note></item>
+<lb n="1091b16" ed="T"/><item xml:id="itemT55p1091b1601"><title>搜玄錄解四分律<note n="1091015" resp="Taisho" place="foot text" type="orig">那＝刪【甲】</note><app n="1091015"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【甲】">刪</rdg></app>繁補闕行事鈔一部十
+<lb n="1091b17" ed="T"/>卷<note place="inline">雙林寺沙門釋志鴻撰</note></title></item>
+<lb n="1091b18" ed="T"/><item xml:id="itemT55p1091b1801"><title>南山鈔科文一卷</title></item>
+<lb n="1091b19" ed="T"/><item xml:id="itemT55p1091b1901"><title>搜玄記科文一十五帖</title></item>
+<lb n="1091b20" ed="T"/><item xml:id="itemT55p1091b2001"><title>大般若述<note n="1091016" resp="Taisho" place="foot text" type="orig">開＝闕【甲】</note><app n="1091016"><lem wit="【大】">開</lem><rdg resp="Taisho" wit="【甲】">闕</rdg></app>子一卷</title></item>
+<lb n="1091b21" ed="T"/><item xml:id="itemT55p1091b2101"><title>金師子章一卷</title></item>
+<lb n="1091b22" ed="T"/><item xml:id="itemT55p1091b2201"><title>法界觀門一卷</title></item>
+<lb n="1091b23" ed="T"/><item xml:id="itemT55p1091b2301"><title>菩提達磨論一卷</title></item>
+<lb n="1091b24" ed="T"/><item xml:id="itemT55p1091b2401"><title>還源集</title>一部三卷</item>
+<lb n="1091b25" ed="T"/><item xml:id="itemT55p1091b2501"><title>雲居集一<note n="1091017" resp="Taisho" place="foot text" type="orig">部＋（二卷）ィ【甲】</note><app n="1091017"><lem wit="【大】">部</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">部二卷</rdg></app></title><note place="inline">普智集</note></item>
+<lb n="1091b26" ed="T"/><item xml:id="itemT55p1091b2601"><title>辨禪見解<note n="1091018" resp="Taisho" place="foot text" type="orig">耶＝邪【甲】</note><app n="1091018"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】">邪</rdg></app>正論一卷</title></item>
+<lb n="1091b27" ed="T"/><item xml:id="itemT55p1091b2701"><title>禪宗脈傳一卷</title></item>
+<lb n="1091b28" ed="T"/><item xml:id="itemT55p1091b2801"><title>維摩經記一卷</title><note place="inline"><note n="1091019" resp="Taisho" place="foot text" type="orig">江＝正【甲】</note><app n="1091019"><lem wit="【大】">江</lem><rdg resp="Taisho" wit="【甲】">正</rdg></app>寧牛頭山惠融和尚譯</note></item>
+<lb n="1091b29" ed="T"/><item xml:id="itemT55p1091b2901"><title>道性歌一卷</title></item>
+<pb n="1091c" xml:id="T55.2168B.1091c" ed="T"/>
+<lb n="1091c01" ed="T"/><item xml:id="itemT55p1091c0101"><title>不空三藏碑一卷</title></item>
+<lb n="1091c02" ed="T"/><item xml:id="itemT55p1091c0201"><title>無畏三藏碑一卷</title></item>
+<lb n="1091c03" ed="T"/><item xml:id="itemT55p1091c0301"><title>興禪寺三藏碑一卷</title></item>
+<lb n="1091c04" ed="T"/><item xml:id="itemT55p1091c0401"><title>金<app type="star" corresp="#1091006"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【甲】">剛智</rdg></app>三藏碑一卷</title></item>
+<lb n="1091c05" ed="T"/><item xml:id="itemT55p1091c0501"><title>大明和尚碑一卷</title></item>
+<lb n="1091c06" ed="T"/><item xml:id="itemT55p1091c0601"><title>惠果和尚碑一卷</title></item>
+<lb n="1091c07" ed="T"/><item xml:id="itemT55p1091c0701"><title>師資相授法傳一卷</title></item>
+<lb n="1091c08" ed="T"/><item xml:id="itemT55p1091c0801"><title>蘇州報恩寺政興大師碑銘一帖</title></item>
+<lb n="1091c09" ed="T"/><item xml:id="itemT55p1091c0901"><title>七曜星辰別行法一卷</title><note place="inline">一行造</note></item>
+<lb n="1091c10" ed="T"/><item xml:id="itemT55p1091c1001"><title><note n="1091020" resp="Taisho" place="foot text" type="orig">大＝六【甲】</note><app n="1091020"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】">六</rdg></app><note n="1091021" resp="Taisho" place="foot text" type="orig">王＝壬ィ【甲】</note><app n="1091021"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">壬</rdg></app>歌</title>一部二卷<note place="inline">一行<note n="1091022" resp="Taisho" place="foot text" type="orig">述＝造【甲】</note><app n="1091022"><lem wit="【大】">述</lem><rdg resp="Taisho" wit="【甲】">造</rdg></app></note></item>
+<lb n="1091c11" ed="T"/><item xml:id="itemT55p1091c1101"><note n="1091023" resp="Taisho" place="foot text" type="orig">〔六王歌一部二卷〕－【甲】</note><app n="1091023"><lem wit="【大】"><title>六王歌</title>一部二卷</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1091c12" ed="T"/><item xml:id="itemT55p1091c1201"><title>梁朝志公和尚歌一卷</title></item>
+<lb n="1091c13" ed="T"/><item xml:id="itemT55p1091c1301"><title>孟蘭盆經記一卷</title></item>
+<lb n="1091c14" ed="T"/><item xml:id="itemT55p1091c1401"><title>梵字經四夾</title></item>
+<lb n="1091c15" ed="T"/><item xml:id="itemT55p1091c1501"><title>隨求大會禎子苗一鋪</title></item>
+<lb n="1091c16" ed="T"/><item xml:id="itemT55p1091c1601"><title>五佛頂曼荼羅禎子苗一鋪</title></item>
+<lb n="1091c17" ed="T"/><item xml:id="itemT55p1091c1701"><title>諸曼荼羅圖一<note n="1091024" resp="Taisho" place="foot text" type="orig">茶＝荼【甲】，卷ィ【甲】</note><note n="1091024" resp="CBETA" type="mod">茶＝荼【甲】，＝卷ィ【甲】</note><app n="1091024"><lem wit="【大】">茶</lem><rdg resp="Taisho" wit="【甲】">荼</rdg><rdg resp="Taisho" wit="【甲】" type="variantRemark">卷</rdg></app></title></item>
+<lb n="1091c18" ed="T"/><item xml:id="itemT55p1091c1801"><title>降三世十八會印子一卷</title></item>
+<lb n="1091c19" ed="T"/><item xml:id="itemT55p1091c1901"><title>王註老經一卷</title></item>
+<lb n="1091c20" ed="T"/><item xml:id="itemT55p1091c2001"><title>真一註義一卷</title></item>
+<lb n="1091c21" ed="T"/><item xml:id="itemT55p1091c2101"><title>老子首胤內解道經一卷</title></item>
+<lb n="1091c22" ed="T"/><item xml:id="itemT55p1091c2201"><title>已比丘羯磨法一卷</title></item>
+<lb n="1091c23" ed="T"/><item xml:id="itemT55p1091c2301"><title>麋甬方一卷</title></item>
+<lb n="1091c24" ed="T"/><item xml:id="itemT55p1091c2401"><title><note n="1091025" resp="Taisho" place="foot text" type="orig">麻＝鹿【甲】</note><app n="1091025"><lem wit="【大】">麻</lem><rdg resp="Taisho" wit="【甲】">鹿</rdg></app>甬經一卷</title></item>
+<lb n="1091c25" ed="T"/><item xml:id="itemT55p1091c2501"><title>養性一卷</title></item>
+<lb n="1091c26" ed="T"/><item xml:id="itemT55p1091c2601"><title>合影圖一卷</title></item>
+<lb n="1091c27" ed="T"/><item xml:id="itemT55p1091c2701"><title>五藏六府圖一卷</title></item>
+<lb n="1091c28" ed="T"/><item xml:id="itemT55p1091c2801"><title>婆羅門自按摩法一卷</title><note place="inline">凡十八契</note>
+<lb n="1091c29" ed="T"/><p xml:id="pT55p1091c2901"><note n="1091026" resp="Taisho" place="foot text" type="orig">（右安…云）十二字＝（承和十四年十月日）八字【甲】</note><app cb:word-count="12" n="1091026"><lem wit="【大】">右安祥寺和尚請來目錄云云</lem><rdg resp="Taisho" wit="【甲】">承和十四年十月日</rdg></app>。</p>
+<pb n="1092a" xml:id="T55.2168B.1092a" ed="T"/>
+<lb n="1092a01" ed="T"/><p xml:id="pT55p1092a0101"><note n="1092001" resp="Taisho" place="foot text" type="orig">此御記甲本無之</note>天曆御記云。</p>
+<lb n="1092a02" ed="T"/><p xml:id="pT55p1092a0201" rend="margin-left:2em">應和三年八月二十九日。治部卿源朝。
+<lb n="1092a03" ed="T"/>令延光朝臣奏安祥寺進真言目錄御寫
+<lb n="1092a04" ed="T"/>一本。令<note n="1092002" resp="Taisho" place="foot text" type="orig">同＝問ヵ【原】</note><app n="1092002"><lem resp="Taisho" wit="【大】">同</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">問</rdg></app>僧延昌此希有否之由云云。</p>
+<lb n="1092a05" ed="T"/><p xml:id="pT55p1092a0501" rend="margin-left:3em">恐右本件目錄歟。其故准□□錄非
+<lb n="1092a06" ed="T"/>和尚自筆見故也。為後□□記之。</p>
+<lb n="1092a07" ed="T"/><p xml:id="pT55p1092a0701" rend="margin-left:4em">但今律師云云尚別目錄有之歟可
+<lb n="1092a08" ed="T"/>尋之。</p></item></list></cb:div>
+</body></text></TEI>

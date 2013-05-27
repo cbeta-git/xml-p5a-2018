@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T17n0771">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0771 四品學法經</title>
+			<author>劉宋 求那跋陀羅譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.12 $<date>$Date: 2012/08/27 03:15:12 $</date>新式標點版</edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/08/27 03:15:12 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 17, No. 771 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by Anonymous, USA, Punctuated text as provided by San Bao Di Zi</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，北美某大德提供，三寶弟子提供新式標點</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="1999-10-12T10:16:31">CW (ed.) Created initial TEI XML version with BASICX.BAT (99/10/12)</change>
+<!--
+$Log: T17n0771.xml,v $
+Revision 1.12  2012/08/27 03:15:12  maha
+修訂新標小圓點及著重號
+
+Revision 1.11  2009/04/23 07:59:26  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.10  2009/02/26 10:34:15  saywhat
+id="pTp => id="pT17p
+
+Revision 1.9  2007/12/11 13:48:43  saywhat
+新式標點版
+
+Revision 1.8  2006/04/12 21:55:19  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2004/10/12 16:02:55  saywhat
+段落前加入圈點
+
+Revision 1.5  2004/07/04 12:32:03  saywhat
+<trailer> → <juan fun="close"><jhead>
+<div type="w"> 改用 <mulu type="附文">
+
+Revision 1.4  2004/05/11 14:39:03  saywhat
+修訂經號的<head> → <head type="no">
+
+Revision 1.3  2004/04/20 08:38:28  maha
+「版本日期」標記修訂
+
+Revision 1.2  2003/06/23 06:10:29  saywhat
+[＊]校勘插入XML
+
+Revision 1.1.1.1  2003/05/05 04:09:02  ray
+recover cvs
+
+Revision 1.14  2002/12/05 06:38:00  saywhat
+校勘插入處理
+
+Revision 1.13  2002/11/04 10:43:48  ray
+tei.2 => TEI.2
+
+Revision 1.12  2002/10/07 13:08:38  moved
+modified
+
+Revision 1.11  2002/07/29 09:55:35  vinking
+modified lang
+
+Revision 1.10  2002/04/04 09:05:00  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.9  2001/07/27 07:12:13  ray
+去除多餘的 <author>
+
+Revision 1.8  2001/07/24 06:52:01  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.7  2001/05/25 08:57:27  ray
+經號統一為四碼
+
+Revision 1.6  2001/03/25 09:07:22  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 06:52:25  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 07:42:04  chris
+Added keywords $Revision: 1.12 $, $Date: 2012/08/27 03:15:12 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0707c14" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0707c15" ed="T"/>
+<lb n="0707c16" ed="T"/><cb:docNumber>No. 771</cb:docNumber>
+<lb n="0707c17" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><title>四品學法<note n="0707018" resp="Taisho" type="orig" place="foot text">經＝一卷【宋】【元】【宮】＊，〔經〕－【明】＊</note><app n="0707018"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">一卷</rdg><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></title></cb:jhead></cb:juan>
+<lb n="0707c18" ed="T"/>
+<lb n="0707c19" ed="T"/><byline cb:type="Translator"><note n="0707019" resp="Taisho" type="orig" place="foot text">宋天竺三藏求那跋陀羅譯＝宋文帝代求那跋陀羅於楊都譯【宋】【元】【宮】，宋求那跋陀羅譯【明】</note><note n="0707019" resp="CBETA" type="mod">宋天竺三藏求那跋陀羅譯＝宋文帝代求那跋陀羅於楊都譯【宋】【元】【宮】，＝宋求那跋陀羅譯【明】</note><app n="0707019"><lem wit="【大】">宋天竺三藏求那跋陀羅譯</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">宋文帝代求那跋陀羅於楊都譯</rdg><rdg resp="Taisho" wit="【明】">宋求那跋陀羅譯</rdg></app></byline>
+<lb n="0707c20" ed="T"/><cb:div type="jing"><p xml:id="pT17p0707c2001">其有三德學，號真學，為上品；
+<lb n="0707c21" ed="T"/>其持具戒學，號承法，為中品；
+<lb n="0707c22" ed="T"/>其受卑戒學，號依福學，為下品；
+<lb n="0707c23" ed="T"/>其行三事，號散侍，為外品。</p>
+<lb n="0707c24" ed="T"/><p xml:id="pT17p0707c2401">又真學三德者，一曰、戒行備具；二曰、多知經
+<lb n="0707c25" ed="T"/>法；三曰、能化度人。是為三德，號真學者也。
+<lb n="0707c26" ed="T"/>又承法具戒者，<note n="0707020" resp="Taisho" type="orig" place="foot text">純＋（行）【三】【宮】</note><note n="0707020" resp="CBETA" type="mod">純＋（行）【宋】【元】【明】【宮】</note><app n="0707020"><lem wit="【大】">純</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">純行</rdg></app>五戒，信審罪福，奉承法教
+<lb n="0707c27" ed="T"/>也。又依福卑戒者，但持上四戒，不持酒戒，
+<lb n="0707c28" ed="T"/>隨世習俗，不變<note n="0707021" resp="Taisho" type="orig" place="foot text">欲＝俗【三】【聖】</note><note n="0707021" resp="CBETA" type="mod">欲＝俗【宋】【元】【明】【聖】</note><app n="0707021"><lem wit="【大】">欲</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">俗</rdg></app>事，是為依福學也。</p>
+<lb n="0707c29" ed="T"/><p xml:id="pT17p0707c2901"><note n="0707022" resp="Taisho" type="orig" place="foot text">又＋（有）【三】【宮】</note><note n="0707022" resp="CBETA" type="mod">又＋（有）【宋】【元】【明】【宮】</note><app n="0707022"><lem wit="【大】">又</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">又有</rdg></app>散侍三事，非戒也。何謂三？一者、身<note n="0707023" resp="Taisho" type="orig" place="foot text">歸＝所護【三】【宮】</note><note n="0707023" resp="CBETA" type="mod">歸＝所護【宋】【元】【明】【宮】</note><app n="0707023"><lem wit="【大】">歸</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">所護</rdg></app>法；
+<pb n="0708a" ed="T" xml:id="T17.0771.0708a"/>
+<lb n="0708a01" ed="T"/>二者、供養法；三、<note n="0708001" resp="Taisho" type="orig" place="foot text">名＝者【三】【宮】</note><note n="0708001" resp="CBETA" type="mod">名＝者【宋】【元】【明】【宮】</note><app n="0708001"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">者</rdg></app>於同學法。持自有<note n="0708002" resp="Taisho" type="orig" place="foot text">弓＝卷【三】【宮】</note><note n="0708002" resp="CBETA" type="mod">弓＝卷【宋】【元】【明】【宮】</note><app n="0708002"><lem wit="【大】">弓</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">卷</rdg></app>分
+<lb n="0708a02" ed="T"/>別，無師無所承，自然心好，無所拘礙，名散
+<lb n="0708a03" ed="T"/><note n="0708003" resp="Taisho" type="orig" place="foot text">侍＝特【宮】</note><app n="0708003"><lem wit="【大】">侍</lem><rdg resp="Taisho" wit="【宮】">特</rdg></app>法也。真學功德勝於承法學百倍也，承法
+<lb n="0708a04" ed="T"/>功德勝依福百倍也，依福功德百倍勝散侍
+<lb n="0708a05" ed="T"/>也，散侍功德勝凡俗百倍也。</p><p xml:id="pT17p0708a0512" rend="inline">凡俗之人或不
+<lb n="0708a06" ed="T"/>如畜生，畜生或勝於人。所以者何？人作罪，不
+<lb n="0708a07" ed="T"/>止入地獄，<note n="0708004" resp="Taisho" type="orig" place="foot text">（地獄）＋罪【三】【宮】</note><note n="0708004" resp="CBETA" type="mod">（地獄）＋罪【宋】【元】【明】【宮】</note><app n="0708004"><lem wit="【大】">罪</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">地獄罪</rdg></app>竟為餓鬼；餓鬼罪竟，轉為畜
+<lb n="0708a08" ed="T"/>生；畜生罪竟，乃還為人。畜生中皆畢罪，便
+<lb n="0708a09" ed="T"/>得為人。是故人當作善，奉行三尊之教，學上
+<lb n="0708a10" ed="T"/>四品之法，長離三惡道，展轉天上，下生人中
+<lb n="0708a11" ed="T"/>豪尊，世世受福，<note n="0708005" resp="Taisho" type="orig" place="foot text">德＝後【三】【宮】</note><note n="0708005" resp="CBETA" type="mod">德＝後【宋】【元】【明】【宮】</note><app n="0708005"><lem wit="【大】">德</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">後</rdg></app>長解脫。<note n="0708006" resp="Taisho" type="orig" place="foot text">脫下三本及宮本有若失乃至戒號四百十五字今附載卷末以宋元宮本對校明本</note></p></cb:div>
+<lb n="0708a12" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>四品學法<app type="star" corresp="#0707018"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">一卷</rdg><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></title></cb:jhead></cb:juan>
+<lb n="0708a13" ed="T"/><cb:div type="W"><p xml:id="pT17p0708a1301">若失威儀一事者，<note n="0708007" resp="Taisho" type="orig" place="foot text">常＝當【宋】【元】【宮】</note><app n="0708007"><lem wit="【大】">常</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">當</rdg></app>自學如法，應時自
+<lb n="0708a14" ed="T"/>赴誡誨即解。若懈怠不勤者，應退著下座，
+<lb n="0708a15" ed="T"/>後有功德乃更復之；若受語不用及犯戒
+<lb n="0708a16" ed="T"/>者，應便彈棄莫著眾中，恐敗餘人；若新受
+<lb n="0708a17" ed="T"/>法未滿三月者，其有所犯，先不應問也，未
+<lb n="0708a18" ed="T"/>習故也。若諸學者，承用此律，上下相檢，乃
+<lb n="0708a19" ed="T"/>可至竟，疾成大願。</p></cb:div>
+<lb n="0708a20" ed="T"/><cb:div type="W"><cb:mulu level="1" n="3" type="附文">散侍法</cb:mulu><head>散侍法</head>
+<lb n="0708a21" ed="T"/><p xml:id="pT17p0708a2101">問曰：「若有善男子，欲入正道，欲依大道而
+<lb n="0708a22" ed="T"/>不耐戒，當作何行以求福祥？」</p><p xml:id="pT17p0708a2212" rend="inline">師曰：「亦有
+<lb n="0708a23" ed="T"/>三事，名散侍法，好可奉。何謂三？一者、身所
+<lb n="0708a24" ed="T"/>護法，二者、供養法，三者、於同學法。行此
+<lb n="0708a25" ed="T"/>三事，即勝作凡俗時百倍也。</p><p xml:id="pT17p0708a2512" rend="inline">「又散侍身所
+<lb n="0708a26" ed="T"/>能法者云何？雖不持戒，當與凡俗小異；
+<lb n="0708a27" ed="T"/>遊居之處數就有經道之處，若見世俗所
+<lb n="0708a28" ed="T"/>行善者、法之惡者，莫用好言識也，醜語
+<lb n="0708a29" ed="T"/>勿名，是為散侍第一法。</p><p xml:id="pT17p0708a2910" rend="inline">「又散侍供養法者，
+<pb n="0708b" ed="T" xml:id="T17.0771.0708b"/>
+<lb n="0708b01" ed="T"/>云<note n="0708008" resp="Taisho" type="orig" place="foot text">〔何當…懈〕九字－【宮】</note><app n="0708008" cb:word-count="9"><lem wit="【大】">何當侍三寶？朝夕莫懈</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>，心常歸向，並
+<lb n="0708b02" ed="T"/>修經書。若居貧窮無用供養者，當加勤仂，
+<lb n="0708b03" ed="T"/>見人福躬親佐助，心代其歡，是為散侍第
+<lb n="0708b04" ed="T"/>二法。</p><p xml:id="pT17p0708b0403" rend="inline">「又散侍於同學法者云何？當敬愛其
+<lb n="0708b05" ed="T"/>輩無相憍慢，坐起念之，出入參之，如己觀
+<lb n="0708b06" ed="T"/>也；若行路者，近則相問，遠當待望，慎莫背
+<lb n="0708b07" ed="T"/>忽，是為散侍第三法。」</p><p xml:id="pT17p0708b0709" rend="inline">師曰：「行<note n="0708009" resp="Taisho" type="orig" place="foot text">者＝是【宋】【元】【宮】</note><app n="0708009"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">是</rdg></app>三事雖
+<lb n="0708b08" ed="T"/>未即度，猶如地多石多草，種雖不好故得
+<lb n="0708b09" ed="T"/>少少，以續其時，猶勝不種也。種業不廢，會
+<lb n="0708b10" ed="T"/>得好地，所種乃成，收歛有盈，斯亦然矣！行
+<lb n="0708b11" ed="T"/>之不休，福德扶持，會受真戒號。」</p></cb:div>
+</body></text></TEI>

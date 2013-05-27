@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T21n1305">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1305 北斗七星念誦儀軌</title>
+			<author>唐 金剛智譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $<date>$Date: 2009/04/23 08:01:46 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:46 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 21, No. 1305 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="sa-Sidd">Sanskrit-Siddam</language>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-31T09:31:37">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T21n1305.xml,v $
+Revision 1.8  2009/04/23 08:01:46  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2006/04/12 21:55:57  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.5  2004/11/14 03:17:27  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.4  2004/10/22 04:03:44  saywhat
+段落前加入圈點
+
+Revision 1.3  2004/09/09 09:30:24  saywhat
+刪除空的 juan close
+
+Revision 1.2  2004/04/20 08:39:14  maha
+「版本日期」標記修訂
+
+Revision 1.1.1.1  2003/05/05 04:09:30  ray
+recover cvs
+
+Revision 1.16  2002/11/28 10:06:39  saywhat
+校勘插入處理
+
+Revision 1.15  2002/11/04 10:46:14  ray
+tei.2 => TEI.2
+
+Revision 1.14  2002/10/07 13:13:03  moved
+modified
+
+Revision 1.13  2002/07/29 09:57:22  vinking
+modified lang
+
+Revision 1.12  2002/04/08 09:07:15  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.11  2001/07/24 06:53:46  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.10  2001/05/29 02:37:52  ray
+悉漢行行對照, 兩行行號都標
+
+Revision 1.9  2001/03/30 05:57:37  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.8  2001/03/25 09:18:39  ray
+add <milestone>
+
+Revision 1.7  2001/02/07 06:57:44  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.6  2001/02/03 07:47:36  chris
+Added keywords $Revision: 1.8 $, $Date: 2009/04/23 08:01:46 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0423c13" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0423c14" ed="T"/>
+<lb n="0423c15" ed="T"/><cb:docNumber>No. 1305</cb:docNumber>
+<lb n="0423c16" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><note n="0423061" resp="Taisho" place="foot text" type="orig">【原】享保年間刊豐山大學藏本，【甲】久安五年寫東寺三密藏本，【乙】天永四年寫高野山寶壽院藏本</note><cb:jhead>北斗七星念誦儀軌</cb:jhead></cb:juan>
+<lb n="0423c17" ed="T"/>
+<lb n="0423c18" ed="T"/><byline cb:type="Translator">南天竺國三藏金剛智譯</byline>
+<lb n="0423c19" ed="T"/><cb:div type="jing"><p xml:id="pT21p0423c1901">爾時如來為末<note n="0423062" resp="Taisho" place="foot text" type="orig">世＝在【甲】＊</note><app n="0423062"><lem wit="【大】">世</lem><rdg resp="Taisho" wit="【甲】">在</rdg></app>薄福一切眾生故。說真言
+<lb n="0423c20" ed="T"/>教法。時一切日月星宿。皆悉雲集前後圍繞。
+<lb n="0423c21" ed="T"/>異口同音<note n="0423063" resp="Taisho" place="foot text" type="orig">〔白言〕－【甲】【乙】</note><app n="0423063"><lem wit="【大】">白言</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>。唯願如來<note n="0423064" resp="Taisho" place="foot text" type="orig">〔而為〕－【甲】【乙】</note><app n="0423064"><lem wit="【大】">而為</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>我等說<note n="0423065" resp="Taisho" place="foot text" type="orig">〔於〕－【甲】【乙】</note><app n="0423065"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>
+<lb n="0423c22" ed="T"/>神呪。于時<anchor xml:id="fxT21p0423c01"/>世尊說八星呪曰。</p>
+<pb n="0424a" xml:id="T21.1305.0424a" ed="T"/>
+<lb n="0424a01" ed="T"/><p xml:id="pT21p0424a0101" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><note n="0424001" resp="Taisho" place="foot text" type="orig">甲乙二本梵字闕</note><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh">唵</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">颯</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CEE4"/></cb:t><cb:t xml:lang="zh"><note n="0424002" resp="Taisho" place="foot text" type="orig">跢＋（曩）【甲】【乙】</note><app n="0424002"><lem wit="【大】">跢</lem><rdg resp="Taisho" wit="【甲】【乙】">跢曩</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4B8"/></cb:t><cb:t xml:lang="zh">而</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh">野</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5D9"/></cb:t><cb:t xml:lang="zh"><note n="0424003" resp="Taisho" place="foot text" type="orig">伴＝半【甲】</note><app n="0424003"><lem wit="【大】">伴</lem><rdg resp="Taisho" wit="【甲】">半</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B5ED"/></cb:t><cb:t xml:lang="zh">惹</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A658"/></cb:t><cb:t xml:lang="zh">密</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4B6"/></cb:t><cb:t xml:lang="zh">惹</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh">野</cb:t></cb:tt>
+<lb n="0424a02" ed="T"/>
+<lb n="0424a03" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4C0"/></cb:t><cb:t xml:lang="zh">染</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E042"/></cb:t><cb:t xml:lang="zh">普</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A563"/></cb:t><cb:t xml:lang="zh">他</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">摩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B064"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E7"/></cb:t><cb:t xml:lang="zh">弭</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">囉</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6BE"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>乞山</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0424a04" ed="T"/>
+<lb n="0424a05" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5D9"/></cb:t><cb:t xml:lang="zh">婆</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A55B"/></cb:t><cb:t xml:lang="zh">都</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA49"/></cb:t><cb:t xml:lang="zh">莎</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh">呵</cb:t></cb:tt></p>
+<lb n="0424a06" ed="T"/>
+<lb n="0424a07" ed="T"/><p xml:id="pT21p0424a0701">其印<note n="0424004" resp="Taisho" place="foot text" type="orig">明＝相【甲】【乙】</note><app n="0424004"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】【乙】">相</rdg></app>出金剛頂經<note n="0424005" resp="Taisho" place="foot text" type="orig">七＝八【甲】</note><app n="0424005"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【甲】">八</rdg></app>星<note n="0424006" resp="Taisho" place="foot text" type="orig">品＋（勿妄宣傳為極祕密）【甲】，（口云曼殊八葉）【乙】</note><app n="0424006"><lem wit="【大】">品</lem><rdg resp="Taisho" wit="【甲】">品勿妄宣傳為極祕密</rdg><rdg resp="Taisho" wit="【乙】">品口云曼殊八葉</rdg></app>。</p>
+<lb n="0424a08" ed="T"/><p xml:id="pT21p0424a0801">佛告貪狼破軍<note n="0424007" resp="Taisho" place="foot text" type="orig">等言＝星等【甲】</note><app n="0424007"><lem wit="【大】">等言</lem><rdg resp="Taisho" wit="【甲】">星等</rdg></app>。若有善男子善女人。受
+<lb n="0424a09" ed="T"/>持<note n="0424008" resp="Taisho" place="foot text" type="orig">是＝此【甲】</note><app n="0424008"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】">此</rdg></app>神<note n="0424009" resp="Taisho" place="foot text" type="orig">呪＋（者）【甲】</note><app n="0424009"><lem wit="【大】">呪</lem><rdg resp="Taisho" wit="【甲】">呪者</rdg></app>擁護否。于時八<note n="0424010" resp="Taisho" place="foot text" type="orig">女＝星【甲】</note><app n="0424010"><lem wit="【大】">女</lem><rdg resp="Taisho" wit="【甲】">星</rdg></app>白世尊言。若
+<lb n="0424a10" ed="T"/>有人每日誦此神<note n="0424011" resp="Taisho" place="foot text" type="orig">呪＋（汝等）ィ【原】，（三七遍）【甲】</note><app n="0424011"><lem wit="【大】">呪</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">呪汝等</rdg><rdg resp="Taisho" wit="【甲】">呪三七遍</rdg></app>。決定罪<note n="0424012" resp="Taisho" place="foot text" type="orig">業＋（障）【甲】【乙】</note><app n="0424012"><lem wit="【大】">業</lem><rdg resp="Taisho" wit="【甲】【乙】">業障</rdg></app>皆悉除滅。
+<lb n="0424a11" ed="T"/>成就一切願求。<note n="0424013" resp="Taisho" place="foot text" type="orig">設＝若【甲】</note><app n="0424013"><lem wit="【大】">設</lem><rdg resp="Taisho" wit="【甲】">若</rdg></app>復有人。若能每日誦此神
+<lb n="0424a12" ed="T"/>呪一<note n="0424014" resp="Taisho" place="foot text" type="orig">〔百八〕－【甲】【乙】</note><app n="0424014"><lem wit="【大】">百八</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app><note n="0424015" resp="Taisho" place="foot text" type="orig">遍＝切【乙】</note><app n="0424015"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【乙】">切</rdg></app>。即得自身及一切眷屬擁護。
+<lb n="0424a13" ed="T"/>若能誦五百遍。大威神<note n="0424016" resp="Taisho" place="foot text" type="orig">力＋（手）ィ【原】</note><app n="0424016"><lem wit="【大】">力</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">力手</rdg></app>。五百由旬內。普
+<lb n="0424a14" ed="T"/>皆圍繞。一切魔王及<note n="0424017" resp="Taisho" place="foot text" type="orig">諸＝法【甲】</note><app n="0424017"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【甲】">法</rdg></app>魔<note n="0424018" resp="Taisho" place="foot text" type="orig">〔眾〕－【甲】【乙】</note><app n="0424018"><lem wit="【大】">眾</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>。一切障者無
+<lb n="0424a15" ed="T"/>量惡<note n="0424019" resp="Taisho" place="foot text" type="orig">鬼＋（神）【甲】</note><app n="0424019"><lem wit="【大】">鬼</lem><rdg resp="Taisho" wit="【甲】">鬼神</rdg></app>。不敢親近。常當擁護。北斗八女一
+<lb n="0424a16" ed="T"/>切日月星宿諸天龍藥叉。能作障難者一時
+<lb n="0424a17" ed="T"/>斷壞。<note n="0424020" resp="Taisho" place="foot text" type="orig">若＋（有）【甲】【乙】</note><app n="0424020"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【甲】【乙】">若有</rdg></app>人欲供養者。先發拔濟心。於清淨
+<lb n="0424a18" ed="T"/><note n="0424021" resp="Taisho" place="foot text" type="orig">〔寂〕－【甲】，〔寂靜〕－【乙】</note><note n="0424021" resp="CBETA" type="mod">〔寂靜〕－【乙】，〔寂〕－【甲】</note><app n="0424021"><lem wit="【大】">寂靜</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【甲】">靜</rdg></app>之處。以香華飲食供養。持念神呪結印
+<lb n="0424a19" ed="T"/>契。如是供<note n="0424022" resp="Taisho" place="foot text" type="orig">〔養〕－【乙】</note><app n="0424022"><lem wit="【大】">養</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>時。<note n="0424023" resp="Taisho" place="foot text" type="orig">（北斗）＋八【甲】</note><app n="0424023"><lem wit="【大】">八</lem><rdg resp="Taisho" wit="【甲】">北斗八</rdg></app>女及一切眷屬。現身隨
+<lb n="0424a20" ed="T"/>意奉仕。成就無量願求。<note n="0424024" resp="Taisho" place="foot text" type="orig">惹位＝羅惹即王位ィ【原】，若求惹位【甲】，若惹位【乙】</note><note n="0424024" resp="CBETA" type="mod">惹位＝羅惹即王位ィ【原】，＝若求惹位【甲】，＝若惹位【乙】</note><app n="0424024"><lem wit="【大】">惹位</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">羅惹即王位</rdg><rdg resp="Taisho" wit="【甲】">若求惹位</rdg><rdg resp="Taisho" wit="【乙】">若惹位</rdg></app>即得。何況世
+<lb n="0424a21" ed="T"/>間少<note n="0424025" resp="Taisho" place="foot text" type="orig">少＝小【乙】</note><app n="0424025"><lem wit="【大】">少</lem><rdg resp="Taisho" wit="【乙】">小</rdg></app>官位榮耀。若求壽<note n="0424026" resp="Taisho" place="foot text" type="orig">命＋（者）【甲】</note><app n="0424026"><lem wit="【大】">命</lem><rdg resp="Taisho" wit="【甲】">命者</rdg></app>削定業籍。還
+<lb n="0424a22" ed="T"/>付生籍。若諸國王王子大臣後宮等。於自<note n="0424027" resp="Taisho" place="foot text" type="orig">宮＝官【甲】</note><app n="0424027"><lem wit="【大】">宮</lem><rdg resp="Taisho" wit="【甲】">官</rdg></app>
+<lb n="0424a23" ed="T"/>中作曼荼<note n="0424028" resp="Taisho" place="foot text" type="orig">羅＝利【甲】</note><app n="0424028"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】">利</rdg></app>。如法護摩禮拜供養。北斗八女
+<lb n="0424a24" ed="T"/>皆大歡喜。故久居勝位恒常受安樂。百官上
+<lb n="0424a25" ed="T"/>下和穆不行非法。人民熾盛稼穡豐饒。國土
+<lb n="0424a26" ed="T"/>安寧無有災難不現異怪。疫病死亡不起。境
+<lb n="0424a27" ed="T"/>內怨敵群賊自然退散。<note n="0424029" resp="Taisho" place="foot text" type="orig">〔故〕－【甲】</note><app n="0424029"><lem wit="【大】">故</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>以是法甚為祕密。
+<lb n="0424a28" ed="T"/>不信者及無智人中勿妄宣傳。無智人不分
+<lb n="0424a29" ed="T"/>明心故。不得法意生疑謗。雖無智<note n="0424030" resp="Taisho" place="foot text" type="orig">〔人〕－【甲】【乙】</note><app n="0424030"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>金剛生
+<pb n="0424b" xml:id="T21.1305.0424b" ed="T"/>
+<lb n="0424b01" ed="T"/>金剛子等。常誦持佛<note n="0424031" resp="Taisho" place="foot text" type="orig">〔眼〕－【甲】</note><app n="0424031"><lem wit="【大】">眼</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>母明者當宣傳。金
+<lb n="0424b02" ed="T"/>剛子雖無智不生疑謗故成就法。行者雖樂
+<lb n="0424b03" ed="T"/>世間樂。深迴向無上正等菩<note n="0424032" resp="Taisho" place="foot text" type="orig">提＋（北斗七星念誦法略半）【甲】</note><app n="0424032"><lem wit="【大】">提</lem><rdg resp="Taisho" wit="【甲】">提北斗七星念誦法略半</rdg></app><note n="0424033" resp="Taisho" place="foot text" type="orig">此下甲本奧書云一校了久安五年七月一日書了賢覺，乙本奧書云以高野後僧正御持本展轉書了天永四年二月一日於性德院書之僧念範之本（朱）同日入寺御房奉受了</note>。</p></cb:div>
+</body></text></TEI>

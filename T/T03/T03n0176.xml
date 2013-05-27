@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T03n0176">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0176 師子月佛本生經</title>
+			<author>失譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.12 $<date>$Date: 2012/08/27 03:14:03 $</date>新式標點版</edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/08/27 03:14:03 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 3, No. 176 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by Anonymous, USA, Punctuated text as provided by Jasmine</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，北美某大德提供，Jasmine 提供新式標點</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="1999-08-10T22:41:27">CW (ed.) Created initial TEI XML version with BASICX.BAT (99/8/10)</change>
+<!--
+$Log: T03n0176.xml,v $
+Revision 1.12  2012/08/27 03:14:03  maha
+修訂新標小圓點及著重號
+
+Revision 1.11  2009/04/23 07:55:58  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.10  2007/12/08 15:31:42  saywhat
+新式標點版
+
+Revision 1.9  2007/09/24 02:26:28  saywhat
+TK修訂：p0444c14[彌>獼],p0445c25[悔>愧],p0444b22[時>諸]
+
+Revision 1.8  2006/04/12 21:54:14  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2004/11/14 03:16:57  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.5  2004/10/09 11:12:41  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/04/20 08:36:58  maha
+「版本日期」標記修訂
+
+Revision 1.3  2003/06/19 03:42:29  eva
+modified: 插入星號校勘
+
+Revision 1.2  2003/05/05 06:13:56  eva
+modified
+
+Revision 1.19  2002/12/25 06:38:21  eva
+modified
+
+Revision 1.18  2002/12/05 09:53:02  eva
+modified
+
+Revision 1.17  2002/11/14 12:26:04  eva
+modified
+
+Revision 1.15  2002/11/04 10:32:16  ray
+tei.2 => TEI.2
+
+Revision 1.14  2002/10/07 13:05:28  moved
+modified
+
+Revision 1.13  2002/07/29 09:43:53  vinking
+modified lang
+
+Revision 1.12  2002/04/03 06:04:39  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.11  2001/07/24 06:47:43  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.10  2001/05/25 08:42:49  ray
+經號統一為四碼
+
+Revision 1.9  2001/03/30 03:38:31  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.8  2001/03/25 08:02:39  ray
+add milestone
+
+Revision 1.7  2001/02/07 06:40:59  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.6  2001/02/03 07:29:44  chris
+Added keywords $Revision: 1.12 $, $Date: 2012/08/27 03:14:03 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0443c17" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0443c18" ed="T"/><cb:docNumber>No. 176</cb:docNumber>
+<lb n="0443c19" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead>佛說師子月佛本生經</cb:jhead></cb:juan>
+<lb n="0443c20" ed="T"/>
+<lb n="0443c21" ed="T"/><byline cb:type="Translator"><note n="0443007" resp="Taisho" type="orig" place="foot text">新為…錄＝新為失譯【宋】，新附三秦錄失譯師名【元】【明】</note><note n="0443007" resp="CBETA" type="mod">新為…錄＝新為失譯【宋】，＝新附三秦錄失譯師名【元】【明】</note><app n="0443007" cb:word-count="10"><lem wit="【大】">新為失譯人名附三秦錄</lem><rdg resp="Taisho" wit="【宋】">新為失譯</rdg><rdg resp="Taisho" wit="【元】【明】">新附三秦錄失譯師名</rdg></app></byline>
+<lb n="0443c22" ed="T"/><cb:div type="jing"><p xml:id="pT03p0443c2201">如是我聞：</p><p xml:id="pT03p0443c2205" rend="inline">一時，佛住王舍城迦蘭陀竹園，與
+<lb n="0443c23" ed="T"/>千二百五十比丘百菩薩俱。</p><p xml:id="pT03p0443c2312" rend="inline">爾時，眾中有一
+<lb n="0443c24" ed="T"/>菩薩比丘，名婆須蜜多，遊竹園間緣樹上下，
+<lb n="0443c25" ed="T"/>聲如猨猴，或<note n="0443008" resp="Taisho" type="orig" place="foot text">捉＝旋【聖】</note><app n="0443008"><lem wit="【大】">捉</lem><rdg resp="Taisho" wit="【聖】">旋</rdg></app>三鈴作那羅戲。時，諸長者
+<lb n="0443c26" ed="T"/>及行路人競集看之，眾人集時，身到空中，跳
+<lb n="0443c27" ed="T"/>上樹端作<note n="0443009" resp="Taisho" type="orig" place="foot text">獼＝猨【三】</note><note n="0443009" resp="CBETA" type="mod">獼＝猨【宋】【元】【明】</note><app n="0443009"><lem wit="【大】">獼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">猨</rdg></app>猴聲。耆闍崛山八萬四千金色
+<lb n="0443c28" ed="T"/>獼猴集菩薩所，菩薩復作種種變現令其歡
+<lb n="0443c29" ed="T"/>喜。時，諸大眾各作是言：「沙門釋子猶如戲兒，
+<pb n="0444a" ed="T" xml:id="T03.0176.0444a"/>
+<lb n="0444a01" ed="T"/>幻惑眾人，所行惡事無人信用，乃與鳥獸作
+<lb n="0444a02" ed="T"/>於非法。」如是惡聲遍王舍城。</p><p xml:id="pT03p0444a0212" rend="inline">有一梵志，上
+<lb n="0444a03" ed="T"/>啟大王頻婆娑羅，白言大王：「沙門釋子作諸
+<lb n="0444a04" ed="T"/>非法，乃與鳥獸作那羅戲。」王聞此語，嫌諸釋
+<lb n="0444a05" ed="T"/>子，即敕長者迦蘭陀曰：「此諸釋子多聚獼猴，
+<lb n="0444a06" ed="T"/>在卿園中為作何等？如來知不？」長者啟王：
+<lb n="0444a07" ed="T"/>「婆須蜜多作變化事，令諸獼猴一切歡喜，諸
+<lb n="0444a08" ed="T"/>天雨<note n="0444001" resp="Taisho" type="orig" place="foot text">花＝等【宋】【元】</note><app n="0444001"><lem wit="【大】">花</lem><rdg resp="Taisho" wit="【宋】【元】">等</rdg></app>持用供養，為作何等，臣所不知。」</p><p xml:id="pT03p0444a0816" rend="inline">爾
+<lb n="0444a09" ed="T"/>時，大王頻婆娑羅，駕乘名象，<note n="0444002" resp="Taisho" type="orig" place="foot text">（與諸大眾）＋前【三】</note><note n="0444002" resp="CBETA" type="mod">（與諸大眾）＋前【宋】【元】【明】</note><app n="0444002"><lem wit="【大】">前</lem><rdg resp="Taisho" wit="【宋】【元】【明】">與諸大眾前</rdg></app>後導從往詣
+<lb n="0444a10" ed="T"/>佛所。到迦蘭陀竹園，即便下象，遙見世尊在
+<lb n="0444a11" ed="T"/>重閣上，身紫金色方身丈六坐七寶花，三
+<lb n="0444a12" ed="T"/>十二相八十種好，皆放光明如紫金山；處炎
+<lb n="0444a13" ed="T"/>火中金光圍繞，普令大眾同於金色，尊者婆
+<lb n="0444a14" ed="T"/>須蜜多，及八萬四千獼猴亦作金色。</p><p xml:id="pT03p0444a1415" rend="inline">時，諸獼
+<lb n="0444a15" ed="T"/>猴見大王來，或歌、或舞、擊鼓、吹貝作種種變。
+<lb n="0444a16" ed="T"/>中有採花奉上王者，大王見已，與諸大眾俱
+<lb n="0444a17" ed="T"/>至佛所，為佛作禮右繞三匝，却坐一面，白佛
+<lb n="0444a18" ed="T"/>言：「世尊！此諸獼猴宿有何福身作金色？復
+<lb n="0444a19" ed="T"/>有何罪生畜生中？尊者婆須蜜多，復宿<note n="0444003" resp="Taisho" type="orig" place="foot text">殖＝植【三】</note><note n="0444003" resp="CBETA" type="mod">殖＝植【宋】【元】【明】</note><app n="0444003"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【宋】【元】【明】">植</rdg></app>何
+<lb n="0444a20" ed="T"/>福，生長者家，信家非家出家學道？復有何
+<lb n="0444a21" ed="T"/>罪，雖生人中，諸根具足<note n="0444004" resp="Taisho" type="orig" place="foot text">不＝受【三】</note><note n="0444004" resp="CBETA" type="mod">不＝受【宋】【元】【明】</note><app n="0444004"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【宋】【元】【明】">受</rdg></app>持戒行，與諸獼
+<lb n="0444a22" ed="T"/>猴共為伴侶。歌語之聲<note n="0444005" resp="Taisho" type="orig" place="foot text">悉＝聞【三】</note><note n="0444005" resp="CBETA" type="mod">悉＝聞【宋】【元】【明】</note><app n="0444005"><lem wit="【大】">悉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">聞</rdg></app>如獼猴，使諸外道
+<lb n="0444a23" ed="T"/>戲笑我等？<note n="0444006" resp="Taisho" type="orig" place="foot text">唯＝惟【三】＊</note><note n="0444006" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->唯＝惟【宋】＊【元】＊【明】＊</note><app n="0444006"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【明】">惟</rdg></app>願天尊，慈哀我等，分別演說
+<lb n="0444a24" ed="T"/>令<note n="0444007" resp="Taisho" type="orig" place="foot text">得＝我【聖】</note><app n="0444007"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【聖】">我</rdg></app>開解。」</p><p xml:id="pT03p0444a2405" rend="inline">佛告大王：「諦聽，諦聽！善思<note n="0444008" resp="Taisho" type="orig" place="foot text">念＝為【宋】【元】，惟【明】</note><note n="0444008" resp="CBETA" type="mod">念＝為【宋】【元】，＝惟【明】</note><app n="0444008"><lem wit="【大】">念</lem><rdg resp="Taisho" wit="【宋】【元】">為</rdg><rdg resp="Taisho" wit="【明】">惟</rdg></app>之！
+<lb n="0444a25" ed="T"/>吾當為汝分別解說。乃往過去無量億劫，過
+<lb n="0444a26" ed="T"/>是之前有佛出世，名曰然燈，十號具足。彼
+<lb n="0444a27" ed="T"/>佛滅後，有諸比丘，於山澤中修行佛法，具阿
+<lb n="0444a28" ed="T"/>練若十二頭陀，堅持禁戒如人護眼，因是即
+<lb n="0444a29" ed="T"/>得阿羅漢道，三明、六通、具八解脫。時空澤中
+<pb n="0444b" ed="T" xml:id="T03.0176.0444b"/>
+<lb n="0444b01" ed="T"/>有一獼猴，至羅漢所，見於羅漢坐禪入定，
+<lb n="0444b02" ed="T"/>即取羅漢坐具，<note n="0444009" resp="Taisho" type="orig" place="foot text">披＝被【三】</note><note n="0444009" resp="CBETA" type="mod">披＝被【宋】【元】【明】</note><app n="0444009"><lem wit="【大】">披</lem><rdg resp="Taisho" wit="【宋】【元】【明】">被</rdg></app>作袈裟，如沙門法偏袒右
+<lb n="0444b03" ed="T"/>肩，手擎香爐繞比丘行。時，彼比丘從禪定覺，
+<lb n="0444b04" ed="T"/>見此獼猴有好善心，即為彈指告獼猴言：『法
+<lb n="0444b05" ed="T"/>子！汝今應發無上道心。』獼猴聞說，歡喜踊躍，
+<lb n="0444b06" ed="T"/>五體投地，敬禮比丘，起復採花散比丘上。</p><p xml:id="pT03p0444b0617" rend="inline">「爾
+<lb n="0444b07" ed="T"/>時，比丘即為獼猴說三歸依，告言：『法子！汝
+<lb n="0444b08" ed="T"/>今隨學三世佛法，應當求請受三歸依，及以
+<lb n="0444b09" ed="T"/>五戒。』爾時，獼猴即起，合掌白言：『大德！憶念
+<lb n="0444b10" ed="T"/>我今欲歸依佛、法、僧。』比丘告言：『汝當歸依佛、
+<lb n="0444b11" ed="T"/>歸依法、歸依僧。』第二、第三亦如是說：『歸依佛
+<lb n="0444b12" ed="T"/>竟、歸依法竟、歸依僧竟。』第二、第三亦如是說：
+<lb n="0444b13" ed="T"/>『次當懺悔。』告獼猴言：『汝於前身無量劫來，
+<lb n="0444b14" ed="T"/>貪欲、瞋恚、愚癡、邪見、嫉妬、憍慢、誹謗、破戒，作
+<lb n="0444b15" ed="T"/>諸惡事滿足十惡。作五逆罪謗方等經、婬比
+<lb n="0444b16" ed="T"/>丘尼、偷僧祇物、作眾重罪無量無邊，我今
+<lb n="0444b17" ed="T"/>生分已盡，不受後有。大阿羅漢能除眾生無
+<lb n="0444b18" ed="T"/>量重罪。所以者何？我初生時與大悲俱生，
+<lb n="0444b19" ed="T"/>三世賢聖法皆如是，亦與大悲俱共生世。』如
+<lb n="0444b20" ed="T"/>是慇懃，三為獼猴說出罪懺悔。既懺悔已，告
+<lb n="0444b21" ed="T"/>獼猴言：『法子！汝今清淨是名<note n="0444010" resp="Taisho" type="orig" place="foot text">布＝菩【三】【聖】</note><note n="0444010" resp="CBETA" type="mod">布＝菩【宋】【元】【明】【聖】</note><app n="0444010"><lem wit="【大】">布</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">菩</rdg></app>薩，汝從今
+<lb n="0444b22" ed="T"/>日至盡形壽，受不殺戒。三世諸佛<app><lem resp="CBETA.maha" wit="【CBETA】【麗】">諸<note type="cf1">K14n0502_p0021a04</note></lem><rdg wit="【大】">時</rdg></app>阿羅漢，
+<lb n="0444b23" ed="T"/>永不殺生，身口意淨，汝亦如是。』</p><p xml:id="pT03p0444b2313" rend="inline">「爾時，獼猴白
+<lb n="0444b24" ed="T"/>羅漢言：『我願作佛，隨大德語，從於今日乃
+<lb n="0444b25" ed="T"/>至成佛，終不殺生。』是時，羅漢聞獼猴語，身心
+<lb n="0444b26" ed="T"/>歡喜即授五戒：『法子！汝從今日至盡形壽，隨
+<lb n="0444b27" ed="T"/>學佛法。三世諸佛、諸聲聞眾，身業清淨，常不
+<lb n="0444b28" ed="T"/>殺生，持不殺戒。汝亦如是，<note n="0444011" resp="Taisho" type="orig" place="foot text">〔至〕－【聖】</note><app n="0444011"><lem wit="【大】">至</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>盡形壽持不殺
+<lb n="0444b29" ed="T"/>戒，能受持不？』獼猴答言：『我能奉持。』次受不
+<pb n="0444c" ed="T" xml:id="T03.0176.0444c"/>
+<lb n="0444c01" ed="T"/>盜、不邪婬、不妄語、不飲酒，亦如上法。既受
+<lb n="0444c02" ed="T"/>戒已，時阿羅漢告言：『汝當發願，汝是畜生，
+<lb n="0444c03" ed="T"/>現身障道，但勤精進求阿耨多羅三藐三菩
+<lb n="0444c04" ed="T"/>提。』</p><p xml:id="pT03p0444c0402" rend="inline">「爾時，獼猴發願已竟，踊躍歡喜走上高山，
+<lb n="0444c05" ed="T"/>緣樹舞戲，墜地而死。由阿羅漢受五戒故，破
+<lb n="0444c06" ed="T"/>畜生業，命終即生兜率天上。值遇一生補處
+<lb n="0444c07" ed="T"/>菩薩，菩薩為說無上道心，即持天花下空澤
+<lb n="0444c08" ed="T"/>中供養羅漢。羅漢見之，即便微笑告言：『天王！
+<lb n="0444c09" ed="T"/>善惡之報，如影隨形，終不相捨。』時，阿羅漢而
+<lb n="0444c10" ed="T"/>說偈言：</p>
+<lb n="0444c11" ed="T"/><lg xml:id="lgT03p0444c1101" rend="margin-left:2em;text-indent:-2em"><l>「『業能莊嚴身，</l><l>處處隨<note n="0444012" resp="Taisho" type="orig" place="foot text">趣趣＝勝善【三】</note><note n="0444012" resp="CBETA" type="mod">趣趣＝勝善【宋】【元】【明】</note><app n="0444012"><lem wit="【大】">趣趣</lem><rdg resp="Taisho" wit="【宋】【元】【明】">勝善</rdg></app>，</l>
+<lb n="0444c12" ed="T"/><l>不失法如券，</l><l>業如負財人。</l>
+<lb n="0444c13" ed="T"/><l>汝今生天上，</l><l>由於五戒業，</l>
+<lb n="0444c14" ed="T"/><l>前身落<app><lem resp="CBETA.maha" wit="【CBETA】【麗】">獼<note type="cf1">K14n0502_p0021b04</note></lem><rdg wit="【大】">彌</rdg></app>猴，</l><l>從於犯戒<note n="0444013" resp="Taisho" type="orig" place="foot text">性＝生【三】【聖】</note><note n="0444013" resp="CBETA" type="mod">性＝生【宋】【元】【明】【聖】</note><app n="0444013"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">生</rdg></app>。</l>
+<lb n="0444c15" ed="T"/><l>持戒生天梯，</l><l>破戒為<note n="0444014" resp="Taisho" type="orig" place="foot text">濩＝鑊【三】</note><note n="0444014" resp="CBETA" type="mod">濩＝鑊【宋】【元】【明】</note><app n="0444014"><lem wit="【大】">濩</lem><rdg resp="Taisho" wit="【宋】【元】【明】">鑊</rdg></app>湯，</l>
+<lb n="0444c16" ed="T"/><l>我見持戒人，</l><l>光明莊嚴身。</l>
+<lb n="0444c17" ed="T"/><l>七寶妙臺閣，</l><l>諸天為給使，</l>
+<lb n="0444c18" ed="T"/><l>眾寶為床帳，</l><l>摩尼花瓔珞，</l>
+<lb n="0444c19" ed="T"/><l>值遇未來佛，</l><l>娛樂說勝法。</l>
+<lb n="0444c20" ed="T"/><l>我見破戒人，</l><l>墮在泥犁中，</l>
+<lb n="0444c21" ed="T"/><l>鐵犁耕其舌，</l><l>臥在鐵床上，</l>
+<lb n="0444c22" ed="T"/><l>融銅四面流，</l><l>燒煑壞其身；</l>
+<lb n="0444c23" ed="T"/><l>或處於刀山，</l><l>劍林及沸屎，</l>
+<lb n="0444c24" ed="T"/><l>灰河寒氷獄，</l><l>鐵丸飲融銅，</l>
+<lb n="0444c25" ed="T"/><l>如是等苦事，</l><l>常為身瓔珞。</l>
+<lb n="0444c26" ed="T"/><l>若欲脫眾難，</l><l>不墮三惡道，</l>
+<lb n="0444c27" ed="T"/><l>遊處天<note n="0444015" resp="Taisho" type="orig" place="foot text">人＝上【聖】</note><app n="0444015"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【聖】">上</rdg></app>路，</l><l>超越得涅槃，</l>
+<lb n="0444c28" ed="T"/><l>當勤持淨戒，</l><l>布施修淨命。』</l></lg>
+<lb n="0444c29" ed="T"/><p xml:id="pT03p0444c2901">「時，阿羅漢說此偈已，默然無聲。獼猴天子<note n="0444016" resp="Taisho" type="orig" place="foot text">言曰＝白言【三】【聖】</note><note n="0444016" resp="CBETA" type="mod">言曰＝白言【宋】【元】【明】【聖】</note><app n="0444016"><lem wit="【大】">言
+<pb n="0445a" ed="T" xml:id="T03.0176.0445a"/>
+<lb n="0445a01" ed="T"/>曰</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">白言</rdg></app>：『大德！我前身時，作何罪業生獼猴中？復
+<lb n="0445a02" ed="T"/>有何福，值遇大德，得免畜生，生於天上？』羅漢
+<lb n="0445a03" ed="T"/>答言：『汝今諦聽！善思念之！乃往過去，此閻
+<lb n="0445a04" ed="T"/>浮提有佛出世，名曰寶慧如來、應供、正遍知，
+<lb n="0445a05" ed="T"/>十號具足，出現於世。三種示現般涅槃後，
+<lb n="0445a06" ed="T"/>於像法中有一比丘，名蓮華藏，多與國王、長
+<lb n="0445a07" ed="T"/>者、居士而為親友。邪命諂曲不持戒行，身壞
+<lb n="0445a08" ed="T"/>命終以誑惑故，猶如壯士屈<note n="0445001" resp="Taisho" type="orig" place="foot text">申＝伸【元】【明】</note><app n="0445001"><lem wit="【大】">申</lem><rdg resp="Taisho" wit="【元】【明】">伸</rdg></app>臂頃，落於阿
+<lb n="0445a09" ed="T"/>鼻大地獄中；如蓮華敷，其身遍滿十八<note n="0445002" resp="Taisho" type="orig" place="foot text">鬲＝隔【宋】【元】＊</note><app n="0445002"><lem wit="【大】">鬲</lem><rdg resp="Taisho" wit="【宋】【元】">隔</rdg></app>
+<lb n="0445a10" ed="T"/>中。雨熱鐵丸從頂而入，百千猛火及熱鐵輪，
+<lb n="0445a11" ed="T"/>從空而下，無量無邊阿鼻地獄壽命一劫，劫
+<lb n="0445a12" ed="T"/>盡更生。如是經歷諸大地獄，滿八萬四千劫，
+<lb n="0445a13" ed="T"/>從地獄出墮餓鬼中，吞飲融銅噉熱鐵丸。經
+<lb n="0445a14" ed="T"/>八萬四千歲從餓鬼出，五百身中恒為牛身。
+<lb n="0445a15" ed="T"/>又五百身生<note n="0445003" resp="Taisho" type="orig" place="foot text">駱＝駝【三】</note><note n="0445003" resp="CBETA" type="mod">駱＝駝【宋】【元】【明】</note><app n="0445003"><lem wit="【大】">駱</lem><rdg resp="Taisho" wit="【宋】【元】【明】">駝</rdg></app>駝中、又五百身生於猪中、
+<lb n="0445a16" ed="T"/>又五百身生於狗中、又五百身生獼猴中，緣
+<lb n="0445a17" ed="T"/>前供養持戒比丘，結誓要重，今復遇我，沐浴
+<lb n="0445a18" ed="T"/>清化得生天上。持戒比丘即我身是，放逸比
+<lb n="0445a19" ed="T"/>丘即汝身是。』</p>
+<lb n="0445a20" ed="T"/><p xml:id="pT03p0445a2001">「爾時，獼猴天子聞此語已，心驚毛豎，懺悔前
+<lb n="0445a21" ed="T"/>罪即還天上。佛告大王：『彼獼猴者，雖是畜
+<lb n="0445a22" ed="T"/>生，一見羅漢受持三歸及以五戒，緣斯功德
+<lb n="0445a23" ed="T"/>超越千劫極重惡業，得生天上。值遇一生補
+<lb n="0445a24" ed="T"/>處菩薩，從是以後值佛無數，淨修梵行具六
+<lb n="0445a25" ed="T"/>波羅蜜，住首楞嚴三昧住不退地。於最後身
+<lb n="0445a26" ed="T"/>次彌勒後，當成阿耨多羅三藐三菩提，王名
+<lb n="0445a27" ed="T"/>寶光，國<note n="0445004" resp="Taisho" type="orig" place="foot text">土＝云【三】【聖】</note><note n="0445004" resp="CBETA" type="mod">土＝云【宋】【元】【明】【聖】</note><app n="0445004"><lem wit="【大】">土</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">云</rdg></app>清淨如忉利天。生彼國土諸眾生
+<lb n="0445a28" ed="T"/>等，皆行十善具戒無缺，佛號師子月如來、應
+<lb n="0445a29" ed="T"/>供、正遍知、明行足、善逝、世間解、無上士、調御丈
+<pb n="0445b" ed="T" xml:id="T03.0176.0445b"/>
+<lb n="0445b01" ed="T"/>夫、天人師、佛、世尊。若有眾生聞彼佛名，生生
+<lb n="0445b02" ed="T"/>之處，常得遠離畜生之身，除無量劫生死之
+<lb n="0445b03" ed="T"/>罪。』」</p><p xml:id="pT03p0445b0302" rend="inline">佛告大王：「欲知彼國師子月佛，今此會
+<lb n="0445b04" ed="T"/>中，婆須蜜多比丘是也。」時，頻婆娑羅聞此語
+<lb n="0445b05" ed="T"/>已，即起合掌遍體流汗，悲泣雨淚悔過自責，
+<lb n="0445b06" ed="T"/>向婆須蜜多頭面著地，接足為禮懺悔前罪。
+<lb n="0445b07" ed="T"/>佛告大王：「欲知此等八萬四千金色獼猴，乃
+<lb n="0445b08" ed="T"/>是過去拘樓秦佛時，波羅奈國、俱睒彌國，
+<lb n="0445b09" ed="T"/>二國之中共有八萬四千比丘尼，行諸非法，
+<lb n="0445b10" ed="T"/>與諸白衣通致信命，犯諸重禁莊飾身體，如
+<lb n="0445b11" ed="T"/>乾闥婆女無有慚愧，婬為瓔珞，諸犯戒事用
+<lb n="0445b12" ed="T"/>為花鬘，竪憍慢幢擊貢高鼓，彈放逸琴讚惡
+<lb n="0445b13" ed="T"/>聲歌，狂愚無智如癡獼猴，見好比丘善好有
+<lb n="0445b14" ed="T"/>德，視之如賊。</p><p xml:id="pT03p0445b1406" rend="inline">「爾時，彼世有一比丘尼名善安
+<lb n="0445b15" ed="T"/>隱，得阿羅漢，三明、六通，具八解脫，到諸比
+<lb n="0445b16" ed="T"/>丘尼所，告言：『姉妹！世尊在世常說此偈：</p>
+<lb n="0445b17" ed="T"/><lg xml:id="lgT03p0445b1701" rend="margin-left:3em;text-indent:-3em"><l>「『「若有比丘尼，</l><l>不修行八敬，</l>
+<lb n="0445b18" ed="T"/><l>此非釋種<note n="0445005" resp="Taisho" type="orig" place="foot text">女＝子【聖】</note><app n="0445005"><lem wit="【大】">女</lem><rdg resp="Taisho" wit="【聖】">子</rdg></app>，</l><l>猶如旃陀羅；</l>
+<lb n="0445b19" ed="T"/><l>若有比丘尼，</l><l>放逸犯八重，</l>
+<lb n="0445b20" ed="T"/><l>當知是一切，</l><l>天人中大賊，</l>
+<lb n="0445b21" ed="T"/><l>恒處阿鼻獄，</l><l>經由十八<app type="star" corresp="#0445002"><lem wit="【大】">鬲</lem><rdg resp="Taisho" wit="【宋】【元】">隔</rdg></app>，</l>
+<lb n="0445b22" ed="T"/><l>其餘三惡道，</l><l>為己園林處，</l>
+<lb n="0445b23" ed="T"/><l>百千無<note n="0445006" resp="Taisho" type="orig" place="foot text">量＝數【聖】</note><app n="0445006"><lem wit="【大】">量</lem><rdg resp="Taisho" wit="【聖】">數</rdg></app>劫，</l><l>不聞三寶名。</l>
+<lb n="0445b24" ed="T"/><l>亦噉燒鐵丸，</l><l>寒氷抱銅柱，</l>
+<lb n="0445b25" ed="T"/><l>如是罪畢已，</l><l>生於鳩鴿身，</l>
+<lb n="0445b26" ed="T"/><l>毒蛇與鼠狼，</l><l>蜈蚣百足等，</l>
+<lb n="0445b27" ed="T"/><l>如是諸雜類，</l><l>皆應經歷中。」』</l></lg>
+<lb n="0445b28" ed="T"/><p xml:id="pT03p0445b2801">「時，諸比丘尼聞阿羅漢比丘尼說此偈已，心
+<lb n="0445b29" ed="T"/>懷忿恨，罵詈惡言：『此老獼猴從何處來？惡言
+<pb n="0445c" ed="T" xml:id="T03.0176.0445c"/>
+<lb n="0445c01" ed="T"/>妄語，橫說地獄。』時，阿羅漢見諸惡人生不善
+<lb n="0445c02" ed="T"/>心，即起慈悲身，昇虛空作十八變。時諸惡人
+<lb n="0445c03" ed="T"/>見變化已，各脫金環散阿羅漢尼上：『願我生
+<lb n="0445c04" ed="T"/>生身作金色，前所作惡今悉懺悔。唯願慈哀
+<lb n="0445c05" ed="T"/>憐愍我等，受我供養。』時，彼阿羅漢比丘尼，即
+<lb n="0445c06" ed="T"/>從空下，受諸惡女種種供養。時諸惡人身壞
+<lb n="0445c07" ed="T"/>命終墮阿鼻獄，如蓮花敷遍滿獄中，亦復次
+<lb n="0445c08" ed="T"/>第經歷諸餘十八大獄。於諸獄中壽命正等
+<lb n="0445c09" ed="T"/>各一大劫，如是展轉九十二劫恒處地獄。從
+<lb n="0445c10" ed="T"/>地獄出，五百身中恒為餓鬼。從餓鬼出，一千
+<lb n="0445c11" ed="T"/>身中常為獼猴，身作金色。大王當知，爾時
+<lb n="0445c12" ed="T"/>八萬四千犯戒比丘尼罵羅漢者，今此會中
+<lb n="0445c13" ed="T"/>八萬四千諸金色獼猴是也；爾時供養諸惡
+<lb n="0445c14" ed="T"/>比丘尼者，今大王是。此諸獼猴因宿習故，持
+<lb n="0445c15" ed="T"/>花持香供養大王。爾時污彼比丘尼戒者，今
+<lb n="0445c16" ed="T"/>瞿迦梨及王五百黃門是。」佛告大王：「身口意
+<lb n="0445c17" ed="T"/>業不可不慎。」爾時，世尊而說偈言：</p>
+<lb n="0445c18" ed="T"/><lg xml:id="lgT03p0445c1801" rend="margin-left:1em;text-indent:-1em"><l>「戒為甘露<note n="0445007" resp="Taisho" type="orig" place="foot text">藥＝樂【元】</note><app n="0445007"><lem wit="【大】">藥</lem><rdg resp="Taisho" wit="【元】">樂</rdg></app>，</l><l>服者不老死，</l>
+<lb n="0445c19" ed="T"/><l>戒德可恃怙，</l><l>福報常隨己。</l>
+<lb n="0445c20" ed="T"/><l>持戒得安隱，</l><l>生處無患難，</l>
+<lb n="0445c21" ed="T"/><l>亦當見諸佛，</l><l>受法得解脫。</l>
+<lb n="0445c22" ed="T"/><l>破戒墮地獄，</l><l>猶如此獼猴，</l>
+<lb n="0445c23" ed="T"/><l>生處恒卑賤，</l><l>地獄苦切己，</l>
+<lb n="0445c24" ed="T"/><l>大王當諦<note n="0445008" resp="Taisho" type="orig" place="foot text">聽＝觀【三】</note><note n="0445008" resp="CBETA" type="mod">聽＝觀【宋】【元】【明】</note><app n="0445008"><lem wit="【大】">聽</lem><rdg resp="Taisho" wit="【宋】【元】【明】">觀</rdg></app>！</l><l>止惡修諸善。」</l></lg>
+<lb n="0445c25" ed="T"/><p xml:id="pT03p0445c2501">爾時，頻婆娑羅王聞說此偈，對佛懺悔慚<app><lem resp="CBETA.maha" wit="【CBETA】【麗】">愧<note type="cf1">K14n0502_p0022c15</note></lem><rdg wit="【大】">悔</rdg></app>
+<lb n="0445c26" ed="T"/>自責，豁然意解成阿那含。王所將眾八千人，
+<lb n="0445c27" ed="T"/>求王出家，王即聽許。佛言：「善來，比丘！」鬚髮自
+<lb n="0445c28" ed="T"/>落，袈裟著身，即成沙門。頂禮佛足，未舉頭頃
+<lb n="0445c29" ed="T"/>成阿羅漢，三明、六通，具八解脫。王所將餘眾
+<pb n="0446a" ed="T" xml:id="T03.0176.0446a"/>
+<lb n="0446a01" ed="T"/>一萬六千人，皆發阿耨多羅三藐三菩提心，
+<lb n="0446a02" ed="T"/>八萬諸天亦俱發心。八萬四千金色獼猴，聞
+<lb n="0446a03" ed="T"/>昔因緣慚愧自責，遶佛千匝向佛懺悔，各各
+<lb n="0446a04" ed="T"/>亦發無上菩提心，隨壽長短各自命終，命終
+<lb n="0446a05" ed="T"/>之後，當生兜率天值遇彌勒，<note n="0446001" resp="Taisho" type="orig" place="foot text">〔復〕－【聖】</note><app n="0446001"><lem wit="【大】">復</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>更增進得不
+<lb n="0446a06" ed="T"/>退轉。</p><p xml:id="pT03p0446a0603" rend="inline">爾時，尊者摩訶迦葉見此事已，告諸大
+<lb n="0446a07" ed="T"/>眾：「菩薩行淨乃令畜生發於道心，婆須蜜多
+<lb n="0446a08" ed="T"/>尚能如是大為佛事，況餘菩薩威德無量。」</p><p xml:id="pT03p0446a0817" rend="inline">時，
+<lb n="0446a09" ed="T"/>諸天子、山神、地神、天龍八部，見諸獼猴發菩
+<lb n="0446a10" ed="T"/>提心，當生天上得不退轉，心生歡喜，而白佛
+<lb n="0446a11" ed="T"/>言：「此諸獼猴幾時當得成佛？」</p><p xml:id="pT03p0446a1112" rend="inline">佛告大眾：「過
+<lb n="0446a12" ed="T"/>百萬億那由他阿僧祇恒河沙劫，劫名大光，
+<lb n="0446a13" ed="T"/>於彼劫中當得成佛。八萬四千佛次第出世，
+<lb n="0446a14" ed="T"/>同共一劫，皆名普金光明王如來、應供、正遍
+<lb n="0446a15" ed="T"/>知、明行足、善逝、世間解、無上士、調御丈夫、天人
+<lb n="0446a16" ed="T"/>師、佛、世尊。」</p><p xml:id="pT03p0446a1605" rend="inline">時會大眾，聞佛世尊為諸獼猴授
+<lb n="0446a17" ed="T"/>菩<note n="0446002" resp="Taisho" type="orig" place="foot text">提＝薩【聖】</note><app n="0446002"><lem wit="【大】">提</lem><rdg resp="Taisho" wit="【聖】">薩</rdg></app>記，即脫身上上妙瓔珞，供養如來及
+<lb n="0446a18" ed="T"/>比丘僧，異口同音讚歎世尊無量德行：「如來
+<lb n="0446a19" ed="T"/>出世，<note n="0446003" resp="Taisho" type="orig" place="foot text">（為）＋正【聖】</note><app n="0446003"><lem wit="【大】">正</lem><rdg resp="Taisho" wit="【聖】">為正</rdg></app>為此等諸獼猴類。善哉，世尊！獼猴
+<lb n="0446a20" ed="T"/>聞法尚得成佛，豈況我等於未來世不成佛
+<lb n="0446a21" ed="T"/>耶？」</p><p xml:id="pT03p0446a2102" rend="inline"><note n="0446004" resp="Taisho" type="orig" place="foot text">時會＝會時【聖】</note><app n="0446004"><lem wit="【大】">時會</lem><rdg resp="Taisho" wit="【聖】">會時</rdg></app>大眾聞佛所說，歡喜奉行，作禮而
+<lb n="0446a22" ed="T"/>退。</p>
+<lb n="0446a23" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛說師子月佛本生經</cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

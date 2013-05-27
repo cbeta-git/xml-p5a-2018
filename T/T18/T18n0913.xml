@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T18n0913">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0913 火𤙖供養儀軌</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $<date>$Date: 2009/04/23 07:59:47 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 07:59:47 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 18, No. 913 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="sa-Sidd">Sanskrit-Siddam</language>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-05T17:54:20">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T18n0913.xml,v $
+Revision 1.10  2009/04/23 07:59:47  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2006/04/12 21:55:30  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.7  2004/10/17 11:34:28  saywhat
+段落前加入圈點
+
+Revision 1.6  2004/04/20 08:38:40  maha
+「版本日期」標記修訂
+
+Revision 1.5  2004/04/20 03:25:23  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.4  2004/01/02 05:53:44  maha
+<note mod>裡的corr2app
+
+Revision 1.3  2003/06/26 02:50:40  saywhat
+<corr>→<app>
+
+Revision 1.2  2003/06/23 06:13:23  saywhat
+[＊]校勘插入XML
+
+Revision 1.1.1.1  2003/05/05 04:09:09  ray
+recover cvs
+
+Revision 1.32  2002/12/04 01:47:50  saywhat
+校勘插入處理
+
+Revision 1.31  2002/11/04 10:44:32  ray
+tei.2 => TEI.2
+
+Revision 1.30  2002/10/21 08:11:43  ray
+移動 <anchor>+<note>, <anchor>+雙圈
+
+Revision 1.29  2002/10/07 13:09:59  moved
+modified
+
+Revision 1.28  2002/07/29 09:45:01  vinking
+modified lang
+
+Revision 1.27  2002/07/22 05:59:09  saywhat
+try
+
+Revision 1.25  2002/07/09 07:48:12  saywhat
+anchor p0936a24 移位
+
+Revision 1.24  2002/04/08 08:58:27  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.23  2001/11/05 06:13:07  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.22  2001/08/03 03:14:24  saywhat
+<tt type="inline"> → <tt rend="inline">
+
+Revision 1.21  2001/07/27 06:37:26  ray
+add keyword $Revision, $Date, $Log
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0934c13" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0934c14" ed="T"/>
+<lb n="0934c15" ed="T"/><cb:docNumber>No. 913</cb:docNumber><cb:div type="jing">
+<lb n="0934c16" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0934011" resp="Taisho" place="foot text" type="orig">【原】豐山版，【甲】高山寺藏古寫本，【乙】應保二年寫東寺三密藏本，（金剛頂護摩瑜伽供養火天）ィ＋火【乙】</note><app n="0934011"><lem wit="【大】">火</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">金剛頂護摩瑜伽供養火天火</rdg></app><note n="0934011" type="rest" place="foot">【原】豐山版，【甲】高山寺藏古寫本，【乙】應保二年寫東寺三密藏本</note>𤙖<note n="0934012" resp="Taisho" place="foot text" type="orig">〔供養〕ィ－【乙】</note><app n="0934012"><lem wit="【大】">供養</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark"><space quantity="0"/></rdg></app>儀<note n="0934013" resp="Taisho" place="foot text" type="orig">軌＋（三藏善無畏）ィ【原】，（三藏善無畏）【乙】</note><app n="0934013"><lem wit="【大】">軌</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">軌三藏善無畏</rdg><rdg resp="Taisho" wit="【乙】">軌三藏善無畏</rdg></app></cb:jhead></cb:juan>
+<lb n="0934c17" ed="T"/>
+<lb n="0934c18" ed="T"/><p xml:id="pT18p0934c1801">夫欲修行陀羅尼法。先須嚴飾道場。內外清
+<lb n="0934c19" ed="T"/>潔衣服鮮淨。離諸諠雜及諸戲論依念誦法
+<lb n="0934c20" ed="T"/>則四時不闕若闕一時及違法則。即從違闕後
+<lb n="0934c21" ed="T"/>起首。作<note n="0934014" resp="Taisho" place="foot text" type="orig">法＝數【乙】</note><app n="0934014"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【乙】">數</rdg></app>已前縱欲滿功唯欠一時。其時虧
+<lb n="0934c22" ed="T"/>缺亦總不成。要須終始無犯方論遍數。其遍
+<lb n="0934c23" ed="T"/>數準當部本<note n="0934015" resp="Taisho" place="foot text" type="orig">尊＝教ヵ【原】</note><app n="0934015"><lem resp="Taisho" wit="【大】">尊</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">教</rdg></app>自有次第。遍數訖已自有境
+<lb n="0934c24" ed="T"/>界。或恐念誦之時。違三昧耶心不專的妄有
+<lb n="0934c25" ed="T"/>緣起所以不能相應故淨境不即現前。專修行
+<lb n="0934c26" ed="T"/>人每月隨部。必須隨力供養。闕供養故亦非
+<lb n="0934c27" ed="T"/>相應<note place="inline">隨部者謂如來部十五日菩薩部十四日金剛部八日諸天部五日藥叉部四日也</note>供養法
+<lb n="0934c28" ed="T"/>皆用日初出時。辨<note n="0934016" resp="Taisho" place="foot text" type="orig">壇＝爐ィ【原】，爐【甲】</note><note n="0934016" resp="CBETA" type="mod">壇＝爐ィ【原】，＝爐【甲】</note><app n="0934016"><lem wit="【大】">壇</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">爐</rdg><rdg resp="Taisho" wit="【甲】">爐</rdg></app>食甘美香脆餅食脂油
+<lb n="0934c29" ed="T"/>細食。著<note n="0934017" resp="Taisho" place="foot text" type="orig">銜蒸＝行ィ【原】</note><app n="0934017"><lem wit="【大】">銜蒸</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">行</rdg></app>作乳粥酪飱。加之<note n="0934018" resp="Taisho" place="foot text" type="orig">酥＝蘇【甲】【乙】</note><app n="0934018"><lem wit="【大】">酥</lem><rdg resp="Taisho" wit="【甲】【乙】">蘇</rdg></app>蜜。種種
+<pb n="0935a" xml:id="T18.0913.0935a" ed="T"/>
+<lb n="0935a01" ed="T"/>妙饌隨力供<note n="0935001" resp="Taisho" place="foot text" type="orig">養字下乙本一字不詳</note>養。皆別<note n="0935002" resp="Taisho" place="foot text" type="orig">盤＝拌【甲】【乙】</note><app n="0935002"><lem wit="【大】">盤</lem><rdg resp="Taisho" wit="【甲】【乙】">拌</rdg></app>中種種奠豆作食
+<lb n="0935a02" ed="T"/>之時。及將入道場。皆用軍荼利<note n="0935003" resp="Taisho" place="foot text" type="orig">心＋（中心）【乙】</note><app n="0935003"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【乙】">心中心</rdg></app>明及<note n="0935004" resp="Taisho" place="foot text" type="orig">又＝叉【甲】【乙】</note><app n="0935004"><lem wit="【大】">又</lem><rdg resp="Taisho" wit="【甲】【乙】">叉</rdg></app>
+<lb n="0935a03" ed="T"/>印。印諸供具明曰。</p>
+<lb n="0935a04" ed="T"/><p xml:id="pT18p0935a0401" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><note n="0935005" resp="Taisho" place="foot text" type="orig">甲本梵字無以下同</note><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh">唵</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh"><note n="0935006" resp="Taisho" place="foot text" type="orig">（隨）＋阿【甲】</note><app n="0935006"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【甲】">隨阿</rdg></app>𤙖</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA78"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>密<note n="0935007" resp="Taisho" place="foot text" type="orig">㗚＝嘌【乙】</note><app n="0935007"><lem wit="【大】">㗚</lem><rdg resp="Taisho" wit="【乙】">嘌</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh"><note n="0935008" resp="Taisho" place="foot text" type="orig">多＝哆【甲】【乙】</note><app n="0935008"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】【乙】">哆</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh">𤙖</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5C1"/></cb:t><cb:t xml:lang="zh">㧊</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E046"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>吒</cb:zi><cb:sg>半<note n="0935009" resp="Taisho" place="foot text" type="orig">〔音〕－【乙】</note><app n="0935009"><lem wit="【大】">音</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0935a05" ed="T"/>
+<lb n="0935a06" ed="T"/><p xml:id="pT18p0935a0601">事事皆呪三遍或七遍。所以免諸飛行羅剎
+<lb n="0935a07" ed="T"/>之所盜竊。若不作意多有觸穢。諸使者等不
+<lb n="0935a08" ed="T"/>生隨喜。遂障成就。</p>
+<lb n="0935a09" ed="T"/><p xml:id="pT18p0935a0901">夫結界護身必須迅速。不得遲疑猶<note n="0935010" resp="Taisho" place="foot text" type="orig">豫＝預【乙】</note><app n="0935010"><lem wit="【大】">豫</lem><rdg resp="Taisho" wit="【乙】">預</rdg></app>。恐
+<lb n="0935a10" ed="T"/>被<note n="0935011" resp="Taisho" place="foot text" type="orig">揵＝捷【乙】</note><app n="0935011"><lem wit="【大】">揵</lem><rdg resp="Taisho" wit="【乙】">捷</rdg></app>疾藥叉來相嬈惱。是以結護及供養時
+<lb n="0935a11" ed="T"/>極須嚴<note n="0935012" resp="Taisho" place="foot text" type="orig">備＝被【甲】【乙】</note><app n="0935012"><lem wit="【大】">備</lem><rdg resp="Taisho" wit="【甲】【乙】">被</rdg></app>。事須迅速。夫供養時。先須洗浴
+<lb n="0935a12" ed="T"/>清潔。於道場外香水灑身。然後<note n="0935013" resp="Taisho" place="foot text" type="orig">〔稱〕ィ－【原】</note><app n="0935013"><lem wit="【大】">稱</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh">吽</cb:t></cb:tt>字三
+<lb n="0935a13" ed="T"/>聲。即右手作金剛拳。觀想聖眾遍滿道場。如
+<lb n="0935a14" ed="T"/>影重重不相妨礙。即禮三<note n="0935014" resp="Taisho" place="foot text" type="orig">拜＝遍ィ【原】</note><app n="0935014"><lem wit="【大】">拜</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">遍</rdg></app><note place="inline">誦外儀九<note n="0935015" resp="Taisho" place="foot text" type="orig">遍＝返【乙】＊</note><app n="0935015"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【乙】">返</rdg></app></note>。</p>
+<lb n="0935a15" ed="T"/><p xml:id="pT18p0935a1501">次誦大輪金剛真言<note place="inline">三七遍是懺悔法</note>。</p>
+<lb n="0935a16" ed="T"/><p xml:id="pT18p0935a1601">金剛合掌雙膝著地。次想<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A648"/></cb:t><cb:t xml:lang="zh">㘕</cb:t></cb:tt>字焚殄世界。
+<lb n="0935a17" ed="T"/>令如灰塵。次想<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6B2"/></cb:t><cb:t xml:lang="zh">唅</cb:t></cb:tt>字猶如黑風。飄激令淨
+<lb n="0935a18" ed="T"/>無復塵<note n="0935016" resp="Taisho" place="foot text" type="orig">淨＝滓【甲】，澤【乙】</note><note n="0935016" resp="CBETA" type="mod">淨＝滓【甲】，＝澤【乙】</note><app n="0935016"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【甲】">滓</rdg><rdg resp="Taisho" wit="【乙】">澤</rdg></app>。次想<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A660"/></cb:t><cb:t xml:lang="zh">鑁</cb:t></cb:tt>字<note n="0935017" resp="Taisho" place="foot text" type="orig">〔門想〕－【甲】，〔門〕－【乙】</note><app n="0935017"><lem wit="【大】">門。<note n="0935018" resp="Taisho" place="foot text" type="orig">想＝相【乙】</note><app n="0935018"><lem wit="【大】">想</lem><rdg resp="Taisho" wit="【乙】">相</rdg></app></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【乙】">想</rdg></app>同乳水清徹
+<lb n="0935a19" ed="T"/><note n="0935019" resp="Taisho" place="foot text" type="orig">皎＝曉【乙】</note><app n="0935019"><lem wit="【大】">皎</lem><rdg resp="Taisho" wit="【乙】">曉</rdg></app>鏡。復於其上想<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0BC"/></cb:t><cb:t xml:lang="zh">蘇</cb:t></cb:tt>字門成妙高山。山下
+<lb n="0935a20" ed="T"/>乳海彌漫法界。山上平坦果林芬葩。水木清
+<lb n="0935a21" ed="T"/>華澄湛照灼。</p>
+<lb n="0935a22" ed="T"/><p xml:id="pT18p0935a2201">次執香<note n="0935020" resp="Taisho" place="foot text" type="orig">爐＝鑪【乙】＊</note><app n="0935020"><lem wit="【大】">爐</lem><rdg resp="Taisho" wit="【乙】">鑪</rdg></app>焚香運想。於妙高山上百寶廣殿。
+<lb n="0935a23" ed="T"/>寶柱無邊寶剎懸幡。寶幢<note n="0935021" resp="Taisho" place="foot text" type="orig">〔之〕－【甲】</note><app n="0935021"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>上有半月輪。輪
+<lb n="0935a24" ed="T"/>上<note n="0935022" resp="Taisho" place="foot text" type="orig">耀＝曜【甲】【乙】</note><app n="0935022"><lem wit="【大】">耀</lem><rdg resp="Taisho" wit="【甲】【乙】">曜</rdg></app>魔尼<note n="0935023" resp="Taisho" place="foot text" type="orig">寶＝瑤【乙】</note><app n="0935023"><lem wit="【大】">寶</lem><rdg resp="Taisho" wit="【乙】">瑤</rdg></app>珠。行列遍布<note n="0935024" resp="Taisho" place="foot text" type="orig">矜＝羚【乙】</note><app n="0935024"><lem wit="【大】">矜</lem><rdg resp="Taisho" wit="【乙】">羚</rdg></app>羯羅網<note n="0935025" resp="Taisho" place="foot text" type="orig">絞＝交【甲】【乙】</note><app n="0935025"><lem wit="【大】">絞</lem><rdg resp="Taisho" wit="【甲】【乙】">交</rdg></app>
+<lb n="0935a25" ed="T"/>絡其間<note place="inline">謂帝釋綱皆是寶珠珠<note n="0935026" resp="Taisho" place="foot text" type="orig">〔珠〕－【甲】</note><app n="0935026"><lem wit="【大】">珠</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>相射<note n="0935027" resp="Taisho" place="foot text" type="orig">瑩＝鑒【乙】</note><app n="0935027"><lem wit="【大】">瑩</lem><rdg resp="Taisho" wit="【乙】">鑒</rdg></app>映明徹</note>復觀<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh">阿</cb:t></cb:tt>字成窣
+<lb n="0935a26" ed="T"/><note n="0935028" resp="Taisho" place="foot text" type="orig">覩婆＝覩波【甲】，都波【乙】</note><note n="0935028" resp="CBETA" type="mod">覩婆＝覩波【甲】，＝都波【乙】</note><app n="0935028"><lem wit="【大】">覩婆</lem><rdg resp="Taisho" wit="【甲】">覩波</rdg><rdg resp="Taisho" wit="【乙】">都波</rdg></app>。復<note n="0935029" resp="Taisho" place="foot text" type="orig">想＝相【甲】</note><app n="0935029"><lem wit="【大】">想</lem><rdg resp="Taisho" wit="【甲】">相</rdg></app>靈塔成大日尊。坐寶蓮華。正中
+<lb n="0935a27" ed="T"/><note place="inline">謂正殿中</note><note n="0935030" resp="Taisho" place="foot text" type="orig">跏＝加【乙】</note><app n="0935030"><lem wit="【大】">跏</lem><rdg resp="Taisho" wit="【乙】">加</rdg></app>坐。四面羅列億億蓮花。一一花中皆
+<lb n="0935a28" ed="T"/>坐聖者。謂十方佛來作證明。菩薩金剛侍衛
+<lb n="0935a29" ed="T"/>前後。二乘諸眾無量無邊。天龍充塞難可齊
+<pb n="0935b" xml:id="T18.0913.0935b" ed="T"/>
+<lb n="0935b01" ed="T"/>限。其上空際雅樂妙音。清冷悅情廣作<note n="0935031" resp="Taisho" place="foot text" type="orig">佛＝法【乙】</note><app n="0935031"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【乙】">法</rdg></app>
+<lb n="0935b02" ed="T"/>事。謂淨居諸天作妙<note n="0935032" resp="Taisho" place="foot text" type="orig">妙＝音【甲】【乙】</note><app n="0935032"><lem wit="【大】">妙</lem><rdg resp="Taisho" wit="【甲】【乙】">音</rdg></app>樂。<note n="0935033" resp="Taisho" place="foot text" type="orig">諸＝法【甲】【乙】</note><app n="0935033"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【甲】【乙】">法</rdg></app>眾左右賢瓶
+<lb n="0935b03" ed="T"/>閼伽<note place="inline"><note n="0935034" resp="Taisho" place="foot text" type="orig">〔閼伽〕－【甲】</note><app n="0935034"><lem wit="【大】">閼伽</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>香水商佉坏也</note>香雲寶花繽紛亂下。香<note n="0935035" resp="Taisho" place="foot text" type="orig">餐＝飡【乙】</note><app n="0935035"><lem wit="【大】">餐</lem><rdg resp="Taisho" wit="【乙】">飡</rdg></app>珍
+<lb n="0935b04" ed="T"/>饍流溢寶盤。芳果殊漿美味酷烈。寶衣<note n="0935036" resp="Taisho" place="foot text" type="orig">製＝掣【甲】【乙】</note><app n="0935036"><lem wit="【大】">製</lem><rdg resp="Taisho" wit="【甲】【乙】">掣</rdg></app>
+<lb n="0935b05" ed="T"/>曳光曜中場。珠炬曦暉眾色交映。如是運想
+<lb n="0935b06" ed="T"/>已。次依念誦法至本尊真言。略誦多少<note place="inline"><note n="0935037" resp="Taisho" place="foot text" type="orig">百八邊或三七＝或三七百八邊【乙】</note><note n="0935037" resp="CBETA" type="mod">百八<choice cb:resp="CBETA.maha"><corr>遍</corr><sic>邊</sic></choice>或三七＝或三七百八邊【乙】</note><app n="0935037"><lem wit="【大】">百八遍或
+<lb n="0935b07" ed="T"/>三七</lem><rdg resp="Taisho" wit="【乙】">或三七百八邊</rdg></app></note>。</p>
+<lb n="0935b08" ed="T"/><p xml:id="pT18p0935b0801">次以虛空明妃及廣<note n="0935038" resp="Taisho" place="foot text" type="orig">原本冠註曰廣大等者廣大不空摩尼供養也</note>大等真言加持飲食。此
+<lb n="0935b09" ed="T"/>則名為法供養。供養訖依念誦<note n="0935039" resp="Taisho" place="foot text" type="orig">〔法〕－【乙】</note><app n="0935039"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app><note n="0935040" resp="Taisho" place="foot text" type="orig">撥＝發【甲】【乙】</note><app n="0935040"><lem wit="【大】">撥</lem><rdg resp="Taisho" wit="【甲】【乙】">發</rdg></app>遣<note place="inline"><note n="0935041" resp="Taisho" place="foot text" type="orig">〔一〕－【乙】</note><app n="0935041"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>百
+<lb n="0935b10" ed="T"/>八<app type="star" corresp="#0935015"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【乙】">返</rdg></app></note>其火<note n="0935042" resp="Taisho" place="foot text" type="orig">𤙖＝吽【乙】</note><app n="0935042"><lem wit="【大】">𤙖</lem><rdg resp="Taisho" wit="【乙】">吽</rdg></app>法。一依前法護持及念誦法則。
+<lb n="0935b11" ed="T"/>且其火法略有四種。</p>
+<lb n="0935b12" ed="T"/><p xml:id="pT18p0935b1201">第一扇底迦法應當北面。鑪法圓作。其諸供
+<lb n="0935b13" ed="T"/>具皆悉白色<note place="inline">大約普賢為主然當部自有對<note n="0935043" resp="Taisho" place="foot text" type="orig">法也＝治【甲】</note><app n="0935043"><lem wit="【大】">法也</lem><rdg resp="Taisho" wit="【甲】">治</rdg></app></note>此謂息災滅罪。衣
+<lb n="0935b14" ed="T"/>服及畫像等皆悉白色。</p>
+<lb n="0935b15" ed="T"/><p xml:id="pT18p0935b1501">第二補瑟<note n="0935044" resp="Taisho" place="foot text" type="orig">微＝致【乙】</note><app n="0935044"><lem wit="【大】">微</lem><rdg resp="Taisho" wit="【乙】">致</rdg></app>迦法應當東面。<app type="star" corresp="#0935020"><lem wit="【大】">爐</lem><rdg resp="Taisho" wit="【乙】">鑪</rdg></app>法方作。其
+<lb n="0935b16" ed="T"/>諸供具皆悉黃色<note place="inline">大約觀音為主</note>此謂成就滿願及諸
+<lb n="0935b17" ed="T"/>勝事。</p>
+<lb n="0935b18" ed="T"/><p xml:id="pT18p0935b1801">第三阿毘遮魯迦法應當南面。<app type="star" corresp="#0935020"><lem wit="【大】">爐</lem><rdg resp="Taisho" wit="【乙】">鑪</rdg></app>法三角。
+<lb n="0935b19" ed="T"/><note n="0935045" resp="Taisho" place="foot text" type="orig">其＝具【甲】</note><app n="0935045"><lem wit="【大】">其</lem><rdg resp="Taisho" wit="【甲】">具</rdg></app>諸供具皆悉赤色<note place="inline">大約金剛手為<note n="0935046" resp="Taisho" place="foot text" type="orig">主＋（此謂靜佛法中剌）【乙】</note><app n="0935046"><lem wit="【大】">主</lem><rdg resp="Taisho" wit="【乙】">主此謂靜佛法中剌</rdg></app></note>。</p>
+<lb n="0935b20" ed="T"/><p xml:id="pT18p0935b2001">第四擯<note place="inline">必孕反</note>迦羅法應當西面。<app type="star" corresp="#0935020"><lem wit="【大】">爐</lem><rdg resp="Taisho" wit="【乙】">鑪</rdg></app>法八角如
+<lb n="0935b21" ed="T"/>蓮華葉。其諸供<note n="0935047" resp="Taisho" place="foot text" type="orig">養＝具【乙】</note><app n="0935047"><lem wit="【大】">養</lem><rdg resp="Taisho" wit="【乙】">具</rdg></app>皆紫檀色。此謂欲見大人
+<lb n="0935b22" ed="T"/>求敬愛法。</p>
+<lb n="0935b23" ed="T"/><p xml:id="pT18p0935b2301">已前四<app type="star" corresp="#0935020"><lem wit="【大】">爐</lem><rdg resp="Taisho" wit="【乙】">鑪</rdg></app>皆方一肘<note place="inline">小尺一尺八寸</note>深則半之<app type="star" corresp="#0935020"><lem wit="【大】">爐</lem><rdg resp="Taisho" wit="【乙】">鑪</rdg></app>底
+<lb n="0935b24" ed="T"/>一以泥<note n="0935048" resp="Taisho" place="foot text" type="orig">捏＝想【甲】，相【乙】</note><note n="0935048" resp="CBETA" type="mod">捏＝想【甲】，＝相【乙】</note><app n="0935048"><lem wit="【大】">捏</lem><rdg resp="Taisho" wit="【甲】">想</rdg><rdg resp="Taisho" wit="【乙】">相</rdg></app>作獨股杵。杵長八指其圓<app type="star" corresp="#0935020"><lem wit="【大】">爐</lem><rdg resp="Taisho" wit="【乙】">鑪</rdg></app>及
+<lb n="0935b25" ed="T"/>八角<app type="star" corresp="#0935020"><lem wit="【大】">爐</lem><rdg resp="Taisho" wit="【乙】">鑪</rdg></app>。即作羯<note n="0935049" resp="Taisho" place="foot text" type="orig">磨＝摩【乙】</note><app n="0935049"><lem wit="【大】">磨</lem><rdg resp="Taisho" wit="【乙】">摩</rdg></app>跋折羅<note place="inline">謂十字<note n="0935050" resp="Taisho" place="foot text" type="orig">跋＝拔【乙】</note><app n="0935050"><lem wit="【大】">跋</lem><rdg resp="Taisho" wit="【乙】">拔</rdg></app>折羅</note>爐脣皆作
+<lb n="0935b26" ed="T"/>三重。從內高向外漸低。每重皆<note n="0935051" resp="Taisho" place="foot text" type="orig">闊＝廣【甲】</note><app n="0935051"><lem wit="【大】">闊</lem><rdg resp="Taisho" wit="【甲】">廣</rdg></app>四指<note place="inline">都闊十二
+<lb n="0935b27" ed="T"/>指</note>脣緣之上任畫作花。如不能<note n="0935052" resp="Taisho" place="foot text" type="orig">畫＋（作）【乙】</note><app n="0935052"><lem wit="【大】">畫</lem><rdg resp="Taisho" wit="【乙】">畫作</rdg></app>。即觀想作
+<lb n="0935b28" ed="T"/>之。其火木及香花等物並置右邊。每日三時
+<lb n="0935b29" ed="T"/><note place="inline">日出時人定時後夜<note n="0935053" resp="Taisho" place="foot text" type="orig">時＋（也）【乙】</note><app n="0935053"><lem wit="【大】">時</lem><rdg resp="Taisho" wit="【乙】">時也</rdg></app></note>時別一百八<app type="star" corresp="#0935015"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【乙】">返</rdg></app>火木用穀木及夜
+<pb n="0935c" xml:id="T18.0913.0935c" ed="T"/>
+<lb n="0935c01" ed="T"/>合木桑木柏木松木等。其木<note n="0935054" resp="Taisho" place="foot text" type="orig">每＋（日）ィ【原】，每＝無【甲】</note><app n="0935054"><lem wit="【大】">每</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">每日</rdg><rdg resp="Taisho" wit="【甲】">無</rdg></app>破削大如中
+<lb n="0935c02" ed="T"/>指。長十二指。無令節類須條直取。中色小樹。
+<lb n="0935c03" ed="T"/>不用老枯樹及有蟲者。採取之時<note n="0935055" resp="Taisho" place="foot text" type="orig">〔必〕ィ－【原】，〔必〕－【乙】</note><app n="0935055"><lem wit="【大】">必</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>須看有
+<lb n="0935c04" ed="T"/>好相方採。若見<note n="0935056" resp="Taisho" place="foot text" type="orig">不孝＝老ィ【原】，〔不〕－【甲】【乙】</note><app n="0935056"><lem wit="【大】">不孝</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">老</rdg><rdg resp="Taisho" wit="【甲】【乙】">孝</rdg></app>子及不具足人婦人惡
+<lb n="0935c05" ed="T"/>禽獸等並不須採。即別覓之。每一時用一百
+<lb n="0935c06" ed="T"/>八枚。於<note n="0935057" resp="Taisho" place="foot text" type="orig">爐＝壚【乙】</note><app n="0935057"><lem wit="【大】">爐</lem><rdg resp="Taisho" wit="【乙】">壚</rdg></app>右邊作并欄疊之。</p>
+<lb n="0935c07" ed="T"/><p xml:id="pT18p0935c0701">塗香法用白檀香一塊半斤以來者。於石上
+<lb n="0935c08" ed="T"/>用淨水磨之。兼沈香少分更磨<note n="0935058" resp="Taisho" place="foot text" type="orig">〔之〕－【乙】</note><app n="0935058"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>。又用欝金
+<lb n="0935c09" ed="T"/>少分。以沈香研磨<note n="0935059" resp="Taisho" place="foot text" type="orig">令＝合【甲】＊</note><app n="0935059"><lem wit="【大】">令</lem><rdg resp="Taisho" wit="【甲】">合</rdg></app>細。又用龍腦亦少分
+<lb n="0935c10" ed="T"/><note place="inline">如無龍惱鬱金單用檀香亦得<note n="0935060" resp="Taisho" place="foot text" type="orig">〔也〕－【甲】</note><app n="0935060"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></note>。</p>
+<lb n="0935c11" ed="T"/><p xml:id="pT18p0935c1101">閼伽法以淨濾水取少<note n="0935061" resp="Taisho" place="foot text" type="orig">計＝許【乙】</note><app n="0935061"><lem wit="【大】">計</lem><rdg resp="Taisho" wit="【乙】">許</rdg></app>塗香。點淨水中妙
+<lb n="0935c12" ed="T"/>好淨華。著此水中亦精須新淨瓷椀盛之。又
+<lb n="0935c13" ed="T"/>用香水一瓶當於坐前對爐置之<note place="inline">火供養左手執杵按<note n="0935062" resp="Taisho" place="foot text" type="orig">之＋（也）【乙】</note><app n="0935062"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【乙】">之也</rdg></app></note>。</p>
+<lb n="0935c14" ed="T"/><p xml:id="pT18p0935c1401">丸香法沈香二兩。<note n="0935063" resp="Taisho" place="foot text" type="orig">淺＝牋【乙】＊</note><app n="0935063"><lem wit="【大】">淺</lem><rdg resp="Taisho" wit="【乙】">牋</rdg></app>香八兩。蘇合三兩。香
+<lb n="0935c15" ed="T"/>附子一兩。安悉香二兩。熏陸香二兩。青木香
+<lb n="0935c16" ed="T"/>一兩。<note n="0935064" resp="Taisho" place="foot text" type="orig">㢇唐＝薝葡ィ【原】，薝唐【乙】</note><note n="0935064" resp="CBETA" type="mod">㢇唐＝薝葡ィ【原】，＝薝唐【乙】</note><app n="0935064"><lem wit="【大】">㢇唐</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">薝葡</rdg><rdg resp="Taisho" wit="【乙】">薝唐</rdg></app>二兩。白檀香二<note n="0935065" resp="Taisho" place="foot text" type="orig">兩＝分【乙】</note><app n="0935065"><lem wit="【大】">兩</lem><rdg resp="Taisho" wit="【乙】">分</rdg></app>。龍腦香一分。
+<lb n="0935c17" ed="T"/>欝金香一分。麝香一分。已上<note n="0935066" resp="Taisho" place="foot text" type="orig">三＝十二【乙】</note><app n="0935066"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【乙】">十二</rdg></app>物。同一處
+<lb n="0935c18" ed="T"/>研。甲香二兩<note place="inline">漿<note n="0935067" resp="Taisho" place="foot text" type="orig">〔水〕－【甲】</note><app n="0935067"><lem wit="【大】">水</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="0935068" resp="Taisho" place="foot text" type="orig">煮＝者【乙】</note><app n="0935068"><lem wit="【大】">煮</lem><rdg resp="Taisho" wit="【乙】">者</rdg></app>洗蜜和炒<app type="star" corresp="#0935059"><lem wit="【大】">令</lem><rdg resp="Taisho" wit="【甲】">合</rdg></app>乾別搗之</note>右和合以<note n="0935069" resp="Taisho" place="foot text" type="orig">鍊＝練【甲】【乙】</note><app n="0935069"><lem wit="【大】">鍊</lem><rdg resp="Taisho" wit="【甲】【乙】">練</rdg></app>蜜
+<lb n="0935c19" ed="T"/>得所。最後入龍腦等三味<note place="inline">如鄉土<note n="0935070" resp="Taisho" place="foot text" type="orig">難＝唯【甲】</note><app n="0935070"><lem wit="【大】">難</lem><rdg resp="Taisho" wit="【甲】">唯</rdg></app>得隨<note n="0935071" resp="Taisho" place="foot text" type="orig">〔得〕－【甲】【乙】</note><app n="0935071"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app><note n="0935072" resp="Taisho" place="foot text" type="orig">辨＋（也）【乙】</note><app n="0935072"><lem wit="【大】">辨</lem><rdg resp="Taisho" wit="【乙】">辨也</rdg></app></note>。</p>
+<lb n="0935c20" ed="T"/><p xml:id="pT18p0935c2001"><note n="0935073" resp="Taisho" place="foot text" type="orig">秣＝粖【乙】＊</note><note n="0935073" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->秣＝粖【乙】＊</note><app n="0935073"><lem wit="【大】">秣</lem><rdg resp="Taisho" wit="【乙】">粖</rdg></app>香法甘松二兩。零陵香二<note n="0935074" resp="Taisho" place="foot text" type="orig">〔兩〕－【乙】</note><app n="0935074"><lem wit="【大】">兩</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>。芎藭二兩。
+<pb n="0936a" xml:id="T18.0913.0936a" ed="T"/>
+<lb n="0936a01" ed="T"/>丁香一兩。澤蘭<note n="0936001" resp="Taisho" place="foot text" type="orig">〔二兩〕－【甲】</note><app n="0936001"><lem wit="【大】">二兩</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。沈香一兩。<note n="0936002" resp="Taisho" place="foot text" type="orig">好＝始【甲】</note><app n="0936002"><lem wit="【大】">好</lem><rdg resp="Taisho" wit="【甲】">始</rdg></app><app type="star" corresp="#0935063"><lem wit="【大】">淺</lem><rdg resp="Taisho" wit="【乙】">牋</rdg></app>三
+<lb n="0936a02" ed="T"/>兩<note place="inline">已上共搗</note>蘇合二兩。龍腦欝金麝香<note place="inline">各半分別絹袋盛著諸秣中<note n="0936003" resp="Taisho" place="foot text" type="orig">〔了〕－【乙】</note><app n="0936003"><lem wit="【大】">了</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app></note>
+<lb n="0936a03" ed="T"/>白芥子別盛。</p>
+<lb n="0936a04" ed="T"/><p xml:id="pT18p0936a0401">三味法<note n="0936004" resp="Taisho" place="foot text" type="orig">酥＝蘇【乙】</note><app n="0936004"><lem wit="【大】">酥</lem><rdg resp="Taisho" wit="【乙】">蘇</rdg></app>蜜酪<note place="inline">每時各三<note n="0936005" resp="Taisho" place="foot text" type="orig">四計＝兩許【甲】【乙】</note><app n="0936005"><lem wit="【大】">四計</lem><rdg resp="Taisho" wit="【甲】【乙】">兩許</rdg></app>酪則減半相和一銅<note n="0936006" resp="Taisho" place="foot text" type="orig">盆＝瓫【甲】，盂【乙】</note><note n="0936006" resp="CBETA" type="mod">盆＝瓫【甲】，＝盂【乙】</note><app n="0936006"><lem wit="【大】">盆</lem><rdg resp="Taisho" wit="【甲】">瓫</rdg><rdg resp="Taisho" wit="【乙】">盂</rdg></app>盛之</note>。</p>
+<lb n="0936a05" ed="T"/><p xml:id="pT18p0936a0501">五穀法<note n="0936007" resp="Taisho" place="foot text" type="orig">〔稻穀花〕－【甲】【乙】</note><app n="0936007"><lem wit="【大】">稻穀花</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app><note place="inline">糤<note n="0936008" resp="Taisho" place="foot text" type="orig">米＝粖【乙】</note><app n="0936008"><lem wit="【大】">米</lem><rdg resp="Taisho" wit="【乙】">粖</rdg></app>油煮及染作紫赤黃等色名<note n="0936009" resp="Taisho" place="foot text" type="orig">〔為〕－【乙】</note><app n="0936009"><lem wit="【大】">為</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>稻穀<note n="0936010" resp="Taisho" place="foot text" type="orig">華＋（稻穀花）【甲】，（稻穀花別）【乙】</note><app n="0936010"><lem wit="【大】">華</lem><rdg resp="Taisho" wit="【甲】">華稻穀花</rdg><rdg resp="Taisho" wit="【乙】">華稻穀花別</rdg></app>盛<note n="0936011" resp="Taisho" place="foot text" type="orig">〔于〕－【甲】【乙】</note><app n="0936011"><lem wit="【大】">于</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>一<note n="0936012" resp="Taisho" place="foot text" type="orig">器＋（之）【乙】</note><app n="0936012"><lem wit="【大】">器</lem><rdg resp="Taisho" wit="【乙】">器之</rdg></app></note>
+<lb n="0936a06" ed="T"/>油麻菉荳小<note n="0936013" resp="Taisho" place="foot text" type="orig">豆＋（烏豆）【乙】</note><app n="0936013"><lem wit="【大】">豆</lem><rdg resp="Taisho" wit="【乙】">豆烏豆</rdg></app>小麥粳米<note place="inline">已上相和別盛一<note n="0936014" resp="Taisho" place="foot text" type="orig">器＋（之）【甲】</note><app n="0936014"><lem wit="【大】">器</lem><rdg resp="Taisho" wit="【甲】">器之</rdg></app></note>。</p>
+<lb n="0936a07" ed="T"/><p xml:id="pT18p0936a0701">常<note n="0936015" resp="Taisho" place="foot text" type="orig">合＝含【乙】＊</note><app n="0936015"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【乙】">含</rdg></app>香法謂。龍腦如無。<app type="star" corresp="#0936015"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【乙】">含</rdg></app>白豆䓻子一兩
+<lb n="0936a08" ed="T"/><note n="0936016" resp="Taisho" place="foot text" type="orig">粒＝粉【甲】</note><app n="0936016"><lem wit="【大】">粒</lem><rdg resp="Taisho" wit="【甲】">粉</rdg></app>亦得<note place="inline">如無丁香亦得</note>供養火食爐食。及乾棗栗黃沙
+<lb n="0936a09" ed="T"/><note n="0936017" resp="Taisho" place="foot text" type="orig">糖＝餹【乙】</note><app n="0936017"><lem wit="【大】">糖</lem><rdg resp="Taisho" wit="【乙】">餹</rdg></app>。石蜜隨力辨具。</p>
+<lb n="0936a10" ed="T"/><p xml:id="pT18p0936a1001">初供養召請結界護身。一如前列結界時。加
+<lb n="0936a11" ed="T"/>地橛金剛牆金剛網金剛火焰無動刀印明
+<lb n="0936a12" ed="T"/>等。召請時各各召請八方護法天王。各誦七
+<lb n="0936a13" ed="T"/><app type="star" corresp="#0935015"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【乙】">返</rdg></app>。同用金剛召請印。先供養火<note n="0936018" resp="Taisho" place="foot text" type="orig">天＋（各誦其本）ヵ【原】</note><app n="0936018"><lem resp="Taisho" wit="【大】">天</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">天各誦其本</rdg></app>。明三味
+<lb n="0936a14" ed="T"/>三杓五穀丸香安悉香等。然後運心普供養
+<lb n="0936a15" ed="T"/>五部聖眾。誦廣大真言及虛空明妃真言等。
+<lb n="0936a16" ed="T"/>次誦本尊真言燒火木。兩頭<note n="0936019" resp="Taisho" place="foot text" type="orig">搵＝榅【乙】</note><app n="0936019"><lem wit="【大】">搵</lem><rdg resp="Taisho" wit="【乙】">榅</rdg></app>三味。誦一
+<lb n="0936a17" ed="T"/><app type="star" corresp="#0935015"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【乙】">返</rdg></app>。即擲爐中。仍須定志安<note n="0936020" resp="Taisho" place="foot text" type="orig">詳＝祥【甲】</note><app n="0936020"><lem wit="【大】">詳</lem><rdg resp="Taisho" wit="【甲】">祥</rdg></app>不得卒暴矣。
+<lb n="0936a18" ed="T"/>次投火木總畢。即燒五穀。每至娑嚩訶前加
+<lb n="0936a19" ed="T"/>所祈法<note place="inline">謂某<note n="0936021" resp="Taisho" place="foot text" type="orig">甲＝乙【乙】</note><app n="0936021"><lem wit="【大】">甲</lem><rdg resp="Taisho" wit="【乙】">乙</rdg></app>扇底迦娑縛訶也</note>數以香水遍灑諸物及火
+<lb n="0936a20" ed="T"/>等。灑水時誦軍荼利心中心<note n="0936022" resp="Taisho" place="foot text" type="orig">〔明〕－【乙】</note><app n="0936022"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>。初燃火真言
+<lb n="0936a21" ed="T"/>曰。</p>
+<lb n="0936a22" ed="T"/><p xml:id="pT18p0936a2201" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh">唵</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5DE"/></cb:t><cb:t xml:lang="zh">部</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FE"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0936023" resp="Taisho" place="foot text" type="orig">𠷈＝律【乙】</note><app n="0936023"><lem wit="【大】">𠷈</lem><rdg resp="Taisho" wit="【乙】">律</rdg></app>惹嚩</cb:zi><cb:sg><note n="0936024" resp="Taisho" place="foot text" type="orig">〔二合〕－【甲】【乙】</note><note n="0936024" resp="CBETA" type="mod">〔<choice><corr>三</corr><sic>二</sic></choice>合〕－【甲】【乙】</note><app n="0936024"><lem wit="【大】"><choice><corr>三</corr><sic>二</sic></choice>合</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64A"/></cb:t><cb:t xml:lang="zh">邏<note place="inline">三七<app type="star" corresp="#0935015"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【乙】">返</rdg></app></note></cb:t></cb:tt></p>
+<lb n="0936a23" ed="T"/>
+<lb n="0936a24" ed="T"/><p xml:id="pT18p0936a2401">以扇扇火不得口吹。其火於寺內淨處者不
+<lb n="0936a25" ed="T"/>得取俗家煮炙<note n="0936025" resp="Taisho" place="foot text" type="orig">葷＝薰【甲】【乙】</note><app n="0936025"><lem wit="【大】">葷</lem><rdg resp="Taisho" wit="【甲】【乙】">薰</rdg></app>穢之火。不<note n="0936026" resp="Taisho" place="foot text" type="orig">然＝燃【甲】</note><app n="0936026"><lem wit="【大】">然</lem><rdg resp="Taisho" wit="【甲】">燃</rdg></app>即須別鑽
+<lb n="0936a26" ed="T"/>取。仍不得口吹。用兩香爐。軍荼右邊燒丸香
+<lb n="0936a27" ed="T"/>及沈香。軍荼左邊燒安悉香或熏陸或白膠
+<lb n="0936a28" ed="T"/>香。其供養物數隨時豐約。豐則不可多燒。約
+<lb n="0936a29" ed="T"/>則不可令闕。如不能供養辨。但於後夜及以
+<pb n="0936b" xml:id="T18.0913.0936b" ed="T"/>
+<lb n="0936b01" ed="T"/>晨朝運心廣獻。多誦廣大及虛空明妃。亦得
+<lb n="0936b02" ed="T"/>擲木燒火應看火相。火色法須<note n="0936027" resp="Taisho" place="foot text" type="orig">（清）＋白【甲】【乙】</note><app n="0936027"><lem wit="【大】">白</lem><rdg resp="Taisho" wit="【甲】【乙】">清白</rdg></app>黃赤。若黑
+<lb n="0936b03" ed="T"/>色及青色並惡。又聽火聲謂。音樂悅意聲者
+<lb n="0936b04" ed="T"/>善。若猪狗及以驢騾<note n="0936028" resp="Taisho" place="foot text" type="orig">鳥＝烏【乙】</note><app n="0936028"><lem wit="【大】">鳥</lem><rdg resp="Taisho" wit="【乙】">烏</rdg></app>梟等聲者不善。又發
+<lb n="0936b05" ed="T"/>焰掣曳流利者善。若熅勃<note n="0936029" resp="Taisho" place="foot text" type="orig">煙＝堙【乙】</note><app n="0936029"><lem wit="【大】">煙</lem><rdg resp="Taisho" wit="【乙】">堙</rdg></app>欝衝人者不善。
+<lb n="0936b06" ed="T"/>或爆吒迸散者。亦非善相。善相之法不令人
+<lb n="0936b07" ed="T"/>熱。其炭仍須端直調<note n="0936030" resp="Taisho" place="foot text" type="orig">均＝灼【乙】</note><app n="0936030"><lem wit="【大】">均</lem><rdg resp="Taisho" wit="【乙】">灼</rdg></app>。應用香水遍洗。皆
+<lb n="0936b08" ed="T"/>長十二指以來。其八天真言及火天真言。已
+<lb n="0936b09" ed="T"/>別錄。具火色若吉。則可燒爐果子充供養。火
+<lb n="0936b10" ed="T"/>色若不善即不須燒。燒火供養七日為限。如
+<lb n="0936b11" ed="T"/>事不獲已三七日亦得。此火供養法。以資念
+<lb n="0936b12" ed="T"/>誦令速成就。其阿毘遮魯迦等。亦不應為。為
+<lb n="0936b13" ed="T"/>求成就妨大緣故。或於觀想及夢寐之間所
+<lb n="0936b14" ed="T"/>遇境界如經廣明。此不具述。火法又不速成。
+<lb n="0936b15" ed="T"/>即應加部母真言雙誦。又經三七日來加部
+<lb n="0936b16" ed="T"/>母真言不遂本志。即印塔每日一千<app type="star" corresp="#0935015"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【乙】">返</rdg></app>。又
+<lb n="0936b17" ed="T"/>經三七日必果志矣。其塔印長一肘。亦應自
+<lb n="0936b18" ed="T"/>須<note n="0936031" resp="Taisho" place="foot text" type="orig">籌＝疇【甲】【乙】</note><app n="0936031"><lem wit="【大】">籌</lem><rdg resp="Taisho" wit="【甲】【乙】">疇</rdg></app>量自力多少。業行精微雖有課數。而
+<lb n="0936b19" ed="T"/><note n="0936032" resp="Taisho" place="foot text" type="orig">秉＝康【甲】</note><app n="0936032"><lem wit="【大】">秉</lem><rdg resp="Taisho" wit="【甲】">康</rdg></app>護麁疎亦非相應。事須三業調柔。事法
+<lb n="0936b20" ed="T"/>淳熟自須觀察與理相應自感聖者。猶如明
+<lb n="0936b21" ed="T"/>鏡自現鏡像。</p>
+<lb n="0936b22" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><note n="0936033" resp="Taisho" place="foot text" type="orig">〔火𤙖…軌〕－【甲】</note><app cb:word-count="6" n="0936033"><lem wit="【大】">火𤙖供養<note n="0936034" resp="Taisho" place="foot text" type="orig">儀軌＝經法【乙】</note><app n="0936034"><lem wit="【大】">儀軌</lem><rdg resp="Taisho" wit="【乙】">經法</rdg></app></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="0936035" resp="Taisho" place="foot text" type="orig">乙本奧書曰應保二年七月六日於金剛峰寺書了一交了同月二十五日大智房阿闍梨奉傳受了勸修寺僧住興然</note></cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

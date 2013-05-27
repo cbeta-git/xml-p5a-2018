@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T19n0944B">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0944B 大佛頂大陀羅尼</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.30 $<date>$Date: 2009/04/23 08:00:01 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:00:01 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 19, No. 944B </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="sa-Sidd">Sanskrit-Siddam</language>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-27T11:50:58">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T19n0944B.xml,v $
+Revision 1.30  2009/04/23 08:00:01  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.29  2009/03/23 03:22:22  saywhat
+p0105a16 SD-A572=>SD-CA71
+
+Revision 1.28  2008/10/31 01:29:13  saywhat
+p0104b03 SD-E2EF=>SD-E0AB
+
+Revision 1.27  2008/10/27 14:10:17  saywhat
+p0105b07 SD-A66F => SD-E25A
+
+Revision 1.26  2008/10/07 02:26:36  saywhat
+p0104b06 SD-DA79=>SD-DA7B
+
+Revision 1.25  2008/08/19 02:51:28  saywhat
+p0105b05 SD-CC40=>SD-CC58
+
+Revision 1.24  2007/10/28 15:37:30  saywhat
+modified siddham E044=>E4F1
+
+Revision 1.23  2007/08/19 14:07:36  saywhat
+p0103c15 A65E=>A5D5, p0104b13 E0CB=>E0C3, ...,p0105b08 A9C3=>A9C5
+
+Revision 1.22  2007/06/10 13:28:00  saywhat
+p0104b06 SD-B752=>SD-B7D4 ; p104b28-29 [SD-CFC5>SD-A67A]
+
+Revision 1.21  2007/06/05 04:50:50  saywhat
+p0104a19 SD-BBB1=>SD-B7A9, ..., p0105b10-15 SD-A656 SD-AFB5=>SD-A5CD SD-CAA6, p0105b17 SD-A656=>SD-A5CD
+
+Revision 1.20  2007/05/30 13:53:27  saywhat
+p0104b19 SD-CA70(ndi)=>SD-CA6E(nda)
+
+Revision 1.19  2007/05/15 02:04:47  saywhat
+p0103c12 SD-A4C2=>SD-CFCB
+
+Revision 1.18  2007/05/08 04:04:47  saywhat
+p104b10,c17,c19 SD-AB51(vra)=>SD-AAD4(bra); p104b10 SD-E0C3=>SD-E0CB
+
+Revision 1.17  2007/05/07 10:09:29  saywhat
+p0103c12 SD-C0CA=>SD-E47C
+
+Revision 1.16  2007/05/06 02:22:44  saywhat
+p0103c08 SD-B6BD=>SD-B6C4
+
+Revision 1.15  2007/05/01 03:15:04  saywhat
+p0103c03 SD-A656=>SD-A5CD
+
+Revision 1.14  2007/05/01 03:13:04  saywhat
+p0103b26,c03,c10 SD-A452=>SD-B052
+
+Revision 1.13  2007/04/16 03:27:12  saywhat
+p0102c26 SD-A66F=>SD-E25A,p0103a29 SD-AB51=>SD-AAD4,...,p0104c04,c07 SD-A4DE=>SD-E046
+
+Revision 1.12  2006/04/12 21:55:31  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.10  2006/03/22 03:28:35  saywhat
+p0104c09 SD-A65A=>SD-E0C1
+
+Revision 1.9  2006/03/16 10:26:31  saywhat
+&SD-A65A;&SD-AF72;（vu dvaa）=> &SD-E3AD;&SD-D9FA;（bu ddhaa）
+
+Revision 1.8  2006/01/17 14:38:45  saywhat
+p0103b19, p0104c05 delete space
+
+Revision 1.7  2004/12/22 05:13:57  saywhat
+p0102c28 SD-A65E => SD-A5D5
+
+Revision 1.6  2004/10/18 01:53:08  saywhat
+p0104b30 delete SD-A5C3, p0104c26 added SD-A5F7
+
+Revision 1.5  2004/10/14 16:25:33  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/09/10 04:01:22  saywhat
+刪除空的 juan close
+
+Revision 1.3  2004/04/20 08:38:42  maha
+「版本日期」標記修訂
+
+Revision 1.2  2003/10/16 06:25:46  saywhat
+modified siddham
+
+Revision 1.1.1.1  2003/05/05 04:09:10  ray
+recover cvs
+
+Revision 1.17  2002/11/27 11:26:17  saywhat
+校勘插入處理
+
+Revision 1.16  2002/11/04 10:44:53  ray
+tei.2 => TEI.2
+
+Revision 1.15  2002/07/29 09:56:06  vinking
+modified lang
+
+Revision 1.14  2002/04/08 09:03:08  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.13  2001/07/24 06:52:40  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.12  2001/05/25 08:59:06  ray
+經號統一為四碼
+
+Revision 1.11  2001/04/16 09:39:10  ray
+p0105b18, SD-A5AB; => &SD-A5AB;
+
+Revision 1.10  2001/03/25 09:12:54  ray
+add <milestone>
+
+Revision 1.9  2001/03/06 02:33:08  RAY
+<lb n="0104c05"/>..&SD-A2B0..沒有這個字,以空格取代
+by csy
+
+Revision 1.8  2001/02/07 06:54:22  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.7  2001/02/03 07:44:17  chris
+Added keywords $Revision: 1.30 $, $Date: 2009/04/23 08:00:01 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0102c21" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0102c22" ed="T"/>
+<lb n="0102c23" ed="T"/><cb:docNumber>No. 944B</cb:docNumber>
+<lb n="0102c24" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><note n="0102001" resp="Taisho" place="foot text" type="orig">【原】靈雲寺版普通真言藏</note><cb:jhead>大佛頂大陀羅尼</cb:jhead></cb:juan>
+<lb n="0102c25" ed="T"/>
+<lb n="0102c26" ed="T"/><cb:div type="dharani"><p xml:lang="sa-Sidd" xml:id="pT19p0102c2601" cb:type="dharani"><g ref="#SD-CDA9"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A55F"/><g ref="#SD-E0C7"/><g ref="#SD-E25A"/>　<g ref="#SD-A67C"/><g ref="#SD-A558"/><g ref="#SD-A557"/><g ref="#SD-A5B5"/><g ref="#SD-AA68"/>　<g ref="#SD-CFC5"/>
+<lb n="0102c27" ed="T"/><g ref="#SD-A5B5"/><g ref="#SD-A5FE"/><g ref="#SD-A4B8"/><g ref="#SD-A561"/><g ref="#SD-AABC"/><g ref="#SD-A7DB"/><g ref="#SD-C97D"/><g ref="#SD-A648"/>　<g ref="#SD-E361"/><g ref="#SD-A5FD"/><g ref="#SD-A54D"/>
+<lb n="0102c28" ed="T"/><g ref="#SD-A5A9"/><g ref="#SD-A5F0"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-E3AD"/><g ref="#SD-D9FA"/><g ref="#SD-A5D5"/><g ref="#SD-A57D"/><g ref="#SD-A67A"/><g ref="#SD-AF5F"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5A9"/>
+<lb n="0102c29" ed="T"/><g ref="#SD-A5ED"/>　<g ref="#SD-A67A"/><g ref="#SD-CEE5"/><g ref="#SD-E040"/>　<g ref="#SD-A67A"/><g ref="#SD-A8A6"/><g ref="#SD-DA40"/><g ref="#SD-E3AD"/><g ref="#SD-D9FA"/>　<g ref="#SD-A448"/><g ref="#SD-A4DD"/>
+<pb n="0103a" xml:id="T19.0944B.0103a" ed="T"/>
+<lb n="0103a01" ed="T"/><g ref="#SD-E040"/>　<g ref="#SD-A67A"/><g ref="#SD-AB5E"/><g ref="#SD-A656"/><g ref="#SD-A440"/><g ref="#SD-A6A6"/><g ref="#SD-A464"/><g ref="#SD-E040"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A652"/><g ref="#SD-A446"/>
+<lb n="0103a02" ed="T"/><g ref="#SD-CFC5"/><g ref="#SD-B7D3"/><g ref="#SD-CA57"/><g ref="#SD-E040"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-AB7D"/><g ref="#SD-A558"/><g ref="#SD-A5B5"/><g ref="#SD-CFA8"/><g ref="#SD-E040"/>　<g ref="#SD-A5A9"/>
+<lb n="0103a03" ed="T"/><g ref="#SD-A5ED"/><g ref="#SD-E0BC"/><g ref="#SD-CBA7"/><g ref="#SD-A558"/><g ref="#SD-A459"/><g ref="#SD-A5E7"/><g ref="#SD-E040"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-CFC5"/><g ref="#SD-A5AA"/><g ref="#SD-A459"/><g ref="#SD-A5E7"/>
+<lb n="0103a04" ed="T"/><g ref="#SD-E040"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A652"/><g ref="#SD-A446"/><g ref="#SD-A67A"/><g ref="#SD-A8A6"/><g ref="#SD-E2B4"/><g ref="#SD-A558"/><g ref="#SD-E040"/>　<g ref="#SD-A67A"/><g ref="#SD-A8A6"/><g ref="#SD-E0CA"/>
+<lb n="0103a05" ed="T"/><g ref="#SD-A559"/><g ref="#SD-A5B5"/><g ref="#SD-CFA8"/><g ref="#SD-E040"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5FD"/><g ref="#SD-B448"/><g ref="#SD-AA5E"/><g ref="#SD-A5F2"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/>
+<lb n="0103a06" ed="T"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/><g ref="#SD-A55D"/><g ref="#SD-CBEB"/><g ref="#SD-A4FE"/><g ref="#SD-A666"/><g ref="#SD-A5FD"/><g ref="#SD-A6A2"/><g ref="#SD-A5A9"/>　<g ref="#SD-AABC"/><g ref="#SD-A6A8"/>
+<lb n="0103a07" ed="T"/><g ref="#SD-A5FD"/><g ref="#SD-A54B"/><g ref="#SD-A5FE"/><g ref="#SD-A4B7"/><g ref="#SD-A5F1"/>　<g ref="#SD-A557"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A558"/><g ref="#SD-A5F2"/><g ref="#SD-B7D3"/><g ref="#SD-A55D"/>
+<lb n="0103a08" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-A8A6"/><g ref="#SD-DA40"/><g ref="#SD-E3AD"/><g ref="#SD-D9FA"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/><g ref="#SD-A55D"/>
+<lb n="0103a09" ed="T"/><g ref="#SD-CFC5"/><g ref="#SD-A5E7"/><g ref="#SD-A558"/><g ref="#SD-A5DA"/><g ref="#SD-A5F1"/>　<g ref="#SD-A557"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A558"/><g ref="#SD-A5F2"/><g ref="#SD-B7D3"/><g ref="#SD-A55D"/>
+<lb n="0103a10" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-A8A6"/><g ref="#SD-DA40"/><g ref="#SD-E3AD"/><g ref="#SD-D9FA"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/><g ref="#SD-A55D"/>
+<lb n="0103a11" ed="T"/><g ref="#SD-CFC5"/><g ref="#SD-A6BC"/><g ref="#SD-E4B9"/><g ref="#SD-A5F1"/>　<g ref="#SD-A557"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A558"/><g ref="#SD-A5F2"/><g ref="#SD-B7D3"/><g ref="#SD-A55D"/>　<g ref="#SD-A67A"/>
+<lb n="0103a12" ed="T"/><g ref="#SD-A8A6"/><g ref="#SD-DA40"/><g ref="#SD-E3AD"/><g ref="#SD-D9FA"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/><g ref="#SD-A55D"/>　<g ref="#SD-A5E0"/>
+<lb n="0103a13" ed="T"/><g ref="#SD-A675"/><g ref="#SD-A755"/><g ref="#SD-A45C"/><g ref="#SD-A642"/><g ref="#SD-A65D"/><g ref="#SD-A55C"/><g ref="#SD-B769"/><g ref="#SD-AABC"/><g ref="#SD-A5D9"/><g ref="#SD-A5FE"/><g ref="#SD-A4B7"/><g ref="#SD-A5F1"/>　<g ref="#SD-A557"/>
+<lb n="0103a14" ed="T"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A558"/><g ref="#SD-A5F1"/><g ref="#SD-B7D3"/><g ref="#SD-A55D"/>　<g ref="#SD-A67A"/><g ref="#SD-A8A6"/><g ref="#SD-DA40"/><g ref="#SD-E3AD"/><g ref="#SD-D9FA"/><g ref="#SD-A5F1"/>
+<lb n="0103a15" ed="T"/><g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/><g ref="#SD-A55D"/>　<g ref="#SD-A6A6"/><g ref="#SD-A5B9"/><g ref="#SD-E4B5"/><g ref="#SD-A558"/><g ref="#SD-A67B"/><g ref="#SD-A650"/><g ref="#SD-E04B"/>
+<lb n="0103a16" ed="T"/><g ref="#SD-A5FE"/><g ref="#SD-A4B7"/><g ref="#SD-A5F1"/>　<g ref="#SD-A557"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A558"/><g ref="#SD-A5F1"/><g ref="#SD-B7D3"/><g ref="#SD-A55D"/>　<g ref="#SD-A67A"/><g ref="#SD-A8A6"/>
+<lb n="0103a17" ed="T"/><g ref="#SD-DA40"/><g ref="#SD-E3AD"/><g ref="#SD-D9FA"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/><g ref="#SD-A55D"/>　<g ref="#SD-A663"/><g ref="#SD-A6C0"/>
+<lb n="0103a18" ed="T"/><g ref="#SD-E043"/><g ref="#SD-A5A9"/><g ref="#SD-A5F7"/>　<g ref="#SD-A557"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A558"/><g ref="#SD-A5F2"/><g ref="#SD-B7D3"/><g ref="#SD-A55D"/>　<g ref="#SD-A67A"/><g ref="#SD-A8A6"/>
+<lb n="0103a19" ed="T"/><g ref="#SD-DA40"/><g ref="#SD-E3AD"/><g ref="#SD-D9FA"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/><g ref="#SD-A55D"/>　<g ref="#SD-A5FD"/><g ref="#SD-B448"/>
+<lb n="0103a20" ed="T"/><g ref="#SD-A444"/><g ref="#SD-E0BC"/><g ref="#SD-A5E5"/><g ref="#SD-A446"/><g ref="#SD-A55B"/><g ref="#SD-A5FE"/><g ref="#SD-A4B7"/><g ref="#SD-A5F1"/>　<g ref="#SD-A557"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A558"/><g ref="#SD-A5F2"/>
+<lb n="0103a21" ed="T"/><g ref="#SD-B7D3"/><g ref="#SD-A55D"/>　<g ref="#SD-A67A"/><g ref="#SD-A8A6"/><g ref="#SD-DA40"/><g ref="#SD-E3AD"/><g ref="#SD-D9FA"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/>
+<lb n="0103a22" ed="T"/><g ref="#SD-A656"/><g ref="#SD-A55D"/>　<g ref="#SD-A557"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A558"/><g ref="#SD-A444"/><g ref="#SD-A64B"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/>
+<lb n="0103a23" ed="T"/><g ref="#SD-A458"/><g ref="#SD-A656"/><g ref="#SD-A55D"/>　<g ref="#SD-A5B5"/><g ref="#SD-DAAF"/><g ref="#SD-A444"/><g ref="#SD-A64B"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/>
+<lb n="0103a24" ed="T"/><g ref="#SD-A656"/><g ref="#SD-A55D"/>　<g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A444"/><g ref="#SD-A64B"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/>
+<lb n="0103a25" ed="T"/><g ref="#SD-A55D"/>　<g ref="#SD-A5E5"/><g ref="#SD-A54D"/><g ref="#SD-A444"/><g ref="#SD-A64B"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/><g ref="#SD-A55D"/>
+<lb n="0103a26" ed="T"/><g ref="#SD-A458"/><g ref="#SD-B5ED"/><g ref="#SD-A444"/><g ref="#SD-A64B"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A575"/><g ref="#SD-A656"/><g ref="#SD-B7BE"/><g ref="#SD-E0C4"/>　<g ref="#SD-A5A9"/>
+<lb n="0103a27" ed="T"/><g ref="#SD-A5ED"/><g ref="#SD-A67C"/><g ref="#SD-D9FA"/><g ref="#SD-A658"/><g ref="#SD-E3C5"/><g ref="#SD-E361"/><g ref="#SD-A5FE"/><g ref="#SD-E0C4"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A67C"/><g ref="#SD-D9FA"/><g ref="#SD-A658"/>
+<lb n="0103a28" ed="T"/><g ref="#SD-E3C5"/><g ref="#SD-E361"/><g ref="#SD-A5FE"/><g ref="#SD-B7BE"/><g ref="#SD-E0C4"/>　<g ref="#SD-A663"/><g ref="#SD-A5B5"/><g ref="#SD-A5AD"/><g ref="#SD-A95F"/><g ref="#SD-A6A8"/><g ref="#SD-A67A"/><g ref="#SD-A5E5"/><g ref="#SD-B6BD"/>
+<lb n="0103a29" ed="T"/><g ref="#SD-E040"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-AAD4"/><g ref="#SD-E0CB"/><g ref="#SD-A551"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-CFC7"/><g ref="#SD-E04B"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/>
+<pb n="0103b" xml:id="T19.0944B.0103b" ed="T"/>
+<lb n="0103b01" ed="T"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/><g ref="#SD-A55D"/>　<g ref="#SD-A642"/><g ref="#SD-AA77"/><g ref="#SD-A5F1"/>　<g ref="#SD-D1F3"/><g ref="#SD-A5E6"/><g ref="#SD-A5B5"/><g ref="#SD-A55A"/>
+<lb n="0103b02" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-A6AE"/><g ref="#SD-A5F2"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5A9"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/><g ref="#SD-A54C"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5FD"/><g ref="#SD-A6BE"/>
+<lb n="0103b03" ed="T"/><g ref="#SD-A5E7"/><g ref="#SD-A67A"/><g ref="#SD-A6AE"/><g ref="#SD-A5F2"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5BF"/><g ref="#SD-A47C"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-E043"/><g ref="#SD-AA76"/>　<g ref="#SD-A5A9"/>
+<lb n="0103b04" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-E0CE"/><g ref="#SD-A558"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A441"/><g ref="#SD-A64B"/><g ref="#SD-A5F1"/>　<g ref="#SD-AA60"/>
+<lb n="0103b05" ed="T"/><g ref="#SD-A5B9"/><g ref="#SD-A5FD"/><g ref="#SD-A5A9"/><g ref="#SD-A458"/><g ref="#SD-A5FD"/><g ref="#SD-A658"/><g ref="#SD-AA77"/><g ref="#SD-A5B5"/><g ref="#SD-A54B"/><g ref="#SD-A441"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/>　<g ref="#SD-CFC5"/>
+<lb n="0103b06" ed="T"/><g ref="#SD-A57D"/><g ref="#SD-E043"/><g ref="#SD-E0CC"/><g ref="#SD-A440"/>　<g ref="#SD-E0CD"/><g ref="#SD-A663"/><g ref="#SD-A5A9"/><g ref="#SD-A656"/><g ref="#SD-A67C"/><g ref="#SD-A5AB"/><g ref="#SD-A5E6"/><g ref="#SD-CBE3"/><g ref="#SD-A458"/>
+<lb n="0103b07" ed="T"/><g ref="#SD-A54B"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5F0"/><g ref="#SD-E0CE"/><g ref="#SD-A558"/><g ref="#SD-A5F1"/>　<g ref="#SD-CFCF"/><g ref="#SD-E4A6"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5F0"/><g ref="#SD-E0CE"/><g ref="#SD-AF5A"/>
+<lb n="0103b08" ed="T"/>　<g ref="#SD-CFC7"/><g ref="#SD-E05D"/>　<g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/><g ref="#SD-A557"/><g ref="#SD-CDA9"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A55F"/><g ref="#SD-E0C7"/><g ref="#SD-E25A"/>
+<lb n="0103b09" ed="T"/><g ref="#SD-A67C"/><g ref="#SD-A558"/><g ref="#SD-A557"/><g ref="#SD-A5B5"/><g ref="#SD-AA68"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5E6"/><g ref="#SD-A5B5"/><g ref="#SD-A5FE"/><g ref="#SD-A4B8"/><g ref="#SD-E0A9"/>　<g ref="#SD-AABC"/><g ref="#SD-A7DB"/>
+<lb n="0103b10" ed="T"/><g ref="#SD-C97D"/><g ref="#SD-A648"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A575"/><g ref="#SD-A656"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5E5"/><g ref="#SD-E0CE"/><g ref="#SD-E0A9"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/>
+<lb n="0103b11" ed="T"/><g ref="#SD-A575"/><g ref="#SD-A65C"/><g ref="#SD-A8A5"/>　<g ref="#SD-E042"/><g ref="#SD-A4B8"/><g ref="#SD-A561"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A575"/><g ref="#SD-A65C"/><g ref="#SD-E0BD"/>
+<lb n="0103b12" ed="T"/><g ref="#SD-A5B5"/><g ref="#SD-A640"/><g ref="#SD-A5B6"/><g ref="#SD-A64C"/><g ref="#SD-A561"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5DE"/><g ref="#SD-A557"/><g ref="#SD-A95F"/><g ref="#SD-A6A8"/><g ref="#SD-A5AB"/><g ref="#SD-A95F"/>
+<lb n="0103b13" ed="T"/><g ref="#SD-A6A8"/><g ref="#SD-A440"/><g ref="#SD-E1D9"/>　<g ref="#SD-A5B5"/><g ref="#SD-A5FD"/><g ref="#SD-A658"/><g ref="#SD-E3C5"/><g ref="#SD-DAA1"/><g ref="#SD-A56F"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-E1D9"/>
+<lb n="0103b14" ed="T"/><g ref="#SD-E1DA"/><g ref="#SD-A5B3"/><g ref="#SD-A557"/><g ref="#SD-E040"/>　<g ref="#SD-A67A"/><g ref="#SD-AF5A"/><g ref="#SD-E040"/>　<g ref="#SD-A56F"/><g ref="#SD-A5E5"/><g ref="#SD-A44A"/>　<g ref="#SD-E1DA"/>
+<lb n="0103b15" ed="T"/><g ref="#SD-CD4C"/><g ref="#SD-E040"/>　<g ref="#SD-A5AC"/><g ref="#SD-A657"/><g ref="#SD-A5FD"/><g ref="#SD-E0CF"/>　<g ref="#SD-CFC6"/><g ref="#SD-A441"/><g ref="#SD-A64A"/><g ref="#SD-DA78"/><g ref="#SD-A7DB"/><g ref="#SD-AABC"/>
+<lb n="0103b16" ed="T"/><g ref="#SD-A662"/><g ref="#SD-A5E5"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-E1D9"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5CD"/><g ref="#SD-E3CE"/><g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A6B4"/><g ref="#SD-A5A9"/>
+<lb n="0103b17" ed="T"/><g ref="#SD-A440"/><g ref="#SD-E1D9"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-E1DA"/><g ref="#SD-CD4B"/><g ref="#SD-E1DA"/><g ref="#SD-B064"/><g ref="#SD-B478"/><g ref="#SD-A5AB"/><g ref="#SD-A657"/><g ref="#SD-A5FD"/><g ref="#SD-E0CF"/>
+<lb n="0103b18" ed="T"/><g ref="#SD-A47C"/><g ref="#SD-A55B"/><g ref="#SD-A5FD"/><g ref="#SD-A665"/><g ref="#SD-A55A"/><g ref="#SD-E040"/>　<g ref="#SD-A95F"/><g ref="#SD-A6A8"/><g ref="#SD-A67A"/><g ref="#SD-A6A8"/><g ref="#SD-AB76"/><g ref="#SD-E040"/>
+<lb n="0103b19" ed="T"/><g ref="#SD-A658"/><g ref="#SD-E1AE"/><g ref="#SD-A67A"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-E1D9"/>　<g ref="#SD-CFC5"/><g ref="#SD-CD4B"/><g ref="#SD-E0D0"/><g ref="#SD-A662"/><g ref="#SD-E1DD"/><g ref="#SD-E040"/>
+<lb n="0103b20" ed="T"/><g ref="#SD-A5A9"/><g ref="#SD-A6B4"/><g ref="#SD-AA5F"/><g ref="#SD-E040"/>　<g ref="#SD-AABC"/><g ref="#SD-A67B"/><g ref="#SD-A56F"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-E1D9"/>　<g ref="#SD-CFC5"/><g ref="#SD-CD4B"/>
+<lb n="0103b21" ed="T"/><g ref="#SD-E040"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/><g ref="#SD-E040"/>　<g ref="#SD-A658"/><g ref="#SD-E1AE"/><g ref="#SD-A67A"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-E1D9"/>
+<lb n="0103b22" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A662"/><g ref="#SD-AA63"/><g ref="#SD-A5AB"/><g ref="#SD-A657"/><g ref="#SD-A5FD"/><g ref="#SD-E0CF"/>　<g ref="#SD-A45C"/><g ref="#SD-E0D1"/><g ref="#SD-E1DA"/><g ref="#SD-B064"/><g ref="#SD-B478"/>
+<lb n="0103b23" ed="T"/><g ref="#SD-E040"/><g ref="#SD-A47C"/><g ref="#SD-A5AA"/><g ref="#SD-A662"/><g ref="#SD-E1DB"/>　<g ref="#SD-A658"/><g ref="#SD-A66E"/><g ref="#SD-A662"/><g ref="#SD-E2F3"/>　<g ref="#SD-CFC5"/><g ref="#SD-B34B"/><g ref="#SD-D1F3"/>
+<lb n="0103b24" ed="T"/><g ref="#SD-A56F"/><g ref="#SD-A440"/><g ref="#SD-CFC9"/><g ref="#SD-AA5E"/><g ref="#SD-E0CF"/>　<g ref="#SD-CFC5"/><g ref="#SD-A5B5"/><g ref="#SD-A5FE"/><g ref="#SD-A4B8"/><g ref="#SD-A558"/><g ref="#SD-A45C"/><g ref="#SD-A5FE"/>
+<lb n="0103b25" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A47C"/><g ref="#SD-E0D2"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A572"/><g ref="#SD-E2F8"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A55D"/><g ref="#SD-A4C0"/>
+<lb n="0103b26" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-B052"/><g ref="#SD-E0A9"/>　<g ref="#SD-E04A"/><g ref="#SD-A64A"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A5CD"/><g ref="#SD-A64B"/><g ref="#SD-AB60"/><g ref="#SD-A5F1"/>
+<lb n="0103b27" ed="T"/><g ref="#SD-A5B5"/><g ref="#SD-C9FD"/><g ref="#SD-A5FD"/><g ref="#SD-A657"/><g ref="#SD-A67C"/><g ref="#SD-E1DB"/>　<g ref="#SD-CFC5"/><g ref="#SD-B769"/><g ref="#SD-A558"/><g ref="#SD-A5FE"/><g ref="#SD-CC44"/><g ref="#SD-A444"/><g ref="#SD-E0D3"/>
+<lb n="0103b28" ed="T"/><g ref="#SD-A4A4"/><g ref="#SD-A656"/><g ref="#SD-A4C0"/>　<g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A5E5"/><g ref="#SD-A650"/><g ref="#SD-A559"/>　<g ref="#SD-A658"/><g ref="#SD-AB62"/><g ref="#SD-E0A9"/>
+<lb n="0103b29" ed="T"/><g ref="#SD-A5B5"/><g ref="#SD-DAAF"/><g ref="#SD-E0D4"/>　<g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A4B8"/><g ref="#SD-B070"/><g ref="#SD-A4A9"/>　<g ref="#SD-A5E5"/><g ref="#SD-A64B"/><g ref="#SD-A4A4"/><g ref="#SD-A657"/>
+<pb n="0103c" xml:id="T19.0944B.0103c" ed="T"/>
+<lb n="0103c01" ed="T"/><g ref="#SD-A5B5"/><g ref="#SD-A5FE"/><g ref="#SD-A4B8"/><g ref="#SD-E0A9"/>　<g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A56F"/><g ref="#SD-CA40"/>　<g ref="#SD-A658"/><g ref="#SD-A662"/><g ref="#SD-A64B"/><g ref="#SD-A47C"/>
+<lb n="0103c02" ed="T"/><g ref="#SD-A662"/><g ref="#SD-CA57"/><g ref="#SD-A65D"/><g ref="#SD-A575"/><g ref="#SD-A6A8"/><g ref="#SD-E042"/><g ref="#SD-A4B8"/><g ref="#SD-E05B"/>　<g ref="#SD-A6A5"/><g ref="#SD-A5E7"/><g ref="#SD-A642"/><g ref="#SD-A5B6"/>
+<lb n="0103c03" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-B052"/><g ref="#SD-E0A9"/>　<g ref="#SD-CFC6"/><g ref="#SD-B769"/><g ref="#SD-A558"/><g ref="#SD-A5FE"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A5CD"/><g ref="#SD-E0D5"/>
+<lb n="0103c04" ed="T"/><g ref="#SD-CFC5"/><g ref="#SD-A5B5"/><g ref="#SD-A5FE"/><g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A662"/><g ref="#SD-E340"/><g ref="#SD-A64B"/><g ref="#SD-A4A4"/><g ref="#SD-A661"/>　<g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A449"/>
+<lb n="0103c05" ed="T"/><g ref="#SD-A5E6"/><g ref="#SD-E0D6"/>　<g ref="#SD-A444"/><g ref="#SD-A64A"/><g ref="#SD-E3CE"/><g ref="#SD-A641"/>　<g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A6A8"/><g ref="#SD-CDAA"/><g ref="#SD-A47C"/><g ref="#SD-A5E5"/>
+<lb n="0103c06" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-A658"/><g ref="#SD-E3C5"/>　<g ref="#SD-A557"/><g ref="#SD-A564"/><g ref="#SD-E0BE"/><g ref="#SD-A47C"/><g ref="#SD-A5AA"/><g ref="#SD-A5E6"/><g ref="#SD-A64C"/><g ref="#SD-A44B"/>　<g ref="#SD-A444"/>
+<lb n="0103c07" ed="T"/><g ref="#SD-E0BC"/><g ref="#SD-CACC"/><g ref="#SD-A5FD"/><g ref="#SD-A557"/><g ref="#SD-A5A9"/><g ref="#SD-A4A6"/><g ref="#SD-A656"/>　<g ref="#SD-A65D"/><g ref="#SD-A646"/><g ref="#SD-A47C"/><g ref="#SD-A5A9"/>　<g ref="#SD-A444"/>
+<lb n="0103c08" ed="T"/><g ref="#SD-A570"/><g ref="#SD-B6C4"/><g ref="#SD-E0C7"/><g ref="#SD-A66E"/>　<g ref="#SD-A658"/><g ref="#SD-CBC3"/><g ref="#SD-CACC"/><g ref="#SD-A5E6"/><g ref="#SD-A54C"/><g ref="#SD-A47C"/>　<g ref="#SD-A656"/><g ref="#SD-A9BD"/>
+<lb n="0103c09" ed="T"/><g ref="#SD-A440"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/>　<g ref="#SD-AABC"/><g ref="#SD-A5D9"/><g ref="#SD-A652"/><g ref="#SD-A47C"/><g ref="#SD-E0D8"/>　<g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A55B"/><g ref="#SD-E0D9"/>
+<lb n="0103c10" ed="T"/><g ref="#SD-A47C"/>　<g ref="#SD-B052"/><g ref="#SD-A558"/><g ref="#SD-A47C"/><g ref="#SD-A440"/><g ref="#SD-A5E5"/><g ref="#SD-A64B"/><g ref="#SD-A6B4"/>　<g ref="#SD-A662"/><g ref="#SD-A664"/><g ref="#SD-AABC"/><g ref="#SD-A5DA"/>
+<lb n="0103c11" ed="T"/>　<g ref="#SD-CFC7"/><g ref="#SD-A7DD"/><g ref="#SD-A55D"/><g ref="#SD-E043"/><g ref="#SD-AA77"/><g ref="#SD-A458"/><g ref="#SD-A556"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A9"/><g ref="#SD-A5FE"/><g ref="#SD-E0DA"/>
+<lb n="0103c12" ed="T"/><g ref="#SD-A444"/><g ref="#SD-E47C"/><g ref="#SD-E1DC"/>　<g ref="#SD-A5E5"/><g ref="#SD-A5E5"/><g ref="#SD-A8E2"/>　<g ref="#SD-DA42"/>　<g ref="#SD-CFCB"/><g ref="#SD-A670"/><g ref="#SD-A458"/><g ref="#SD-A54B"/>
+<lb n="0103c13" ed="T"/><g ref="#SD-AABC"/><g ref="#SD-A662"/><g ref="#SD-CDA9"/>　<g ref="#SD-A557"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A55F"/><g ref="#SD-E0C7"/><g ref="#SD-A66E"/>　<g ref="#SD-E2B9"/>　<g ref="#SD-CFBF"/>
+<lb n="0103c14" ed="T"/>　<g ref="#SD-A4B6"/><g ref="#SD-CACC"/><g ref="#SD-A5A9"/>　<g ref="#SD-E17C"/><g ref="#SD-E0EF"/>　<g ref="#SD-CDA9"/><g ref="#SD-CACC"/><g ref="#SD-A5A9"/>　<g ref="#SD-E17C"/><g ref="#SD-E0EF"/>
+<lb n="0103c15" ed="T"/>　<g ref="#SD-A5D5"/><g ref="#SD-A6A9"/><g ref="#SD-A5B4"/>　<g ref="#SD-E17C"/><g ref="#SD-E0EF"/>　<g ref="#SD-A5E5"/><g ref="#SD-A564"/><g ref="#SD-A5A9"/>　<g ref="#SD-E17C"/><g ref="#SD-E0EF"/>
+<lb n="0103c16" ed="T"/>　<g ref="#SD-A5B5"/><g ref="#SD-A5FD"/><g ref="#SD-A658"/><g ref="#SD-E3C5"/>　<g ref="#SD-A67A"/><g ref="#SD-CACC"/><g ref="#SD-A6B4"/><g ref="#SD-A54B"/><g ref="#SD-A440"/><g ref="#SD-A5FD"/>　<g ref="#SD-E17C"/>
+<lb n="0103c17" ed="T"/><g ref="#SD-E0EF"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-E1DA"/><g ref="#SD-CD4C"/><g ref="#SD-E040"/>　<g ref="#SD-CDA9"/><g ref="#SD-CACC"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-A5FD"/>
+<lb n="0103c18" ed="T"/><g ref="#SD-E17C"/><g ref="#SD-E0EF"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5F1"/><g ref="#SD-A6B4"/><g ref="#SD-A5FE"/><g ref="#SD-A6B4"/><g ref="#SD-A67A"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/><g ref="#SD-E0C4"/>
+<lb n="0103c19" ed="T"/><g ref="#SD-A658"/><g ref="#SD-E1AE"/><g ref="#SD-A67A"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-A5FD"/>　<g ref="#SD-E17C"/><g ref="#SD-E0EF"/>　<g ref="#SD-A47C"/><g ref="#SD-A55B"/><g ref="#SD-A5FE"/><g ref="#SD-A665"/>
+<lb n="0103c20" ed="T"/><g ref="#SD-A55A"/><g ref="#SD-E040"/>　<g ref="#SD-A95F"/><g ref="#SD-A6A8"/><g ref="#SD-A67A"/><g ref="#SD-A6A8"/><g ref="#SD-AB76"/><g ref="#SD-E0C4"/>　<g ref="#SD-A658"/><g ref="#SD-A5AA"/><g ref="#SD-A662"/><g ref="#SD-A5A9"/>
+<lb n="0103c21" ed="T"/><g ref="#SD-A440"/><g ref="#SD-A5FD"/>　<g ref="#SD-E17C"/><g ref="#SD-E0EF"/>　<g ref="#SD-CFC5"/><g ref="#SD-CD4B"/><g ref="#SD-E0D0"/><g ref="#SD-A662"/><g ref="#SD-E1DD"/><g ref="#SD-E040"/>　<g ref="#SD-A5A9"/>
+<lb n="0103c22" ed="T"/><g ref="#SD-A6B4"/><g ref="#SD-AA5F"/><g ref="#SD-E040"/>　<g ref="#SD-AABC"/><g ref="#SD-A67B"/><g ref="#SD-A56F"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-A5FD"/>　<g ref="#SD-E17C"/><g ref="#SD-E0EF"/>
+<lb n="0103c23" ed="T"/><g ref="#SD-CFC5"/><g ref="#SD-CD4C"/><g ref="#SD-E040"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A8"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/><g ref="#SD-E0C4"/>　<g ref="#SD-A658"/><g ref="#SD-E1AE"/><g ref="#SD-A67A"/><g ref="#SD-A5A9"/>
+<lb n="0103c24" ed="T"/><g ref="#SD-A440"/><g ref="#SD-A5FD"/>　<g ref="#SD-A5FD"/><g ref="#SD-A6B4"/><g ref="#SD-A5FD"/><g ref="#SD-A6B4"/>　<g ref="#SD-E05D"/>　<g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-E2BE"/><g ref="#SD-CDA9"/>
+<lb n="0103c25" ed="T"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A55F"/><g ref="#SD-E0C7"/><g ref="#SD-A66E"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-AABC"/><g ref="#SD-A7DB"/><g ref="#SD-C97D"/><g ref="#SD-A644"/>　<g ref="#SD-A5E5"/>
+<lb n="0103c26" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-A67A"/><g ref="#SD-A6A8"/><g ref="#SD-AB76"/><g ref="#SD-A5DD"/><g ref="#SD-A4BC"/>　<g ref="#SD-A67A"/><g ref="#SD-A6A8"/><g ref="#SD-AB75"/><g ref="#SD-A664"/><g ref="#SD-B7C2"/>　<g ref="#SD-A448"/>
+<lb n="0103c27" ed="T"/><g ref="#SD-A4DD"/><g ref="#SD-A662"/><g ref="#SD-A557"/><g ref="#SD-A67A"/><g ref="#SD-A6A8"/><g ref="#SD-AB75"/><g ref="#SD-A5AF"/><g ref="#SD-AA64"/>　<g ref="#SD-CFC5"/><g ref="#SD-E0DD"/><g ref="#SD-DA4A"/>　<g ref="#SD-E04A"/>
+<lb n="0103c28" ed="T"/><g ref="#SD-A64C"/><g ref="#SD-A557"/><g ref="#SD-A5A9"/><g ref="#SD-A4DA"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A656"/><g ref="#SD-A9C5"/><g ref="#SD-A56F"/><g ref="#SD-A5FD"/>
+<lb n="0103c29" ed="T"/><g ref="#SD-CBE3"/><g ref="#SD-A5DD"/><g ref="#SD-A656"/><g ref="#SD-A5A9"/><g ref="#SD-A5E5"/><g ref="#SD-C9FD"/><g ref="#SD-A64A"/>　<g ref="#SD-DA42"/>　<g ref="#SD-B064"/><g ref="#SD-CDAB"/><g ref="#SD-B751"/><g ref="#SD-A656"/>
+<pb n="0104a" xml:id="T19.0944B.0104a" ed="T"/>
+<lb n="0104a01" ed="T"/><g ref="#SD-A55B"/>　<g ref="#SD-A5E5"/><g ref="#SD-A5E5"/><g ref="#SD-A5FE"/><g ref="#SD-A4B6"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>　<g ref="#SD-A4A6"/><g ref="#SD-A5FD"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>
+<lb n="0104a02" ed="T"/><g ref="#SD-CFC5"/><g ref="#SD-B34B"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>　<g ref="#SD-D1F3"/><g ref="#SD-A56F"/><g ref="#SD-A440"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>　<g ref="#SD-A658"/><g ref="#SD-A66E"/><g ref="#SD-A5D9"/>
+<lb n="0104a03" ed="T"/><g ref="#SD-A5F1"/>　<g ref="#SD-A662"/><g ref="#SD-E2F3"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5B5"/><g ref="#SD-A5FD"/><g ref="#SD-A47C"/><g ref="#SD-A947"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>
+<lb n="0104a04" ed="T"/><g ref="#SD-E1DA"/><g ref="#SD-B753"/><g ref="#SD-A6B4"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>　<g ref="#SD-CFC5"/><g ref="#SD-A662"/><g ref="#SD-A5AB"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>　<g ref="#SD-CFC5"/><g ref="#SD-A441"/>
+<lb n="0104a05" ed="T"/><g ref="#SD-A5FD"/><g ref="#SD-DA78"/><g ref="#SD-A7DB"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>　<g ref="#SD-E361"/><g ref="#SD-A5FD"/><g ref="#SD-A54E"/><g ref="#SD-A5DD"/><g ref="#SD-A5E7"/><g ref="#SD-A44A"/><g ref="#SD-A5B5"/><g ref="#SD-A5D9"/>
+<lb n="0104a06" ed="T"/><g ref="#SD-A5F1"/>　<g ref="#SD-D1F3"/><g ref="#SD-E0DE"/><g ref="#SD-A5B6"/><g ref="#SD-A557"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5FD"/><g ref="#SD-A4B6"/><g ref="#SD-A56F"/><g ref="#SD-C9FD"/><g ref="#SD-A5D9"/>
+<lb n="0104a07" ed="T"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5A9"/><g ref="#SD-A458"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>　<g ref="#SD-A658"/><g ref="#SD-A7F3"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>　<g ref="#SD-E0BC"/><g ref="#SD-A5B5"/>
+<lb n="0104a08" ed="T"/><g ref="#SD-B6A6"/><g ref="#SD-A5D9"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5F1"/><g ref="#SD-A6B4"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/><g ref="#SD-A5FD"/><g ref="#SD-A6B4"/><g ref="#SD-A67A"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>
+<lb n="0104a09" ed="T"/><g ref="#SD-AAC2"/><g ref="#SD-A557"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/><g ref="#SD-A5B7"/><g ref="#SD-A663"/><g ref="#SD-A47C"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A5DD"/><g ref="#SD-A557"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>
+<lb n="0104a10" ed="T"/>　<g ref="#SD-A444"/><g ref="#SD-CACC"/><g ref="#SD-C9FD"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-E042"/><g ref="#SD-A557"/><g ref="#SD-A5A9"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A440"/><g ref="#SD-A4DA"/>
+<lb n="0104a11" ed="T"/><g ref="#SD-E042"/><g ref="#SD-A557"/><g ref="#SD-A5A9"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-CC70"/><g ref="#SD-CA6E"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-CFC5"/><g ref="#SD-A5B5"/><g ref="#SD-E24C"/>
+<lb n="0104a12" ed="T"/><g ref="#SD-A5FD"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-D1F3"/><g ref="#SD-E4B7"/><g ref="#SD-A56F"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-DA7A"/><g ref="#SD-A5F2"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>
+<lb n="0104a13" ed="T"/>　<g ref="#SD-A644"/><g ref="#SD-A656"/><g ref="#SD-A559"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-D1F4"/><g ref="#SD-A4B7"/><g ref="#SD-A6A9"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>　<g ref="#SD-A458"/>
+<lb n="0104a14" ed="T"/><g ref="#SD-B752"/><g ref="#SD-A6A9"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>　<g ref="#SD-A4B7"/><g ref="#SD-A558"/><g ref="#SD-A6A9"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>　<g ref="#SD-A4B9"/><g ref="#SD-A658"/><g ref="#SD-A558"/>
+<lb n="0104a15" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>　<g ref="#SD-A642"/><g ref="#SD-A57D"/><g ref="#SD-A5FE"/><g ref="#SD-A6A9"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>　<g ref="#SD-A656"/><g ref="#SD-A67B"/><g ref="#SD-A6A9"/>
+<lb n="0104a16" ed="T"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>　<g ref="#SD-A5EF"/><g ref="#SD-A67B"/><g ref="#SD-A6A9"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>　<g ref="#SD-A5EB"/><g ref="#SD-A570"/><g ref="#SD-A6A9"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>
+<lb n="0104a17" ed="T"/>　<g ref="#SD-A5E5"/><g ref="#SD-E0DF"/><g ref="#SD-A6A9"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>　<g ref="#SD-A657"/><g ref="#SD-CA57"/><g ref="#SD-A6A9"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>　<g ref="#SD-CFC5"/>
+<lb n="0104a18" ed="T"/><g ref="#SD-A666"/><g ref="#SD-E4B1"/><g ref="#SD-A6A9"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>　<g ref="#SD-A47E"/><g ref="#SD-E1DE"/><g ref="#SD-A6A9"/><g ref="#SD-A640"/><g ref="#SD-E4F1"/>　<g ref="#SD-A55D"/><g ref="#SD-E25A"/>
+<lb n="0104a19" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-B7A9"/><g ref="#SD-E25A"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/><g ref="#SD-E0C4"/>　<g ref="#SD-E0D0"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/>
+<lb n="0104a20" ed="T"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A5B5"/><g ref="#SD-A640"/><g ref="#SD-AB52"/><g ref="#SD-A4B6"/><g ref="#SD-A440"/><g ref="#SD-CBA7"/>
+<lb n="0104a21" ed="T"/><g ref="#SD-E0A9"/><g ref="#SD-A658"/><g ref="#SD-E0E0"/>　<g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A4F3"/>
+<lb n="0104a22" ed="T"/><g ref="#SD-A440"/><g ref="#SD-A4F3"/><g ref="#SD-A442"/><g ref="#SD-A5AC"/><g ref="#SD-CBA7"/><g ref="#SD-E0A9"/>　<g ref="#SD-A658"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/>
+<lb n="0104a23" ed="T"/><g ref="#SD-A5FD"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A5B5"/><g ref="#SD-A666"/><g ref="#SD-A5B5"/><g ref="#SD-A559"/>　<g ref="#SD-A642"/><g ref="#SD-AA76"/><g ref="#SD-CBA7"/>
+<lb n="0104a24" ed="T"/><g ref="#SD-E0A9"/>　<g ref="#SD-A658"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A5FD"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A557"/>
+<lb n="0104a25" ed="T"/><g ref="#SD-AF59"/><g ref="#SD-A458"/><g ref="#SD-A642"/><g ref="#SD-A4F2"/><g ref="#SD-A67A"/><g ref="#SD-A6AE"/><g ref="#SD-A5F1"/>　<g ref="#SD-CBA7"/><g ref="#SD-E0A9"/>　<g ref="#SD-A658"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/>
+<lb n="0104a26" ed="T"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A5FD"/><g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A441"/>
+<lb n="0104a27" ed="T"/><g ref="#SD-A64A"/><g ref="#SD-A5E5"/><g ref="#SD-CBE3"/><g ref="#SD-A458"/><g ref="#SD-A54B"/><g ref="#SD-CBA7"/><g ref="#SD-E0A9"/><g ref="#SD-A658"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/>
+<lb n="0104a28" ed="T"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A441"/><g ref="#SD-A5B6"/><g ref="#SD-A64C"/><g ref="#SD-A440"/>　<g ref="#SD-CBA7"/><g ref="#SD-E0A9"/><g ref="#SD-A658"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/>
+<lb n="0104a29" ed="T"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A5FD"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A4B6"/><g ref="#SD-A5F1"/><g ref="#SD-A440"/><g ref="#SD-A5FD"/><g ref="#SD-A5E5"/><g ref="#SD-E0C1"/>
+<lb n="0104a30" ed="T"/><g ref="#SD-A440"/><g ref="#SD-A5FD"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A4"/><g ref="#SD-B6BC"/>　<g ref="#SD-A67B"/><g ref="#SD-E361"/><g ref="#SD-A5A9"/>　<g ref="#SD-CBA7"/><g ref="#SD-E0A9"/><g ref="#SD-A658"/><g ref="#SD-E0E0"/>
+<pb n="0104b" xml:id="T19.0944B.0104b" ed="T"/>
+<lb n="0104b01" ed="T"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A47C"/><g ref="#SD-A55B"/><g ref="#SD-B751"/><g ref="#SD-A45A"/><g ref="#SD-A5AC"/>
+<lb n="0104b02" ed="T"/>　<g ref="#SD-CBA7"/><g ref="#SD-E0A9"/><g ref="#SD-A658"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A5FD"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>
+<lb n="0104b03" ed="T"/><g ref="#SD-E1DF"/><g ref="#SD-A45A"/><g ref="#SD-A640"/><g ref="#SD-A4DC"/><g ref="#SD-A440"/>　<g ref="#SD-A5A9"/><g ref="#SD-CA70"/><g ref="#SD-A446"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/>　<g ref="#SD-A458"/><g ref="#SD-A54B"/>
+<lb n="0104b04" ed="T"/><g ref="#SD-A5B5"/><g ref="#SD-A559"/>　<g ref="#SD-A67A"/><g ref="#SD-A6AE"/><g ref="#SD-A5F1"/>　<g ref="#SD-CBA7"/><g ref="#SD-E0A9"/><g ref="#SD-A658"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/>
+<lb n="0104b05" ed="T"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A5A9"/><g ref="#SD-B349"/><g ref="#SD-E0E1"/><g ref="#SD-A5E5"/><g ref="#SD-A54B"/>　<g ref="#SD-CBA7"/><g ref="#SD-E0A9"/>
+<lb n="0104b06" ed="T"/><g ref="#SD-A658"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-CFC5"/><g ref="#SD-B7D4"/><g ref="#SD-CA56"/>
+<lb n="0104b07" ed="T"/>　<g ref="#SD-CBA7"/><g ref="#SD-E0A9"/><g ref="#SD-A658"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>
+<lb n="0104b08" ed="T"/><g ref="#SD-A659"/><g ref="#SD-A557"/><g ref="#SD-A5FE"/><g ref="#SD-A458"/><g ref="#SD-A54C"/>　<g ref="#SD-CBA7"/><g ref="#SD-E0A9"/>　<g ref="#SD-A658"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/>
+<lb n="0104b09" ed="T"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A5B6"/><g ref="#SD-A54D"/>　<g ref="#SD-CBA7"/><g ref="#SD-E0A9"/><g ref="#SD-A658"/>
+<lb n="0104b10" ed="T"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-AAD4"/><g ref="#SD-E0CB"/><g ref="#SD-CBA7"/><g ref="#SD-E0A9"/>
+<lb n="0104b11" ed="T"/>　<g ref="#SD-A642"/><g ref="#SD-AA76"/><g ref="#SD-CBA7"/><g ref="#SD-E0A9"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/><g ref="#SD-A54B"/><g ref="#SD-CBA7"/><g ref="#SD-E0A9"/>　<g ref="#SD-A658"/>
+<lb n="0104b12" ed="T"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A5B6"/><g ref="#SD-A54D"/>
+<lb n="0104b13" ed="T"/><g ref="#SD-A45C"/><g ref="#SD-E0C3"/><g ref="#SD-A441"/><g ref="#SD-A57D"/><g ref="#SD-A5B5"/><g ref="#SD-A559"/>　<g ref="#SD-CBA7"/><g ref="#SD-E0A9"/><g ref="#SD-A658"/><g ref="#SD-E0E0"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-A5F2"/>
+<lb n="0104b14" ed="T"/><g ref="#SD-A5E7"/><g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F2"/><g ref="#SD-A5E7"/>　<g ref="#SD-A5FD"/><g ref="#SD-A6B4"/><g ref="#SD-A5FD"/><g ref="#SD-A6B4"/><g ref="#SD-E05D"/>　<g ref="#SD-A5D9"/><g ref="#SD-A458"/>
+<lb n="0104b15" ed="T"/><g ref="#SD-E2BE"/><g ref="#SD-A67C"/><g ref="#SD-A558"/><g ref="#SD-A557"/><g ref="#SD-A5B5"/><g ref="#SD-AA5E"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-E068"/><g ref="#SD-A55D"/>　<g ref="#SD-CFC5"/><g ref="#SD-A67C"/>
+<lb n="0104b16" ed="T"/><g ref="#SD-A558"/><g ref="#SD-A5A9"/><g ref="#SD-A64B"/><g ref="#SD-B5A4"/>　<g ref="#SD-AABC"/><g ref="#SD-A5D9"/><g ref="#SD-CDF5"/><g ref="#SD-A4DA"/><g ref="#SD-A658"/><g ref="#SD-A440"/><g ref="#SD-A67C"/><g ref="#SD-A558"/><g ref="#SD-A557"/>
+<lb n="0104b17" ed="T"/><g ref="#SD-A5B5"/><choice cb:resp="CBETA.say"><corr><g ref="#SD-E4BE"/></corr><sic><g ref="#SD-E0E2"/></sic></choice>　<g ref="#SD-AEB8"/><g ref="#SD-A64A"/><g ref="#SD-AEB8"/><g ref="#SD-A64A"/>　<g ref="#SD-E361"/><g ref="#SD-A440"/><g ref="#SD-E361"/><g ref="#SD-A440"/>　<g ref="#SD-A658"/>
+<lb n="0104b18" ed="T"/><g ref="#SD-E361"/><g ref="#SD-A440"/><g ref="#SD-A658"/><g ref="#SD-E361"/><g ref="#SD-A440"/>　<g ref="#SD-A56F"/><g ref="#SD-A5FD"/><g ref="#SD-A56F"/><g ref="#SD-A5FD"/>　<g ref="#SD-A658"/><g ref="#SD-A56F"/><g ref="#SD-A5FD"/>
+<lb n="0104b19" ed="T"/><g ref="#SD-A658"/><g ref="#SD-A56F"/><g ref="#SD-A5FD"/>　<g ref="#SD-DA7B"/><g ref="#SD-CA6E"/><g ref="#SD-DA7B"/><g ref="#SD-CA6E"/>　<g ref="#SD-A5DB"/><g ref="#SD-CA6E"/><g ref="#SD-A5DB"/><g ref="#SD-CA6E"/>　<g ref="#SD-E17C"/>
+<lb n="0104b20" ed="T"/><g ref="#SD-CFC1"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-B065"/><g ref="#SD-A6A9"/>　<g ref="#SD-A6AE"/><g ref="#SD-A6AE"/>　<g ref="#SD-A5C1"/>
+<lb n="0104b21" ed="T"/><g ref="#SD-E046"/>　<g ref="#SD-CFC5"/><g ref="#SD-A5ED"/><g ref="#SD-A464"/><g ref="#SD-A5F2"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-CFC5"/><g ref="#SD-AABC"/><g ref="#SD-A559"/><g ref="#SD-A6A8"/>
+<lb n="0104b22" ed="T"/><g ref="#SD-A558"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A656"/><g ref="#SD-A5FD"/><g ref="#SD-AABC"/><g ref="#SD-A570"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>
+<lb n="0104b23" ed="T"/>　<g ref="#SD-CFC5"/><g ref="#SD-E0BC"/><g ref="#SD-A5FD"/><g ref="#SD-A658"/><g ref="#SD-AA77"/><g ref="#SD-A5B5"/><g ref="#SD-A441"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/>
+<lb n="0104b24" ed="T"/><g ref="#SD-B7A3"/><g ref="#SD-A575"/><g ref="#SD-A65C"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5AA"/><g ref="#SD-A45E"/><g ref="#SD-A8A5"/>
+<lb n="0104b25" ed="T"/><g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5F1"/><g ref="#SD-A6BA"/><g ref="#SD-A6A2"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/>
+<lb n="0104b26" ed="T"/><g ref="#SD-B7A3"/><g ref="#SD-A5FE"/><g ref="#SD-A6B4"/><g ref="#SD-A6A2"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A458"/><g ref="#SD-A642"/><g ref="#SD-A4F8"/>
+<lb n="0104b27" ed="T"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A458"/><g ref="#SD-E3CE"/><g ref="#SD-B7A9"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>
+<lb n="0104b28" ed="T"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-CFC5"/><g ref="#SD-E0BC"/><g ref="#SD-A644"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<choice cb:resp="CBETA.say"><corr><g ref="#SD-A67A"/></corr><sic><g ref="#SD-CFC5"/></sic></choice><g ref="#SD-B7A3"/><g ref="#SD-A442"/>
+<lb n="0104b29" ed="T"/><g ref="#SD-CA6E"/><g ref="#SD-A644"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<choice cb:resp="CBETA.say"><corr><g ref="#SD-A67A"/></corr><sic><g ref="#SD-CFC5"/></sic></choice><g ref="#SD-B7A3"/><g ref="#SD-A5E5"/><g ref="#SD-A6B0"/><g ref="#SD-A5FD"/><g ref="#SD-A45E"/><g ref="#SD-A8A5"/>
+<lb n="0104b30" ed="T"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5B7"/><g ref="#SD-E2DD"/><g ref="#SD-A4A4"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>
+<pb n="0104c" xml:id="T19.0944B.0104c" ed="T"/>
+<lb n="0104c01" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A444"/><g ref="#SD-CACC"/><g ref="#SD-CA44"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-E042"/><g ref="#SD-A557"/>
+<lb n="0104c02" ed="T"/><g ref="#SD-A5AF"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A440"/><g ref="#SD-A4DA"/><g ref="#SD-E042"/><g ref="#SD-A557"/><g ref="#SD-A5AF"/><g ref="#SD-A8A5"/>
+<lb n="0104c03" ed="T"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-E1DA"/><g ref="#SD-B7A1"/><g ref="#SD-E0E3"/><g ref="#SD-A55D"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>
+<lb n="0104c04" ed="T"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-E1DA"/><g ref="#SD-E4D6"/><g ref="#SD-A6B6"/><g ref="#SD-A644"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/>
+<lb n="0104c05" ed="T"/><g ref="#SD-AEB8"/><g ref="#SD-A644"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-CFC5"/><g ref="#SD-A5B5"/><g ref="#SD-B2CC"/><g ref="#SD-A644"/><g ref="#SD-A8A5"/>
+<lb n="0104c06" ed="T"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-E0E1"/><g ref="#SD-A5E5"/><g ref="#SD-A551"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>
+<lb n="0104c07" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A55A"/><g ref="#SD-B6BE"/><g ref="#SD-A446"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-D1F3"/><g ref="#SD-E1E0"/>
+<lb n="0104c08" ed="T"/><g ref="#SD-A575"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A658"/><g ref="#SD-E3C5"/><g ref="#SD-A47D"/><g ref="#SD-B76F"/><g ref="#SD-A8A5"/>
+<lb n="0104c09" ed="T"/><g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A4B6"/><g ref="#SD-A5F2"/><g ref="#SD-A440"/><g ref="#SD-A5FD"/>　<g ref="#SD-A5E5"/><g ref="#SD-E0C1"/><g ref="#SD-A440"/><g ref="#SD-A5FD"/>　<g ref="#SD-A67A"/>
+<lb n="0104c10" ed="T"/><g ref="#SD-B7A4"/><g ref="#SD-B6BC"/>　<g ref="#SD-A67A"/><g ref="#SD-D9FA"/><g ref="#SD-A6AE"/><g ref="#SD-E4A6"/>　<g ref="#SD-A658"/><g ref="#SD-E3C5"/><g ref="#SD-A47D"/><g ref="#SD-B76F"/><g ref="#SD-A8A5"/>
+<lb n="0104c11" ed="T"/><g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A47C"/><g ref="#SD-A55B"/><g ref="#SD-B751"/><g ref="#SD-A45A"/><g ref="#SD-A5AC"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A656"/>
+<lb n="0104c12" ed="T"/><g ref="#SD-A9BD"/><g ref="#SD-A449"/><g ref="#SD-A5E6"/><g ref="#SD-A641"/><g ref="#SD-A444"/><g ref="#SD-A64A"/><g ref="#SD-E3CE"/><g ref="#SD-A641"/>　<g ref="#SD-A658"/><g ref="#SD-E3C5"/><g ref="#SD-A5FD"/><g ref="#SD-A4BC"/><g ref="#SD-A8A5"/>
+<lb n="0104c13" ed="T"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-AABC"/><g ref="#SD-A7DB"/><g ref="#SD-C97D"/><g ref="#SD-A644"/><g ref="#SD-A8A5"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>
+<lb n="0104c14" ed="T"/>　<g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A662"/><g ref="#SD-E340"/><g ref="#SD-A64B"/><g ref="#SD-A5F1"/>　<g ref="#SD-AABC"/><g ref="#SD-E0E4"/><g ref="#SD-A45A"/><g ref="#SD-A5FD"/><g ref="#SD-A5FE"/><g ref="#SD-A4B6"/>
+<lb n="0104c15" ed="T"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A441"/><g ref="#SD-A64B"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5E6"/><g ref="#SD-CBE3"/><g ref="#SD-A458"/>
+<lb n="0104c16" ed="T"/><g ref="#SD-A54B"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5E5"/><g ref="#SD-E0CE"/><g ref="#SD-A558"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-CFC7"/><g ref="#SD-E1A6"/><g ref="#SD-A5F1"/>
+<lb n="0104c17" ed="T"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-AAD4"/><g ref="#SD-B2DB"/><g ref="#SD-A54E"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A642"/><g ref="#SD-AA77"/>
+<lb n="0104c18" ed="T"/><g ref="#SD-A5F1"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A659"/><g ref="#SD-E1E1"/><g ref="#SD-A658"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A658"/>
+<lb n="0104c19" ed="T"/><g ref="#SD-E0E7"/><g ref="#SD-A658"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-AAD4"/><g ref="#SD-B2DB"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A656"/>
+<lb n="0104c20" ed="T"/><g ref="#SD-A5FD"/><g ref="#SD-A442"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-CFC5"/><g ref="#SD-B34B"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>
+<lb n="0104c21" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-A6A8"/><g ref="#SD-A441"/><g ref="#SD-A64D"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A647"/><g ref="#SD-AA79"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/>
+<lb n="0104c22" ed="T"/><g ref="#SD-E046"/>　<g ref="#SD-A441"/><g ref="#SD-A64A"/><g ref="#SD-A56F"/><g ref="#SD-CA41"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-CFD0"/><g ref="#SD-E2F4"/><g ref="#SD-A5F7"/>
+<lb n="0104c23" ed="T"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A5E6"/><g ref="#SD-AA61"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A47D"/><g ref="#SD-E043"/><g ref="#SD-E0D9"/>
+<lb n="0104c24" ed="T"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A441"/><g ref="#SD-A64A"/><g ref="#SD-A5FE"/><g ref="#SD-AA61"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>
+<lb n="0104c25" ed="T"/><g ref="#SD-A441"/><g ref="#SD-A5B6"/><g ref="#SD-A641"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-CFC5"/><g ref="#SD-A57D"/><g ref="#SD-E043"/><g ref="#SD-E0CC"/><g ref="#SD-A440"/><g ref="#SD-E0CD"/>
+<lb n="0104c26" ed="T"/><g ref="#SD-A663"/><g ref="#SD-A5A9"/>　<g ref="#SD-A657"/><g ref="#SD-A67C"/><g ref="#SD-A5AC"/><g ref="#SD-A5F7"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-A5F7"/><g ref="#SD-A446"/><g ref="#SD-A47E"/><g ref="#SD-CF56"/>
+<lb n="0104c27" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-AF5A"/>　<g ref="#SD-A5E5"/><g ref="#SD-A5E5"/>　<g ref="#SD-E1DA"/><g ref="#SD-CD4B"/><g ref="#SD-A47E"/><g ref="#SD-CF56"/>　<g ref="#SD-A5B6"/><g ref="#SD-A5B5"/><g ref="#SD-A47E"/>
+<lb n="0104c28" ed="T"/><g ref="#SD-CF56"/>　<g ref="#SD-A647"/><g ref="#SD-AA76"/><g ref="#SD-A47E"/><g ref="#SD-CF56"/>　<g ref="#SD-A658"/><g ref="#SD-AF78"/><g ref="#SD-A66E"/><g ref="#SD-A47E"/><g ref="#SD-CF56"/>　<g ref="#SD-CFC5"/>
+<lb n="0104c29" ed="T"/><g ref="#SD-A5EC"/><g ref="#SD-AA5E"/><g ref="#SD-A47E"/><g ref="#SD-CF56"/>　<g ref="#SD-D1F3"/><g ref="#SD-E2DE"/><g ref="#SD-A56F"/><g ref="#SD-A5F1"/><g ref="#SD-CA58"/>　<g ref="#SD-A443"/><g ref="#SD-A64A"/><g ref="#SD-A5F1"/><g ref="#SD-CA58"/>
+<lb n="0104c30" ed="T"/>　<g ref="#SD-A5E5"/><g ref="#SD-E0F5"/><g ref="#SD-A5F1"/><g ref="#SD-CA58"/>　<g ref="#SD-A4B7"/><g ref="#SD-A5B5"/><g ref="#SD-CA58"/>　<g ref="#SD-A4BE"/><g ref="#SD-A6A8"/><g ref="#SD-CA58"/>
+<pb n="0105a" xml:id="T19.0944B.0105a" ed="T"/>
+<lb n="0105a01" ed="T"/><g ref="#SD-D1F3"/><g ref="#SD-A4B7"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A458"/><g ref="#SD-B752"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A642"/><g ref="#SD-A57D"/><g ref="#SD-A5FE"/><g ref="#SD-A6A9"/>
+<lb n="0105a02" ed="T"/><g ref="#SD-A5FE"/>　<g ref="#SD-A5EF"/><g ref="#SD-A67B"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A5EB"/><g ref="#SD-A570"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A5E5"/><g ref="#SD-E0DF"/>
+<lb n="0105a03" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A656"/><g ref="#SD-A67B"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A4B7"/><g ref="#SD-A558"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A4B9"/>
+<lb n="0105a04" ed="T"/><g ref="#SD-A658"/><g ref="#SD-A558"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A5E5"/><g ref="#SD-A8B3"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A656"/><g ref="#SD-A8B3"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>
+<lb n="0105a05" ed="T"/>　<g ref="#SD-A458"/><g ref="#SD-CA7B"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A5B9"/><g ref="#SD-E4B6"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A5C1"/><g ref="#SD-A64B"/><g ref="#SD-A6A9"/>
+<lb n="0105a06" ed="T"/><g ref="#SD-A5FE"/>　<g ref="#SD-A67A"/><g ref="#SD-A8E3"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/>　<g ref="#SD-A5B6"/><g ref="#SD-A5B5"/><g ref="#SD-A47E"/><g ref="#SD-CF56"/>　<g ref="#SD-E1DA"/><g ref="#SD-CD4B"/>
+<lb n="0105a07" ed="T"/><g ref="#SD-A47E"/><g ref="#SD-CF56"/>　<g ref="#SD-A575"/><g ref="#SD-A656"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A5A9"/><g ref="#SD-A458"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A5F1"/>
+<lb n="0105a08" ed="T"/><g ref="#SD-A6B4"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A5FE"/><g ref="#SD-A6B4"/><g ref="#SD-A67A"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-CFC5"/><g ref="#SD-E0BC"/><g ref="#SD-A5FD"/><g ref="#SD-A95F"/>
+<lb n="0105a09" ed="T"/><g ref="#SD-A6A9"/>　<g ref="#SD-A458"/><g ref="#SD-A642"/><g ref="#SD-A54B"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A442"/><g ref="#SD-CA6E"/><g ref="#SD-A5FD"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>
+<lb n="0105a10" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-A6B0"/><g ref="#SD-A5FD"/><g ref="#SD-A458"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-AAC2"/><g ref="#SD-A557"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A5B7"/><g ref="#SD-A663"/>
+<lb n="0105a11" ed="T"/><g ref="#SD-A47C"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A5DE"/><g ref="#SD-A557"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-E042"/><g ref="#SD-A557"/><g ref="#SD-A5A9"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>
+<lb n="0105a12" ed="T"/>　<g ref="#SD-A440"/><g ref="#SD-A4DA"/><g ref="#SD-E042"/><g ref="#SD-A557"/><g ref="#SD-A5A9"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A444"/><g ref="#SD-CACD"/><g ref="#SD-C9FD"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>
+<lb n="0105a13" ed="T"/>　<g ref="#SD-CC70"/><g ref="#SD-CA6E"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-D1F3"/><g ref="#SD-E4B7"/><g ref="#SD-A56F"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-DA7A"/><g ref="#SD-A5F2"/>
+<lb n="0105a14" ed="T"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-CFC5"/><g ref="#SD-A5B5"/><g ref="#SD-E24C"/><g ref="#SD-A5FE"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A4F3"/><g ref="#SD-A440"/><g ref="#SD-A4F3"/><g ref="#SD-A442"/>
+<lb n="0105a15" ed="T"/><g ref="#SD-A5AC"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A644"/><g ref="#SD-A656"/><g ref="#SD-A559"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A4B7"/><g ref="#SD-A5E7"/><g ref="#SD-A441"/><g ref="#SD-A95F"/>
+<lb n="0105a16" ed="T"/><g ref="#SD-A6A9"/>　<g ref="#SD-A662"/><g ref="#SD-A444"/><g ref="#SD-A5AB"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A5A9"/><g ref="#SD-CA71"/><g ref="#SD-A441"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>
+<lb n="0105a17" ed="T"/><g ref="#SD-A654"/><g ref="#SD-A658"/><g ref="#SD-A440"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-A440"/><g ref="#SD-C9F1"/><g ref="#SD-A5B6"/><g ref="#SD-A54D"/><g ref="#SD-A95F"/><g ref="#SD-A6A9"/>　<g ref="#SD-AEB8"/>
+<lb n="0105a18" ed="T"/><g ref="#SD-A64B"/>　<g ref="#SD-CFCF"/><g ref="#SD-A441"/><g ref="#SD-A6AA"/><g ref="#SD-A441"/>　<g ref="#SD-AF78"/><g ref="#SD-A559"/><g ref="#SD-A5F1"/><g ref="#SD-A441"/>　<g ref="#SD-AA64"/><g ref="#SD-A5AB"/>
+<lb n="0105a19" ed="T"/><g ref="#SD-A5F1"/><g ref="#SD-A441"/>　<g ref="#SD-A47C"/><g ref="#SD-A55B"/><g ref="#SD-B6BC"/><g ref="#SD-A441"/>　<g ref="#SD-A5AB"/><g ref="#SD-E4B8"/><g ref="#SD-AEB8"/><g ref="#SD-A5FE"/>　<g ref="#SD-A658"/>
+<lb n="0105a20" ed="T"/><g ref="#SD-A66E"/><g ref="#SD-A5E5"/><g ref="#SD-AEB8"/><g ref="#SD-A5FE"/>　<g ref="#SD-A657"/><g ref="#SD-A559"/><g ref="#SD-A441"/>　<g ref="#SD-A5BC"/><g ref="#SD-CF57"/><g ref="#SD-A441"/>　<g ref="#SD-E2F5"/>
+<lb n="0105a21" ed="T"/><g ref="#SD-B2C2"/><g ref="#SD-A441"/>　<g ref="#SD-A67A"/><g ref="#SD-CA70"/><g ref="#SD-A5B5"/><g ref="#SD-A559"/><g ref="#SD-A441"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-D9FE"/><g ref="#SD-A5FE"/>
+<lb n="0105a22" ed="T"/><g ref="#SD-A664"/><g ref="#SD-A646"/><g ref="#SD-E0EA"/>　<g ref="#SD-CFC5"/><g ref="#SD-B6D5"/><g ref="#SD-A656"/><g ref="#SD-A5DF"/><g ref="#SD-E361"/><g ref="#SD-A440"/>　<g ref="#SD-CFC5"/><g ref="#SD-A646"/><g ref="#SD-A47C"/>
+<lb n="0105a23" ed="T"/><g ref="#SD-A440"/>　<g ref="#SD-CFC5"/><g ref="#SD-A6B6"/><g ref="#SD-A646"/><g ref="#SD-A462"/>　<g ref="#SD-E043"/><g ref="#SD-A44C"/><g ref="#SD-A646"/><g ref="#SD-A462"/>　<g ref="#SD-CC68"/><g ref="#SD-AA7E"/>
+<lb n="0105a24" ed="T"/><g ref="#SD-A462"/>　<g ref="#SD-A440"/><g ref="#SD-B6A9"/><g ref="#SD-A667"/><g ref="#SD-A654"/>　<g ref="#SD-A56F"/><g ref="#SD-CA6E"/><g ref="#SD-A667"/><g ref="#SD-A654"/>　<g ref="#SD-CC68"/><g ref="#SD-A56F"/>
+<lb n="0105a25" ed="T"/><g ref="#SD-A5F1"/><g ref="#SD-A667"/><g ref="#SD-A654"/>　<g ref="#SD-A5E5"/><g ref="#SD-B75D"/><g ref="#SD-A667"/><g ref="#SD-A654"/>　<g ref="#SD-A5B6"/><g ref="#SD-A5FE"/><g ref="#SD-E0AB"/><g ref="#SD-A667"/><g ref="#SD-A654"/>
+<lb n="0105a26" ed="T"/>　<g ref="#SD-A5B5"/><g ref="#SD-A640"/><g ref="#SD-CD4D"/><g ref="#SD-A666"/><g ref="#SD-A654"/>　<g ref="#SD-D1F3"/><g ref="#SD-A56F"/><g ref="#SD-A5FD"/><g ref="#SD-A666"/><g ref="#SD-A654"/>　<g ref="#SD-A440"/>
+<lb n="0105a27" ed="T"/><g ref="#SD-A4DC"/><g ref="#SD-A666"/><g ref="#SD-A654"/>　<g ref="#SD-A656"/><g ref="#SD-CDAB"/><g ref="#SD-A667"/><g ref="#SD-A654"/>　<g ref="#SD-D1F4"/><g ref="#SD-A643"/><g ref="#SD-A667"/><g ref="#SD-A654"/>
+<lb n="0105a28" ed="T"/><g ref="#SD-A4C0"/><g ref="#SD-A464"/><g ref="#SD-A667"/><g ref="#SD-A654"/>　<g ref="#SD-A6A8"/><g ref="#SD-CDA9"/><g ref="#SD-A667"/><g ref="#SD-A654"/>　<g ref="#SD-A5B6"/><g ref="#SD-A56F"/><g ref="#SD-A667"/><g ref="#SD-A654"/>
+<lb n="0105a29" ed="T"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A4"/><g ref="#SD-C97B"/><g ref="#SD-AABC"/><g ref="#SD-A7DB"/><g ref="#SD-C97B"/><g ref="#SD-A667"/><g ref="#SD-A654"/>　<g ref="#SD-A5DE"/><g ref="#SD-A557"/><g ref="#SD-A65C"/><g ref="#SD-A558"/>
+<lb n="0105a30" ed="T"/><g ref="#SD-A4F2"/>　<g ref="#SD-A4F3"/><g ref="#SD-A441"/><g ref="#SD-A4F3"/><g ref="#SD-A442"/><g ref="#SD-A5AC"/>　<g ref="#SD-AEB8"/><g ref="#SD-A5FD"/><g ref="#SD-A56F"/><g ref="#SD-AA7B"/><g ref="#SD-A440"/><g ref="#SD-E4BF"/>
+<pb n="0105b" xml:id="T19.0944B.0105b" ed="T"/>
+<lb n="0105b01" ed="T"/><g ref="#SD-A442"/><g ref="#SD-A4DC"/>　<g ref="#SD-A5D9"/><g ref="#SD-A652"/><g ref="#SD-A558"/><g ref="#SD-A65D"/>　<g ref="#SD-A67A"/><g ref="#SD-B6EC"/><g ref="#SD-A652"/><g ref="#SD-A6A9"/><g ref="#SD-A64C"/><g ref="#SD-C97B"/>
+<lb n="0105b02" ed="T"/>　<g ref="#SD-A66A"/><g ref="#SD-A66E"/><g ref="#SD-AA5F"/>　<g ref="#SD-A67A"/><g ref="#SD-A458"/><g ref="#SD-A5FD"/>　<g ref="#SD-A658"/><g ref="#SD-A66E"/><g ref="#SD-A5F9"/><g ref="#SD-A458"/>
+<lb n="0105b03" ed="T"/><g ref="#SD-CFC5"/><g ref="#SD-B34B"/>　<g ref="#SD-D1F3"/><g ref="#SD-A56F"/><g ref="#SD-A440"/>　<g ref="#SD-A5E5"/><g ref="#SD-A5FD"/><g ref="#SD-A65C"/><g ref="#SD-A5FD"/>　<g ref="#SD-A441"/><g ref="#SD-CA56"/>
+<lb n="0105b04" ed="T"/><g ref="#SD-A5FD"/>　<g ref="#SD-CFC5"/><g ref="#SD-A441"/><g ref="#SD-A64B"/>　<g ref="#SD-DA78"/><g ref="#SD-A7DB"/>　<g ref="#SD-AA65"/><g ref="#SD-E043"/><g ref="#SD-A440"/>　<g ref="#SD-AA65"/>
+<lb n="0105b05" ed="T"/><g ref="#SD-A64B"/><g ref="#SD-A4DA"/><g ref="#SD-A440"/>　<g ref="#SD-CC58"/><g ref="#SD-E0EB"/><g ref="#SD-A440"/>　<g ref="#SD-A67A"/><g ref="#SD-B6EC"/><g ref="#SD-A5A9"/><g ref="#SD-A444"/><g ref="#SD-A64A"/>
+<lb n="0105b06" ed="T"/><g ref="#SD-E0EC"/><g ref="#SD-A6A9"/>　<g ref="#SD-A8BF"/><g ref="#SD-A96B"/>　<g ref="#SD-A640"/><g ref="#SD-A6B4"/>　<g ref="#SD-A557"/><g ref="#SD-A5FD"/><g ref="#SD-A640"/><g ref="#SD-A6B4"/>
+<lb n="0105b07" ed="T"/><g ref="#SD-A47C"/><g ref="#SD-A5E5"/><g ref="#SD-A5FD"/><g ref="#SD-A4B9"/><g ref="#SD-A658"/><g ref="#SD-A5DF"/>　<g ref="#SD-A55D"/><g ref="#SD-E25A"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A9"/><g ref="#SD-E25A"/>
+<lb n="0105b08" ed="T"/><g ref="#SD-A67C"/><g ref="#SD-A558"/><g ref="#SD-A557"/><g ref="#SD-A5B5"/><g ref="#SD-AA5E"/>　<g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A656"/><g ref="#SD-A9C5"/><g ref="#SD-E0C7"/><g ref="#SD-A678"/>　<g ref="#SD-A5E5"/>
+<lb n="0105b09" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-AABC"/><g ref="#SD-A7DB"/><g ref="#SD-C97D"/><g ref="#SD-A648"/>　<g ref="#SD-A5F2"/><g ref="#SD-A656"/><g ref="#SD-AF72"/>　<g ref="#SD-A56F"/><g ref="#SD-A662"/><g ref="#SD-A5F9"/><g ref="#SD-A4B6"/>
+<lb n="0105b10" ed="T"/><g ref="#SD-A5AA"/><g ref="#SD-E4B9"/><g ref="#SD-CA56"/><g ref="#SD-A644"/><g ref="#SD-A54B"/>　<g ref="#SD-A67B"/><g ref="#SD-A5E5"/><g ref="#SD-A5CD"/><g ref="#SD-CAA6"/>　<g ref="#SD-A440"/><g ref="#SD-A646"/><g ref="#SD-A5E7"/>
+<lb n="0105b11" ed="T"/>　<g ref="#SD-A571"/><g ref="#SD-A663"/><g ref="#SD-A5CD"/><g ref="#SD-CAA6"/>　<g ref="#SD-A440"/><g ref="#SD-A646"/><g ref="#SD-A5E7"/>　<g ref="#SD-A5B5"/><g ref="#SD-A5FD"/><g ref="#SD-A658"/><g ref="#SD-A7EF"/>
+<lb n="0105b12" ed="T"/>　<g ref="#SD-A5CD"/><g ref="#SD-CAA6"/>　<g ref="#SD-A440"/><g ref="#SD-A646"/><g ref="#SD-A5E7"/>　<g ref="#SD-A55D"/><g ref="#SD-A4BE"/>　<g ref="#SD-A5CD"/><g ref="#SD-CAA6"/>
+<lb n="0105b13" ed="T"/><g ref="#SD-A440"/><g ref="#SD-A646"/><g ref="#SD-A5E7"/>　<g ref="#SD-A6A8"/><g ref="#SD-CDAA"/>　<g ref="#SD-A5CD"/><g ref="#SD-CAA6"/>　<g ref="#SD-A440"/><g ref="#SD-A646"/><g ref="#SD-A5E7"/>
+<lb n="0105b14" ed="T"/><g ref="#SD-A5B6"/><g ref="#SD-A56F"/>　<g ref="#SD-A5CD"/><g ref="#SD-CAA6"/>　<g ref="#SD-A440"/><g ref="#SD-A646"/><g ref="#SD-A5E7"/>　<g ref="#SD-A67A"/><g ref="#SD-B7A4"/><g ref="#SD-C97B"/><g ref="#SD-AABC"/>
+<lb n="0105b15" ed="T"/><g ref="#SD-A7DB"/><g ref="#SD-C97B"/>　<g ref="#SD-A5CD"/><g ref="#SD-CAA6"/>　<g ref="#SD-A440"/><g ref="#SD-A646"/><g ref="#SD-A5E7"/>　<g ref="#SD-A557"/><g ref="#SD-A7EF"/><g ref="#SD-A564"/>
+<lb n="0105b16" ed="T"/><g ref="#SD-E074"/>　<g ref="#SD-CFC5"/><g ref="#SD-A5A9"/><g ref="#SD-A650"/>　<g ref="#SD-CFC5"/><g ref="#SD-A5A9"/><g ref="#SD-A650"/>　<g ref="#SD-A658"/><g ref="#SD-A662"/><g ref="#SD-A56F"/>
+<lb n="0105b17" ed="T"/><g ref="#SD-A658"/><g ref="#SD-A662"/><g ref="#SD-A56F"/>　<g ref="#SD-A5CD"/><g ref="#SD-E3CE"/><g ref="#SD-A5CD"/><g ref="#SD-E3CE"/>　<g ref="#SD-A5CD"/><g ref="#SD-E3CE"/><g ref="#SD-A5AB"/><g ref="#SD-A5CD"/><g ref="#SD-E3CE"/>
+<lb n="0105b18" ed="T"/><g ref="#SD-A5AB"/>　<g ref="#SD-A65D"/><g ref="#SD-A5FD"/><g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A5B6"/><g ref="#SD-A54D"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-E17C"/>
+<lb n="0105b19" ed="T"/><g ref="#SD-CFBF"/>　<g ref="#SD-A5C1"/><g ref="#SD-E046"/>　<g ref="#SD-B065"/><g ref="#SD-A6A9"/>　<g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-CDA9"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A558"/>
+<lb n="0105b20" ed="T"/><g ref="#SD-A5F1"/>　<g ref="#SD-E0BC"/><g ref="#SD-A458"/><g ref="#SD-A558"/><g ref="#SD-A5F2"/><g ref="#SD-B7D3"/><g ref="#SD-A55D"/>　<g ref="#SD-A67A"/><g ref="#SD-A8A6"/><g ref="#SD-DA40"/><g ref="#SD-E3AD"/><g ref="#SD-D9FA"/>
+<lb n="0105b21" ed="T"/><g ref="#SD-A5F1"/>　<g ref="#SD-A67C"/><g ref="#SD-E1E3"/><g ref="#SD-A55B"/>　<g ref="#SD-A656"/><g ref="#SD-E0F5"/><g ref="#SD-A5B5"/><g ref="#SD-A570"/>　<g ref="#SD-B065"/><g ref="#SD-A6A9"/>
+<lb n="0105b22" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-A5E5"/><g ref="#SD-CEE4"/></p></cb:div>
+</body></text></TEI>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T10n0280"><teiHeader><fileDesc>
+<titleStmt>
+<title>Taisho Tripitaka, Electronic version, No. 0280 佛說兜沙經</title>
+<author>後漢 支婁迦讖譯</author>
+<respStmt>
+<resp>Electronic Version by</resp><name>CBETA</name>
+</respStmt>
+</titleStmt>
+<editionStmt><edition>$Revision: 1.17 $<date>$Date: 2012/08/27 03:14:27 $</date>新式標點版</edition></editionStmt>
+<extent>1卷</extent>
+<publicationStmt><distributor><name>中華電子佛典協會 (CBETA)</name>
+<address><addrLine>service@cbeta.org</addrLine></address>
+</distributor>
+<availability><p>Available for non-commercial use when distributed with this header intact.</p></availability>
+<date>$Date: 2012/08/27 03:14:27 $</date></publicationStmt>
+<sourceDesc><bibl>Taisho Tripitaka Vol. 10, No. 280</bibl></sourceDesc></fileDesc>
+<encodingDesc><projectDesc>
+<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by Mr. Christian Wittern, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An</p>
+<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，維習安大德提供，佩君、廖予安大德提供新式標點</p>
+</projectDesc></encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="1999-05-07T18:09:05">CW (ed.) converted to XML with CBXML.BAT (99/4/29)</change>
+<!--
+$Log: T10n0280.xml,v $
+Revision 1.17  2012/08/27 03:14:27  maha
+修訂新標小圓點及著重號
+
+Revision 1.16  2009/04/23 07:57:33  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.15  2009/03/05 09:30:25  saywhat
+新式標點版
+
+Revision 1.14  2009/01/11 15:48:42  saywhat
+TK修訂：p0445c11 [闇>闍]
+
+Revision 1.13  2006/04/12 21:54:31  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.11  2004/11/19 15:05:34  saywhat
+書面校對修訂
+
+Revision 1.10  2004/10/12 03:55:57  saywhat
+段落前加入圈點
+
+Revision 1.9  2004/05/18 06:15:56  saywhat
+added juan & jhead
+
+Revision 1.8  2004/05/10 09:18:00  saywhat
+modified <p><pb>
+
+Revision 1.7  2004/04/20 08:37:28  maha
+「版本日期」標記修訂
+
+Revision 1.6  2004/02/27 06:08:41  ray
+add cvs log
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="0445a" ed="T" xml:id="T10.0280.0445a"/>
+<lb n="0445a01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<cb:docNumber>No. 280 [Nos. 278(3, 5), 279(7, 9)]</cb:docNumber>
+<lb n="0445a02" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead><title>佛說兜沙經</title><note n="0445001" resp="Taisho" type="orig" place="foot text">〔一卷〕－【三】【宮】</note><note n="0445001" resp="CBETA" type="mod">〔一卷〕－【宋】【元】【明】【宮】</note><app n="0445001"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
+<lb n="0445a03" ed="T"/>
+<lb n="0445a04" ed="T"/><byline>後漢<note n="0445002" resp="Taisho" type="orig" place="foot text">〔月氏〕－【宋】【宮】，氏＝支【元】【明】</note><app n="0445002"><lem wit="【大】">月氏</lem><rdg resp="Taisho" wit="【宋】【宮】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【元】【明】">月支</rdg></app><note n="0445003" resp="Taisho" type="orig" place="foot text">三藏＋（法師）【三】【宮】</note><note n="0445003" resp="CBETA" type="mod">三藏＋（法師）【宋】【元】【明】【宮】</note><app n="0445003"><lem wit="【大】">三藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">三藏法師</rdg></app>支婁迦讖譯</byline>
+<lb n="0445a05" ed="T"/><cb:div type="jing"><p xml:id="pT10p0445a0501">一切諸佛威神恩，諸過去、當來、今現在亦爾。</p>
+<lb n="0445a06" ed="T"/><p xml:id="pT10p0445a0601">佛在摩竭提國時，法清淨處，其處號曰在所
+<lb n="0445a07" ed="T"/>問清淨。</p><p xml:id="pT10p0445a0704" rend="inline">始作佛時，光<note n="0445004" resp="Taisho" type="orig" place="foot text">景＝影【明】【宮】</note><app n="0445004"><lem wit="【大】">景</lem><rdg resp="Taisho" wit="【明】【宮】">影</rdg></app>甚明。自然金剛蓮
+<lb n="0445a08" ed="T"/>華，周匝甚大。自然師子座，諸佛過去時亦悉
+<lb n="0445a09" ed="T"/>於上坐，儀法等無有異。</p><p xml:id="pT10p0445a0910" rend="inline">極相法中，出生極過
+<lb n="0445a10" ed="T"/>度已。諸佛身體行，悉等具足，明無所復罣礙。</p>
+<lb n="0445a11" ed="T"/><p xml:id="pT10p0445a1101">不可計佛處、不可計法處、不可計諸大十方
+<lb n="0445a12" ed="T"/>人民處、不可計佛剎處，過去、當來、今現在佛
+<lb n="0445a13" ed="T"/>等所出生也。</p><p xml:id="pT10p0445a1306" rend="inline">諸菩薩等各各從異國土來都
+<lb n="0445a14" ed="T"/>大會，其數如十佛剎塵。一塵為一菩薩，如
+<lb n="0445a15" ed="T"/>是為限。</p><p xml:id="pT10p0445a1504" rend="inline">諸菩薩賜一生補處，皆入十方人民
+<lb n="0445a16" ed="T"/>典安隱、皆入法處、皆入十方諸剎土、皆入
+<lb n="0445a17" ed="T"/>十方泥洹慧、皆入十方所作世間人宿命、皆
+<lb n="0445a18" ed="T"/>入稍稍增深菩薩、皆入諸慧法中、皆入內外
+<lb n="0445a19" ed="T"/>法中、皆入不動不搖法中、皆入過去當來今
+<lb n="0445a20" ed="T"/>現在法中。</p><p xml:id="pT10p0445a2005" rend="inline">諸菩薩輩議如是：「佛愛我曹等輩。」</p>
+<lb n="0445a21" ed="T"/><p xml:id="pT10p0445a2101">諸菩薩等所念：「示現我等諸佛剎，如佛所行
+<lb n="0445a22" ed="T"/>居處阿。彼<note n="0445005" resp="Taisho" type="orig" place="foot text">聞＝間【三】【宮】</note><note n="0445005" resp="CBETA" type="mod">聞＝間【宋】【元】【明】【宮】</note><app n="0445005"><lem wit="【大】">聞</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">間</rdg></app>所有，現我等諸佛剎清淨、現
+<lb n="0445a23" ed="T"/>我等如佛法清淨。</p><p xml:id="pT10p0445a2308" rend="inline">「佛<note n="0445006" resp="Taisho" type="orig" place="foot text">所＝土【三】【宮】</note><note n="0445006" resp="CBETA" type="mod">所＝土【宋】【元】【明】【宮】</note><app n="0445006"><lem wit="【大】">所</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">土</rdg></app>說法，悉皆使我曹
+<lb n="0445a24" ed="T"/>見矣；現我等佛剎成敗時，使我曹悉見矣。現
+<lb n="0445a25" ed="T"/>我曹等諸佛起出時、現我等佛剎所有善惡，
+<lb n="0445a26" ed="T"/>佛所有悉示我。</p><p xml:id="pT10p0445a2607" rend="inline">「示現我曹十方諸有剎土、現
+<lb n="0445a27" ed="T"/>我等諸不可計佛所說、現我等菩薩十法住、
+<lb n="0445a28" ed="T"/>現我等菩薩十法所行、現我等菩薩十法悔
+<lb n="0445a29" ed="T"/>過經、現我等菩薩十道地、現我菩薩十鎮、現
+<pb n="0445b" ed="T" xml:id="T10.0280.0445b"/>
+<lb n="0445b01" ed="T"/>我等菩薩十居處所願、現我菩薩十黠、現我
+<lb n="0445b02" ed="T"/>菩薩十三昧、現我菩薩十飛法、現我菩薩十
+<lb n="0445b03" ed="T"/>印、現我菩薩悉飛來時、現我佛名無有盡。</p><p xml:id="pT10p0445b0317" rend="inline">「時
+<lb n="0445b04" ed="T"/>佛使我皆護世間人民，十方佛諸有剎土悉
+<lb n="0445b05" ed="T"/>清淨無瑕穢。現我佛諸所知有無有也、現我
+<lb n="0445b06" ed="T"/>諸惡根本，悉使清淨。</p><p xml:id="pT10p0445b0609" rend="inline">「諸法悉為我說、諸所
+<lb n="0445b07" ed="T"/>疑難皆為解之——悉為解狐疑，皆過度矣——諸所
+<lb n="0445b08" ed="T"/>有欲斷之。</p><p xml:id="pT10p0445b0805" rend="inline">「現我佛所止處、現我佛諸法所部
+<lb n="0445b09" ed="T"/>界、現我佛威神、現我佛所行、現我佛筋力。</p><p xml:id="pT10p0445b0917" rend="inline">「現
+<lb n="0445b10" ed="T"/>我佛四事不護、現我佛三昧所入處、現我佛
+<lb n="0445b11" ed="T"/>所變化在所為。</p><p xml:id="pT10p0445b1107" rend="inline">「現我佛無有過勝者、現我佛
+<lb n="0445b12" ed="T"/>所有尊號，無有能及逮者。</p><p xml:id="pT10p0445b1211" rend="inline">「現我佛所根、現
+<lb n="0445b13" ed="T"/>我佛飛、現我佛光明、現我佛智慧、現我佛
+<lb n="0445b14" ed="T"/>四事無所畏。」</p><p xml:id="pT10p0445b1406" rend="inline">佛悉知諸菩薩心所念，佛悉現
+<lb n="0445b15" ed="T"/>光明威神。</p>
+<lb n="0445b16" ed="T"/><p xml:id="pT10p0445b1601">東方極遠不可計佛剎有佛，佛名阿逝墮，其
+<lb n="0445b17" ed="T"/>剎名訖連桓。文殊師利菩薩從是剎來，與諸
+<lb n="0445b18" ed="T"/>菩薩俱——數如十方剎塵——皆前為佛作禮，各
+<lb n="0445b19" ed="T"/>各於自然師子座交<note n="0445007" resp="Taisho" type="orig" place="foot text">路＝露【三】【宮】＊</note><note n="0445007" resp="CBETA" type="mod">路＝露【宋】【元】【明】【宮】＊</note><app n="0445007"><lem wit="【大】">路</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">露</rdg></app>帳中坐。</p>
+<lb n="0445b20" ed="T"/><p xml:id="pT10p0445b2001">南方極遠不可計佛剎有佛，佛名阿泥羅墮
+<lb n="0445b21" ed="T"/>羅，其剎名樓耆<note n="0445008" resp="Taisho" type="orig" place="foot text">洹＝桓【三】【宮】</note><note n="0445008" resp="CBETA" type="mod">洹＝桓【宋】【元】【明】【宮】</note><app n="0445008"><lem wit="【大】">洹</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">桓</rdg></app>。佛陀師利菩薩從是剎
+<lb n="0445b22" ed="T"/>來，與諸菩薩俱——其數如十佛剎塵——皆前為佛
+<lb n="0445b23" ed="T"/>作禮，各各於自然師子座交<app type="star" corresp="#0445007"><lem wit="【大】">路</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">露</rdg></app>帳中坐。</p>
+<lb n="0445b24" ed="T"/><p xml:id="pT10p0445b2401">西方極遠不可計佛剎有佛，<note n="0445009" resp="Taisho" type="orig" place="foot text">〔佛〕－【三】【宮】</note><note n="0445009" resp="CBETA" type="mod">〔佛〕－【宋】【元】【明】【宮】</note><app n="0445009"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>名<note n="0445010" resp="Taisho" type="orig" place="foot text">阿＋（闍）【三】【宮】</note><note n="0445010" resp="CBETA" type="mod">阿＋（闍）【宋】【元】【明】【宮】</note><app n="0445010"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">阿闍</rdg></app>斯墮
+<lb n="0445b25" ed="T"/>陀，其剎名波頭洹。羅隣師利菩薩從是剎來，
+<lb n="0445b26" ed="T"/>與諸菩薩俱——其數如十佛剎塵——皆前為佛作
+<lb n="0445b27" ed="T"/>禮，各各於自然師子座交<app type="star" corresp="#0445007"><lem wit="【大】">路</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">露</rdg></app>帳中坐。</p>
+<lb n="0445b28" ed="T"/><p xml:id="pT10p0445b2801">北方極遠不可計佛剎有佛，佛名阿闍墮，其
+<lb n="0445b29" ed="T"/>剎名占倍洹。檀那師利菩薩從是剎來，與諸
+<lb n="0445b30" ed="T"/>菩薩俱——其數如十佛剎塵——皆前為佛作禮，各
+<pb n="0445c" ed="T" xml:id="T10.0280.0445c"/>
+<lb n="0445c01" ed="T"/>各於自然師子座交<app type="star" corresp="#0445007"><lem wit="【大】">路</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">露</rdg></app>帳中坐。</p>
+<lb n="0445c02" ed="T"/><p xml:id="pT10p0445c0201">東北方極遠不可計佛剎有佛，佛名阿<note n="0445011" resp="Taisho" type="orig" place="foot text">輸＝輪【三】【宮】</note><note n="0445011" resp="CBETA" type="mod">輸＝輪【宋】【元】【明】【宮】</note><app n="0445011"><lem wit="【大】">輸</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">輪</rdg></app>那
+<lb n="0445c03" ed="T"/>墮國陀，其剎名優<note n="0445012" resp="Taisho" type="orig" place="foot text">彼＝波【三】，披【宮】</note><note n="0445012" resp="CBETA" type="mod">彼＝波【宋】【元】【明】，＝披【宮】</note><app n="0445012"><lem wit="【大】">彼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">波</rdg><rdg resp="Taisho" wit="【宮】">披</rdg></app>洹。群那師利菩薩從
+<lb n="0445c04" ed="T"/>是剎來，與諸菩薩俱——其數如十佛剎塵——皆前
+<lb n="0445c05" ed="T"/>為佛作禮，各各於自然師子座交<app type="star" corresp="#0445007"><lem wit="【大】">路</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">露</rdg></app>帳中坐。</p>
+<lb n="0445c06" ed="T"/><p xml:id="pT10p0445c0601">東南方極遠不可計佛剎有佛，佛名阿旃陀
+<lb n="0445c07" ed="T"/>墮陀，其剎名犍<note n="0445013" resp="Taisho" type="orig" place="foot text">闍＝闥【三】【宮】</note><note n="0445013" resp="CBETA" type="mod">闍＝闥【宋】【元】【明】【宮】</note><app n="0445013"><lem wit="【大】">闍</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">闥</rdg></app>洹。那<note n="0445014" resp="Taisho" type="orig" place="foot text">涅＝洹【明】【宮】</note><app n="0445014"><lem wit="【大】">涅</lem><rdg resp="Taisho" wit="【明】【宮】">洹</rdg></app>羅師利菩薩從
+<lb n="0445c08" ed="T"/>是剎來，與諸菩薩俱——其數如十佛剎塵——皆前
+<lb n="0445c09" ed="T"/>為佛作禮，各各於自然師子座交<app type="star" corresp="#0445007"><lem wit="【大】">路</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">露</rdg></app>帳中坐。</p>
+<lb n="0445c10" ed="T"/><p xml:id="pT10p0445c1001">西南方極遠不可計佛剎有佛，佛名欝沈墮
+<lb n="0445c11" ed="T"/>大，其剎名羅憐洹。惟<app><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">闍<note type="cf1">K08n0090_p1100a14</note><note type="cf2">T10n0280_p0446b13</note></lem><rdg wit="【大】">闇</rdg></app>師利菩薩從是剎
+<lb n="0445c12" ed="T"/>來，與諸菩薩俱——其數如十佛剎塵——皆前為
+<lb n="0445c13" ed="T"/>佛作禮，各各於自然師子座交<app type="star" corresp="#0445007"><lem wit="【大】">路</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">露</rdg></app>帳中坐。</p>
+<lb n="0445c14" ed="T"/><p xml:id="pT10p0445c1401">西北方極遠不可計佛剎有佛，佛名阿波羅
+<lb n="0445c15" ed="T"/>墮，其剎名活逸洹。曇摩師利菩薩從是剎
+<lb n="0445c16" ed="T"/>來，與諸菩薩俱——其數如十佛剎塵——皆前為
+<lb n="0445c17" ed="T"/>佛作禮，各各<note n="0445015" resp="Taisho" type="orig" place="foot text">〔於〕－【宮】</note><app n="0445015"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>自然師子座交<app type="star" corresp="#0445007"><lem wit="【大】">路</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">露</rdg></app>帳中坐。</p>
+<lb n="0445c18" ed="T"/><p xml:id="pT10p0445c1801">下方極遠不可計佛剎有佛，佛名楓摩墮羅，
+<lb n="0445c19" ed="T"/>其剎名潘利洹。𢜪那師利菩薩從是剎來，與
+<lb n="0445c20" ed="T"/>諸菩薩俱——其數如十佛剎塵——皆前為佛作禮，
+<lb n="0445c21" ed="T"/>各各於自然師子座交<app type="star" corresp="#0445007"><lem wit="【大】">路</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">露</rdg></app>帳中坐。</p>
+<lb n="0445c22" ed="T"/><p xml:id="pT10p0445c2201">上方極遠不可計佛剎有佛，佛名<note n="0445016" resp="Taisho" type="orig" place="foot text">墮＝隨【三】【宮】</note><note n="0445016" resp="CBETA" type="mod">墮＝隨【宋】【元】【明】【宮】</note><app n="0445016"><lem wit="【大】">墮</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">隨</rdg></app>色，其
+<lb n="0445c23" ed="T"/>剎名儨提<note n="0445017" resp="Taisho" type="orig" place="foot text">拾＝捨【三】【宮】</note><note n="0445017" resp="CBETA" type="mod">拾＝捨【宋】【元】【明】【宮】</note><app n="0445017"><lem wit="【大】">拾</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">捨</rdg></app>洹。那<note n="0445018" resp="Taisho" type="orig" place="foot text">軷＝戰【三】【宮】</note><note n="0445018" resp="CBETA" type="mod">軷＝戰【宋】【元】【明】【宮】</note><app n="0445018"><lem wit="【大】">軷</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">戰</rdg></app>陀師利菩薩從是剎
+<lb n="0445c24" ed="T"/>來，與諸菩薩俱——其數如十佛剎塵——皆前為佛
+<lb n="0445c25" ed="T"/>作禮，各各於自然師子座交<app type="star" corresp="#0445007"><lem wit="【大】">路</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">露</rdg></app>帳中坐。</p>
+<lb n="0445c26" ed="T"/><p xml:id="pT10p0445c2601">文殊師利菩薩持佛威神，悉遍視諸菩薩，皆
+<lb n="0445c27" ed="T"/>遍以便舉慧言：「諸菩薩大眾會，何甚快耶？不
+<lb n="0445c28" ed="T"/>可復計諸佛剎——佛所居處、諸所處；諸所被服
+<lb n="0445c29" ed="T"/>佛法——佛說法、佛剎威神、佛所行、佛筋力、佛
+<lb n="0445c30" ed="T"/>剎善惡、不可計佛法。</p><p xml:id="pT10p0445c3009" rend="inline">「何因耶？十方諸佛剎
+<pb n="0446a" ed="T" xml:id="T10.0280.0446a"/>
+<lb n="0446a01" ed="T"/>土所說道、所度脫十方人，諸法甚深無極，如
+<lb n="0446a02" ed="T"/>虛空了無所罣礙。</p><p xml:id="pT10p0446a0208" rend="inline">「何因耶？是<note n="0446001" resp="Taisho" type="orig" place="foot text">蔡＝祭【三】【宮】</note><note n="0446001" resp="CBETA" type="mod">蔡＝祭【宋】【元】【明】【宮】</note><app n="0446001"><lem wit="【大】">蔡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">祭</rdg></app>呵祇剎土
+<lb n="0446a03" ed="T"/>四面種種人——各各異身體、各各異名、各各
+<lb n="0446a04" ed="T"/>異色、各各有長短、各各有壽命、各各有形類、
+<lb n="0446a05" ed="T"/>各各有思想、各各有念、各各異有聲——各各
+<lb n="0446a06" ed="T"/>有聞佛聲。</p><p xml:id="pT10p0446a0605" rend="inline">「何因是國土名<note n="0446002" resp="Taisho" type="orig" place="foot text">波＝彼【三】【宮】</note><note n="0446002" resp="CBETA" type="mod">波＝彼【宋】【元】【明】【宮】</note><app n="0446002"><lem wit="【大】">波</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">彼</rdg></app>迦私提？四面
+<lb n="0446a07" ed="T"/>中有呼佛名曰勝達、中有呼世世慢陀、中有
+<lb n="0446a08" ed="T"/>呼夷<note n="0446003" resp="Taisho" type="orig" place="foot text">阿＝呵【三】【宮】</note><note n="0446003" resp="CBETA" type="mod">阿＝呵【宋】【元】【明】【宮】</note><app n="0446003"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">呵</rdg></app>那<note n="0446004" resp="Taisho" type="orig" place="foot text">坭＝坻【三】【宮】</note><note n="0446004" resp="CBETA" type="mod">坭＝坻【宋】【元】【明】【宮】</note><app n="0446004"><lem wit="【大】">坭</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">坻</rdg></app>提、中有呼釋迦文尼、中有呼
+<lb n="0446a09" ed="T"/>鼓師薩沈、中有呼墮樓延、中有呼俱䜖滑提、
+<lb n="0446a10" ed="T"/>中有呼摩呵沙門、中有呼晨那愁樓提、中有
+<lb n="0446a11" ed="T"/>呼質多<note n="0446005" resp="Taisho" type="orig" place="foot text">愁＝和【三】【宮】</note><note n="0446005" resp="CBETA" type="mod">愁＝和【宋】【元】【明】【宮】</note><app n="0446005"><lem wit="【大】">愁</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">和</rdg></app>樓提等。為四面如是輩，各各呼
+<lb n="0446a12" ed="T"/>釋迦文佛名，合為萬字。</p><p xml:id="pT10p0446a1210" rend="inline">「如是十方極過去不
+<lb n="0446a13" ed="T"/>可復計諸佛剎——都人民種種各異語——共呼釋
+<lb n="0446a14" ed="T"/>迦文佛名、佛字。一一佛剎，凡各十億萬字。</p><p xml:id="pT10p0446a1417" rend="inline">「釋
+<lb n="0446a15" ed="T"/>迦文佛從本未造學道<note n="0446006" resp="Taisho" type="orig" place="foot text">已＝以【三】【宮】</note><note n="0446006" resp="CBETA" type="mod">已＝以【宋】【元】【明】【宮】</note><app n="0446006"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">以</rdg></app>來，諸所教授弟
+<lb n="0446a16" ed="T"/>子等輩時人如是。」</p><p xml:id="pT10p0446a1608" rend="inline">佛放光明。先從足下出，照
+<lb n="0446a17" ed="T"/>一佛界中極明，現十億閻浮利天南、十億大
+<lb n="0446a18" ed="T"/>海、十億須彌山、十億遮加惒山、十億弗于
+<lb n="0446a19" ed="T"/>逮天東、十億俱耶匿天西、十億欝單曰天北、
+<lb n="0446a20" ed="T"/>十億照頭摩羅天、十億忉利天、十億鹽天、十
+<lb n="0446a21" ed="T"/>億兜術天、十億泥摩羅提羅鄰優天、十億波
+<lb n="0446a22" ed="T"/>羅蜜和耶拔致天、十億梵天、十億梵迦夷天、
+<lb n="0446a23" ed="T"/>十億梵弗還天、十億梵迦產天、十億摩訶梵
+<lb n="0446a24" ed="T"/>天、十億廅天、十億波梨陀天、十億廅波摩那
+<lb n="0446a25" ed="T"/>天、十億阿會亘羞天、十億<note n="0446007" resp="Taisho" type="orig" place="foot text">〔波〕－【三】【宮】</note><note n="0446007" resp="CBETA" type="mod">〔波〕－【宋】【元】【明】【宮】</note><app n="0446007"><lem wit="【大】">波</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>栗羞訶天、十
+<lb n="0446a26" ed="T"/>億阿波摩羞天、十億羞訖天、十億<note n="0446008" resp="Taisho" type="orig" place="foot text">權＝推【三】【宮】</note><note n="0446008" resp="CBETA" type="mod">權＝推【宋】【元】【明】【宮】</note><app n="0446008"><lem wit="【大】">權</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">推</rdg></app>呵天、
+<lb n="0446a27" ed="T"/>十億<note n="0446009" resp="Taisho" type="orig" place="foot text">波＝汲【三】【宮】＊</note><note n="0446009" resp="CBETA" type="mod">波＝汲【宋】【元】【明】【宮】＊</note><app n="0446009"><lem wit="【大】">波</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">汲</rdg></app>栗推呵天、十億阿<app type="star" corresp="#0446009"><lem wit="【大】">波</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">汲</rdg></app>墮訶天、十億
+<lb n="0446a28" ed="T"/>惟于潘天、十億阿惟潘天、十億阿陀波天、十
+<lb n="0446a29" ed="T"/>億須𨅐<note place="inline"><note n="0446010" resp="Taisho" type="orig" place="foot text">音武＝武音【三】【宮】</note><note n="0446010" resp="CBETA" type="mod">音武＝武音【宋】【元】【明】【宮】</note><app n="0446010"><lem wit="【大】">音武</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">武音</rdg></app></note>天、十億呵迦<note n="0446011" resp="Taisho" type="orig" place="foot text">膩＝㒃【明】【宮】</note><app n="0446011"><lem wit="【大】">膩</lem><rdg resp="Taisho" wit="【明】【宮】">㒃</rdg></app>吒天、十億阿惟
+<lb n="0446a30" ed="T"/>先惟先尼<note n="0446012" resp="Taisho" type="orig" place="foot text">𦱕＝呵【明】【宮】</note><app n="0446012"><lem wit="【大】">𦱕</lem><rdg resp="Taisho" wit="【明】【宮】">呵</rdg></app>。</p>
+<pb n="0446b" ed="T" xml:id="T10.0280.0446b"/>
+<lb n="0446b01" ed="T"/><p xml:id="pT10p0446b0101">如是等，各各照見諸天上人所止處。敢是佛
+<lb n="0446b02" ed="T"/>界中，悉皆照明，釋迦文佛都所典<note n="0446013" resp="Taisho" type="orig" place="foot text">主＝王【明】</note><app n="0446013"><lem wit="【大】">主</lem><rdg resp="Taisho" wit="【明】">王</rdg></app>。</p><p xml:id="pT10p0446b0215" rend="inline">十方
+<lb n="0446b03" ed="T"/>國一一方，各有一億小國土，皆有一大海、一
+<lb n="0446b04" ed="T"/>須彌山；上至三十三天，一小國土，如是所部。</p>
+<lb n="0446b05" ed="T"/><p xml:id="pT10p0446b0501">凡有十億小國土，合為一佛剎，名為蔡呵祇。</p>
+<lb n="0446b06" ed="T"/><p xml:id="pT10p0446b0601">佛分身悉遍至十億小國土。一一小國土皆
+<lb n="0446b07" ed="T"/>有一佛，凡有十億佛，皆與諸菩薩，共坐十
+<lb n="0446b08" ed="T"/>億小國土。</p><p xml:id="pT10p0446b0805" rend="inline">諸天人民皆悉見佛，諸菩薩、諸
+<lb n="0446b09" ed="T"/>天人民皆持佛威神，相視如迎，相見
+<lb n="0446b10" ed="T"/>文殊師利菩薩。</p><p xml:id="pT10p0446b1007" rend="inline">復有文殊師利菩薩、
+<lb n="0446b11" ed="T"/>　羅鄰師利菩薩、　檀那師利菩薩、
+<lb n="0446b12" ed="T"/>　群那師利菩薩、　佛陀師利菩薩、
+<lb n="0446b13" ed="T"/>　涅羅師利菩薩、　惟闍師利菩薩、
+<lb n="0446b14" ed="T"/>　𢜪那師利菩薩、　軷陀師利菩薩、
+<lb n="0446b15" ed="T"/>　曇摩師利菩薩。</p>
+<lb n="0446b16" ed="T"/><p xml:id="pT10p0446b1601">如是等菩薩其所止佛剎，剎極快好，其剎皆
+<lb n="0446b17" ed="T"/>各各自有名：
+<lb n="0446b18" ed="T"/>　阿栴墮還佛、　阿泥羅墮還佛、
+<lb n="0446b19" ed="T"/>　阿闍陀墮還佛、　阿樓那墮還佛、
+<lb n="0446b20" ed="T"/>　阿<note n="0446014" resp="Taisho" type="orig" place="foot text">栴＝施【明】【宮】</note><app n="0446014"><lem wit="【大】">栴</lem><rdg resp="Taisho" wit="【明】【宮】">施</rdg></app>陀墮還佛、　欝沈墮還佛、
+<lb n="0446b21" ed="T"/>　<note n="0446015" resp="Taisho" type="orig" place="foot text">伊＝阿【三】【宮】</note><note n="0446015" resp="CBETA" type="mod">伊＝阿【宋】【元】【明】【宮】</note><app n="0446015"><lem wit="【大】">伊</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">阿</rdg></app>豆羅<note n="0446016" resp="Taisho" type="orig" place="foot text">〔墮〕－【宮】</note><app n="0446016"><lem wit="【大】">墮</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>還佛、　梵摩墮還佛、
+<lb n="0446b22" ed="T"/>　惟夷<note n="0446017" resp="Taisho" type="orig" place="foot text">羅＋（墮）【三】【宮】</note><note n="0446017" resp="CBETA" type="mod">羅＋（墮）【宋】【元】【明】【宮】</note><app n="0446017"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">羅墮</rdg></app>還佛。</p></cb:div>
+<lb n="0446b23" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>佛說兜沙經</title></cb:jhead></cb:juan>
+</body></text></TEI>

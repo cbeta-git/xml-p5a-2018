@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T85n2837">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 2837 楞伽師資記</title>
+			<author>唐 淨覺集</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.13 $<date>$Date: 2009/04/23 08:15:19 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:15:19 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 85, No. 2837 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2001-01-31T11:46:37">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T85n2837.xml,v $
+Revision 1.13  2009/04/23 08:15:19  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.12  2006/04/12 22:00:52  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.10  2004/11/14 03:18:27  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.9  2004/11/02 02:15:56  saywhat
+段落前加入圈點
+
+Revision 1.8  2004/09/02 03:09:44  saywhat
+p1285b02 [及>反]
+
+Revision 1.7  2004/04/20 08:44:54  maha
+「版本日期」標記修訂
+
+Revision 1.6  2004/03/16 02:21:43  ray
+resp 屬性 統一格式為 CBETA.xxx
+
+Revision 1.5  2004/01/02 05:56:07  maha
+<note mod>裡的corr2app
+
+Revision 1.4  2003/06/25 06:46:02  moved
+執行 corr2app.pl v0.3.1
+
+Revision 1.2  2003/06/23 05:19:37  moved
+＊校勘插入 xml 作業
+
+Revision 1.1.1.1  2003/05/05 04:11:03  ray
+recover cvs
+
+Revision 1.17  2002/12/09 03:45:24  moved
+modified
+
+Revision 1.16  2002/11/04 11:04:58  ray
+tei.2 => TEI.2
+
+Revision 1.15  2002/10/07 13:35:29  moved
+modified
+
+Revision 1.14  2002/09/09 08:55:59  moved
+modified
+
+Revision 1.13  2002/07/29 09:48:20  vinking
+modified lang
+
+Revision 1.12  2002/04/08 09:51:08  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.11  2001/07/24 07:04:11  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.10  2001/04/27 10:00:40  vinking
+check htmlhelp
+
+Revision 1.9  2001/04/10 12:03:51  vinking
+modified mulu level(lac)
+
+Revision 1.8  2001/03/31 11:21:35  moved
+modified normal
+
+Revision 1.7  2001/03/30 12:42:38  moved
+modified normal
+
+Revision 1.6  2001/03/30 07:19:57  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.5  2001/03/25 11:54:41  ray
+add <milestone>
+
+Revision 1.4  2001/02/19 09:32:20  shiachun
+t85
+
+Revision 1.3  2001/02/07 07:50:09  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.2  2001/02/03 08:20:27  chris
+Added keywords $Revision: 1.13 $, $Date: 2009/04/23 08:15:19 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="1283a" xml:id="T85.2837.1283a" ed="T"/>
+<lb n="1283a01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="1283a02" ed="T"/><cb:docNumber>No. 2837</cb:docNumber><cb:div type="other">
+<lb n="1283a03" ed="T"/><cb:mulu level="1" type="其他">楞伽師資記（序）</cb:mulu><head><note n="1283001" resp="Taisho" place="foot text" type="orig">【原】大英博物館藏燉煌本, S. 2054, 【甲】中華民國二十年刊本，首題新加，校者曰甲本依大英博物館本及佛蘭西國民圖書館本</note>楞伽師資記</head>
+<lb n="1283a04" ed="T"/>
+<lb n="1283a05" ed="T"/><p xml:id="pT85p1283a0501"><note n="1283002" resp="Taisho" place="foot text" type="orig">首闕</note>兩目中。各出一五色光舍利。將知大師成道
+<lb n="1283a06" ed="T"/>已久也。大唐中宗孝<note n="1283003" resp="Taisho" place="foot text" type="orig">□□＝和皇【甲】</note><app n="1283003"><lem wit="【大】">□□</lem><rdg resp="Taisho" wit="【甲】">和皇</rdg></app>帝景龍二年。勅
+<lb n="1283a07" ed="T"/>召入西京。便於東都廣開禪法。淨覺當眾歸
+<lb n="1283a08" ed="T"/>依。一心承事。兩京來往參覲。向有餘年。所
+<lb n="1283a09" ed="T"/>呈心地。尋已決了。祖忍大師授記之安州有
+<lb n="1283a10" ed="T"/>一箇。即我大和上是也。乃<note n="1283004" resp="Taisho" place="foot text" type="orig">刑＝形【甲】</note><app n="1283004"><lem wit="【大】">刑</lem><rdg resp="Taisho" wit="【甲】">形</rdg></app>類凡僧。證同
+<lb n="1283a11" ed="T"/>佛地。帝師國寶。宇內歸依。淨覺宿世有緣。親
+<lb n="1283a12" ed="T"/>蒙指授。始知方寸之內。具足真如。昔所未聞。
+<lb n="1283a13" ed="T"/>今乃知耳。真如無相。知亦無知。無知之知。豈
+<lb n="1283a14" ed="T"/>離知也。無相之相。豈離相也。人法皆如。說亦
+<lb n="1283a15" ed="T"/>如也。如自無說。說則非如。如本無知。知非
+<lb n="1283a16" ed="T"/>如矣。起信論云。心真如<note n="1283005" resp="Taisho" place="foot text" type="orig">是＝者【甲】</note><app n="1283005"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】">者</rdg></app>。即是一法界總相
+<lb n="1283a17" ed="T"/>法門體。所謂心性。不生不滅。一切法。唯因
+<lb n="1283a18" ed="T"/><note n="1283006" resp="Taisho" place="foot text" type="orig">忘＝妄【甲】</note><app n="1283006"><lem wit="【大】">忘</lem><rdg resp="Taisho" wit="【甲】">妄</rdg></app>念。而有差別。若離心念。別無境界之相。
+<lb n="1283a19" ed="T"/>是故一切法。從本已來。離言說相。離名字相。
+<lb n="1283a20" ed="T"/>離心緣相。畢竟平等。無有變異。不可破壞。
+<lb n="1283a21" ed="T"/>唯是一心。故名真如。<note n="1283007" resp="Taisho" place="foot text" type="orig">有＝又【甲】</note><app n="1283007"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【甲】">又</rdg></app><note n="1283008" resp="Taisho" place="foot text" type="orig">真＋（如）【甲】</note><app n="1283008"><lem wit="【大】">真</lem><rdg resp="Taisho" wit="【甲】">真如</rdg></app>自體相者。凡夫
+<lb n="1283a22" ed="T"/>聲聞緣覺菩薩諸佛。無有增減。非<note n="1283009" resp="Taisho" place="foot text" type="orig">有＝前【甲】</note><app n="1283009"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【甲】">前</rdg></app>際生。
+<lb n="1283a23" ed="T"/>非後際滅。畢竟常恒。從本性自滿足。一切功
+<lb n="1283a24" ed="T"/>德。自體有大智惠光明義。故自性清淨心。楞
+<lb n="1283a25" ed="T"/>伽經云。自心現境界。隨類普現於五法。云何
+<lb n="1283a26" ed="T"/>是五法。名相<note n="1283010" resp="Taisho" place="foot text" type="orig">忘想＝妄相【甲】</note><app n="1283010"><lem wit="【大】">忘想</lem><rdg resp="Taisho" wit="【甲】">妄相</rdg></app>正智如如。是故<note n="1283011" resp="Taisho" place="foot text" type="orig">眾＋（生）【甲】</note><app n="1283011"><lem wit="【大】">眾</lem><rdg resp="Taisho" wit="【甲】">眾生</rdg></app>物無
+<lb n="1283a27" ed="T"/>名。<note n="1283012" resp="Taisho" place="foot text" type="orig">（由）＋心【甲】</note><app n="1283012"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【甲】">由心</rdg></app>作名。諸相無相。由心作相。但自無心。
+<lb n="1283a28" ed="T"/>則無名相。故曰正智如如。法句經云。參羅及
+<lb n="1283a29" ed="T"/>萬像。一法之所印。余乃潛神玄默。養性幽巖。
+<pb n="1283b" xml:id="T85.2837.1283b" ed="T"/>
+<lb n="1283b01" ed="T"/>獨守淨心抱一冲谷。聊寄一序。托悟在中。同
+<lb n="1283b02" ed="T"/>我道流。願知心耳。真如妙體。不離生死之中。
+<lb n="1283b03" ed="T"/>聖道玄微。還在色身之內。色身清淨。寄住煩
+<lb n="1283b04" ed="T"/>惱之間。生死性真。<note n="1283013" resp="Taisho" place="foot text" type="orig">權＝獲ィ【甲】</note><app n="1283013"><lem wit="【大】">權</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">獲</rdg></app>在涅槃之處。故知眾
+<lb n="1283b05" ed="T"/>生與佛性。本來共同。以水況氷。體何有異。氷
+<lb n="1283b06" ed="T"/>由質礙。喻眾<note n="1283014" resp="Taisho" place="foot text" type="orig">生＋（之）【甲】</note><app n="1283014"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】">生之</rdg></app>繫縛。水性<note n="1283015" resp="Taisho" place="foot text" type="orig">虛＝靈【甲】</note><app n="1283015"><lem wit="【大】">虛</lem><rdg resp="Taisho" wit="【甲】">靈</rdg></app>通。等佛性之
+<lb n="1283b07" ed="T"/>圓淨。無法可得。無相可求。善法尚遣捨之。生
+<lb n="1283b08" ed="T"/>死故應遠離。維摩經云。欲得淨度。當淨其心。
+<lb n="1283b09" ed="T"/>隨其心淨。則佛土淨也。身雖為之本。識見還
+<lb n="1283b10" ed="T"/>有淺深。深見者。是歷劫清淨。薰修之因。一發
+<lb n="1283b11" ed="T"/>道心。乃至成佛。亦不退也。淺識者。是現今新
+<lb n="1283b12" ed="T"/>學。初離歡喜。為積生已來。有誹謗邪見之。
+<lb n="1283b13" ed="T"/>因。<note n="1283016" resp="Taisho" place="foot text" type="orig">無＋（心）【甲】</note><app n="1283016"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">無心</rdg></app>正信習道之力。根則不定。後還退敗
+<lb n="1283b14" ed="T"/>也。覆尋生死。只為攀緣。返照攀緣之心。心性
+<lb n="1283b15" ed="T"/>本來清淨<note n="1283017" resp="Taisho" place="foot text" type="orig">（清淨）＋之【甲】</note><app n="1283017"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】">清淨之</rdg></app><note n="1283018" resp="Taisho" place="foot text" type="orig">處＋（實不有心寂滅之中本無動念動處常寂寂即無求念處常真真無）【甲】</note><app n="1283018"><lem wit="【大】">處</lem><rdg resp="Taisho" wit="【甲】">處實不有心寂滅之中本無動念動處常寂寂即無求念處常真真無</rdg></app>。染著。無染是淨。無繫是脫。
+<lb n="1283b16" ed="T"/>染即生死之因。淨即菩提之果。大分深義。究
+<lb n="1283b17" ed="T"/>竟是空。至道<note n="1283019" resp="Taisho" place="foot text" type="orig">無＝亡【甲】</note><app n="1283019"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">亡</rdg></app>言。言<note n="1283020" resp="Taisho" place="foot text" type="orig">即＝則【甲】</note><note n="1283020" resp="CBETA" type="mod"><!--CBETA todo type: c-->即＝則【甲】</note>則乖至。雖以<note n="1283021" resp="Taisho" place="foot text" type="orig">性＋（空）【甲】</note><app n="1283021"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【甲】">性空</rdg></app>擬
+<lb n="1283b18" ed="T"/>本。無本可稱。空自無言。非心行處。聖心微
+<lb n="1283b19" ed="T"/>隱。絕解絕知。大覺<note n="1283022" resp="Taisho" place="foot text" type="orig">寒寒＝冥冥【甲】</note><app n="1283022"><lem wit="【大】">寒寒</lem><rdg resp="Taisho" wit="【甲】">冥冥</rdg></app>。無言無說。法華經
+<lb n="1283b20" ed="T"/>云。諸法寂滅相。不可以言宣也。無法可說。無
+<lb n="1283b21" ed="T"/>心可言。自性空閑。返歸於本。本者道也。道
+<lb n="1283b22" ed="T"/><note n="1283023" resp="Taisho" place="foot text" type="orig">〔性〕ィ－【甲】</note><app n="1283023"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>悾恫而無<note n="1283024" resp="Taisho" place="foot text" type="orig">際＝祭ィ【甲】</note><app n="1283024"><lem wit="【大】">際</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">祭</rdg></app>。放曠清微。<note n="1283025" resp="Taisho" place="foot text" type="orig">〔壞〕－ィ【甲】</note><app n="1283025"><lem wit="【大】">壞</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>大千以寂
+<lb n="1283b23" ed="T"/>寥。通古今而性淨。即上下周圓。<note n="1283026" resp="Taisho" place="foot text" type="orig">（廣）＋遍【甲】</note><app n="1283026"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【甲】">廣遍</rdg></app>清淨。是
+<lb n="1283b24" ed="T"/>淨佛國土也。是知一毫之內。具足三千大千。
+<lb n="1283b25" ed="T"/>一塵之中。容受無邊世界。斯言有實耳。此中
+<lb n="1283b26" ed="T"/>坐禪。證者之自知。不由三乘之所說也。經
+<lb n="1283b27" ed="T"/><note n="1283027" resp="Taisho" place="foot text" type="orig">曰＝云【甲】</note><app n="1283027"><lem wit="【大】">曰</lem><rdg resp="Taisho" wit="【甲】">云</rdg></app>。菩提之道。不可圖度。高而無上。廣不可
+<lb n="1283b28" ed="T"/>極。淵而無下。深不可測。大<note n="1283028" resp="Taisho" place="foot text" type="orig">苞＝包【甲】</note><app n="1283028"><lem wit="【大】">苞</lem><rdg resp="Taisho" wit="【甲】">包</rdg></app>天地。細入無
+<lb n="1283b29" ed="T"/>間。故謂之道<note n="1283029" resp="Taisho" place="foot text" type="orig">〔也〕ィ－【甲】</note><app n="1283029"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。所以法身清淨。猶若虛空。
+<pb n="1283c" xml:id="T85.2837.1283c" ed="T"/>
+<lb n="1283c01" ed="T"/>空亦無空。有何得有。有本不有。人自著有。空
+<lb n="1283c02" ed="T"/>本不空。人自著空。離有離空。清淨解脫。無
+<lb n="1283c03" ed="T"/>為無事。無住無著。寂滅之中。一物<note n="1283030" resp="Taisho" place="foot text" type="orig">不＋（不）ィ【甲】</note><app n="1283030"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">不不</rdg></app>作。斯
+<lb n="1283c04" ed="T"/>乃菩提之道。然涅槃之道。果<note n="1283031" resp="Taisho" place="foot text" type="orig">〔不〕－【甲】</note><app n="1283031"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>在於有無之
+<lb n="1283c05" ed="T"/>內。亦不出於有無之外。若如此者。即入道之
+<lb n="1283c06" ed="T"/>人。不壞於有。亦不損於無像法住持。但假施
+<lb n="1283c07" ed="T"/>設耳。是故體空無相。不可為有。用之不廢。不
+<lb n="1283c08" ed="T"/>可為無。則空而常用<note n="1283032" resp="Taisho" place="foot text" type="orig">之＝用【甲】</note><app n="1283032"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】">用</rdg></app>。而常空。空用雖殊。
+<lb n="1283c09" ed="T"/>而無心可異。即真如性淨。常住不滅也。<note n="1283033" resp="Taisho" place="foot text" type="orig">余＝餘【甲】</note><app n="1283033"><lem wit="【大】">余</lem><rdg resp="Taisho" wit="【甲】">餘</rdg></app>
+<lb n="1283c10" ed="T"/>歎曰。天下有不解修道者。被有無繫然也。有
+<lb n="1283c11" ed="T"/>不自有。緣未生時無有。無不自無。緣散之後
+<lb n="1283c12" ed="T"/>故無。有若本有。有自常有。不待緣而後有。無
+<lb n="1283c13" ed="T"/>若本無。無自常無。<note n="1283034" resp="Taisho" place="foot text" type="orig">豈＝足ィ【甲】</note><app n="1283034"><lem wit="【大】">豈</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">足</rdg></app>待緣盡後始無也。緣
+<lb n="1283c14" ed="T"/><note n="1283035" resp="Taisho" place="foot text" type="orig">〔有〕－【甲】</note><app n="1283035"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>非是有。真如之中<note n="1283036" resp="Taisho" place="foot text" type="orig">（無自）＋有【甲】</note><app n="1283036"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【甲】">無自有</rdg></app>緣。無非是無。清淨
+<lb n="1283c15" ed="T"/>心中。無彼無也。有<note n="1283037" resp="Taisho" place="foot text" type="orig">無＋（之）【甲】</note><app n="1283037"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">無之</rdg></app>法。妄想之域。豈足以
+<lb n="1283c16" ed="T"/>標聖道。放光<note n="1283038" resp="Taisho" place="foot text" type="orig">〔經〕ィ－【甲】</note><app n="1283038"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>云。菩提從有得耶。答曰。不
+<lb n="1283c17" ed="T"/>也。從無得耶。答曰。不也。從有無得耶。答曰。
+<lb n="1283c18" ed="T"/>不也。離有無得耶。答曰。不也。是義云何<note n="1283039" resp="Taisho" place="foot text" type="orig">〔得〕－【甲】</note><app n="1283039"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。
+<lb n="1283c19" ed="T"/>答曰。無所得。得無所得者。謂之<note n="1283040" resp="Taisho" place="foot text" type="orig">得＝德ィ【甲】</note><app n="1283040"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">德</rdg></app>菩提也。</p></cb:div>
+<lb n="1283c20" ed="T"/><cb:div type="other">
+<lb n="1283c21" ed="T"/>
+<lb n="1283c22" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead>楞<note n="1283041" resp="Taisho" place="foot text" type="orig">伽＋（師）【甲】</note><app n="1283041"><lem wit="【大】">伽</lem><rdg resp="Taisho" wit="【甲】">伽師</rdg></app>資記一卷</cb:jhead></cb:juan>
+<lb n="1283c23" ed="T"/>
+<lb n="1283c24" ed="T"/><byline cb:type="Collector">東都沙門釋淨覺居太行山靈泉
+<lb n="1283c25" ed="T"/><note n="1283042" resp="Taisho" place="foot text" type="orig">谷集＝會【甲】，此次甲本有雞林後學金九經校八字</note><app n="1283042"><lem wit="【大】">谷集</lem><rdg resp="Taisho" wit="【甲】">會</rdg></app><note n="1283042" type="rest" place="foot">此次甲本有雞林後學金九經校八字</note></byline>
+<lb n="1283c26" ed="T"/><p xml:id="pT85p1283c2601">第一。宋朝求那跋陀羅三藏。<note n="1283043" resp="Taisho" place="foot text" type="orig">中＝南【甲】</note><app n="1283043"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【甲】">南</rdg></app>天竺國人。
+<lb n="1283c27" ed="T"/>大乘學時號摩訶衍。元嘉年。隨船至廣州。
+<lb n="1283c28" ed="T"/><note n="1283044" resp="Taisho" place="foot text" type="orig">〔宋〕ィ－【甲】</note><app n="1283044"><lem wit="【大】">宋</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>太祖。迎於丹陽郡。譯出楞伽經。王公道
+<lb n="1283c29" ed="T"/>俗請開禪訓。跛陀未善宋言有愧。即<note n="1283045" resp="Taisho" place="foot text" type="orig">多＝夕【甲】</note><app n="1283045"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】">夕</rdg></app>夢人
+<pb n="1284a" xml:id="T85.2837.1284a" ed="T"/>
+<lb n="1284a01" ed="T"/>以劍易首。於是就開禪訓　三藏云。此土。地
+<lb n="1284a02" ed="T"/>居東邊。修道無法。以無法故。或墜小乘二乘
+<lb n="1284a03" ed="T"/>法。或<note n="1284001" resp="Taisho" place="foot text" type="orig">墮＝墜【甲】＊</note><app n="1284001"><lem wit="【大】">墮</lem><rdg resp="Taisho" wit="【甲】">墜</rdg></app>九十五種外道法。或<app type="star" corresp="#1284001"><lem wit="【大】">墮</lem><rdg resp="Taisho" wit="【甲】">墜</rdg></app>鬼神<note n="1284002" resp="Taisho" place="foot text" type="orig">〔禪〕ィ－【甲】</note><app n="1284002"><lem wit="【大】">禪</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。
+<lb n="1284a04" ed="T"/>觀見一切物。知他人家好惡事。苦哉。大福大
+<lb n="1284a05" ed="T"/>禍。自陷陷他。我<note n="1284003" resp="Taisho" place="foot text" type="orig">慜＝敏ィ【甲】</note><app n="1284003"><lem wit="【大】">慜</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">敏</rdg></app>　此輩。長劫落鬼<note n="1284004" resp="Taisho" place="foot text" type="orig">神＋（道）【甲】</note><app n="1284004"><lem wit="【大】">神</lem><rdg resp="Taisho" wit="【甲】">神道</rdg></app>。久
+<lb n="1284a06" ed="T"/>受生死。不得解脫。或<note n="1284005" resp="Taisho" place="foot text" type="orig">墮＋（禁）【甲】</note><app n="1284005"><lem wit="【大】">墮</lem><rdg resp="Taisho" wit="【甲】">墮禁</rdg></app>術法。役使鬼神。看
+<lb n="1284a07" ed="T"/><note n="1284006" resp="Taisho" place="foot text" type="orig">他＋（人）【甲】</note><app n="1284006"><lem wit="【大】">他</lem><rdg resp="Taisho" wit="【甲】">他人</rdg></app>家好惡事。<note n="1284007" resp="Taisho" place="foot text" type="orig">誰＝詐ィ【甲】</note><app n="1284007"><lem wit="【大】">誰</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">詐</rdg></app>言我坐禪觀<note n="1284008" resp="Taisho" place="foot text" type="orig">行＝見ィ【甲】</note><app n="1284008"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">見</rdg></app>。凡夫盲迷
+<lb n="1284a08" ed="T"/>不解。謂<note n="1284009" resp="Taisho" place="foot text" type="orig">登＝證【甲】</note><app n="1284009"><lem wit="【大】">登</lem><rdg resp="Taisho" wit="【甲】">證</rdg></app>聖道。皆悉降伏。不知是鬼神邪
+<lb n="1284a09" ed="T"/>魅法也。我中國有正法。祕不傳簡。有緣根熟
+<lb n="1284a10" ed="T"/>者。路逢良賢。途中<note n="1284010" resp="Taisho" place="foot text" type="orig">受＝授【甲】</note><app n="1284010"><lem wit="【大】">受</lem><rdg resp="Taisho" wit="【甲】">授</rdg></app>與。若不逢良賢。父子
+<lb n="1284a11" ed="T"/>不<note n="1284011" resp="Taisho" place="foot text" type="orig">得＝傳【甲】</note><app n="1284011"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【甲】">傳</rdg></app>。楞伽經云。諸佛心第一。<note n="1284012" resp="Taisho" place="foot text" type="orig">（我）＋教【甲】</note><app n="1284012"><lem wit="【大】">教</lem><rdg resp="Taisho" wit="【甲】">我教</rdg></app>授法時。心
+<lb n="1284a12" ed="T"/>不起<note n="1284013" resp="Taisho" place="foot text" type="orig">〔處〕ィ－【甲】</note><app n="1284013"><lem wit="【大】">處</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>是也。此法超度三乘。越過十地。究
+<lb n="1284a13" ed="T"/>竟佛果處。只可默心自知。無心養神。無念
+<lb n="1284a14" ed="T"/>安身。閑居淨坐。守本歸真。我法祕默。不為
+<lb n="1284a15" ed="T"/>凡<note n="1284014" resp="Taisho" place="foot text" type="orig">愚＝遇ィ【甲】</note><app n="1284014"><lem wit="【大】">愚</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">遇</rdg></app>淺識所傳。要是福德厚人。乃能受行。
+<lb n="1284a16" ed="T"/>若不解處。六有七八。若解處。八無六七。擬
+<lb n="1284a17" ed="T"/>作佛者。先學安心。心未安時。善尚非善。何況
+<lb n="1284a18" ed="T"/>其惡。心得安靜時。善惡俱無<note n="1284015" resp="Taisho" place="foot text" type="orig">依＝作ィ【甲】</note><app n="1284015"><lem wit="【大】">依</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">作</rdg></app>華嚴經云。
+<lb n="1284a19" ed="T"/><note n="1284016" resp="Taisho" place="foot text" type="orig">（法法不相見）＋法【甲】</note><app n="1284016"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【甲】">法法不相見法</rdg></app>法不相知。至此國來。尚不見修道人。何
+<lb n="1284a20" ed="T"/>況安心者。時時見有一作<note n="1284017" resp="Taisho" place="foot text" type="orig">業＋（人）【甲】</note><app n="1284017"><lem wit="【大】">業</lem><rdg resp="Taisho" wit="【甲】">業人</rdg></app>。未契於道。或在
+<lb n="1284a21" ed="T"/>名聞。成為利養。人我心行。嫉妬心造。云何嫉
+<lb n="1284a22" ed="T"/>妬。見他人修道。達理達行。多<note n="1284018" resp="Taisho" place="foot text" type="orig">有＋（人）【甲】</note><app n="1284018"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【甲】">有人</rdg></app>歸依供養。
+<lb n="1284a23" ed="T"/>即生嫉妬心。<note n="1284019" resp="Taisho" place="foot text" type="orig">〔即〕ィ－【甲】</note><app n="1284019"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>生憎嫌心。自<note n="1284020" resp="Taisho" place="foot text" type="orig">恃＝持ィ【甲】</note><app n="1284020"><lem wit="【大】">恃</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">持</rdg></app>聰明。不用
+<lb n="1284a24" ed="T"/>勝己。是名嫉妬。以此惠解。若晝若夜。<note n="1284021" resp="Taisho" place="foot text" type="orig">修懃＝懃修【甲】</note><app n="1284021"><lem wit="【大】">修懃</lem><rdg resp="Taisho" wit="【甲】">懃修</rdg></app>
+<lb n="1284a25" ed="T"/>諸行。雖斷煩惱。除其擁礙。道障交競。不得安
+<lb n="1284a26" ed="T"/>靜。但名修<note n="1284022" resp="Taisho" place="foot text" type="orig">是＝道【甲】</note><app n="1284022"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】">道</rdg></app>。不名安心。若<note n="1284023" resp="Taisho" place="foot text" type="orig">爾＝耳ィ【甲】</note><app n="1284023"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">耳</rdg></app>縱行六波羅
+<lb n="1284a27" ed="T"/>蜜。講經坐二禪三禪。精進苦行但名為善。不
+<lb n="1284a28" ed="T"/>名法行。不以愛水。溉灌業田。<note n="1284024" resp="Taisho" place="foot text" type="orig">（復）＋不【甲】</note><app n="1284024"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】">復不</rdg></app>於中。種識
+<lb n="1284a29" ed="T"/>種子。如是比丘。名為法行　今言安心者。略
+<pb n="1284b" xml:id="T85.2837.1284b" ed="T"/>
+<lb n="1284b01" ed="T"/>有四種。一者背理心。<note n="1284025" resp="Taisho" place="foot text" type="orig">〔謂〕ィ－【甲】</note><app n="1284025"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>一向凡夫心也。二
+<lb n="1284b02" ed="T"/>者向理心。謂厭惡生死。以求涅槃。趣向<note n="1284026" resp="Taisho" place="foot text" type="orig">寂靜＝清淨ィ【甲】</note><app n="1284026"><lem wit="【大】">寂
+<lb n="1284b03" ed="T"/>靜</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">清淨</rdg></app>。名聲聞心也。三者入理心。謂雖復斷障顯
+<lb n="1284b04" ed="T"/>理。能所未亡。是菩薩心也。四者理心。謂非理
+<lb n="1284b05" ed="T"/>外理。非心外心。理即是心。心能平等。名之為
+<lb n="1284b06" ed="T"/>理。理照能明。名之為心。心理平等。名之為佛
+<lb n="1284b07" ed="T"/>心。會實性者。不見生死涅槃有別。凡聖為異。
+<lb n="1284b08" ed="T"/>境智無二。理事俱融。真俗齊觀。染淨一如。佛
+<lb n="1284b09" ed="T"/>與眾生。本來平等一際。楞伽經云。一切無涅
+<lb n="1284b10" ed="T"/>槃。無有涅槃佛。無有佛涅槃。遠離覺所覺。若
+<lb n="1284b11" ed="T"/>有若無<note n="1284027" resp="Taisho" place="foot text" type="orig">〔有〕ィ－【甲】</note><app n="1284027"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。是二悉俱離。大道本來廣遍。圓
+<lb n="1284b12" ed="T"/>淨本有。不從因得。如似浮雲底日光。雲霧滅
+<lb n="1284b13" ed="T"/>盡。日光自現。何用更多廣學知見。涉歷文字
+<lb n="1284b14" ed="T"/>語言。覆歸生死道。用口說文傳為道<note n="1284028" resp="Taisho" place="foot text" type="orig">此者＝者此【甲】</note><app n="1284028"><lem wit="【大】">此者</lem><rdg resp="Taisho" wit="【甲】">者此</rdg></app>。
+<lb n="1284b15" ed="T"/>人貪<note n="1284029" resp="Taisho" place="foot text" type="orig">〔求〕ィ－【甲】</note><app n="1284029"><lem wit="【大】">求</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>名利。自壞壞他。亦如磨銅鏡。鏡面
+<lb n="1284b16" ed="T"/>上塵落盡。鏡自明淨。<note n="1284030" resp="Taisho" place="foot text" type="orig">諸＋（法）【甲】</note><app n="1284030"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【甲】">諸法</rdg></app>無行。經云。佛亦不
+<lb n="1284b17" ed="T"/>作佛。亦不度眾生。眾生強分別。作佛度眾生。
+<lb n="1284b18" ed="T"/>而此心不證。是即無定。證則<note n="1284031" resp="Taisho" place="foot text" type="orig">〔別〕－【甲】</note><app n="1284031"><lem wit="【大】">別</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>有照緣起大
+<lb n="1284b19" ed="T"/>用。圓通無礙。名大修道。自他無二。一切行一
+<lb n="1284b20" ed="T"/>時行。亦無前後。亦無中間。名為大乘。內外無
+<lb n="1284b21" ed="T"/>著。大捨畢竟。名為檀波羅蜜。善惡平等。俱不
+<lb n="1284b22" ed="T"/>可得。即是尸波羅蜜。心<note n="1284032" resp="Taisho" place="foot text" type="orig">境＝竟ィ【甲】</note><app n="1284032"><lem wit="【大】">境</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">竟</rdg></app>無違。怨害永盡。
+<lb n="1284b23" ed="T"/>即是忍波羅蜜。大寂不動。而萬行自然。即是
+<lb n="1284b24" ed="T"/>精進波羅蜜。繁<note n="1284033" resp="Taisho" place="foot text" type="orig">與＝興【甲】</note><app n="1284033"><lem wit="【大】">與</lem><rdg resp="Taisho" wit="【甲】">興</rdg></app>妙寂。即是禪波羅蜜。妙
+<lb n="1284b25" ed="T"/>寂開明。即是般若波羅蜜。如此之人。勝上廣
+<lb n="1284b26" ed="T"/>大。圓攝無礙。<note n="1284034" resp="Taisho" place="foot text" type="orig">得＋（用）【甲】</note><app n="1284034"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【甲】">得用</rdg></app>繁與。是為大乘。有求大乘
+<lb n="1284b27" ed="T"/>者。若不先學安心。定知誤矣　大品經云。諸
+<lb n="1284b28" ed="T"/>佛五眼。觀眾生心及一切法。畢竟不見。華嚴
+<lb n="1284b29" ed="T"/>經云。無見乃能見。思益經云。非眼所見。非耳
+<pb n="1284c" xml:id="T85.2837.1284c" ed="T"/>
+<lb n="1284c01" ed="T"/>鼻舌身意識所知。但應隨如相見<note n="1284035" resp="Taisho" place="foot text" type="orig">〔如〕－【甲】</note><app n="1284035"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>眼如乃
+<lb n="1284c02" ed="T"/>至意如。法<note n="1284036" resp="Taisho" place="foot text" type="orig">位＋（如）【甲】</note><app n="1284036"><lem wit="【大】">位</lem><rdg resp="Taisho" wit="【甲】">位如</rdg></app>亦如是。<note n="1284037" resp="Taisho" place="foot text" type="orig">〔若能如是〕ィ－【甲】</note><app n="1284037"><lem wit="【大】">若能如是</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>見者。是名
+<lb n="1284c03" ed="T"/>正見。禪決曰。蝙蝠角鴟。晝不見物。夜見物
+<lb n="1284c04" ed="T"/>者。皆是妄想顛倒故也。所以者何。蝠蝙角鴟。
+<lb n="1284c05" ed="T"/>見他闇為明。凡夫人。見他明為闇。皆為是妄
+<lb n="1284c06" ed="T"/>想。以顛倒故。以業障故。不見真法。若然者。
+<lb n="1284c07" ed="T"/>明不定明。闇不定闇。如是解者。不為顛倒惑
+<lb n="1284c08" ed="T"/>亂。即入如來常樂我淨中也　大法師<note n="1284038" resp="Taisho" place="foot text" type="orig">之＝云【甲】</note><app n="1284038"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】">云</rdg></app>楞
+<lb n="1284c09" ed="T"/>伽經云。說何淨其念者。遣<note n="1284039" resp="Taisho" place="foot text" type="orig">物＝勿【甲】</note><app n="1284039"><lem wit="【大】">物</lem><rdg resp="Taisho" wit="【甲】">勿</rdg></app>令妄想。勿令
+<lb n="1284c10" ed="T"/>漏念。念佛極著力。念念連注不斷。寂然無念。
+<lb n="1284c11" ed="T"/>證本空淨也。又云。一受不退常寂然。則佛說
+<lb n="1284c12" ed="T"/>云何增長也。又云。從<note n="1284040" resp="Taisho" place="foot text" type="orig">〔師〕ィ－【甲】</note><app n="1284040"><lem wit="【大】">師</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>而學。悟不由師。凡
+<lb n="1284c13" ed="T"/>教人智慧。未甞說<note n="1284041" resp="Taisho" place="foot text" type="orig">此＝法【甲】</note><app n="1284041"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】">法</rdg></app>。就事而徵。指樹葉是
+<lb n="1284c14" ed="T"/>何物。又云。汝能入瓶<note n="1284042" resp="Taisho" place="foot text" type="orig">〔入柱及能〕ィ－【甲】</note><app n="1284042"><lem wit="【大】">入柱。及能</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app><note n="1284043" resp="Taisho" place="foot text" type="orig">入＋（火）【甲】</note><app n="1284043"><lem wit="【大】">入</lem><rdg resp="Taisho" wit="【甲】">入火</rdg></app>穴山。杖
+<lb n="1284c15" ed="T"/>能說法不。又云。汝身入心。<note n="1284044" resp="Taisho" place="foot text" type="orig">（入）＋又【甲】</note><app n="1284044"><lem wit="【大】">又</lem><rdg resp="Taisho" wit="【甲】">入又</rdg></app>云。屋內有瓶。
+<lb n="1284c16" ed="T"/>屋外亦有瓶不。<note n="1284045" resp="Taisho" place="foot text" type="orig">瓶中＝中瓶ィ【甲】</note><app n="1284045"><lem wit="【大】">瓶中</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">中瓶</rdg></app>有水不。水中有瓶不。
+<lb n="1284c17" ed="T"/>乃至天下諸水。一一中皆有瓶不。又云。此水
+<lb n="1284c18" ed="T"/>是何物<note n="1284046" resp="Taisho" place="foot text" type="orig">又＋（云）【甲】</note><app n="1284046"><lem wit="【大】">又</lem><rdg resp="Taisho" wit="【甲】">又云</rdg></app>樹葉能說法。瓶能說法。柱能說
+<lb n="1284c19" ed="T"/><note n="1284047" resp="Taisho" place="foot text" type="orig">法＋（屋能說法）【甲】</note><app n="1284047"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【甲】">法屋能說法</rdg></app>。及地水火風皆能說法。<note n="1284048" resp="Taisho" place="foot text" type="orig">土＋（木）【甲】</note><app n="1284048"><lem wit="【大】">土</lem><rdg resp="Taisho" wit="【甲】">土木</rdg></app>瓦石。亦能說
+<lb n="1284c20" ed="T"/>法者。何也。</p>
+<lb n="1284c21" ed="T"/><p xml:id="pT85p1284c2101">第二。魏朝三藏法師菩提達摩。承求那跋陀
+<lb n="1284c22" ed="T"/>羅三藏後。其達摩禪師。志闡大乘。泛海吳越
+<lb n="1284c23" ed="T"/>遊洛至鄴。沙門道育惠可。奉事五年。方<note n="1284049" resp="Taisho" place="foot text" type="orig">海＝誨【甲】</note><app n="1284049"><lem wit="【大】">海</lem><rdg resp="Taisho" wit="【甲】">誨</rdg></app>
+<lb n="1284c24" ed="T"/>四行。謂可曰。有楞伽經四卷。仁者依行。自然
+<lb n="1284c25" ed="T"/>度脫。餘<note n="1284050" resp="Taisho" place="foot text" type="orig">度＝廣【甲】</note><app n="1284050"><lem wit="【大】">度</lem><rdg resp="Taisho" wit="【甲】">廣</rdg></app>如續高<note n="1284051" resp="Taisho" place="foot text" type="orig">師＝僧【甲】</note><app n="1284051"><lem wit="【大】">師</lem><rdg resp="Taisho" wit="【甲】">僧</rdg></app>傳<note n="1284052" resp="Taisho" place="foot text" type="orig">所＋（傳）【甲】</note><app n="1284052"><lem wit="【大】">所</lem><rdg resp="Taisho" wit="【甲】">所傳</rdg></app>明。略辨大乘入
+<lb n="1284c26" ed="T"/>道四行。弟子曇林序　法師者。西域南天竺
+<lb n="1284c27" ed="T"/>國。是大婆羅門國王第三之<note n="1284053" resp="Taisho" place="foot text" type="orig">子＋（也）【甲】</note><app n="1284053"><lem wit="【大】">子</lem><rdg resp="Taisho" wit="【甲】">子也</rdg></app>。神惠疎朗。
+<lb n="1284c28" ed="T"/>聞皆曉晤。志存<note n="1284054" resp="Taisho" place="foot text" type="orig">磨＝摩【甲】＊</note><app n="1284054"><lem wit="【大】">磨</lem><rdg resp="Taisho" wit="【甲】">摩</rdg></app>訶衍道。故捨素從緇。紹
+<lb n="1284c29" ed="T"/>隆<note n="1284055" resp="Taisho" place="foot text" type="orig">聖＋（種）【甲】</note><app n="1284055"><lem wit="【大】">聖</lem><rdg resp="Taisho" wit="【甲】">聖種</rdg></app>。冥心虛寂。通鑒世事。內外俱明。德超
+<pb n="1285a" xml:id="T85.2837.1285a" ed="T"/>
+<lb n="1285a01" ed="T"/>世表。<note n="1285001" resp="Taisho" place="foot text" type="orig">悲＝非ィ【甲】</note><app n="1285001"><lem wit="【大】">悲</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">非</rdg></app>悔邊隅。正教陵替。遂能遠涉山海。
+<lb n="1285a02" ed="T"/>遊化漢魏。亡心寂默之士。莫不歸信。取相存
+<lb n="1285a03" ed="T"/>見之流。乃生譏謗。于時。唯有道育惠可。此
+<lb n="1285a04" ed="T"/>二沙門。年雖後生。携志高遠。幸逢法師。事之
+<lb n="1285a05" ed="T"/>數<note n="1285002" resp="Taisho" place="foot text" type="orig">載＝年【甲】＊</note><app n="1285002"><lem wit="【大】">載</lem><rdg resp="Taisho" wit="【甲】">年</rdg></app>虔恭諮啟。善蒙師意。法師感其精<note n="1285003" resp="Taisho" place="foot text" type="orig">成＝誠【甲】</note><app n="1285003"><lem wit="【大】">成</lem><rdg resp="Taisho" wit="【甲】">誠</rdg></app>。
+<lb n="1285a06" ed="T"/>誨以真道。如是安心。如是發行。如是順物。如
+<lb n="1285a07" ed="T"/>是方便。此是大乘安心之法。令無錯謬。如是
+<lb n="1285a08" ed="T"/>安心者。壁觀。如是發行者。四行。如是順物
+<lb n="1285a09" ed="T"/>者。防護譏嫌。如是方便者。遣其不著。此略所
+<lb n="1285a10" ed="T"/>由。意在後文。</p>
+<lb n="1285a11" ed="T"/><p xml:id="pT85p1285a1101"><note n="1285004" resp="Taisho" place="foot text" type="orig">未＝夫【甲】</note><app n="1285004"><lem wit="【大】">未</lem><rdg resp="Taisho" wit="【甲】">夫</rdg></app>入道多途。要而言之。不出二種。一是理
+<lb n="1285a12" ed="T"/>入。二是行入。理入者。謂藉教　悟宗。深信含
+<lb n="1285a13" ed="T"/>生。凡聖同一真性。但為客塵妄覆。不能顯
+<lb n="1285a14" ed="T"/>了。若也捨妄歸真。凝<note n="1285005" resp="Taisho" place="foot text" type="orig">住＝注ィ【甲】</note><app n="1285005"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">注</rdg></app><note n="1285006" resp="Taisho" place="foot text" type="orig">辟＝壁【甲】</note><app n="1285006"><lem wit="【大】">辟</lem><rdg resp="Taisho" wit="【甲】">壁</rdg></app>觀。<note n="1285007" resp="Taisho" place="foot text" type="orig">（無）＋自【甲】</note><app n="1285007"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【甲】">無自</rdg></app>他。凡聖
+<lb n="1285a15" ed="T"/>等一。堅住不移。更不隨於言教。此即與真理
+<lb n="1285a16" ed="T"/>冥狀。無有分別。寂然無名<note n="1285008" resp="Taisho" place="foot text" type="orig">（名）＋之【甲】</note><app n="1285008"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】">名之</rdg></app>理入。行入者。
+<lb n="1285a17" ed="T"/>所謂四行。其餘諸行。悉入此行中。何等為四
+<lb n="1285a18" ed="T"/>行。一者報<note n="1285009" resp="Taisho" place="foot text" type="orig">怨＋（行）【甲】</note><app n="1285009"><lem wit="【大】">怨</lem><rdg resp="Taisho" wit="【甲】">怨行</rdg></app>。二者隨緣行。三者無所求行。
+<lb n="1285a19" ed="T"/><note n="1285010" resp="Taisho" place="foot text" type="orig">四＋（者）【甲】</note><app n="1285010"><lem wit="【大】">四</lem><rdg resp="Taisho" wit="【甲】">四者</rdg></app>稱法行。云何報怨行。修道行<note n="1285011" resp="Taisho" place="foot text" type="orig">〔人〕ィ－【甲】</note><app n="1285011"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。若受苦
+<lb n="1285a20" ed="T"/>時。當自念言。我從往昔。無數劫中。棄本逐
+<lb n="1285a21" ed="T"/>末。流浪諸有。多<note n="1285012" resp="Taisho" place="foot text" type="orig">報＝起【甲】</note><app n="1285012"><lem wit="【大】">報</lem><rdg resp="Taisho" wit="【甲】">起</rdg></app>怨憎。違害無限。今雖無
+<lb n="1285a22" ed="T"/>犯。是我宿殃。惡業果熟。非天非人。所能見
+<lb n="1285a23" ed="T"/>與。甘心忍受。都<note n="1285013" resp="Taisho" place="foot text" type="orig">無＋（所）【甲】</note><app n="1285013"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">無所</rdg></app>怨訴。經云。逢苦不憂。何
+<lb n="1285a24" ed="T"/>以故。識達<note n="1285014" resp="Taisho" place="foot text" type="orig">〔本〕ィ－【甲】</note><app n="1285014"><lem wit="【大】">本</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>故。此心生時。與理相應。體怨
+<lb n="1285a25" ed="T"/>進道。是故。說言報怨行。第二隨緣行者。眾生
+<lb n="1285a26" ed="T"/>無我。<note n="1285015" resp="Taisho" place="foot text" type="orig">〔並〕ィ－【甲】</note><app n="1285015"><lem wit="【大】">並</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>緣業所<note n="1285016" resp="Taisho" place="foot text" type="orig">傳＝轉【甲】</note><app n="1285016"><lem wit="【大】">傳</lem><rdg resp="Taisho" wit="【甲】">轉</rdg></app>。苦樂齊受。皆從緣生。若
+<lb n="1285a27" ed="T"/>得勝報榮譽等事。是我過去宿因所感。今方
+<lb n="1285a28" ed="T"/>得之。緣盡還無。何喜之有。得失從緣。心無增
+<lb n="1285a29" ed="T"/>減。喜風不動。冥順於<note n="1285017" resp="Taisho" place="foot text" type="orig">通＝道【甲】</note><app n="1285017"><lem wit="【大】">通</lem><rdg resp="Taisho" wit="【甲】">道</rdg></app>。是故。說言隨緣行。
+<pb n="1285b" xml:id="T85.2837.1285b" ed="T"/>
+<lb n="1285b01" ed="T"/>第三無所求行者。世人長迷。處處貪著。名之
+<lb n="1285b02" ed="T"/>為求。智者悟真。理將俗<choice cb:resp="CBETA.maha"><corr>反</corr><sic>及</sic></choice>。安心無為。形隨運
+<lb n="1285b03" ed="T"/>轉。萬有斯空。無所願樂。功德黑闇。常相隨
+<lb n="1285b04" ed="T"/>逐。三界久居。猶如火宅。有身皆苦。誰得而
+<lb n="1285b05" ed="T"/>安。了達此處。故於諸有。<note n="1285018" resp="Taisho" place="foot text" type="orig">息＋（息）ィ【甲】</note><app n="1285018"><lem wit="【大】">息</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">息息</rdg></app>想無求。經云。有
+<lb n="1285b06" ed="T"/>求皆苦。無求<note n="1285019" resp="Taisho" place="foot text" type="orig">乃＝皆ィ【甲】</note><app n="1285019"><lem wit="【大】">乃</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">皆</rdg></app>樂。判<note n="1285020" resp="Taisho" place="foot text" type="orig">如＝知【甲】</note><app n="1285020"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】">知</rdg></app>無求。真為道行。第
+<lb n="1285b07" ed="T"/>四稱法行者。性淨之理。因之為法。<note n="1285021" resp="Taisho" place="foot text" type="orig">理此＝此理【甲】</note><app n="1285021"><lem wit="【大】">理此</lem><rdg resp="Taisho" wit="【甲】">此理</rdg></app>眾
+<lb n="1285b08" ed="T"/>相斯空。無染無著。無此無彼。經云。法無眾
+<lb n="1285b09" ed="T"/>生。離眾生垢故。法無有我。離我垢故。智若
+<lb n="1285b10" ed="T"/>能信解此理。應當稱法而行。法體無慳於身
+<lb n="1285b11" ed="T"/>命。則行檀捨施。心無悋惜。達解三空。不倚
+<lb n="1285b12" ed="T"/><note n="1285022" resp="Taisho" place="foot text" type="orig">（不）＋若【甲】</note><note n="1285022" resp="CBETA" type="mod">（不）＋<choice cb:resp="CBETA.maha"><corr>著</corr><sic>若</sic></choice>【甲】</note><app n="1285022"><lem wit="【大】">著</lem><rdg resp="Taisho" wit="【甲】">不著</rdg></app>。但為去垢。<note n="1285023" resp="Taisho" place="foot text" type="orig">攝＋（化）【甲】</note><app n="1285023"><lem wit="【大】">攝</lem><rdg resp="Taisho" wit="【甲】">攝化</rdg></app>眾生。而<note n="1285024" resp="Taisho" place="foot text" type="orig">無＝不【甲】</note><app n="1285024"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">不</rdg></app>取相。此為<note n="1285025" resp="Taisho" place="foot text" type="orig">自＋（利）【甲】</note><app n="1285025"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【甲】">自利</rdg></app>
+<lb n="1285b13" ed="T"/><note n="1285026" resp="Taisho" place="foot text" type="orig">復＋（能利）【甲】</note><app n="1285026"><lem wit="【大】">復</lem><rdg resp="Taisho" wit="【甲】">復能利</rdg></app><note n="1285027" resp="Taisho" place="foot text" type="orig">地＝他【甲】</note><app n="1285027"><lem wit="【大】">地</lem><rdg resp="Taisho" wit="【甲】">他</rdg></app>。亦能莊嚴菩提之道。<note n="1285028" resp="Taisho" place="foot text" type="orig">檀＝但ィ【甲】</note><app n="1285028"><lem wit="【大】">檀</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">但</rdg></app>度既爾。餘
+<lb n="1285b14" ed="T"/>五亦然。為除妄想。修行六度。而無所行是為
+<lb n="1285b15" ed="T"/>稱法行。此四行。是達摩禪師親說。餘則弟子
+<lb n="1285b16" ed="T"/>曇林<note n="1285029" resp="Taisho" place="foot text" type="orig">記＝紀【甲】</note><app n="1285029"><lem wit="【大】">記</lem><rdg resp="Taisho" wit="【甲】">紀</rdg></app>師言行。集成一卷。名<note n="1285030" resp="Taisho" place="foot text" type="orig">曰＝之【甲】</note><app n="1285030"><lem wit="【大】">曰</lem><rdg resp="Taisho" wit="【甲】">之</rdg></app>達<app type="star" corresp="#1284054"><lem wit="【大】">磨</lem><rdg resp="Taisho" wit="【甲】">摩</rdg></app>論
+<lb n="1285b17" ed="T"/>也。菩提師又為坐禪眾。釋楞伽要義一卷。有
+<lb n="1285b18" ed="T"/>十二三紙。亦名<note n="1285031" resp="Taisho" place="foot text" type="orig">〔達〕ィ－【甲】</note><app n="1285031"><lem wit="【大】">達</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app><app type="star" corresp="#1284054"><lem wit="【大】">磨</lem><rdg resp="Taisho" wit="【甲】">摩</rdg></app>論<note n="1285032" resp="Taisho" place="foot text" type="orig">〔也〕ィ－【甲】</note><app n="1285032"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。此兩本論文。
+<lb n="1285b19" ed="T"/><note n="1285033" resp="Taisho" place="foot text" type="orig">〔文〕ィ－【甲】</note><app n="1285033"><lem wit="【大】">文</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>理圓<note n="1285034" resp="Taisho" place="foot text" type="orig">淨＝滿【甲】</note><app n="1285034"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【甲】">滿</rdg></app>。天下流通。自外更有人。偽<note n="1285035" resp="Taisho" place="foot text" type="orig">告＝造【甲】</note><app n="1285035"><lem wit="【大】">告</lem><rdg resp="Taisho" wit="【甲】">造</rdg></app>
+<lb n="1285b20" ed="T"/>達摩論三卷。文繁理散。不堪行用。大師又指
+<lb n="1285b21" ed="T"/>事問義。但指一物。喚作何物。眾物皆問之。迴
+<lb n="1285b22" ed="T"/>換物名。變易問之。又云。此身有不。身是何
+<lb n="1285b23" ed="T"/>身。又云。空中雲霧。終不能染污虛空。然能翳
+<lb n="1285b24" ed="T"/>虛空。不得明淨。涅槃經云。無內六入無外六
+<lb n="1285b25" ed="T"/>塵。內外合故。名為中道。</p>
+<lb n="1285b26" ed="T"/><p xml:id="pT85p1285b2601">第三。齊朝鄴中沙門惠可。承達<app type="star" corresp="#1284054"><lem wit="【大】">磨</lem><rdg resp="Taisho" wit="【甲】">摩</rdg></app>禪師後。
+<lb n="1285b27" ed="T"/>其可禪師。俗姓姬。武牢人。年十四。遇達摩
+<lb n="1285b28" ed="T"/><note n="1285036" resp="Taisho" place="foot text" type="orig">禪＋（師）【甲】</note><app n="1285036"><lem wit="【大】">禪</lem><rdg resp="Taisho" wit="【甲】">禪師</rdg></app>遊化嵩洛。奉事六<app type="star" corresp="#1285002"><lem wit="【大】">載</lem><rdg resp="Taisho" wit="【甲】">年</rdg></app>。精究一乘。附於玄
+<lb n="1285b29" ed="T"/>理。略說修道。明心要法。真<note n="1285037" resp="Taisho" place="foot text" type="orig">登＋（真）【甲】</note><app n="1285037"><lem wit="【大】">登</lem><rdg resp="Taisho" wit="【甲】">登真</rdg></app>佛果。楞伽經
+<pb n="1285c" xml:id="T85.2837.1285c" ed="T"/>
+<lb n="1285c01" ed="T"/>云。牟尼寂靜觀。是則遠離生死。是名為不
+<lb n="1285c02" ed="T"/>取。今世後世。淨十方諸佛。若有一人。不
+<lb n="1285c03" ed="T"/>因坐禪而成佛者。無有是處。十地經云。眾
+<lb n="1285c04" ed="T"/>生身中。有金剛<note n="1285038" resp="Taisho" place="foot text" type="orig">佛＋（性）【甲】</note><app n="1285038"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【甲】">佛性</rdg></app>。猶如日輪。體明圓滿。
+<lb n="1285c05" ed="T"/><note n="1285039" resp="Taisho" place="foot text" type="orig">慶＝廣【甲】＊</note><app n="1285039"><lem wit="【大】">慶</lem><rdg resp="Taisho" wit="【甲】">廣</rdg></app>大無邊。只為五<note n="1285040" resp="Taisho" place="foot text" type="orig">蔭＝陰【甲】＊</note><app n="1285040"><lem wit="【大】">蔭</lem><rdg resp="Taisho" wit="【甲】">陰</rdg></app>。重雲覆障。眾生不見。
+<lb n="1285c06" ed="T"/>若逢智風。飄蕩五<app type="star" corresp="#1285040"><lem wit="【大】">蔭</lem><rdg resp="Taisho" wit="【甲】">陰</rdg></app>。重雲滅盡。佛性圓照。
+<lb n="1285c07" ed="T"/>煥然明淨。華嚴經云<app type="star" corresp="#1285039"><lem wit="【大】">慶</lem><rdg resp="Taisho" wit="【甲】">廣</rdg></app>大如法界。究竟如虛
+<lb n="1285c08" ed="T"/>空。亦如瓶內燈光。不能照外。亦如世間雲霧。
+<lb n="1285c09" ed="T"/>八方俱起。天下陰暗。日光<note n="1285041" resp="Taisho" place="foot text" type="orig">起＝豈【甲】</note><app n="1285041"><lem wit="【大】">起</lem><rdg resp="Taisho" wit="【甲】">豈</rdg></app>得明淨。日光
+<lb n="1285c10" ed="T"/>不壞。只為雲霧<note n="1285042" resp="Taisho" place="foot text" type="orig">（覆）＋障【甲】</note><app n="1285042"><lem wit="【大】">障</lem><rdg resp="Taisho" wit="【甲】">覆障</rdg></app>。一切眾生。清<note n="1285043" resp="Taisho" place="foot text" type="orig">淨＋（之）【甲】</note><app n="1285043"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【甲】">淨之</rdg></app>性。亦復
+<lb n="1285c11" ed="T"/>如是。只為攀緣妄念諸見。煩惱重雲。覆障聖
+<lb n="1285c12" ed="T"/>道。不能顯了。若<note n="1285044" resp="Taisho" place="foot text" type="orig">忘＝妄【甲】</note><app n="1285044"><lem wit="【大】">忘</lem><rdg resp="Taisho" wit="【甲】">妄</rdg></app>念不生。默然淨坐。大涅
+<lb n="1285c13" ed="T"/>槃日。自然明淨。俗書云。氷生於水而氷遏水。
+<lb n="1285c14" ed="T"/>氷<note n="1285045" resp="Taisho" place="foot text" type="orig">伴＝泮【甲】</note><app n="1285045"><lem wit="【大】">伴</lem><rdg resp="Taisho" wit="【甲】">泮</rdg></app>而水通。妄<note n="1285046" resp="Taisho" place="foot text" type="orig">起＝超ィ【甲】</note><app n="1285046"><lem wit="【大】">起</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">超</rdg></app>於真而妄迷真。妄盡而
+<lb n="1285c15" ed="T"/>真現。即心海澄清。法身空淨也。故學人依文
+<lb n="1285c16" ed="T"/>字語言為道者。如風中燈。不能破闇。焰焰謝
+<lb n="1285c17" ed="T"/>滅。若淨坐無事。如蜜室中燈。則<note n="1285047" resp="Taisho" place="foot text" type="orig">解＝能【甲】</note><app n="1285047"><lem wit="【大】">解</lem><rdg resp="Taisho" wit="【甲】">能</rdg></app>破闇。<note n="1285048" resp="Taisho" place="foot text" type="orig">昭＝照【甲】</note><app n="1285048"><lem wit="【大】">昭</lem><rdg resp="Taisho" wit="【甲】">照</rdg></app>
+<lb n="1285c18" ed="T"/>物分明。若了心源清淨。一切願足。一切行滿。
+<lb n="1285c19" ed="T"/>一切皆辨。不受後有。得此法身者。恒沙眾
+<lb n="1285c20" ed="T"/><note n="1285049" resp="Taisho" place="foot text" type="orig">生＝中ィ【甲】</note><app n="1285049"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">中</rdg></app>。莫過有一<note n="1285050" resp="Taisho" place="foot text" type="orig">行＝仁【甲】</note><app n="1285050"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【甲】">仁</rdg></app>。億億劫中。時有一人。與此
+<lb n="1285c21" ed="T"/>相應耳。若精誠不內發。三世中縱值恒沙諸
+<lb n="1285c22" ed="T"/>佛。無所為。是知眾生識心自度。佛不度眾生。
+<lb n="1285c23" ed="T"/>佛若能度眾生過去逢無量恒沙諸佛。何故
+<lb n="1285c24" ed="T"/><note n="1285051" resp="Taisho" place="foot text" type="orig">我＋（等）【甲】</note><app n="1285051"><lem wit="【大】">我</lem><rdg resp="Taisho" wit="【甲】">我等</rdg></app>不成佛。只是精誠不內發。口說得。心<note n="1285052" resp="Taisho" place="foot text" type="orig">不＋（能）【甲】</note><app n="1285052"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】">不能</rdg></app>
+<lb n="1285c25" ed="T"/>得。終不免逐業受形。故佛性猶如天下有日
+<lb n="1285c26" ed="T"/>月。<note n="1285053" resp="Taisho" place="foot text" type="orig">水＝木【甲】</note><app n="1285053"><lem wit="【大】">水</lem><rdg resp="Taisho" wit="【甲】">木</rdg></app>中<note n="1285054" resp="Taisho" place="foot text" type="orig">〔有〕－【甲】</note><app n="1285054"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>火。人中有佛性。亦名佛性燈。亦
+<lb n="1285c27" ed="T"/>名涅槃鏡。是故大涅槃鏡。明於日月。內外圓
+<lb n="1285c28" ed="T"/>淨。無邊無際。猶如鍊金。金質<note n="1285055" resp="Taisho" place="foot text" type="orig">火＝滅【甲】</note><app n="1285055"><lem wit="【大】">火</lem><rdg resp="Taisho" wit="【甲】">滅</rdg></app>盡。金性不
+<lb n="1285c29" ed="T"/>壞。眾生生死相滅。法身不壞。<note n="1285056" resp="Taisho" place="foot text" type="orig">〔亦如…壞〕ィ二十四字－【甲】</note><app cb:word-count="24" n="1285056"><lem wit="【大】">亦如埿團壞。
+<pb n="1286a" xml:id="T85.2837.1286a" ed="T"/>
+<lb n="1286a01" ed="T"/>亦如波浪滅。水性不壞。眾生生死相滅。法身
+<lb n="1286a02" ed="T"/>不壞</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。坐禪有功。身中自證故<note n="1286001" resp="Taisho" place="foot text" type="orig">晝日＝畫【甲】</note><app n="1286001"><lem wit="【大】">晝日</lem><rdg resp="Taisho" wit="【甲】">畫</rdg></app>餅尚未
+<lb n="1286a03" ed="T"/>堪飡。說<note n="1286002" resp="Taisho" place="foot text" type="orig">食＋（與人）【甲】</note><app n="1286002"><lem wit="【大】">食</lem><rdg resp="Taisho" wit="【甲】">食與人</rdg></app>焉能使飽。雖欲去其前塞。翻令
+<lb n="1286a04" ed="T"/>後榍彌堅。華嚴經云。譬如貧窮人。晝夜數他
+<lb n="1286a05" ed="T"/>寶。自無一錢分。多聞亦如是　又讀者暫看。
+<lb n="1286a06" ed="T"/>急須併却。若不捨還。同文字學。則何異煎流
+<lb n="1286a07" ed="T"/>水以求氷。煮沸湯而覓雪。是故諸佛說說。或
+<lb n="1286a08" ed="T"/>說<note n="1286003" resp="Taisho" place="foot text" type="orig">〔說〕－【甲】</note><app n="1286003"><lem wit="【大】">說</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>於不說。諸法實相中。無說無不說。解
+<lb n="1286a09" ed="T"/>斯舉一千從。法華經云。非實非虛。非如非異。
+<lb n="1286a10" ed="T"/><note n="1286004" resp="Taisho" place="foot text" type="orig">太師之＝大師云【甲】</note><app n="1286004"><lem wit="【大】">太師之</lem><rdg resp="Taisho" wit="【甲】">大師云</rdg></app>說此真法皆如實。與真幽理竟不
+<lb n="1286a11" ed="T"/>殊。本迷摩尼謂瓦礫<note n="1286005" resp="Taisho" place="foot text" type="orig">豁＝壑【甲】</note><app n="1286005"><lem wit="【大】">豁</lem><rdg resp="Taisho" wit="【甲】">壑</rdg></app>能自覺是真珠。無
+<lb n="1286a12" ed="T"/>明智慧等無異。當<note n="1286006" resp="Taisho" place="foot text" type="orig">知＋（萬）【甲】</note><app n="1286006"><lem wit="【大】">知</lem><rdg resp="Taisho" wit="【甲】">知萬</rdg></app>法即皆如。<note n="1286007" resp="Taisho" place="foot text" type="orig">敏＝慜【甲】</note><app n="1286007"><lem wit="【大】">敏</lem><rdg resp="Taisho" wit="【甲】">慜</rdg></app>此二見
+<lb n="1286a13" ed="T"/>諸徒輩。申詞<note n="1286008" resp="Taisho" place="foot text" type="orig">投＝措【甲】</note><app n="1286008"><lem wit="【大】">投</lem><rdg resp="Taisho" wit="【甲】">措</rdg></app>筆作<note n="1286009" resp="Taisho" place="foot text" type="orig">斯＋（書）【甲】</note><app n="1286009"><lem wit="【大】">斯</lem><rdg resp="Taisho" wit="【甲】">斯書</rdg></app>。觀身與佛不差
+<lb n="1286a14" ed="T"/>別。何須更覓彼無餘。又云。吾本發心時。截
+<lb n="1286a15" ed="T"/>一臂。從初夜雪中立。直至三更。不覺雪過
+<lb n="1286a16" ed="T"/><note n="1286010" resp="Taisho" place="foot text" type="orig">〔於〕ィ－【甲】</note><app n="1286010"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>膝。以求無上道　華嚴經第七卷中說。東
+<lb n="1286a17" ed="T"/>方入正受。西方三昧<note n="1286011" resp="Taisho" place="foot text" type="orig">起＋（西方入正受東方三昧起）【甲】</note><app n="1286011"><lem wit="【大】">起</lem><rdg resp="Taisho" wit="【甲】">起西方入正受東方三昧起</rdg></app>。於眼根中入正受。
+<lb n="1286a18" ed="T"/><anchor xml:id="fxT85p1286a01"/>於色法中三昧起。示現色法不思議。一切天
+<lb n="1286a19" ed="T"/>人莫能知。<note n="1286012" resp="Taisho" place="foot text" type="orig">其＝於【甲】</note><app n="1286012"><lem wit="【大】">其</lem><rdg resp="Taisho" wit="【甲】">於</rdg></app>色法中入正受。於眼起定念不
+<lb n="1286a20" ed="T"/>亂。觀眼無生無自性。說空寂滅無所有。乃至
+<lb n="1286a21" ed="T"/>耳鼻舌身意。亦復如是。童子身入正受。於壯
+<lb n="1286a22" ed="T"/>年身三昧起。壯年身入正受　於老年身三
+<lb n="1286a23" ed="T"/>昧起。老年身入正受。於善女人三昧起。善女
+<lb n="1286a24" ed="T"/>人入正受。於善男子三昧起。善男子入正受。
+<lb n="1286a25" ed="T"/>於比丘尼身三昧起。比丘尼身入正受。於比
+<lb n="1286a26" ed="T"/>丘身三昧起。比丘身入正受。於學無學三昧
+<lb n="1286a27" ed="T"/>起。<note n="1286013" resp="Taisho" place="foot text" type="orig">（學）＋無【甲】</note><app n="1286013"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">學無</rdg></app>學入正受。於緣覺身三昧起。緣覺身
+<lb n="1286a28" ed="T"/>入正受。於如來身三昧起。毛孔中。入正
+<lb n="1286a29" ed="T"/>受。一切毛孔三昧起。一切毛孔入正受。<note n="1286014" resp="Taisho" place="foot text" type="orig">一＋（切）【甲】</note><app n="1286014"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">一切</rdg></app>
+<pb n="1286b" xml:id="T85.2837.1286b" ed="T"/>
+<lb n="1286b01" ed="T"/>毛端頭三昧起。一毛<note n="1286015" resp="Taisho" place="foot text" type="orig">端＋（頭）【甲】</note><app n="1286015"><lem wit="【大】">端</lem><rdg resp="Taisho" wit="【甲】">端頭</rdg></app>入正受。一切毛端三
+<lb n="1286b02" ed="T"/>昧起。一切毛端入正受。一微塵中三昧起一
+<lb n="1286b03" ed="T"/>微塵中入正受。一切微塵三昧起。大海水入
+<lb n="1286b04" ed="T"/>正受。於大盛火三昧起。一身能作無量身。以
+<lb n="1286b05" ed="T"/>無<note n="1286016" resp="Taisho" place="foot text" type="orig">量＋（身）【甲】</note><app n="1286016"><lem wit="【大】">量</lem><rdg resp="Taisho" wit="【甲】">量身</rdg></app>作一身。解斯舉一千從。萬物皆然也。</p>
+<lb n="1286b06" ed="T"/><p xml:id="pT85p1286b0601">第四。隋朝舒州思空山粲禪師。承可禪師後。
+<lb n="1286b07" ed="T"/>其粲禪師。<note n="1286017" resp="Taisho" place="foot text" type="orig">罔＝內ィ【甲】＊</note><note n="1286017" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->罔＝內ィ【甲】＊</note><app n="1286017"><lem wit="【大】">罔</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">內</rdg></app>知姓位。不測所生。按續高僧
+<lb n="1286b08" ed="T"/>傳曰。可後粲禪師。隱思空山。蕭然淨坐。不出
+<lb n="1286b09" ed="T"/>文記。祕不<note n="1286018" resp="Taisho" place="foot text" type="orig">傳＋（說）【甲】</note><app n="1286018"><lem wit="【大】">傳</lem><rdg resp="Taisho" wit="【甲】">傳說</rdg></app>法。唯僧道信。奉事粲十二年。
+<lb n="1286b10" ed="T"/>寫器傳燈。<note n="1286019" resp="Taisho" place="foot text" type="orig">燈＝一一【甲】</note><app n="1286019"><lem wit="【大】">燈</lem><rdg resp="Taisho" wit="【甲】">一一</rdg></app>成就。粲印道信了了見佛性
+<lb n="1286b11" ed="T"/>處。語信曰。法華經云。唯此一事。實無二。亦
+<lb n="1286b12" ed="T"/>無三。故知聖道幽通。言詮之所不逮。法身空
+<lb n="1286b13" ed="T"/>寂。見聞之所不及。即文字語言。徒勞施設
+<lb n="1286b14" ed="T"/>也　大師云。餘人皆貴坐終。嘆為奇異。余今
+<lb n="1286b15" ed="T"/>立化。生死自由。言訖遂以手攀樹枝。奄然氣
+<lb n="1286b16" ed="T"/>盡。終於𡸣公<note n="1286020" resp="Taisho" place="foot text" type="orig">山＝寺【甲】</note><app n="1286020"><lem wit="【大】">山</lem><rdg resp="Taisho" wit="【甲】">寺</rdg></app>。寺中見有廟影。詳玄傳曰。
+<lb n="1286b17" ed="T"/>惟一實之淵曠。嗟萬相之繁難。<note n="1286021" resp="Taisho" place="foot text" type="orig">（真）＋俗【甲】</note><app n="1286021"><lem wit="【大】">俗</lem><rdg resp="Taisho" wit="【甲】">真俗</rdg></app>異<note n="1286022" resp="Taisho" place="foot text" type="orig">於＝而【甲】</note><app n="1286022"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【甲】">而</rdg></app>體
+<lb n="1286b18" ed="T"/>同。凡聖分而道合。尋涯也豁乎無際。眇乎無
+<lb n="1286b19" ed="T"/>窮。源於無始。極於無終。解<note n="1286023" resp="Taisho" place="foot text" type="orig">或＝惑【甲】＊</note><app n="1286023"><lem wit="【大】">或</lem><rdg resp="Taisho" wit="【甲】">惑</rdg></app><note n="1286024" resp="Taisho" place="foot text" type="orig">〔以〕ィ－【甲】</note><app n="1286024"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>茲齊貫。
+<lb n="1286b20" ed="T"/><note n="1286025" resp="Taisho" place="foot text" type="orig">深＝染【甲】</note><app n="1286025"><lem wit="【大】">深</lem><rdg resp="Taisho" wit="【甲】">染</rdg></app>淨於此俱融。<note n="1286026" resp="Taisho" place="foot text" type="orig">諺＝該【甲】</note><app n="1286026"><lem wit="【大】">諺</lem><rdg resp="Taisho" wit="【甲】">該</rdg></app>空有而聞寂。括宇宙以
+<lb n="1286b21" ed="T"/>通同。若純金不隔於環<note n="1286027" resp="Taisho" place="foot text" type="orig">玔＝珮【甲】</note><app n="1286027"><lem wit="【大】">玔</lem><rdg resp="Taisho" wit="【甲】">珮</rdg></app>。等積水不憚於連
+<lb n="1286b22" ed="T"/>漪。<note n="1286028" resp="Taisho" place="foot text" type="orig">經＝注【甲】</note><app n="1286028"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【甲】">注</rdg></app>云。此明理無間雜。故絕邊際之談。性
+<lb n="1286b23" ed="T"/>非物造。致<note n="1286029" resp="Taisho" place="foot text" type="orig">息＋（終）【甲】</note><app n="1286029"><lem wit="【大】">息</lem><rdg resp="Taisho" wit="【甲】">息終</rdg></app>始之論。所以明闇泯於不
+<lb n="1286b24" ed="T"/><note n="1286030" resp="Taisho" place="foot text" type="orig">言＝二之【甲】</note><app n="1286030"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【甲】">二之</rdg></app>門。善惡融於一相之道。斯即無動而不
+<lb n="1286b25" ed="T"/>寂。無異而不同。若水之為波瀾。金之為器
+<lb n="1286b26" ed="T"/>體。金為器體。故無器而不<note n="1286031" resp="Taisho" place="foot text" type="orig">全＝金【甲】</note><app n="1286031"><lem wit="【大】">全</lem><rdg resp="Taisho" wit="【甲】">金</rdg></app>。波為水用。亦
+<lb n="1286b27" ed="T"/>無波而異水也。觀無礙於緣起。信難思於物
+<lb n="1286b28" ed="T"/>性。猶寶殿之垂珠。似瑤臺之懸鏡。彼此異而
+<lb n="1286b29" ed="T"/>相入。紅紫分而交映。物<note n="1286032" resp="Taisho" place="foot text" type="orig">〔不〕ィ－【甲】</note><app n="1286032"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>滯其自他。事莫
+<pb n="1286c" xml:id="T85.2837.1286c" ed="T"/>
+<lb n="1286c01" ed="T"/>權其邪正。隣虛<note n="1286033" resp="Taisho" place="foot text" type="orig">舍＝<g ref="#CB14232"/>【甲】</note><app n="1286033"><lem wit="【大】">舍</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB14232"/></rdg></app>大千之法。剎那總三<note n="1286034" resp="Taisho" place="foot text" type="orig">除＝際【甲】</note><app n="1286034"><lem wit="【大】">除</lem><rdg resp="Taisho" wit="【甲】">際</rdg></app>
+<lb n="1286c02" ed="T"/>之時。懼<note n="1286035" resp="Taisho" place="foot text" type="orig">斯＝思ィ【甲】</note><app n="1286035"><lem wit="【大】">斯</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">思</rdg></app>言之少信。借帝網以除疑。蓋普
+<lb n="1286c03" ed="T"/>眼之能<note n="1286036" resp="Taisho" place="foot text" type="orig">囑＝矚【甲】</note><app n="1286036"><lem wit="【大】">囑</lem><rdg resp="Taisho" wit="【甲】">矚</rdg></app>。豈<app type="star" corresp="#1286023"><lem wit="【大】">或</lem><rdg resp="Taisho" wit="【甲】">惑</rdg></app>識以知之。注云。此明祕密
+<lb n="1286c04" ed="T"/>緣起。帝網法界。一即一切。參而不同。所以然
+<lb n="1286c05" ed="T"/>者。相無自實。起必依真<note n="1286037" resp="Taisho" place="foot text" type="orig">之＝真【甲】</note><app n="1286037"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】">真</rdg></app>理既融。相亦無
+<lb n="1286c06" ed="T"/>礙故。巨細<note n="1286038" resp="Taisho" place="foot text" type="orig">雖＝難【甲】</note><app n="1286038"><lem wit="【大】">雖</lem><rdg resp="Taisho" wit="【甲】">難</rdg></app>懸。猶鏡像之相入。彼此<note n="1286039" resp="Taisho" place="foot text" type="orig">之＝云【甲】</note><app n="1286039"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】">云</rdg></app>異。
+<lb n="1286c07" ed="T"/>若<note n="1286040" resp="Taisho" place="foot text" type="orig">殊＝珠【甲】</note><app n="1286040"><lem wit="【大】">殊</lem><rdg resp="Taisho" wit="【甲】">珠</rdg></app>色之交形。即<note n="1286041" resp="Taisho" place="foot text" type="orig">一一切＝一切一切即一【甲】</note><app n="1286041"><lem wit="【大】">一一切</lem><rdg resp="Taisho" wit="【甲】">一切一切即一</rdg></app>。<note n="1286042" resp="Taisho" place="foot text" type="orig">緣＋（起）【甲】</note><app n="1286042"><lem wit="【大】">緣</lem><rdg resp="Taisho" wit="【甲】">緣起</rdg></app>無礙。理
+<lb n="1286c08" ed="T"/>理數然也。故知大千彌廣。處纖塵而不窄。三
+<lb n="1286c09" ed="T"/>世長久。入<note n="1286043" resp="Taisho" place="foot text" type="orig">從＝促【甲】</note><app n="1286043"><lem wit="【大】">從</lem><rdg resp="Taisho" wit="【甲】">促</rdg></app>略以能容。自可洞視於金墉之
+<lb n="1286c10" ed="T"/>外。了無所權。入身於<note n="1286044" resp="Taisho" place="foot text" type="orig">后＝石【甲】</note><app n="1286044"><lem wit="【大】">后</lem><rdg resp="Taisho" wit="【甲】">石</rdg></app>壁之中。未曾有隔。
+<lb n="1286c11" ed="T"/>是以聖人得理成用。若理不可然。則聖<note n="1286045" resp="Taisho" place="foot text" type="orig">〔此〕ィ－【甲】</note><app n="1286045"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>
+<lb n="1286c12" ed="T"/>無此力。解則<note n="1286046" resp="Taisho" place="foot text" type="orig">（理）＋通【甲】</note><app n="1286046"><lem wit="【大】">通</lem><rdg resp="Taisho" wit="【甲】">理通</rdg></app>。<note n="1286047" resp="Taisho" place="foot text" type="orig">〔無〕－【甲】</note><app n="1286047"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>礙由情擁。普眼之惠。如
+<lb n="1286c13" ed="T"/>實能知。<note n="1286048" resp="Taisho" place="foot text" type="orig">如＝也【甲】</note><app n="1286048"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】">也</rdg></app>猴著鎖而停躁。蛇入筒而改曲。
+<lb n="1286c14" ed="T"/>涉曠海以戒船。曉<note n="1286049" resp="Taisho" place="foot text" type="orig">車＝重【甲】</note><app n="1286049"><lem wit="【大】">車</lem><rdg resp="Taisho" wit="【甲】">重</rdg></app>幽以惠燭。注云。猴著
+<lb n="1286c15" ed="T"/>鎖喻戒制心。蛇入筒喻定<note n="1286050" resp="Taisho" place="foot text" type="orig">自＝息【甲】</note><app n="1286050"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【甲】">息</rdg></app>亂。智度論云。
+<lb n="1286c16" ed="T"/>蛇行性曲。入筒即直。三昧制心。亦復如是
+<lb n="1286c17" ed="T"/>　金光明最勝王經三身品云。佛雖三名。而無
+<lb n="1286c18" ed="T"/>三體也。</p>
+<lb n="1286c19" ed="T"/><p xml:id="pT85p1286c1901">第五。唐朝蘄州雙峯山道信禪<note n="1286051" resp="Taisho" place="foot text" type="orig">師＋（承粲禪師）【甲】</note><app n="1286051"><lem wit="【大】">師</lem><rdg resp="Taisho" wit="【甲】">師承粲禪師</rdg></app>後。其信
+<lb n="1286c20" ed="T"/>禪師。再敞禪門。宇內流布。有菩薩戒法一本。
+<lb n="1286c21" ed="T"/>及制入道安心要方便法門。為有緣根熟者。
+<lb n="1286c22" ed="T"/>說我此法。要依楞伽<note n="1286052" resp="Taisho" place="foot text" type="orig">經＋（云）【甲】</note><app n="1286052"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【甲】">經云</rdg></app>。諸佛心第一。又依
+<lb n="1286c23" ed="T"/>文殊說般若經。一行三昧。即念佛心是佛。妄
+<lb n="1286c24" ed="T"/>念是凡夫。文殊說般若經云。文殊師利言。世
+<lb n="1286c25" ed="T"/>尊。云何<note n="1286053" resp="Taisho" place="foot text" type="orig">名＝言【甲】</note><app n="1286053"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【甲】">言</rdg></app>一行三昧<note n="1286054" resp="Taisho" place="foot text" type="orig">佛＋（言）【甲】</note><app n="1286054"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【甲】">佛言</rdg></app>。法界一相。繫緣法
+<lb n="1286c26" ed="T"/>界。是名一行三<note n="1286055" resp="Taisho" place="foot text" type="orig">昧＋（若善男子善女人欲入一行三昧當先聞般若波羅蜜如說修學然後能一行三昧）【甲】</note><app n="1286055"><lem wit="【大】">昧</lem><rdg resp="Taisho" wit="【甲】">昧若善男子善女人欲入一行三昧當先聞般若波羅蜜如說修學然後能一行三昧</rdg></app>。如法界緣不退不壞。不思
+<lb n="1286c27" ed="T"/>議無礙無相。善男子善女人。欲入一行三昧。
+<lb n="1286c28" ed="T"/>應處空閑。捨諸亂意。不取相貌。繫心一佛。專
+<lb n="1286c29" ed="T"/>稱名字。隨佛方<note n="1286056" resp="Taisho" place="foot text" type="orig">〔便〕ィ－【甲】</note><app n="1286056"><lem wit="【大】">便</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>所。端身正向。能於一佛。
+<pb n="1287a" xml:id="T85.2837.1287a" ed="T"/>
+<lb n="1287a01" ed="T"/>念念相續。即是念中。能見過去未來現在諸
+<lb n="1287a02" ed="T"/>佛。何以故。念一佛功德無量無邊。亦與無量
+<lb n="1287a03" ed="T"/>諸佛功德無二。不思議佛法等<note n="1287001" resp="Taisho" place="foot text" type="orig">（無）＋分【甲】</note><app n="1287001"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【甲】">無分</rdg></app>別。皆乘一
+<lb n="1287a04" ed="T"/>如。成<note n="1287002" resp="Taisho" place="foot text" type="orig">最＝取【甲】</note><app n="1287002"><lem wit="【大】">最</lem><rdg resp="Taisho" wit="【甲】">取</rdg></app>正覺。悉具無量功德。無量辨才。如
+<lb n="1287a05" ed="T"/>是入一行三昧者。盡知恒沙諸佛法界。無差
+<lb n="1287a06" ed="T"/>別相。夫身心方寸。舉足下足。常在道場。施
+<lb n="1287a07" ed="T"/>為舉動。皆是菩提。普賢觀經云。一切業障海。
+<lb n="1287a08" ed="T"/>皆從妄相生。若欲懺悔者。端坐念實相。是
+<lb n="1287a09" ed="T"/>名第一<note n="1287003" resp="Taisho" place="foot text" type="orig">懺＋（悔）【甲】</note><app n="1287003"><lem wit="【大】">懺</lem><rdg resp="Taisho" wit="【甲】">懺悔</rdg></app>併除三毒心攀緣心覺觀心念佛。
+<lb n="1287a10" ed="T"/>心心相續忽然澄寂。更無所緣念。大品經云。
+<lb n="1287a11" ed="T"/>無所念者。是名念佛。何等名無所念。即念佛
+<lb n="1287a12" ed="T"/>心名無所念。離心無別有佛。離佛無別有心。
+<lb n="1287a13" ed="T"/>念佛即是念心。求心即是求佛。所以者何。識
+<lb n="1287a14" ed="T"/>無<note n="1287004" resp="Taisho" place="foot text" type="orig">刑＝形【甲】＊</note><app n="1287004"><lem wit="【大】">刑</lem><rdg resp="Taisho" wit="【甲】">形</rdg></app>。佛無<app type="star" corresp="#1287004"><lem wit="【大】">刑</lem><rdg resp="Taisho" wit="【甲】">形</rdg></app>。佛無相貌。若也知此道理。即
+<lb n="1287a15" ed="T"/>是<note n="1287005" resp="Taisho" place="foot text" type="orig">〔安〕ィ－【甲】</note><app n="1287005"><lem wit="【大】">安</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>心。常憶念佛。攀緣不起。則泯然無相。
+<lb n="1287a16" ed="T"/>平等不二。<note n="1287006" resp="Taisho" place="foot text" type="orig">〔不〕ィ－【甲】</note><app n="1287006"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>入此位中。憶佛心謝。更不須
+<lb n="1287a17" ed="T"/><note n="1287007" resp="Taisho" place="foot text" type="orig">徽＝徵【甲】</note><app n="1287007"><lem wit="【大】">徽</lem><rdg resp="Taisho" wit="【甲】">徵</rdg></app>。即看此等心。即是如來真實法性之身。
+<lb n="1287a18" ed="T"/><note n="1287008" resp="Taisho" place="foot text" type="orig">〔亦名正法〕ィ－【甲】</note><app n="1287008"><lem wit="【大】">亦名正法</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。亦名佛性。亦名諸法實性實<note n="1287009" resp="Taisho" place="foot text" type="orig">際＋（法）【甲】</note><app n="1287009"><lem wit="【大】">際</lem><rdg resp="Taisho" wit="【甲】">際法</rdg></app>。
+<lb n="1287a19" ed="T"/>亦名淨土。亦名菩提金剛三昧本覺等。亦名
+<lb n="1287a20" ed="T"/>涅槃界般若等。名雖無量。皆同一體。亦無能
+<lb n="1287a21" ed="T"/>觀所觀之意。如是等心。要令清淨。常現在
+<lb n="1287a22" ed="T"/>前。一切諸緣。不能<note n="1287010" resp="Taisho" place="foot text" type="orig">干＝忓ィ【甲】</note><app n="1287010"><lem wit="【大】">干</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">忓</rdg></app>亂。何以故。一切諸事。
+<lb n="1287a23" ed="T"/>皆是如來一法身故。<note n="1287011" resp="Taisho" place="foot text" type="orig">經＝住【甲】</note><app n="1287011"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【甲】">住</rdg></app>是<note n="1287012" resp="Taisho" place="foot text" type="orig">〔一〕－【甲】</note><app n="1287012"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>心中。諸結煩
+<lb n="1287a24" ed="T"/>惱。自然除滅。於一塵中。具無量世界。無量
+<lb n="1287a25" ed="T"/>世界集一<note n="1287013" resp="Taisho" place="foot text" type="orig">毛＋（頭）【甲】</note><app n="1287013"><lem wit="【大】">毛</lem><rdg resp="Taisho" wit="【甲】">毛頭</rdg></app>端。於其本事如故。不相<note n="1287014" resp="Taisho" place="foot text" type="orig">訪＝妨【甲】</note><app n="1287014"><lem wit="【大】">訪</lem><rdg resp="Taisho" wit="【甲】">妨</rdg></app>礙。
+<lb n="1287a26" ed="T"/>花嚴經云。有<note n="1287015" resp="Taisho" place="foot text" type="orig">一＋（卷）【甲】</note><app n="1287015"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">一卷</rdg></app>經卷。在微塵中。見三千大
+<lb n="1287a27" ed="T"/>千世界事。略舉安心。不可具盡。其中善巧。出
+<lb n="1287a28" ed="T"/>自方寸。略為後生疑者。假為一問。如來法身
+<lb n="1287a29" ed="T"/>若此者。何故復有相好之身。現世說法。信曰。
+<pb n="1287b" xml:id="T85.2837.1287b" ed="T"/>
+<lb n="1287b01" ed="T"/><note n="1287016" resp="Taisho" place="foot text" type="orig">正＋（以）【甲】</note><app n="1287016"><lem wit="【大】">正</lem><rdg resp="Taisho" wit="【甲】">正以</rdg></app>如來法性之身。清淨圓滿。一<note n="1287017" resp="Taisho" place="foot text" type="orig">切＋（像）【甲】</note><app n="1287017"><lem wit="【大】">切</lem><rdg resp="Taisho" wit="【甲】">切像</rdg></app>類悉於
+<lb n="1287b02" ed="T"/>中現。而法性身。無心起作。如頗梨鏡懸在高
+<lb n="1287b03" ed="T"/>堂。一切像悉於中現。鏡亦無心。能現種種。經
+<lb n="1287b04" ed="T"/>云。如來現世說法者。眾生妄想故。今行者若
+<lb n="1287b05" ed="T"/>修心盡淨。則知如來常不說法。<note n="1287018" resp="Taisho" place="foot text" type="orig">（說）＋是【甲】</note><app n="1287018"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】">說是</rdg></app>乃為具足
+<lb n="1287b06" ed="T"/>多聞。聞者一<note n="1287019" resp="Taisho" place="foot text" type="orig">無＝切【甲】</note><app n="1287019"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">切</rdg></app>相也。是以經云。眾生根<note n="1287020" resp="Taisho" place="foot text" type="orig">有＋（有）【甲】</note><app n="1287020"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【甲】">有有</rdg></app>
+<lb n="1287b07" ed="T"/>無<note n="1287021" resp="Taisho" place="foot text" type="orig">量＋（無）【甲】</note><app n="1287021"><lem wit="【大】">量</lem><rdg resp="Taisho" wit="【甲】">量無</rdg></app>故。所以說法無量。<note n="1287022" resp="Taisho" place="foot text" type="orig">〔說法無量〕－【甲】</note><app n="1287022"><lem wit="【大】">說法無量</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。說法無
+<lb n="1287b08" ed="T"/>量故。義亦名無量義。無量義者。從一法生。
+<lb n="1287b09" ed="T"/>其一法者。則無相也。無相不相。名為實相。則
+<lb n="1287b10" ed="T"/>泯然清淨是也。斯之誠言。則為證也　坐時當
+<lb n="1287b11" ed="T"/>覺。識心初動。運運流<note n="1287023" resp="Taisho" place="foot text" type="orig">注＝往【甲】</note><app n="1287023"><lem wit="【大】">注</lem><rdg resp="Taisho" wit="【甲】">往</rdg></app>。隨其來去。皆令知
+<lb n="1287b12" ed="T"/>之。以金剛惠<note n="1287024" resp="Taisho" place="foot text" type="orig">微＝徵【甲】</note><app n="1287024"><lem wit="【大】">微</lem><rdg resp="Taisho" wit="【甲】">徵</rdg></app>責。猶如草木無所別知<note n="1287025" resp="Taisho" place="foot text" type="orig">之＝知所【甲】</note><app n="1287025"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】">知所</rdg></app>
+<lb n="1287b13" ed="T"/>無知。乃名一切智。此是菩薩一相法門。問。何
+<lb n="1287b14" ed="T"/>者是禪師。信曰。不為靜亂所惱者。即是好禪
+<lb n="1287b15" ed="T"/>用心人。常住於<note n="1287026" resp="Taisho" place="foot text" type="orig">止＝正【甲】</note><app n="1287026"><lem wit="【大】">止</lem><rdg resp="Taisho" wit="【甲】">正</rdg></app>心則沈沒。久住於觀心則
+<lb n="1287b16" ed="T"/>散亂。法華經云。佛自住大乘。如其所得法。定
+<lb n="1287b17" ed="T"/>惠力莊嚴。以此度眾生。云何能得悟解法相。
+<lb n="1287b18" ed="T"/>心得明淨。信曰。亦不念佛。亦不捉心。亦不看
+<lb n="1287b19" ed="T"/>心。亦不計<note n="1287027" resp="Taisho" place="foot text" type="orig">心＝念【甲】</note><app n="1287027"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【甲】">念</rdg></app>。亦不思惟。亦不觀行。亦不散
+<lb n="1287b20" ed="T"/>亂。直任運。<note n="1287028" resp="Taisho" place="foot text" type="orig">〔亦〕ィ－【甲】</note><app n="1287028"><lem wit="【大】">亦</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>不令去。亦不令住。獨一清淨。
+<lb n="1287b21" ed="T"/>究竟處心自明淨。或可諦看。心即得明淨。心
+<lb n="1287b22" ed="T"/>如明鏡。或可一年。心更明淨。<note n="1287029" resp="Taisho" place="foot text" type="orig">〔或可…淨〕ィ九字－【甲】</note><app cb:word-count="9" n="1287029"><lem wit="【大】">或可三五年。
+<lb n="1287b23" ed="T"/>心更明淨</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。或可因人為說。即<note n="1287030" resp="Taisho" place="foot text" type="orig">（得）＋悟【甲】</note><app n="1287030"><lem wit="【大】">悟</lem><rdg resp="Taisho" wit="【甲】">得悟</rdg></app>解。或可
+<lb n="1287b24" ed="T"/>永不須說得解。經道。眾生心性。譬如寶珠
+<lb n="1287b25" ed="T"/>沒水。水濁珠隱。水清珠顯。為謗三寶。破和合
+<lb n="1287b26" ed="T"/>僧。諸見煩惱所污。貪嗔顛倒所染。眾生不悟
+<lb n="1287b27" ed="T"/>心性本來常清淨。故<note n="1287031" resp="Taisho" place="foot text" type="orig">為＝有ィ【甲】</note><app n="1287031"><lem wit="【大】">為</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">有</rdg></app>學者。取悟不同。有
+<lb n="1287b28" ed="T"/>如此差別。今略出根緣不同。為人師者。善須
+<lb n="1287b29" ed="T"/>識別。華嚴經云。普賢身相。猶如虛空。<note n="1287032" resp="Taisho" place="foot text" type="orig">依＋（於）【甲】</note><app n="1287032"><lem wit="【大】">依</lem><rdg resp="Taisho" wit="【甲】">依於</rdg></app>如
+<pb n="1287c" xml:id="T85.2837.1287c" ed="T"/>
+<lb n="1287c01" ed="T"/>如。<note n="1287033" resp="Taisho" place="foot text" type="orig">不＋（依）【甲】</note><app n="1287033"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】">不依</rdg></app>於佛國。解時佛國皆<note n="1287034" resp="Taisho" place="foot text" type="orig">亦＋（如）【甲】</note><app n="1287034"><lem wit="【大】">亦</lem><rdg resp="Taisho" wit="【甲】">亦如</rdg></app>即如國皆不
+<lb n="1287c02" ed="T"/>依。涅槃經云。有無邊。身菩薩。身量如虛空。
+<lb n="1287c03" ed="T"/><note n="1287035" resp="Taisho" place="foot text" type="orig">人之＝又云【甲】</note><app n="1287035"><lem wit="【大】">人之</lem><rdg resp="Taisho" wit="【甲】">又云</rdg></app>有善光故。猶如夏日。又云。身無邊故。
+<lb n="1287c04" ed="T"/>名大涅槃。又云。大<note n="1287036" resp="Taisho" place="foot text" type="orig">〔般〕－【甲】</note><app n="1287036"><lem wit="【大】">般</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>涅槃。其性廣博故。知
+<lb n="1287c05" ed="T"/>學者有四種人。有行有解有證。上上人。無行
+<lb n="1287c06" ed="T"/>有解有證。中上人。有行有解無證。中下人。有
+<lb n="1287c07" ed="T"/>行無解無證。下下人也。問。臨時作若為觀行。
+<lb n="1287c08" ed="T"/>信曰。<note n="1287037" resp="Taisho" place="foot text" type="orig">真＝直【甲】＊</note><app n="1287037"><lem wit="【大】">真</lem><rdg resp="Taisho" wit="【甲】">直</rdg></app>須任運。又曰。用向西方不。信曰。若
+<lb n="1287c09" ed="T"/>知心本來不生不滅。究竟清淨。即是淨佛國
+<lb n="1287c10" ed="T"/>土。更不須<note n="1287038" resp="Taisho" place="foot text" type="orig">〔向〕ィ－【甲】</note><app n="1287038"><lem wit="【大】">向</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>西方。華嚴經云。無量劫一念。
+<lb n="1287c11" ed="T"/><note n="1287039" resp="Taisho" place="foot text" type="orig">（一念）＋無【甲】</note><app n="1287039"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">一念無</rdg></app>量劫。須知一方無量方。無量方一方。佛
+<lb n="1287c12" ed="T"/>為鈍根眾生。<note n="1287040" resp="Taisho" place="foot text" type="orig">今＝令【甲】</note><app n="1287040"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【甲】">令</rdg></app>向西方。不為利根人說也。
+<lb n="1287c13" ed="T"/>深行菩薩。入生死化度眾生。而無愛見。若見
+<lb n="1287c14" ed="T"/>眾生有生死。我是能度。眾生是所<note n="1287041" resp="Taisho" place="foot text" type="orig">疲＝度【甲】＊</note><app n="1287041"><lem wit="【大】">疲</lem><rdg resp="Taisho" wit="【甲】">度</rdg></app>不名菩
+<lb n="1287c15" ed="T"/>薩。<app type="star" corresp="#1287041"><lem wit="【大】">疲</lem><rdg resp="Taisho" wit="【甲】">度</rdg></app>眾生如<app type="star" corresp="#1287041"><lem wit="【大】">疲</lem><rdg resp="Taisho" wit="【甲】">度</rdg></app>空。度空何曾有來去。金剛
+<lb n="1287c16" ed="T"/>經云。滅度無量眾生。實無有眾生得滅度者。
+<lb n="1287c17" ed="T"/>所初地菩薩。初證一切空。後證得<note n="1287042" resp="Taisho" place="foot text" type="orig">〔得〕－【甲】</note><app n="1287042"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>一切不
+<lb n="1287c18" ed="T"/>空。即是無分別智。亦是色。<note n="1287043" resp="Taisho" place="foot text" type="orig">〔色〕ィ－【甲】</note><app n="1287043"><lem wit="【大】">色</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>即是空。非色
+<lb n="1287c19" ed="T"/>滅空。色性是空。所菩薩修學空為證。新學之
+<lb n="1287c20" ed="T"/>人。直見空者。此是見空。非<app type="star" corresp="#1287037"><lem wit="【大】">真</lem><rdg resp="Taisho" wit="【甲】">直</rdg></app>空也。修道
+<lb n="1287c21" ed="T"/>得真空者。不見空與不空。無有諸見也。善須
+<lb n="1287c22" ed="T"/>解色空義。學用心者。要須心路明淨。悟解法
+<lb n="1287c23" ed="T"/>相。了了分明。然後乃當為人師耳。復須內外
+<lb n="1287c24" ed="T"/>相稱。理行不相<note n="1287044" resp="Taisho" place="foot text" type="orig">為＝違【甲】</note><app n="1287044"><lem wit="【大】">為</lem><rdg resp="Taisho" wit="【甲】">違</rdg></app>。決須斷絕文字語言。有
+<lb n="1287c25" ed="T"/>為聖道。獨一淨處。自證道果也　或復有人。
+<lb n="1287c26" ed="T"/>未了究竟法為<note n="1287045" resp="Taisho" place="foot text" type="orig">相＝於ィ【甲】</note><app n="1287045"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">於</rdg></app>。名聞利養教導眾生。不識
+<lb n="1287c27" ed="T"/>根緣利鈍。似如有異。即皆印可。極為苦哉。苦
+<lb n="1287c28" ed="T"/>哉大禍。或見心路。似<note n="1287046" resp="Taisho" place="foot text" type="orig">如＝有ィ【甲】</note><app n="1287046"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">有</rdg></app>明淨。即便印可。此
+<lb n="1287c29" ed="T"/>人大壞佛法。自誑誑他。用心人。有如此同
+<pb n="1288a" xml:id="T85.2837.1288a" ed="T"/>
+<lb n="1288a01" ed="T"/>異。並是相貌耳。未為<note n="1288001" resp="Taisho" place="foot text" type="orig">德＝得【甲】＊</note><app n="1288001"><lem wit="【大】">德</lem><rdg resp="Taisho" wit="【甲】">得</rdg></app>心。真<app type="star" corresp="#1288001"><lem wit="【大】">德</lem><rdg resp="Taisho" wit="【甲】">得</rdg></app>心者。自識
+<lb n="1288a02" ed="T"/>分明。久後法眼自開。善別虛之與偽。或有人
+<lb n="1288a03" ed="T"/>計身空無。心<note n="1288002" resp="Taisho" place="foot text" type="orig">姓＝性【甲】</note><app n="1288002"><lem wit="【大】">姓</lem><rdg resp="Taisho" wit="【甲】">性</rdg></app>亦滅。此是斷見人。與外道
+<lb n="1288a04" ed="T"/>同。非佛弟子。或有人。計心是有不滅。此是常
+<lb n="1288a05" ed="T"/>見人。亦與外道同。今明佛弟子。亦不計心性
+<lb n="1288a06" ed="T"/>是滅。常度眾生。不起愛見。常學智慧。愚智平
+<lb n="1288a07" ed="T"/>等。常<note n="1288003" resp="Taisho" place="foot text" type="orig">作＝在【甲】</note><app n="1288003"><lem wit="【大】">作</lem><rdg resp="Taisho" wit="【甲】">在</rdg></app>禪定。<note n="1288004" resp="Taisho" place="foot text" type="orig">靜＝淨【甲】</note><app n="1288004"><lem wit="【大】">靜</lem><rdg resp="Taisho" wit="【甲】">淨</rdg></app>亂不二。常見眾生。未<note n="1288005" resp="Taisho" place="foot text" type="orig">增＝曾【甲】</note><app n="1288005"><lem wit="【大】">增</lem><rdg resp="Taisho" wit="【甲】">曾</rdg></app>
+<lb n="1288a08" ed="T"/>是有。究竟不生不滅。處處現形。無有見<note n="1288006" resp="Taisho" place="foot text" type="orig">開＝聞【甲】</note><app n="1288006"><lem wit="【大】">開</lem><rdg resp="Taisho" wit="【甲】">聞</rdg></app>。
+<lb n="1288a09" ed="T"/>了知一切未曾取捨。未曾分身。而身<note n="1288007" resp="Taisho" place="foot text" type="orig">通＝遍【甲】</note><app n="1288007"><lem wit="【大】">通</lem><rdg resp="Taisho" wit="【甲】">遍</rdg></app>於法
+<lb n="1288a10" ed="T"/><note n="1288008" resp="Taisho" place="foot text" type="orig">界＋（之界）【甲】</note><app n="1288008"><lem wit="【大】">界</lem><rdg resp="Taisho" wit="【甲】">界之界</rdg></app>　又古時智<note n="1288009" resp="Taisho" place="foot text" type="orig">敏＝慜【甲】</note><app n="1288009"><lem wit="【大】">敏</lem><rdg resp="Taisho" wit="【甲】">慜</rdg></app>禪師訓曰。學道之法。必
+<lb n="1288a11" ed="T"/>須解行相扶。先知心之根原。及諸體用。見
+<lb n="1288a12" ed="T"/><note n="1288010" resp="Taisho" place="foot text" type="orig">現＝理明淨了了【甲】</note><app n="1288010"><lem wit="【大】">現</lem><rdg resp="Taisho" wit="【甲】">理明淨了了</rdg></app>分明無惑。然後功業可成。一解千從。<note n="1288011" resp="Taisho" place="foot text" type="orig">〔一〕ィ－【甲】＊</note><app n="1288011"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>
+<lb n="1288a13" ed="T"/>迷萬惑。失之毫釐差之千里。此非虛言。無量
+<lb n="1288a14" ed="T"/>壽經云。諸佛法身。入一切眾生心想。是<note n="1288012" resp="Taisho" place="foot text" type="orig">心＋（是佛是心）【甲】</note><app n="1288012"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【甲】">心是佛是心</rdg></app>作
+<lb n="1288a15" ed="T"/>佛。當知佛即是心。心外更無別佛也。略而言
+<lb n="1288a16" ed="T"/>之。凡有五種。一者。知心體。體性清淨。體與
+<lb n="1288a17" ed="T"/>佛同。二者。知心用。用生法寶。起作恒寂。萬
+<lb n="1288a18" ed="T"/>惑皆如。三者。常覺不停。覺心在前。覺法無
+<lb n="1288a19" ed="T"/>相。四者。常觀身空寂。內外通同。入身於法界
+<lb n="1288a20" ed="T"/>之中。未曾有礙。五者。守一不移。動靜常住。
+<lb n="1288a21" ed="T"/>能令學者。明見佛性。早入定門　諸經觀法
+<lb n="1288a22" ed="T"/>備有多種。傅大師所說。獨舉守一不移。<note n="1288013" resp="Taisho" place="foot text" type="orig">先＋（當）【甲】</note><app n="1288013"><lem wit="【大】">先</lem><rdg resp="Taisho" wit="【甲】">先當</rdg></app>
+<lb n="1288a23" ed="T"/>修身審觀。以身為本。又此身是四大五<app type="star" corresp="#1285040"><lem wit="【大】">蔭</lem><rdg resp="Taisho" wit="【甲】">陰</rdg></app>之
+<lb n="1288a24" ed="T"/>所合。終歸無常。不得自在。雖未壞滅。畢竟是
+<lb n="1288a25" ed="T"/>空。維摩經云。是身如浮雲。須臾變滅。又常
+<lb n="1288a26" ed="T"/>觀自身。空淨如影。可見<note n="1288014" resp="Taisho" place="foot text" type="orig">不＋（可）【甲】</note><app n="1288014"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】">不可</rdg></app>得。智從影中生。
+<lb n="1288a27" ed="T"/>畢竟無處所。不動而應物。變化<note n="1288015" resp="Taisho" place="foot text" type="orig">無＋（有）【甲】</note><app n="1288015"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">無有</rdg></app>窮空中生
+<lb n="1288a28" ed="T"/>六根。<note n="1288016" resp="Taisho" place="foot text" type="orig">〔六根〕ィ－【甲】</note><app n="1288016"><lem wit="【大】">六根</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>亦空寂。所對六塵境。了知是夢
+<lb n="1288a29" ed="T"/>幻。如眼見物時。眼中無有物。如鏡照面像。
+<pb n="1288b" xml:id="T85.2837.1288b" ed="T"/>
+<lb n="1288b01" ed="T"/><note n="1288017" resp="Taisho" place="foot text" type="orig">了＋（了）【甲】</note><app n="1288017"><lem wit="【大】">了</lem><rdg resp="Taisho" wit="【甲】">了了</rdg></app>極分明。空中現形影。鏡<note n="1288018" resp="Taisho" place="foot text" type="orig">中＋（亦）【甲】</note><app n="1288018"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【甲】">中亦</rdg></app>無<app type="star" corresp="#1288011"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>物。當
+<lb n="1288b02" ed="T"/>知人面不來入鏡中。鏡亦不往入人面。如此
+<lb n="1288b03" ed="T"/>委曲。知鏡之與面。從本已來。不出不入。不
+<lb n="1288b04" ed="T"/><note n="1288019" resp="Taisho" place="foot text" type="orig">來不去＝去不來【甲】</note><app n="1288019"><lem wit="【大】">來不去</lem><rdg resp="Taisho" wit="【甲】">去不來</rdg></app>。即是如來之義。如此細分判。眼中
+<lb n="1288b05" ed="T"/>與鏡中。本<note n="1288020" resp="Taisho" place="foot text" type="orig">本＝來【甲】</note><app n="1288020"><lem wit="【大】">本</lem><rdg resp="Taisho" wit="【甲】">來</rdg></app>常空寂。鏡照眼照同。<note n="1288021" resp="Taisho" place="foot text" type="orig">是＝其【甲】</note><app n="1288021"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】">其</rdg></app>故將
+<lb n="1288b06" ed="T"/>為比。鼻舌諸根等。其義亦復然。知眼本來空。
+<lb n="1288b07" ed="T"/>凡所見色者。須知是他色。耳聞聲時。知是他
+<lb n="1288b08" ed="T"/>聲。鼻聞香時。知是他香。舌別味時。知是<note n="1288022" resp="Taisho" place="foot text" type="orig">也＝他【甲】</note><app n="1288022"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】">他</rdg></app>
+<lb n="1288b09" ed="T"/>味。意對法時。知是他法。身受觸時。知是他
+<lb n="1288b10" ed="T"/>觸。如此觀察知。是為觀空寂。見色知是不受
+<lb n="1288b11" ed="T"/><note n="1288023" resp="Taisho" place="foot text" type="orig">〔色〕ィ－【甲】</note><app n="1288023"><lem wit="【大】">色</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。不受<note n="1288024" resp="Taisho" place="foot text" type="orig">色＋（色）ィ【甲】</note><app n="1288024"><lem wit="【大】">色</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">色色</rdg></app>即是空。空即無相。<note n="1288025" resp="Taisho" place="foot text" type="orig">〔無相〕ィ－【甲】</note><app n="1288025"><lem wit="【大】">無相</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>即無
+<lb n="1288b12" ed="T"/>作。此<note n="1288026" resp="Taisho" place="foot text" type="orig">見＝是【甲】</note><app n="1288026"><lem wit="【大】">見</lem><rdg resp="Taisho" wit="【甲】">是</rdg></app>解脫門。學者得解脫。諸根例如此。
+<lb n="1288b13" ed="T"/><note n="1288027" resp="Taisho" place="foot text" type="orig">復＋（須）【甲】</note><app n="1288027"><lem wit="【大】">復</lem><rdg resp="Taisho" wit="【甲】">復須</rdg></app>重言<note n="1288028" resp="Taisho" place="foot text" type="orig">〔說〕ィ－【甲】</note><app n="1288028"><lem wit="【大】">說</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。常念六根空寂。爾無聞見。遺教
+<lb n="1288b14" ed="T"/>經云。是時中夜。寂然無聲。當知如來說法以
+<lb n="1288b15" ed="T"/>空寂為本。常念六根空寂。恒如中夜時。晝日
+<lb n="1288b16" ed="T"/>所見聞。皆是身外事。身中常空淨　守一不移
+<lb n="1288b17" ed="T"/>者。以<note n="1288029" resp="Taisho" place="foot text" type="orig">此＋（空）【甲】</note><app n="1288029"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】">此空</rdg></app>淨眼。<note n="1288030" resp="Taisho" place="foot text" type="orig">眼住＝注【甲】</note><app n="1288030"><lem wit="【大】">眼住</lem><rdg resp="Taisho" wit="【甲】">注</rdg></app>意看一物。無問晝夜時。
+<lb n="1288b18" ed="T"/>專精常不動。其心欲馳散。急手還攝來。<note n="1288031" resp="Taisho" place="foot text" type="orig">以＝如【甲】</note><app n="1288031"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【甲】">如</rdg></app>
+<lb n="1288b19" ed="T"/>繩繫鳥足。欲飛還掣取。<note n="1288032" resp="Taisho" place="foot text" type="orig">〔終〕ィ－【甲】</note><app n="1288032"><lem wit="【大】">終</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>日看不已。泯然心
+<lb n="1288b20" ed="T"/>自定。維摩經云。攝心是道場。此是攝心<note n="1288033" resp="Taisho" place="foot text" type="orig">〔法〕ィ－【甲】</note><app n="1288033"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。
+<lb n="1288b21" ed="T"/>法華經云。從無數劫<note n="1288034" resp="Taisho" place="foot text" type="orig">〔來〕ィ－【甲】</note><app n="1288034"><lem wit="【大】">來</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>。除睡常攝心。以<note n="1288035" resp="Taisho" place="foot text" type="orig">此＋（諸）【甲】</note><app n="1288035"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】">此諸</rdg></app>
+<lb n="1288b22" ed="T"/>功德。能生諸禪定。遺教經云。五根者。心為其
+<lb n="1288b23" ed="T"/>主。制<note n="1288036" resp="Taisho" place="foot text" type="orig">立處無＝之一ィ【甲】</note><app n="1288036"><lem wit="【大】">立處。無</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">之一</rdg></app>事不辨。此是也。前所說五事。
+<lb n="1288b24" ed="T"/>並是大乘正理。皆依經文所陳。非是理外妄
+<lb n="1288b25" ed="T"/>說。此是無漏業。亦是究竟義。<note n="1288037" resp="Taisho" place="foot text" type="orig">超＝越【甲】</note><app n="1288037"><lem wit="【大】">超</lem><rdg resp="Taisho" wit="【甲】">越</rdg></app>過聲聞地。
+<lb n="1288b26" ed="T"/><app type="star" corresp="#1287037"><lem wit="【大】">真</lem><rdg resp="Taisho" wit="【甲】">直</rdg></app>趣菩薩道。聞者宜修行。不須致疑惑。如
+<lb n="1288b27" ed="T"/>人學射。<note n="1288038" resp="Taisho" place="foot text" type="orig">初＋（射）【甲】</note><app n="1288038"><lem wit="【大】">初</lem><rdg resp="Taisho" wit="【甲】">初射</rdg></app>大准。次中小准。次中大<note n="1288039" resp="Taisho" place="foot text" type="orig">約＝的【甲】</note><app n="1288039"><lem wit="【大】">約</lem><rdg resp="Taisho" wit="【甲】">的</rdg></app>。次中
+<lb n="1288b28" ed="T"/>小的。次中一毛。次破一毛作百分。次中百毛
+<lb n="1288b29" ed="T"/>之一分。次後<note n="1288040" resp="Taisho" place="foot text" type="orig">前＝箭【甲】</note><app n="1288040"><lem wit="【大】">前</lem><rdg resp="Taisho" wit="【甲】">箭</rdg></app>射<note n="1288041" resp="Taisho" place="foot text" type="orig">前＋（箭）【甲】</note><app n="1288041"><lem wit="【大】">前</lem><rdg resp="Taisho" wit="【甲】">前箭</rdg></app>。筈<note n="1288042" resp="Taisho" place="foot text" type="orig">筈＋（筈）【甲】</note><app n="1288042"><lem wit="【大】">筈</lem><rdg resp="Taisho" wit="【甲】">筈筈</rdg></app>相<note n="1288043" resp="Taisho" place="foot text" type="orig">柱＝住【甲】</note><app n="1288043"><lem wit="【大】">柱</lem><rdg resp="Taisho" wit="【甲】">住</rdg></app>。不令箭
+<pb n="1288c" xml:id="T85.2837.1288c" ed="T"/>
+<lb n="1288c01" ed="T"/>落。喻人習道。念念<note n="1288044" resp="Taisho" place="foot text" type="orig">注＝住【甲】</note><app n="1288044"><lem wit="【大】">注</lem><rdg resp="Taisho" wit="【甲】">住</rdg></app>心。心心相續。無<note n="1288045" resp="Taisho" place="foot text" type="orig">暫＋（之）【甲】</note><app n="1288045"><lem wit="【大】">暫</lem><rdg resp="Taisho" wit="【甲】">暫之</rdg></app>
+<lb n="1288c02" ed="T"/>間念。正念不斷。正念現前。又經云。以<note n="1288046" resp="Taisho" place="foot text" type="orig">知＝智【甲】</note><app n="1288046"><lem wit="【大】">知</lem><rdg resp="Taisho" wit="【甲】">智</rdg></app>惠
+<lb n="1288c03" ed="T"/>箭。射三解脫門。筈筈筈<note n="1288047" resp="Taisho" place="foot text" type="orig">於柱＝相住【甲】</note><app n="1288047"><lem wit="【大】">於柱</lem><rdg resp="Taisho" wit="【甲】">相住</rdg></app>勿令落地。又
+<lb n="1288c04" ed="T"/>如鑽火。未熱而息。雖欲得火。火難可得。又如
+<lb n="1288c05" ed="T"/>家有如意珠。所求無不得。忽然而遺失。憶念
+<lb n="1288c06" ed="T"/>無忘時。又如毒箭入肉。<note n="1288048" resp="Taisho" place="foot text" type="orig">竿＋（出）【甲】</note><app n="1288048"><lem resp="CBETA.march" wit="【CBETA】">竿</lem><rdg wit="【大】">竽</rdg><rdg resp="Taisho" wit="【甲】">竿出</rdg></app>鏃猶在。如此受
+<lb n="1288c07" ed="T"/>苦痛。亦無暫忘時。念念在心。其狀當<note n="1288049" resp="Taisho" place="foot text" type="orig">如＋（是）【甲】</note><app n="1288049"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】">如是</rdg></app>此。
+<lb n="1288c08" ed="T"/>法祕要。不得傳非其人。非是惜法不傳。但恐
+<lb n="1288c09" ed="T"/>前人不信。<note n="1288050" resp="Taisho" place="foot text" type="orig">淊＝陷【甲】</note><app n="1288050"><lem wit="【大】">淊</lem><rdg resp="Taisho" wit="【甲】">陷</rdg></app>其謗法之罪。必須擇人。不得
+<lb n="1288c10" ed="T"/><note n="1288051" resp="Taisho" place="foot text" type="orig">操＝造【甲】</note><app n="1288051"><lem wit="【大】">操</lem><rdg resp="Taisho" wit="【甲】">造</rdg></app>次輒說。慎之慎之　法海雖無量。行之在
+<lb n="1288c11" ed="T"/>一言。得意即亡言。一言亦不用。如此了了知。
+<lb n="1288c12" ed="T"/>是為得佛意　若初學坐禪時。於一靜處。真
+<lb n="1288c13" ed="T"/>觀身心。四大五<app type="star" corresp="#1285040"><lem wit="【大】">蔭</lem><rdg resp="Taisho" wit="【甲】">陰</rdg></app>。眼耳鼻舌身意。及貪嗔
+<lb n="1288c14" ed="T"/>癡。<note n="1288052" resp="Taisho" place="foot text" type="orig">為＝若【甲】</note><app n="1288052"><lem wit="【大】">為</lem><rdg resp="Taisho" wit="【甲】">若</rdg></app>善若惡。若怨若親。若凡若聖。及至一
+<lb n="1288c15" ed="T"/>切諸<note n="1288053" resp="Taisho" place="foot text" type="orig">狀＝法【甲】</note><app n="1288053"><lem wit="【大】">狀</lem><rdg resp="Taisho" wit="【甲】">法</rdg></app>。應當觀察。從本以來空寂。不生不
+<lb n="1288c16" ed="T"/>滅。平等無二。從本以來無所有。究竟寂滅。從
+<lb n="1288c17" ed="T"/>本以來。清淨解脫。不問晝夜。行住坐臥。常作
+<lb n="1288c18" ed="T"/>此觀。即知自身猶如水中月。如鏡中像。如熱
+<lb n="1288c19" ed="T"/>時炎。如空谷<note n="1288054" resp="Taisho" place="foot text" type="orig">響＝嚮ィ【甲】</note><app n="1288054"><lem wit="【大】">響</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">嚮</rdg></app>。若言是有。處處求之不可
+<lb n="1288c20" ed="T"/>見。若言是無。了了恒在眼前。諸佛法身。皆亦
+<lb n="1288c21" ed="T"/>如是。即知自身從無量劫來。畢竟未曾生。從
+<lb n="1288c22" ed="T"/>今已去。亦畢竟無人死。若能常作如<note n="1288055" resp="Taisho" place="foot text" type="orig">此＝是【甲】</note><app n="1288055"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】">是</rdg></app>觀
+<lb n="1288c23" ed="T"/>者。即是真實懺悔。千劫萬劫。極<note n="1288056" resp="Taisho" place="foot text" type="orig">重＋（惡）【甲】</note><app n="1288056"><lem wit="【大】">重</lem><rdg resp="Taisho" wit="【甲】">重惡</rdg></app>業。即自
+<lb n="1288c24" ed="T"/>消滅。唯除疑惑。不能生信。此人不能悟入。若
+<pb n="1289a" xml:id="T85.2837.1289a" ed="T"/>
+<lb n="1289a01" ed="T"/>生<note n="1289001" resp="Taisho" place="foot text" type="orig">〔死〕－【甲】</note><app n="1289001"><lem wit="【大】">死</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>信依此行者。無不得入無生正理。復
+<lb n="1289a02" ed="T"/>次。若心緣異境。覺起時即觀起處。畢竟不起。
+<lb n="1289a03" ed="T"/>此心緣生時。不從十方來。去亦無所至。常觀
+<lb n="1289a04" ed="T"/>攀緣。覺觀妄識。思想雜念。亂心不起。即得
+<lb n="1289a05" ed="T"/>麁住。若得住心。更無緣慮。<note n="1289002" resp="Taisho" place="foot text" type="orig">〔即〕－【甲】</note><app n="1289002"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>隨分寂定。亦
+<lb n="1289a06" ed="T"/>得隨分息諸煩惱。畢故不造新名。為解脫看。
+<lb n="1289a07" ed="T"/><note n="1289003" resp="Taisho" place="foot text" type="orig">（若）＋心【甲】</note><app n="1289003"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【甲】">若心</rdg></app>結煩熱。悶亂昏沈。亦即且<note n="1289004" resp="Taisho" place="foot text" type="orig">自＝從【甲】</note><app n="1289004"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【甲】">從</rdg></app>散適。徐徐
+<lb n="1289a08" ed="T"/>安置。令其得便。心自安淨。唯須猛<note n="1289005" resp="Taisho" place="foot text" type="orig">利＝進【甲】</note><app n="1289005"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【甲】">進</rdg></app>。如救
+<lb n="1289a09" ed="T"/>頭然。不得懈怠。努力努力　初學坐禪看心。
+<lb n="1289a10" ed="T"/>獨坐一處。先端身正坐。寬衣解帶。放身縱
+<lb n="1289a11" ed="T"/>體。自按摩七八翻。令<note n="1289006" resp="Taisho" place="foot text" type="orig">〔心〕ィ－【甲】</note><app n="1289006"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>腹中嗌氣出盡。即
+<lb n="1289a12" ed="T"/>滔然得性清虛恬淨。身心調適然。安心神則。
+<lb n="1289a13" ed="T"/>窈窈冥冥。氣息清冷。徐徐<choice><corr>斂</corr><sic>歛</sic></choice>心。神道清利。心
+<lb n="1289a14" ed="T"/>地明淨。<note n="1289007" resp="Taisho" place="foot text" type="orig">觀＝照【甲】</note><app n="1289007"><lem wit="【大】">觀</lem><rdg resp="Taisho" wit="【甲】">照</rdg></app>察<note n="1289008" resp="Taisho" place="foot text" type="orig">不＝分【甲】</note><app n="1289008"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】">分</rdg></app>明。內外空淨。即心性寂滅。
+<lb n="1289a15" ed="T"/>如其寂滅。則聖心顯矣。性雖無<app type="star" corresp="#1287004"><lem wit="【大】">刑</lem><rdg resp="Taisho" wit="【甲】">形</rdg></app>。志節恒
+<lb n="1289a16" ed="T"/>在然。幽靈不竭。常存朗然。<note n="1289009" resp="Taisho" place="foot text" type="orig">是＋（故）【甲】</note><app n="1289009"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】">是故</rdg></app>名佛性。見
+<lb n="1289a17" ed="T"/>佛性者。永離<note n="1289010" resp="Taisho" place="foot text" type="orig">生死＝死生ィ【甲】</note><app n="1289010"><lem wit="【大】">生死</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">死生</rdg></app>。名出世人。是故維摩經
+<lb n="1289a18" ed="T"/>云。豁然還得本心。信其言也。悟佛性者。<note n="1289011" resp="Taisho" place="foot text" type="orig">（是）＋名【甲】</note><app n="1289011"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【甲】">是名</rdg></app>
+<lb n="1289a19" ed="T"/>菩薩人。亦名悟道人。亦名識理<note n="1289012" resp="Taisho" place="foot text" type="orig">人＋（亦名達士）【甲】</note><app n="1289012"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【甲】">人亦名達士</rdg></app>。亦名得
+<lb n="1289a20" ed="T"/>性人。是故經云。一句<note n="1289013" resp="Taisho" place="foot text" type="orig">深＝染ィ【甲】</note><app n="1289013"><lem wit="【大】">深</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">染</rdg></app>神。歷劫不朽。初學
+<lb n="1289a21" ed="T"/>者前方便也。故知<note n="1289014" resp="Taisho" place="foot text" type="orig">彼＝修ィ【甲】</note><app n="1289014"><lem wit="【大】">彼</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">修</rdg></app>道有方便。此聖心之所
+<lb n="1289a22" ed="T"/>會。凡捨身之法。先定空空心。使心境<note n="1289015" resp="Taisho" place="foot text" type="orig">寂淨＝即寂靜【甲】</note><app n="1289015"><lem wit="【大】">寂淨</lem><rdg resp="Taisho" wit="【甲】">即寂靜</rdg></app>。
+<lb n="1289a23" ed="T"/>鑄想玄寂。令心不<note n="1289016" resp="Taisho" place="foot text" type="orig">以下原本缺依甲本補之</note>移。心性寂定。即斷攀緣。
+<lb n="1289a24" ed="T"/>窈窈冥冥。凝淨心虛。則幾泊恬乎。泯然氣盡。
+<lb n="1289a25" ed="T"/>住清淨法身。不受後有。若起心失念。不免受
+<lb n="1289a26" ed="T"/>生也。此是前定心境。法應如是。此是作法。法
+<lb n="1289a27" ed="T"/>本無法。無法之法。始名為法。法則無作。夫無
+<lb n="1289a28" ed="T"/>作之法。真實法也。是以經云。空無作無願無
+<lb n="1289a29" ed="T"/>相。則真解脫。以是義故。實法無作。捨身
+<pb n="1289b" xml:id="T85.2837.1289b" ed="T"/>
+<lb n="1289b01" ed="T"/>法者。即假想身橫看。心境明地。即用神明推
+<lb n="1289b02" ed="T"/>策。大師云。莊子說。天地一指。萬物一<note n="1289017" resp="Taisho" place="foot text" type="orig">焉＝馬？</note><app n="1289017"><lem resp="Taisho" wit="【大】">焉</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">馬</rdg></app>。法
+<lb n="1289b03" ed="T"/>句經云。一亦不為一。為欲破諸數。淺智之所
+<lb n="1289b04" ed="T"/>聞。謂一以為一。故莊子猶滯一也。老子云。窈
+<lb n="1289b05" ed="T"/>兮冥兮。其中有精。外雖亡相。內尚存心。華嚴
+<lb n="1289b06" ed="T"/>經云。不著二法。以無一二故。維摩經云。心不
+<lb n="1289b07" ed="T"/>在內不在外。不在中間即是證。故知老子滯
+<lb n="1289b08" ed="T"/>於精識也。涅槃經云。一切眾生有佛性。容可
+<lb n="1289b09" ed="T"/>說。牆壁凡石。而非佛性。云何能說法。又天親
+<lb n="1289b10" ed="T"/>論云。應化非真佛。亦非說法者。</p>
+<lb n="1289b11" ed="T"/><p xml:id="pT85p1289b1101">第六。唐朝蘄州雙峯山幽居寺大師。諱弘忍。
+<lb n="1289b12" ed="T"/>承信禪師後。忍傳法。妙法人尊。時號為東山
+<lb n="1289b13" ed="T"/>淨門。又緣京洛道俗稱歎。蘄州東山多有得
+<lb n="1289b14" ed="T"/>果人。故□東山法門也。又問。學道何故不向
+<lb n="1289b15" ed="T"/>城邑聚落。要在山居。答曰。大廈之材。本出幽
+<lb n="1289b16" ed="T"/>谷。不向人間有也。以遠離人故。不被刀斧損
+<lb n="1289b17" ed="T"/>斫。一一長成大物後乃堪為棟梁之用。故知
+<lb n="1289b18" ed="T"/>栖神幽谷。遠避囂塵。養性山中。長辭俗事。
+<lb n="1289b19" ed="T"/>目前無物。心自安寧。從此道樹花開。禪林果
+<lb n="1289b20" ed="T"/>出也。其忍大師。蕭然淨坐。不出文記。口說玄
+<lb n="1289b21" ed="T"/>理。默授與人。在人間有禪法一本云是忍禪
+<lb n="1289b22" ed="T"/>師說者。謬言也。按安州壽山和上諱賾。撰楞
+<lb n="1289b23" ed="T"/>伽人法志云。大師俗姓周。其先尋陽人。貫黃
+<lb n="1289b24" ed="T"/>梅縣也。父早棄背。養母孝障。七歲奉事道信
+<lb n="1289b25" ed="T"/>禪師。自出家處幽居寺。住度弘慜懷抱貞純。
+<lb n="1289b26" ed="T"/>緘口於是非之場。融心於色空之境。役力以
+<lb n="1289b27" ed="T"/>申供養。法侶資其足焉。調心唯務渾儀。師
+<lb n="1289b28" ed="T"/>獨明其觀照。四議皆是道場。三業咸偽佛事。
+<lb n="1289b29" ed="T"/>蓋靜亂之無二。乃語默之恒一。時四方請
+<pb n="1289c" xml:id="T85.2837.1289c" ed="T"/>
+<lb n="1289c01" ed="T"/>益。九眾師橫。虛往實歸。月俞千計。生不矚
+<lb n="1289c02" ed="T"/>文。而義符玄旨。時荊州神秀禪師。伏膺高
+<lb n="1289c03" ed="T"/>軌。親受付囑。玄賾以咸亨元年。至雙峯山。
+<lb n="1289c04" ed="T"/>恭承教誨。敢奉驅馳。首尾五年。往還三覲。道
+<lb n="1289c05" ed="T"/>俗齊會。仂身供養。蒙示楞伽義云。此經唯心
+<lb n="1289c06" ed="T"/>證了知。非文疏能解。咸亨五年二月。命玄賾
+<lb n="1289c07" ed="T"/>等起塔。與門人運天然方石。累構嚴麗。月十
+<lb n="1289c08" ed="T"/>四日。問。塔成未。奉答已了。便云。不可同佛
+<lb n="1289c09" ed="T"/>涅槃之日。乃將宅為寺。又曰。如吾一生。教人
+<lb n="1289c10" ed="T"/>無數。好者並亡。後傳吾道者。只可十耳。我與
+<lb n="1289c11" ed="T"/>神秀。論楞伽經。玄理通快。必多利益。資州智
+<lb n="1289c12" ed="T"/>詵。白松山劉主簿。兼有文性。莘州惠藏。隨州
+<lb n="1289c13" ed="T"/>玄約。憶不見之。嵩山老安。深有道行。潞州法
+<lb n="1289c14" ed="T"/>如韶州惠能揚州高麗僧智德。此並堪為人
+<lb n="1289c15" ed="T"/>師。但一方人物。越州義方。仍便講說。又語
+<lb n="1289c16" ed="T"/>玄賾曰。汝之兼行。善自保愛。吾涅槃後。汝與
+<lb n="1289c17" ed="T"/>神秀。當以佛日再暉。心燈重照。其月十六日。
+<lb n="1289c18" ed="T"/>問曰。汝今知我心不。玄賾奉答不知。大師乃
+<lb n="1289c19" ed="T"/>將手撝十方。一一述所證心已。十六中。面南
+<lb n="1289c20" ed="T"/>宴坐。閉目便終。春秋七十四。禮葬于馮茂山
+<lb n="1289c21" ed="T"/>塔中。至今宛如平昔。范陽盧子產。於安州寺
+<lb n="1289c22" ed="T"/>壁畫像。前兵部尚書隴西李逈秀為讚曰。猗
+<lb n="1289c23" ed="T"/>歟上人。冥契道真。攝心絕智。高悟通神。無
+<lb n="1289c24" ed="T"/>生證果。現滅同塵。今茲變易。何歲有隣。大
+<lb n="1289c25" ed="T"/>師云。有一口屋。滿中總是糞穢草土。是何物。
+<lb n="1289c26" ed="T"/>又云。掃除却糞穢草土併當盡。一物亦無。是
+<lb n="1289c27" ed="T"/>何物。爾坐時平面端身正坐。寬放身心。盡空
+<lb n="1289c28" ed="T"/>際遠看一字。自有次第。若初心人攀緣多。且
+<lb n="1289c29" ed="T"/>向心中看一字。證後坐時。狀若曠野澤中。逈
+<pb n="1290a" xml:id="T85.2837.1290a" ed="T"/>
+<lb n="1290a01" ed="T"/>處獨一高山。山上露地坐。四顧遠看。無有邊
+<lb n="1290a02" ed="T"/>畔。坐時滿世界。寬放身心。住佛境界。清淨法
+<lb n="1290a03" ed="T"/>身。無有邊畔。其狀亦如是。又云。爾正證大
+<lb n="1290a04" ed="T"/>法身時。阿誰見證。又云。有佛三十二相。瓶亦
+<lb n="1290a05" ed="T"/>有三十二相不。住亦有三十二相不。乃至土
+<lb n="1290a06" ed="T"/>木瓦石。亦有三十二相不。又將火著。一長一
+<lb n="1290a07" ed="T"/>短並著。問若箇長。若箇短也。又見人然燈。及
+<lb n="1290a08" ed="T"/>造作萬物。皆云。此人作夢作術也。或云。不
+<lb n="1290a09" ed="T"/>造不作。物物皆是大般涅槃也。又云。了生即
+<lb n="1290a10" ed="T"/>是無生法。非離生法有無生。龍樹云。諸法不
+<lb n="1290a11" ed="T"/>自生。亦不從他生。不共不無因。是故知無
+<lb n="1290a12" ed="T"/>生。若法從緣生。是則無自性。若無自性者。
+<lb n="1290a13" ed="T"/>云何有法。又云。虛空無中邊。諸佛身亦然。我
+<lb n="1290a14" ed="T"/>印可汝了了見佛性處。是也。又云。汝正在寺
+<lb n="1290a15" ed="T"/>中坐禪時。山林樹下。亦有汝身坐禪不。一切
+<lb n="1290a16" ed="T"/>土木瓦石。亦能坐禪不。土木瓦石。亦能見色
+<lb n="1290a17" ed="T"/>聞聲。著衣持鉢不。楞伽經云。境界法身。是
+<lb n="1290a18" ed="T"/>也。</p>
+<lb n="1290a19" ed="T"/><p xml:id="pT85p1290a1901">第七。唐朝荊州玉泉寺大師。諱秀。安州壽山
+<lb n="1290a20" ed="T"/>寺大師諱賾。洛州嵩山會善寺大師。諱安。此
+<lb n="1290a21" ed="T"/>三大師。是則天大聖皇后。應天神龍皇帝。太
+<lb n="1290a22" ed="T"/>上皇。前後為三主國師也。上忍大師授記云。
+<lb n="1290a23" ed="T"/>後傳吾道。只可十耳。俱承忍禪師後。按安
+<lb n="1290a24" ed="T"/>州壽山和上。撰楞伽佛人法志云。其秀禪
+<lb n="1290a25" ed="T"/>師。俗姓李。汴州尉氏人。遠涉江上。尋思慕
+<lb n="1290a26" ed="T"/>道。行至蘄州雙峯山忍禪師所。受得禪法。禪
+<lb n="1290a27" ed="T"/>燈默照。言語道斷。心行處滅。不出文記。後
+<lb n="1290a28" ed="T"/>居荊州玉泉寺。大足元年。召入東都。隨駕往
+<lb n="1290a29" ed="T"/>來二京教授。躬為帝師。則天大聖皇后。問神
+<pb n="1290b" xml:id="T85.2837.1290b" ed="T"/>
+<lb n="1290b01" ed="T"/>秀禪師曰。所傳之法。誰家宗旨。答曰。稟蘄
+<lb n="1290b02" ed="T"/>州東山法門。問。依何典誥。答曰。依文殊說
+<lb n="1290b03" ed="T"/>般若經一行三昧。則天曰。若論修道。更不過
+<lb n="1290b04" ed="T"/>東山法門。以秀是忍門人。便成口實也。應
+<lb n="1290b05" ed="T"/>天神龍皇帝神龍元年三月十三日。勅。禪師
+<lb n="1290b06" ed="T"/>迹遠俗塵。神遊物外。契無相之妙理。化有結
+<lb n="1290b07" ed="T"/>之迷途。定水內澄。戒珠外徹。弟子歸心釋教。
+<lb n="1290b08" ed="T"/>載佇津梁。冀啟法門。思逢道首。禪師昨欲歸
+<lb n="1290b09" ed="T"/>本州者。不須。幸副翹仰之懷。勿滯枌榆之戀。
+<lb n="1290b10" ed="T"/>遣書示意。指不多云。禪師二帝欽承。兩京開
+<lb n="1290b11" ed="T"/>化。朝野蒙益。度人無數。勅於本生大村李為
+<lb n="1290b12" ed="T"/>置報恩寺。以神龍二年二月二十八日。不疾
+<lb n="1290b13" ed="T"/>宴坐。遺囑三字云。屈曲直。便終東都天宮
+<lb n="1290b14" ed="T"/>寺。春秋一百餘歲。合城四眾。廣飾宮幢。禮
+<lb n="1290b15" ed="T"/>葬龍門山。駙馬公主。咸設祭文。勅故秀禪
+<lb n="1290b16" ed="T"/>師。妙識外融。靈機內徹。探不二之奧。獨得髻
+<lb n="1290b17" ed="T"/>珠。守真<note n="1290001" resp="Taisho" place="foot text" type="orig">一之＝之一ィ【甲】</note><app n="1290001"><lem wit="【大】">一之</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">之一</rdg></app>門。孤懸心鏡。至靈應物。色會
+<lb n="1290b18" ed="T"/>神明。無為自居。塵清累遣。其頤轉慕。精爽日
+<lb n="1290b19" ed="T"/>聰。方將洞前識之玄微。導群生之耳目。不意
+<lb n="1290b20" ed="T"/>大悲同體。委化從權。一傷泥日之論。長想意
+<lb n="1290b21" ed="T"/>傳之教雖理絕名相。無待於追崇。而念切師
+<lb n="1290b22" ed="T"/>資。願存於榮飾。可贈為大通禪師。又勅宜差
+<lb n="1290b23" ed="T"/>太子洗馬盧正權。充使送至荊州。安置度門
+<lb n="1290b24" ed="T"/>人。寺額亦付正權。將迴日奏聞。門人讚曰。
+<lb n="1290b25" ed="T"/>至矣我師。道窮真諦。清淨解脫。圓明實際。演
+<lb n="1290b26" ed="T"/>無上道。開無上惠。迹泯一心。<note n="1290002" resp="Taisho" place="foot text" type="orig">甲本註曰補</note>心忘三世。假
+<lb n="1290b27" ed="T"/>言顯理。順理而契。長為法舟。濟何所濟。大師
+<lb n="1290b28" ed="T"/>云。涅槃經說善解一字。名曰律師。文出經
+<lb n="1290b29" ed="T"/>中證在中內。又云。此心有心不。心是何心。
+<pb n="1290c" xml:id="T85.2837.1290c" ed="T"/>
+<lb n="1290c01" ed="T"/>又云。見色有色不。色是何色。又云。汝聞打鐘
+<lb n="1290c02" ed="T"/>聲打時有。未打時有。聲是何聲。又云。打鐘
+<lb n="1290c03" ed="T"/>聲。只在寺內有。十方世界亦有鐘聲不。又云。
+<lb n="1290c04" ed="T"/>身滅影不滅。橋流水不流。我之道法。總會歸
+<lb n="1290c05" ed="T"/>體用兩字。亦曰。重玄門。亦曰轉法輪。亦曰道
+<lb n="1290c06" ed="T"/>果。又云。未見時見。見時見更見。又云。瓔珞
+<lb n="1290c07" ed="T"/>經云。菩薩照寂佛寂照。又云。芥子入須彌。須
+<lb n="1290c08" ed="T"/>彌入芥子也。又見飛鳥過。問云。是何物。又
+<lb n="1290c09" ed="T"/>云。汝向了𠄏樹枝頭坐禪去時得不。又云。汝
+<lb n="1290c10" ed="T"/>直入壁中過得不。又云。涅槃經說。有無邊身
+<lb n="1290c11" ed="T"/>菩薩。從東方來。菩薩身既無邊際。云何更從
+<lb n="1290c12" ed="T"/>東方來。何故不從西方來。南方北方來。可即
+<lb n="1290c13" ed="T"/>不得也。第八唐朝洛州嵩高山普寂禪師。嵩
+<lb n="1290c14" ed="T"/>山敬賢禪師。長安蘭山義福禪師。藍田玉山
+<lb n="1290c15" ed="T"/>惠福禪師。並同一師學法侶應行。俱承大通
+<lb n="1290c16" ed="T"/>和上後。少小出家。清淨戒行。尋師問道。遠
+<lb n="1290c17" ed="T"/>訪禪門。行至荊州玉泉寺。遇大通和上諱秀。
+<lb n="1290c18" ed="T"/>蒙授禪法。諸師等奉事大師十有餘年。豁然
+<lb n="1290c19" ed="T"/>自證。禪珠獨照。大師付囑普寂。敬賢。義福。
+<lb n="1290c20" ed="T"/>惠福等。照世炬燈。傳頗梨大鏡。天下坐禪人。
+<lb n="1290c21" ed="T"/>歎四箇禪師曰。法山淨。法海清。法鏡朗。法燈
+<lb n="1290c22" ed="T"/>明。宴坐名山。澄神邃谷。德冥性海。行茂禪
+<lb n="1290c23" ed="T"/>枝。清淨無為。蕭然獨步。禪燈默照。學者皆證
+<lb n="1290c24" ed="T"/>佛心也。自宋朝以來。大德禪師。代代相承。起
+<lb n="1290c25" ed="T"/>自宋求那跋陀羅三藏。歷代傳燈。至于唐朝
+<lb n="1290c26" ed="T"/>總八代。得道獲果。有二十四人也。</p></cb:div>
+</body></text></TEI>

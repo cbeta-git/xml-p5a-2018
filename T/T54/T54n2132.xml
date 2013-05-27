@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T54n2132">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 2132 悉曇字記</title>
+			<author>唐 智廣撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.19 $<date>$Date: 2009/04/23 08:14:16 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:14:16 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 54, No. 2132 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="zh-x-yy">Chinese Yinyi(音譯)</language>
+			<language ident="sa-Sidd">Sanskrit-Siddam</language>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2001-03-06T14:34:42">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T54n2132.xml,v $
+Revision 1.19  2009/04/23 08:14:16  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.18  2008/07/01 02:31:05  saywhat
+p1187b19 [[竺-二+榴]>籀]
+
+Revision 1.17  2006/06/10 05:26:48  saywhat
+p1186b04 modified ＊[1186005]
+
+Revision 1.16  2006/04/12 22:00:20  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.14  2005/11/30 06:34:22  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.13  2005/02/20 07:36:51  saywhat
+修訂檔頭的日期
+
+Revision 1.12  2004/11/06 14:19:27  saywhat
+段落前加入圈點
+
+Revision 1.11  2004/07/16 09:13:09  moved
+modified：執行 margin.pl，加入 em 單位。
+
+Revision 1.10  2004/04/20 08:44:23  maha
+「版本日期」標記修訂
+
+Revision 1.9  2004/04/20 03:27:24  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.8  2004/02/27 01:27:28  ray
+add cvs log
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="1186a" xml:id="T54.2132.1186a" ed="T"/>
+<lb n="1186a01" ed="T"/><milestone n="1" unit="juan"/>
+<lb n="1186a02" ed="T"/><cb:docNumber>No. 2132</cb:docNumber><cb:div type="other">
+<lb n="1186a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead><note n="1186001" resp="Taisho" place="foot text" type="orig">【原】縮刷大藏經，【甲】大治五年寫岩崎文庫藏本</note>悉曇字記<note place="inline">南天竺般若菩提悉曇</note></cb:jhead></cb:juan>
+<lb n="1186a04" ed="T"/>
+<lb n="1186a05" ed="T"/><byline cb:type="Author">大唐山陰沙門智廣撰</byline>
+<lb n="1186a06" ed="T"/><cb:mulu level="1" type="其他">序</cb:mulu><p xml:id="pT54p1186a0601">悉曇天竺文字也。西域記云。梵王所製。原始
+<lb n="1186a07" ed="T"/>垂則四十七言。寓物合成隨事轉用。流演支
+<lb n="1186a08" ed="T"/>派其源浸廣。因地隨人微有改變。而中天竺
+<lb n="1186a09" ed="T"/>特為詳正。邊裔殊俗兼習訛文。語其大較本
+<lb n="1186a10" ed="T"/>源莫異。斯梗概也。頃嘗誦陀羅尼。訪求音旨
+<lb n="1186a11" ed="T"/>多所差舛。會南天竺沙門般若菩提。齎陀羅
+<lb n="1186a12" ed="T"/>尼梵挾。自南海而謁五臺寓于山房。因從受
+<lb n="1186a13" ed="T"/>焉。與唐書舊翻兼詳中天音韻。不無差反。考
+<lb n="1186a14" ed="T"/>覈源濫<note n="1186002" resp="Taisho" place="foot text" type="orig">所＝攸【甲】</note><app n="1186002"><lem wit="【大】">所</lem><rdg resp="Taisho" wit="【甲】">攸</rdg></app>歸悉曇。梵僧自云。少字學於先
+<lb n="1186a15" ed="T"/>師般若瞿沙。聲明文轍將盡微致。南天祖承
+<lb n="1186a16" ed="T"/>摩醯首羅之文。此其是也。而中天兼以龍宮
+<lb n="1186a17" ed="T"/>之文。有與南天少異。而綱骨必同。健馱羅國
+<lb n="1186a18" ed="T"/>憙多迦文獨將尤異。而字之由皆悉曇也。因
+<lb n="1186a19" ed="T"/>請其所出研審翻註。即其杼軸科以成章。音
+<lb n="1186a20" ed="T"/>雖少殊文軌斯在。効絕域之典弗尚詭異。以
+<lb n="1186a21" ed="T"/>真言唐書召梵語<choice><orig>髣髴</orig><reg type="通用詞">彷彿</reg></choice>而已。豈若觀其本文
+<lb n="1186a22" ed="T"/>哉。俾學者不逾信宿而懸通梵音。字餘七千
+<lb n="1186a23" ed="T"/>功少用要。懿夫聖人利物之智也。總持一文
+<lb n="1186a24" ed="T"/>理含眾德其在茲乎。雖未具觀彼史誥之流
+<lb n="1186a25" ed="T"/>別。而內經運用固亦備矣。然五天之音或若
+<lb n="1186a26" ed="T"/>楚夏矣。中土學者方審詳正。竊書簡牘以記
+<lb n="1186a27" ed="T"/>遺文<note place="inline">古謂<note n="1186003" resp="Taisho" place="foot text" type="orig">楚＝梵【甲】＊</note><app n="1186003"><lem wit="【大】">楚</lem><rdg resp="Taisho" wit="【甲】">梵</rdg></app>書曰胡文者。案西域記。其閻浮地之南五天之境。<app type="star" corresp="#1186003"><lem wit="【大】">楚</lem><rdg resp="Taisho" wit="【甲】">梵</rdg></app>人居焉。地周九萬餘里。三垂大海
+<lb n="1186a28" ed="T"/>北背雪山。時無輪王膺運。中分七十餘國。其總曰五天竺。亦曰身毒。或云印度。有曰大夏是也。人遠承梵王。雖
+<lb n="1186a29" ed="T"/>大分四姓。通謂之婆羅門國。佛現於其中。非胡土也。而雪山之北傍臨葱嶺。即胡人居焉。其字元製有異。良以境
+<pb n="1186b" xml:id="T54.2132.1186b" ed="T"/>
+<lb n="1186b01" ed="T"/>隣天竺文字參涉。所來經論咸依梵挾。而風俗則効習其文<note n="1186004" resp="Taisho" place="foot text" type="orig">粗＝祖【甲】</note><app n="1186004"><lem wit="【大】">粗</lem><rdg resp="Taisho" wit="【甲】">祖</rdg></app>有增損。自古求請佛經多。於彼獲之。魚魯渾淆直
+<lb n="1186b02" ed="T"/>曰胡文謬也</note>。其始曰悉曇。而韻有六。長短兩分字十
+<lb n="1186b03" ed="T"/>有二。將冠下章之首。對聲呼而發韻。聲合韻
+<lb n="1186b04" ed="T"/>而字生焉。即<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><note n="1186005" resp="Taisho" place="foot text" type="orig">甲本梵字無＊</note><note n="1186005" resp="CBETA" type="mod">甲本梵字無＊</note><app n="1186005"><lem wit="【大】"><g ref="#SD-CFC5"/></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>阿</cb:zi><cb:sg>上聲短呼</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><app type="star" corresp="#1186005"><lem wit="【大】"><g ref="#SD-CFC6"/></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>阿</cb:zi><cb:sg>平聲長呼</cb:sg></cb:yin></cb:t></cb:tt>等是也。其
+<lb n="1186b05" ed="T"/>中有<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCB"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>紇里</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>等四文。悉曇有之非生字所
+<lb n="1186b06" ed="T"/>用今略也。其次體文三十有五。通前悉曇四
+<lb n="1186b07" ed="T"/>十七言明矣。聲之所發則牙齒舌喉脣等合
+<lb n="1186b08" ed="T"/>于宮商。其文各五。遍口之聲文有十。此中<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>
+<lb n="1186b09" ed="T"/>囉</cb:zi><cb:sg>曷力遐三聲合也</cb:sg></cb:yin></cb:t></cb:tt>。於生字不應遍諸章<note place="inline">諸章用之多屬第八及成當體重或
+<lb n="1186b10" ed="T"/>不成字如後具論也</note>。<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E354"/></cb:t><cb:t xml:lang="zh-x-yy">羅</cb:t></cb:tt>聲全闕生用。則初章通羅除之
+<lb n="1186b11" ed="T"/>一<note place="inline">除羅字羅鑒反</note>。餘單章除之二<note place="inline">除囉羅二字。即第二第三及第八第九第十章也。字
+<lb n="1186b12" ed="T"/>非重成簡於第一。故云餘單章也</note>。重章除之三<note place="inline">重成也。即第四五六七及第十一已下四章
+<lb n="1186b13" ed="T"/>也</note>。異章句末為他所用。兼下除之六<note place="inline">即盎迦章字牙齒舌
+<lb n="1186b14" ed="T"/>等句末之第五字。為上四字所用。亦不可更自重故除之也</note>。自除之餘。各遍能生
+<lb n="1186b15" ed="T"/>即<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh-x-yy">迦</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A44C"/></cb:t><cb:t xml:lang="zh-x-yy">佉</cb:t></cb:tt>等是也。生字之章一十有七。各
+<lb n="1186b16" ed="T"/>生字殆將四百。則梵文彰焉。正章之外有孤
+<lb n="1186b17" ed="T"/>合之文連字重成即字名也。有十一摩多。<note n="1186006" resp="Taisho" place="foot text" type="orig">囉＝羅【甲】</note><app n="1186006"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【甲】">羅</rdg></app>
+<lb n="1186b18" ed="T"/>此猶點畫。兩箇半體兼合成文<note place="inline">阿阿等韻生字用十摩多。後字傍
+<lb n="1186b19" ed="T"/>點名毘灑勒沙尼此云去聲。非為摩多。訖里章用一別摩多。里耶半體。用祗耶兼半體囉也</note>。</p>
+<lb n="1186b20" ed="T"/><p xml:id="pT54p1186b2001">初章</p>
+<lb n="1186b21" ed="T"/><p xml:id="pT54p1186b2101">將前三十四文。對阿阿等十二韻呼之。增以
+<lb n="1186b22" ed="T"/>摩多。生字四百有八。即<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A441"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>迦</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>迦</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt>等是
+<lb n="1186b23" ed="T"/>也。迦之聲下十有二文。並用迦為字體。以阿
+<lb n="1186b24" ed="T"/>阿等韻呼之增其摩多。合于聲韻各成形也
+<lb n="1186b25" ed="T"/><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A44C"/></cb:t><cb:t xml:lang="zh-x-yy">佉</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh-x-yy">伽</cb:t></cb:tt>等聲下例之。以成于一章。次下十
+<lb n="1186b26" ed="T"/>有四章。並用初章為字體。各隨其所增。將阿
+<lb n="1186b27" ed="T"/>阿等韻對所合聲字呼之。後增其摩多。遇當
+<lb n="1186b28" ed="T"/>體兩字將合。則容之勿生。謂第四章中重<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3FB"/></cb:t><cb:t xml:lang="zh-x-yy">
+<pb n="1186c" xml:id="T54.2132.1186c" ed="T"/>
+<lb n="1186c01" ed="T"/>羅</cb:t></cb:tt>。第五重<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDCD"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>嚩</cb:zi>
+<cb:sg type="fangie">房柯反</cb:sg></cb:yin></cb:t></cb:tt>第六重<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E270"/></cb:t><cb:t xml:lang="zh-x-yy">麼</cb:t></cb:tt>。第七重<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E364"/></cb:t><cb:t xml:lang="zh-x-yy">那</cb:t></cb:tt>
+<lb n="1186c02" ed="T"/>等是也。十一已下四章。如次同上之四章同
+<lb n="1186c03" ed="T"/>之除。</p>
+<lb n="1186c04" ed="T"/><p xml:id="pT54p1186c0401">第二章</p>
+<lb n="1186c05" ed="T"/><p xml:id="pT54p1186c0501">將半體中<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC3"/></cb:t><cb:t xml:lang="zh-x-yy">祇耶</cb:t></cb:tt>。合於初章迦迦等字之下。
+<lb n="1186c06" ed="T"/>名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6C0"/></cb:t><cb:t xml:lang="zh-x-yy">枳<note n="1186007" resp="Taisho" place="foot text" type="orig">也＝耶ィ【甲】</note><app n="1186007"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">耶</rdg></app></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6C1"/></cb:t><cb:t xml:lang="zh-x-yy">枳耶</cb:t></cb:tt>。生字三百九十有六<note place="inline">枳字幾爾反。
+<lb n="1186c07" ed="T"/>今詳祗耶當是耶字之省也。若然亦同除重。唯有三百八十四。先書字體三百九十六。然將祗耶合之後加摩多。夫
+<lb n="1186c08" ed="T"/>重成之字。下者皆省除頭也。已下並同也</note>。</p>
+<lb n="1186c09" ed="T"/><p xml:id="pT54p1186c0901">第三章</p>
+<lb n="1186c10" ed="T"/><p xml:id="pT54p1186c1001">將<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh-x-yy">囉</cb:t></cb:tt>字。合於初章迦迦等字之下。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A947"/></cb:t>
+<lb n="1186c11" ed="T"/><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>迦</cb:zi><cb:sg>上</cb:sg></cb:yin><cb:yin><cb:zi>略</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-DAA9"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>迦</cb:zi><cb:sg>平</cb:sg></cb:yin><cb:yin><cb:zi>略</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt>生字三百九十有六<note place="inline">上略
+<lb n="1186c12" ed="T"/>力價反。下略力迦反。上迦下迦並同略之平上取聲他皆効之也</note>。</p>
+<lb n="1186c13" ed="T"/><p xml:id="pT54p1186c1301">第四章</p>
+<lb n="1186c14" ed="T"/><p xml:id="pT54p1186c1401">將<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64A"/></cb:t><cb:t xml:lang="zh-x-yy">攞</cb:t></cb:tt>字。合初章字之下。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-ABBB"/></cb:t><cb:t xml:lang="zh-x-yy">迦攞</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-ABBC"/></cb:t><cb:t xml:lang="zh-x-yy">迦攞</cb:t></cb:tt>。
+<lb n="1186c15" ed="T"/>生字三百八十有四<note place="inline">攞字洛可反</note>。</p>
+<lb n="1186c16" ed="T"/><p xml:id="pT54p1186c1601">第五章</p>
+<lb n="1186c17" ed="T"/><p xml:id="pT54p1186c1701">將<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh-x-yy"><note n="1186008" resp="Taisho" place="foot text" type="orig">嚩＝縛【甲】＊</note><app n="1186008"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【甲】">縛</rdg></app></cb:t></cb:tt>字。合初章字之下。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-AE42"/></cb:t><cb:t xml:lang="zh-x-yy">迦<cb:yin><cb:zi><app type="star" corresp="#1186008"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【甲】">縛</rdg></app></cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-AE43"/></cb:t>
+<lb n="1186c18" ed="T"/><cb:t xml:lang="zh-x-yy">迦<cb:yin><cb:zi><app type="star" corresp="#1186008"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【甲】">縛</rdg></app></cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt>生字三百八十有四<note place="inline"><app type="star" corresp="#1186008"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【甲】">縛</rdg></app>字房可反</note>。</p>
+<lb n="1186c19" ed="T"/><p xml:id="pT54p1186c1901">第六章</p>
+<lb n="1186c20" ed="T"/><p xml:id="pT54p1186c2001">將<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh-x-yy">麼</cb:t></cb:tt>字。合初章字之下。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B0AA"/></cb:t><cb:t xml:lang="zh-x-yy">迦麼</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B0AB"/></cb:t><cb:t xml:lang="zh-x-yy">迦麼</cb:t></cb:tt>。
+<lb n="1186c21" ed="T"/>生字三百八十有四。</p>
+<lb n="1186c22" ed="T"/><p xml:id="pT54p1186c2201">第七章</p>
+<lb n="1186c23" ed="T"/><p xml:id="pT54p1186c2301">將<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh-x-yy">曩</cb:t></cb:tt>字。合初章字之下。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E366"/></cb:t><cb:t xml:lang="zh-x-yy">迦那</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2F1"/></cb:t><cb:t xml:lang="zh-x-yy">迦那</cb:t></cb:tt>。
+<lb n="1186c24" ed="T"/>生字三百八十有四。</p>
+<lb n="1186c25" ed="T"/><p xml:id="pT54p1186c2501">第八章</p>
+<lb n="1186c26" ed="T"/><p xml:id="pT54p1186c2601">將半體<term xml:lang="sa-Sidd"><g ref="#SD-D9D9"/></term>囉。加初初章字之上。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B577"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦</cb:t></cb:tt>
+<lb n="1186c27" ed="T"/><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B578"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦</cb:t></cb:tt>。生字三百九十有六<note place="inline">勒字力德反下同</note>。</p>
+<lb n="1186c28" ed="T"/><p xml:id="pT54p1186c2801">第九章</p>
+<lb n="1186c29" ed="T"/><p xml:id="pT54p1186c2901">將半體<term xml:lang="sa-Sidd"><g ref="#SD-D9D9"/></term>囉。加第二章字之上。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B7EB"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒枳
+<pb n="1187a" xml:id="T54.2132.1187a" ed="T"/>
+<lb n="1187a01" ed="T"/>耶</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B7EC"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒枳耶</cb:t></cb:tt>。生字三百八十有四<note place="inline">若祗耶是耶省亦同
+<lb n="1187a02" ed="T"/>除重</note>。</p>
+<lb n="1187a03" ed="T"/><p xml:id="pT54p1187a0301">第十章</p>
+<lb n="1187a04" ed="T"/><p xml:id="pT54p1187a0401">將半體<term xml:lang="sa-Sidd"><g ref="#SD-D9D9"/></term>囉。加第三章字之上。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BA72"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦
+<lb n="1187a05" ed="T"/>略</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BA73"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦略</cb:t></cb:tt>。生字三百九十有六<note place="inline">略平上</note>。</p>
+<lb n="1187a06" ed="T"/><p xml:id="pT54p1187a0601">第十一章</p>
+<lb n="1187a07" ed="T"/><p xml:id="pT54p1187a0701">將半體<term xml:lang="sa-Sidd"><g ref="#SD-D9D9"/></term>囉。加第四章字之上。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BCE6"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦
+<lb n="1187a08" ed="T"/>羅</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BCE7"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦羅</cb:t></cb:tt>。生字三百八十有四。</p>
+<lb n="1187a09" ed="T"/><p xml:id="pT54p1187a0901">第十二章</p>
+<lb n="1187a10" ed="T"/><p xml:id="pT54p1187a1001">將半體<term xml:lang="sa-Sidd"><g ref="#SD-D9D9"/></term>囉。加第五章字之上。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BF6D"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦
+<lb n="1187a11" ed="T"/>嚩</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BF6E"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦嚩</cb:t></cb:tt>。生字三百八十有四。</p>
+<lb n="1187a12" ed="T"/><p xml:id="pT54p1187a1201">第十三章</p>
+<lb n="1187a13" ed="T"/><p xml:id="pT54p1187a1301">將半體<term xml:lang="sa-Sidd"><g ref="#SD-D9D9"/></term>囉。加第六章字之上。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C1D5"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦
+<lb n="1187a14" ed="T"/>麼</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C1D6"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦麼</cb:t></cb:tt>。生字三百八十有四。</p>
+<lb n="1187a15" ed="T"/><p xml:id="pT54p1187a1501">第十四章</p>
+<lb n="1187a16" ed="T"/><p xml:id="pT54p1187a1601">將半體<term xml:lang="sa-Sidd"><g ref="#SD-D9D9"/></term>囉。加第七章字之上。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C45C"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦
+<lb n="1187a17" ed="T"/>那</cb:t></cb:tt>。<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C45D"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦那</cb:t></cb:tt>。生字三百八十有四。</p>
+<lb n="1187a18" ed="T"/><p xml:id="pT54p1187a1801">第十五章</p>
+<lb n="1187a19" ed="T"/><p xml:id="pT54p1187a1901">以<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh-x-yy">迦</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47C"/></cb:t><cb:t xml:lang="zh-x-yy">遮</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4DA"/></cb:t><cb:t xml:lang="zh-x-yy">吒</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh-x-yy">多</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B5"/></cb:t><cb:t xml:lang="zh-x-yy">波</cb:t></cb:tt>等句末之。第五
+<lb n="1187a20" ed="T"/>字。各加於當句前四字之上。及初句末字。加
+<lb n="1187a21" ed="T"/>後耶等九字之上。名<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E340"/></cb:t><cb:t xml:lang="zh-x-yy">盎迦</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E367"/></cb:t><cb:t xml:lang="zh-x-yy">安遮</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9E5"/></cb:t><cb:t xml:lang="zh-x-yy">安吒</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t>
+<lb n="1187a22" ed="T"/><cb:t xml:lang="zh-x-yy">安多</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CAA8"/></cb:t><cb:t xml:lang="zh-x-yy">唵波</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E368"/></cb:t><cb:t xml:lang="zh-x-yy">盎耶</cb:t></cb:tt>等。其必不自重。唯二十
+<lb n="1187a23" ed="T"/>九字。不由韻合名為異章。各用阿阿等韻呼
+<lb n="1187a24" ed="T"/>之。生字三百四十有八<note place="inline">盎字阿黨反。安字並阿亶反。唵字阿感反</note>。</p>
+<lb n="1187a25" ed="T"/><p xml:id="pT54p1187a2501">第十六章</p>
+<lb n="1187a26" ed="T"/><p xml:id="pT54p1187a2601">用迦等字體。以別摩多合之。謂之<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CBA7"/></cb:t><cb:t xml:lang="zh-x-yy"><note n="1187001" resp="Taisho" place="foot text" type="orig">訖＝紇【甲】</note><app n="1187001"><lem wit="【大】">訖</lem><rdg resp="Taisho" wit="【甲】">紇</rdg></app>里。</cb:t></cb:tt>
+<lb n="1187a27" ed="T"/>成字三十有四<note place="inline">或有加前麼多得成字用。非遍能生。且據本字言之。今詳訖里之麼多祗是
+<lb n="1187a28" ed="T"/>悉曇中里字也</note>。</p>
+<lb n="1187a29" ed="T"/><p xml:id="pT54p1187a2901">第十七章</p>
+<pb n="1187b" xml:id="T54.2132.1187b" ed="T"/>
+<lb n="1187b01" ed="T"/><p xml:id="pT54p1187b0101">用迦等字體。參互加之有三十三字。隨文受
+<lb n="1187b02" ed="T"/>稱。謂<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CC70"/></cb:t><cb:t xml:lang="zh-x-yy">阿索迦</cb:t></cb:tt>等。各用阿阿等韻呼之。生字
+<lb n="1187b03" ed="T"/>三百九十有六。</p>
+<lb n="1187b04" ed="T"/><p xml:id="pT54p1187b0401">第十八章</p>
+<lb n="1187b05" ed="T"/><p xml:id="pT54p1187b0501">正章之外有孤合之文或當體兩字重之但依
+<lb n="1187b06" ed="T"/>字大呼<note place="inline">謂多闍吒拏等字各有重成也</note>。或異體字重之即連聲合
+<lb n="1187b07" ed="T"/>呼<note place="inline">謂悉多羅等是也</note>。或不具通麼多。止為孤合之文<note place="inline">即瑟吒羅
+<lb n="1187b08" ed="T"/>等字。有通三五麼多也</note>。或雖生十二之文。而字源不次其
+<lb n="1187b09" ed="T"/>猶之孤<note place="inline">即阿悉多羅等也</note>。或雖異重不必依重以呼之<note place="inline">此五
+<lb n="1187b10" ed="T"/>句之末字。加其句之初。即名盎迦等屬前章也</note>。或兩字聯聲。文形其後聲
+<lb n="1187b11" ed="T"/>彰其前<note place="inline">如麼盎迦三合等字。似云莾迦等也</note>。或字一而名分<note place="inline">如沙字有
+<lb n="1187b12" ed="T"/>沙孚（府珂反）二音猶假借也</note>。或用麼多之文。重增其麼多。而音
+<lb n="1187b13" ed="T"/>必兼之<note place="inline">如部林二合字。從裒（菩侯反）婁（力鉤反）與第十一摩多也</note>。或形非麼多
+<lb n="1187b14" ed="T"/>獨為嚴字之文<note place="inline">如字之上有仰月之畫也</note>。或有所成而異其名
+<lb n="1187b15" ed="T"/><note place="inline">謂數字重成一字。而其下必正呼。中上連合短呼之。不必正其音。如上娑下迦稱阿索迦等也</note>。或有其
+<lb n="1187b16" ed="T"/>聲而無其形<note place="inline">此即阿索迦章等字字則無阿。讀之皆帶其音也</note>。或不從字生。
+<lb n="1187b17" ed="T"/>獨為半體之文<note place="inline">如怛達祗耶等用則有之字體無也</note>。或字有所闕。則
+<lb n="1187b18" ed="T"/>加怛達之文。而音掣呼之<note place="inline">如迦佉等字下有達畫則云秸（吉八反）稧（苦八
+<lb n="1187b19" ed="T"/>反）等也</note>。或源由字生增于異形<note place="inline">如室梨字猶有奢羅之象。錯成印文。若篆<choice cb:resp="CBETA.maha"><corr>籀</corr><sic>籕</sic></choice>
+<lb n="1187b20" ed="T"/>也</note>。或考之其生。異之其形<note place="inline">訖里俱羅俱婁等從迦之省。及胡盧等文。麼多之
+<lb n="1187b21" ed="T"/>異猶艸隸也</note>。斯則梵書之大觀焉。</p></cb:div>
+<lb n="1187b22" ed="T"/><cb:div type="other"><head>悉曇字記</head>
+<lb n="1187b23" ed="T"/><p xml:id="pT54p1187b2301"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh-x-yy">娜</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh-x-yy">麼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>娑</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E369"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>囉嚩</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0A4"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>社若</cb:zi><note n="1187002" resp="Taisho" place="foot text" type="orig">而也反二合＝二合而也反【甲】</note><note n="1187002" resp="CBETA" type="mod"><!--CBETA todo type: a-->而也反二合＝二合而也反【甲】</note><cb:sg type="fangie">而也反</cb:sg><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh-x-yy">也</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67C"/></cb:t><cb:t xml:lang="zh-x-yy">悉</cb:t></cb:tt>
+<lb n="1187b24" ed="T"/>
+<lb n="1187b25" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0B0"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>曇</cb:zi><cb:sg>去聲</cb:sg></cb:yin><note place="inline">已上題目</note></cb:t></cb:tt></p>
+<lb n="1187b26" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">悉曇十二韻</cb:mulu><head>悉曇</head>
+<pb n="1187c" xml:id="T54.2132.1187c" ed="T"/>
+<lb n="1187c01" ed="T"/><p xml:id="pT54p1187c0101"><term xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></term>短阿字<note place="inline">上聲短呼音近惡引</note>。</p>
+<lb n="1187c02" ed="T"/><p xml:id="pT54p1187c0201"><term xml:lang="sa-Sidd"><g ref="#SD-CFC6"/></term>長阿字<note place="inline">依聲長呼別體作<term xml:lang="sa-Sidd"><g ref="#SD-D1F0"/></term></note>。</p>
+<lb n="1187c03" ed="T"/><p xml:id="pT54p1187c0301"><term xml:lang="sa-Sidd"><g ref="#SD-CFC7"/></term>短伊字<note place="inline">上聲聲近於翼反別體作<term xml:lang="sa-Sidd"><g ref="#SD-D5FA"/></term></note>。</p>
+<lb n="1187c04" ed="T"/><p xml:id="pT54p1187c0401"><term xml:lang="sa-Sidd"><g ref="#SD-CFC8"/></term>長伊字<note place="inline">依字長呼別體作<term xml:lang="sa-Sidd"><g ref="#SD-D5FC"/></term></note>。</p>
+<lb n="1187c05" ed="T"/><p xml:id="pT54p1187c0501"><term xml:lang="sa-Sidd"><g ref="#SD-CFC9"/></term>短甌字<note place="inline">上聲聲近屋別體作<term xml:lang="sa-Sidd"><g ref="#SD-E3FC"/></term></note>。</p>
+<lb n="1187c06" ed="T"/><p xml:id="pT54p1187c0601"><term xml:lang="sa-Sidd"><g ref="#SD-CFCA"/></term>長甌字<note place="inline">長呼別體作<term xml:lang="sa-Sidd"><g ref="#SD-E3FC"/></term></note>。</p>
+<lb n="1187c07" ed="T"/><p xml:id="pT54p1187c0701"><term xml:lang="sa-Sidd"><g ref="#SD-CFCF"/></term>短藹字<note place="inline">去聲聲近櫻係反</note>。</p>
+<lb n="1187c08" ed="T"/><p xml:id="pT54p1187c0801"><term xml:lang="sa-Sidd"><g ref="#SD-CFD0"/></term>長藹字<note place="inline">近於界反</note>。</p>
+<lb n="1187c09" ed="T"/><p xml:id="pT54p1187c0901"><term xml:lang="sa-Sidd"><g ref="#SD-D64E"/></term>短奧字<note place="inline">去聲近污別體作<term xml:lang="sa-Sidd"><g ref="#SD-CFD1"/></term></note>。</p>
+<lb n="1187c10" ed="T"/><p xml:id="pT54p1187c1001"><term xml:lang="sa-Sidd"><g ref="#SD-D650"/></term>長奧字<note place="inline">依字長呼別體作<term xml:lang="sa-Sidd"><g ref="#SD-CFCA"/></term></note>。</p>
+<lb n="1187c11" ed="T"/><p xml:id="pT54p1187c1101"><term xml:lang="sa-Sidd"><g ref="#SD-CFD3"/></term>短暗字<note place="inline">去聲聲近於鑒反別體作<term xml:lang="sa-Sidd"><g ref="#SD-E1B0"/></term></note>。</p>
+<lb n="1187c12" ed="T"/><p xml:id="pT54p1187c1201"><term xml:lang="sa-Sidd"><g ref="#SD-CFD4"/></term>長疴字<note place="inline">去聲近惡</note>。</p>
+<lb n="1187c13" ed="T"/><p xml:id="pT54p1187c1301" rend="margin-left:1em">義淨三藏云。上之三對上短上長。下三對
+<lb n="1187c14" ed="T"/>上長下短。</p>
+<lb n="1187c15" ed="T"/><p xml:id="pT54p1187c1501">右悉曇十二字為後章之韻。如用迦字之聲。
+<lb n="1187c16" ed="T"/>對阿伊甌等十二韻呼之。則生得下迦機鉤
+<lb n="1187c17" ed="T"/><note place="inline">矩侯反</note>等十二字。次用佉字之聲。則生得佉欺丘
+<lb n="1187c18" ed="T"/><note place="inline">區侯反</note>等十二字。次生伽其求<note place="inline">瞿侯反</note>等十二字。已
+<lb n="1187c19" ed="T"/>下例然。且先書短迦字一十二文。從第二字
+<lb n="1187c20" ed="T"/>已下加其麼多。即字形別也。用悉曇韻呼之。
+<lb n="1187c21" ed="T"/>則識其字名也。佉伽已下至叉字例然。以成
+<lb n="1187c22" ed="T"/>一章。舊云十四音者。即於悉曇十二字中甌
+<lb n="1187c23" ed="T"/>字之下。次有<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCB"/></cb:t><cb:t xml:lang="zh-x-yy">紇里</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCC"/></cb:t><cb:t xml:lang="zh-x-yy">紇梨</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCD"/></cb:t><cb:t xml:lang="zh-x-yy">里</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCE"/></cb:t><cb:t xml:lang="zh-x-yy">梨</cb:t></cb:tt>四字。
+<lb n="1187c24" ed="T"/>即除前悉曇中最後兩字。謂之界畔字也餘
+<lb n="1187c25" ed="T"/>則為十四音。今約生字除紇里等四字也。</p></cb:div>
+<lb n="1187c26" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">體文（悉曇字母）</cb:mulu><head>體文<note place="inline">亦曰字母</note></head>
+<lb n="1187c27" ed="T"/><p xml:id="pT54p1187c2701"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh-x-yy">迦</cb:t></cb:tt>字<note place="inline">居下反音近姜可<note n="1187003" resp="Taisho" place="foot text" type="orig">反＋（<g ref="#SD-DA53"/>）【甲】</note><app n="1187003"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【甲】">反<g ref="#SD-DA53"/></rdg></app></note>。</p>
+<pb n="1188a" xml:id="T54.2132.1188a" ed="T"/>
+<lb n="1188a01" ed="T"/><p xml:id="pT54p1188a0101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A44C"/></cb:t><cb:t xml:lang="zh-x-yy">佉</cb:t></cb:tt>字<note place="inline">去下反音近去可反</note>。</p>
+<lb n="1188a02" ed="T"/><p xml:id="pT54p1188a0201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh-x-yy">迦</cb:t></cb:tt>字<note place="inline">渠下反輕音音近其下反。餘國有音疑可反</note>。</p>
+<lb n="1188a03" ed="T"/><p xml:id="pT54p1188a0301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A464"/></cb:t><cb:t xml:lang="zh-x-yy">伽</cb:t></cb:tt>字<note place="inline">重音渠我反</note>。</p>
+<lb n="1188a04" ed="T"/><p xml:id="pT54p1188a0401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><note n="1188001" resp="Taisho" place="foot text" type="orig"><g ref="#SD-E371"/>　<g ref="#SD-A470"/>【甲】</note><note n="1188001" resp="CBETA" type="mod"><g ref="#SD-E371"/><choice cb:resp="CBETA.say"><corr>＝</corr><sic><space quantity="1" unit="chars"/></sic></choice><g ref="#SD-A470"/>【甲】</note><app n="1188001"><lem wit="【大】"><g ref="#SD-E371"/></lem><rdg resp="Taisho" wit="【甲】"><g ref="#SD-A470"/></rdg></app></cb:t><cb:t xml:lang="zh-x-yy">哦</cb:t></cb:tt>字<note place="inline">魚下反音近魚可反。餘國有音<term xml:lang="sa-Sidd"><g ref="#SD-A470"/></term>講反。別體作<note n="1188002" resp="Taisho" place="foot text" type="orig"><g ref="#SD-A470"/>加麼多＝加麼多<g ref="#SD-E371"/>【甲】</note><app n="1188002"><lem wit="【大】"><term xml:lang="sa-Sidd"><g ref="#SD-A470"/></term>加麼多</lem><rdg resp="Taisho" wit="【甲】">加麼多<g ref="#SD-E371"/></rdg></app></note>。</p>
+<lb n="1188a05" ed="T"/><p xml:id="pT54p1188a0501" rend="margin-left:1em">已上五字牙聲。</p>
+<lb n="1188a06" ed="T"/><p xml:id="pT54p1188a0601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47C"/></cb:t><cb:t xml:lang="zh-x-yy">者</cb:t></cb:tt>字<note place="inline">止下反音近作可反</note>。</p>
+<lb n="1188a07" ed="T"/><p xml:id="pT54p1188a0701"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><note n="1188003" resp="Taisho" place="foot text" type="orig"><g ref="#SD-A4AA"/>＝<g ref="#SD-DA79"/>【甲】</note><app n="1188003"><lem wit="【大】"><g ref="#SD-A4AA"/></lem><rdg resp="Taisho" wit="【甲】"><g ref="#SD-DA79"/></rdg></app></cb:t><cb:t xml:lang="zh-x-yy">車</cb:t></cb:tt>字<note place="inline">昌下反音近倉可反。別體作<note n="1188004" resp="Taisho" place="foot text" type="orig"><g ref="#SD-DA79"/>＝<g ref="#SD-A4AA"/>【甲】</note><app n="1188004"><lem wit="【大】"><term xml:lang="sa-Sidd"><g ref="#SD-DA79"/></term></lem><rdg resp="Taisho" wit="【甲】"><g ref="#SD-A4AA"/></rdg></app></note>。</p>
+<lb n="1188a08" ed="T"/><p xml:id="pT54p1188a0801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4B6"/></cb:t><cb:t xml:lang="zh-x-yy">社</cb:t></cb:tt>字<note place="inline">杓下反輕音音近作可反。餘國有音而下反別體作<term xml:lang="sa-Sidd"><g ref="#SD-E356"/></term></note>。</p>
+<lb n="1188a09" ed="T"/><p xml:id="pT54p1188a0901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4C2"/></cb:t><cb:t xml:lang="zh-x-yy">社</cb:t></cb:tt>字<note place="inline">重音音近昨我反</note>。</p>
+<lb n="1188a10" ed="T"/><p xml:id="pT54p1188a1001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E357"/></cb:t><cb:t xml:lang="zh-x-yy">若</cb:t></cb:tt>字<note place="inline">而下反音近若我反。餘國有音壤。別體作<term xml:lang="sa-Sidd"><g ref="#SD-E358"/></term></note>。</p>
+<lb n="1188a11" ed="T"/><p xml:id="pT54p1188a1101" rend="margin-left:1em">已上五字齒聲。</p>
+<lb n="1188a12" ed="T"/><p xml:id="pT54p1188a1201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><note n="1188005" resp="Taisho" place="foot text" type="orig"><g ref="#SD-D7FE"/>＝<g ref="#SD-A4DA"/>【甲】</note><app n="1188005"><lem wit="【大】"><g ref="#SD-D7FE"/></lem><rdg resp="Taisho" wit="【甲】"><g ref="#SD-A4DA"/></rdg></app></cb:t><cb:t xml:lang="zh-x-yy">吒</cb:t></cb:tt>字<note place="inline">卓下反音近卓我反。別體作<note n="1188006" resp="Taisho" place="foot text" type="orig">〔<g ref="#SD-A4DA"/>〕－【甲】</note><app n="1188006"><lem wit="【大】"><term xml:lang="sa-Sidd"><g ref="#SD-A4DA"/></term></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>加麼<note n="1188007" resp="Taisho" place="foot text" type="orig">多＋（<g ref="#SD-A4DA"/><g ref="#SD-E371"/>）【甲】</note><app n="1188007"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】">多<g ref="#SD-A4DA"/><g ref="#SD-E371"/></rdg></app></note>。</p>
+<lb n="1188a13" ed="T"/><p xml:id="pT54p1188a1301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4E6"/></cb:t><cb:t xml:lang="zh-x-yy">侘</cb:t></cb:tt>字<note place="inline">拆下反音近折我反別體作<term xml:lang="sa-Sidd"><g ref="#SD-B65E"/></term></note>。</p>
+<lb n="1188a14" ed="T"/><p xml:id="pT54p1188a1401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4F2"/></cb:t><cb:t xml:lang="zh-x-yy">荼</cb:t></cb:tt>字<note place="inline">宅下反輕音。餘國有音搦下反</note>。</p>
+<lb n="1188a15" ed="T"/><p xml:id="pT54p1188a1501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4FE"/></cb:t><cb:t xml:lang="zh-x-yy">荼</cb:t></cb:tt>字<note place="inline">重音音近幢我反</note>。</p>
+<lb n="1188a16" ed="T"/><p xml:id="pT54p1188a1601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><note n="1188008" resp="Taisho" place="foot text" type="orig"><g ref="#SD-A54B"/>＝<g ref="#SD-E359"/>【甲】</note><app n="1188008"><lem wit="【大】"><g ref="#SD-A54B"/></lem><rdg resp="Taisho" wit="【甲】"><g ref="#SD-E359"/></rdg></app></cb:t><cb:t xml:lang="zh-x-yy">拏</cb:t></cb:tt>字<note place="inline">搦下反音近搦我反。餘國有音拏講反別體作<note n="1188009" resp="Taisho" place="foot text" type="orig"><g ref="#SD-E359"/>加麼多＝<g ref="#SD-E47D"/><g ref="#SD-A54B"/>【甲】</note><app n="1188009"><lem wit="【大】"><term xml:lang="sa-Sidd"><g ref="#SD-E359"/></term>加麼多</lem><rdg resp="Taisho" wit="【甲】"><g ref="#SD-E47D"/><g ref="#SD-A54B"/></rdg></app></note>。</p>
+<lb n="1188a17" ed="T"/><p xml:id="pT54p1188a1701" rend="margin-left:1em">已上五字舌聲。</p>
+<lb n="1188a18" ed="T"/><p xml:id="pT54p1188a1801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh-x-yy">多</cb:t></cb:tt>字<note place="inline">怛下反音近多可反。別體作<note n="1188010" resp="Taisho" place="foot text" type="orig">〔<g ref="#SD-E360"/>〕－【甲】</note><app n="1188010"><lem wit="【大】"><term xml:lang="sa-Sidd"><g ref="#SD-E360"/></term></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></note>。</p>
+<lb n="1188a19" ed="T"/><p xml:id="pT54p1188a1901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A563"/></cb:t><cb:t xml:lang="zh-x-yy">他</cb:t></cb:tt>字<note place="inline">他下反音近他可<note n="1188011" resp="Taisho" place="foot text" type="orig">反＋（<g ref="#SD-AF7D"/><g ref="#SD-A564"/>）【甲】</note><app n="1188011"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【甲】">反<g ref="#SD-AF7D"/><g ref="#SD-A564"/></rdg></app></note>。</p>
+<lb n="1188a20" ed="T"/><p xml:id="pT54p1188a2001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A56F"/></cb:t><cb:t xml:lang="zh-x-yy">陀</cb:t></cb:tt>字<note place="inline">大下反輕音餘國有音陀可反</note>。</p>
+<lb n="1188a21" ed="T"/><p xml:id="pT54p1188a2101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E361"/></cb:t><cb:t xml:lang="zh-x-yy">陀</cb:t></cb:tt>字<note place="inline">重音音近陀可反</note>。</p>
+<lb n="1188a22" ed="T"/><p xml:id="pT54p1188a2201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh-x-yy"><note n="1188012" resp="Taisho" place="foot text" type="orig">那＝挪【甲】</note><app n="1188012"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【甲】">挪</rdg></app></cb:t></cb:tt>字<note place="inline">捺下反音近那可反。餘國有音音曩。別體作<term xml:lang="sa-Sidd"><g ref="#SD-E362"/></term></note>。</p>
+<lb n="1188a23" ed="T"/><p xml:id="pT54p1188a2301" rend="margin-left:1em">已上五字喉聲。</p>
+<lb n="1188a24" ed="T"/><p xml:id="pT54p1188a2401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B5"/></cb:t><cb:t xml:lang="zh-x-yy">波</cb:t></cb:tt>字<note place="inline"><g ref="#CB01452"/>下反音近波我反</note>。</p>
+<lb n="1188a25" ed="T"/><p xml:id="pT54p1188a2501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5C1"/></cb:t><cb:t xml:lang="zh-x-yy">頗</cb:t></cb:tt>字<note place="inline">破下反音近破我反</note>。</p>
+<pb n="1188b" xml:id="T54.2132.1188b" ed="T"/>
+<lb n="1188b01" ed="T"/><p xml:id="pT54p1188b0101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5CD"/></cb:t><cb:t xml:lang="zh-x-yy">婆</cb:t></cb:tt>字<note place="inline">罷下反輕音。餘國有音麼字下不尖異後</note>。</p>
+<lb n="1188b02" ed="T"/><p xml:id="pT54p1188b0201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5D9"/></cb:t><cb:t xml:lang="zh-x-yy">婆</cb:t></cb:tt>字<note place="inline">重音薄我反</note>。</p>
+<lb n="1188b03" ed="T"/><p xml:id="pT54p1188b0301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh-x-yy">麼</cb:t></cb:tt>字<note place="inline">莫下反音近莫可反。餘國有音莽</note>。</p>
+<lb n="1188b04" ed="T"/><p xml:id="pT54p1188b0401" rend="margin-left:1em">已上五字脣聲。</p>
+<lb n="1188b05" ed="T"/><p xml:id="pT54p1188b0501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh-x-yy">也</cb:t></cb:tt>字<note place="inline">藥下反音近藥可反又音祗也反譌也</note>。</p>
+<lb n="1188b06" ed="T"/><p xml:id="pT54p1188b0601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh-x-yy">囉</cb:t></cb:tt>字<note place="inline">曷力下反三合。卷舌呼囉</note>。</p>
+<lb n="1188b07" ed="T"/><p xml:id="pT54p1188b0701"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64A"/></cb:t><cb:t xml:lang="zh-x-yy">羅</cb:t></cb:tt>字<note place="inline">洛下反音近洛可反</note>。</p>
+<lb n="1188b08" ed="T"/><p xml:id="pT54p1188b0801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E370"/></cb:t><cb:t xml:lang="zh-x-yy">嚩</cb:t></cb:tt>字<note place="inline">房下反音近房可反。舊又音和。一云字下尖</note>。</p>
+<lb n="1188b09" ed="T"/><p xml:id="pT54p1188b0901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1CC"/></cb:t><cb:t xml:lang="zh-x-yy">奢</cb:t></cb:tt>字<note place="inline">舍下反音近舍可反</note>。</p>
+<lb n="1188b10" ed="T"/><p xml:id="pT54p1188b1001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A66E"/></cb:t><cb:t xml:lang="zh-x-yy">沙</cb:t></cb:tt>字<note place="inline">沙下反音近沙可反。一音府下反</note>。</p>
+<lb n="1188b11" ed="T"/><p xml:id="pT54p1188b1101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-D8D7"/></cb:t><cb:t xml:lang="zh-x-yy"><note n="1188013" resp="Taisho" place="foot text" type="orig">娑＝沙【甲】</note><app n="1188013"><lem wit="【大】">娑</lem><rdg resp="Taisho" wit="【甲】">沙</rdg></app></cb:t></cb:tt>字<note place="inline">娑下反音近娑可反</note>。</p>
+<lb n="1188b12" ed="T"/><p xml:id="pT54p1188b1201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A8"/></cb:t><cb:t xml:lang="zh-x-yy">訶</cb:t></cb:tt>字<note place="inline">許下反音近許可反。一本音賀</note>。</p>
+<lb n="1188b13" ed="T"/><p xml:id="pT54p1188b1301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E354"/></cb:t><cb:t xml:lang="zh-x-yy">濫</cb:t></cb:tt>字<note place="inline">力陷反音近郎紺反</note>。</p>
+<lb n="1188b14" ed="T"/><p xml:id="pT54p1188b1401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6B4"/></cb:t><cb:t xml:lang="zh-x-yy">叉</cb:t></cb:tt>字<note place="inline">楚下反音近楚可反</note>。</p>
+<lb n="1188b15" ed="T"/><p xml:id="pT54p1188b1501" rend="margin-left:1em"><note n="1188014" resp="Taisho" place="foot text" type="orig">〔已〕－【甲】</note><app n="1188014"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>上十字遍口聲。</p>
+<lb n="1188b16" ed="T"/><p xml:id="pT54p1188b1601">右字體三十五字。後章用三十四字為體。唯
+<lb n="1188b17" ed="T"/>濫字全不能生。餘隨所生。具如常章論之。</p></cb:div>
+<lb n="1188b18" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">悉曇十八章</cb:mulu><cb:div type="other"><cb:mulu level="3" type="其他">1 第一章</cb:mulu><head>第一章</head>
+<lb n="1188b19" ed="T"/><p xml:id="pT54p1188b1901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh-x-yy">迦</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A441"/></cb:t><cb:t xml:lang="zh-x-yy">迦</cb:t></cb:tt>。</p>
+<lb n="1188b20" ed="T"/><p xml:id="pT54p1188b2001">右初章生字四百有八。先於字母中。每字平
+<lb n="1188b21" ed="T"/>書一十二文。次將麼多如次點之。則字形別
+<lb n="1188b22" ed="T"/>也。用悉曇韻呼之。則識其字名也。其麼多有
+<lb n="1188b23" ed="T"/>別體者。任逐便用之。皆通。此初章為後相次
+<lb n="1188b24" ed="T"/>六章之體。先書此章字。但除重及囉羅三字。
+<lb n="1188b25" ed="T"/>合三十二字。所生三百八十四字。即將<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><note n="1188015" resp="Taisho" place="foot text" type="orig">〔<g ref="#SD-A5F1"/>〕－【甲】</note><app n="1188015"><lem wit="【大】"><g ref="#SD-A5F1"/></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:t><cb:t xml:lang="zh-x-yy">也</cb:t></cb:tt>
+<lb n="1188b26" ed="T"/>等字。如次於下合之。後加麼多則字字別也。
+<lb n="1188b27" ed="T"/>將悉曇十二韻相對呼之。則識其字名也。恐
+<pb n="1188c" xml:id="T54.2132.1188c" ed="T"/>
+<lb n="1188c01" ed="T"/>未曉悟。更每章頭書一二數字。以為規準。後
+<lb n="1188c02" ed="T"/>皆效此。</p></cb:div>
+<lb n="1188c03" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">2 第二章</cb:mulu><head>第二章</head>
+<lb n="1188c04" ed="T"/><p xml:id="pT54p1188c0401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6C0"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>己也</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6C1"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>紀耶</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6C2"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>紀以</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6C3"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>紀夷</cb:zi><cb:sg>二
+<lb n="1188c05" ed="T"/>合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6C4"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>矩庾</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E363"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>矩俞</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6C6"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>枳曳</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6C7"/></cb:t><cb:t xml:lang="zh-x-yy">枳<cb:yin><cb:zi><g ref="#CB07106"/>
+<lb n="1188c06" ed="T"/></cb:zi><cb:sg type="fangie">與蓋反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6C8"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>句俞</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6C9"/></cb:t><cb:t xml:lang="zh-x-yy">句<cb:yin><cb:zi>曜</cb:zi><cb:sg type="fangie">庾告反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6CA"/></cb:t><cb:t xml:lang="zh-x-yy">矩焰</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6CB"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>迦</cb:zi><cb:sg>上</cb:sg></cb:yin>夜</cb:t></cb:tt>
+<lb n="1188c07" ed="T"/><note place="inline">已上第二章初字所生一十二文。後皆效此。讀者連帶。轉聲調韻呼之</note>。</p></cb:div>
+<lb n="1188c08" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">3 第三章</cb:mulu><head>第三章</head>
+<lb n="1188c09" ed="T"/><p xml:id="pT54p1188c0901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A947"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>迦</cb:zi><cb:sg>上</cb:sg></cb:yin><cb:yin><cb:zi>略</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A948"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>迦</cb:zi><cb:sg>平</cb:sg></cb:yin><cb:yin><cb:zi>略</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A949"/></cb:t><cb:t xml:lang="zh-x-yy">己里</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A94A"/></cb:t><cb:t xml:lang="zh-x-yy">機釐</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A94B"/></cb:t><cb:t xml:lang="zh-x-yy">苟漊</cb:t></cb:tt>
+<lb n="1188c10" ed="T"/><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A94C"/></cb:t><cb:t xml:lang="zh-x-yy">鉤<cb:yin><cb:zi>婁</cb:zi><cb:sg>呂鉤反</cb:sg></cb:yin></cb:t></cb:tt><note place="inline">餘同上</note>。</p></cb:div>
+<lb n="1188c11" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">4 第四章</cb:mulu><head>第四章</head>
+<lb n="1188c12" ed="T"/><p xml:id="pT54p1188c1201"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-ABBB"/></cb:t><cb:t xml:lang="zh-x-yy">迦<cb:yin><cb:zi>攞</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-ABBC"/></cb:t><cb:t xml:lang="zh-x-yy">迦<cb:yin><cb:zi>攞</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt>。</p></cb:div>
+<lb n="1188c13" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">5 第五章</cb:mulu><head>第五章</head>
+<lb n="1188c14" ed="T"/><p xml:id="pT54p1188c1401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-AE42"/></cb:t><cb:t xml:lang="zh-x-yy">迦<cb:yin><cb:zi>嚩</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-AE43"/></cb:t><cb:t xml:lang="zh-x-yy">迦<cb:yin><cb:zi>嚩</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt>。</p></cb:div>
+<lb n="1188c15" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">6 第六章</cb:mulu><head>第六章</head>
+<lb n="1188c16" ed="T"/><p xml:id="pT54p1188c1601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B0AA"/></cb:t><cb:t xml:lang="zh-x-yy">迦麼</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B0AB"/></cb:t><cb:t xml:lang="zh-x-yy">迦摩</cb:t></cb:tt>。</p></cb:div>
+<lb n="1188c17" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">7 第七章</cb:mulu><head>第七章</head>
+<lb n="1188c18" ed="T"/><p xml:id="pT54p1188c1801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E366"/></cb:t><cb:t xml:lang="zh-x-yy">迦娜</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2F1"/></cb:t><cb:t xml:lang="zh-x-yy">迦<note n="1188016" resp="Taisho" place="foot text" type="orig">娜＝那【甲】</note><app n="1188016"><lem wit="【大】">娜</lem><rdg resp="Taisho" wit="【甲】">那</rdg></app></cb:t></cb:tt>。</p></cb:div>
+<lb n="1188c19" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">8 第八章</cb:mulu><head>第八章</head>
+<lb n="1188c20" ed="T"/><p xml:id="pT54p1188c2001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B577"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒<cb:yin><cb:zi>迦</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B578"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒<cb:yin><cb:zi>迦</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B579"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>伊</cb:zi><cb:sg>上</cb:sg></cb:yin>力紀</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B57A"/></cb:t><cb:t xml:lang="zh-x-yy">伊力
+<lb n="1188c21" ed="T"/>機</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B57B"/></cb:t><cb:t xml:lang="zh-x-yy">歐鹿<cb:yin><cb:zi>苟</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B57C"/></cb:t><cb:t xml:lang="zh-x-yy">歐鹿<cb:yin><cb:zi>鉤</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B57D"/></cb:t><cb:t xml:lang="zh-x-yy"><note n="1188017" resp="Taisho" place="foot text" type="orig">醫＝毉【甲】＊</note><app n="1188017"><lem wit="【大】">醫</lem><rdg resp="Taisho" wit="【甲】">毉</rdg></app>力葪</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B57E"/></cb:t><cb:t xml:lang="zh-x-yy"><app type="star" corresp="#1188017"><lem wit="【大】">醫</lem><rdg resp="Taisho" wit="【甲】">毉</rdg></app>
+<lb n="1188c22" ed="T"/>力介</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B5A1"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒勾</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B5A2"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒<cb:yin><cb:zi>憍</cb:zi><cb:sg type="fangie">脚號反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B5A3"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒劍</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B5A4"/></cb:t><cb:t xml:lang="zh-x-yy">阿
+<lb n="1188c23" ed="T"/>勒<cb:yin><cb:zi>迦</cb:zi><cb:sg>去</cb:sg></cb:yin></cb:t></cb:tt>。</p>
+<lb n="1188c24" ed="T"/><p xml:id="pT54p1188c2401">右第八章字同初章。但用半體<note n="1188018" resp="Taisho" place="foot text" type="orig">〔<g ref="#SD-D9D9"/>〕－【甲】＊</note><app n="1188018"><lem wit="【大】"><term xml:lang="sa-Sidd"><g ref="#SD-D9D9"/></term></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="1188019" resp="Taisho" place="foot text" type="orig">囉＝羅＊【甲】</note><app n="1188019"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【甲】">羅＊</rdg></app>。加諸
+<lb n="1188c25" ed="T"/>字上。後點麼多也。又此章為後相次六章字
+<lb n="1188c26" ed="T"/>體。同前第二已下也。但加半體<app type="star" corresp="#1188018"><lem wit="【大】"><term xml:lang="sa-Sidd"><g ref="#SD-D9D9"/></term></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><anchor xml:id="fxT54p1188c03"/>囉也。</p></cb:div>
+<lb n="1188c27" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">9 第九章</cb:mulu><head>第九章</head>
+<lb n="1188c28" ed="T"/><p xml:id="pT54p1188c2801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B7EB"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒已也</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-B7EC"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒枳耶</cb:t></cb:tt>。</p></cb:div>
+<lb n="1188c29" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">10 第十章</cb:mulu><head>第十章</head>
+<pb n="1189a" xml:id="T54.2132.1189a" ed="T"/>
+<lb n="1189a01" ed="T"/><p xml:id="pT54p1189a0101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BA72"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦<cb:yin><cb:zi>略</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BA73"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦<anchor xml:id="fxT54p1189a01"/>囉</cb:t></cb:tt>。</p></cb:div>
+<lb n="1189a02" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">11 第十一章</cb:mulu><head>第十一章</head>
+<lb n="1189a03" ed="T"/><p xml:id="pT54p1189a0301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BCE6"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦攞</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BCE7"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦攞</cb:t></cb:tt>。</p></cb:div>
+<lb n="1189a04" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">12 第十二章</cb:mulu><head>第十二章</head>
+<lb n="1189a05" ed="T"/><p xml:id="pT54p1189a0501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BF6D"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦<cb:yin><cb:zi><app type="star" corresp="#1186008"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【甲】">縛</rdg></app></cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-BF6E"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦<cb:yin><cb:zi><app type="star" corresp="#1186008"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【甲】">縛</rdg></app></cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt>。</p></cb:div>
+<lb n="1189a06" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">13 第十三章</cb:mulu><head>第十三章</head>
+<lb n="1189a07" ed="T"/><p xml:id="pT54p1189a0701"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C1D5"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦麼</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C1D6"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦<note n="1189001" resp="Taisho" place="foot text" type="orig">摩＝麼【甲】</note><app n="1189001"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】">麼</rdg></app></cb:t></cb:tt>。</p></cb:div>
+<lb n="1189a08" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">14 第十四章</cb:mulu><head>第十四章</head>
+<lb n="1189a09" ed="T"/><p xml:id="pT54p1189a0901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C45C"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦娜</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C45D"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒迦娜</cb:t></cb:tt>。</p></cb:div>
+<lb n="1189a10" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">15 第十五章</cb:mulu><head>第十五章</head>
+<lb n="1189a11" ed="T"/><p xml:id="pT54p1189a1101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E340"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>迦</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C964"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>迦</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C965"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>應</cb:zi><cb:sg>上</cb:sg></cb:yin>紀</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C966"/></cb:t><cb:t xml:lang="zh-x-yy">應機</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C967"/></cb:t><cb:t xml:lang="zh-x-yy">蓊<cb:yin><cb:zi><note n="1189002" resp="Taisho" place="foot text" type="orig">苟＝句【甲】</note><app n="1189002"><lem wit="【大】">苟</lem><rdg resp="Taisho" wit="【甲】">句</rdg></app>
+<lb n="1189a12" ed="T"/></cb:zi><cb:sg type="fangie">俱口反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C968"/></cb:t><cb:t xml:lang="zh-x-yy">蓊<cb:yin><cb:zi>鉤</cb:zi><cb:sg type="fangie">俱候反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C969"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>蘡</cb:zi><cb:sg type="fangie">於項反</cb:sg></cb:yin>荊</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C96A"/></cb:t><cb:t xml:lang="zh-x-yy">蘡介</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C96B"/></cb:t><cb:t xml:lang="zh-x-yy">擁句</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C96C"/></cb:t>
+<lb n="1189a13" ed="T"/><cb:t xml:lang="zh-x-yy">擁<cb:yin><cb:zi>憍</cb:zi><cb:sg type="fangie">脚傲反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C96D"/></cb:t><cb:t xml:lang="zh-x-yy">盎鑑</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C96E"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>迦</cb:zi><cb:sg>去</cb:sg></cb:yin></cb:t></cb:tt><note place="inline">已上伽字上用<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><note n="1189003" resp="Taisho" place="foot text" type="orig">〔<g ref="#SD-A470"/>〕－【甲】</note><app n="1189003"><lem wit="【大】"><g ref="#SD-A470"/></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:t><cb:t xml:lang="zh-x-yy">盎</cb:t></cb:tt>字。冠之生十二字</note>。</p>
+<lb n="1189a14" ed="T"/><p xml:id="pT54p1189a1401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C96F"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>佉</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C970"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>佉</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt><note place="inline">生十二字同上迦字用麼多及呼字轉聲法。下同</note>。</p>
+<lb n="1189a15" ed="T"/><p xml:id="pT54p1189a1501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E446"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>伽</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C97C"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi><note n="1189004" resp="Taisho" place="foot text" type="orig">佉＝伽【甲】＊</note><note n="1189004" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->佉＝伽【甲】＊</note><app n="1189004"><lem wit="【大】">佉</lem><rdg resp="Taisho" wit="【甲】">伽</rdg></app></cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt><note place="inline">生十二字同上</note>。</p>
+<lb n="1189a16" ed="T"/><p xml:id="pT54p1189a1601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C96F"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>伽</cb:zi><cb:sg>上<note n="1189005" resp="Taisho" place="foot text" type="orig">聲＝重【甲】</note><app n="1189005"><lem wit="【大】">聲</lem><rdg resp="Taisho" wit="【甲】">重</rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C970"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>佉</cb:zi><cb:sg>平重</cb:sg></cb:yin></cb:t></cb:tt><note place="inline">生十二字同上</note>。</p>
+<lb n="1189a17" ed="T"/><p xml:id="pT54p1189a1701"><note n="1189006" resp="Taisho" place="foot text" type="orig"><g ref="#SD-A470"/>字，甲本作夾註</note><term xml:lang="sa-Sidd"><g ref="#SD-E372"/></term>字<note place="inline">並將冠上四字之首。不復自重。後皆效此。已上牙聲之字。皆用盎聲</note>。</p>
+<lb n="1189a18" ed="T"/><p xml:id="pT54p1189a1801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9B5"/></cb:t><cb:t xml:lang="zh-x-yy">安者</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9B6"/></cb:t><cb:t xml:lang="zh-x-yy">安遮</cb:t></cb:tt><note place="inline">生十二字同上<note n="1189007" resp="Taisho" place="foot text" type="orig">〔此…省〕七字－【甲】</note><app cb:word-count="7" n="1189007"><lem wit="【大】">此<term xml:lang="sa-Sidd"><g ref="#SD-E373"/></term>是<term xml:lang="sa-Sidd"><g ref="#SD-A4CE"/></term>字之省</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></note>。</p>
+<lb n="1189a19" ed="T"/><p xml:id="pT54p1189a1901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9C1"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>車</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9C2"/></cb:t><cb:t xml:lang="zh-x-yy">安車</cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189a20" ed="T"/><p xml:id="pT54p1189a2001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E37E"/></cb:t><cb:t xml:lang="zh-x-yy">安社</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9CE"/></cb:t><cb:t xml:lang="zh-x-yy">安闍</cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189a21" ed="T"/><p xml:id="pT54p1189a2101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E37E"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>社</cb:zi><cb:sg>重</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9CE"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>闍</cb:zi><cb:sg>重</cb:sg></cb:yin></cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189a22" ed="T"/><p xml:id="pT54p1189a2201"><note n="1189008" resp="Taisho" place="foot text" type="orig"><g ref="#SD-E357"/>字作夾註</note><term xml:lang="sa-Sidd"><g ref="#SD-E357"/></term>字<note place="inline">為上四字所用。不可更自重。已上齒聲之字同用安音阿亶反</note>。</p>
+<lb n="1189a23" ed="T"/><p xml:id="pT54p1189a2301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9E5"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>吒</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9E6"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>吒</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt><note place="inline">生十二安字</note>。</p>
+<lb n="1189a24" ed="T"/><p xml:id="pT54p1189a2401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9F1"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>侘</cb:zi><cb:sg>上</cb:sg><cb:sg type="fangie">丑加反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9F2"/></cb:t><cb:t xml:lang="zh-x-yy">安侘</cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189a25" ed="T"/><p xml:id="pT54p1189a2501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9FD"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>茶</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-C9FE"/></cb:t><cb:t xml:lang="zh-x-yy">安茶</cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189a26" ed="T"/><p xml:id="pT54p1189a2601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA4A"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>茶</cb:zi><cb:sg>上重</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA4B"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>茶</cb:zi><cb:sg><note n="1189009" resp="Taisho" place="foot text" type="orig">重音＝平重【甲】</note><app n="1189009"><lem wit="【大】">重音</lem><rdg resp="Taisho" wit="【甲】">平重</rdg></app></cb:sg></cb:yin></cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<pb n="1189b" xml:id="T54.2132.1189b" ed="T"/>
+<lb n="1189b01" ed="T"/><p xml:id="pT54p1189b0101"><note n="1189010" resp="Taisho" place="foot text" type="orig"><g ref="#SD-A54B"/>字作夾註</note><term xml:lang="sa-Sidd"><g ref="#SD-A54B"/></term>字<note place="inline">為上四字所用。不可更自重。此字有自重者便屬別章則大呼。拏音非盎拏也。餘並同此也。已上
+<lb n="1189b02" ed="T"/>舌聲之字同用安聲</note>。</p>
+<lb n="1189b03" ed="T"/><p xml:id="pT54p1189b0301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi><note n="1189011" resp="Taisho" place="foot text" type="orig">多＝哆【甲】</note><app n="1189011"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】">哆</rdg></app></cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA57"/></cb:t><cb:t xml:lang="zh-x-yy">安多</cb:t></cb:tt><note place="inline"><note n="1189012" resp="Taisho" place="foot text" type="orig">（平）＋生【甲】</note><app n="1189012"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】">平生</rdg></app>十二字</note>。</p>
+<lb n="1189b04" ed="T"/><p xml:id="pT54p1189b0401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA62"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi><note n="1189013" resp="Taisho" place="foot text" type="orig">他＝陀【甲】＊</note><app n="1189013"><lem wit="【大】">他</lem><rdg resp="Taisho" wit="【甲】">陀</rdg></app></cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA63"/></cb:t><cb:t xml:lang="zh-x-yy">安<app type="star" corresp="#1189013"><lem wit="【大】">他</lem><rdg resp="Taisho" wit="【甲】">陀</rdg></app></cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189b05" ed="T"/><p xml:id="pT54p1189b0501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA6E"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>挓</cb:zi><cb:sg><note n="1189014" resp="Taisho" place="foot text" type="orig">〔上〕－【甲】</note><app n="1189014"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA6F"/></cb:t><cb:t xml:lang="zh-x-yy">安挓</cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189b06" ed="T"/><p xml:id="pT54p1189b0601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3CE"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>陀</cb:zi><cb:sg><note n="1189015" resp="Taisho" place="foot text" type="orig">〔上〕－【甲】</note><app n="1189015"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>重</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA7B"/></cb:t><cb:t xml:lang="zh-x-yy">安<cb:yin><cb:zi>陀</cb:zi><cb:sg>重音</cb:sg></cb:yin></cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189b07" ed="T"/><p xml:id="pT54p1189b0701"><note n="1189016" resp="Taisho" place="foot text" type="orig"><g ref="#SD-A5A9"/>字可作夾註</note><term xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></term>字<note place="inline">為上四字所用。不可更自重。若重屬別章。已上喉聲之字同用安聲</note>。</p>
+<lb n="1189b08" ed="T"/><p xml:id="pT54p1189b0801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CAA8"/></cb:t><cb:t xml:lang="zh-x-yy">唵跛</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CAA9"/></cb:t><cb:t xml:lang="zh-x-yy">唵<note n="1189017" resp="Taisho" place="foot text" type="orig">跛＝波【甲】</note><app n="1189017"><lem wit="【大】">跛</lem><rdg resp="Taisho" wit="【甲】">波</rdg></app></cb:t></cb:tt><note place="inline"><note n="1189018" resp="Taisho" place="foot text" type="orig">（平）＋生【甲】</note><app n="1189018"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】">平生</rdg></app>十二字</note>。</p>
+<lb n="1189b09" ed="T"/><p xml:id="pT54p1189b0901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CAB4"/></cb:t><cb:t xml:lang="zh-x-yy">唵<cb:yin><cb:zi>頗</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CAB5"/></cb:t><cb:t xml:lang="zh-x-yy">唵<cb:yin><cb:zi>頗</cb:zi><cb:sg><note n="1189019" resp="Taisho" place="foot text" type="orig">〔平〕－【甲】</note><app n="1189019"><lem wit="【大】">平</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189b10" ed="T"/><p xml:id="pT54p1189b1001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CAC0"/></cb:t><cb:t xml:lang="zh-x-yy">唵<cb:yin><cb:zi>婆</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CAC1"/></cb:t><cb:t xml:lang="zh-x-yy">唵婆</cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189b11" ed="T"/><p xml:id="pT54p1189b1101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CACC"/></cb:t><cb:t xml:lang="zh-x-yy">唵<cb:yin><cb:zi>婆</cb:zi><cb:sg>上重音</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CACD"/></cb:t><cb:t xml:lang="zh-x-yy">唵<cb:yin><cb:zi>婆</cb:zi><cb:sg>重</cb:sg></cb:yin></cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189b12" ed="T"/><p xml:id="pT54p1189b1201"><note n="1189020" resp="Taisho" place="foot text" type="orig"><g ref="#SD-A5E5"/>字可作夾註</note><term xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></term>字<note place="inline">為上四字所用。不更自重。已上脣聲之字同用唵聲</note>。</p>
+<lb n="1189b13" ed="T"/><p xml:id="pT54p1189b1301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E368"/></cb:t><cb:t xml:lang="zh-x-yy">盎<note n="1189021" resp="Taisho" place="foot text" type="orig">也＝也上【甲】</note><app n="1189021"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】">也上</rdg></app></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CAD9"/></cb:t><cb:t xml:lang="zh-x-yy">盎耶</cb:t></cb:tt><note place="inline"><note n="1189022" resp="Taisho" place="foot text" type="orig">（平）＋生【甲】＊</note><app n="1189022"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】">平生</rdg></app>十二字</note>。</p>
+<lb n="1189b14" ed="T"/><p xml:id="pT54p1189b1401"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A977"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>攞</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A978"/></cb:t><cb:t xml:lang="zh-x-yy">盎囉</cb:t></cb:tt><note place="inline"><app type="star" corresp="#1189022"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】">平生</rdg></app>十二字</note>。</p>
+<lb n="1189b15" ed="T"/><p xml:id="pT54p1189b1501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CAF0"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>攞</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-ABEC"/></cb:t><cb:t xml:lang="zh-x-yy">盎攞</cb:t></cb:tt><note place="inline"><app type="star" corresp="#1189022"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】">平生</rdg></app>十二字</note>。</p>
+<lb n="1189b16" ed="T"/><p xml:id="pT54p1189b1601"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CAFC"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>攞</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CAFD"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>嚩</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189b17" ed="T"/><p xml:id="pT54p1189b1701"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CB62"/></cb:t><cb:t xml:lang="zh-x-yy">盎捨</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CB62"/></cb:t><cb:t xml:lang="zh-x-yy">盎奢</cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189b18" ed="T"/><p xml:id="pT54p1189b1801"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CB55"/></cb:t><cb:t xml:lang="zh-x-yy">盎灑</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CB56"/></cb:t><cb:t xml:lang="zh-x-yy">盎沙</cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189b19" ed="T"/><p xml:id="pT54p1189b1901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CB49"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>娑</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CB4A"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>娑</cb:zi><cb:sg>平</cb:sg></cb:yin></cb:t></cb:tt><note place="inline">生十二字</note>。</p>
+<lb n="1189b20" ed="T"/><p xml:id="pT54p1189b2001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CB6D"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>訶</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CB6E"/></cb:t><cb:t xml:lang="zh-x-yy">盎訶</cb:t></cb:tt><note place="inline"><app type="star" corresp="#1189022"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】">平生</rdg></app>十二字</note>。</p>
+<lb n="1189b21" ed="T"/><p xml:id="pT54p1189b2101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CB79"/></cb:t><cb:t xml:lang="zh-x-yy">盎<cb:yin><cb:zi>叉</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CB7A"/></cb:t><cb:t xml:lang="zh-x-yy">盎叉</cb:t></cb:tt><note place="inline"><app type="star" corresp="#1189022"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】">平生</rdg></app>十二字</note>。</p>
+<lb n="1189b22" ed="T"/><p xml:id="pT54p1189b2201">右此章字兩字重成不得依字呼之。異於諸
+<lb n="1189b23" ed="T"/>章故云異章。然盎安等將讀之際。潛帶其音
+<lb n="1189b24" ed="T"/>亦不分明稱盎安也。</p></cb:div>
+<lb n="1189b25" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">16 第十六章</cb:mulu><head>第十六章</head>
+<pb n="1189c" xml:id="T54.2132.1189c" ed="T"/>
+<lb n="1189c01" ed="T"/><p xml:id="pT54p1189c0101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CBA7"/></cb:t><cb:t xml:lang="zh-x-yy">訖里</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E374"/></cb:t><cb:t xml:lang="zh-x-yy">乞里</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0C8"/></cb:t><cb:t xml:lang="zh-x-yy">佉里</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0C6"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>佉里</cb:zi><cb:sg>重音</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CBAB"/></cb:t><cb:t xml:lang="zh-x-yy">齕里</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CBAC"/></cb:t>
+<lb n="1189c02" ed="T"/><cb:t xml:lang="zh-x-yy"><note n="1189023" resp="Taisho" place="foot text" type="orig">齒＝質【甲】</note><app n="1189023"><lem wit="【大】">齒</lem><rdg resp="Taisho" wit="【甲】">質</rdg></app>里</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E375"/></cb:t><cb:t xml:lang="zh-x-yy"><note n="1189024" resp="Taisho" place="foot text" type="orig">質＝此【甲】</note><app n="1189024"><lem wit="【大】">質</lem><rdg resp="Taisho" wit="【甲】">此</rdg></app>里</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CBC3"/></cb:t><cb:t xml:lang="zh-x-yy"><note n="1189025" resp="Taisho" place="foot text" type="orig">實＝日【甲】</note><app n="1189025"><lem wit="【大】">實</lem><rdg resp="Taisho" wit="【甲】">日</rdg></app>里</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CBC7"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>實里</cb:zi><cb:sg><note n="1189026" resp="Taisho" place="foot text" type="orig">〔重音〕－【甲】</note><app n="1189026"><lem wit="【大】">重音</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CBCB"/></cb:t><cb:t xml:lang="zh-x-yy">日里</cb:t></cb:tt>
+<lb n="1189c03" ed="T"/><note place="inline">已下並同吉里反。但用於下合之。讀者取其聲勢。亦有用麼多得重成字用。非遍能生也</note>。</p></cb:div>
+<lb n="1189c04" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">17 第十七章</cb:mulu><head>第十七章</head>
+<lb n="1189c05" ed="T"/><p xml:id="pT54p1189c0501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CC70"/></cb:t><cb:t xml:lang="zh-x-yy">阿索迦</cb:t></cb:tt><note place="inline">生十二字</note><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CC7C"/></cb:t><cb:t xml:lang="zh-x-yy">阿索佉</cb:t></cb:tt><note place="inline">已下各生十二字</note><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CCAA"/></cb:t><cb:t xml:lang="zh-x-yy">阿拕伽</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CCB6"/></cb:t>
+<lb n="1189c06" ed="T"/><cb:t xml:lang="zh-x-yy">阿拕<cb:yin><cb:zi>伽</cb:zi><cb:sg><note n="1189027" resp="Taisho" place="foot text" type="orig">〔重〕－【甲】＊</note><app n="1189027"><lem wit="【大】">重</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CCC2"/></cb:t><cb:t xml:lang="zh-x-yy">盎迦怛<anchor xml:id="fxT54p1189c09"/>囉</cb:t></cb:tt>。</p>
+<lb n="1189c07" ed="T"/><p xml:id="pT54p1189c0701"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CCCE"/></cb:t><cb:t xml:lang="zh-x-yy">阿<app type="star" corresp="#1186008"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【甲】">縛</rdg></app>遮</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CCDA"/></cb:t><cb:t xml:lang="zh-x-yy">阿伐車</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3D1"/></cb:t><cb:t xml:lang="zh-x-yy">阿伐社</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CCF2"/></cb:t><cb:t xml:lang="zh-x-yy">阿伐<cb:yin><cb:zi>闍</cb:zi><cb:sg><app type="star" corresp="#1189027"><lem wit="【大】">重</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="1189c08" ed="T"/><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CCFE"/></cb:t><cb:t xml:lang="zh-x-yy">阿社若</cb:t></cb:tt>。</p>
+<lb n="1189c09" ed="T"/><p xml:id="pT54p1189c0901"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CD4B"/></cb:t><cb:t xml:lang="zh-x-yy">阿瑟吒</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CD57"/></cb:t><cb:t xml:lang="zh-x-yy">阿瑟侘</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CD63"/></cb:t><cb:t xml:lang="zh-x-yy">阿拕荼</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CD6F"/></cb:t><cb:t xml:lang="zh-x-yy">阿拕<cb:yin><cb:zi>荼</cb:zi><cb:sg>重</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1E1"/></cb:t>
+<lb n="1189c10" ed="T"/><cb:t xml:lang="zh-x-yy">阿瑟拏</cb:t></cb:tt>。</p>
+<lb n="1189c11" ed="T"/><p xml:id="pT54p1189c1101"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E2B6"/></cb:t><cb:t xml:lang="zh-x-yy">阿薩多</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDB5"/></cb:t><cb:t xml:lang="zh-x-yy">阿薩他</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDC1"/></cb:t><cb:t xml:lang="zh-x-yy">阿伐拕</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDCD"/></cb:t><cb:t xml:lang="zh-x-yy">阿伐<cb:yin><cb:zi>拕</cb:zi><cb:sg>重</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDD9"/></cb:t>
+<lb n="1189c12" ed="T"/><cb:t xml:lang="zh-x-yy">阿勒多薩那</cb:t></cb:tt>。</p>
+<lb n="1189c13" ed="T"/><p xml:id="pT54p1189c1301"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDE5"/></cb:t><cb:t xml:lang="zh-x-yy">阿薩波</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDF1"/></cb:t><cb:t xml:lang="zh-x-yy">阿薩頗</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDFD"/></cb:t><cb:t xml:lang="zh-x-yy">阿拕婆</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-DAAE"/></cb:t><cb:t xml:lang="zh-x-yy">阿拕<cb:yin><cb:zi>婆</cb:zi><cb:sg>重</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CE56"/></cb:t>
+<lb n="1189c14" ed="T"/><cb:t xml:lang="zh-x-yy">阿勒叉麼</cb:t></cb:tt>。</p>
+<lb n="1189c15" ed="T"/><p xml:id="pT54p1189c1501"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CE62"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒叉微耶</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CE6E"/></cb:t><cb:t xml:lang="zh-x-yy">阿勒叉微釐耶</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CE7A"/></cb:t><cb:t xml:lang="zh-x-yy">阿刺多</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CEA8"/></cb:t>
+<lb n="1189c16" ed="T"/><cb:t xml:lang="zh-x-yy">阿多迦<app type="star" corresp="#1186008"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【甲】">縛</rdg></app></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E376"/></cb:t><cb:t xml:lang="zh-x-yy">阿吒奢</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CEC0"/></cb:t><cb:t xml:lang="zh-x-yy">阿吒沙</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E377"/></cb:t><cb:t xml:lang="zh-x-yy">阿沙訶</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CED8"/></cb:t>
+<lb n="1189c17" ed="T"/><cb:t xml:lang="zh-x-yy">阿婆叉</cb:t></cb:tt><note place="inline">已上一章重文讀之。皆帶阿聲連促呼之。此章亦除濫字。又合娑訶字唯三十三字。皆通十二
+<lb n="1189c18" ed="T"/>字加麼多也。其於字母不次者。分入後章</note>。</p></cb:div>
+<lb n="1189c19" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">18 第十八章孤合之文</cb:mulu><head>第十八章孤合之文</head>
+<lb n="1189c20" ed="T"/><p xml:id="pT54p1189c2001"><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CEE4"/></cb:t><cb:t xml:lang="zh-x-yy">阿跛多</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CEF0"/></cb:t><cb:t xml:lang="zh-x-yy">阿吒迦</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CEFC"/></cb:t><cb:t xml:lang="zh-x-yy">阿娜薩嚩</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CF49"/></cb:t><cb:t xml:lang="zh-x-yy">阿吒瑟車
+<lb n="1189c21" ed="T"/>囉</cb:t></cb:tt>。</p>
+<lb n="1189c22" ed="T"/><p xml:id="pT54p1189c2201">右此章字類流派無盡。或通三五麼多讀之
+<lb n="1189c23" ed="T"/>並同上章。當體重兩<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CF55"/></cb:t><cb:t xml:lang="zh-x-yy">多</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E378"/></cb:t><cb:t xml:lang="zh-x-yy">社</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CF6D"/></cb:t><cb:t xml:lang="zh-x-yy">吒</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CF79"/></cb:t><cb:t xml:lang="zh-x-yy">拏</cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E364"/></cb:t>
+<lb n="1189c24" ed="T"/><cb:t xml:lang="zh-x-yy">那</cb:t></cb:tt>等字<note place="inline">並依本字大呼多。則不得云多多也</note>聯聲字<term xml:lang="sa-Sidd"><g ref="#SD-CFB3"/></term><note place="inline"><note n="1189028" resp="Taisho" place="foot text" type="orig">上麼下盎迦，作本文【甲】</note><note n="1189028" resp="CBETA" type="mod"><!--CBETA todo type: a-->上麼下盎迦，作本文【甲】</note>上麼下盎迦。後字之聲入
+<lb n="1189c25" ed="T"/>於前。似云莽迦也。用此章字皆然</note>兩重麼多字<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0EF"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>部林</cb:zi><cb:sg>去</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E379"/></cb:t><cb:t xml:lang="zh-x-yy"><cb:yin><cb:zi>齒林
+<lb n="1189c26" ed="T"/></cb:zi><cb:sg>去</cb:sg></cb:yin></cb:t></cb:tt><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC1"/></cb:t><cb:t xml:lang="zh-x-yy">吽</cb:t></cb:tt><note place="inline">已上字有第六及第十一麼多讀之皆帶兩聲也。此<term xml:lang="sa-Sidd"><g ref="#SD-D959"/></term>是第六麼多分布於傍也</note>半體文
+<lb n="1189c27" ed="T"/><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-D95B"/></cb:t><cb:t xml:lang="zh-x-yy">多達</cb:t></cb:tt>又作<term xml:lang="sa-Sidd"><g ref="#SD-CFC2"/></term><note place="inline">皆同也</note><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC3"/></cb:t><cb:t xml:lang="zh-x-yy"><note n="1189029" resp="Taisho" place="foot text" type="orig">秖＝祇【甲】</note><app n="1189029"><lem wit="【大】">秖</lem><rdg resp="Taisho" wit="【甲】">祇</rdg></app>耶</cb:t></cb:tt><note place="inline">當是耶字。之省也</note>印文字
+<lb n="1189c28" ed="T"/><term xml:lang="sa-Sidd"><g ref="#SD-CFC4"/></term><note place="inline">是室梨字西域為印也</note>。此類甚多略出其狀也。前敘云
+<pb n="1190a" xml:id="T54.2132.1190a" ed="T"/>
+<lb n="1190a01" ed="T"/>囉於生字不應遍諸章。謂第二第四五六七
+<lb n="1190a02" ed="T"/>章用之。其字則屬第八章也。若第三及第八
+<lb n="1190a03" ed="T"/>章用之成當體重。非此章字也。若第九已下
+<lb n="1190a04" ed="T"/>四章用之。則更重重全非字也。其囉字當體
+<lb n="1190a05" ed="T"/>重。及重章中當體重。書者至此但存一重字。
+<lb n="1190a06" ed="T"/>不須生十二也。雖或有用處亦通三五麼多。
+<lb n="1190a07" ed="T"/>非遍能生故不入此生字之內。緣存一當體
+<lb n="1190a08" ed="T"/>重字故。云容之勿生也。後第十八云或當體
+<lb n="1190a09" ed="T"/>兩字重之。但依字大呼。謂多闍吒拏等。各有
+<lb n="1190a10" ed="T"/>重成也。等者等餘字母。並有重成之用也。但
+<lb n="1190a11" ed="T"/>大呼之。不得言多多囉囉等也。</p></cb:div></cb:div></cb:div>
+<lb n="1190a12" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>悉曇字<note n="1190001" resp="Taisho" place="foot text" type="orig">甲本奧云，一校了，點了，大治五年正月二十二日於高野御山中別所午時許交點了之<g ref="#SD-E151"/>本也<g ref="#SD-A6AA"/>之，心蓮院返納了</note>記</cb:jhead></cb:juan>
+</body></text></TEI>

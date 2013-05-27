@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T55n2150">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 2150 續大唐內典錄</title>
+			<author>唐 道宣撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.19 $<date>$Date: 2009/04/23 08:14:32 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:14:32 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 55, No. 2150 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2001-02-01T16:31:17">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T55n2150.xml,v $
+Revision 1.19  2009/04/23 08:14:32  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.18  2006/04/12 22:00:26  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.16  2005/12/23 04:02:49  saywhat
+added 經錄標記
+
+Revision 1.15  2004/11/14 03:18:24  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.14  2004/10/14 03:32:10  saywhat
+段落前加入圈點
+
+Revision 1.13  2004/07/16 09:13:10  moved
+modified：執行 margin.pl，加入 em 單位。
+
+Revision 1.12  2004/06/16 04:14:24  saywhat
+修訂 juan, div & mulu位置
+
+Revision 1.11  2004/04/20 08:44:30  maha
+「版本日期」標記修訂
+
+Revision 1.10  2004/04/20 03:27:29  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.9  2004/01/02 05:56:03  maha
+<note mod>裡的corr2app
+
+Revision 1.8  2003/06/25 06:27:45  eva
+modified: 執行 corr2app.pl
+
+Revision 1.7  2003/06/25 05:46:08  eva
+modified: copy corr2app 前備份
+
+Revision 1.5  2003/06/19 03:48:11  eva
+modified: 插入星號校勘
+
+Revision 1.4  2003/05/18 09:43:19  ray
+app版100字以上長行加標點
+
+Revision 1.3  2003/05/10 10:04:34  ray
+add <milestone type="juan"/>
+
+Revision 1.2  2003/05/05 06:33:26  eva
+modified
+
+Revision 1.23  2002/12/25 06:52:22  eva
+modified
+
+Revision 1.22  2002/12/05 12:52:46  eva
+modified
+
+Revision 1.20  2002/11/11 11:25:00  eva
+modified
+
+Revision 1.17  2002/11/04 11:03:52  ray
+tei.2 => TEI.2
+
+Revision 1.16  2002/08/08 06:56:27  eva
+modified
+
+Revision 1.15  2002/07/29 09:47:31  vinking
+modified lang
+
+Revision 1.14  2002/04/08 09:49:48  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.13  2001/11/05 06:23:19  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.12  2001/07/27 07:15:26  ray
+去除多餘的 <author>
+
+Revision 1.11  2001/07/24 07:03:21  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.10  2001/05/31 06:21:37  vinking
+modified <list>
+
+Revision 1.9  2001/04/26 11:37:17  saywhat
+HTML HELP
+
+Revision 1.8  2001/04/25 08:12:28  saywhat
+html help recheck
+
+Revision 1.7  2001/04/11 10:01:05  vinking
+check <div>
+
+Revision 1.6  2001/04/01 07:56:24  moved
+modified normal
+
+Revision 1.5  2001/03/30 07:18:16  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.4  2001/03/09 10:34:09  shiachun
+no message
+
+Revision 1.3  2001/02/07 07:46:06  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.2  2001/02/03 08:18:09  chris
+Added keywords $Revision: 1.19 $, $Date: 2009/04/23 08:14:32 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0342a19" ed="T"/><milestone n="1" unit="juan"/>
+<lb n="0342a20" ed="T"/>
+<lb n="0342a21" ed="T"/><cb:docNumber>No. 2150</cb:docNumber>
+<lb n="0342a22" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">續大唐內典錄讚序</cb:mulu><note n="0342006" resp="Taisho" place="foot text" type="orig">【原】麗本</note><head>續大唐內典錄讚<note n="0342007" resp="Taisho" place="foot text" type="orig">此次行宋本有唐釋智昇撰五字，元本有大唐西明寺沙門釋道宣撰十一字，明本有唐沙門釋道宣撰七字</note>序</head>
+<lb n="0342a23" ed="T"/>
+<lb n="0342a24" ed="T"/><p xml:id="pT55p0342a2401">夫以大聖者體辯而長幽寂。普霑動植同熟氣
+<lb n="0342a25" ed="T"/>而登焉。幽蔽而不光。能異變而不養不謂親相
+<lb n="0342a26" ed="T"/>歸於在相有道或藏嵯峨住於巖演登般若雙
+<lb n="0342a27" ed="T"/>林虛空有六十萬億百千說涅槃會菩薩樂眾
+<lb n="0342a28" ed="T"/>生者。于時廣大盡城於在此國。著於秦漢
+<note n="0342008" resp="Taisho" place="foot text" type="orig">俄＝我【三】</note>
+<note n="0342008" resp="CBETA" type="mod">俄＝我【宋】【元】【明】</note>
+<app n="0342008"><lem wit="【大】">俄</lem><rdg resp="Taisho" wit="【宋】【元】【明】">我</rdg></app>
+<lb n="0342a29" ed="T"/>臨之會初存使賢僧白象驅連立域於帝京中
+<pb n="0342b" xml:id="T55.2150.0342b" ed="T"/>
+<lb n="0342b01" ed="T"/>道場念心乃翻聖跡石舍安然降曾多述。仍廣
+<lb n="0342b02" ed="T"/>度群萌難以盡算。至於華香而設集大眾之流。
+<lb n="0342b03" ed="T"/>二十七譯雜增阿含等經。凡為二十八譯。良是
+<lb n="0342b04" ed="T"/>前王後帝
+<note n="0342009" resp="Taisho" place="foot text" type="orig">譯＝擇【三】</note>
+<note n="0342009" resp="CBETA" type="mod">譯＝擇【宋】【元】【明】</note>
+<app n="0342009"><lem wit="【大】">譯</lem><rdg resp="Taisho" wit="【宋】【元】【明】">擇</rdg></app>出民人之輩各變於斯。新別前
+<lb n="0342b05" ed="T"/>翻不譯相似不同者多或有是非交橫不失得
+<lb n="0342b06" ed="T"/>部帙深大卷。多言廣切轉者微薄成不登於崇
+<lb n="0342b07" ed="T"/>誦力勞不盡有新不終實此之行實則鼓手腹
+<lb n="0342b08" ed="T"/>心在也意淨。云何齊身結誓敬登一經見得之
+<lb n="0342b09" ed="T"/>教筆紙淨院語將初首以其大歌足沈吟眾會
+<lb n="0342b10" ed="T"/>住院名僧盡宣律師。執杖尋庠修行遊憶法師
+<lb n="0342b11" ed="T"/>之意性若物不下茂愛識多解學集古今多能
+<lb n="0342b12" ed="T"/>多才集句說演經等煩須讀廣億言一紙一顧
+<lb n="0342b13" ed="T"/>顏容似華不飲兩端愛德三衣無著淨染。棄時
+<lb n="0342b14" ed="T"/>俗如棄洟不絕為懷。輕
+<note n="0342010" resp="Taisho" place="foot text" type="orig">綿＝錦【元】</note>
+<app n="0342010"><lem wit="【大】">綿</lem><rdg resp="Taisho" wit="【元】">錦</rdg></app>帛如客塵未能留
+<lb n="0342b15" ed="T"/>惜。而所妙哉兩臂不偷卷聖圖筆不停操律建
+<lb n="0342b16" ed="T"/>跡於總持寺之院東西修房
+<note n="0342011" resp="Taisho" place="foot text" type="orig">寔＝實【三】</note>
+<note n="0342011" resp="CBETA" type="mod">寔＝實【宋】【元】【明】</note>
+<app n="0342011"><lem wit="【大】">寔</lem><rdg resp="Taisho" wit="【宋】【元】【明】">實</rdg></app>所留意畫像
+<lb n="0342b17" ed="T"/>序讚一體不隱集遠無餘定秀每人前後相繼
+<lb n="0342b18" ed="T"/>於賢難方卓異絕群。是法師之曠度耳者也。</p></cb:div>
+<lb n="0342b19" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead>續大唐內典錄<note n="0342012" resp="Taisho" place="foot text" type="orig">〔一卷并〕－【三】</note><note n="0342012" resp="CBETA" type="mod">〔一卷并〕－【宋】【元】【明】</note><app n="0342012"><lem wit="【大】">一卷并</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>序<note place="inline">麟德元年於西明寺起首移總持寺釋氏撰<note n="0342013" resp="Taisho" place="foot text" type="orig">〔畢〕－【元】【明】</note><app n="0342013"><lem wit="【大】">畢</lem><rdg resp="Taisho" wit="【元】【明】"><space quantity="0"/></rdg></app></note></cb:jhead></cb:juan>
+<lb n="0342b20" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">續大唐內典錄</cb:mulu><cb:div type="xu"><cb:mulu level="2" type="序">序</cb:mulu><p xml:id="pT55p0342b2001">若正於法名寶崇誠或有由賢是通俗法<note n="0342014" resp="Taisho" place="foot text" type="orig">津＝律【三】</note><note n="0342014" resp="CBETA" type="mod">津＝律【宋】【元】【明】</note><app n="0342014"><lem wit="【大】">津</lem><rdg resp="Taisho" wit="【宋】【元】【明】">律</rdg></app>
+<lb n="0342b21" ed="T"/>之真海聖之高廣以歷於方如尊卑在日月明
+<lb n="0342b22" ed="T"/>存道隆之美豈得不以凶我倒之筌蹄須證貧
+<lb n="0342b23" ed="T"/>生之珍位者也自仙苑告就名水淨濟演字群
+<lb n="0342b24" ed="T"/>品手說塵蒙隨機候而說謀由<note n="0342015" resp="Taisho" place="foot text" type="orig">住＝往【三】</note><note n="0342015" resp="CBETA" type="mod">住＝往【宋】【元】【明】</note><app n="0342015"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【宋】【元】【明】">往</rdg></app>性欲而見
+<lb n="0342b25" ed="T"/>聲教網羅一絕統括大千受其道者也。</p></cb:div>
+<lb n="0342b26" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">全書總目</cb:mulu><list><item xml:id="itemT55p0342b2601">續代眾經傳譯盡隨近錄第一部卷第一<note place="inline">續代
+<lb n="0342b27" ed="T"/>翻出經及人述作無非通法並入經收故隨經出</note></item>
+<lb n="0342b28" ed="T"/><item xml:id="itemT55p0342b2801">續代譯經本單重人代見亡錄第二部卷
+<lb n="0342b29" ed="T"/><note n="0342016" resp="Taisho" place="foot text" type="orig">（第）＋七【三】</note><note n="0342016" resp="CBETA" type="mod">（第）＋七【宋】【元】【明】</note><app n="0342016"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【宋】【元】【明】">第七</rdg></app><note place="inline"><note n="0342017" resp="Taisho" place="foot text" type="orig">謂＝非【三】</note><note n="0342017" resp="CBETA" type="mod">謂＝非【宋】【元】【明】</note><app n="0342017"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】">非</rdg></app>前後異出人代不同又亂道俗波迸今總計會故有重單緣敘莫知致傳失</note></item>
+<pb n="0342c" xml:id="T55.2150.0342c" ed="T"/>
+<lb n="0342c01" ed="T"/><item xml:id="itemT55p0342c0101">續代眾經總撮入藏錄第三<note n="0342018" resp="Taisho" place="foot text" type="orig">〔部〕－【三】</note><note n="0342018" resp="CBETA" type="mod">〔部〕－【宋】【元】【明】</note><app n="0342018"><lem wit="【大】">部</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app><note place="inline">謂經部<note n="0342019" resp="Taisho" place="foot text" type="orig">繁＝等【宋】</note><app n="0342019"><lem wit="【大】">繁</lem><rdg resp="Taisho" wit="【宋】">等</rdg></app>多或要備<note n="0342020" resp="Taisho" place="foot text" type="orig">列＝烈【三】</note><note n="0342020" resp="CBETA" type="mod">列＝烈【宋】【元】【明】</note><app n="0342020"><lem wit="【大】">列</lem><rdg resp="Taisho" wit="【宋】【元】【明】">烈</rdg></app>從
+<lb n="0342c02" ed="T"/>帙入藏以類相從故分大小</note></item>
+<lb n="0342c03" ed="T"/><item xml:id="itemT55p0342c0301">續代眾經舉要誦說錄第四<note place="inline"><note n="0342021" resp="Taisho" place="foot text" type="orig">謂＝續【三】</note><note n="0342021" resp="CBETA" type="mod">謂＝續【宋】【元】【明】</note><app n="0342021"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】">續</rdg></app>尋在要博繁文辭義不非日時隨
+<lb n="0342c04" ed="T"/>部攝簡而未自餘</note></item>
+<lb n="0342c05" ed="T"/><item xml:id="itemT55p0342c0501">續代眾經有目或有闕本錄第五<note place="inline">謂統檢群錄校其定本無
+<lb n="0342c06" ed="T"/>隨方別出未能別顯目<note n="0342022" resp="Taisho" place="foot text" type="orig">防＝訪【三】</note><note n="0342022" resp="CBETA" type="mod">防＝訪【宋】【元】【明】</note><app n="0342022"><lem wit="【大】">防</lem><rdg resp="Taisho" wit="【宋】【元】【明】">訪</rdg></app>之</note></item>
+<lb n="0342c07" ed="T"/><item xml:id="itemT55p0342c0701">續代道俗述作注解錄第六<note place="inline">謂注述先聖之言用通未悟前後已
+<lb n="0342c08" ed="T"/>別題續錄若尋異<note n="0342023" resp="Taisho" place="foot text" type="orig">解＋（也）【三】</note><note n="0342023" resp="CBETA" type="mod">解＋（也）【宋】【元】【明】</note><app n="0342023"><lem wit="【大】">解</lem><rdg resp="Taisho" wit="【宋】【元】【明】">解也</rdg></app></note></item>
+<lb n="0342c09" ed="T"/><item xml:id="itemT55p0342c0901">續代諸經支<note n="0342024" resp="Taisho" place="foot text" type="orig">流＝派【三】</note><note n="0342024" resp="CBETA" type="mod">流＝派【宋】【元】【明】</note><app n="0342024"><lem wit="【大】">流</lem><rdg resp="Taisho" wit="【宋】【元】【明】">派</rdg></app>陳化錄第七<note place="inline">謂別生經不譯入此續譯廣本且接
+<lb n="0342c10" ed="T"/>初心一切並頌不可輕也</note></item>
+<lb n="0342c11" ed="T"/><item xml:id="itemT55p0342c1101">續代歷出疑偽經論錄第八<note place="inline">謂正法深遠凡愚未達隨俗下化有
+<lb n="0342c12" ed="T"/>勃真經所以續此錄也</note></item>
+<lb n="0342c13" ed="T"/><item xml:id="itemT55p0342c1301">續代眾經錄目終始序第九<note place="inline">謂經錄不盡所續此錄也</note></item>
+<lb n="0342c14" ed="T"/><item xml:id="itemT55p0342c1401">續代眾經應感興敬錄第十<note place="inline">謂經東夏應感徵祥而有蒙祐增信故所
+<lb n="0342c15" ed="T"/>以續此錄</note></item></list></cb:div></cb:div>
+<lb n="0342c16" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">續代眾經傳譯所從錄</cb:mulu><head>續大唐內典錄續代眾經傳譯所從錄第一之
+<lb n="0342c17" ed="T"/><note n="0342025" resp="Taisho" place="foot text" type="orig">初＝新【三】</note><note n="0342025" resp="CBETA" type="mod">初＝新【宋】【元】【明】</note><app n="0342025"><lem wit="【大】">初</lem><rdg resp="Taisho" wit="【宋】【元】【明】">新</rdg></app></head>
+<p xml:id="pT55p0342c1702" rend="inline">自教流東夏代涉帝朝。必假時君弘
+<lb n="0342c18" ed="T"/><note n="0342026" resp="Taisho" place="foot text" type="orig">（一）＋傳【三】</note><note n="0342026" resp="CBETA" type="mod">（一）＋傳【宋】【元】【明】</note><app n="0342026"><lem wit="【大】">傳</lem><rdg resp="Taisho" wit="【宋】【元】【明】">一傳</rdg></app>聲略。然後玄素依繕方開基構。明后重其
+<lb n="0342c19" ed="T"/>義方。情在監護。闇君順其倫軌。相從而已。故
+<lb n="0342c20" ed="T"/>始自後漢爰洎惟唐。世變澆淳宗猷莫二。皆
+<lb n="0342c21" ed="T"/>欽承至訓。為滅結之元標。體解玄圖。鏡死生
+<lb n="0342c22" ed="T"/>之本據。故能傳度梵網代代滋彰。斯即法施
+<lb n="0342c23" ed="T"/>奔流時時不絕。然則西番五竺祖尚天言。東
+<lb n="0342c24" ed="T"/>夏九州聿遵鳥迹。故天書天語。海縣之所絕
+<lb n="0342c25" ed="T"/>思。八體六文。大夏由來罕覿。致<note n="0342027" resp="Taisho" place="foot text" type="orig">令＝今【宋】</note><app n="0342027"><lem wit="【大】">令</lem><rdg resp="Taisho" wit="【宋】">今</rdg></app>昔聞重
+<lb n="0342c26" ed="T"/>譯方見於斯。然夫國史之與禮經。質文互舉。
+<lb n="0342c27" ed="T"/>佛言之與俗典。詞理天分。何以知耶。<note n="0342028" resp="Taisho" place="foot text" type="orig">（故）＋佛【三】</note><note n="0342028" resp="CBETA" type="mod">（故）＋佛【宋】【元】【明】</note><app n="0342028"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【宋】【元】【明】">故佛</rdg></app>之
+<lb n="0342c28" ed="T"/>布教說道為先。開<note n="0342029" resp="Taisho" place="foot text" type="orig">蒙＝家【明】</note><app n="0342029"><lem wit="【大】">蒙</lem><rdg resp="Taisho" wit="【明】">家</rdg></app>解樸決疑去滯。不在文
+<pb n="0343a" xml:id="T55.2150.0343a" ed="T"/>
+<lb n="0343a01" ed="T"/>華無存卷軸。意在啟情理之昏明。達神思之
+<lb n="0343a02" ed="T"/>機敏。斯其致也。諦聽諦聽。善思念之。吾當為
+<lb n="0343a03" ed="T"/>汝分別解說。斯聖言也。善哉善哉。願樂欲聞。
+<lb n="0343a04" ed="T"/>唯願世尊分別解說。斯受法也。言重意得不
+<lb n="0343a05" ed="T"/>慮煩拏。但論正語莫敘文對。斯本經也。譯從
+<lb n="0343a06" ed="T"/>方俗。隨俗所傳多陷浮訛。所失多矣。所以道
+<lb n="0343a07" ed="T"/>安著論五失易從。彥琮屬詞八倒難及。斯誠
+<lb n="0343a08" ed="T"/>證也。諸餘俗習不足涉言。今錄彼帝世翻譯
+<lb n="0343a09" ed="T"/>賢明。并顯時君信毀偏競。以為初錄。且夫漢
+<lb n="0343a10" ed="T"/>晉隋唐之運。天下大同。歲朔所臨法門一統。
+<lb n="0343a11" ed="T"/>魏宋齊梁等朝。地分<choice><corr>圮</corr><sic>𡉏</sic></choice>裂。華夷參政翻傳並
+<lb n="0343a12" ed="T"/>出。至於廣部傳俗絕後超前。即見敷揚聯輝
+<lb n="0343a13" ed="T"/>惟遠。今則隨其時代即而編之。仍述道俗所
+<lb n="0343a14" ed="T"/>撰附之於後。庶將來同<note n="0343001" resp="Taisho" place="foot text" type="orig">〔覩〕－【三】</note><note n="0343001" resp="CBETA" type="mod">〔覩〕－【宋】【元】【明】</note><app n="0343001"><lem wit="【大】">覩</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>其若面焉。</p>
+<lb n="0343a15" ed="T"/><p xml:id="pT55p0343a1501">都合一十八代續出眾經總有二千一百八十
+<lb n="0343a16" ed="T"/>一部<note place="inline">六千七百二十三卷續譯經三百六部</note>。</p>
+<lb n="0343a17" ed="T"/><list><item xml:id="itemT55p0343a1701">後漢朝傳譯道俗一十二人所出經律等四百
+<lb n="0343a18" ed="T"/>五十六部<note place="inline">四百一十五卷續譯經一百二十五部新譯一百五十二卷</note></item>
+<lb n="0343a19" ed="T"/><item xml:id="itemT55p0343a1901">前<note n="0343002" resp="Taisho" place="foot text" type="orig">（續）＋魏【三】</note><note n="0343002" resp="CBETA" type="mod">（續）＋魏【宋】【元】【明】</note><app n="0343002"><lem wit="【大】">魏</lem><rdg resp="Taisho" wit="【宋】【元】【明】">續魏</rdg></app>朝傳譯僧八人續譯經律等一十一部
+<lb n="0343a20" ed="T"/><note place="inline">二十七卷</note></item>
+<lb n="0343a21" ed="T"/><item xml:id="itemT55p0343a2101">南<note n="0343003" resp="Taisho" place="foot text" type="orig">吳＝唐【三】</note><note n="0343003" resp="CBETA" type="mod">吳＝唐【宋】【元】【明】</note><app n="0343003"><lem wit="【大】">吳</lem><rdg resp="Taisho" wit="【宋】【元】【明】">唐</rdg></app>孫氏傳譯道俗十一人續出經傳等一
+<lb n="0343a22" ed="T"/>百二十二部<note place="inline">一百七十五卷續譯經一百五部二百七十卷</note></item>
+<lb n="0343a23" ed="T"/><item xml:id="itemT55p0343a2301">西晉朝記譯經傳道俗九人續譯經戒律等三
+<lb n="0343a24" ed="T"/>百五十部<note place="inline">七百一十五卷續譯經<note n="0343004" resp="Taisho" place="foot text" type="orig">〔一〕－【三】＊</note><note n="0343004" resp="CBETA" type="mod">〔一〕－【宋】＊【元】＊【明】＊</note><app n="0343004"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>十部一十五卷</note></item>
+<lb n="0343a25" ed="T"/><item xml:id="itemT55p0343a2501">前秦符氏譯律傳僧八人續經傳錄等五十部
+<lb n="0343a26" ed="T"/><note place="inline">三百二十卷</note></item>
+<lb n="0343a27" ed="T"/><item xml:id="itemT55p0343a2701">秦乞伏氏傳譯僧二人所出經<note n="0343005" resp="Taisho" place="foot text" type="orig">二十＝十二【三】</note><note n="0343005" resp="CBETA" type="mod">二十＝十二【宋】【元】【明】</note><app n="0343005"><lem wit="【大】">二十</lem><rdg resp="Taisho" wit="【宋】【元】【明】">十二</rdg></app>部<note place="inline">二十七卷續譯
+<lb n="0343a28" ed="T"/>經八部<app type="star" corresp="#0343004"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>十五卷</note></item>
+<lb n="0343a29" ed="T"/><item xml:id="itemT55p0343a2901"><note n="0343006" resp="Taisho" place="foot text" type="orig">後＝前涼【三】</note><note n="0343006" resp="CBETA" type="mod">後＝前涼【宋】【元】【明】</note><app n="0343006"><lem wit="【大】">後</lem><rdg resp="Taisho" wit="【宋】【元】【明】">前涼</rdg></app>張氏傳譯僧九人所出經律二百部<note place="inline">九百五十卷</note></item>
+<pb n="0343b" xml:id="T55.2150.0343b" ed="T"/>
+<lb n="0343b01" ed="T"/><item xml:id="itemT55p0343b0101">南涼漢孟氏傳譯道俗十一人出經傳五十二
+<lb n="0343b02" ed="T"/>部<note place="inline">二百七十卷續譯經五部一十八卷</note></item>
+<lb n="0343b03" ed="T"/><item xml:id="itemT55p0343b0301">宋國朝傳譯道俗三十一人續出經傳<note n="0343007" resp="Taisho" place="foot text" type="orig">三＝五【三】</note><note n="0343007" resp="CBETA" type="mod">三＝五【宋】【元】【明】</note><app n="0343007"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【宋】【元】【明】">五</rdg></app>百
+<lb n="0343b04" ed="T"/>二十部<note place="inline">五百四十卷</note></item>
+<lb n="0343b05" ed="T"/><item xml:id="itemT55p0343b0501">前齊朝傳譯道俗三十人所出經律傳六十部
+<lb n="0343b06" ed="T"/><note place="inline">四百二十卷</note></item>
+<lb n="0343b07" ed="T"/><item xml:id="itemT55p0343b0701">梁朝傳譯道俗二十五人所譯經律傳等八十
+<lb n="0343b08" ed="T"/>七部<note place="inline">九百二卷</note></item>
+<lb n="0343b09" ed="T"/><item xml:id="itemT55p0343b0901">後魏元氏傳譯道俗一十四人所出經律傳七
+<lb n="0343b10" ed="T"/>十九部<note place="inline">三百六十八卷</note></item>
+<lb n="0343b11" ed="T"/><item xml:id="itemT55p0343b1101">後齊高氏傳譯道俗三人所譯經論九部<note place="inline">四十八卷</note></item>
+<lb n="0343b12" ed="T"/><item xml:id="itemT55p0343b1201">後周宇文氏傳譯道俗二十人所譯經論天文
+<lb n="0343b13" ed="T"/>等二十五部<note place="inline">二百卷</note></item>
+<lb n="0343b14" ed="T"/><item xml:id="itemT55p0343b1401">陳朝傳譯道俗<note n="0343008" resp="Taisho" place="foot text" type="orig">五＋（十）【三】</note><note n="0343008" resp="CBETA" type="mod">五＋（十）【宋】【元】【明】</note><app n="0343008"><lem wit="【大】">五</lem><rdg resp="Taisho" wit="【宋】【元】【明】">五十</rdg></app>人所譯經論傳疏等六十
+<lb n="0343b15" ed="T"/>部<note place="inline">二百七十卷</note></item>
+<lb n="0343b16" ed="T"/><item xml:id="itemT55p0343b1601">隋朝傳譯道俗等三十一人譯出經論等一百
+<lb n="0343b17" ed="T"/>七十部<note place="inline">七百卷</note></item>
+<lb n="0343b18" ed="T"/><item xml:id="itemT55p0343b1801">皇朝傳譯僧等<app type="star" corresp="#0343004"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>十八人同<note n="0343009" resp="Taisho" place="foot text" type="orig">譯＋（出）【三】</note><note n="0343009" resp="CBETA" type="mod">譯＋（出）【宋】【元】【明】</note><app n="0343009"><lem wit="【大】">譯</lem><rdg resp="Taisho" wit="【宋】【元】【明】">譯出</rdg></app>經論等一百
+<lb n="0343b19" ed="T"/>二十部<note place="inline">一千七百二十一卷</note>
+<lb n="0343b20" ed="T"/><p xml:id="pT55p0343b2001" rend="margin-left:1em"><note n="0343010" resp="Taisho" place="foot text" type="orig">〔自教被〕－【三】</note><note n="0343010" resp="CBETA" type="mod">〔自教被〕－【宋】【元】【明】</note><app n="0343010"><lem wit="【大】">自教被</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>神州。時<note n="0343011" resp="Taisho" place="foot text" type="orig">移九代＝出九代【宋】【元】，出九伐【明】</note><note n="0343011" resp="CBETA" type="mod">移九代＝出九代【宋】【元】，＝出九伐【明】</note><app n="0343011"><lem wit="【大】">移九代</lem><rdg resp="Taisho" wit="【宋】【元】">出九代</rdg><rdg resp="Taisho" wit="【明】">出九伐</rdg></app>。朝分真偽土雜華
+<lb n="0343b21" ed="T"/>夷。所以五涼四燕三秦二趙夏蜀之居<note n="0343012" resp="Taisho" place="foot text" type="orig">偏＝褊【三】</note><note n="0343012" resp="CBETA" type="mod">偏＝褊【宋】【元】【明】</note><app n="0343012"><lem wit="【大】">偏</lem><rdg resp="Taisho" wit="【宋】【元】【明】">褊</rdg></app>
+<lb n="0343b22" ed="T"/>隘。晉宋之據江陰。經部翻傳隨方而出。上
+<lb n="0343b23" ed="T"/>列兼正之國。取其傳譯所由。自餘不言。以
+<lb n="0343b24" ed="T"/>無通法故也。庶後之覽者。知其致焉。</p></item></list>
+<lb n="0343b25" ed="T"/><list><head>續大唐內典錄</head><item xml:id="itemT55p0343b2507">後漢沙門迦葉摩<note n="0343013" resp="Taisho" place="foot text" type="orig">滕＝騰【元】【明】＊</note><app n="0343013"><lem wit="【大】">滕</lem><rdg resp="Taisho" wit="【元】【明】">騰</rdg></app><note place="inline">一部一卷經</note></item>
+<lb n="0343b26" ed="T"/><item xml:id="itemT55p0343b2601">沙門竺法蘭<note place="inline">四部<note n="0343014" resp="Taisho" place="foot text" type="orig">一＝二【三】</note><note n="0343014" resp="CBETA" type="mod">一＝二【宋】【元】【明】</note><app n="0343014"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】【元】【明】">二</rdg></app>十八卷</note></item>
+<lb n="0343b27" ed="T"/><item xml:id="itemT55p0343b2701">沙門安清字世高<note place="inline">一百七十<note n="0343015" resp="Taisho" place="foot text" type="orig">八＝六【三】</note><note n="0343015" resp="CBETA" type="mod">八＝六【宋】【元】【明】</note><app n="0343015"><lem wit="【大】">八</lem><rdg resp="Taisho" wit="【宋】【元】【明】">六</rdg></app>部一百九十七卷</note></item>
+<lb n="0343b28" ed="T"/><item xml:id="itemT55p0343b2801">沙門支婁迦讖<note place="inline">二十一部六十<note n="0343016" resp="Taisho" place="foot text" type="orig">三＝二【三】</note><note n="0343016" resp="CBETA" type="mod">三＝二【宋】【元】【明】</note><app n="0343016"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【宋】【元】【明】">二</rdg></app>卷</note></item>
+<lb n="0343b29" ed="T"/><item xml:id="itemT55p0343b2901">優婆塞都尉安玄<note place="inline">二部三卷經</note></item>
+<pb n="0343c" xml:id="T55.2150.0343c" ed="T"/>
+<lb n="0343c01" ed="T"/><item xml:id="itemT55p0343c0101">沙門竺佛朔<note place="inline">二部三卷經</note></item>
+<lb n="0343c02" ed="T"/><item xml:id="itemT55p0343c0201">沙門支曜<note place="inline"><note n="0343017" resp="Taisho" place="foot text" type="orig">一＋（十）【三】</note><note n="0343017" resp="CBETA" type="mod">一＋（十）【宋】【元】【明】</note><app n="0343017"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】【元】【明】">一十</rdg></app>部十三卷經</note></item>
+<lb n="0343c03" ed="T"/><item xml:id="itemT55p0343c0301">沙門康<note n="0343018" resp="Taisho" place="foot text" type="orig">巨＝臣【三】＊</note><note n="0343018" resp="CBETA" type="mod">巨＝臣【宋】＊【元】＊【明】＊</note><app n="0343018"><lem wit="【大】">巨</lem><rdg resp="Taisho" wit="【宋】【元】【明】">臣</rdg></app><note place="inline">一部一卷經</note></item>
+<lb n="0343c04" ed="T"/><item xml:id="itemT55p0343c0401">清信士嚴佛調<note place="inline">七部九卷經</note></item>
+<lb n="0343c05" ed="T"/><item xml:id="itemT55p0343c0501">沙門康孟詳<note place="inline">六部九<note n="0343019" resp="Taisho" place="foot text" type="orig">卷＋（經）【三】</note><note n="0343019" resp="CBETA" type="mod">卷＋（經）【宋】【元】【明】</note><app n="0343019"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【宋】【元】【明】">卷經</rdg></app></note></item>
+<lb n="0343c06" ed="T"/><item xml:id="itemT55p0343c0601">沙門釋曇果<note place="inline">一部二卷經</note></item>
+<lb n="0343c07" ed="T"/><item xml:id="itemT55p0343c0701">沙門竺大力<note place="inline">一部二卷經</note></item>
+<lb n="0343c08" ed="T"/><item xml:id="itemT55p0343c0801">諸失譯經一百二十五部一百四十八卷雜於
+<lb n="0343c09" ed="T"/>經呪</item></list>
+<lb n="0343c10" ed="T"/><list><item xml:id="itemT55p0343c1001"><cb:jl_title>四十二章經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
+<lb n="0343c11" ed="T"/><p xml:id="pT55p0343c1101" rend="margin-left:1em">右一經。<cb:jl_byline>後漢明帝世。中天竺國婆羅門沙
+<lb n="0343c12" ed="T"/>門迦葉摩<app type="star" corresp="#0343013"><lem wit="【大】">滕</lem><rdg resp="Taisho" wit="【元】【明】">騰</rdg></app>所譯</cb:jl_byline>。或云竺攝摩<app type="star" corresp="#0343013"><lem wit="【大】">滕</lem><rdg resp="Taisho" wit="【元】【明】">騰</rdg></app>。群錄
+<lb n="0343c13" ed="T"/>互存。未詳孰是。先來不譯。故備敘之。以永
+<lb n="0343c14" ed="T"/>平十年。隨漢使蔡愔東返至雒邑。於白馬
+<lb n="0343c15" ed="T"/>寺翻譯此經。依錄而編。即是漢地之經祖
+<lb n="0343c16" ed="T"/>也。舊錄云。其經本是天竺經抄。元出大部
+<lb n="0343c17" ed="T"/>撮引要者。似孝經十八章也。道安錄無。出
+<lb n="0343c18" ed="T"/>在舊錄。及士行漢錄僧祐出三藏集記又
+<lb n="0343c19" ed="T"/>載。但大法初<note n="0343020" resp="Taisho" place="foot text" type="orig">傳＝轉【宋】</note><app n="0343020"><lem wit="【大】">傳</lem><rdg resp="Taisho" wit="【宋】">轉</rdg></app>人少歸信。使摩滕蘊其深
+<lb n="0343c20" ed="T"/>解不復多翻。後卒雒陽。載其委<note n="0343021" resp="Taisho" place="foot text" type="orig">曲＝由【三】</note><note n="0343021" resp="CBETA" type="mod">曲＝由【宋】【元】【明】</note><app n="0343021"><lem wit="【大】">曲</lem><rdg resp="Taisho" wit="【宋】【元】【明】">由</rdg></app>。備朱
+<lb n="0343c21" ed="T"/>士行錄。及高僧傳諸雜錄等。寶唱錄云。竺
+<lb n="0343c22" ed="T"/>法蘭所出者。此或據其同來時耳。</p></item>
+<lb n="0343c23" ed="T"/><item xml:id="itemT55p0343c2301"><cb:jl_title>佛本行雜經</cb:jl_title><cb:jl_juan n="5">五卷</cb:jl_juan></item>
+<lb n="0343c24" ed="T"/><item xml:id="itemT55p0343c2401"><cb:jl_title>十地斷結經</cb:jl_title><cb:jl_juan n="4">四卷</cb:jl_juan><note place="inline">或八卷見朱士行錄</note></item>
+<lb n="0343c25" ed="T"/><item xml:id="itemT55p0343c2501"><cb:jl_title>二百六十戒合異</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan><note place="inline">見別錄</note></item>
+<lb n="0343c26" ed="T"/><item xml:id="itemT55p0343c2601"><cb:jl_title>法海藏經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">一本無藏字</note></item>
+<lb n="0343c27" ed="T"/><item xml:id="itemT55p0343c2701"><cb:jl_title>佛本生經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
+<lb n="0343c28" ed="T"/><p xml:id="pT55p0343c2801" rend="margin-left:1em">右五部。合一十三卷。是<cb:jl_byline>中天竺國沙門竺
+<pb n="0344a" xml:id="T55.2150.0344a" ed="T"/>
+<lb n="0344a01" ed="T"/>法蘭</cb:jl_byline>與迦葉摩<app type="star" corresp="#0343013"><lem wit="【大】">滕</lem><rdg resp="Taisho" wit="【元】【明】">騰</rdg></app>同來。<note n="0344001" resp="Taisho" place="foot text" type="orig">間＝士【三】</note><note n="0344001" resp="CBETA" type="mod">間＝士【宋】【元】【明】</note><app n="0344001"><lem wit="【大】">間</lem><rdg resp="Taisho" wit="【宋】【元】【明】">士</rdg></app>行後至。在明
+<lb n="0344a02" ed="T"/>帝世翻之。初共<app type="star" corresp="#0343013"><lem wit="【大】">滕</lem><rdg resp="Taisho" wit="【元】【明】">騰</rdg></app>出四十二章。<app type="star" corresp="#0343013"><lem wit="【大】">滕</lem><rdg resp="Taisho" wit="【元】【明】">騰</rdg></app>卒。蘭
+<lb n="0344a03" ed="T"/>自譯訖。昔漢武穿昆明池底得<note n="0344002" resp="Taisho" place="foot text" type="orig">灰墨＝黑灰【三】</note><note n="0344002" resp="CBETA" type="mod">灰墨＝黑灰【宋】【元】【明】</note><app n="0344002"><lem wit="【大】">灰墨</lem><rdg resp="Taisho" wit="【宋】【元】【明】">黑灰</rdg></app>。問東
+<lb n="0344a04" ed="T"/>方朔。朔云。非臣所知。可問西域<note n="0344003" resp="Taisho" place="foot text" type="orig">胡＝梵【元】【明】＊</note><app n="0344003"><lem wit="【大】">胡</lem><rdg resp="Taisho" wit="【元】【明】">梵</rdg></app>人。法
+<lb n="0344a05" ed="T"/>藺既至。追以問之。蘭云。此乃劫燒之遺灰
+<lb n="0344a06" ed="T"/>也。朔言有徵。信者甚眾。又秦景使還於月
+<lb n="0344a07" ed="T"/>支國。得優填王栴檀像師第四畫像樣。來
+<lb n="0344a08" ed="T"/>至雒陽。帝<note n="0344004" resp="Taisho" place="foot text" type="orig">勅＝出【明】</note><app n="0344004"><lem wit="【大】">勅</lem><rdg resp="Taisho" wit="【明】">出</rdg></app>圖之。於西陽城門及顯節陵
+<lb n="0344a09" ed="T"/>上供養。自爾丹<note n="0344005" resp="Taisho" place="foot text" type="orig">素＝青【三】</note><note n="0344005" resp="CBETA" type="mod">素＝青【宋】【元】【明】</note><app n="0344005"><lem wit="【大】">素</lem><rdg resp="Taisho" wit="【宋】【元】【明】">青</rdg></app>流演于今。又以佛法初
+<lb n="0344a10" ed="T"/>至異道乖競。遂敘時事著漢法本內傳五
+<lb n="0344a11" ed="T"/>卷。未詳作者。今見在焉。</p></item>
+<lb n="0344a12" ed="T"/><item xml:id="itemT55p0344a1201"><cb:jl_title>修行道地經</cb:jl_title><cb:jl_juan n="6">六卷</cb:jl_juan><note place="inline">出支敏度錄製序及寶<note n="0344006" resp="Taisho" place="foot text" type="orig">唱＝昌【宋】</note><app n="0344006"><lem wit="【大】">唱</lem><rdg resp="Taisho" wit="【宋】">昌</rdg></app>錄別錄一云順道行經</note></item>
+<lb n="0344a13" ed="T"/><item xml:id="itemT55p0344a1301"><cb:jl_title>大僧威儀經</cb:jl_title><cb:jl_juan n="4">四卷</cb:jl_juan><note place="inline">見別錄新附異出不同祐錄安譯分兩部二卷此別錄合者是</note></item>
+<lb n="0344a14" ed="T"/><item xml:id="itemT55p0344a1401"><cb:jl_title>法句經</cb:jl_title><cb:jl_juan n="4">四卷</cb:jl_juan><note place="inline">與威儀同見別錄分二部</note></item>
+<lb n="0344a15" ed="T"/><item xml:id="itemT55p0344a1501"><cb:jl_title>禪行三十七品經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">見寶唱錄</note></item>
+<lb n="0344a16" ed="T"/><item xml:id="itemT55p0344a1601"><cb:jl_title>十報法經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan><note place="inline">祐錄云一云多增道章經舊錄云出長阿含</note></item>
+<lb n="0344a17" ed="T"/><item xml:id="itemT55p0344a1701"><cb:jl_title>陰持入經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan><note place="inline">別錄云道安注解見朱士行漢錄及祐錄</note></item>
+<lb n="0344a18" ed="T"/><item xml:id="itemT55p0344a1801"><cb:jl_title>大安般守意經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan><note place="inline">道安云小安般見士行僧祐李廓錄</note></item>
+<lb n="0344a19" ed="T"/><item xml:id="itemT55p0344a1901"><cb:jl_title>大安般經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">道安注見僧祐錄</note></item>
+<lb n="0344a20" ed="T"/><item xml:id="itemT55p0344a2001"><cb:jl_title>雜四十四篇經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan><note place="inline">或云四十四篇既不顯名未知何經道安<note n="0344007" resp="Taisho" place="foot text" type="orig">〔云〕－【三】</note><note n="0344007" resp="CBETA" type="mod">〔云〕－【宋】【元】【明】</note><app n="0344007"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>出增一<note n="0344008" resp="Taisho" place="foot text" type="orig">（見）＋祐【三】</note><note n="0344008" resp="CBETA" type="mod">（見）＋祐【宋】【元】【明】</note><app n="0344008"><lem wit="【大】">祐</lem><rdg resp="Taisho" wit="【宋】【元】【明】">見祐</rdg></app>錄</note></item>
+<lb n="0344a21" ed="T"/><item xml:id="itemT55p0344a2101"><cb:jl_title>大道地經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan><note place="inline">初出道安注是修行經抄無中國略本或無大字出長阿含見祐錄</note></item>
+<lb n="0344a22" ed="T"/><item xml:id="itemT55p0344a2201"><cb:jl_title>道意發行經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan><note place="inline"><note n="0344009" resp="Taisho" place="foot text" type="orig">長＝出長阿【三】</note><note n="0344009" resp="CBETA" type="mod">長＝出長阿【宋】【元】【明】</note><app n="0344009"><lem wit="【大】">長</lem><rdg resp="Taisho" wit="【宋】【元】【明】">出長阿</rdg></app>含或一卷見道安及祐錄</note></item>
+<lb n="0344a23" ed="T"/><item xml:id="itemT55p0344a2301"><cb:jl_title>禪經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan><note place="inline">初出見別錄</note></item>
+<lb n="0344a24" ed="T"/><item xml:id="itemT55p0344a2401"><cb:jl_title>無量壽經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan><note place="inline">初出見別錄沙門曇鸞著論注解</note></item>
+<lb n="0344a25" ed="T"/><item xml:id="itemT55p0344a2501"><cb:jl_title>百六十品經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">舊錄云增一阿含百六十章經見祐錄</note></item>
+<lb n="0344a26" ed="T"/><item xml:id="itemT55p0344a2601"><cb:jl_title>大十二門經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">別錄云二卷出長阿<note n="0344010" resp="Taisho" place="foot text" type="orig">〔含〕－【宋】【元】</note><app n="0344010"><lem wit="【大】">含</lem><rdg resp="Taisho" wit="【宋】【元】"><space quantity="0"/></rdg></app>道安注見唱祐二錄</note></item>
+<pb n="0344b" xml:id="T55.2150.0344b" ed="T"/>
+<lb n="0344b01" ed="T"/><item xml:id="itemT55p0344b0101"><cb:jl_title>小十二門經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">出長含見唱祐二錄</note></item>
+<lb n="0344b02" ed="T"/><item xml:id="itemT55p0344b0201"><cb:jl_title>七法經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">舊錄云阿毘曇七法行經出長含或直云七法行見祐錄</note></item>
+<lb n="0344b03" ed="T"/><item xml:id="itemT55p0344b0301"><cb:jl_title>十四意經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">舊錄云菩薩十四意經見祐錄</note></item>
+<lb n="0344b04" ed="T"/><item xml:id="itemT55p0344b0401"><cb:jl_title>阿毘曇九十八結經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">見祐錄</note></item>
+<lb n="0344b05" ed="T"/><item xml:id="itemT55p0344b0501"><cb:jl_title>明度五十校計經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan><note n="0344011" resp="Taisho" place="foot text" type="orig">〔見祐錄〕－【三】</note><note n="0344011" resp="CBETA" type="mod">〔見祐錄〕－【宋】【元】【明】</note><app n="0344011"><lem wit="【大】"><note place="inline">見祐錄</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></item>
+<lb n="0344b06" ed="T"/><item xml:id="itemT55p0344b0601"><cb:jl_title>難提迦羅越經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">見祐錄</note></item>
+<lb n="0344b07" ed="T"/><item xml:id="itemT55p0344b0701"><cb:jl_title>獨富長者經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">一云獨富長者財物無付經一云無子付物經出雜含四十六卷</note></item>
+<lb n="0344b08" ed="T"/><item xml:id="itemT55p0344b0801"><cb:jl_title>長者<note n="0344012" resp="Taisho" place="foot text" type="orig">叐＝無【三】</note><note n="0344012" resp="CBETA" type="mod"><choice cb:resp="CBETA.maha"><corr><g ref="#CB04361"/></corr><sic>叐</sic></choice>＝無【宋】【元】【明】</note><app n="0344012"><lem wit="【大】"><g ref="#CB04361"/></lem><rdg resp="Taisho" wit="【宋】【元】【明】">無</rdg></app>惱二處經</cb:jl_title><note place="inline">一云長者懊惱二處經一云二處惱經以下並單卷</note></item>
+<lb n="0344b09" ed="T"/><item xml:id="itemT55p0344b0901"><cb:jl_title><note n="0344013" resp="Taisho" place="foot text" type="orig">由＝申【元】【明】＊</note><app n="0344013"><lem wit="【大】">由</lem><rdg resp="Taisho" wit="【元】【明】">申</rdg></app>起長者悔過經</cb:jl_title><note place="inline">一云申越長者悔過供佛經<app type="star" corresp="#0344013"><lem wit="【大】">由</lem><rdg resp="Taisho" wit="【元】【明】">申</rdg></app>起申越未詳何者</note></item>
+<lb n="0344b10" ed="T"/><item xml:id="itemT55p0344b1001"><cb:jl_title>佛為那拘說根熟經</cb:jl_title><note place="inline">一云為那拘<note n="0344014" resp="Taisho" place="foot text" type="orig">羅＝離【宋】</note><app n="0344014"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】">離</rdg></app>長者<note n="0344015" resp="Taisho" place="foot text" type="orig">說＝論【三】</note><note n="0344015" resp="CBETA" type="mod">說＝論【宋】【元】【明】</note><app n="0344015"><lem wit="【大】">說</lem><rdg resp="Taisho" wit="【宋】【元】【明】">論</rdg></app>根熟經</note></item>
+<lb n="0344b11" ed="T"/><item xml:id="itemT55p0344b1101"><cb:jl_title>長者兄弟詣佛經</cb:jl_title><note place="inline">一云長者利師達多兄弟二人往佛所經出中含</note></item>
+<lb n="0344b12" ed="T"/><item xml:id="itemT55p0344b1201"><cb:jl_title>佛神力救長者子經</cb:jl_title></item>
+<lb n="0344b13" ed="T"/><item xml:id="itemT55p0344b1301"><cb:jl_title>阿那邠邸化七子經</cb:jl_title><note place="inline">出增<note n="0344016" resp="Taisho" place="foot text" type="orig">〔一〕－【明】</note><app n="0344016"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>阿含</note></item>
+<lb n="0344b14" ed="T"/><item xml:id="itemT55p0344b1401"><cb:jl_title>十支居士八城人經</cb:jl_title><note place="inline">出中阿含第六<note n="0344017" resp="Taisho" place="foot text" type="orig">十＋（卷）【明】</note><app n="0344017"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【明】">十卷</rdg></app></note></item>
+<lb n="0344b15" ed="T"/><item xml:id="itemT55p0344b1501"><cb:jl_title>無畏離車白阿難經</cb:jl_title><note place="inline">出雜阿含二十一卷</note></item>
+<lb n="0344b16" ed="T"/><item xml:id="itemT55p0344b1601"><cb:jl_title>受呪願經</cb:jl_title><note place="inline">一云最勝長者受呪願經</note></item>
+<lb n="0344b17" ed="T"/><item xml:id="itemT55p0344b1701"><cb:jl_title>長者子制經</cb:jl_title><note place="inline">一名制經</note></item>
+<lb n="0344b18" ed="T"/><item xml:id="itemT55p0344b1801"><cb:jl_title>郁迦居士見佛聞法醒悟經</cb:jl_title><note place="inline">一云修伽陀居士佛為說法得醒悟經出雜阿
+<lb n="0344b19" ed="T"/>含經</note></item>
+<lb n="0344b20" ed="T"/><item xml:id="itemT55p0344b2001"><cb:jl_title>得非常觀經</cb:jl_title><note place="inline">一<note n="0344018" resp="Taisho" place="foot text" type="orig">加＝云加【宋】，云伽【元】【明】</note><note n="0344018" resp="CBETA" type="mod">加＝云加【宋】，＝云伽【元】【明】</note><app n="0344018"><lem wit="【大】">加</lem><rdg resp="Taisho" wit="【宋】">云加</rdg><rdg resp="Taisho" wit="【元】【明】">云伽</rdg></app>長者夜輸字</note></item>
+<lb n="0344b21" ed="T"/><item xml:id="itemT55p0344b2101"><cb:jl_title>舍頭諫經</cb:jl_title><note place="inline">初出見舊錄一云舍頭諫太子明二十八宿經一云太子明星二十八宿經一云虎耳經</note></item>
+<lb n="0344b22" ed="T"/><item xml:id="itemT55p0344b2201"><cb:jl_title>出家因緣經</cb:jl_title><note place="inline">一加佛說字但云出家緣經</note></item>
+<lb n="0344b23" ed="T"/><item xml:id="itemT55p0344b2301"><cb:jl_title>佛度旃陀羅兒出家經</cb:jl_title></item>
+<lb n="0344b24" ed="T"/><item xml:id="itemT55p0344b2401"><cb:jl_title>純陀沙彌經</cb:jl_title><note place="inline">或作沙門字出雜阿含二十四卷</note></item>
+<lb n="0344b25" ed="T"/><item xml:id="itemT55p0344b2501"><cb:jl_title>外道出家經</cb:jl_title></item>
+<lb n="0344b26" ed="T"/><item xml:id="itemT55p0344b2601"><cb:jl_title>精勤四念處經</cb:jl_title><note place="inline">出雜含二十九卷</note></item>
+<pb n="0344c" xml:id="T55.2150.0344c" ed="T"/>
+<lb n="0344c01" ed="T"/><item xml:id="itemT55p0344c0101"><cb:jl_title>父母恩難報經</cb:jl_title><note place="inline">一云難報經出中含</note></item>
+<lb n="0344c02" ed="T"/><item xml:id="itemT55p0344c0201"><cb:jl_title>禪思滿足經</cb:jl_title><note place="inline">出阿含</note></item>
+<lb n="0344c03" ed="T"/><item xml:id="itemT55p0344c0301"><cb:jl_title>數息事經</cb:jl_title></item>
+<lb n="0344c04" ed="T"/><item xml:id="itemT55p0344c0401"><cb:jl_title>禪法經</cb:jl_title></item>
+<lb n="0344c05" ed="T"/><item xml:id="itemT55p0344c0501"><cb:jl_title>禪祕要經</cb:jl_title><note place="inline">出禪要祕治病經或無祕字</note></item>
+<lb n="0344c06" ed="T"/><item xml:id="itemT55p0344c0601"><cb:jl_title>世間言美色經</cb:jl_title><note place="inline">出雜含二十四卷</note></item>
+<lb n="0344c07" ed="T"/><item xml:id="itemT55p0344c0701"><cb:jl_title>一切行不恒安住經</cb:jl_title><note place="inline">出雜含三十四卷</note></item>
+<lb n="0344c08" ed="T"/><item xml:id="itemT55p0344c0801"><cb:jl_title>人受身入陰經</cb:jl_title><note place="inline">出修行道地經初卷</note></item>
+<lb n="0344c09" ed="T"/><item xml:id="itemT55p0344c0901"><cb:jl_title>多倒見眾生經</cb:jl_title><note place="inline">一無多字出出曜經第十六卷</note></item>
+<lb n="0344c10" ed="T"/><item xml:id="itemT55p0344c1001"><cb:jl_title>人身四百四病經</cb:jl_title><note place="inline">出修行道地經初卷</note></item>
+<lb n="0344c11" ed="T"/><item xml:id="itemT55p0344c1101"><cb:jl_title>人病醫不能治經</cb:jl_title><note place="inline">出修行地經</note></item>
+<lb n="0344c12" ed="T"/><item xml:id="itemT55p0344c1201"><cb:jl_title>分別善惡所起經</cb:jl_title></item>
+<lb n="0344c13" ed="T"/><item xml:id="itemT55p0344c1301"><cb:jl_title>斫毒樹復生經</cb:jl_title><note place="inline">出出曜經</note></item>
+<lb n="0344c14" ed="T"/><item xml:id="itemT55p0344c1401"><cb:jl_title>禪定方便次第法經</cb:jl_title></item>
+<lb n="0344c15" ed="T"/><item xml:id="itemT55p0344c1501"><cb:jl_title>阿練若習禪法經</cb:jl_title><note place="inline">出菩薩禪法第一</note></item>
+<lb n="0344c16" ed="T"/><item xml:id="itemT55p0344c1601"><cb:jl_title>四百三昧名經</cb:jl_title></item>
+<lb n="0344c17" ed="T"/><item xml:id="itemT55p0344c1701"><cb:jl_title>自誓三昧經</cb:jl_title><note place="inline">內題云獨證品第四出比丘淨行中初出與護師出者小異</note></item>
+<lb n="0344c18" ed="T"/><item xml:id="itemT55p0344c1801"><cb:jl_title>瑠璃王經</cb:jl_title><note place="inline">初出出增一</note></item>
+<lb n="0344c19" ed="T"/><item xml:id="itemT55p0344c1901"><cb:jl_title>罵意經</cb:jl_title></item>
+<lb n="0344c20" ed="T"/><item xml:id="itemT55p0344c2001"><cb:jl_title>佛為頻頭婆羅門說像類經</cb:jl_title><note place="inline">出雜含<note n="0344019" resp="Taisho" place="foot text" type="orig">十一＝第十二【三】</note><note n="0344019" resp="CBETA" type="mod">十一＝第十二【宋】【元】【明】</note><app n="0344019"><lem wit="【大】">十一</lem><rdg resp="Taisho" wit="【宋】【元】【明】">第十二</rdg></app>卷</note></item>
+<lb n="0344c21" ed="T"/><item xml:id="itemT55p0344c2101"><cb:jl_title>婆羅門問佛布施得福經</cb:jl_title></item>
+<lb n="0344c22" ed="T"/><item xml:id="itemT55p0344c2201"><cb:jl_title>佛為調馬聚落主說法經</cb:jl_title><note place="inline">出雜含三十二卷</note></item>
+<lb n="0344c23" ed="T"/><item xml:id="itemT55p0344c2301"><cb:jl_title>婆羅門行經</cb:jl_title><note place="inline">出中含三十九卷</note></item>
+<lb n="0344c24" ed="T"/><item xml:id="itemT55p0344c2401"><cb:jl_title>豆遮婆羅門論義出家經</cb:jl_title><note place="inline">出雜含</note></item>
+<lb n="0344c25" ed="T"/><item xml:id="itemT55p0344c2501"><cb:jl_title>佛為事火婆羅門說法悟道經</cb:jl_title><note place="inline">出雜含</note></item>
+<lb n="0344c26" ed="T"/><item xml:id="itemT55p0344c2601"><cb:jl_title>婆羅門虛偽經</cb:jl_title><note place="inline">出雜含三十卷</note></item>
+<lb n="0344c27" ed="T"/><item xml:id="itemT55p0344c2701"><cb:jl_title>佛化大興婆羅門出家經</cb:jl_title><note place="inline">出雜含一作火字</note></item>
+<pb n="0345a" xml:id="T55.2150.0345a" ed="T"/>
+<lb n="0345a01" ed="T"/><item xml:id="itemT55p0345a0101"><cb:jl_title>佛為阿支羅迦葉說自他作苦經</cb:jl_title></item>
+<lb n="0345a02" ed="T"/><item xml:id="itemT55p0345a0201"><cb:jl_title>婆羅門子命終愛念不離經</cb:jl_title><note place="inline">出增一含</note></item>
+<lb n="0345a03" ed="T"/><item xml:id="itemT55p0345a0301"><cb:jl_title>四吒婆羅門出家得道經</cb:jl_title><note place="inline">出雜含</note></item>
+<lb n="0345a04" ed="T"/><item xml:id="itemT55p0345a0401"><cb:jl_title>佛為憍慢婆羅門說偈經</cb:jl_title></item>
+<lb n="0345a05" ed="T"/><item xml:id="itemT55p0345a0501"><cb:jl_title>婆羅門服白經</cb:jl_title><note place="inline">出雜含</note></item>
+<lb n="0345a06" ed="T"/><item xml:id="itemT55p0345a0601"><cb:jl_title>婆羅門問佛將來有幾佛經</cb:jl_title><note place="inline">出雜含</note></item>
+<lb n="0345a07" ed="T"/><item xml:id="itemT55p0345a0701"><cb:jl_title>婆羅門避死經</cb:jl_title><note place="inline">出增一</note></item>
+<lb n="0345a08" ed="T"/><item xml:id="itemT55p0345a0801"><cb:jl_title>佛為婆羅門說耕田經</cb:jl_title><note place="inline">出雜含</note></item>
+<lb n="0345a09" ed="T"/><item xml:id="itemT55p0345a0901"><cb:jl_title>七老婆羅門請為弟子經</cb:jl_title></item>
+<lb n="0345a10" ed="T"/><item xml:id="itemT55p0345a1001"><cb:jl_title>婆羅門通達論經</cb:jl_title><note place="inline">出雜含</note></item>
+<lb n="0345a11" ed="T"/><item xml:id="itemT55p0345a1101"><cb:jl_title>佛覆裸形子經</cb:jl_title><note place="inline">出生經</note></item>
+<lb n="0345a12" ed="T"/><item xml:id="itemT55p0345a1201"><cb:jl_title>婆羅門解知眾術經</cb:jl_title><note place="inline">出雜含</note></item>
+<lb n="0345a13" ed="T"/><item xml:id="itemT55p0345a1301"><cb:jl_title>佛為婆羅門說四法經</cb:jl_title><note place="inline">出雜含</note></item>
+<lb n="0345a14" ed="T"/><item xml:id="itemT55p0345a1401"><cb:jl_title>佛為年少婆羅門說善不善經</cb:jl_title></item>
+<lb n="0345a15" ed="T"/><item xml:id="itemT55p0345a1501"><cb:jl_title>如幻三昧經</cb:jl_title><note place="inline">或二卷</note></item>
+<lb n="0345a16" ed="T"/><item xml:id="itemT55p0345a1601"><cb:jl_title>安般經</cb:jl_title></item>
+<lb n="0345a17" ed="T"/><item xml:id="itemT55p0345a1701"><cb:jl_title>內藏經</cb:jl_title><note place="inline">元嘉二年十月第二譯一名內藏百品一名百寶見朱士行漢錄</note></item>
+<lb n="0345a18" ed="T"/><item xml:id="itemT55p0345a1801"><cb:jl_title>五門禪要用法經</cb:jl_title><note place="inline">初出</note></item>
+<lb n="0345a19" ed="T"/><item xml:id="itemT55p0345a1901"><cb:jl_title>水喻經</cb:jl_title><note place="inline">出增含</note></item>
+<lb n="0345a20" ed="T"/><item xml:id="itemT55p0345a2001"><cb:jl_title>浮木譬喻經</cb:jl_title></item>
+<lb n="0345a21" ed="T"/><item xml:id="itemT55p0345a2101"><cb:jl_title>鼈喻經</cb:jl_title><note place="inline"><note n="0345001" resp="Taisho" place="foot text" type="orig">〔出〕－【元】【明】</note><app n="0345001"><lem wit="【大】">出</lem><rdg resp="Taisho" wit="【元】【明】"><space quantity="0"/></rdg></app>六度集</note></item>
+<lb n="0345a22" ed="T"/><item xml:id="itemT55p0345a2201"><cb:jl_title>提婆達生身入地獄經</cb:jl_title><note place="inline">出出曜經</note></item>
+<lb n="0345a23" ed="T"/><item xml:id="itemT55p0345a2301"><cb:jl_title>摩那祇女人誹謗佛生身入地獄經</cb:jl_title></item>
+<lb n="0345a24" ed="T"/><item xml:id="itemT55p0345a2401"><cb:jl_title>尸迦羅越六向拜經</cb:jl_title><note place="inline">一名大六向拜經與法護出小異</note></item>
+<lb n="0345a25" ed="T"/><item xml:id="itemT55p0345a2501"><cb:jl_title>人本欲生經</cb:jl_title><note place="inline">出長含道安注見祐錄</note></item>
+<lb n="0345a26" ed="T"/><item xml:id="itemT55p0345a2601"><cb:jl_title>鬼問目連經</cb:jl_title></item>
+<lb n="0345a27" ed="T"/><item xml:id="itemT55p0345a2701"><cb:jl_title>地獄罪人眾苦經</cb:jl_title></item>
+<lb n="0345a28" ed="T"/><item xml:id="itemT55p0345a2801"><cb:jl_title>目連見眾生身毛如箭經</cb:jl_title><note place="inline">出雜含</note></item>
+<lb n="0345a29" ed="T"/><item xml:id="itemT55p0345a2901"><cb:jl_title>摩訶衍精進度中罪報品經</cb:jl_title></item>
+<pb n="0345b" xml:id="T55.2150.0345b" ed="T"/>
+<lb n="0345b01" ed="T"/><item xml:id="itemT55p0345b0101"><cb:jl_title>尊者薄拘羅經</cb:jl_title><note place="inline">出中含</note></item>
+<lb n="0345b02" ed="T"/><item xml:id="itemT55p0345b0201"><cb:jl_title>阿難問事佛吉凶經</cb:jl_title><note place="inline">一<note n="0345002" resp="Taisho" place="foot text" type="orig">云＝名【三】＊</note><note n="0345002" resp="CBETA" type="mod">云＝名【宋】＊【元】＊【明】＊</note><app n="0345002"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【宋】【元】【明】">名</rdg></app>阿難問事經一<app type="star" corresp="#0345002"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【宋】【元】【明】">名</rdg></app>事佛吉凶經</note></item>
+<lb n="0345b03" ed="T"/><item xml:id="itemT55p0345b0301"><cb:jl_title>迦旃延無常經</cb:jl_title><note place="inline">出生經</note></item>
+<lb n="0345b04" ed="T"/><item xml:id="itemT55p0345b0401"><cb:jl_title>當來變滅經</cb:jl_title></item>
+<lb n="0345b05" ed="T"/><item xml:id="itemT55p0345b0501"><cb:jl_title>堅心正意經</cb:jl_title></item>
+<lb n="0345b06" ed="T"/><item xml:id="itemT55p0345b0601"><cb:jl_title>分明罪福經</cb:jl_title></item>
+<lb n="0345b07" ed="T"/><item xml:id="itemT55p0345b0701"><cb:jl_title>多增道章經</cb:jl_title></item>
+<lb n="0345b08" ed="T"/><item xml:id="itemT55p0345b0801"><cb:jl_title>金色女人經</cb:jl_title></item>
+<lb n="0345b09" ed="T"/><item xml:id="itemT55p0345b0901"><cb:jl_title>前世爭女經</cb:jl_title></item>
+<lb n="0345b10" ed="T"/><item xml:id="itemT55p0345b1001"><cb:jl_title>承事勝己經</cb:jl_title></item>
+<lb n="0345b11" ed="T"/><item xml:id="itemT55p0345b1101"><cb:jl_title>悔過法經</cb:jl_title></item>
+<lb n="0345b12" ed="T"/><item xml:id="itemT55p0345b1201"><cb:jl_title>舍利弗悔過經</cb:jl_title></item>
+<lb n="0345b13" ed="T"/><item xml:id="itemT55p0345b1301"><cb:jl_title>太子夢經</cb:jl_title></item>
+<lb n="0345b14" ed="T"/><item xml:id="itemT55p0345b1401"><cb:jl_title>小般泥洹經</cb:jl_title></item>
+<lb n="0345b15" ed="T"/><item xml:id="itemT55p0345b1501"><cb:jl_title>慈仁不殺經</cb:jl_title></item>
+<lb n="0345b16" ed="T"/><item xml:id="itemT55p0345b1601"><cb:jl_title>阿難同學經</cb:jl_title></item>
+<lb n="0345b17" ed="T"/><item xml:id="itemT55p0345b1701"><cb:jl_title>商人脫賊難經</cb:jl_title></item>
+<lb n="0345b18" ed="T"/><item xml:id="itemT55p0345b1801"><cb:jl_title>過去彈琴人經</cb:jl_title></item>
+<lb n="0345b19" ed="T"/><item xml:id="itemT55p0345b1901"><cb:jl_title>世間強盜布施經</cb:jl_title></item>
+<lb n="0345b20" ed="T"/><item xml:id="itemT55p0345b2001"><cb:jl_title>商人子作佛事經</cb:jl_title></item>
+<lb n="0345b21" ed="T"/><item xml:id="itemT55p0345b2101"><cb:jl_title>呪賊經</cb:jl_title></item>
+<lb n="0345b22" ed="T"/><item xml:id="itemT55p0345b2201"><cb:jl_title>卒逢賊結衣帶呪經</cb:jl_title></item>
+<lb n="0345b23" ed="T"/><item xml:id="itemT55p0345b2301"><cb:jl_title>梵天詣婆羅講堂經</cb:jl_title></item>
+<lb n="0345b24" ed="T"/><item xml:id="itemT55p0345b2401"><cb:jl_title>五陰成敗經</cb:jl_title></item>
+<lb n="0345b25" ed="T"/><item xml:id="itemT55p0345b2501"><cb:jl_title>八光經</cb:jl_title></item>
+<lb n="0345b26" ed="T"/><item xml:id="itemT55p0345b2601"><cb:jl_title>五鬪戰經</cb:jl_title></item>
+<lb n="0345b27" ed="T"/><item xml:id="itemT55p0345b2701"><cb:jl_title>五法經</cb:jl_title><note place="inline">見僧祐錄</note></item>
+<lb n="0345b28" ed="T"/><item xml:id="itemT55p0345b2801"><cb:jl_title>五行經</cb:jl_title></item>
+<lb n="0345b29" ed="T"/><item xml:id="itemT55p0345b2901"><cb:jl_title>三毒經</cb:jl_title></item>
+<pb n="0345c" xml:id="T55.2150.0345c" ed="T"/>
+<lb n="0345c01" ed="T"/><item xml:id="itemT55p0345c0101"><cb:jl_title>良時難遇經</cb:jl_title></item>
+<lb n="0345c02" ed="T"/><item xml:id="itemT55p0345c0201"><cb:jl_title>求離牢獄經</cb:jl_title></item>
+<lb n="0345c03" ed="T"/><item xml:id="itemT55p0345c0301"><cb:jl_title>蓮華女人經</cb:jl_title></item>
+<lb n="0345c04" ed="T"/><item xml:id="itemT55p0345c0401"><cb:jl_title>孤母喪一子經</cb:jl_title></item>
+<lb n="0345c05" ed="T"/><item xml:id="itemT55p0345c0501"><cb:jl_title>昔有二人相愛敬經</cb:jl_title></item>
+<lb n="0345c06" ed="T"/><item xml:id="itemT55p0345c0601"><cb:jl_title>住陰持入經</cb:jl_title></item>
+<lb n="0345c07" ed="T"/><item xml:id="itemT55p0345c0701"><cb:jl_title>鏡面王經</cb:jl_title></item>
+<lb n="0345c08" ed="T"/><item xml:id="itemT55p0345c0801"><cb:jl_title>子命過經</cb:jl_title></item>
+<lb n="0345c09" ed="T"/><item xml:id="itemT55p0345c0901"><cb:jl_title>歎寶女經</cb:jl_title><note place="inline">一名舍利弗歎寶女經說不思議經</note></item>
+<lb n="0345c10" ed="T"/><item xml:id="itemT55p0345c1001"><cb:jl_title>大迦葉遇尼揵子經</cb:jl_title></item>
+<lb n="0345c11" ed="T"/><item xml:id="itemT55p0345c1101"><cb:jl_title>正齋經</cb:jl_title></item>
+<lb n="0345c12" ed="T"/><item xml:id="itemT55p0345c1201"><cb:jl_title>阿那律思惟目連神力經</cb:jl_title></item>
+<lb n="0345c13" ed="T"/><item xml:id="itemT55p0345c1301"><cb:jl_title>舍利弗問寶女經</cb:jl_title></item>
+<lb n="0345c14" ed="T"/><item xml:id="itemT55p0345c1401"><cb:jl_title>月燈三昧經</cb:jl_title></item>
+<lb n="0345c15" ed="T"/><item xml:id="itemT55p0345c1501"><cb:jl_title>阿難惑經</cb:jl_title></item>
+<lb n="0345c16" ed="T"/><item xml:id="itemT55p0345c1601"><cb:jl_title>佛印三昧經</cb:jl_title></item>
+<lb n="0345c17" ed="T"/><item xml:id="itemT55p0345c1701"><cb:jl_title>迦葉詰阿難經</cb:jl_title><note place="inline">一云迦葉責阿難雙度羅漢喻經初出</note></item>
+<lb n="0345c18" ed="T"/><item xml:id="itemT55p0345c1801"><cb:jl_title>大乘方等要<note n="0345003" resp="Taisho" place="foot text" type="orig">慧＝惠【宋】＊</note><app n="0345003"><lem wit="【大】">慧</lem><rdg resp="Taisho" wit="【宋】">惠</rdg></app>經</cb:jl_title></item>
+<lb n="0345c19" ed="T"/><item xml:id="itemT55p0345c1901"><cb:jl_title>空淨天感應三昧經</cb:jl_title></item>
+<lb n="0345c20" ed="T"/><item xml:id="itemT55p0345c2001"><cb:jl_title>情離有罪經</cb:jl_title></item>
+<lb n="0345c21" ed="T"/><item xml:id="itemT55p0345c2101"><cb:jl_title>藥王藥上菩薩觀經</cb:jl_title></item>
+<lb n="0345c22" ed="T"/><item xml:id="itemT55p0345c2201"><cb:jl_title>義決律</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">一云義決律法行或云經者道安云<note n="0345004" resp="Taisho" place="foot text" type="orig">出＝長【三】</note><note n="0345004" resp="CBETA" type="mod">出＝長【宋】【元】【明】</note><app n="0345004"><lem wit="【大】">出</lem><rdg resp="Taisho" wit="【宋】【元】【明】">長</rdg></app>阿含見祐錄</note></item>
+<lb n="0345c23" ed="T"/><item xml:id="itemT55p0345c2301"><cb:jl_title>四諦經</cb:jl_title><note place="inline">與孟詳出小異道安云出長阿含經已前見祐錄三十四部四十卷餘雜出附見</note></item>
+<lb n="0345c24" ed="T"/><item xml:id="itemT55p0345c2401"><cb:jl_title>寶積三昧文殊問法身經</cb:jl_title></item>
+<lb n="0345c25" ed="T"/><item xml:id="itemT55p0345c2501"><cb:jl_title>法受塵經</cb:jl_title></item>
+<lb n="0345c26" ed="T"/><item xml:id="itemT55p0345c2601"><cb:jl_title>禪行法想經</cb:jl_title></item>
+<lb n="0345c27" ed="T"/><item xml:id="itemT55p0345c2701"><cb:jl_title>阿含正行經</cb:jl_title></item>
+<lb n="0345c28" ed="T"/><item xml:id="itemT55p0345c2801"><cb:jl_title>犍陀國王經</cb:jl_title></item>
+<lb n="0345c29" ed="T"/><item xml:id="itemT55p0345c2901"><cb:jl_title>佛說處處經</cb:jl_title></item>
+<pb n="0346a" xml:id="T55.2150.0346a" ed="T"/>
+<lb n="0346a01" ed="T"/><item xml:id="itemT55p0346a0101"><cb:jl_title>十八泥犁經</cb:jl_title></item>
+<lb n="0346a02" ed="T"/><item xml:id="itemT55p0346a0201"><cb:jl_title>罪業報應教化地獄經</cb:jl_title></item>
+<lb n="0346a03" ed="T"/><item xml:id="itemT55p0346a0301"><cb:jl_title>犯戒罪報輕重經</cb:jl_title></item>
+<lb n="0346a04" ed="T"/><item xml:id="itemT55p0346a0401"><cb:jl_title>聞成十二因緣經</cb:jl_title></item>
+<lb n="0346a05" ed="T"/><item xml:id="itemT55p0346a0501"><cb:jl_title>本相倚致<note n="0346001" resp="Taisho" place="foot text" type="orig">〔經〕－【元】【明】</note><app n="0346001"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【元】【明】"><space quantity="0"/></rdg></app></cb:jl_title></item>
+<lb n="0346a06" ed="T"/><item xml:id="itemT55p0346a0601"><cb:jl_title>普法義經</cb:jl_title></item>
+<lb n="0346a07" ed="T"/><item xml:id="itemT55p0346a0701"><cb:jl_title>摩鄧女經</cb:jl_title></item>
+<lb n="0346a08" ed="T"/><item xml:id="itemT55p0346a0801"><cb:jl_title>漏分布經</cb:jl_title></item>
+<lb n="0346a09" ed="T"/><item xml:id="itemT55p0346a0901"><cb:jl_title>是法非法經</cb:jl_title></item>
+<lb n="0346a10" ed="T"/><item xml:id="itemT55p0346a1001"><cb:jl_title>聞成十二因緣經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
+<lb n="0346a11" ed="T"/><p xml:id="pT55p0346a1101" rend="margin-left:1em">右出別錄與世高譯<note n="0346002" resp="Taisho" place="foot text" type="orig">小異＝同【三】</note><note n="0346002" resp="CBETA" type="mod">小異＝同【宋】【元】【明】</note><app n="0346002"><lem wit="【大】">小異</lem><rdg resp="Taisho" wit="【宋】【元】【明】">同</rdg></app>。</p></item>
+<lb n="0346a12" ed="T"/><item xml:id="itemT55p0346a1201"><cb:jl_title>墮落優婆塞經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan></item>
+<lb n="0346a13" ed="T"/><item xml:id="itemT55p0346a1301"><cb:jl_title>小道地經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan></item>
+<lb n="0346a14" ed="T"/><item xml:id="itemT55p0346a1401"><cb:jl_title>阿那律八念經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan></item>
+<lb n="0346a15" ed="T"/><item xml:id="itemT55p0346a1501"><cb:jl_title>大摩耶經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan></item>
+<lb n="0346a16" ed="T"/><item xml:id="itemT55p0346a1601"><cb:jl_title>馬有三相經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0346a17" ed="T"/><p xml:id="pT55p0346a1701" rend="margin-left:1em">右一十一部<cb:jl_byline>西域沙門支曜</cb:jl_byline>以靈帝世於雒
+<lb n="0346a18" ed="T"/>陽譯。</p></item>
+<lb n="0346a19" ed="T"/><item xml:id="itemT55p0346a1901"><cb:jl_title>問地獄事經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
+<lb n="0346a20" ed="T"/><p xml:id="pT55p0346a2001" rend="margin-left:1em">右一經一卷。<cb:jl_byline>中國沙門康<app type="star" corresp="#0343018"><lem wit="【大】">巨</lem><rdg resp="Taisho" wit="【宋】【元】【明】">臣</rdg></app></cb:jl_byline>。以靈帝中平
+<lb n="0346a21" ed="T"/>四年。於雒陽譯。並言直<note n="0346003" resp="Taisho" place="foot text" type="orig">旨＝恉【宋】，指【元】【明】</note><note n="0346003" resp="CBETA" type="mod">旨＝恉【宋】，＝指【元】【明】</note><app n="0346003"><lem wit="【大】">旨</lem><rdg resp="Taisho" wit="【宋】">恉</rdg><rdg resp="Taisho" wit="【元】【明】">指</rdg></app>詣不加潤飾。</p></item>
+<lb n="0346a22" ed="T"/><item xml:id="itemT55p0346a2201"><cb:jl_title>古維摩詰經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan></item>
+<lb n="0346a23" ed="T"/><item xml:id="itemT55p0346a2301"><cb:jl_title><note n="0346004" resp="Taisho" place="foot text" type="orig">濡＝輭【三】</note><note n="0346004" resp="CBETA" type="mod">濡＝輭【宋】【元】【明】</note><app n="0346004"><lem wit="【大】">濡</lem><rdg resp="Taisho" wit="【宋】【元】【明】">輭</rdg></app>首菩薩無上清淨分衛經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan></item>
+<lb n="0346a24" ed="T"/><item xml:id="itemT55p0346a2401"><cb:jl_title>思意經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan></item>
+<lb n="0346a25" ed="T"/><item xml:id="itemT55p0346a2501"><cb:jl_title><app type="star" corresp="#0345003"><lem wit="【大】">慧</lem><rdg resp="Taisho" wit="【宋】">惠</rdg></app>上菩薩問大善權經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan></item>
+<lb n="0346a26" ed="T"/><item xml:id="itemT55p0346a2601"><cb:jl_title>內六波羅蜜經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan></item>
+<lb n="0346a27" ed="T"/><item xml:id="itemT55p0346a2701"><cb:jl_title>十<app type="star" corresp="#0345003"><lem wit="【大】">慧</lem><rdg resp="Taisho" wit="【宋】">惠</rdg></app>經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan></item>
+<lb n="0346a28" ed="T"/><item xml:id="itemT55p0346a2801"><cb:jl_title>迦葉詰阿難經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
+<lb n="0346a29" ed="T"/><p xml:id="pT55p0346a2901" rend="margin-left:1em">右出別錄。</p></item>
+<pb n="0346b" xml:id="T55.2150.0346b" ed="T"/>
+<lb n="0346b01" ed="T"/><item xml:id="itemT55p0346b0101"><cb:jl_title>梵網經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0346b02" ed="T"/><p xml:id="pT55p0346b0201" rend="margin-left:1em"><note n="0346005" resp="Taisho" place="foot text" type="orig">〔右〕－【明】＊</note><app n="0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>出別錄。</p></item>
+<lb n="0346b03" ed="T"/><item xml:id="itemT55p0346b0301"><cb:jl_title>中本起經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0346b04" ed="T"/><p xml:id="pT55p0346b0401" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>出雜錄。</p></item>
+<lb n="0346b05" ed="T"/><item xml:id="itemT55p0346b0501"><cb:jl_title>興起行經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0346b06" ed="T"/><p xml:id="pT55p0346b0601" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>或名十緣。出吳錄。</p></item>
+<lb n="0346b07" ed="T"/><item xml:id="itemT55p0346b0701"><cb:jl_title>四諦經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
+<lb n="0346b08" ed="T"/><p xml:id="pT55p0346b0801" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>出見吳錄。</p></item>
+<lb n="0346b09" ed="T"/><item xml:id="itemT55p0346b0901"><cb:jl_title>修行本起經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0346b10" ed="T"/><p xml:id="pT55p0346b1001" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app><note n="0346006" resp="Taisho" place="foot text" type="orig">〔一經二卷〕－【三】</note><note n="0346006" resp="CBETA" type="mod">〔一經二卷〕－【宋】【元】【明】</note><app n="0346006"><lem wit="【大】">一經二卷</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>出雜錄。</p></item>
+<lb n="0346b11" ed="T"/><item xml:id="itemT55p0346b1101"><cb:jl_title><app type="star" corresp="#0344003"><lem wit="【大】">胡</lem><rdg resp="Taisho" wit="【元】【明】">梵</rdg></app>本經</cb:jl_title><cb:jl_juan n="4">四卷</cb:jl_juan>
+<lb n="0346b12" ed="T"/><p xml:id="pT55p0346b1201" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>出吳錄。</p></item>
+<lb n="0346b13" ed="T"/><item xml:id="itemT55p0346b1301"><cb:jl_title>泥洹後千歲中變記經</cb:jl_title><cb:jl_juan n="4">四卷</cb:jl_juan>
+<lb n="0346b14" ed="T"/><p xml:id="pT55p0346b1401" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>出別錄。</p></item>
+<lb n="0346b15" ed="T"/><item xml:id="itemT55p0346b1501"><cb:jl_title>合道神足經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0346b16" ed="T"/><p xml:id="pT55p0346b1601" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>一名極變經。</p></item>
+<lb n="0346b17" ed="T"/><item xml:id="itemT55p0346b1701"><cb:jl_title>諸經佛名</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0346b18" ed="T"/><p xml:id="pT55p0346b1801" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>一名佛名經。</p></item>
+<lb n="0346b19" ed="T"/><item xml:id="itemT55p0346b1901"><cb:jl_title>舊譬喻經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0346b20" ed="T"/><p xml:id="pT55p0346b2001" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>或名譬喻經。</p></item>
+<lb n="0346b21" ed="T"/><item xml:id="itemT55p0346b2101"><cb:jl_title>觀無量壽經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
+<lb n="0346b22" ed="T"/><p xml:id="pT55p0346b2201" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>出單經。</p></item>
+<lb n="0346b23" ed="T"/><item xml:id="itemT55p0346b2301"><cb:jl_title>龍種尊國變化經</cb:jl_title><cb:jl_juan n="3">三卷</cb:jl_juan>
+<lb n="0346b24" ed="T"/><p xml:id="pT55p0346b2401" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>出別錄。</p></item>
+<lb n="0346b25" ed="T"/><item xml:id="itemT55p0346b2501"><cb:jl_title>佛見牧牛煮道經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan></item>
+<lb n="0346b26" ed="T"/><item xml:id="itemT55p0346b2601"><cb:jl_title>三千<note n="0346007" resp="Taisho" place="foot text" type="orig">佛＋（佛）【三】</note><note n="0346007" resp="CBETA" type="mod">佛＋（佛）【宋】【元】【明】</note><app n="0346007"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【宋】【元】【明】">佛佛</rdg></app>名經</cb:jl_title></item>
+<lb n="0346b27" ed="T"/><item xml:id="itemT55p0346b2701"><cb:jl_title>五十三佛名經</cb:jl_title></item>
+<lb n="0346b28" ed="T"/><item xml:id="itemT55p0346b2801"><cb:jl_title>南方佛名經</cb:jl_title><note place="inline">一<note n="0346008" resp="Taisho" place="foot text" type="orig">名＝佛【三】</note><note n="0346008" resp="CBETA" type="mod">名＝佛【宋】【元】【明】</note><app n="0346008"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【宋】【元】【明】">佛</rdg></app>治城寺經</note></item>
+<lb n="0346b29" ed="T"/><item xml:id="itemT55p0346b2901"><cb:jl_title>滅罪得福經</cb:jl_title></item>
+<pb n="0346c" xml:id="T55.2150.0346c" ed="T"/>
+<lb n="0346c01" ed="T"/><item xml:id="itemT55p0346c0101"><cb:jl_title>觀世音所說行法經</cb:jl_title></item>
+<lb n="0346c02" ed="T"/><item xml:id="itemT55p0346c0201"><cb:jl_title>彌勒為女身經</cb:jl_title></item>
+<lb n="0346c03" ed="T"/><item xml:id="itemT55p0346c0301"><cb:jl_title>寂調意所問經</cb:jl_title></item>
+<lb n="0346c04" ed="T"/><item xml:id="itemT55p0346c0401"><cb:jl_title>薩陀波崙菩薩求深般若圖紀經</cb:jl_title></item>
+<lb n="0346c05" ed="T"/><item xml:id="itemT55p0346c0501"><cb:jl_title>菩薩生地經</cb:jl_title></item>
+<lb n="0346c06" ed="T"/><item xml:id="itemT55p0346c0601"><cb:jl_title>初發意菩薩常晝夜六時行道經</cb:jl_title></item>
+<lb n="0346c07" ed="T"/><item xml:id="itemT55p0346c0701"><cb:jl_title>一切流攝守因緣經</cb:jl_title></item>
+<lb n="0346c08" ed="T"/><item xml:id="itemT55p0346c0801"><cb:jl_title>七處三觀經</cb:jl_title></item>
+<lb n="0346c09" ed="T"/><item xml:id="itemT55p0346c0901"><cb:jl_title>九橫經出雜含經</cb:jl_title></item>
+<lb n="0346c10" ed="T"/><item xml:id="itemT55p0346c1001"><cb:jl_title>八正道經</cb:jl_title></item>
+<lb n="0346c11" ed="T"/><item xml:id="itemT55p0346c1101"><cb:jl_title>五陰譬喻經</cb:jl_title></item>
+<lb n="0346c12" ed="T"/><item xml:id="itemT55p0346c1201"><cb:jl_title>轉法輪經</cb:jl_title></item>
+<lb n="0346c13" ed="T"/><item xml:id="itemT55p0346c1301"><cb:jl_title>思惟要略經</cb:jl_title></item>
+<lb n="0346c14" ed="T"/><item xml:id="itemT55p0346c1401"><cb:jl_title>請賓頭盧法</cb:jl_title></item>
+<lb n="0346c15" ed="T"/><item xml:id="itemT55p0346c1501"><cb:jl_title>阿含口解十二因緣<note n="0346009" resp="Taisho" place="foot text" type="orig">〔經〕－【三】</note><note n="0346009" resp="CBETA" type="mod">〔經〕－【宋】【元】【明】</note><app n="0346009"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></cb:jl_title></item>
+<lb n="0346c16" ed="T"/><item xml:id="itemT55p0346c1601"><cb:jl_title>阿毘曇五法行經</cb:jl_title></item>
+<lb n="0346c17" ed="T"/><item xml:id="itemT55p0346c1701"><cb:jl_title>大集經</cb:jl_title><cb:jl_juan n="27">二十七卷</cb:jl_juan></item>
+<lb n="0346c18" ed="T"/><item xml:id="itemT55p0346c1801"><cb:jl_title>道行般若波羅蜜經</cb:jl_title><cb:jl_juan n="10">十卷</cb:jl_juan><note place="inline">初出名摩訶般若波羅蜜經或八卷一名波羅蜜
+<lb n="0346c19" ed="T"/><note n="0346010" resp="Taisho" place="foot text" type="orig">般若＝經【三】</note><note n="0346010" resp="CBETA" type="mod">般若＝經【宋】【元】【明】</note><app n="0346010"><lem wit="【大】">般若</lem><rdg resp="Taisho" wit="【宋】【元】【明】">經</rdg></app>道行品經出支敏<note n="0346011" resp="Taisho" place="foot text" type="orig">度＋（敏度）【宋】</note><app n="0346011"><lem wit="【大】">度</lem><rdg resp="Taisho" wit="【宋】">度敏度</rdg></app>及祐錄</note></item>
+<lb n="0346c20" ed="T"/><item xml:id="itemT55p0346c2001"><cb:jl_title>首楞嚴經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0346c21" ed="T"/><p xml:id="pT55p0346c2101" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>後漢中平三年二月八日初出。見士行
+<lb n="0346c22" ed="T"/>祐二錄。吳錄云三卷。</p></item>
+<lb n="0346c23" ed="T"/><item xml:id="itemT55p0346c2301"><cb:jl_title>無量清淨經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0346c24" ed="T"/><p xml:id="pT55p0346c2401" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>吳錄與帛延出者異本。一云無量清淨平
+<lb n="0346c25" ed="T"/>等覺經。</p></item>
+<lb n="0346c26" ed="T"/><item xml:id="itemT55p0346c2601"><cb:jl_title>阿閦佛國經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0346c27" ed="T"/><p xml:id="pT55p0346c2701" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app><note n="0346012" resp="Taisho" place="foot text" type="orig">〔一名〕－【宋】【元】</note><app n="0346012"><lem wit="【大】">一名</lem><rdg resp="Taisho" wit="【宋】【元】"><space quantity="0"/></rdg></app>阿閦佛剎菩薩學成經。一名阿閦
+<lb n="0346c28" ed="T"/>佛經<note n="0346013" resp="Taisho" place="foot text" type="orig">〔一卷〕－【明】</note><app n="0346013"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>。</p></item>
+<lb n="0346c29" ed="T"/><item xml:id="itemT55p0346c2901"><cb:jl_title>孛本經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<pb n="0347a" xml:id="T55.2150.0347a" ed="T"/>
+<lb n="0347a01" ed="T"/><p xml:id="pT55p0347a0101" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app><note n="0347001" resp="Taisho" place="foot text" type="orig">出＋（見）【三】</note><note n="0347001" resp="CBETA" type="mod">出＋（見）【宋】【元】【明】</note><app n="0347001"><lem wit="【大】">出</lem><rdg resp="Taisho" wit="【宋】【元】【明】">出見</rdg></app>僧祐錄。</p></item>
+<lb n="0347a02" ed="T"/><item xml:id="itemT55p0347a0201"><cb:jl_title>般舟三昧經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347a03" ed="T"/><p xml:id="pT55p0347a0301" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>光和二年初出。見聶道真及吳祐等三
+<lb n="0347a04" ed="T"/>錄。舊云大般舟三昧經。</p></item>
+<lb n="0347a05" ed="T"/><item xml:id="itemT55p0347a0501"><cb:jl_title><note n="0347002" resp="Taisho" place="foot text" type="orig">屯＝伅【宋】【元】【明】＊</note><app n="0347002"><lem wit="【大】">屯</lem><rdg resp="Taisho" wit="【宋】【元】【明】">伅</rdg></app>真陀羅所問經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347a06" ed="T"/><p xml:id="pT55p0347a0601" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>初出。舊錄云。<app type="star" corresp="#0347002"><lem wit="【大】">屯</lem><rdg resp="Taisho" wit="【宋】【元】【明】">伅</rdg></app>真陀羅尼王經。</p></item>
+<lb n="0347a07" ed="T"/><item xml:id="itemT55p0347a0701"><cb:jl_title>阿闍世王經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347a08" ed="T"/><p xml:id="pT55p0347a0801" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>初出。道安云。出長安經。</p></item>
+<lb n="0347a09" ed="T"/><item xml:id="itemT55p0347a0901"><cb:jl_title>佛遺日摩尼寶經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
+<lb n="0347a10" ed="T"/><p xml:id="pT55p0347a1001" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>出方等部經。一名摩訶衍經。</p></item>
+<lb n="0347a11" ed="T"/><item xml:id="itemT55p0347a1101"><cb:jl_title>大寶積經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347a12" ed="T"/><p xml:id="pT55p0347a1201" rend="margin-left:1em">右尋此經。與前略同。以光和二年初出。道
+<lb n="0347a13" ed="T"/>安云。摩尼寶經。或二卷。見舊錄及士行漢
+<lb n="0347a14" ed="T"/>錄。</p></item>
+<lb n="0347a15" ed="T"/><item xml:id="itemT55p0347a1501"><cb:jl_title>文殊師利問署經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347a16" ed="T"/><p xml:id="pT55p0347a1601" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>一名問署經。<note n="0347003" resp="Taisho" place="foot text" type="orig">（出）＋道【三】</note><note n="0347003" resp="CBETA" type="mod">（出）＋道【宋】【元】【明】</note><app n="0347003"><lem wit="【大】">道</lem><rdg resp="Taisho" wit="【宋】【元】【明】">出道</rdg></app>安云。<note n="0347004" resp="Taisho" place="foot text" type="orig">〔出〕－【三】</note><note n="0347004" resp="CBETA" type="mod">〔出〕－【宋】【元】【明】</note><app n="0347004"><lem wit="【大】">出</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>方等部。見吳
+<lb n="0347a17" ed="T"/>錄。</p></item>
+<lb n="0347a18" ed="T"/><item xml:id="itemT55p0347a1801"><cb:jl_title>內藏百寶經</cb:jl_title><cb:jl_juan n="10">十卷</cb:jl_juan>
+<lb n="0347a19" ed="T"/><p xml:id="pT55p0347a1901" rend="margin-left:1em"><note n="0347005" resp="Taisho" place="foot text" type="orig">〔右內藏百寶經〕－【明】</note><app n="0347005"><lem wit="【大】">右內藏百寶經</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>第一出。與世高譯<note n="0347006" resp="Taisho" place="foot text" type="orig">〔少〕－【三】</note><note n="0347006" resp="CBETA" type="mod">〔少〕－【宋】【元】【明】</note><app n="0347006"><lem wit="【大】">少</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>異。道
+<lb n="0347a20" ed="T"/>安云。出方等。</p></item>
+<lb n="0347a21" ed="T"/><item xml:id="itemT55p0347a2101"><cb:jl_title><app type="star" corresp="#0344003"><lem wit="【大】">胡</lem><rdg resp="Taisho" wit="【元】【明】">梵</rdg></app>般泥洹經</cb:jl_title><cb:jl_juan n="8">八卷</cb:jl_juan>
+<lb n="0347a22" ed="T"/><p xml:id="pT55p0347a2201" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>初出。或六卷。出漢錄。</p></item>
+<lb n="0347a23" ed="T"/><item xml:id="itemT55p0347a2301"><cb:jl_title>阿闍世王問五逆經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347a24" ed="T"/><p xml:id="pT55p0347a2401" rend="margin-left:1em">又直云阿闍世王經。</p></item>
+<lb n="0347a25" ed="T"/><item xml:id="itemT55p0347a2501"><cb:jl_title>大方便報恩經</cb:jl_title><cb:jl_juan n="7">七卷</cb:jl_juan>
+<lb n="0347a26" ed="T"/><p xml:id="pT55p0347a2601" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>見吳錄。</p></item>
+<lb n="0347a27" ed="T"/><item xml:id="itemT55p0347a2701"><cb:jl_title>光明三昧經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
+<lb n="0347a28" ed="T"/><p xml:id="pT55p0347a2801" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>安錄無。見吳錄及三藏記。</p></item>
+<lb n="0347a29" ed="T"/><item xml:id="itemT55p0347a2901"><cb:jl_title>禪經</cb:jl_title><cb:jl_juan n="2"><note n="0347007" resp="Taisho" place="foot text" type="orig">二＝一【三】</note><note n="0347007" resp="CBETA" type="mod">二＝一【宋】【元】【明】</note><app n="0347007"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宋】【元】【明】">一</rdg></app>卷</cb:jl_juan>
+<pb n="0347b" xml:id="T55.2150.0347b" ed="T"/>
+<lb n="0347b01" ed="T"/><p xml:id="pT55p0347b0101" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app><note n="0347008" resp="Taisho" place="foot text" type="orig">（在）＋見【三】</note><note n="0347008" resp="CBETA" type="mod">（在）＋見【宋】【元】【明】</note><app n="0347008"><lem wit="【大】">見</lem><rdg resp="Taisho" wit="【宋】【元】【明】">在見</rdg></app>別錄。</p></item>
+<lb n="0347b02" ed="T"/><item xml:id="itemT55p0347b0201"><cb:jl_title>雜譬喻經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347b03" ed="T"/><p xml:id="pT55p0347b0301" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>凡十事。<cb:jl_byline type="失譯">祐云失譯</cb:jl_byline>。<note n="0347009" resp="Taisho" place="foot text" type="orig">今＝令【元】</note><app n="0347009"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【元】">令</rdg></app>總見別錄。故載
+<lb n="0347b04" ed="T"/>之。</p></item>
+<lb n="0347b05" ed="T"/><item xml:id="itemT55p0347b0501"><cb:jl_title>阿育王太子壞目因緣經</cb:jl_title><cb:jl_juan n="7">七卷</cb:jl_juan>
+<lb n="0347b06" ed="T"/><p xml:id="pT55p0347b0601" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>佛滅後一百三十年。育王方出。故非佛
+<lb n="0347b07" ed="T"/>出。</p></item>
+<lb n="0347b08" ed="T"/><item xml:id="itemT55p0347b0801"><cb:jl_title>兜沙經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347b09" ed="T"/><p xml:id="pT55p0347b0901" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>在別錄。</p></item>
+<lb n="0347b10" ed="T"/><item xml:id="itemT55p0347b1001"><cb:jl_title>法鏡經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347b11" ed="T"/><p xml:id="pT55p0347b1101" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>或一卷。唐續僧會。</p></item>
+<lb n="0347b12" ed="T"/><item xml:id="itemT55p0347b1201"><cb:jl_title>阿含口解十二因緣經</cb:jl_title>
+<lb n="0347b13" ed="T"/><p xml:id="pT55p0347b1301" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>出斷十二因緣中。</p></item>
+<lb n="0347b14" ed="T"/><item xml:id="itemT55p0347b1401"><cb:jl_title>般舟三昧經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347b15" ed="T"/><p xml:id="pT55p0347b1501" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>錄云。大般舟三昧經一卷。第二出。見高
+<lb n="0347b16" ed="T"/>僧傳。</p></item>
+<lb n="0347b17" ed="T"/><item xml:id="itemT55p0347b1701"><cb:jl_title>道行經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347b18" ed="T"/><p xml:id="pT55p0347b1801" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>嘉平元年譯。出續大唐內典錄。道安云。
+<lb n="0347b19" ed="T"/>是般若抄。</p></item>
+<lb n="0347b20" ed="T"/><item xml:id="itemT55p0347b2001"><cb:jl_title>小本起經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347b21" ed="T"/><p xml:id="pT55p0347b2101" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>修行本起經云宿行近來別錄在高僧傳。</p></item>
+<lb n="0347b22" ed="T"/><item xml:id="itemT55p0347b2201"><cb:jl_title>成具光明定意經</cb:jl_title><cb:jl_juan n="4">四卷</cb:jl_juan>
+<lb n="0347b23" ed="T"/><p xml:id="pT55p0347b2301" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>僧祐錄云。</p></item>
+<lb n="0347b24" ed="T"/><item xml:id="itemT55p0347b2401"><cb:jl_title>馬有八態譬人經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
+<lb n="0347b25" ed="T"/><p xml:id="pT55p0347b2501" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app><note n="0347010" resp="Taisho" place="foot text" type="orig">〔八弊經〕－【三】</note><note n="0347010" resp="CBETA" type="mod">〔八弊經〕－【宋】【元】【明】</note><app n="0347010"><lem wit="【大】">八弊經</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>。出僧祐錄。</p></item>
+<lb n="0347b26" ed="T"/><item xml:id="itemT55p0347b2601"><cb:jl_title>賴吒和羅經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
+<lb n="0347b27" ed="T"/><p xml:id="pT55p0347b2701" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>初出。道安云。出方等部。</p></item>
+<lb n="0347b28" ed="T"/><item xml:id="itemT55p0347b2801"><cb:jl_title>首至問佛十四事經</cb:jl_title><cb:jl_juan n="2">二卷</cb:jl_juan>
+<lb n="0347b29" ed="T"/><p xml:id="pT55p0347b2901" rend="margin-left:1em"><app type="star" corresp="#0346005"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>出高僧傳。</p>
+<pb n="0347c" xml:id="T55.2150.0347c" ed="T"/>
+<lb n="0347c01" ed="T"/><p xml:id="pT55p0347c0101" rend="margin-left:1em">右中<note n="0347011" resp="Taisho" place="foot text" type="orig">〔本〕－【三】</note><note n="0347011" resp="CBETA" type="mod">〔本〕－【宋】【元】【明】</note><app n="0347011"><lem wit="【大】">本</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>起經。亦是<cb:jl_byline>沙門曇果</cb:jl_byline>。於迦維羅衛
+<lb n="0347c02" ed="T"/>國得此梵本。於雒陽以建安十二年翻。<cb:jl_byline>孟
+<lb n="0347c03" ed="T"/>詳</cb:jl_byline>度語。見始興錄及長房錄。余以詳公所
+<lb n="0347c04" ed="T"/>譯與前無異。故兩別來由耳。</p></item></list></cb:div>
+<lb n="0347c05" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>續大唐內典錄<note n="0347012" resp="Taisho" place="foot text" type="orig">一卷＝畢【明】</note><app n="0347012"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【明】">畢</rdg></app></cb:jhead></cb:juan>
+</body></text></TEI>

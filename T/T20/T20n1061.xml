@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T20n1061">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1061 千手千眼觀自在菩薩廣大圓滿無礙大悲心陀羅尼呪本</title>
+			<author>唐 金剛智譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.16 $<date>$Date: 2012/08/27 03:15:13 $</date>新式標點版</edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/08/27 03:15:13 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1061 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA, Punctuated text as provided by The Seeland Monastery</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供，西蓮淨苑提供新式標點</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="sa-Sidd">Sanskrit-Siddam</language>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-24T11:15:04">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T20n1061.xml,v $
+Revision 1.16  2012/08/27 03:15:13  maha
+修訂新標小圓點及著重號
+
+Revision 1.15  2009/04/23 08:01:18  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.14  2007/09/24 10:11:00  saywhat
+TK修訂：p0112a20[刺>剌],p0112b01[[口*(隸-木+匕)]>[口*(隸-木+士)]],p0112a15[[木*奈]>捺]
+
+Revision 1.13  2006/12/17 15:01:22  saywhat
+新式標點版
+
+Revision 1.12  2006/09/07 03:23:23  saywhat
+p0113b25   SD-CDC1 => SD-E4BA
+
+Revision 1.11  2006/04/12 21:55:40  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.9  2006/03/23 06:30:13  saywhat
+p0113b22 [haa>]
+
+Revision 1.8  2006/03/18 04:18:30  saywhat
+p0113a27  SD-A5CD => SD-A656
+
+Revision 1.7  2005/11/24 04:44:40  saywhat
+悉曇字修訂： CFEB => A5CD, CFEF => A5FD
+
+Revision 1.6  2005/10/29 02:25:04  saywhat
+p0113a02 SD-CA56=>SD-DA4B, … …, p0113c01 [SD-A646>SD-A642]
+
+Revision 1.5  2004/12/22 06:50:01  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.4  2004/12/15 03:18:01  saywhat
+p0113a02行尾的<div1 type="W">移到下一行行首
+
+Revision 1.3  2004/10/21 08:20:03  saywhat
+段落前加入圈點
+
+Revision 1.2  2004/04/20 08:38:52  maha
+「版本日期」標記修訂
+
+Revision 1.1.1.1  2003/05/05 04:09:18  ray
+recover cvs
+
+Revision 1.18  2002/12/05 05:20:18  saywhat
+校勘插入處理
+
+Revision 1.17  2002/11/04 10:45:29  ray
+tei.2 => TEI.2
+
+Revision 1.16  2002/07/29 09:56:39  vinking
+modified lang
+
+Revision 1.15  2002/04/08 09:05:42  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.14  2001/11/05 06:13:35  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.13  2001/07/24 06:53:01  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.12  2001/03/30 05:55:14  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.11  2001/03/25 09:15:21  ray
+add <milestone>
+
+Revision 1.10  2001/02/07 06:55:32  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.9  2001/02/03 07:45:29  chris
+Added keywords $Revision: 1.16 $, $Date: 2012/08/27 03:15:13 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="0112a" xml:id="T20.1061.0112a" ed="T"/>
+<lb n="0112a01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0112a02" ed="T"/><cb:docNumber>No. 1061 [cf. Nos. 1056-1058, 1060, 1062-1064]</cb:docNumber>
+<lb n="0112a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0112001" resp="Taisho" place="foot text" type="orig">【原】麗本</note>千手千眼觀自在菩薩廣大圓滿
+<lb n="0112a04" ed="T"/>無礙大悲心陀羅尼呪本一卷</cb:jhead></cb:juan>
+<lb n="0112a05" ed="T"/>
+<lb n="0112a06" ed="T"/><byline cb:type="Translator">大唐贈開府儀同三司諡大弘教
+<lb n="0112a07" ed="T"/>三藏沙門金剛智奉　詔譯</byline>
+<lb n="0112a08" ed="T"/><cb:div type="dharani"><p xml:id="pT20p0112a0801" cb:type="dharani"><note n="0112002" resp="Taisho" place="foot text" type="orig">梵字真言附載於卷末</note>曩慕　囉<note place="inline">引</note>怛曩<note place="inline">二合</note>怛囉<note place="inline">二合</note>夜耶<note place="inline">一</note>　曩莫　阿<note place="inline">引</note>
+<lb n="0112a09" ed="T"/>哩夜<note place="inline">二合</note><note place="inline">二</note>　嚩𡀔枳諦濕嚩<note place="inline">二合</note>囉<note place="inline">引</note>耶<note place="inline">三</note>　<g ref="#CB00155"/><note place="inline">毛上音、下同</note>
+<lb n="0112a10" ed="T"/>地薩多嚩<note place="inline">二合、下同</note>耶<note place="inline">四</note>　莽<note place="inline">浮聲呼</note>賀薩多嚩<note place="inline">同上</note>耶<note place="inline">五</note>
+<lb n="0112a11" ed="T"/>　莽<note place="inline">浮聲呼</note>賀迦<note place="inline">去</note>嚕聹<note place="inline">卷舌呼</note>迦<note place="inline">引</note>耶<note place="inline">六</note>　薩摩<note place="inline">上</note>滿陀
+<lb n="0112a12" ed="T"/><note place="inline">上</note>曩<note place="inline">七</note>　泚娜曩迦囉<note place="inline">引</note>耶<note place="inline">八</note>　薩摩<note place="inline">上</note>　婆嚩<note place="inline">九</note>　娑母
+<lb n="0112a13" ed="T"/><note place="inline">浮聲呼</note>捺嘮<note place="inline">二合</note>　酢灑拏<note place="inline">卷舌呼</note>迦囉耶<note place="inline">十</note>　薩摩<note place="inline">上</note>　彌
+<lb n="0112a14" ed="T"/>夜<note place="inline">二合</note>地<note place="inline">十一</note>　跛囉<note place="inline">二合</note>捨莽<note place="inline">浮聲呼</note>曩迦囉<note place="inline">引</note>耶<note place="inline">十
+<lb n="0112a15" ed="T"/>二</note>　薩謎底多庾<note place="inline">二合</note>　跛<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">捺<note type="cf1">K36n1270_p0624a13</note></lem><rdg wit="【大】">㮈</rdg></app>囉<note place="inline">二合</note>嚩<note place="inline">十三</note>　尾那捨
+<lb n="0112a16" ed="T"/>曩<note place="inline">浮聲呼</note>迦囉<note place="inline">引</note>耶<note place="inline">十四</note>　薩摩<note place="inline">上</note>　婆曳數<note place="inline">十五</note>　怛囉
+<lb n="0112a17" ed="T"/><note place="inline">二合</note>拏迦囉<note place="inline">去、引</note>耶<note place="inline">十六</note>　嚲思每<note place="inline">二合</note>　曩莽思吉
+<lb n="0112a18" ed="T"/>哩<note place="inline">三合</note>多嚩<note place="inline">二合</note>　伊<note place="inline">去</note>那摩阿哩夜<note place="inline">二合</note><note place="inline">十七</note>　嚩𡀔枳
+<lb n="0112a19" ed="T"/>帝濕嚩<note place="inline">二合</note>囉　皤使單　儞羅建姹閉<note place="inline">十八</note>　曩<note place="inline">引</note>莽
+<lb n="0112a20" ed="T"/>纈哩<note place="inline">二合</note>娜耶<note place="inline">十九</note>　摩物<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">剌<note type="cf1">K36n1270_p0624a19</note></lem><rdg wit="【大】">刺</rdg></app><note place="inline">二合</note>嚲　以使夜<note place="inline">二合</note>
+<lb n="0112a21" ed="T"/>弭<note place="inline">二十</note>　薩末<note place="inline">引</note>他些馱建<note place="inline">二十一</note>　戍畔　阿爾延<note place="inline">二十二</note><note place="inline">引</note>　
+<lb n="0112a22" ed="T"/>　薩摩　部跢南<note place="inline">二十三</note>　婆嚩末誐　尾戍馱劍<note place="inline">二十四</note>　怛儞
+<lb n="0112a23" ed="T"/>也<note place="inline">二合</note>他<note place="inline">二十五</note>　唵<note place="inline">二十六</note>　阿<note place="inline">引</note>𡀔計　阿<note place="inline">引</note>𡀔迦莽底
+<lb n="0112a24" ed="T"/><note place="inline">二十七</note>　𡀔迦<note place="inline">引</note>底訖㘓<note place="inline">二合</note>諦　傒　賀㘑　阿哩夜<note place="inline">二十八</note>
+<lb n="0112a25" ed="T"/>　嚩𡀔枳諦濕嚩<note place="inline">二合</note>羅<note place="inline">二十九</note>　莽<note place="inline">浮聲呼</note>賀<g ref="#CB00155"/>地薩多
+<lb n="0112a26" ed="T"/>嚩<note place="inline">二合</note><note place="inline">三十</note>　傒　<g ref="#CB00155"/>地薩多嚩<note place="inline">二合</note><note place="inline">三十一</note>　傒　莽<note place="inline">浮聲呼</note>賀<g ref="#CB00155"/>地
+<lb n="0112a27" ed="T"/>薩多嚩<note place="inline">二合</note><note place="inline">三十二</note>　傒　比哩<note place="inline">二合</note>也　<g ref="#CB00155"/>地薩多嚩<note place="inline">二合</note><note place="inline">三十三</note>　
+<lb n="0112a28" ed="T"/>　傒　莽<note place="inline">浮聲呼</note>賀迦<note place="inline">引</note>嚕聹<note place="inline">卷舌呼</note>迦<note place="inline">三十四</note>　徙莽<note place="inline">二合</note>囉　纈
+<pb n="0112b" xml:id="T20.1061.0112b" ed="T"/>
+<lb n="0112b01" ed="T"/>哩<note place="inline">二合</note>娜延<note place="inline">三十五</note>　呬呬　賀<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">㘑<note type="cf1">K36n1270_p0624b09</note><note type="cf2">T20n1061_p0112b08</note></lem><rdg wit="【大】"><g ref="#CB03276"/></rdg></app>　阿哩耶<note place="inline">三十六</note>　嚩𡀔枳
+<lb n="0112b02" ed="T"/>諦濕嚩<note place="inline">二合</note>囉<note place="inline">三十七</note>　莽<note place="inline">浮聲呼</note>傒　濕嚩<note place="inline">二合</note>囉<note place="inline">三十八</note>　跛
+<lb n="0112b03" ed="T"/>囉莽<note place="inline">浮聲呼</note>　多囉<note place="inline">二合</note>質多<note place="inline">三十九</note>　莽<note place="inline">浮聲呼</note>賀迦嚕聹<note place="inline">卷舌
+<lb n="0112b04" ed="T"/>呼</note>迦<note place="inline">四十</note>　矩嚕　矩嚕　羯滿　些大耶　些大耶<note place="inline">四十一</note>
+<lb n="0112b05" ed="T"/>　尾儞延<note place="inline">二合</note><note place="inline">四十二</note>　聹傒　禰傒多　嚩㘓<note place="inline">四十三</note>　迦滿　誐莽
+<lb n="0112b06" ed="T"/><note place="inline">四十四</note>　尾捍誐莽　尾誐莽　悉陀<note place="inline">上</note>　諭儗<note place="inline">引</note>濕嚩<note place="inline">二
+<lb n="0112b07" ed="T"/>合</note>囉<note place="inline">四十五</note>　杜嚕　杜嚕　尾演底<note place="inline">四十六</note>　莽賀尾演底<note place="inline">四十
+<lb n="0112b08" ed="T"/>七</note>　馱囉　馱羅　達㘑印涅㘑<note place="inline">三合</note>濕嚩<note place="inline">二合</note>羅<note place="inline">四十八</note>
+<lb n="0112b09" ed="T"/>　左攞　左攞　尾莽<note place="inline">浮聲呼</note>邏　莽羅<note place="inline">四十九</note>　阿哩夜<note place="inline">二合</note><note place="inline">五十</note>　嚩
+<lb n="0112b10" ed="T"/>𡀔枳帝濕嚩<note place="inline">二合</note>羅<note place="inline">去</note><note place="inline">五十一</note>　爾曩　訖哩<note place="inline">二合</note>使拏<note place="inline">二合</note>
+<lb n="0112b11" ed="T"/><note place="inline">五十二</note>　惹吒<note place="inline">引</note>莽<note place="inline">浮聲呼</note>矩吒<note place="inline">五十三</note>　嚩覽摩　跛羅<note place="inline">二合</note>
+<lb n="0112b12" ed="T"/>覽摩　尾覽摩<note place="inline">五十四</note>　莽<note place="inline">浮聲呼</note>賀徙陀<note place="inline">上</note>尾儞夜<note place="inline">二合</note>
+<lb n="0112b13" ed="T"/>馱囉<note place="inline">五十五</note>　皤羅　皤囉　莽賀皤囉<note place="inline">五十六</note>　麼攞　麼攞　莽
+<lb n="0112b14" ed="T"/>賀麼攞<note place="inline">五十七</note>　左囉　左囉　莽賀左囉<note place="inline">五十八</note>　訖哩<note place="inline">二合</note>
+<lb n="0112b15" ed="T"/>史拏<note place="inline">二合</note>物㗚<note place="inline">二合</note>拏儞㗚伽<note place="inline">五十九</note>　訖哩<note place="inline">二合</note>史
+<lb n="0112b16" ed="T"/>拏<note place="inline">二合</note>跛乞灑<note place="inline">二合</note>　怩茄<note place="inline">去</note>跢曩<note place="inline">浮聲呼</note><note place="inline">六十</note>　傒　跛娜
+<lb n="0112b17" ed="T"/>莽<note place="inline">二合</note>賀徙多<note place="inline">二合</note><note place="inline">六十一</note>　左羅　左羅　聹舍　左㘑濕嚩
+<lb n="0112b18" ed="T"/><note place="inline">二合</note>囉<note place="inline">六十二</note>　訖哩<note place="inline">二合</note>史拏<note place="inline">二合</note>薩囉跛　訖哩<note place="inline">二合</note>
+<lb n="0112b19" ed="T"/>嚲也爾諭<note place="inline">二合</note>跛尾多<note place="inline">六十三</note>　翳傒兮　莽<note place="inline">浮聲呼</note>賀嚩
+<lb n="0112b20" ed="T"/>囉賀母<note place="inline">浮聲呼</note>佉<note place="inline">六十四</note>　怛哩<note place="inline">二合</note>補囉娜賀寧濕嚩
+<lb n="0112b21" ed="T"/><note place="inline">二合</note>囉<note place="inline">六十五</note>　曩囉也拏　嚩𡀔跛<note place="inline">六十六</note>　嚩羅　末誐　阿
+<lb n="0112b22" ed="T"/><note place="inline">上</note>唎　傒　聹羅建姹　傒　麼賀迦<note place="inline">去</note>羅<note place="inline">六十七</note>　賀羅賀
+<lb n="0112b23" ed="T"/>羅<note place="inline">六十八</note>　尾沙<note place="inline">上</note>　怩爾跢　𡀔迦寫<note place="inline">六十九</note>　囉<note place="inline">去</note>誐尾沙
+<lb n="0112b24" ed="T"/><note place="inline">上</note>尾曩<note place="inline">引</note>捨曩<note place="inline">七十</note>　那味<note place="inline">二合</note>沙<note place="inline">上</note>尾沙<note place="inline">上</note>　尾曩
+<lb n="0112b25" ed="T"/>捨曩<note place="inline">七十一</note>　慕賀尾沙<note place="inline">上</note>　尾曩<note place="inline">引</note>捨曩<note place="inline">七十二</note>　戶嚕　戶
+<lb n="0112b26" ed="T"/>嚕　莽羅　戶嚕　賀㘑<note place="inline">七十三</note>　莽賀　跛那莽<note place="inline">二合</note>曩<note place="inline">引</note>婆
+<lb n="0112b27" ed="T"/><note place="inline">七十四</note>　薩囉　薩囉<note place="inline">七十五</note>　徙哩　徙哩<note place="inline">七十六</note>　蘇嚕　蘇嚕<note place="inline">七十
+<lb n="0112b28" ed="T"/>七</note>　母嚕　母嚕<note place="inline">七十八</note>　母地也<note place="inline">二合</note>　母地也<note place="inline">二合</note><note place="inline">七十九</note>　<g ref="#CB00155"/>
+<pb n="0112c" xml:id="T20.1061.0112c" ed="T"/>
+<lb n="0112c01" ed="T"/>大也<note place="inline">二合</note>　<g ref="#CB00155"/>大也<note place="inline">二合</note><note place="inline">八十</note>　弭帝<note place="inline">八十一</note>　儞囉建姹　翳
+<lb n="0112c02" ed="T"/>醯兮　摩莽思體<note place="inline">二合</note>多徙應<note place="inline">二合</note>賀　母佉<note place="inline">八十二</note>　賀
+<lb n="0112c03" ed="T"/>娑　賀娑<note place="inline">八十三</note>　悶左　悶左<note place="inline">八十四</note>　莽賀　吒<note place="inline">去</note>吒<note place="inline">上</note>賀珊
+<lb n="0112c04" ed="T"/><note place="inline">八十五</note>　翳　醯兮抱　莽賀悉陀<note place="inline">上</note>諭詣濕嚩<note place="inline">二合</note>羅<note place="inline">八十
+<lb n="0112c05" ed="T"/>六</note>　娑拏　娑拏　嚩<note place="inline">引</note>濟<note place="inline">八十七</note>　些大耶　些大耶　尾儞
+<lb n="0112c06" ed="T"/>延<note place="inline">二合</note><note place="inline">八十八</note>　徙莽囉　徙莽羅<note place="inline">八十九</note>　瞻　婆誐滿單　𡀔枳
+<lb n="0112c07" ed="T"/>多　尾𡀔枳單<note place="inline">九十</note>　𡀔計濕嚩<note place="inline">二合</note>㘓<note place="inline">去</note>　怛他<note place="inline">上</note>誐
+<lb n="0112c08" ed="T"/>單<note place="inline">九十一</note>　娜娜<note place="inline">引</note>醯　名娜哩捨<note place="inline">二合</note>曩<note place="inline">九十二</note>　迦莽寫
+<lb n="0112c09" ed="T"/>　那哩<note place="inline">二合</note>捨難<note place="inline">九十三</note>　跛囉<note place="inline">二合</note>紇邏<note place="inline">二合</note>娜耶
+<lb n="0112c10" ed="T"/>莽曩　莎賀<note place="inline">九十四</note>　悉馱也　莎賀<note place="inline">九十五</note>　莽賀悉馱也
+<lb n="0112c11" ed="T"/>　莎賀<note place="inline">九十六</note>　莽賀悉馱也　莎賀<note place="inline">九十七</note>　悉馱諭詣濕嚩
+<lb n="0112c12" ed="T"/><note place="inline">二合</note>邏耶　莎賀<note place="inline">九十八</note>　儞羅建姹耶　莎賀<note place="inline">九十九</note>　嚩囉
+<lb n="0112c13" ed="T"/><note place="inline">引</note>賀母佉<note place="inline">去</note>耶　莎賀<note place="inline">一百</note>　莽賀娜邏　徙應<note place="inline">二合</note>賀
+<lb n="0112c14" ed="T"/>母佉耶　莎賀<note place="inline">一百一</note>　悉馱尾儞夜<note place="inline">二合</note>達邏耶　莎賀
+<lb n="0112c15" ed="T"/><note place="inline">一百二</note>　跛娜莽<note place="inline">二合</note>賀薩跢<note place="inline">二合</note>耶　莎賀<note place="inline">一百三</note>　訖哩<note place="inline">二
+<lb n="0112c16" ed="T"/>合</note>史拏<note place="inline">二合</note>薩波訖哩<note place="inline">二合</note>𠆙也爾諭<note place="inline">二合</note>跛尾
+<lb n="0112c17" ed="T"/>跢耶　莎賀<note place="inline">一百四</note>　莽賀攞矩吒陀<note place="inline">上</note>邏<note place="inline">去</note>耶　莎賀<note place="inline">一百
+<lb n="0112c18" ed="T"/>五</note>　斫羯囉<note place="inline">去</note>庾馱耶　莎賀<note place="inline">一百六</note>　勝佉<note place="inline">去</note>攝那儞<g ref="#CB00155"/>
+<lb n="0112c19" ed="T"/>馱曩<note place="inline">去</note>耶　莎賀<note place="inline">一百七</note>　摩莽思建<note place="inline">二合</note>陀<note place="inline">上</note>味沙<note place="inline">上</note>
+<lb n="0112c20" ed="T"/>思體<note place="inline">二合</note>多訖哩<note place="inline">二合</note>史拏<note place="inline">二合</note>爾曩<note place="inline">去</note>耶　莎賀
+<lb n="0112c21" ed="T"/><note place="inline">一百<choice cb:resp="CBETA.maha"><corr>八</corr><sic>九</sic></choice></note>　弭夜<note place="inline">二合</note>佉囉<note place="inline">二合</note>折莽儞嚩娑曩<note place="inline">去</note>耶　莎
+<lb n="0112c22" ed="T"/>賀<choice cb:resp="CBETA.maha"><corr><note place="inline">一百九</note></corr><sic><space quantity="0"/></sic></choice>　𡀔計濕嚩<note place="inline">二合</note>羅<note place="inline">去</note>耶　莎賀<note place="inline">一百一十</note>　薩摩<note place="inline">上</note>　悉第
+<lb n="0112c23" ed="T"/>濕嚩<note place="inline">二合</note>羅耶　莎賀<note place="inline">一百一十一</note>　曩慕　婆誐嚩諦　阿<note place="inline">引</note>
+<lb n="0112c24" ed="T"/>哩夜<note place="inline">二合</note>嚩𡀔枳諦濕嚩<note place="inline">二合</note>囉<note place="inline">去</note>耶　<g ref="#CB00155"/>地薩怛
+<lb n="0112c25" ed="T"/>嚩<note place="inline">二合</note>耶　莽賀薩怛嚩<note place="inline">二合</note>耶　莽賀迦<note place="inline">去</note>嚕聹迦
+<lb n="0112c26" ed="T"/>耶<note place="inline">一百一十二</note>　悉殿<note place="inline">二合</note>覩　名　滿多羅<note place="inline">二合</note>跛娜耶　莎
+<lb n="0112c27" ed="T"/>賀<note place="inline">一百一十三</note></p>
+<lb n="0112c28" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>千手千眼觀自在菩薩廣大圓滿無礙大悲心
+<pb n="0113a" xml:id="T20.1061.0113a" ed="T"/>
+<lb n="0113a01" ed="T"/>陀羅尼呪一卷</cb:jhead></cb:juan></cb:div>
+<lb n="0113a02" ed="T"/><cb:div type="W"><p xml:lang="sa-Sidd" xml:id="pT20p0113a0201" cb:type="dharani"><note n="0113001" resp="Taisho" place="foot text" type="orig">此梵字真言依靈雲寺版普通真言藏載之</note><g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5FE"/><g ref="#SD-DA4B"/><g ref="#SD-AA5E"/><g ref="#SD-A5F2"/><g ref="#SD-A5F1"/><g ref="#SD-A5A9"/><g ref="#SD-A5F0"/><g ref="#SD-CFC6"/><g ref="#SD-DA48"/><g ref="#SD-A656"/><g ref="#SD-A652"/><g ref="#SD-A442"/>
+<lb n="0113a03" ed="T"/><g ref="#SD-A55D"/><g ref="#SD-E0AB"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/><g ref="#SD-A5D5"/><g ref="#SD-A57D"/><g ref="#SD-A67A"/><g ref="#SD-AF5A"/><g ref="#SD-A5F1"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A67A"/><g ref="#SD-AF5A"/><g ref="#SD-A5F1"/>
+<lb n="0113a04" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A441"/><g ref="#SD-A642"/><g ref="#SD-A54D"/><g ref="#SD-A441"/><g ref="#SD-A5F1"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5CD"/><g ref="#SD-CA7A"/><g ref="#SD-A5A9"/><g ref="#SD-DAA1"/><g ref="#SD-A56F"/>
+<lb n="0113a05" ed="T"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5D9"/><g ref="#SD-A656"/><g ref="#SD-A67A"/><g ref="#SD-E043"/><g ref="#SD-AAA2"/><g ref="#SD-E0BC"/><g ref="#SD-A6B4"/><g ref="#SD-A54B"/>
+<lb n="0113a06" ed="T"/><g ref="#SD-A440"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A8BE"/><g ref="#SD-A57D"/><g ref="#SD-AABC"/><g ref="#SD-A662"/><g ref="#SD-A5E5"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/>
+<lb n="0113a07" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-B7A9"/><g ref="#SD-A559"/><g ref="#SD-A7DB"/><g ref="#SD-A5D9"/><g ref="#SD-E04B"/><g ref="#SD-A656"/><g ref="#SD-A658"/><g ref="#SD-A5AA"/><g ref="#SD-A662"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/>
+<lb n="0113a08" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5D9"/><g ref="#SD-A5F7"/><g ref="#SD-A8DE"/><g ref="#SD-AA5E"/><g ref="#SD-A54B"/><g ref="#SD-A440"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/><g ref="#SD-A557"/><g ref="#SD-B2D3"/><g ref="#SD-A5A9"/><g ref="#SD-A5E5"/>
+<lb n="0113a09" ed="T"/><g ref="#SD-E0CE"/><g ref="#SD-AF5A"/><g ref="#SD-CFC7"/><g ref="#SD-A5A9"/><g ref="#SD-A5E6"/><g ref="#SD-B76A"/><g ref="#SD-A656"/><g ref="#SD-A652"/><g ref="#SD-A442"/><g ref="#SD-A55D"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-A5D9"/><g ref="#SD-A670"/>
+<lb n="0113a10" ed="T"/><g ref="#SD-A561"/><g ref="#SD-A5AB"/><g ref="#SD-A5FD"/><g ref="#SD-A44A"/><g ref="#SD-A4DA"/><g ref="#SD-A5DF"/><g ref="#SD-A5AA"/><g ref="#SD-A5E5"/><g ref="#SD-CC68"/><g ref="#SD-A56F"/><g ref="#SD-A5F1"/><g ref="#SD-A5E5"/><g ref="#SD-AB51"/><g ref="#SD-A557"/>
+<lb n="0113a11" ed="T"/><g ref="#SD-CFC7"/><g ref="#SD-E15F"/><g ref="#SD-A5E7"/><g ref="#SD-A67A"/><g ref="#SD-B7A4"/><g ref="#SD-A563"/><g ref="#SD-A67A"/><g ref="#SD-A57B"/><g ref="#SD-A44A"/><g ref="#SD-A666"/><g ref="#SD-A660"/><g ref="#SD-CFC5"/><g ref="#SD-A4B8"/><g ref="#SD-A5FB"/>
+<lb n="0113a12" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A5DE"/><g ref="#SD-A557"/><g ref="#SD-A5B3"/><g ref="#SD-A5D9"/><g ref="#SD-A656"/><g ref="#SD-A5E5"/><g ref="#SD-B5B1"/><g ref="#SD-A658"/><g ref="#SD-A666"/><g ref="#SD-D9F9"/><g ref="#SD-A44A"/><g ref="#SD-A557"/>
+<lb n="0113a13" ed="T"/><g ref="#SD-DA4A"/><g ref="#SD-A564"/><g ref="#SD-DA42"/><g ref="#SD-CFC6"/><g ref="#SD-A652"/><g ref="#SD-A446"/><g ref="#SD-CFC6"/><g ref="#SD-A652"/><g ref="#SD-A440"/><g ref="#SD-A5E5"/><g ref="#SD-A559"/><g ref="#SD-A652"/><g ref="#SD-A441"/><g ref="#SD-A559"/>
+<lb n="0113a14" ed="T"/><g ref="#SD-A951"/><g ref="#SD-A55D"/><g ref="#SD-A6AE"/><g ref="#SD-A6A8"/><g ref="#SD-A644"/><g ref="#SD-CFC6"/><g ref="#SD-B76A"/><g ref="#SD-A656"/><g ref="#SD-A652"/><g ref="#SD-A442"/><g ref="#SD-A55D"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-A5E5"/>
+<lb n="0113a15" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-A5D5"/><g ref="#SD-A57D"/><g ref="#SD-A67A"/><g ref="#SD-AF59"/><g ref="#SD-A6AE"/><g ref="#SD-A5D5"/><g ref="#SD-A57D"/><g ref="#SD-A67A"/><g ref="#SD-AF59"/><g ref="#SD-A6AE"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A65E"/>
+<lb n="0113a16" ed="T"/><g ref="#SD-A57D"/><g ref="#SD-A67A"/><g ref="#SD-AF59"/><g ref="#SD-A6AE"/><g ref="#SD-A658"/><g ref="#SD-B769"/><g ref="#SD-A5D5"/><g ref="#SD-A57D"/><g ref="#SD-A67A"/><g ref="#SD-AF59"/><g ref="#SD-A6AE"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A441"/>
+<lb n="0113a17" ed="T"/><g ref="#SD-A642"/><g ref="#SD-A54D"/><g ref="#SD-A441"/><g ref="#SD-B2CF"/><g ref="#SD-A5FD"/><g ref="#SD-CC68"/><g ref="#SD-A56F"/><g ref="#SD-A5FB"/><g ref="#SD-A6AA"/><g ref="#SD-A6AA"/><g ref="#SD-A6A8"/><g ref="#SD-A644"/><g ref="#SD-CFC6"/><g ref="#SD-DA48"/>
+<lb n="0113a18" ed="T"/><g ref="#SD-A656"/><g ref="#SD-A652"/><g ref="#SD-A442"/><g ref="#SD-A55D"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-A5E5"/><g ref="#SD-A6AE"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-A5B5"/><g ref="#SD-A5FD"/><g ref="#SD-A5E5"/><g ref="#SD-AA5E"/>
+<lb n="0113a19" ed="T"/><g ref="#SD-A47E"/><g ref="#SD-CF55"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A441"/><g ref="#SD-A642"/><g ref="#SD-A54D"/><g ref="#SD-A441"/><g ref="#SD-A444"/><g ref="#SD-A642"/><g ref="#SD-A444"/><g ref="#SD-A642"/><g ref="#SD-A440"/><g ref="#SD-B767"/>
+<lb n="0113a20" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-A57B"/><g ref="#SD-A5F1"/><g ref="#SD-A67A"/><g ref="#SD-A57B"/><g ref="#SD-A5F1"/><g ref="#SD-A658"/><g ref="#SD-E1E3"/><g ref="#SD-A54D"/><g ref="#SD-A6AE"/><g ref="#SD-A54D"/><g ref="#SD-A6AE"/><g ref="#SD-A557"/><g ref="#SD-A656"/>
+<lb n="0113a21" ed="T"/><g ref="#SD-A648"/><g ref="#SD-A440"/><g ref="#SD-A5EF"/><g ref="#SD-A458"/><g ref="#SD-A5E5"/><g ref="#SD-A658"/><g ref="#SD-A458"/><g ref="#SD-A5E5"/><g ref="#SD-A67C"/><g ref="#SD-D9F9"/><g ref="#SD-A5F5"/><g ref="#SD-A45E"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/>
+<lb n="0113a22" ed="T"/><g ref="#SD-E0C1"/><g ref="#SD-A642"/><g ref="#SD-E0C1"/><g ref="#SD-A642"/><g ref="#SD-A658"/><g ref="#SD-A5F1"/><g ref="#SD-CA58"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A658"/><g ref="#SD-A5F1"/><g ref="#SD-CA58"/><g ref="#SD-A57B"/><g ref="#SD-A5FD"/>
+<lb n="0113a23" ed="T"/><g ref="#SD-A57B"/><g ref="#SD-A5FD"/><g ref="#SD-A57B"/><g ref="#SD-A644"/><g ref="#SD-CFC7"/><g ref="#SD-E1C9"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-A47C"/><g ref="#SD-A64A"/><g ref="#SD-A47C"/><g ref="#SD-A64A"/><g ref="#SD-A658"/><g ref="#SD-A5E5"/>
+<lb n="0113a24" ed="T"/><g ref="#SD-A64A"/><g ref="#SD-A5E5"/><g ref="#SD-A5FD"/><g ref="#SD-CFC6"/><g ref="#SD-B76A"/><g ref="#SD-A656"/><g ref="#SD-A652"/><g ref="#SD-A442"/><g ref="#SD-A55D"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-A4B8"/><g ref="#SD-A5A9"/><g ref="#SD-CBA7"/>
+<lb n="0113a25" ed="T"/><g ref="#SD-E244"/><g ref="#SD-A4B6"/><g ref="#SD-A4DB"/><g ref="#SD-A5E5"/><g ref="#SD-A444"/><g ref="#SD-A4DA"/><g ref="#SD-A656"/><g ref="#SD-A648"/><g ref="#SD-A5E5"/><g ref="#SD-AABC"/><g ref="#SD-A648"/><g ref="#SD-A5E5"/><g ref="#SD-A658"/><g ref="#SD-A648"/>
+<lb n="0113a26" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A67C"/><g ref="#SD-D9F9"/><g ref="#SD-A658"/><g ref="#SD-A7EF"/><g ref="#SD-A57B"/><g ref="#SD-A5FD"/><g ref="#SD-A656"/><g ref="#SD-A5FD"/><g ref="#SD-A656"/><g ref="#SD-A5FD"/><g ref="#SD-A5E5"/>
+<lb n="0113a27" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-A656"/><g ref="#SD-A5FD"/><g ref="#SD-A5CD"/><g ref="#SD-A64A"/><g ref="#SD-A5CD"/><g ref="#SD-A64A"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A5CD"/><g ref="#SD-A64A"/><g ref="#SD-A47C"/><g ref="#SD-A5FD"/><g ref="#SD-A47C"/>
+<lb n="0113a28" ed="T"/><g ref="#SD-A5FD"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A47C"/><g ref="#SD-A5FD"/><g ref="#SD-CBA7"/><g ref="#SD-E244"/><g ref="#SD-CC58"/><g ref="#SD-A54B"/><g ref="#SD-A572"/><g ref="#SD-E2E9"/><g ref="#SD-CBA7"/><g ref="#SD-E244"/><g ref="#SD-A5B5"/>
+<lb n="0113a29" ed="T"/><g ref="#SD-A6B4"/><g ref="#SD-A572"/><g ref="#SD-E2E9"/><g ref="#SD-A557"/><g ref="#SD-A5A9"/><g ref="#SD-A6AE"/><g ref="#SD-A5B5"/><g ref="#SD-DAAF"/><g ref="#SD-A6A8"/><g ref="#SD-CDAB"/><g ref="#SD-A47C"/><g ref="#SD-A5FD"/><g ref="#SD-A47C"/><g ref="#SD-A5FD"/>
+<pb n="0113b" xml:id="T20.1061.0113b" ed="T"/>
+<lb n="0113b01" ed="T"/><g ref="#SD-A571"/><g ref="#SD-A662"/><g ref="#SD-A47C"/><g ref="#SD-A650"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-CBA7"/><g ref="#SD-E244"/><g ref="#SD-A67A"/><g ref="#SD-A5FD"/><g ref="#SD-A5B5"/><g ref="#SD-CBA7"/><g ref="#SD-A557"/><g ref="#SD-A5F1"/>
+<lb n="0113b02" ed="T"/><g ref="#SD-A75D"/><g ref="#SD-A5B5"/><g ref="#SD-A658"/><g ref="#SD-A557"/><g ref="#SD-CFCF"/><g ref="#SD-E0AF"/><g ref="#SD-A6AE"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A656"/><g ref="#SD-A5FD"/><g ref="#SD-A6A8"/><g ref="#SD-E043"/><g ref="#SD-A44C"/>
+<lb n="0113b03" ed="T"/><g ref="#SD-AA60"/><g ref="#SD-E042"/><g ref="#SD-A5FD"/><g ref="#SD-A56F"/><g ref="#SD-A6A8"/><g ref="#SD-A5AF"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-A5A9"/><g ref="#SD-A5FD"/><g ref="#SD-A5F1"/><g ref="#SD-A54B"/><g ref="#SD-A656"/><g ref="#SD-A642"/>
+<lb n="0113b04" ed="T"/><g ref="#SD-A5B5"/><g ref="#SD-A656"/><g ref="#SD-A5FD"/><g ref="#SD-A5E5"/><g ref="#SD-B5B1"/><g ref="#SD-CFC5"/><g ref="#SD-A640"/><g ref="#SD-A6AE"/><g ref="#SD-A5AB"/><g ref="#SD-A5FD"/><g ref="#SD-A44A"/><g ref="#SD-A4DA"/><g ref="#SD-A6AE"/><g ref="#SD-A5E5"/>
+<lb n="0113b05" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-A441"/><g ref="#SD-A5FD"/><g ref="#SD-A6A8"/><g ref="#SD-A5FD"/><g ref="#SD-A6A8"/><g ref="#SD-A5FD"/><g ref="#SD-A658"/><g ref="#SD-A66E"/><g ref="#SD-A5AB"/><g ref="#SD-B5EF"/><g ref="#SD-A557"/><g ref="#SD-A652"/><g ref="#SD-A440"/>
+<lb n="0113b06" ed="T"/><g ref="#SD-A8E2"/><g ref="#SD-A5FE"/><g ref="#SD-A458"/><g ref="#SD-A658"/><g ref="#SD-A66E"/><g ref="#SD-A658"/><g ref="#SD-A5AA"/><g ref="#SD-A662"/><g ref="#SD-A5A9"/><g ref="#SD-AF73"/><g ref="#SD-A66E"/><g ref="#SD-A658"/><g ref="#SD-A66E"/><g ref="#SD-A658"/>
+<lb n="0113b07" ed="T"/><g ref="#SD-A5AA"/><g ref="#SD-A662"/><g ref="#SD-A5A9"/><g ref="#SD-E043"/><g ref="#SD-A6A8"/><g ref="#SD-A658"/><g ref="#SD-A66E"/><g ref="#SD-A658"/><g ref="#SD-A5AA"/><g ref="#SD-A662"/><g ref="#SD-A5A9"/><g ref="#SD-E0AA"/><g ref="#SD-A64E"/><g ref="#SD-E0AA"/>
+<lb n="0113b08" ed="T"/><g ref="#SD-A64E"/><g ref="#SD-A5E5"/><g ref="#SD-A5FD"/><g ref="#SD-E0AA"/><g ref="#SD-A64E"/><g ref="#SD-A6A8"/><g ref="#SD-A650"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A5B5"/><g ref="#SD-DAAF"/><g ref="#SD-A5AA"/><g ref="#SD-A5D9"/><g ref="#SD-A67A"/>
+<lb n="0113b09" ed="T"/><g ref="#SD-A5FD"/><g ref="#SD-A67A"/><g ref="#SD-A5FD"/><g ref="#SD-A67C"/><g ref="#SD-A640"/><g ref="#SD-A67C"/><g ref="#SD-A640"/><g ref="#SD-E0BC"/><g ref="#SD-A642"/><g ref="#SD-E0BC"/><g ref="#SD-A642"/><g ref="#SD-E043"/><g ref="#SD-A642"/><g ref="#SD-E043"/>
+<lb n="0113b10" ed="T"/><g ref="#SD-A642"/><g ref="#SD-A5D1"/><g ref="#SD-E059"/><g ref="#SD-A5D1"/><g ref="#SD-E059"/><g ref="#SD-A5D5"/><g ref="#SD-D9F9"/><g ref="#SD-A5F1"/><g ref="#SD-A5D5"/><g ref="#SD-D9F9"/><g ref="#SD-A5F1"/><g ref="#SD-A5EC"/><g ref="#SD-A55D"/><g ref="#SD-A5AB"/>
+<lb n="0113b11" ed="T"/><g ref="#SD-A5FD"/><g ref="#SD-A44A"/><g ref="#SD-A4DA"/><g ref="#SD-CFCF"/><g ref="#SD-E0AF"/><g ref="#SD-A6AE"/><g ref="#SD-A5E5"/><g ref="#SD-A5E5"/><g ref="#SD-CDB7"/><g ref="#SD-A557"/><g ref="#SD-E160"/><g ref="#SD-A6A8"/><g ref="#SD-E043"/><g ref="#SD-A44C"/>
+<lb n="0113b12" ed="T"/><g ref="#SD-A6A8"/><g ref="#SD-A67A"/><g ref="#SD-A6A8"/><g ref="#SD-A67A"/><g ref="#SD-E1BF"/><g ref="#SD-A47C"/><g ref="#SD-E1BF"/><g ref="#SD-A47C"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A4DB"/><g ref="#SD-A4DA"/><g ref="#SD-A6A8"/><g ref="#SD-A6A6"/>
+<lb n="0113b13" ed="T"/><g ref="#SD-CFCF"/><g ref="#SD-E0AF"/><g ref="#SD-A6AE"/><g ref="#SD-A5BF"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A67C"/><g ref="#SD-D9F9"/><g ref="#SD-A5F5"/><g ref="#SD-A45E"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-A67A"/><g ref="#SD-A54B"/>
+<lb n="0113b14" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-A54B"/><g ref="#SD-A657"/><g ref="#SD-A4A4"/><g ref="#SD-A67A"/><g ref="#SD-A57B"/><g ref="#SD-A5F1"/><g ref="#SD-A67A"/><g ref="#SD-A57B"/><g ref="#SD-A5F1"/><g ref="#SD-A658"/><g ref="#SD-E1E3"/><g ref="#SD-B2CF"/><g ref="#SD-A5FD"/>
+<lb n="0113b15" ed="T"/><g ref="#SD-B2CE"/><g ref="#SD-A5FD"/><g ref="#SD-A66C"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A660"/><g ref="#SD-A561"/><g ref="#SD-A652"/><g ref="#SD-A442"/><g ref="#SD-A557"/><g ref="#SD-A658"/><g ref="#SD-A652"/><g ref="#SD-A442"/><g ref="#SD-A561"/>
+<lb n="0113b16" ed="T"/><g ref="#SD-A652"/><g ref="#SD-A446"/><g ref="#SD-E0AB"/><g ref="#SD-A648"/><g ref="#SD-A557"/><g ref="#SD-A564"/><g ref="#SD-A458"/><g ref="#SD-A561"/><g ref="#SD-A56F"/><g ref="#SD-A570"/><g ref="#SD-A6AE"/><g ref="#SD-A5EB"/><g ref="#SD-A56F"/><g ref="#SD-E2E7"/>
+<lb n="0113b17" ed="T"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-A5E5"/><g ref="#SD-A8E2"/><g ref="#SD-A56F"/><g ref="#SD-E2E7"/><g ref="#SD-A5B3"/><g ref="#SD-AABC"/><g ref="#SD-A947"/><g ref="#SD-A56F"/><g ref="#SD-A5F1"/><g ref="#SD-A5E5"/><g ref="#SD-A5A9"/><g ref="#SD-B065"/>
+<lb n="0113b18" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-A67C"/><g ref="#SD-D9FA"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A67C"/><g ref="#SD-D9FA"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A67C"/>
+<lb n="0113b19" ed="T"/><g ref="#SD-D9FA"/><g ref="#SD-A5F9"/><g ref="#SD-A45E"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A5AB"/><g ref="#SD-A5FD"/><g ref="#SD-A44A"/><g ref="#SD-A4DA"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/>
+<lb n="0113b20" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-A656"/><g ref="#SD-A5FE"/><g ref="#SD-A6A8"/><g ref="#SD-E043"/><g ref="#SD-A44D"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A56F"/><g ref="#SD-A5FD"/><g ref="#SD-E160"/>
+<lb n="0113b21" ed="T"/><g ref="#SD-A6A8"/><g ref="#SD-E043"/><g ref="#SD-A44C"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A67C"/><g ref="#SD-D9F9"/><g ref="#SD-A658"/><g ref="#SD-E059"/><g ref="#SD-A57B"/><g ref="#SD-A5FD"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/>
+<lb n="0113b22" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-A5B5"/><g ref="#SD-DAAF"/><g ref="#SD-A6A8"/><g ref="#SD-CDA9"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><choice cb:resp="CBETA.say"><corr><space quantity="0"/><note type="cf1">T20n1061_p0112c15</note></corr><sic><g ref="#SD-A6A9"/></sic></choice><g ref="#SD-CBA7"/><g ref="#SD-E244"/><g ref="#SD-A67A"/><g ref="#SD-B6EC"/><g ref="#SD-CBA7"/>
+<lb n="0113b23" ed="T"/><g ref="#SD-A7FB"/><g ref="#SD-A5F1"/><g ref="#SD-A75D"/><g ref="#SD-A5B5"/><g ref="#SD-A658"/><g ref="#SD-A557"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A64A"/><g ref="#SD-A444"/><g ref="#SD-A4DA"/>
+<lb n="0113b24" ed="T"/><g ref="#SD-A57B"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A47C"/><g ref="#SD-A947"/><g ref="#SD-A5F5"/><g ref="#SD-A57B"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A662"/><g ref="#SD-C96F"/>
+<lb n="0113b25" ed="T"/><g ref="#SD-A662"/><g ref="#SD-E4BA"/><g ref="#SD-A5AB"/><g ref="#SD-A5D5"/><g ref="#SD-D9F9"/><g ref="#SD-A5AA"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A5E5"/><g ref="#SD-A5E5"/><g ref="#SD-CC70"/><g ref="#SD-CA6E"/><g ref="#SD-A658"/>
+<lb n="0113b26" ed="T"/><g ref="#SD-A66E"/><g ref="#SD-CDB7"/><g ref="#SD-A557"/><g ref="#SD-CBA7"/><g ref="#SD-E244"/><g ref="#SD-A4B8"/><g ref="#SD-A5AA"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A8BF"/><g ref="#SD-A96B"/><g ref="#SD-A47C"/><g ref="#SD-A5E5"/>
+<lb n="0113b27" ed="T"/><g ref="#SD-A5AB"/><g ref="#SD-A656"/><g ref="#SD-A67A"/><g ref="#SD-A5AA"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A652"/><g ref="#SD-A446"/><g ref="#SD-E0AB"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/>
+<lb n="0113b28" ed="T"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A67C"/><g ref="#SD-D9FC"/><g ref="#SD-E0AB"/><g ref="#SD-A5FD"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5D9"/><g ref="#SD-A458"/><g ref="#SD-A656"/>
+<lb n="0113b29" ed="T"/><g ref="#SD-A55D"/><g ref="#SD-CFC6"/><g ref="#SD-B76A"/><g ref="#SD-A656"/><g ref="#SD-A652"/><g ref="#SD-A442"/><g ref="#SD-A55D"/><g ref="#SD-E0AB"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/><g ref="#SD-A5D5"/><g ref="#SD-A57D"/><g ref="#SD-A67A"/><g ref="#SD-AF5A"/>
+<pb n="0113c" xml:id="T20.1061.0113c" ed="T"/>
+<lb n="0113c01" ed="T"/><g ref="#SD-A5F1"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A67A"/><g ref="#SD-AF5A"/><g ref="#SD-A5F1"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A441"/><choice cb:resp="CBETA.say"><corr><g ref="#SD-A642"/><note type="cf1">T20n1061_p0113a19</note><note type="cf2">T20n1061_p0113a04</note></corr><sic><g ref="#SD-A646"/></sic></choice><g ref="#SD-A54D"/><g ref="#SD-A441"/><g ref="#SD-A5F1"/><g ref="#SD-A67C"/>
+<lb n="0113c02" ed="T"/><g ref="#SD-E059"/><g ref="#SD-E148"/><g ref="#SD-A5EB"/><g ref="#SD-A656"/><g ref="#SD-E0F5"/><g ref="#SD-A5B5"/><g ref="#SD-A570"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/></p></cb:div>
+</body></text></TEI>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T17n0846">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0846 外道問聖大乘法無我義經</title>
+			<author>宋 法天譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.13 $<date>$Date: 2012/09/28 08:51:56 $</date>新式標點版</edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/09/28 08:51:56 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 17, No. 846 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as inputted by Mr. Yan Hsue-Hsin, Text as provided by Anonymous, USA, Punctuated text as provided by Ms. Huang Jin-Ai</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，閻學新大德輸入，北美某大德提供，黃金愛大德提供新式標點</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="1999-10-12T10:16:44">CW (ed.) Created initial TEI XML version with BASICX.BAT (99/10/12)</change>
+<!--
+$Log: T17n0846.xml,v $
+Revision 1.13  2012/09/28 08:51:56  eva
+新式標點版 上傳
+
+Revision 1.12  2009/04/23 07:59:27  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.11  2006/04/12 21:55:22  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.9  2004/11/14 03:17:19  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.8  2004/10/12 16:02:56  saywhat
+段落前加入圈點
+
+Revision 1.7  2004/09/11 10:18:53  saywhat
+修訂 juan close
+
+Revision 1.6  2004/09/11 10:12:46  saywhat
+刪除空的 juan close
+
+Revision 1.5  2004/05/11 14:39:04  saywhat
+修訂經號的<head> → <head type="no">
+
+Revision 1.4  2004/04/20 08:38:30  maha
+「版本日期」標記修訂
+
+Revision 1.3  2004/01/02 05:53:38  maha
+<note mod>裡的corr2app
+
+Revision 1.2  2003/06/26 02:49:43  saywhat
+<corr>→<app>
+
+Revision 1.1.1.1  2003/05/05 04:09:05  ray
+recover cvs
+
+Revision 1.15  2002/12/05 06:38:03  saywhat
+校勘插入處理
+
+Revision 1.14  2002/11/04 10:43:50  ray
+tei.2 => TEI.2
+
+Revision 1.13  2002/07/29 09:55:37  vinking
+modified lang
+
+Revision 1.12  2002/04/04 09:05:01  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.11  2001/07/27 07:12:22  ray
+去除多餘的 <author>
+
+Revision 1.10  2001/07/24 06:52:08  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.9  2001/05/25 08:57:30  ray
+經號統一為四碼
+
+Revision 1.8  2001/03/30 05:47:16  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.7  2001/03/25 09:07:26  ray
+add <milestone>
+
+Revision 1.6  2001/02/07 06:52:52  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.5  2001/02/03 07:42:31  chris
+Added keywords $Revision: 1.13 $, $Date: 2012/09/28 08:51:56 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0934a13" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0934a14" ed="T"/>
+<lb n="0934a15" ed="T"/><cb:docNumber>No. 846</cb:docNumber>
+<lb n="0934a16" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><title>外道問聖大乘法無我義經</title></cb:jhead></cb:juan>
+<lb n="0934a17" ed="T"/>
+<lb n="0934a18" ed="T"/><byline cb:type="Translator"><note n="0934001" resp="Taisho" type="orig" place="foot text">（宋）＋西【明】，（（西天…譯））二十四字＝（（三藏傳教大師臣法天奉詔譯））十二字【宮】</note><note n="0934001" resp="CBETA" type="mod">（宋）＋西【明】，（西天譯經三藏朝散大夫試鴻臚少卿傳教大師臣法天奉詔譯）二十<choice cb:resp="CBETA.say"><corr>五</corr><sic>四</sic></choice>字＝（三藏傳教大師臣法天奉詔譯）十二字【宮】</note><app n="0934001"><lem wit="【大】">西天<note n="0934002" resp="Taisho" type="orig" place="foot text">〔譯經〕－【明】</note><app n="0934002"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>三藏朝散大夫
+<lb n="0934a19" ed="T"/>試鴻臚少卿傳教大師<note n="0934003" resp="Taisho" type="orig" place="foot text">〔臣〕－【明】</note><app n="0934003"><lem wit="【大】">臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>
+<lb n="0934a20" ed="T"/>法天奉　詔譯</lem><rdg resp="Taisho" wit="【宮】">三藏傳教大師臣法天奉詔譯</rdg><rdg resp="Taisho" wit="【明】">宋西天譯經三藏朝散大夫試鴻臚少卿傳教大師臣法天奉詔譯</rdg></app></byline>
+<lb n="0934a21" ed="T"/><cb:div type="jing"><p xml:id="pT17p0934a2101">如是我聞：</p><p xml:id="pT17p0934a2105" rend="inline">一時佛在大眾中，爾時外道有疑
+<lb n="0934a22" ed="T"/>欲決，迷大乘行，來至佛所稽首恭重，合十指
+<lb n="0934a23" ed="T"/>掌問無我義：「大丈夫是一切智，常說此身無
+<lb n="0934a24" ed="T"/>我。若身無我，本性亦無，云何說有哀啼、戲笑、
+<lb n="0934a25" ed="T"/>憎愛、兩舌等事？當何所生？是我所疑。願賜除
+<lb n="0934a26" ed="T"/><note n="0934004" resp="Taisho" type="orig" place="foot text">〔斷〕－【宋】【元】</note><app n="0934004"><lem wit="【大】">斷</lem><rdg resp="Taisho" wit="【宋】【元】"><space quantity="0"/></rdg></app>。</p>
+<lb n="0934a27" ed="T"/><p xml:id="pT17p0934a2701">「如來所言身與本性，有無云何？」</p><p xml:id="pT17p0934a2713" rend="inline">佛言：「外道！諦
+<lb n="0934a28" ed="T"/>聽諦受，當為汝說。」</p>
+<lb n="0934a29" ed="T"/><p xml:id="pT17p0934a2901">佛言：「身與本性，體本空故，說或有或無，斯成
+<pb n="0934b" ed="T" xml:id="T17.0846.0934b"/>
+<lb n="0934b01" ed="T"/>二法；言是有者，斯更虛妄。」</p><p xml:id="pT17p0934b0111" rend="inline">佛言：「<note n="0934005" resp="Taisho" type="orig" place="foot text">當觀＝觀當【宋】</note><app n="0934005"><lem wit="【大】">當觀</lem><rdg resp="Taisho" wit="【宋】">觀當</rdg></app>全身，
+<lb n="0934b02" ed="T"/>髮甲皮毛、兩手雙足，至於脂、筋、脾、腸、骨髓等
+<lb n="0934b03" ed="T"/>事，周遍內外，不見本性。」</p><p xml:id="pT17p0934b0310" rend="inline">外道言：「大丈夫！若彼
+<lb n="0934b04" ed="T"/>不見本性，以我肉眼云何能見？或以天眼而
+<lb n="0934b05" ed="T"/>能見乎？」</p><p xml:id="pT17p0934b0504" rend="inline">佛言：「天眼見彼，無色、無相、無住，此見
+<lb n="0934b06" ed="T"/>非見。」</p><p xml:id="pT17p0934b0603" rend="inline">外道言：「若如是說，大聖妄語。若彼非
+<lb n="0934b07" ed="T"/>者，云何現見有此啼笑、嬉戲、瞋怒、憎愛、兩舌
+<lb n="0934b08" ed="T"/>等事？以如是故，何得說無？又說或有或無，斯
+<lb n="0934b09" ed="T"/>成二義？」又言：「大丈夫！若彼有無不得說者，云
+<lb n="0934b10" ed="T"/>何說言：『彼有所著，彼無所著？』」又言：「空者當何
+<lb n="0934b11" ed="T"/>所如？」</p><p xml:id="pT17p0934b1103" rend="inline">佛言：「如是如是。空非所如，體不可得
+<lb n="0934b12" ed="T"/>故。」</p><p xml:id="pT17p0934b1202" rend="inline">外道言：「若此者，笑哭、嬉戲、瞋<note n="0934006" resp="Taisho" type="orig" place="foot text">怒＝恕【宋】</note><app n="0934006"><lem wit="【大】">怒</lem><rdg resp="Taisho" wit="【宋】">恕</rdg></app>、憎愛、兩舌
+<lb n="0934b13" ed="T"/>等事，當何所見？」</p><p xml:id="pT17p0934b1307" rend="inline">佛言：「如夢、如幻、如化、如影像
+<lb n="0934b14" ed="T"/>相。」</p><p xml:id="pT17p0934b1402" rend="inline">外道言：「云何夢相？云何幻化相？云何影像
+<lb n="0934b15" ed="T"/>相？」</p><p xml:id="pT17p0934b1502" rend="inline">佛言：「幻化非相，空非執持，夢本體空。如
+<lb n="0934b16" ed="T"/>陽焰故，影像無色，虛假不實。如是所見乃至
+<lb n="0934b17" ed="T"/>一切事，皆如幻如化、如夢如影，當如是見。</p>
+<lb n="0934b18" ed="T"/><p xml:id="pT17p0934b1801">「復次有二種見，莊嚴真如。彼莊嚴者，此即名
+<lb n="0934b19" ed="T"/>我，此即名他。是名人、補特伽羅，名人世間思
+<lb n="0934b20" ed="T"/>惟。至於資財、男女、兄弟、妻妾等名，心所思惟
+<lb n="0934b21" ed="T"/>莊嚴。彼如是法，無自無他、無人無命、無補特
+<lb n="0934b22" ed="T"/>伽羅、無有情、無世間、無見者、無資財、無男
+<lb n="0934b23" ed="T"/>女、無朋友、無妻妾等。彼一切事不見自性，云
+<lb n="0934b24" ed="T"/>何彼出世間，莊嚴果報，善惡生滅？彼真如莊
+<lb n="0934b25" ed="T"/>嚴果報，無善無惡，不生不滅，無煩惱、無快樂，
+<lb n="0934b26" ed="T"/>而彼諸法各各如是！</p><p xml:id="pT17p0934b2609" rend="inline">「又彼世間及出世間二
+<lb n="0934b27" ed="T"/>種莊嚴，令諸有情因莊嚴故，而生煩惱處於
+<lb n="0934b28" ed="T"/>輪迴，久久展轉不知真如。彼知<note n="0934007" resp="Taisho" type="orig" place="foot text">法＝泫【宋】</note><app n="0934007"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宋】">泫</rdg></app>者思惟莊
+<lb n="0934b29" ed="T"/>嚴，疑此苦受，彼苦受惡遠離解脫而不見道，
+<pb n="0934c" ed="T" xml:id="T17.0846.0934c"/>
+<lb n="0934c01" ed="T"/>愚癡有情以迷執故，輪轉生死墮於惡趣，行
+<lb n="0934c02" ed="T"/>世間法不見真如盡彼輪迴，<note n="0934008" resp="Taisho" type="orig" place="foot text">由＝猶【元】【明】</note><app n="0934008"><lem wit="【大】">由</lem><rdg resp="Taisho" wit="【元】【明】">猶</rdg></app>如織網用線
+<lb n="0934c03" ed="T"/>展轉復去復來。</p><p xml:id="pT17p0934c0307" rend="inline">「又如日月二種行往，晝夜隱
+<lb n="0934c04" ed="T"/>顯出沒世間，諸行無常不久破壞，輪轉生死
+<lb n="0934c05" ed="T"/>來往亦然，而真如體離莊嚴句。</p><p xml:id="pT17p0934c0513" rend="inline">「又彼天人、乾
+<lb n="0934c06" ed="T"/>闥婆等及彼女等，住<note n="0934009" resp="Taisho" type="orig" place="foot text">於＝彼【明】</note><app n="0934009"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【明】">彼</rdg></app>天上，<note n="0934010" resp="Taisho" type="orig" place="foot text">以＝次【三】</note><note n="0934010" resp="CBETA" type="mod">以＝次【宋】【元】【明】</note><app n="0934010"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】">次</rdg></app>彼莊嚴果
+<lb n="0934c07" ed="T"/>報，墮一切有；復有持明成就夜叉、緊那羅、摩
+<lb n="0934c08" ed="T"/>睺羅<note n="0934011" resp="Taisho" type="orig" place="foot text">伽＝加【明】</note><app n="0934011"><lem wit="【大】">伽</lem><rdg resp="Taisho" wit="【明】">加</rdg></app>，彼以一切莊嚴果報，復墮地獄惡精
+<lb n="0934c09" ed="T"/>進天，以彼神通而作功德，以彼一切莊嚴果
+<lb n="0934c10" ed="T"/>報，或墮彼天。</p><p xml:id="pT17p0934c1006" rend="inline">「又若帝釋及轉輪王，具最上德
+<lb n="0934c11" ed="T"/>及最上句，以彼一切莊嚴果報復生。傍生智
+<lb n="0934c12" ed="T"/>者於一切時，宜應遠離天上最上大樂，恒觀
+<lb n="0934c13" ed="T"/>菩提之心，靈明廓<note n="0934012" resp="Taisho" type="orig" place="foot text">澈＝徹【元】【明】</note><app n="0934012"><lem wit="【大】">澈</lem><rdg resp="Taisho" wit="【元】【明】">徹</rdg></app>，無自性、無罣礙亦無
+<lb n="0934c14" ed="T"/>所住，一切皆空，亦復遠離一切戲論。</p><p xml:id="pT17p0934c1415" rend="inline">「外道！菩
+<lb n="0934c15" ed="T"/>提心相，不硬不軟、不熱不冷、無觸無執；又菩
+<lb n="0934c16" ed="T"/>提心相，非長非短，不圓不方、不肥不瘦；又菩
+<lb n="0934c17" ed="T"/>提心相，不白不黑、不赤不黃，非色非相。彼菩
+<lb n="0934c18" ed="T"/>提心，不作相非顯耀，無性無纏縛，由如虛空
+<lb n="0934c19" ed="T"/>而無色故，菩提心相而離觀察。外道！而汝不
+<lb n="0934c20" ed="T"/>知菩提心相與般若波羅蜜多而相應故；又
+<lb n="0934c21" ed="T"/>菩提心相，自性清淨，無物無喻，不可覩視，是
+<lb n="0934c22" ed="T"/>最上句；又菩提心相，非諸物像，無相似者，如
+<lb n="0934c23" ed="T"/>水成漚，雖覩非有，如幻化如陽焰喻，如泥團
+<lb n="0934c24" ed="T"/>作諸坯器，眾名雖具咸成戲論。貪瞋癡等亦
+<lb n="0934c25" ed="T"/>幻化有，一味空故，如電之住剎那不見。觀彼
+<lb n="0934c26" ed="T"/>般若波羅蜜多，及作諸善，亦復如是！至於談
+<lb n="0934c27" ed="T"/>笑嬉戲，歌舞歡樂，飲食愛欲，一切如夢。有情
+<lb n="0934c28" ed="T"/>諸行畢竟體空，心喻虛空，疑當何立行般若
+<lb n="0934c29" ed="T"/>行？恒若此觀了一切性，自然解脫，得最上句。
+<pb n="0935a" ed="T" xml:id="T17.0846.0935a"/>
+<lb n="0935a01" ed="T"/>諸佛所說，無上菩提由斯生出，當作是觀。作
+<lb n="0935a02" ed="T"/>此觀者得最上涅槃，乃至往昔造作諸過，咸
+<lb n="0935a03" ed="T"/>悉除<note n="0935001" resp="Taisho" type="orig" place="foot text">滅＝減【明】</note><app n="0935001"><lem wit="【大】">滅</lem><rdg resp="Taisho" wit="【明】">減</rdg></app>生無量德，而於此生不染諸過，專精
+<lb n="0935a04" ed="T"/>觀行決定成就。若與真如不相應者，應念非
+<lb n="0935a05" ed="T"/>真如呪及金剛鈴真如無生印，而起真如相
+<lb n="0935a06" ed="T"/>應之行，決定圓滿如上功德。」</p>
+<lb n="0935a07" ed="T"/><p xml:id="pT17p0935a0701">爾時外道聞是語已審諦觀<choice><corr>察</corr><sic>際</sic></choice>，而彼疑<note n="0935002" resp="Taisho" type="orig" place="foot text">綱＝網【三】【宮】</note><note n="0935002" resp="CBETA" type="mod">綱＝網【宋】【元】【明】【宮】</note><app n="0935002"><lem wit="【大】">綱</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">網</rdg></app>皆
+<lb n="0935a08" ed="T"/>悉除斷，作是觀已獲住大乘，瞻奉歡喜，作禮
+<lb n="0935a09" ed="T"/>而退。</p></cb:div>
+<lb n="0935a10" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>外道問聖<note n="0935003" resp="Taisho" type="orig" place="foot text">大乘＋（法）【明】</note><app n="0935003"><lem wit="【大】">大乘</lem><rdg resp="Taisho" wit="【明】">大乘法</rdg></app>無我義經</title></cb:jhead></cb:juan>
+</body></text></TEI>

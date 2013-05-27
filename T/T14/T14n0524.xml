@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T14n0524">
+<teiHeader>
+        <fileDesc>
+                <titleStmt>
+                        <title>Taisho Tripitaka, Electronic version, No. 0524 佛為優填王說王法政論經</title>
+                        <author>唐 不空譯</author>
+                        <respStmt>
+                                <resp>Electronic Version by</resp>
+                                <name>CBETA</name>
+                        </respStmt>
+                </titleStmt>
+        <editionStmt>
+                <edition>$Revision: 1.13 $<date>$Date: 2012/08/27 03:14:53 $</date>新式標點版</edition>
+        </editionStmt>
+        <extent>1卷</extent>
+        <publicationStmt>
+                <distributor>
+                        <name>中華電子佛典協會 (CBETA)</name>
+                        <address>
+                                <addrLine>service@cbeta.org</addrLine>
+                        </address>
+                </distributor>
+                <availability>
+                        <p>Available for non-commercial use when distributed with this header intact.</p>
+                </availability>
+                <date>$Date: 2012/08/27 03:14:53 $</date>
+        </publicationStmt>
+        <sourceDesc>
+                <bibl>Taisho Tripitaka Vol. 14, No. 524 </bibl>
+        </sourceDesc>
+</fileDesc>
+<encodingDesc>
+        <projectDesc>
+                <p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by Anonymous, USA, Punctuated text as provided by San Bao Di Zi</p>
+                <p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，北美某大德提供，三寶弟子提供新式標點</p>
+        </projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+        <change when="1999-10-12T08:43:15">CW (ed.) Created initial TEI XML version with BASICX.BAT (99/10/12)</change>
+<!--
+$Log: T14n0524.xml,v $
+Revision 1.13  2012/08/27 03:14:53  maha
+修訂新標小圓點及著重號
+
+Revision 1.12  2009/04/23 07:58:36  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.11  2007/12/09 14:15:44  saywhat
+新式標點版
+
+Revision 1.10  2007/12/06 04:29:07  saywhat
+TK比對修訂：p0797c18[為>],p0799b08[可>何],p0799b27[貪>食]
+
+Revision 1.9  2006/04/12 21:54:53  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.7  2004/11/14 03:17:14  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.6  2004/10/13 03:39:26  saywhat
+段落前加入圈點
+
+Revision 1.5  2004/09/14 01:12:03  saywhat
+<trailer> => <juan fun="close"><jhead>
+
+Revision 1.4  2004/04/20 08:38:05  maha
+「版本日期」標記修訂
+
+Revision 1.3  2004/01/02 05:53:28  maha
+<note mod>裡的corr2app
+
+Revision 1.2  2003/06/23 04:00:34  moved
+＊校勘插入 xml 作業
+
+Revision 1.1.1.1  2003/05/05 04:08:52  ray
+recover cvs
+
+Revision 1.19  2002/12/05 05:24:10  saywhat
+校勘插入處理
+
+Revision 1.18  2002/11/04 10:40:45  ray
+tei.2 => TEI.2
+
+Revision 1.17  2002/10/07 13:07:11  moved
+modified
+
+Revision 1.16  2002/07/29 09:54:20  vinking
+modified lang
+
+Revision 1.15  2002/04/04 07:27:00  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.14  2001/10/31 03:51:52  ray
+maha 給的插入校勘符號
+
+Revision 1.11  2001/07/24 06:51:07  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.10  2001/05/25 08:55:39  ray
+經號統一為四碼
+
+Revision 1.9  2001/04/01 08:16:20  ray
+CB00380 => CB00308
+
+Revision 1.8  2001/03/30 06:37:08  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.7  2001/03/25 09:01:47  ray
+add <milestone>
+
+Revision 1.6  2001/02/07 06:49:47  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.5  2001/02/03 07:39:16  chris
+Added keywords $Revision: 1.13 $, $Date: 2012/08/27 03:14:53 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="0797b" ed="T" xml:id="T14.0524.0797b"/>
+<lb n="0797b01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0797b02" ed="T"/><cb:docNumber>No. 524</cb:docNumber>
+<lb n="0797b03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><note n="0797019" resp="Taisho" type="orig" place="foot text">【宋】【元】【宮】缺此經</note><cb:jhead>佛為優填王說王法政論經</cb:jhead></cb:juan>
+<lb n="0797b04" ed="T"/>
+<lb n="0797b05" ed="T"/><byline cb:type="Translator"><note n="0797020" resp="Taisho" type="orig" place="foot text">（開府…譯）譯號＝唐三藏沙門大廣智不空奉詔譯【明】</note><app n="0797020"><lem wit="【大】">開府儀同三司特進試鴻臚
+<lb n="0797b06" ed="T"/>卿肅國公食邑三千戶賜紫贈
+<lb n="0797b07" ed="T"/>司空謚大鑑正號大廣智大興
+<lb n="0797b08" ed="T"/>善寺三藏沙門不空奉　詔譯</lem><rdg resp="Taisho" wit="【明】">唐三藏沙門大廣智不空奉詔譯</rdg></app></byline>
+<lb n="0797b09" ed="T"/><cb:div type="jing"><p xml:id="pT14p0797b0901">爾時優填王獨處空閑，靜室而坐，生如是心：
+<lb n="0797b10" ed="T"/>「<note n="0797021" resp="Taisho" type="orig" place="foot text">〔我〕－【明】</note><app n="0797021"><lem wit="【大】">我</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>當云何知諸帝王真實過失及真實功德？
+<lb n="0797b11" ed="T"/>我若知者，當捨其失，當修其德。<note n="0797022" resp="Taisho" type="orig" place="foot text">誰有＝若有【明】</note><app n="0797022"><lem wit="【大】">誰有</lem><rdg resp="Taisho" wit="【明】">若有</rdg></app>沙門淨
+<lb n="0797b12" ed="T"/>行者能了為我<note n="0797023" resp="Taisho" type="orig" place="foot text">廣＋（宣）【明】</note><app n="0797023"><lem wit="【大】">廣</lem><rdg resp="Taisho" wit="【明】">廣宣</rdg></app>開示？」良久思已，便作是
+<lb n="0797b13" ed="T"/>念：「唯我世尊三界大師具一切智，定知諸王
+<lb n="0797b14" ed="T"/>所有真實過失及真實功德。我今當往佛、世
+<lb n="0797b15" ed="T"/>尊所請問斯義！」</p><p xml:id="pT14p0797b1507" rend="inline">「故我今者來至佛所，<note n="0797024" resp="Taisho" type="orig" place="foot text">唯＝惟【明】</note><app n="0797024"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【明】">惟</rdg></app>願
+<lb n="0797b16" ed="T"/>如來為我開示。世尊！云何諸王真實過失？云
+<lb n="0797b17" ed="T"/>何諸王真實功德？」作是請已。</p>
+<lb n="0797b18" ed="T"/><p xml:id="pT14p0797b1801">爾時世尊告優填王曰：「大王！今者應當了知
+<lb n="0797b19" ed="T"/>王之過失、王之功德、王衰損門、王可愛法
+<lb n="0797b20" ed="T"/>及能<note n="0797025" resp="Taisho" type="orig" place="foot text">發起＝起發【明】</note><app n="0797025"><lem wit="【大】">發起</lem><rdg resp="Taisho" wit="【明】">起發</rdg></app>王可愛之法。云何王之過失？大
+<lb n="0797b21" ed="T"/>王當知！王過失者略有十種，王若成就如是
+<lb n="0797b22" ed="T"/>過失，雖有大府庫、有大臣佐、有大軍眾<note n="0797026" resp="Taisho" type="orig" place="foot text">〔而〕－【明】</note><app n="0797026"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>不
+<lb n="0797b23" ed="T"/>可歸仰。何等為十？<note n="0797027" resp="Taisho" type="orig" place="foot text">一＋（者）【明】</note><app n="0797027"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【明】">一者</rdg></app>、種姓不高，二、不得自
+<lb n="0797b24" ed="T"/>在，三、立性暴惡，四、猛利憤發，五、恩惠賒薄，
+<lb n="0797b25" ed="T"/>六、受邪侫言，七、所作不順古先王制，八、不顧
+<lb n="0797b26" ed="T"/>善法，九、不鑑是非、勝之與劣，十、<note n="0797028" resp="Taisho" type="orig" place="foot text">一＝所【明】</note><app n="0797028"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【明】">所</rdg></app>向縱蕩，
+<lb n="0797b27" ed="T"/>專行放逸。</p><p xml:id="pT14p0797b2705" rend="inline">「云何名王種姓不高？<note n="0797029" resp="Taisho" type="orig" place="foot text">謂＝為【明】＊</note><app n="0797029"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【明】">為</rdg></app>有庶臣
+<lb n="0797b28" ed="T"/><note n="0797030" resp="Taisho" type="orig" place="foot text">下＝不【明】</note><app n="0797030"><lem wit="【大】">下</lem><rdg resp="Taisho" wit="【明】">不</rdg></app>類而生，非宿尊貴，纂紹王位，是名種姓
+<lb n="0797b29" ed="T"/>不高。</p>
+<pb n="0797c" ed="T" xml:id="T14.0524.0797c"/>
+<lb n="0797c01" ed="T"/><p xml:id="pT14p0797c0101">「云何名王不得自在？<app type="star" corresp="#0797029"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【明】">為</rdg></app>有帝王被諸大臣、
+<lb n="0797c02" ed="T"/>輔相、官僚所制，不隨所欲；所作常有諫約，於
+<lb n="0797c03" ed="T"/>妙五欲亦不如意歡娛遊戲，如是名王不得
+<lb n="0797c04" ed="T"/>自在。</p>
+<lb n="0797c05" ed="T"/><p xml:id="pT14p0797c0501">「云何名王立性暴惡？<app type="star" corresp="#0797029"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【明】">為</rdg></app>有帝王見諸臣類
+<lb n="0797c06" ed="T"/>或餘人等犯小愆過，即便對面發麁惡言，咆
+<lb n="0797c07" ed="T"/><note n="0797031" resp="Taisho" type="orig" place="foot text">勃＝悖【明】</note><app n="0797031"><lem wit="【大】">勃</lem><rdg resp="Taisho" wit="【明】">悖</rdg></app>、忿恚、顰蹙、貶黜，設不對面背彼向餘，而
+<lb n="0797c08" ed="T"/>作於前黜罵等事；或不長時瞋恚，或於長時
+<lb n="0797c09" ed="T"/>不捨。如是對面暴惡、背面暴惡，是名帝王立
+<lb n="0797c10" ed="T"/>性暴惡。</p>
+<lb n="0797c11" ed="T"/><p xml:id="pT14p0797c1101">「云何名王猛利憤發？謂有國王見諸群臣有
+<lb n="0797c12" ed="T"/>小愆過，有少違越，便削封祿，奪去妻妾，即以
+<lb n="0797c13" ed="T"/>重法而刑罰之，如是名王猛利憤發。</p>
+<lb n="0797c14" ed="T"/><p xml:id="pT14p0797c1401">「云何名王恩惠賒薄？謂有國王，<note n="0797032" resp="Taisho" type="orig" place="foot text">諸＝謂【明】</note><app n="0797032"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【明】">謂</rdg></app>群臣等
+<lb n="0797c15" ed="T"/>親近侍衛，雖極清白善稱其心，而以微劣軟
+<lb n="0797c16" ed="T"/>言慰喻，其頒賜爵祿、酬賞、勳庸，不能圓滿，不
+<lb n="0797c17" ed="T"/>順常式；或損耗已，或稽留已，然後方與，如是
+<lb n="0797c18" ed="T"/>名<app><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】"><space quantity="0"/><note type="cf1">K37n1357_p0222a02</note><note type="cf2">T14n0524_p0797c13</note></lem><rdg wit="【大】">為</rdg></app>王恩<note n="0797033" resp="Taisho" type="orig" place="foot text">〔惠〕－【明】</note><app n="0797033"><lem wit="【大】">惠</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>賒薄。</p>
+<lb n="0797c19" ed="T"/><p xml:id="pT14p0797c1901">「云何名王受邪侫言？若有帝王見諸群臣實
+<lb n="0797c20" ed="T"/>非忠<note n="0797034" resp="Taisho" type="orig" place="foot text">政＝正【明】</note><app n="0797034"><lem wit="【大】">政</lem><rdg resp="Taisho" wit="【明】">正</rdg></app>，不閑憲式，潛謀輔佐，侫心偏黨，不
+<lb n="0797c21" ed="T"/>修善政，姤嫉<note n="0797035" resp="Taisho" type="orig" place="foot text">良賢＝賢良【明】</note><app n="0797035"><lem wit="【大】">良賢</lem><rdg resp="Taisho" wit="【明】">賢良</rdg></app>。信用如是等人所進言議，
+<lb n="0797c22" ed="T"/>由此因緣王務、財寶、<note n="0797036" resp="Taisho" type="orig" place="foot text">名稱＝虛稱【明】</note><app n="0797036"><lem wit="【大】">名稱</lem><rdg resp="Taisho" wit="【明】">虛稱</rdg></app>、善政並皆衰損，如
+<lb n="0797c23" ed="T"/>是名王受邪侫言。</p>
+<lb n="0797c24" ed="T"/><p xml:id="pT14p0797c2401">「云何名王不順先王所制？謂有國王不能究
+<lb n="0797c25" ed="T"/>察，不審<note n="0797037" resp="Taisho" type="orig" place="foot text">愁簡擇＝揀擇【明】＊</note><note n="0797037" resp="CBETA" type="mod"><choice cb:resp="CBETA.maha"><corr></corr><sic>愁</sic></choice>簡擇＝揀擇【明】＊</note><app n="0797037"><lem wit="【大】">簡擇</lem><rdg resp="Taisho" wit="【明】">揀擇</rdg></app>諸群臣等，於種種務國法事
+<lb n="0797c26" ed="T"/>中，不堪委任而委任之，堪委任者不委任之，
+<lb n="0797c27" ed="T"/>應賞賚者而刑罰之，應刑罰者而賞賚之。又
+<lb n="0797c28" ed="T"/>此群臣處大朝會，餘論未終，發言間絕，不敬
+<lb n="0797c29" ed="T"/>不憚，而興諫諍，不能依法而善奉行，不<note n="0797038" resp="Taisho" type="orig" place="foot text">正能＝能正【明】</note><app n="0797038"><lem wit="【大】">正
+<pb n="0798a" ed="T" xml:id="T14.0524.0798a"/>
+<lb n="0798a01" ed="T"/>能</lem><rdg resp="Taisho" wit="【明】">能正</rdg></app>住先王教命，如是即名不順先王所制之
+<lb n="0798a02" ed="T"/>法。</p>
+<lb n="0798a03" ed="T"/><p xml:id="pT14p0798a0301">「云何名王不顧善法？謂有國王不信因果，不
+<lb n="0798a04" ed="T"/>悟當來善不善業、人天果報，隨情造作身、語、
+<lb n="0798a05" ed="T"/>意業三種惡行，不能以時惠施、修福、持齋、學
+<lb n="0798a06" ed="T"/>戒、受陀羅尼業灌頂法門，於四無量心不興
+<lb n="0798a07" ed="T"/>廣濟，如是名王不顧善法。</p>
+<lb n="0798a08" ed="T"/><p xml:id="pT14p0798a0801">「云何名王不鑒是非、勝之與劣？謂有國王於
+<lb n="0798a09" ed="T"/>諸大臣、輔相、官僚，用心顛倒，不善了知忠信、
+<lb n="0798a10" ed="T"/>技藝、智慧差別。以不知故，非忠信<note n="0798001" resp="Taisho" type="orig" place="foot text">〔所〕－【明】</note><app n="0798001"><lem wit="【大】">所</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>，生忠信
+<lb n="0798a11" ed="T"/>想；非技藝<note n="0798002" resp="Taisho" type="orig" place="foot text">所有＝生【明】</note><app n="0798002"><lem wit="【大】">所，有</lem><rdg resp="Taisho" wit="【明】">生</rdg></app>技藝想；於惡慧所，生善慧
+<lb n="0798a12" ed="T"/>想；於善慧所，生惡慧想。又諸臣等年耆衰邁，
+<lb n="0798a13" ed="T"/>曾於久時親近侍衛，知其無勢，遂不敬愛；不
+<lb n="0798a14" ed="T"/>賜爵祿，不酬其賞；被他陵蔑，捨而不問。如是
+<lb n="0798a15" ed="T"/>名王不鑒是非、勝之與劣。</p>
+<lb n="0798a16" ed="T"/><p xml:id="pT14p0798a1601">「云何名王一向縱蕩，專行放逸？謂有帝王於
+<lb n="0798a17" ed="T"/>妙五欲一向沈沒，耽著嬉戲，不能時時誡慎
+<lb n="0798a18" ed="T"/><note n="0798003" resp="Taisho" type="orig" place="foot text">〔方便…群臣〕十字－【明】</note><app n="0798003" cb:word-count="10"><lem wit="【大】">方便、作所應作、慰勞群臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>。如是<note n="0798004" resp="Taisho" type="orig" place="foot text">（即）＋名【明】</note><app n="0798004"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【明】">即名</rdg></app>為一向縱
+<lb n="0798a19" ed="T"/>蕩，專行放逸。</p><p xml:id="pT14p0798a1906" rend="inline">「若有國王成就如是十種過失，
+<lb n="0798a20" ed="T"/>雖有大府庫、有大輔佐、有大軍眾，不久國界
+<lb n="0798a21" ed="T"/>自然災亂，而不可歸仰。<note n="0798005" resp="Taisho" type="orig" place="foot text">〔大王〕－【明】</note><app n="0798005"><lem wit="【大】">大王</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>當知此十過失：
+<lb n="0798a22" ed="T"/>初一是王種姓過失，餘九是王自性過失。</p>
+<lb n="0798a23" ed="T"/><p xml:id="pT14p0798a2301">「云何名王之功德？大王<note n="0798006" resp="Taisho" type="orig" place="foot text">〔王〕－【明】</note><app n="0798006"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>功德者，略有十種：
+<lb n="0798a24" ed="T"/><note n="0798007" resp="Taisho" type="orig" place="foot text">一＋（者）【明】</note><app n="0798007"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【明】">一者</rdg></app>、種姓尊高，<note n="0798008" resp="Taisho" type="orig" place="foot text">二＋（者）【明】</note><app n="0798008"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【明】">二者</rdg></app>、得大自在，<note n="0798009" resp="Taisho" type="orig" place="foot text">三＋（者）【明】</note><app n="0798009"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【明】">三者</rdg></app>、性不暴惡，
+<lb n="0798a25" ed="T"/>四、憤發輕微，五、恩惠猛利，六、受正直言，七、
+<lb n="0798a26" ed="T"/>所作諦思，善順先教，八、顧戀善法，九、善知差
+<lb n="0798a27" ed="T"/>別，十、不自縱蕩，不行放逸。</p>
+<lb n="0798a28" ed="T"/><p xml:id="pT14p0798a2801">「云何名王種姓尊高？謂有國王，宿植善根，以
+<lb n="0798a29" ed="T"/>大願力故生王族，紹繼國位，恩養萬姓，淨信
+<pb n="0798b" ed="T" xml:id="T14.0524.0798b"/>
+<lb n="0798b01" ed="T"/>三寶，如是名王種姓尊高。</p>
+<lb n="0798b02" ed="T"/><p xml:id="pT14p0798b0201">「云何名王得大自在？謂有帝王，自隨所欲，於
+<lb n="0798b03" ed="T"/>妙五欲歡娛遊戲，所應賞賜隨意而作，於百
+<lb n="0798b04" ed="T"/>僚等所出教命宣布無滯，如是名王得大自在。</p>
+<lb n="0798b05" ed="T"/><p xml:id="pT14p0798b0501">「云何名王性不暴惡？謂有國王見諸群臣雖
+<lb n="0798b06" ed="T"/>違少小愆犯等事，而能容忍不即貶黜，不發
+<lb n="0798b07" ed="T"/>麁言，亦不對面憤發，亦不內意祕匿，如是名
+<lb n="0798b08" ed="T"/>王性不暴惡。</p>
+<lb n="0798b09" ed="T"/><p xml:id="pT14p0798b0901">「云何名王憤發輕微？謂有國王，諸群臣等雖
+<lb n="0798b10" ed="T"/>有大愆、有大違越，而不一切削其封祿、奪其
+<lb n="0798b11" ed="T"/>妻妾，不以重法而刑罰之，隨過輕重而行矜
+<lb n="0798b12" ed="T"/>降，如是名王憤發輕微。</p>
+<lb n="0798b13" ed="T"/><p xml:id="pT14p0798b1301">「云何名王恩惠猛利？<note n="0798010" resp="Taisho" type="orig" place="foot text">〔謂有國王〕－【明】</note><app n="0798010"><lem wit="【大】">謂有國王</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>，有諸群臣、
+<lb n="0798b14" ed="T"/>親近侍衛，其心清白、其心調順，王即時時以
+<lb n="0798b15" ed="T"/>正圓滿軟言慰喻，頒<note n="0798011" resp="Taisho" type="orig" place="foot text">錫＝賜【明】</note><app n="0798011"><lem wit="【大】">錫</lem><rdg resp="Taisho" wit="【明】">賜</rdg></app>勳庸，而不令彼損
+<lb n="0798b16" ed="T"/>耗稽留、劬勞怨恨，易可親近，不難承事，如是
+<lb n="0798b17" ed="T"/>名王恩惠猛利。</p>
+<lb n="0798b18" ed="T"/><p xml:id="pT14p0798b1801">「云何名王受正直言？謂有國王，諸群臣等實
+<lb n="0798b19" ed="T"/>有忠正，無濁無偏，善閑憲式，情無違叛，其王
+<lb n="0798b20" ed="T"/>信用如是<note n="0798012" resp="Taisho" type="orig" place="foot text">等人＝人等【明】</note><app n="0798012"><lem wit="【大】">等人</lem><rdg resp="Taisho" wit="【明】">人等</rdg></app>所進言議，<note n="0798013" resp="Taisho" type="orig" place="foot text">〔由此因緣〕－【明】</note><app n="0798013"><lem wit="【大】">由此因緣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>國務、
+<lb n="0798b21" ed="T"/>財寶悉皆成就，名稱遠布，黎庶咸歡，如是名
+<lb n="0798b22" ed="T"/>王受正直言。</p>
+<lb n="0798b23" ed="T"/><p xml:id="pT14p0798b2301">「云何名王所作諦思順先王教？謂有國王，性
+<lb n="0798b24" ed="T"/>能究察、審能<app type="star" corresp="#0797037"><lem wit="【大】">簡擇</lem><rdg resp="Taisho" wit="【明】">揀擇</rdg></app>諸群臣等，於種種務公法
+<lb n="0798b25" ed="T"/>事中，不堪委任者而不任之，堪委任者而委
+<lb n="0798b26" ed="T"/>任之；應賞賚者而正賞賚，應刑罰者而正刑
+<lb n="0798b27" ed="T"/>罰；凡有所為審思審擇，然後方作亦不卒暴。
+<lb n="0798b28" ed="T"/>其王群臣等雖處朝會，終不發言間絕餘論，
+<lb n="0798b29" ed="T"/>要待言終而興諫諍，如其王教而善奉行，如
+<pb n="0798c" ed="T" xml:id="T14.0524.0798c"/>
+<lb n="0798c01" ed="T"/>是即名順先王教。</p>
+<lb n="0798c02" ed="T"/><p xml:id="pT14p0798c0201">「云何名王顧戀善法？謂有帝王，信有因果、善
+<lb n="0798c03" ed="T"/>不善業、人天果報，具足慚恥，而不恣情作身、
+<lb n="0798c04" ed="T"/>語、意三種惡行，時時惠施，修福持齋，建立<note n="0798014" resp="Taisho" type="orig" place="foot text">漫茶羅＝曼拏羅【明】</note><app n="0798014"><lem wit="【大】">漫
+<lb n="0798c05" ed="T"/>茶羅</lem><rdg resp="Taisho" wit="【明】">曼拏羅</rdg></app>，受灌頂法，而設護摩供養聖眾，四無量
+<lb n="0798c06" ed="T"/>心常懷廣濟，如是名王顧戀善法。</p>
+<lb n="0798c07" ed="T"/><p xml:id="pT14p0798c0701">「云何名王能鑒是非、勝之與劣？謂有國王，於
+<lb n="0798c08" ed="T"/>諸大臣、輔相、百僚心無顛倒，能善了知忠信、
+<lb n="0798c09" ed="T"/>技藝、智慧差別，若有若無並如實知，於其無
+<lb n="0798c10" ed="T"/>者輕而遠之，於其有者<note n="0798015" resp="Taisho" type="orig" place="foot text">敬而＝而敬【明】</note><app n="0798015"><lem wit="【大】">敬而</lem><rdg resp="Taisho" wit="【明】">而敬</rdg></app>愛之。又諸臣
+<lb n="0798c11" ed="T"/>等年耆衰邁，曾於久時親近侍衛，雖知無勢、
+<lb n="0798c12" ed="T"/>無力，然念昔恩，轉懷敬愛而不輕賤，爵祿、勳
+<lb n="0798c13" ed="T"/>庸分賞無替，如是名王能鑒是非、勝之與劣。</p>
+<lb n="0798c14" ed="T"/><p xml:id="pT14p0798c1401">「云何名王不自縱蕩，不行放逸？謂有國王，於
+<lb n="0798c15" ed="T"/>妙五欲而不沈沒，傲慢嬉戲而不耽著，能於
+<lb n="0798c16" ed="T"/>時時誡慎方便，作所應作慰勞群臣，如是名
+<lb n="0798c17" ed="T"/>王不自縱蕩不行放逸。</p><p xml:id="pT14p0798c1710" rend="inline">「若王成就如是功德，
+<lb n="0798c18" ed="T"/>雖無府庫、無大輔佐、無大軍眾，不久國界自然
+<lb n="0798c19" ed="T"/>豐饒而可歸仰。大王當知如是十種王之功
+<lb n="0798c20" ed="T"/>德：初一名為種<note n="0798016" resp="Taisho" type="orig" place="foot text">姓＝族【明】</note><app n="0798016"><lem wit="【大】">姓</lem><rdg resp="Taisho" wit="【明】">族</rdg></app>功德，餘九<note n="0798017" resp="Taisho" type="orig" place="foot text">〔名為〕－【明】</note><app n="0798017"><lem wit="【大】">名為</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>自性功德。</p>
+<lb n="0798c21" ed="T"/><p xml:id="pT14p0798c2101">「云何名為王衰損門？大王當知！<note n="0798018" resp="Taisho" type="orig" place="foot text">〔王〕－【明】</note><app n="0798018"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>衰損門略
+<lb n="0798c22" ed="T"/>有五種：一、不善觀察而攝群臣，二、雖善觀察
+<lb n="0798c23" ed="T"/>而無恩惠，縱有恩惠不得及時，三、專行放逸，
+<lb n="0798c24" ed="T"/>不思國務，四、專行放逸，不守府庫，五、專行放
+<lb n="0798c25" ed="T"/>逸，不修善法。如是五種皆悉名為王衰損門。</p>
+<lb n="0798c26" ed="T"/><p xml:id="pT14p0798c2601">「云何名王不善觀察而攝群臣？謂有國王，於
+<lb n="0798c27" ed="T"/>群臣等不能究察，不審<app type="star" corresp="#0797037"><lem wit="【大】">簡擇</lem><rdg resp="Taisho" wit="【明】">揀擇</rdg></app>忠信、技藝、智
+<lb n="0798c28" ed="T"/>慧差別，攝為親侍，加以寵愛，厚賜爵祿，重委
+<lb n="0798c29" ed="T"/>寄處，而相委任，數以軟言，而相慰喻。然此群
+<pb n="0799a" ed="T" xml:id="T14.0524.0799a"/>
+<lb n="0799a01" ed="T"/>臣所<note n="0799001" resp="Taisho" type="orig" place="foot text">付＝謂【明】</note><app n="0799001"><lem wit="【大】">付</lem><rdg resp="Taisho" wit="【明】">謂</rdg></app>財寶多有損費，若遇冤敵、惡友、軍陣
+<lb n="0799a02" ed="T"/>而先退敗，以懼破散，便生奔背，無戀於主。如
+<lb n="0799a03" ed="T"/>是名王<note n="0799002" resp="Taisho" type="orig" place="foot text">〔不善…名王〕十二字－【明】</note><note n="0799002a" resp="CBETA" type="mod">〔不善觀察而攝群臣〕八字－【明】</note><app n="0799002a"><lem wit="【大】">不善觀察而攝群臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>。</p><p xml:id="pT14p0799a0312" rend="inline">「<note n="0799002b" resp="CBETA" type="mod">〔云何名王〕四字－【明】</note><app n="0799002b"><lem wit="【大】">云何名王</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>雖善
+<lb n="0799a04" ed="T"/>觀察而無恩惠，縱有非時？謂有國王，性能究
+<lb n="0799a05" ed="T"/>察、審能<app type="star" corresp="#0797037"><lem wit="【大】">簡擇</lem><rdg resp="Taisho" wit="【明】">揀擇</rdg></app>，知是忠信、技藝、智慧，攝為親侍，
+<lb n="0799a06" ed="T"/>而不寵愛；不量其<note n="0799003" resp="Taisho" type="orig" place="foot text">才＝材【明】</note><app n="0799003"><lem wit="【大】">才</lem><rdg resp="Taisho" wit="【明】">材</rdg></app>，不賜爵祿；於形要處，
+<lb n="0799a07" ed="T"/>而不委任。忽於一時王遇冤敵、惡友、軍陣<note n="0799004" resp="Taisho" type="orig" place="foot text">大怖畏事＝不怖畏時【明】</note><app n="0799004"><lem wit="【大】">大
+<lb n="0799a08" ed="T"/>怖畏事</lem><rdg resp="Taisho" wit="【明】">不怖畏時</rdg></app>，臨急難時於諸臣等方行寵爵，而以
+<lb n="0799a09" ed="T"/>軟言慰喻。時群臣等共相謂曰：『王於今者危
+<lb n="0799a10" ed="T"/>迫因緣，方於我等暫行恩惠，非長久心！』知此
+<lb n="0799a11" ed="T"/>事已，雖有忠信、技藝、智慧悉隱不現。如是名
+<lb n="0799a12" ed="T"/>王雖善觀察而攝群臣無恩惠行，縱有非時。</p>
+<lb n="0799a13" ed="T"/><p xml:id="pT14p0799a1301">「云何名王專行放逸，不思國務？謂有國王，於
+<lb n="0799a14" ed="T"/>應和好、所作所成國務等事，而不<note n="0799005" resp="Taisho" type="orig" place="foot text">時＝得【明】</note><app n="0799005"><lem wit="【大】">時</lem><rdg resp="Taisho" wit="【明】">得</rdg></app>時獨處
+<lb n="0799a15" ed="T"/>空閑；或與智<note n="0799006" resp="Taisho" type="orig" place="foot text">士＝王【明】</note><app n="0799006"><lem wit="【大】">士</lem><rdg resp="Taisho" wit="【明】">王</rdg></app>共正思惟、和好方便、乖絕等
+<lb n="0799a16" ed="T"/>事及應賞賚，乃至軍陣所作所成要務等事，
+<lb n="0799a17" ed="T"/>不勤在意。如是名王專行放逸，不思國務。</p><p xml:id="pT14p0799a1717" rend="inline">「云
+<lb n="0799a18" ed="T"/>何名王專行放逸，不守府庫？謂有國王，寡營
+<lb n="0799a19" ed="T"/>事業，不觀諸務，不禁王門、宮庭、庫藏，國家密
+<lb n="0799a20" ed="T"/>要說向婦人，乃於捕獵、博戲事中費損財寶
+<lb n="0799a21" ed="T"/>而不慎護。如是名王專行放逸，不守府庫。</p>
+<lb n="0799a22" ed="T"/><p xml:id="pT14p0799a2201">「云何名王專行放逸，不修善法？謂有國王，於
+<lb n="0799a23" ed="T"/>世所知柔和淳質、聰慧辯才、得理解脫所有
+<lb n="0799a24" ed="T"/>沙門、婆羅門，不能數近禮敬諮詢，云何是善？
+<lb n="0799a25" ed="T"/>云何不善？云何有罪？云何無罪？云何有福、吉
+<lb n="0799a26" ed="T"/>祥法門、遠離諸惡？設得聞已，不依修行。如是
+<lb n="0799a27" ed="T"/>名王專行放逸，不修善法。</p><p xml:id="pT14p0799a2711" rend="inline">「若有國王成就如
+<lb n="0799a28" ed="T"/>是五衰損門，當知此王退失現世果報，乃至
+<lb n="0799a29" ed="T"/>來生失人、天福。謂前四門<note n="0799007" resp="Taisho" type="orig" place="foot text">〔退〕－【明】</note><app n="0799007"><lem wit="【大】">退</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>現受福利，最
+<pb n="0799b" ed="T" xml:id="T14.0524.0799b"/>
+<lb n="0799b01" ed="T"/>後一門退來生果報。</p>
+<lb n="0799b02" ed="T"/><p xml:id="pT14p0799b0201">「云何名為王可愛法？大王當知，略有五種，謂
+<lb n="0799b03" ed="T"/>王可愛、可樂、可欣、可意之法。何等為五？一者、
+<lb n="0799b04" ed="T"/>人所敬愛，二、自在增上，三、能摧冤敵，四、善
+<lb n="0799b05" ed="T"/>攝養身，五、能修善事。如是五種是王<note n="0799008" resp="Taisho" type="orig" place="foot text">〔可愛可樂可欣〕－【明】</note><app n="0799008"><lem wit="【大】">可愛、
+<lb n="0799b06" ed="T"/>可樂、可欣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>、可意之法。云何善能發起王可愛
+<lb n="0799b07" ed="T"/>法？大王當知！略有五種善能發起王可愛法，
+<lb n="0799b08" ed="T"/><app><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">何<note type="cf1">K37n1357_p0224b01</note><note type="cf2">T14n0524_p0799b03</note></lem><rdg wit="【大】">可</rdg></app>等為五？一、恩養世間，二、英勇具足，三、善
+<lb n="0799b09" ed="T"/>權方便，四、正受境界，五、勤修善法。</p>
+<lb n="0799b10" ed="T"/><p xml:id="pT14p0799b1001">「云何名王恩養蒼生？謂有國王，性本知足，能
+<lb n="0799b11" ed="T"/>為謹慎，成就無貪、白淨之法；所有庫藏隨力
+<lb n="0799b12" ed="T"/>給施貧窮、孤露，柔和忍辱，多以軟言曉喻國
+<lb n="0799b13" ed="T"/>界；諸有群臣有故違犯不可免者，量罪矜恕，
+<lb n="0799b14" ed="T"/>以實以時，如理治罰。如是名王以<note n="0799009" resp="Taisho" type="orig" place="foot text">正＝王【明】</note><app n="0799009"><lem wit="【大】">正</lem><rdg resp="Taisho" wit="【明】">王</rdg></app>化法恩
+<lb n="0799b15" ed="T"/>養蒼生，故感世間之所敬愛。</p><p xml:id="pT14p0799b1512" rend="inline">「云何名王英勇
+<lb n="0799b16" ed="T"/>具足？謂有國王，神策不墜，武略圓滿，未降
+<lb n="0799b17" ed="T"/>伏者而降伏之，已降伏者而攝護之，如是名
+<lb n="0799b18" ed="T"/>王英勇具足。</p>
+<lb n="0799b19" ed="T"/><p xml:id="pT14p0799b1901">「云何名王善權方便？謂有國王，一切好事分
+<lb n="0799b20" ed="T"/>明了知，方便能和，攝受強黨，故得摧伏一切
+<lb n="0799b21" ed="T"/>冤敵。</p>
+<lb n="0799b22" ed="T"/><p xml:id="pT14p0799b2201">「云何名<note n="0799010" resp="Taisho" type="orig" place="foot text">王＝曰【明】</note><app n="0799010"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【明】">曰</rdg></app>正受境界？謂有國王，善能籌量
+<lb n="0799b23" ed="T"/>府庫增減，<note n="0799011" resp="Taisho" type="orig" place="foot text">不奢＝不慳【明】</note><app n="0799011"><lem wit="【大】">不奢</lem><rdg resp="Taisho" wit="【明】">不慳</rdg></app>、不悋，平等受用，隨其時候
+<lb n="0799b24" ed="T"/>所宜給與所有臣<note n="0799012" resp="Taisho" type="orig" place="foot text">〔佐〕－【明】</note><app n="0799012"><lem wit="【大】">佐</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>、親族、王等及伎樂人。又
+<lb n="0799b25" ed="T"/>有疾時，應食所宜，避所不宜。醫候食性，方以
+<lb n="0799b26" ed="T"/>食之。若食未消，或食而痢，皆不應食。應<note n="0799013" resp="Taisho" type="orig" place="foot text">共＝供【明】</note><app n="0799013"><lem wit="【大】">共</lem><rdg resp="Taisho" wit="【明】">供</rdg></app>
+<lb n="0799b27" ed="T"/>食者不應獨<app><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">食<note type="cf1">K37n1357_p0224c01</note><note type="cf2">T30n1579_p0641b29</note></lem><rdg wit="【大】">貪</rdg></app>，所有精味分布令歡。如是名
+<lb n="0799b28" ed="T"/>王正受境界，遂能善巧攝養自身。</p>
+<lb n="0799b29" ed="T"/><p xml:id="pT14p0799b2901">「云何名王勤修善法？謂有國王，具足淨信、戒、
+<pb n="0799c" ed="T" xml:id="T14.0524.0799c"/>
+<lb n="0799c01" ed="T"/>聞、捨、慧，於淨信處了信他世，及信當來善不
+<lb n="0799c02" ed="T"/>善業、人天果報，如是名為具足淨信；受持淨
+<lb n="0799c03" ed="T"/>戒，於年三長、每月六齋，遠離殺生及偷盜、邪
+<lb n="0799c04" ed="T"/>行、妄言、飲酒諸放逸處，如是名王具足淨戒；
+<lb n="0799c05" ed="T"/>於淨聞處、於現世業及當來果，修德進業，樂
+<lb n="0799c06" ed="T"/>聽般若眾妙法門，專意勤心，究竟通達，如是
+<lb n="0799c07" ed="T"/>名王具足淨聞；於淨捨心，遠離慳貪，舒手惠
+<lb n="0799c08" ed="T"/>施，常應修福，圓滿平等，如是名王具足淨捨。
+<lb n="0799c09" ed="T"/>謂於具足淨慧之處，如實了知有罪無罪，修
+<lb n="0799c10" ed="T"/>與不修勝劣方便，親近多聞戒行沙門，遠離
+<lb n="0799c11" ed="T"/>諸惡邪教之者，善知三種：果報圓滿、士用圓滿、
+<lb n="0799c12" ed="T"/>功德圓滿。所謂國王繼習帝業，所生宗族聰
+<lb n="0799c13" ed="T"/>利明慧，府庫財寶應用不虧，如是名為果報
+<lb n="0799c14" ed="T"/>圓滿。若諸國王善權方便，恒常成就，英勇進
+<lb n="0799c15" ed="T"/>退，善達藝能，是即名為士用圓滿。若諸國王
+<lb n="0799c16" ed="T"/><note n="0799014" resp="Taisho" type="orig" place="foot text">任持＝住持【明】</note><app n="0799014"><lem wit="【大】">任持</lem><rdg resp="Taisho" wit="【明】">住持</rdg></app>正法，與諸內宮王子、大臣共修惠施，
+<lb n="0799c17" ed="T"/>行好善事；持齋受戒、慈三摩地門、上妙梵行；
+<lb n="0799c18" ed="T"/>頻作護摩，息災增益；建曼荼羅，具受灌頂，是
+<lb n="0799c19" ed="T"/>為功德圓滿。若能如是行者是名淨慧具足。</p>
+<lb n="0799c20" ed="T"/><p xml:id="pT14p0799c2001">「復次，大王當知！我已<note n="0799015" resp="Taisho" type="orig" place="foot text">〔略〕－【明】</note><app n="0799015"><lem wit="【大】">略</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>說王之過失、王之功
+<lb n="0799c21" ed="T"/>德、王衰損門、王可愛法，及能發起王可愛之
+<lb n="0799c22" ed="T"/>法。是故大王每日晨朝若讀、若誦此祕密王
+<lb n="0799c23" ed="T"/>教，依之修行即名聖王、即名法王，諸佛、菩薩、
+<lb n="0799c24" ed="T"/>天龍八部日夜加持，恒常護念，能感世間風
+<lb n="0799c25" ed="T"/>雨順時，兵甲休息，諸國朝貢，福祚無邊，國土
+<lb n="0799c26" ed="T"/>安寧，壽命長遠，是故當獲一切利益，現世安
+<lb n="0799c27" ed="T"/>樂。」</p><p xml:id="pT14p0799c2702" rend="inline">爾時優填王聞佛所說，踊躍歡喜，信受奉
+<lb n="0799c28" ed="T"/>行。</p></cb:div>
+<lb n="0799c29" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛為優填王說王法政論經</cb:jhead></cb:juan>
+</body></text></TEI>

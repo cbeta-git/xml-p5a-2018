@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T14n0493">
+<teiHeader>
+        <fileDesc>
+                <titleStmt>
+                        <title>Taisho Tripitaka, Electronic version, No. 0493 佛說阿難四事經</title>
+                        <author>吳 支謙譯</author>
+                        <respStmt>
+                                <resp>Electronic Version by</resp>
+                                <name>CBETA</name>
+                        </respStmt>
+                </titleStmt>
+        <editionStmt>
+                <edition>$Revision: 1.11 $<date>$Date: 2012/08/27 03:14:51 $</date>新式標點版</edition>
+        </editionStmt>
+        <extent>1卷</extent>
+        <publicationStmt>
+                <distributor>
+                        <name>中華電子佛典協會 (CBETA)</name>
+                        <address>
+                                <addrLine>service@cbeta.org</addrLine>
+                        </address>
+                </distributor>
+                <availability>
+                        <p>Available for non-commercial use when distributed with this header intact.</p>
+                </availability>
+                <date>$Date: 2012/08/27 03:14:51 $</date>
+        </publicationStmt>
+        <sourceDesc>
+                <bibl>Taisho Tripitaka Vol. 14, No. 493 </bibl>
+        </sourceDesc>
+</fileDesc>
+<encodingDesc>
+        <projectDesc>
+                <p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by Anonymous, USA, Punctuated text as provided by Jasmine</p>
+                <p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，北美某大德提供，Jasmine 提供新式標點</p>
+        </projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+        <change when="1999-10-12T08:43:12">CW (ed.) Created initial TEI XML version with BASICX.BAT (99/10/12)</change>
+<!--
+$Log: T14n0493.xml,v $
+Revision 1.11  2012/08/27 03:14:51  maha
+修訂新標小圓點及著重號
+
+Revision 1.10  2009/04/23 07:58:35  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2009/03/20 01:31:17  saywhat
+TK修訂：p0757b04[魚>漁]
+
+Revision 1.8  2009/03/06 14:20:35  saywhat
+新式標點版
+
+Revision 1.7  2006/04/12 21:54:53  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.5  2004/10/13 03:39:26  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/09/14 01:28:14  saywhat
+<trailer> => <juan fun="close"><jhead>
+
+Revision 1.3  2004/04/20 08:38:04  maha
+「版本日期」標記修訂
+
+Revision 1.2  2003/06/23 04:00:33  moved
+＊校勘插入 xml 作業
+
+Revision 1.1.1.1  2003/05/05 04:08:51  ray
+recover cvs
+
+Revision 1.17  2002/12/05 05:24:09  saywhat
+校勘插入處理
+
+Revision 1.16  2002/11/04 10:40:44  ray
+tei.2 => TEI.2
+
+Revision 1.15  2002/10/07 13:07:10  moved
+modified
+
+Revision 1.14  2002/07/29 09:54:19  vinking
+modified lang
+
+Revision 1.13  2002/04/04 07:26:59  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.12  2001/10/31 03:51:51  ray
+maha 給的插入校勘符號
+
+Revision 1.9  2001/07/24 06:51:05  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.8  2001/05/25 08:55:38  ray
+經號統一為四碼
+
+Revision 1.7  2001/03/30 06:37:05  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.6  2001/03/25 09:01:46  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 06:49:40  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 07:39:07  chris
+Added keywords $Revision: 1.11 $, $Date: 2012/08/27 03:14:51 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0756c12" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0756c13" ed="T"/><cb:docNumber>No. 493</cb:docNumber>
+<lb n="0756c14" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0756005" resp="Taisho" type="orig" place="foot text">〔佛說〕－【三】【宮】＊</note><note n="0756005" resp="CBETA" type="mod">〔佛說〕－【宋】【元】【明】【宮】＊</note><app n="0756005"><lem wit="【大】">佛說</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>阿難四事經</cb:jhead></cb:juan>
+<lb n="0756c15" ed="T"/>
+<lb n="0756c16" ed="T"/><byline cb:type="Translator">吳<note n="0756006" resp="Taisho" type="orig" place="foot text">月支國居士＝代【宋】【元】，優婆塞【明】，月支優婆塞【宮】</note><note n="0756006" resp="CBETA" type="mod">月支國居士＝代【宋】【元】，＝優婆塞【明】，＝月支優婆塞【宮】</note><app n="0756006"><lem wit="【大】">月支國居士</lem><rdg resp="Taisho" wit="【宋】【元】">代</rdg><rdg resp="Taisho" wit="【明】">優婆塞</rdg><rdg resp="Taisho" wit="【宮】">月支優婆塞</rdg></app>支謙譯</byline>
+<lb n="0756c17" ed="T"/><cb:div type="jing"><p xml:id="pT14p0756c1701">聞如是：</p><p xml:id="pT14p0756c1704" rend="inline">一時，佛在拘夷那竭國，欲滅度時，阿
+<lb n="0756c18" ed="T"/>難白佛言：「我念天龍、鬼神、帝<note n="0756007" resp="Taisho" type="orig" place="foot text">王＝主【三】【宮】＊</note><note n="0756007" resp="CBETA" type="mod">王＝主【宋】【元】【明】【宮】＊</note><app n="0756007"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">主</rdg></app>人民與佛
+<lb n="0756c19" ed="T"/>相見，聞佛教誡，無不歡喜。在<note n="0756008" resp="Taisho" type="orig" place="foot text">志＝心【三】</note><note n="0756008" resp="CBETA" type="mod">志＝心【宋】【元】【明】</note><app n="0756008"><lem wit="【大】">志</lem><rdg resp="Taisho" wit="【宋】【元】【明】">心</rdg></app>所願，或
+<lb n="0756c20" ed="T"/>作沙門，得應真者；或有居家，奉行五戒，死
+<lb n="0756c21" ed="T"/>得<note n="0756009" resp="Taisho" type="orig" place="foot text">上＋（生）【三】</note><note n="0756009" resp="CBETA" type="mod">上＋（生）【宋】【元】【明】</note><app n="0756009"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【宋】【元】【明】">上生</rdg></app>天者。<note n="0756010" resp="Taisho" type="orig" place="foot text">今＝念【宮】</note><app n="0756010"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【宮】">念</rdg></app>佛去世，天龍、鬼神、帝王人
+<lb n="0756c22" ed="T"/>民，及四輩弟子，當何恃賴得福得度？將當
+<lb n="0756c23" ed="T"/>復從誰得之乎？」</p><p xml:id="pT14p0756c2307" rend="inline">佛言：「善哉，善哉！阿難！慈心多
+<lb n="0756c24" ed="T"/>愍天人雜類，無不由汝得度脫者。吾去之後，
+<lb n="0756c25" ed="T"/>世名五濁，人心憒憒，穢垢自亂，世多顛倒，
+<lb n="0756c26" ed="T"/>賤善<note n="0756011" resp="Taisho" type="orig" place="foot text">尊＝貴【三】【宮】</note><note n="0756011" resp="CBETA" type="mod">尊＝貴【宋】【元】【明】【宮】</note><app n="0756011"><lem wit="【大】">尊</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">貴</rdg></app>惡，此實可憂。世雖然者，吾有經籍、
+<lb n="0756c27" ed="T"/>懇惻之戒，盡心遵行，福自歸身，汝莫憂也。吾
+<lb n="0756c28" ed="T"/>雖去世，典籍續存，六度大法不持之去，行
+<lb n="0756c29" ed="T"/>者得度非神授與。汝等不解吾之所言耶？」</p><p xml:id="pT14p0756c2917" rend="inline">阿
+<pb n="0757a" ed="T" xml:id="T14.0493.0757a"/>
+<lb n="0757a01" ed="T"/>難即白：「願重說之。」</p>
+<lb n="0757a02" ed="T"/><p xml:id="pT14p0757a0201">佛言：「大法有四：可從得福、亦可得道、<note n="0757001" resp="Taisho" type="orig" place="foot text">（與得…當以）二十五字＝得福得道與侍（侍＝待【宋】）佛身正等難白佛為我解說四事佛言當【三】【宮】</note><note n="0757001a" resp="CBETA" type="mod">（與得佛身其福正等）八字＝得福得道與待佛身正等【宋】，＝得福得道與侍佛身正等【元】【明】【宮】</note><app n="0757001a"><lem wit="【大】">與得
+<lb n="0757a03" ed="T"/>佛身、其福正等。」</lem><rdg resp="Taisho" wit="【宋】">得福得道與待佛身正等</rdg><rdg resp="Taisho" wit="【元】【明】【宮】">得福得道與侍佛身正等</rdg></app></p><p xml:id="pT14p0757a0307" rend="inline"><note n="0757001b" resp="CBETA" type="mod">（阿難又言願佛為我解釋四事）十二字＝難白佛為我解說四事【宋】【元】【明】【宮】</note><app n="0757001b"><lem wit="【大】">阿難又言：「願佛為我解釋
+<lb n="0757a04" ed="T"/>四事。」</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">難白佛為我解說四事</rdg></app></p><p xml:id="pT14p0757a0403" rend="inline"><note n="0757001c" resp="CBETA" type="mod">（世尊曰當以）五字＝佛言當【宋】【元】【明】【宮】</note><app n="0757001c"><lem wit="【大】">世尊曰：「當以</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">佛言當</rdg></app>慈心育養幼弱，見禽獸蟲
+<lb n="0757a05" ed="T"/>蛾下賤仰人活者，常當愍念，隨其所食，令
+<lb n="0757a06" ed="T"/>得穌息，莫得加刀杖傷絕其命，惻愴慈心，當
+<lb n="0757a07" ed="T"/>如慈母天龍鬼神；帝<app type="star" corresp="#0756007"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">主</rdg></app>人民，有行此慈者，
+<lb n="0757a08" ed="T"/>其得大福，與侍佛身功德正等，此謂一事
+<lb n="0757a09" ed="T"/><note n="0757002" resp="Taisho" type="orig" place="foot text">〔也〕－【三】【宮】＊</note><note n="0757002" resp="CBETA" type="mod">〔也〕－【宋】【元】【明】【宮】＊</note><app n="0757002"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>。</p><p xml:id="pT14p0757a0902" rend="inline">「世有災異，水旱不調，五穀不豐，人民飢
+<lb n="0757a10" ed="T"/>饉，不安本土，志欲叛亡；王及臣民，富有倉
+<lb n="0757a11" ed="T"/>穀，當惟無常，身命難保，<note n="0757003" resp="Taisho" type="orig" place="foot text">勿＝愚【三】【宮】</note><note n="0757003" resp="CBETA" type="mod">勿＝愚【宋】【元】【明】【宮】</note><app n="0757003"><lem wit="【大】">勿</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">愚</rdg></app>愛<note n="0757004" resp="Taisho" type="orig" place="foot text">寶＋（重）【三】【宮】</note><note n="0757004" resp="CBETA" type="mod">寶＋（重）【宋】【元】【明】【宮】</note><app n="0757004"><lem wit="【大】">寶</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">寶重</rdg></app>穀，知愛
+<lb n="0757a12" ed="T"/>人命，當起悲心，出穀廩假，<note n="0757005" resp="Taisho" type="orig" place="foot text">賙＝周【三】【宮】</note><note n="0757005" resp="CBETA" type="mod">賙＝周【宋】【元】【明】【宮】</note><app n="0757005"><lem wit="【大】">賙</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">周</rdg></app>諸窮乏，以濟
+<lb n="0757a13" ed="T"/>其命，安居本土。若意慳貪，不欲布施，當諦
+<lb n="0757a14" ed="T"/><note n="0757006" resp="Taisho" type="orig" place="foot text">計＝忖【三】</note><note n="0757006" resp="CBETA" type="mod">計＝忖【宋】【元】【明】</note><app n="0757006"><lem wit="【大】">計</lem><rdg resp="Taisho" wit="【宋】【元】【明】">忖</rdg></app>念：『人初來生，魂神空來，依因<note n="0757007" resp="Taisho" type="orig" place="foot text">二＝姻【三】，恩【宮】</note><note n="0757007" resp="CBETA" type="mod">二＝姻【宋】【元】【明】，＝恩【宮】</note><app n="0757007"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宋】【元】【明】">姻</rdg><rdg resp="Taisho" wit="【宮】">恩</rdg></app>親情
+<lb n="0757a15" ed="T"/>欲之氣，以成己體。在母腹中，十月乃生，得
+<lb n="0757a16" ed="T"/>親喜悅，可得全命，愁忿之<note n="0757008" resp="Taisho" type="orig" place="foot text">日＝曰【宋】【元】</note><app n="0757008"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】【元】">曰</rdg></app>，即<note n="0757009" resp="Taisho" type="orig" place="foot text">切＝剋【三】【宮】</note><note n="0757009" resp="CBETA" type="mod">切＝剋【宋】【元】【明】【宮】</note><app n="0757009"><lem wit="【大】">切</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">剋</rdg></app>絕之，
+<lb n="0757a17" ed="T"/><note n="0757010" resp="Taisho" type="orig" place="foot text">困＝因【三】</note><note n="0757010" resp="CBETA" type="mod">困＝因【宋】【元】【明】</note><app n="0757010"><lem wit="【大】">困</lem><rdg resp="Taisho" wit="【宋】【元】【明】">因</rdg></app>極乃終，魂神不滅，復更求身。豪貴貧賤，
+<lb n="0757a18" ed="T"/>皆由宿行，官爵俸祿，國土珍寶，無為迷惑，以
+<lb n="0757a19" ed="T"/>亂高德，至其壽終，身及珍寶，故留世間，不
+<lb n="0757a20" ed="T"/>隨己去，常當慈心練<note n="0757011" resp="Taisho" type="orig" place="foot text">行＝存【三】【宮】</note><note n="0757011" resp="CBETA" type="mod">行＝存【宋】【元】【明】【宮】</note><app n="0757011"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">存</rdg></app>經道，以佛明<note n="0757012" resp="Taisho" type="orig" place="foot text">教＝法【三】【宮】</note><note n="0757012" resp="CBETA" type="mod">教＝法【宋】【元】【明】【宮】</note><app n="0757012"><lem wit="【大】">教</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">法</rdg></app>。觀
+<lb n="0757a21" ed="T"/>視人物，如幻如化，如夢如響，一切皆空，不
+<lb n="0757a22" ed="T"/>可久保，觀世皆爾，此為真諦。世人愚惑，心
+<lb n="0757a23" ed="T"/>存顛倒，自欺自誤，猶以金價，買<note n="0757013" resp="Taisho" type="orig" place="foot text">鍮＝塗【宮】</note><app n="0757013"><lem wit="【大】">鍮</lem><rdg resp="Taisho" wit="【宮】">塗</rdg></app>銅也。身
+<lb n="0757a24" ed="T"/>死神去，當墮三塗。』諦思如此；急當布施，與
+<lb n="0757a25" ed="T"/>身命競，貧窮乞匃，羸老疾病，隨所當<note n="0757014" resp="Taisho" type="orig" place="foot text">與＝得【三】【宮】</note><note n="0757014" resp="CBETA" type="mod">與＝得【宋】【元】【明】【宮】</note><app n="0757014"><lem wit="【大】">與</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">得</rdg></app>，
+<lb n="0757a26" ed="T"/>莫令<note n="0757015" resp="Taisho" type="orig" place="foot text">命＝死【宮】</note><app n="0757015"><lem wit="【大】">命</lem><rdg resp="Taisho" wit="【宮】">死</rdg></app>絕。執心如此，十方諸佛，開士大人，
+<lb n="0757a27" ed="T"/>天龍鬼神，無不愍之。至於壽終，魂神所生，
+<lb n="0757a28" ed="T"/>輒受豪貴，身意俱安，災害不生，具獲上願，
+<lb n="0757a29" ed="T"/>如佛在時，供養佛身，正等無異，此謂二事
+<pb n="0757b" ed="T" xml:id="T14.0493.0757b"/>
+<lb n="0757b01" ed="T"/><note n="0757016" resp="Taisho" type="orig" place="foot text">也＝世【三】【宮】</note><note n="0757016" resp="CBETA" type="mod">也＝世【宋】【元】【明】【宮】</note><app n="0757016"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">世</rdg></app>。</p><p xml:id="pT14p0757b0102" rend="inline">「<note n="0757017" resp="Taisho" type="orig" place="foot text">〔國中〕－【三】【宮】</note><note n="0757017" resp="CBETA" type="mod">〔國中〕－【宋】【元】【明】【宮】</note><app n="0757017"><lem wit="【大】">國中</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>多有盜賊，水火災異，變生毒氣，
+<lb n="0757b02" ed="T"/><note n="0757018" resp="Taisho" type="orig" place="foot text">〔流布〕－【三】【宮】</note><note n="0757018" resp="CBETA" type="mod">〔流布〕－【宋】【元】【明】【宮】</note><app n="0757018"><lem wit="【大】">流布</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>疾病縱橫，悉是海中龍神鬼王之所為
+<lb n="0757b03" ed="T"/><app type="star" corresp="#0757002"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>，故得此<note n="0757019" resp="Taisho" type="orig" place="foot text">毒＋（氣）【三】</note><note n="0757019" resp="CBETA" type="mod">毒＋（氣）【宋】【元】【明】</note><app n="0757019"><lem wit="【大】">毒</lem><rdg resp="Taisho" wit="【宋】【元】【明】">毒氣</rdg></app>重病憂惱。此諸鬼神龍者，皆
+<lb n="0757b04" ed="T"/>是世人所為，射獵屠殺<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">漁<note type="cf1">KI20n0817_p1127c10</note></lem><rdg wit="【大】">魚</rdg></app>網中毒死者。其魂
+<lb n="0757b05" ed="T"/>神或<note n="0757020" resp="Taisho" type="orig" place="foot text">墮海中為龍＝海中【三】【宮】</note><note n="0757020" resp="CBETA" type="mod">墮海中為龍＝海中【宋】【元】【明】【宮】</note><app n="0757020"><lem wit="【大】">墮海中為龍</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">海中</rdg></app>，或為有力<note n="0757021" resp="Taisho" type="orig" place="foot text">太＝大【三】【宮】</note><note n="0757021" resp="CBETA" type="mod">太＝大【宋】【元】【明】【宮】</note><app n="0757021"><lem wit="【大】">太</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">大</rdg></app>神化生之
+<lb n="0757b06" ed="T"/>類，皆知宿命，忿怒宿怨，<note n="0757022" resp="Taisho" type="orig" place="foot text">因＝故【三】【宮】</note><note n="0757022" resp="CBETA" type="mod">因＝故【宋】【元】【明】【宮】</note><app n="0757022"><lem wit="【大】">因</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">故</rdg></app>作霧露吐<note n="0757023" resp="Taisho" type="orig" place="foot text">〔惡〕－【三】【宮】</note><note n="0757023" resp="CBETA" type="mod">〔惡〕－【宋】【元】【明】【宮】</note><app n="0757023"><lem wit="【大】">惡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>毒
+<lb n="0757b07" ed="T"/>氣，雨其國<note n="0757024" resp="Taisho" type="orig" place="foot text">中＝土【三】【宮】</note><note n="0757024" resp="CBETA" type="mod">中＝土【宋】【元】【明】【宮】</note><app n="0757024"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">土</rdg></app>。其時人民，或中毒死者，或但
+<lb n="0757b08" ed="T"/>得病者，有相塗<note n="0757025" resp="Taisho" type="orig" place="foot text">〔污〕－【三】【宮】</note><note n="0757025" resp="CBETA" type="mod">〔污〕－【宋】【元】【明】【宮】</note><app n="0757025"><lem wit="【大】">污</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>者，<note n="0757026" resp="Taisho" type="orig" place="foot text">皆由＝此皆【三】【宮】</note><note n="0757026" resp="CBETA" type="mod">皆由＝此皆【宋】【元】【明】【宮】</note><app n="0757026"><lem wit="【大】">皆由</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">此皆</rdg></app>世人所作。不仁
+<lb n="0757b09" ed="T"/>殘殺物命，展轉相怨；<note n="0757027" resp="Taisho" type="orig" place="foot text">手自＝自手【三】【宮】</note><note n="0757027" resp="CBETA" type="mod">手自＝自手【宋】【元】【明】【宮】</note><app n="0757027"><lem wit="【大】">手自</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">自手</rdg></app>殺者，中毒即死；
+<lb n="0757b10" ed="T"/>助其喜者，皆更困病；或相塗污，<note n="0757028" resp="Taisho" type="orig" place="foot text">〔不相塗污〕－【宮】</note><app n="0757028"><lem wit="【大】">不相塗污</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>
+<lb n="0757b11" ed="T"/>者，皆由食肉，有相分者、不相分者。<note n="0757029" resp="Taisho" type="orig" place="foot text">聽聰＝聰明【三】【宮】</note><note n="0757029" resp="CBETA" type="mod">聽聰＝聰明【宋】【元】【明】【宮】</note><app n="0757029"><lem wit="【大】">聽聰</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">聰明</rdg></app>之
+<lb n="0757b12" ed="T"/>士，覺知殺罪<note n="0757030" resp="Taisho" type="orig" place="foot text">追＝遺【三】</note><note n="0757030" resp="CBETA" type="mod">追＝遺【宋】【元】【明】</note><app n="0757030"><lem wit="【大】">追</lem><rdg resp="Taisho" wit="【宋】【元】【明】">遺</rdg></app>人不置，以己度彼，正等無
+<lb n="0757b13" ed="T"/>異。如此奉行，佛之弘道，行四等心，慈悲喜
+<lb n="0757b14" ed="T"/><note n="0757031" resp="Taisho" type="orig" place="foot text">護＝捨【三】</note><note n="0757031" resp="CBETA" type="mod">護＝捨【宋】【元】【明】</note><app n="0757031"><lem wit="【大】">護</lem><rdg resp="Taisho" wit="【宋】【元】【明】">捨</rdg></app>，福自歸身。若彼殺<note n="0757032" resp="Taisho" type="orig" place="foot text">家＝害【宮】</note><app n="0757032"><lem wit="【大】">家</lem><rdg resp="Taisho" wit="【宮】">害</rdg></app>，以肉與己，慎莫
+<lb n="0757b15" ed="T"/>食之。不食<note n="0757033" resp="Taisho" type="orig" place="foot text">之＝肉【三】【宮】</note><note n="0757033" resp="CBETA" type="mod">之＝肉【宋】【元】【明】【宮】</note><app n="0757033"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">肉</rdg></app>者，雖處惡世、盜賊災變、毒氣
+<lb n="0757b16" ed="T"/>之時，雖處其中，不相塗染。其帝<note n="0757034" resp="Taisho" type="orig" place="foot text">王＝主【明】＊</note><app n="0757034"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【明】">主</rdg></app>人民<note n="0757035" resp="Taisho" type="orig" place="foot text">富＝當【三】【宮】</note><note n="0757035" resp="CBETA" type="mod">富＝當【宋】【元】【明】【宮】</note><app n="0757035"><lem wit="【大】">富</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">當</rdg></app>
+<lb n="0757b17" ed="T"/>有盈穀；孤獨鰥寡，衣食不充，疾病困<note n="0757036" resp="Taisho" type="orig" place="foot text">篤＝苦【三】</note><note n="0757036" resp="CBETA" type="mod">篤＝苦【宋】【元】【明】</note><app n="0757036"><lem wit="【大】">篤</lem><rdg resp="Taisho" wit="【宋】【元】【明】">苦</rdg></app>，無
+<lb n="0757b18" ed="T"/>以自濟，當給醫藥，糜粥消息，令其得愈，命
+<lb n="0757b19" ed="T"/>不橫盡。當明此人宿命行惡，不信三尊，背真
+<lb n="0757b20" ed="T"/>向偽，慳貪所致，罪福分明，慎莫為惡；亦當
+<lb n="0757b21" ed="T"/>慈心，以佛經法，教訓愚癡，令持經道。若<note n="0757037" resp="Taisho" type="orig" place="foot text">活＝治【三】【宮】</note><note n="0757037" resp="CBETA" type="mod">活＝治【宋】【元】【明】【宮】</note><app n="0757037"><lem wit="【大】">活</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">治</rdg></app>
+<lb n="0757b22" ed="T"/>一人，使病得愈，示之善道，<note n="0757038" resp="Taisho" type="orig" place="foot text">令＝今【明】</note><app n="0757038"><lem wit="【大】">令</lem><rdg resp="Taisho" wit="【明】">今</rdg></app>持五戒，終身
+<lb n="0757b23" ed="T"/>清潔，與侍佛身，其福正等，是謂三事<app type="star" corresp="#0757002"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>。</p>
+<lb n="0757b24" ed="T"/><p xml:id="pT14p0757b2401">「世有高節，清潔無欲，沙門梵志，懷抱經典，
+<lb n="0757b25" ed="T"/><note n="0757039" resp="Taisho" type="orig" place="foot text">言輒＝輒言【三】</note><note n="0757039" resp="CBETA" type="mod">言輒＝輒言【宋】【元】【明】</note><app n="0757039"><lem wit="【大】">言輒</lem><rdg resp="Taisho" wit="【宋】【元】【明】">輒言</rdg></app>法律。帝<app type="star" corresp="#0757034"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【明】">主</rdg></app><note n="0757040" resp="Taisho" type="orig" place="foot text">臣＝人【三】【宮】＊</note><note n="0757040" resp="CBETA" type="mod">臣＝人【宋】【元】【明】【宮】＊</note><app n="0757040"><lem wit="【大】">臣</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">人</rdg></app>民，心當恭肅，詣<note n="0757041" resp="Taisho" type="orig" place="foot text">稟＝彼【三】【宮】</note><note n="0757041" resp="CBETA" type="mod">稟＝彼【宋】【元】【明】【宮】</note><app n="0757041"><lem wit="【大】">稟</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">彼</rdg></app>律
+<lb n="0757b26" ed="T"/>行。此曹高士，口之所陳，皆是諸佛<note n="0757042" resp="Taisho" type="orig" place="foot text">之遺典也＝說之遺典【三】，之遺典【宮】</note><note n="0757042" resp="CBETA" type="mod">之遺典也＝說之遺典【宋】【元】【明】，＝之遺典【宮】</note><app n="0757042"><lem wit="【大】">之遺典
+<lb n="0757b27" ed="T"/>也</lem><rdg resp="Taisho" wit="【宋】【元】【明】">說之遺典</rdg><rdg resp="Taisho" wit="【宮】">之遺典</rdg></app>，令人去惡就善，恩倍於親，百有餘分，使
+<lb n="0757b28" ed="T"/>人壽終不墮三塗，常當慈心恭肅向之。寧<note n="0757043" resp="Taisho" type="orig" place="foot text">洋＝烊【宮】</note><app n="0757043"><lem wit="【大】">洋</lem><rdg resp="Taisho" wit="【宮】">烊</rdg></app>
+<lb n="0757b29" ed="T"/>銅灌口，利刀截舌，慎莫謗毀此清潔之人；
+<pb n="0757c" ed="T" xml:id="T14.0493.0757c"/>
+<lb n="0757c01" ed="T"/>寧<note n="0757044" resp="Taisho" type="orig" place="foot text">自斷手＝就斷首【三】【宮】</note><note n="0757044" resp="CBETA" type="mod">自斷手＝就斷首【宋】【元】【明】【宮】</note><app n="0757044"><lem wit="【大】">自斷手</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">就斷首</rdg></app>，莫加之痛；寧自<note n="0757045" resp="Taisho" type="orig" place="foot text">剖＝割【三】【宮】</note><note n="0757045" resp="CBETA" type="mod">剖＝割【宋】【元】【明】【宮】</note><app n="0757045"><lem wit="【大】">剖</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">割</rdg></app>腹，出心燒
+<lb n="0757c02" ed="T"/>之，無怒此人。設使愚者見佛經道，明知去就，
+<lb n="0757c03" ed="T"/>由遠頑闇之<note n="0757046" resp="Taisho" type="orig" place="foot text">群＋（邪）【三】【宮】</note><note n="0757046" resp="CBETA" type="mod">群＋（邪）【宋】【元】【明】【宮】</note><app n="0757046"><lem wit="【大】">群</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">群邪</rdg></app>，馳就賢者之眾，講受聖典，
+<lb n="0757c04" ed="T"/>以成高德。</p><p xml:id="pT14p0757c0405" rend="inline">「沙門梵志，無以貿買求利為身穢
+<lb n="0757c05" ed="T"/>垢，心清行淨，猶明月珠；<note n="0757047" resp="Taisho" type="orig" place="foot text">護＝故【三】【宮】</note><note n="0757047" resp="CBETA" type="mod">護＝故【宋】【元】【明】【宮】</note><app n="0757047"><lem wit="【大】">護</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">故</rdg></app>持應器，勞身乞
+<lb n="0757c06" ed="T"/>食，供口即止。不畜遺餘，或居寺舍，或處山澤
+<lb n="0757c07" ed="T"/>樹下塚間，皆知宿命，分別真偽制作經籍，為
+<lb n="0757c08" ed="T"/>世橋梁，慈心多愍，坐起咒願，帝<app type="star" corresp="#0757034"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【明】">主</rdg></app><note n="0757048" resp="Taisho" type="orig" place="foot text">臣＝人【明】</note><app n="0757048"><lem wit="【大】">臣</lem><rdg resp="Taisho" wit="【明】">人</rdg></app>民，令
+<lb n="0757c09" ed="T"/>國平夷。如此高士，德訓諸天龍鬼惻心，不
+<lb n="0757c10" ed="T"/><note n="0757049" resp="Taisho" type="orig" place="foot text">務＝豫【三】【宮】</note><note n="0757049" resp="CBETA" type="mod">務＝豫【宋】【元】【明】【宮】</note><app n="0757049"><lem wit="【大】">務</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">豫</rdg></app>世俗故，不為情欲之失所見歎述耳。國王
+<lb n="0757c11" ed="T"/><app type="star" corresp="#0757040"><lem wit="【大】">臣</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">人</rdg></app>民，若有<note n="0757050" resp="Taisho" type="orig" place="foot text">智＝知【三】【宮】</note><note n="0757050" resp="CBETA" type="mod">智＝知【宋】【元】【明】【宮】</note><app n="0757050"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">知</rdg></app>者，當尋求之，供所當得衣食
+<lb n="0757c12" ed="T"/>床臥<note n="0757051" resp="Taisho" type="orig" place="foot text">疾病＝病瘐【宮】</note><app n="0757051"><lem wit="【大】">疾病</lem><rdg resp="Taisho" wit="【宮】">病瘐</rdg></app>醫藥，使其安隱，得<note n="0757052" resp="Taisho" type="orig" place="foot text">講＝讚【三】【宮】</note><note n="0757052" resp="CBETA" type="mod">講＝讚【宋】【元】【明】【宮】</note><app n="0757052"><lem wit="【大】">講</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">讚</rdg></app>經戒，敷演
+<lb n="0757c13" ed="T"/>訓導，坐禪念定，或從得道，或死得上天；衣食
+<lb n="0757c14" ed="T"/>一國穢濁之人，不如盡心供養清淨道士一
+<lb n="0757c15" ed="T"/>人，其福弘大，如佛在時供養佛身，正等無異，
+<lb n="0757c16" ed="T"/>此<note n="0757053" resp="Taisho" type="orig" place="foot text">謂＝諸【三】【宮】</note><note n="0757053" resp="CBETA" type="mod">謂＝諸【宋】【元】【明】【宮】</note><app n="0757053"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">諸</rdg></app>四事<app type="star" corresp="#0757002"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>。</p><p xml:id="pT14p0757c1606" rend="inline">「帝<app type="star" corresp="#0757034"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【明】">主</rdg></app><app type="star" corresp="#0757040"><lem wit="【大】">臣</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">人</rdg></app>民，<note n="0757054" resp="Taisho" type="orig" place="foot text">視＝親【三】</note><note n="0757054" resp="CBETA" type="mod">視＝親【宋】【元】【明】</note><app n="0757054"><lem wit="【大】">視</lem><rdg resp="Taisho" wit="【宋】【元】【明】">親</rdg></app>此輩人，天
+<lb n="0757c17" ed="T"/>龍、鬼神，無不擁護助之歡喜<note n="0757055" resp="Taisho" type="orig" place="foot text">〔者也〕－【三】【宮】</note><note n="0757055" resp="CBETA" type="mod">〔者也〕－【宋】【元】【明】【宮】</note><app n="0757055"><lem wit="【大】">者也</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>。」</p>
+<lb n="0757c18" ed="T"/><p xml:id="pT14p0757c1801">佛告阿難：「吾前世時，行此四事，展轉受福，
+<lb n="0757c19" ed="T"/>自致得佛，吾以是故，重說四事。阿難！汝當
+<lb n="0757c20" ed="T"/><note n="0757056" resp="Taisho" type="orig" place="foot text">〔廣〕－【三】【宮】</note><note n="0757056" resp="CBETA" type="mod">〔廣〕－【宋】【元】【明】【宮】</note><app n="0757056"><lem wit="【大】">廣</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>為諸天帝<app type="star" corresp="#0757034"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【明】">主</rdg></app><app type="star" corresp="#0757040"><lem wit="【大】">臣</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">人</rdg></app>民說之，所作善行，自
+<lb n="0757c21" ed="T"/>得其福，終不唐捐。吾將滅度，四事<note n="0757057" resp="Taisho" type="orig" place="foot text">（屬）＋累【三】</note><note n="0757057" resp="CBETA" type="mod">（屬）＋累【宋】【元】【明】</note><app n="0757057"><lem wit="【大】">累</lem><rdg resp="Taisho" wit="【宋】【元】【明】">屬累</rdg></app>汝。」</p><p xml:id="pT14p0757c2116" rend="inline">阿
+<lb n="0757c22" ed="T"/>難聞經，且悲且喜，前以頭面，為佛作禮。</p></cb:div>
+<lb n="0757c23" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><app type="star" corresp="#0756005"><lem wit="【大】">佛說</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>阿難四事經</cb:jhead></cb:juan>
+</body></text></TEI>

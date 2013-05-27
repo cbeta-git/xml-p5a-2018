@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T02n0115">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0115 佛說馬有八態譬人經</title>
+			<author>後漢 支曜譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.12 $<date>$Date: 2012/08/27 03:13:58 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/08/27 03:13:58 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 2, No. 115 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo / proofread twice by Mr. Chang Wen-Ming, Text as provided by Mr. Christian Wittern, Text as provided by Anonymous, USA, Punctuated text as provided by Dhammavassarama</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供／張文明大德二校，維習安大德提供，北美某大德提供，法雨道場提供新式標點</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="1999-08-10T22:37:49">CW (ed.) Created initial TEI XML version with BASICX.BAT (99/8/10)</change>
+<!--
+$Log: T02n0115.xml,v $
+Revision 1.12  2012/08/27 03:13:58  maha
+修訂新標小圓點及著重號
+
+Revision 1.11  2010/11/04 11:25:00  amtbgrace
+modified: TK經文修訂
+
+Revision 1.10  2010/02/26 08:39:28  eva
+modified: encoding="cp950"
+
+Revision 1.9  2010/02/24 10:05:00  eva
+modified: 新式標點版
+
+Revision 1.8  2009/04/23 07:54:40  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2006/04/12 21:54:10  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.5  2004/10/08 09:57:51  saywhat
+段落加入圈點
+
+Revision 1.4  2004/04/20 08:36:52  maha
+「版本日期」標記修訂
+
+Revision 1.3  2003/06/23 06:07:58  saywhat
+[＊]校勘插入XML
+
+Revision 1.2  2003/05/07 09:15:41  moved
+movestar
+
+Revision 1.18  2002/12/25 08:25:28  saywhat
+【三】＊取代
+
+Revision 1.17  2002/11/27 11:15:07  saywhat
+校勘插入處理
+
+Revision 1.16  2002/11/04 10:31:27  ray
+tei.2 => TEI.2
+
+Revision 1.15  2002/10/07 13:05:03  moved
+modified
+
+Revision 1.14  2002/07/29 09:43:26  vinking
+modified lang
+
+Revision 1.13  2002/04/03 05:43:44  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.12  2001/11/05 06:09:08  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.11  2001/07/27 07:07:46  ray
+去除多餘的 <author>
+
+Revision 1.10  2001/07/24 06:47:26  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.9  2001/05/25 08:41:45  ray
+經號統一為四碼
+
+Revision 1.8  2001/03/30 01:07:28  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.7  2001/03/25 07:56:52  ray
+add milestone
+
+Revision 1.6  2001/02/07 06:40:09  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.5  2001/02/03 07:28:52  chris
+Added keywords $Revision: 1.12 $, $Date: 2012/08/27 03:13:58 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0507a04" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0507a05" ed="T"/>
+<lb n="0507a06" ed="T"/><cb:docNumber>No. 115 [No. 99(924), No. 100(149)]</cb:docNumber><cb:div type="jing">
+<lb n="0507a07" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><title>佛說馬有八態譬人經</title><note n="0507001" resp="Taisho" type="orig" place="foot text">〔出雜阿含別譯〕六字－【三】</note><note n="0507001" resp="CBETA" type="mod">〔出雜阿含別譯〕六字－【宋】【元】【明】</note><app n="0507001"><lem wit="【大】"><note place="inline">出雜阿含別譯</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
+<lb n="0507a08" ed="T"/>
+<lb n="0507a09" ed="T"/><byline cb:type="Translator">後漢<note n="0507002" resp="Taisho" type="orig" place="foot text">西域三藏＝三藏法師【三】</note><note n="0507002" resp="CBETA" type="mod">西域三藏＝三藏法師【宋】【元】【明】</note><app n="0507002"><lem wit="【大】">西域三藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】">三藏法師</rdg></app>支曜譯</byline>
+<lb n="0507a10" ed="T"/><p xml:id="pT02p0507a1001">聞如是：</p><p xml:id="pT02p0507a1004" rend="inline">一時，佛在舍衛國行在祇樹給孤獨
+<lb n="0507a11" ed="T"/>園，多比丘僧俱。佛告諸比丘：「馬有弊惡態
+<lb n="0507a12" ed="T"/>八。何等八？一態者解<g ref="#CB00650"/>韁時便掣車欲走；二
+<lb n="0507a13" ed="T"/>態者駕車跳<note n="0507003" resp="Taisho" type="orig" place="foot text">𨄈＝踉【三】＊</note><note n="0507003" resp="CBETA" type="mod">𨄈＝踉【宋】＊【元】＊【明】＊</note><app n="0507003"><lem wit="【大】">𨄈</lem><rdg resp="Taisho" wit="【宋】【元】【明】">踉</rdg></app>欲嚙人；三態者便舉前兩脚
+<lb n="0507a14" ed="T"/>掣車走；四態者便蹹車軨；五態者便人立持
+<lb n="0507a15" ed="T"/>軛摩挱車却行；六態者便傍行邪走；七態者
+<lb n="0507a16" ed="T"/>便掣車馳走，得濁泥抵止住不復行；八態者
+<lb n="0507a17" ed="T"/>懸<note n="0507004" resp="Taisho" type="orig" place="foot text"><g ref="#CB02704"/>＝兜【宋】＊</note><app n="0507004"><lem wit="【大】"><g ref="#CB02704"/></lem><rdg resp="Taisho" wit="【宋】">兜</rdg></app><app><lem wit="【CBETA】【麗】" resp="CBETA.maha">餧<note type="cf1">K19n0752_p0721b12</note></lem><rdg wit="【大】">餒</rdg></app>之熟視不肯食，其主牽去欲駕之，遽
+<lb n="0507a18" ed="T"/><note n="0507005" resp="Taisho" type="orig" place="foot text">唅＝含【宋】</note><app n="0507005"><lem wit="【大】">唅</lem><rdg resp="Taisho" wit="【宋】">含</rdg></app>噏噬欲食不能得食。」</p><p xml:id="pT02p0507a1810" rend="inline">佛言：「人亦有弊惡態
+<lb n="0507a19" ed="T"/>八。何等為八？一態者聞說經便走不欲聽，如
+<lb n="0507a20" ed="T"/>馬解<g ref="#CB00650"/>韁掣車走時；二態者聞說經意不解，
+<lb n="0507a21" ed="T"/>不知語所趣向，便瞋跳<app type="star" corresp="#0507003"><lem wit="【大】">𨄈</lem><rdg resp="Taisho" wit="【宋】【元】【明】">踉</rdg></app>不欲聞，如馬駕車
+<lb n="0507a22" ed="T"/>時跳<app type="star" corresp="#0507003"><lem wit="【大】">𨄈</lem><rdg resp="Taisho" wit="【宋】【元】【明】">踉</rdg></app>欲嚙人時；三態者聞說經便逆不受，
+<lb n="0507a23" ed="T"/>如馬舉前兩脚掣車走時；四態者聞說經便
+<lb n="0507a24" ed="T"/>罵，如馬蹹車軨時；五態者聞說經便起去，如
+<lb n="0507a25" ed="T"/>馬人立持軛摩挱車却行時；六態者聞說經
+<lb n="0507a26" ed="T"/>不肯聽，䫌頭邪視耳語，如馬傍行邪走時；七
+<lb n="0507a27" ed="T"/>態者聞說經便欲窮難，問之不能相應答，便
+<lb n="0507a28" ed="T"/>死抵妄語，如馬得濁泥便止不復行時；八態
+<lb n="0507a29" ed="T"/>者聞說經不肯聽，反念<note n="0507006" resp="Taisho" type="orig" place="foot text">婬＝淫【三】</note><note n="0507006" resp="CBETA" type="mod">婬＝淫【宋】【元】【明】</note><app n="0507006"><lem wit="【大】">婬</lem><rdg resp="Taisho" wit="【宋】【元】【明】">淫</rdg></app>泆多求不欲聽受，
+<pb n="0507b" ed="T" xml:id="T02.0115.0507b"/>
+<lb n="0507b01" ed="T"/>死<note n="0507007" resp="Taisho" type="orig" place="foot text">入＝八【明】</note><app n="0507007"><lem wit="【大】">入</lem><rdg resp="Taisho" wit="【明】">八</rdg></app>惡道時，乃遽欲學問行道，亦不能復得
+<lb n="0507b02" ed="T"/>行道，如馬懸<app type="star" corresp="#0507004"><lem wit="【大】"><g ref="#CB02704"/></lem><rdg resp="Taisho" wit="【宋】">兜</rdg></app>餧之熟視不肯食，其主牽
+<lb n="0507b03" ed="T"/>去欲駕之，乃遽唅噏噬亦不得食。」</p><p xml:id="pT02p0507b0314" rend="inline">佛言：「我說
+<lb n="0507b04" ed="T"/>馬八態，惡人亦有八惡態如是。」</p><p xml:id="pT02p0507b0413" rend="inline">諸比丘聞經
+<lb n="0507b05" ed="T"/>歡喜，作禮而去。</p>
+<lb n="0507b06" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛說馬有八態譬人經</cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

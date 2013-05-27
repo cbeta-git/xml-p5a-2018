@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T19n0993">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0993 大雲經請雨品第六十四</title>
+			<author>北周 闍那耶舍譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.12 $<date>$Date: 2009/04/23 08:00:04 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:00:04 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 19, No. 993 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-27T11:51:11">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T19n0993.xml,v $
+Revision 1.12  2009/04/23 08:00:04  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.11  2006/04/12 21:55:36  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.9  2004/11/14 03:17:22  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.8  2004/10/14 16:25:34  saywhat
+段落前加入圈點
+
+Revision 1.7  2004/10/13 12:17:56  saywhat
+p0510a26 del 。
+
+Revision 1.6  2004/05/11 02:27:02  saywhat
+行中<p type="dharani"> 改成 <p type="dharani" place="inline">
+
+Revision 1.5  2004/04/20 08:38:47  maha
+「版本日期」標記修訂
+
+Revision 1.4  2004/04/20 03:25:25  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.3  2004/01/02 05:53:49  maha
+<note mod>裡的corr2app
+
+Revision 1.2  2003/06/23 06:14:03  saywhat
+[＊]校勘插入XML
+
+Revision 1.1.1.1  2003/05/05 04:09:16  ray
+recover cvs
+
+Revision 1.18  2003/03/10 05:01:56  saywhat
+移動todo type=i位置
+
+Revision 1.17  2002/12/25 08:27:52  saywhat
+【三】＊取代
+
+Revision 1.16  2002/11/27 11:26:28  saywhat
+校勘插入處理
+
+Revision 1.15  2002/11/04 10:44:59  ray
+tei.2 => TEI.2
+
+Revision 1.14  2002/10/21 08:12:21  ray
+移動 <anchor>+<note>, <anchor>+雙圈
+
+Revision 1.13  2002/10/07 13:10:58  moved
+modified
+
+Revision 1.12  2002/07/29 09:56:11  vinking
+modified lang
+
+Revision 1.11  2002/04/08 09:03:13  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.10  2001/11/05 06:13:23  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.9  2001/07/24 06:52:49  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.8  2001/05/25 08:59:13  ray
+經號統一為四碼
+
+Revision 1.7  2001/03/30 06:45:16  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.6  2001/03/25 09:13:01  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 06:54:57  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 07:44:53  chris
+Added keywords $Revision: 1.12 $, $Date: 2009/04/23 08:00:04 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0506c06" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0506c07" ed="T"/>
+<lb n="0506c08" ed="T"/><cb:docNumber>No. 993 [Nos. 989, 991, 992]</cb:docNumber><cb:div type="jing">
+<lb n="0506c09" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0506019" resp="Taisho" place="foot text" type="orig">【原】麗本</note>大雲<note n="0506020" resp="Taisho" place="foot text" type="orig">（經請…四）八字＝（請雨經）三字【三】＊</note><note n="0506020" resp="CBETA" type="mod">（經請…四）八字＝（請雨經）三字【宋】＊【元】＊【明】＊</note><app cb:word-count="8" n="0506020"><lem wit="【大】">經請雨品第六十四</lem><rdg resp="Taisho" wit="【宋】【元】【明】">請雨經</rdg></app></cb:jhead></cb:juan>
+<lb n="0506c10" ed="T"/>
+<lb n="0506c11" ed="T"/><byline cb:type="Translator"><note n="0506021" resp="Taisho" place="foot text" type="orig">周宇文氏＝宇文周【元】【明】</note><app n="0506021"><lem wit="【大】">周宇文氏</lem><rdg resp="Taisho" wit="【元】【明】">宇文周</rdg></app>天竺三藏闍那耶<note n="0506022" resp="Taisho" place="foot text" type="orig">舍＋（等）【宋】【明】，（等初）【元】</note><app n="0506022"><lem wit="【大】">舍</lem><rdg resp="Taisho" wit="【宋】【明】">舍等</rdg><rdg resp="Taisho" wit="【元】">舍等初</rdg></app>譯</byline>
+<lb n="0506c12" ed="T"/><p xml:id="pT19p0506c1201">如是我聞。一時佛住難陀跋難陀龍王宮。於
+<lb n="0506c13" ed="T"/>摩尼德大雲輪藏寶樓閣中。與大比丘及大菩
+<lb n="0506c14" ed="T"/>薩并諸大龍一切眾等。其名曰難陀龍王優
+<lb n="0506c15" ed="T"/>鉢難陀龍王。娑伽羅龍王阿那婆達多龍王。
+<lb n="0506c16" ed="T"/>摩那斯龍王婆留拏龍王。德叉迦龍王提頭
+<lb n="0506c17" ed="T"/>賴吒龍王。婆蘇吉龍王目真隣陀龍王。伊羅
+<lb n="0506c18" ed="T"/>跋槃拏龍王褒茶龍王。德威龍王德賢龍王。
+<lb n="0506c19" ed="T"/><note n="0506023" resp="Taisho" place="foot text" type="orig">電＝雷【元】【明】</note><app n="0506023"><lem wit="【大】">電</lem><rdg resp="Taisho" wit="【元】【明】">雷</rdg></app>鬘龍王大髻龍王。珠髻龍王光曜尸棄龍
+<lb n="0506c20" ed="T"/>王。因陀羅劍戟鋒刃龍王因陀羅幢龍王。因
+<lb n="0506c21" ed="T"/>陀羅杖龍王閻浮金幢龍王。安隱龍王大輪龍
+<lb n="0506c22" ed="T"/>王。大蟒龍王火味龍王。月威龍王。尸利摩多
+<lb n="0506c23" ed="T"/>闍龍王。易見龍王大易見龍王。善住龍王寶
+<lb n="0506c24" ed="T"/>頸龍王。雲中生龍王持雨龍王。奮迅龍王左
+<lb n="0506c25" ed="T"/>右奮迅龍王。奮迅壞上龍王摩訶頻拏龍王。
+<lb n="0506c26" ed="T"/>大項龍王深聲龍王。大聲龍王毘那利地帝
+<lb n="0506c27" ed="T"/>龍王。優鉢羅龍王大行龍王。大雨龍王質多
+<lb n="0506c28" ed="T"/><note n="0506024" resp="Taisho" place="foot text" type="orig">囉＝羅【三】＊</note><note n="0506024" resp="CBETA" type="mod">囉＝羅【宋】＊【元】＊【明】＊</note><app n="0506024"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">羅</rdg></app>斯那龍王。大羂索龍王伊羅鉢多羅龍王。
+<lb n="0506c29" ed="T"/>先慰問訊龍王驢耳龍王。海貝龍王達馱囉
+<pb n="0507a" xml:id="T19.0993.0507a" ed="T"/>
+<lb n="0507a01" ed="T"/>龍王。優波達馱囉龍王大安隱龍王。匍匐龍
+<lb n="0507a02" ed="T"/>王大匍匐龍王。大力龍王休樓茶龍王。阿波
+<lb n="0507a03" ed="T"/>羅邏龍王藍浮犁龍王。吉利寐世龍王黑色
+<lb n="0507a04" ed="T"/>龍王。因陀羅軍龍王那茶龍王。優波那茶龍
+<lb n="0507a05" ed="T"/>王甘浮紇利那龍王。跋陀羅毘利那遮龍王
+<lb n="0507a06" ed="T"/>最端正龍王。象掖龍王利<note n="0507001" resp="Taisho" place="foot text" type="orig">劍＝釰【宋】</note><app n="0507001"><lem wit="【大】">劍</lem><rdg resp="Taisho" wit="【宋】">釰</rdg></app>龍王。黃色龍
+<lb n="0507a07" ed="T"/>王電耀龍王。大電光龍王天力龍王。甘婆
+<lb n="0507a08" ed="T"/>羅龍王婆羅掣龍王。甘露龍王低利他翅那
+<lb n="0507a09" ed="T"/>龍王。毘<note n="0507002" resp="Taisho" place="foot text" type="orig">琉＝瑠【宋】</note><app n="0507002"><lem wit="【大】">琉</lem><rdg resp="Taisho" wit="【宋】">瑠</rdg></app>璃光龍王金色髮龍王。金光龍
+<lb n="0507a10" ed="T"/>王月幢光龍王。日光龍王優陀延那龍王。牛
+<lb n="0507a11" ed="T"/>頭龍王白色龍王。黑色龍王閻摩龍王。沙
+<lb n="0507a12" ed="T"/>蔓禰龍王蝦蟇龍王。僧呵茶龍王尼民陀羅
+<lb n="0507a13" ed="T"/>龍王。持地龍王千頭龍王。寶髻龍王不空
+<lb n="0507a14" ed="T"/>見龍王。雲龍王蘇屣那龍王。多牛龍王人德
+<lb n="0507a15" ed="T"/>龍王。毘尼多龍王闍羅耶龍王。金毘羅龍王
+<lb n="0507a16" ed="T"/>金毘羅口龍王。毘那陀羅龍王阿尸毘師那
+<lb n="0507a17" ed="T"/>龍王。蓮華龍王長尾龍王。鉢羅藍毘那龍王
+<lb n="0507a18" ed="T"/>怖畏龍王。善威德龍王五頭龍王。婆梨龍王
+<lb n="0507a19" ed="T"/>闍羅陀那龍王。上尾龍王大頭龍王。賓畢鷄
+<lb n="0507a20" ed="T"/>龍王毘茶龍王。馬龍王三頭龍王。龍軍龍王
+<lb n="0507a21" ed="T"/>大威德龍王。那羅達低龍王毘摩鷄龍王。照
+<lb n="0507a22" ed="T"/>曜光龍王七頭龍王。大樹龍王善愛見龍王。
+<lb n="0507a23" ed="T"/>大惡龍王離垢威德龍王。善見龍王摩訶瞿
+<lb n="0507a24" ed="T"/>利那龍王。焰聚龍王大旃陀龍王。大瞋忿龍
+<lb n="0507a25" ed="T"/>王寶雲龍王。大雲施水龍王因陀羅光龍王。
+<lb n="0507a26" ed="T"/>樹龍王雲月龍王。海雲龍王大香鳩牟陀龍
+<lb n="0507a27" ed="T"/>王。鳩牟陀獷龍王寶眼龍王。大鷄鬪幢龍王
+<lb n="0507a28" ed="T"/>大雲藏龍王。雪山龍王德藏龍王。雲槊龍王
+<lb n="0507a29" ed="T"/><note n="0507003" resp="Taisho" place="foot text" type="orig">何＝阿【三】</note><note n="0507003" resp="CBETA" type="mod">何＝阿【宋】【元】【明】</note><app n="0507003"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【宋】【元】【明】">阿</rdg></app><app type="star" corresp="#0506024"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">羅</rdg></app>闍鎮達<note n="0507004" resp="Taisho" place="foot text" type="orig">犁＝梨【三】</note><note n="0507004" resp="CBETA" type="mod">犁＝梨【宋】【元】【明】</note><app n="0507004"><lem wit="【大】">犁</lem><rdg resp="Taisho" wit="【宋】【元】【明】">梨</rdg></app>龍王。雲龍王大雲出水龍
+<pb n="0507b" xml:id="T19.0993.0507b" ed="T"/>
+<lb n="0507b01" ed="T"/>王。大雲大出水龍王大火威德龍王。大雲富
+<lb n="0507b02" ed="T"/>龍王離嗔怒龍王。鳩鳩婆龍王勇壯龍王。水
+<lb n="0507b03" ed="T"/>池龍王雲蓋龍王。因祇<app type="star" corresp="#0506024"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">羅</rdg></app>口龍王威德龍王。
+<lb n="0507b04" ed="T"/>出雲龍王無量行龍王。蘇出那龍王大身龍
+<lb n="0507b05" ed="T"/>王。大腹龍王吉龍王。壯龍王烏眼龍王。優突
+<lb n="0507b06" ed="T"/>羅龍王毘疎其梨那龍王。妙聲龍王甘露牢
+<lb n="0507b07" ed="T"/>固注大雨龍王。毘求休尼低龍王相擊出聲
+<lb n="0507b08" ed="T"/>龍王。妙鼓聲龍王甘露連注龍王。歡喜龍王
+<lb n="0507b09" ed="T"/>震雷音龍王。勇健將龍王那羅延龍王。婆茶
+<lb n="0507b10" ed="T"/>婆目佉龍王毘迦吒龍王。如是等一切大龍
+<lb n="0507b11" ed="T"/>王而為上首。與八十四億百千那由他龍王
+<lb n="0507b12" ed="T"/>俱在會坐。</p>
+<lb n="0507b13" ed="T"/><p xml:id="pT19p0507b1301">爾時彼諸龍王并其眷屬。從坐而起偏袒右
+<lb n="0507b14" ed="T"/>肩。右膝著地合掌向佛。以無量阿僧祇種種
+<lb n="0507b15" ed="T"/>殊勝。上妙香華塗香末香燒香。及諸華鬘種
+<lb n="0507b16" ed="T"/>種衣服幢幡繒綵。音樂歌詠寶花寶帳。雜珮
+<lb n="0507b17" ed="T"/><note n="0507005" resp="Taisho" place="foot text" type="orig">旒＝流【三】＊</note><note n="0507005" resp="CBETA" type="mod">旒＝流【宋】＊【元】＊【明】＊</note><app n="0507005"><lem wit="【大】">旒</lem><rdg resp="Taisho" wit="【宋】【元】【明】">流</rdg></app>蘇垂諸瓔珞。龍華珠網廣設供具。以大堅
+<lb n="0507b18" ed="T"/>固尊重恭敬。不可思議上勝清淨淳厚信心
+<lb n="0507b19" ed="T"/>供養如來。作是供養右遶佛己於一面住。同
+<lb n="0507b20" ed="T"/>時舉聲發大誓願。願以一切世界微塵一一微
+<lb n="0507b21" ed="T"/>塵廣大如海我等身海。諸佛菩薩道場眾海。
+<lb n="0507b22" ed="T"/>一切世界不可數海。一切四大地水火風微
+<lb n="0507b23" ed="T"/>塵等海。一切色光如微塵等一一塵中過算
+<lb n="0507b24" ed="T"/>數海。無量阿僧祇不可數不可思量不可稱
+<lb n="0507b25" ed="T"/>說過說身海。一一身中以無量手。其不可數
+<lb n="0507b26" ed="T"/>猶如海雲。化出種種諸供養具。普十方面一
+<lb n="0507b27" ed="T"/>一微塵不斷不散亦如海雲。又願一切諸佛
+<lb n="0507b28" ed="T"/>及菩薩海。我等常當在在處處作諸供養。所
+<lb n="0507b29" ed="T"/>有無量阿僧祇不可思量不可稱說不斷不
+<pb n="0507c" xml:id="T19.0993.0507c" ed="T"/>
+<lb n="0507c01" ed="T"/>散。一切十方皆如普賢菩薩行身海雲。十方
+<lb n="0507c02" ed="T"/>虛空悉皆普覆心願力故。成就菩薩之身亦
+<lb n="0507c03" ed="T"/>如海雲。爾時一切寶色光焰不斷不散一切
+<lb n="0507c04" ed="T"/>日月身輪海雲。一切寶帳<app type="star" corresp="#0507005"><lem wit="【大】">旒</lem><rdg resp="Taisho" wit="【宋】【元】【明】">流</rdg></app>蘇眾花海雲。一
+<lb n="0507c05" ed="T"/>切寶帳大光明藏樓閣海雲。一切樹枝篋藏
+<lb n="0507c06" ed="T"/>海雲。一切香色示現海雲。一切言語妙聲種
+<lb n="0507c07" ed="T"/>種音樂海雲。一切香樹海雲。充滿虛空威神
+<lb n="0507c08" ed="T"/>建立。如是等無量阿僧祇不可思量不可稱
+<lb n="0507c09" ed="T"/>說不散不斷海雲。供養一切諸佛及菩薩海。
+<lb n="0507c10" ed="T"/>盡未來際恭敬尊重禮拜供給如是供養。一
+<lb n="0507c11" ed="T"/>切大莊嚴境界摩尼王藏。猶如電光海雲。充
+<lb n="0507c12" ed="T"/>滿虛空威神建立。又願一切諸佛及菩薩海。
+<lb n="0507c13" ed="T"/>盡未來際恭敬尊重禮拜供給如是供養。一
+<lb n="0507c14" ed="T"/>切普照寶雨莊嚴摩尼王海雲。一切寶焰照
+<lb n="0507c15" ed="T"/>明佛化音響常不休息摩尼王海雲。普樂一
+<lb n="0507c16" ed="T"/>切佛法音響摩尼王海雲。普十方面示現寶
+<lb n="0507c17" ed="T"/>焰諸佛化光海雲。一切莊嚴不壞不散皆悉
+<lb n="0507c18" ed="T"/>影現摩尼王焰燈海雲。一切諸佛境界隨順
+<lb n="0507c19" ed="T"/>摩尼王海雲。不可思議諸佛剎土諸如來處
+<lb n="0507c20" ed="T"/>皆悉影現摩尼王海雲。如是等我皆供養。一
+<lb n="0507c21" ed="T"/>切種種寶塵三世佛身及影毘盧遮那摩尼王
+<lb n="0507c22" ed="T"/>海雲。充滿虛空威神建立。示現訖已。於一
+<lb n="0507c23" ed="T"/>切佛菩薩海雲猶如大海。盡未來際我恭敬
+<lb n="0507c24" ed="T"/>尊重禮拜供給。如是供養不散不斷。又願
+<lb n="0507c25" ed="T"/>一切寶香眾花樓閣海雲。無量色寶一切摩
+<lb n="0507c26" ed="T"/>尼王莊嚴樓閣海雲。寶燈香焰樓閣海雲。一
+<lb n="0507c27" ed="T"/>切真珠種種樓閣海雲。一切華鬘海雲。無量
+<lb n="0507c28" ed="T"/>眾寶莊嚴<note n="0507006" resp="Taisho" place="foot text" type="orig">瓔＝纓【宋】</note><app n="0507006"><lem wit="【大】">瓔</lem><rdg resp="Taisho" wit="【宋】">纓</rdg></app>珮<app type="star" corresp="#0507005"><lem wit="【大】">旒</lem><rdg resp="Taisho" wit="【宋】【元】【明】">流</rdg></app>蘇樓閣海雲。充滿虛空
+<lb n="0507c29" ed="T"/>如是建立已。十方無量普焰火藏一切莊嚴
+<pb n="0508a" xml:id="T19.0993.0508a" ed="T"/>
+<lb n="0508a01" ed="T"/>和合化成樓閣海雲。一切寶笛寶輪示現無
+<lb n="0508a02" ed="T"/>量莊嚴十方樓閣海雲。一切莊嚴彫飾普遍
+<lb n="0508a03" ed="T"/>樓閣海雲。普十方門飛樓欄楯鈴網<note n="0508001" resp="Taisho" place="foot text" type="orig">帳帷＝帷帳【三】</note><note n="0508001" resp="CBETA" type="mod">帳帷＝帷帳【宋】【元】【明】</note><app n="0508001"><lem wit="【大】">帳帷</lem><rdg resp="Taisho" wit="【宋】【元】【明】">帷帳</rdg></app>海
+<lb n="0508a04" ed="T"/>雲。充滿虛空威神建立皆悉示現。於一切佛
+<lb n="0508a05" ed="T"/>及菩薩海。盡未來際恭敬尊重禮拜供給如
+<lb n="0508a06" ed="T"/>是供養。又願以吐金寶雜縷瓔珞寶歡喜藏
+<lb n="0508a07" ed="T"/>師子座海雲。花光雜藏師子座海雲。因陀尼
+<lb n="0508a08" ed="T"/>羅閻浮那池蓮華雜藏師子座海雲。摩尼燈
+<lb n="0508a09" ed="T"/>蓮華藏師子座海雲。焰幢摩尼蓮華雜藏師
+<lb n="0508a10" ed="T"/>子座海雲。寶飾蓮華雜藏師子座海雲。因陀
+<lb n="0508a11" ed="T"/>羅青色妙麗光焰蓮華藏師子座海雲。無盡
+<lb n="0508a12" ed="T"/>光焰照<note n="0508002" resp="Taisho" place="foot text" type="orig">耀＝曜【三】＊</note><note n="0508002" resp="CBETA" type="mod">耀＝曜【宋】＊【元】＊【明】＊</note><app n="0508002"><lem wit="【大】">耀</lem><rdg resp="Taisho" wit="【宋】【元】【明】">曜</rdg></app>威勢蓮華藏師子座海雲。一切蓮
+<lb n="0508a13" ed="T"/>華藏出諸寶焰師子座海雲。佛蓮華藏生諸
+<lb n="0508a14" ed="T"/>妙聲寶焰師子座海雲。不斷不散充滿虛空
+<lb n="0508a15" ed="T"/>威神建立已。盡未來際恭敬尊重禮拜供給
+<lb n="0508a16" ed="T"/>如是供養。又願以一切寶香雜樹海雲。普十
+<lb n="0508a17" ed="T"/>方門所有樹葉皆如合掌其雲芬馥海雲。一
+<lb n="0508a18" ed="T"/>切樹色無有邊際莊嚴示現海雲。一切樹間
+<lb n="0508a19" ed="T"/>花雲垂布海雲。諸樹莊嚴出無邊篋海雲。一
+<lb n="0508a20" ed="T"/>切寶樹焰鬘照<app type="star" corresp="#0508002"><lem wit="【大】">耀</lem><rdg resp="Taisho" wit="【宋】【元】【明】">曜</rdg></app>海雲。所有一切<note n="0508003" resp="Taisho" place="foot text" type="orig">旃＝栴【元】【明】</note><app n="0508003"><lem wit="【大】">旃</lem><rdg resp="Taisho" wit="【元】【明】">栴</rdg></app>檀樹
+<lb n="0508a21" ed="T"/><note n="0508004" resp="Taisho" place="foot text" type="orig">枝＝杪【元】【明】</note><app n="0508004"><lem wit="【大】">枝</lem><rdg resp="Taisho" wit="【元】【明】">杪</rdg></app>皆悉示現半身菩薩海雲。一切菩薩勝
+<lb n="0508a22" ed="T"/>輪光樹不可思議莊嚴放光一切無邊寶衣篋
+<lb n="0508a23" ed="T"/>笥日電照<app type="star" corresp="#0508002"><lem wit="【大】">耀</lem><rdg resp="Taisho" wit="【宋】【元】【明】">曜</rdg></app>海雲。一切諸樹普出妙響聞者
+<lb n="0508a24" ed="T"/>愛樂海雲。無邊色寶妙蓮華藏師子座海雲。
+<lb n="0508a25" ed="T"/>普十方面摩尼寶王電光曜藏師子座海雲。
+<lb n="0508a26" ed="T"/>諸瓔珞<note n="0508005" resp="Taisho" place="foot text" type="orig">〔藏〕－【三】</note><note n="0508005" resp="CBETA" type="mod">〔藏〕－【宋】【元】【明】</note><app n="0508005"><lem wit="【大】">藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>莊嚴雕刻師子座海雲。種種寶焰
+<lb n="0508a27" ed="T"/>燈鬘之藏師子座海雲。普聲音藏能出寶雨
+<lb n="0508a28" ed="T"/>師子座海雲。一切香華瓔珞寶藏師子座海
+<lb n="0508a29" ed="T"/>雲。一切佛座莊嚴示現摩尼王藏師子座海
+<pb n="0508b" xml:id="T19.0993.0508b" ed="T"/>
+<lb n="0508b01" ed="T"/>雲。一切莊嚴<app type="star" corresp="#0507005"><lem wit="【大】">旒</lem><rdg resp="Taisho" wit="【宋】【元】【明】">流</rdg></app>蘇帷帳欄楯妙藏師子座海
+<lb n="0508b02" ed="T"/>雲。一切諸樹摩尼枝條寶篋笥藏師子座海
+<lb n="0508b03" ed="T"/>雲。<note n="0508006" resp="Taisho" place="foot text" type="orig">〔雜香…雲〕十七字－【宋】【元】</note><app cb:word-count="17" n="0508006"><lem wit="【大】">雜香鈴網垂帷周布日電曜藏師子座海
+<lb n="0508b04" ed="T"/>雲</lem><rdg resp="Taisho" wit="【宋】【元】"><space quantity="0"/></rdg></app>。不斷不散充滿虛空。作是事己。於一切佛
+<lb n="0508b05" ed="T"/>及菩薩海。恭敬尊重禮拜供給如是供養。又
+<lb n="0508b06" ed="T"/>願以諸如意王摩尼寶帳海雲。因陀羅青莊
+<lb n="0508b07" ed="T"/>嚴校飾寶花鬘帳海雲。一切眾香摩尼寶帳
+<lb n="0508b08" ed="T"/>海雲。寶焰色身燈光明帳海雲。諸佛神通放
+<lb n="0508b09" ed="T"/>光出響摩尼王帳海雲。雜種摩尼諸寶衣服
+<lb n="0508b10" ed="T"/>一切莊嚴現放光帳海雲。一切眾花放光寶
+<lb n="0508b11" ed="T"/>帳海雲。種種鈴聲普震網帳海雲。無邊際色
+<lb n="0508b12" ed="T"/>蓮華羅網雜摩尼臺蓮華網帳海雲。金色鬘
+<lb n="0508b13" ed="T"/>焰火幢帳海雲。不可思議莊嚴光影諸瓔珞
+<lb n="0508b14" ed="T"/>帳海雲。充滿虛空不斷不散。如是建立已。
+<lb n="0508b15" ed="T"/>於一切佛及菩薩婆伽羅海雲。恭敬尊重禮
+<lb n="0508b16" ed="T"/>拜供給如是供養。又願以一切摩尼寶蓋海
+<lb n="0508b17" ed="T"/>雲。如是建立等充滿虛空。十方焰火莊嚴華
+<lb n="0508b18" ed="T"/>蓋海雲。無邊際色真珠篋蓋海雲。一切諸佛
+<lb n="0508b19" ed="T"/>菩薩大悲門響摩尼王蓋海雲。種種雜寶光
+<lb n="0508b20" ed="T"/>焰鬘蓋海雲。普寶<note n="0508007" resp="Taisho" place="foot text" type="orig">麗＝塵【三】</note><note n="0508007" resp="CBETA" type="mod">麗＝塵【宋】【元】【明】</note><app n="0508007"><lem wit="【大】">麗</lem><rdg resp="Taisho" wit="【宋】【元】【明】">塵</rdg></app>香莊嚴鈴網垂帶帳蓋
+<lb n="0508b21" ed="T"/>海雲。一切摩尼寶樹垂條帳蓋海雲。日焰照
+<lb n="0508b22" ed="T"/>曜摩尼王寶燒香散香。一切香蓋海雲。栴檀
+<lb n="0508b23" ed="T"/>末香猶如篋藏普震遍蓋海雲。諸佛境界普
+<lb n="0508b24" ed="T"/>廣莊嚴照<app type="star" corresp="#0508002"><lem wit="【大】">耀</lem><rdg resp="Taisho" wit="【宋】【元】【明】">曜</rdg></app>震蓋海雲。不斷不散於一切佛
+<lb n="0508b25" ed="T"/>諸菩薩海。恭敬尊重禮拜供給如是供養。又
+<lb n="0508b26" ed="T"/>願以一切眾寶光輪海雲。眾寶焰身照曜不
+<lb n="0508b27" ed="T"/>絕光輪海雲。華雲照曜光輪海雲。一切寶焰
+<lb n="0508b28" ed="T"/>佛化光輪海雲。一切佛剎影現光輪海雲。普
+<lb n="0508b29" ed="T"/>佛境界能出<note n="0508008" resp="Taisho" place="foot text" type="orig">雷＝雲【宋】</note><app n="0508008"><lem wit="【大】">雷</lem><rdg resp="Taisho" wit="【宋】">雲</rdg></app>音寶枝光輪海雲。一切毘
+<pb n="0508c" xml:id="T19.0993.0508c" ed="T"/>
+<lb n="0508c01" ed="T"/><note n="0508009" resp="Taisho" place="foot text" type="orig">琉＝瑠【三】</note><note n="0508009" resp="CBETA" type="mod">琉＝瑠【宋】【元】【明】</note><app n="0508009"><lem wit="【大】">琉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">瑠</rdg></app>璃寶性摩尼王焰光輪海雲。無邊眾生色
+<lb n="0508c02" ed="T"/>心剎那<note n="0508010" resp="Taisho" place="foot text" type="orig">示＝不【宋】</note><app n="0508010"><lem wit="【大】">示</lem><rdg resp="Taisho" wit="【宋】">不</rdg></app>現光輪海雲。音聲悅可諸佛光輪
+<lb n="0508c03" ed="T"/>海雲。一切眾會道場音聲教化眾生摩尼寶
+<lb n="0508c04" ed="T"/>王光輪海雲。於一切佛諸菩薩海。恭敬尊重
+<lb n="0508c05" ed="T"/>禮拜供給如是供養。又願以一切摩尼篋焰
+<lb n="0508c06" ed="T"/>海雲。一切諸佛色聲香味觸光焰海雲。一切
+<lb n="0508c07" ed="T"/>寶焰海雲。一切佛法出聲震焰海雲。一切佛
+<lb n="0508c08" ed="T"/>剎莊嚴照<app type="star" corresp="#0508002"><lem wit="【大】">耀</lem><rdg resp="Taisho" wit="【宋】【元】【明】">曜</rdg></app>光焰海雲。一切樓閣華焰海雲。
+<lb n="0508c09" ed="T"/>一切寶笛光焰海雲。一切諸劫劫劫展轉諸
+<lb n="0508c10" ed="T"/>佛出世教化眾生法音震焰海雲。無盡眾生
+<lb n="0508c11" ed="T"/>妙寶示現一切華鬘光焰海雲。一切諸座莊
+<lb n="0508c12" ed="T"/>嚴示現光焰海雲。不斷不散於一切佛諸菩
+<lb n="0508c13" ed="T"/>薩海。恭敬尊重禮拜供給如是供養。又願以
+<lb n="0508c14" ed="T"/>不斷不散無邊色寶光焰海雲。普光摩尼王
+<lb n="0508c15" ed="T"/>海雲。一切佛剎普廣莊嚴照<app type="star" corresp="#0508002"><lem wit="【大】">耀</lem><rdg resp="Taisho" wit="【宋】【元】【明】">曜</rdg></app>光焰海雲。一
+<lb n="0508c16" ed="T"/>切香焰海雲。一切莊嚴光焰海雲。一切化佛
+<lb n="0508c17" ed="T"/>身焰海雲。諸雜寶樹花鬘光焰海雲。一切衣
+<lb n="0508c18" ed="T"/>服光焰海雲。菩薩無邊諸行名稱摩尼王焰
+<lb n="0508c19" ed="T"/>海雲。一切真珠燈焰海雲。不斷不散於一切
+<lb n="0508c20" ed="T"/>佛菩薩海雲。猶如大海。恭敬尊重禮拜供給
+<lb n="0508c21" ed="T"/>如是供養。又願以不可思議一切香華種種
+<lb n="0508c22" ed="T"/>海雲。一切寶焰蓮華羅網海雲。無邊際色摩
+<lb n="0508c23" ed="T"/>尼王寶光輪海雲。一切寶色真珠篋笥海雲。
+<lb n="0508c24" ed="T"/>一切寶香<note n="0508011" resp="Taisho" place="foot text" type="orig">栴＝旃【宋】【明】</note><app n="0508011"><lem wit="【大】">栴</lem><rdg resp="Taisho" wit="【宋】【明】">旃</rdg></app>檀末香海雲。一切寶蓋海雲。悅
+<lb n="0508c25" ed="T"/>可眾意清淨妙音摩尼寶王海雲。日焰摩尼
+<lb n="0508c26" ed="T"/>光輪瓔珞<app type="star" corresp="#0507005"><lem wit="【大】">旒</lem><rdg resp="Taisho" wit="【宋】【元】【明】">流</rdg></app>蘇海雲。無邊寶篋海雲。一切
+<lb n="0508c27" ed="T"/>普賢色身海雲。不斷不散於一切佛菩薩海
+<lb n="0508c28" ed="T"/>雲。猶如大海。恭敬尊重禮拜供給如是供養。
+<lb n="0508c29" ed="T"/>是時八十四億那由他百千諸龍作是願已。
+<pb n="0509a" xml:id="T19.0993.0509a" ed="T"/>
+<lb n="0509a01" ed="T"/>遶佛三匝頭面作禮於一面立。佛言汝坐。
+<lb n="0509a02" ed="T"/>爾時諸龍各各坐已。是大眾中有大龍王。名
+<lb n="0509a03" ed="T"/>阿難多波利迦羅娑伽羅迷伽訶毘踰呵低樹
+<lb n="0509a04" ed="T"/>曼荼羅叱多<note n="0509001" resp="Taisho" place="foot text" type="orig">囉＝羅【三】</note><note n="0509001" resp="CBETA" type="mod">囉＝羅【宋】【元】【明】</note><app n="0509001"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">羅</rdg></app>伽邏王。於三千大千世界諸
+<lb n="0509a05" ed="T"/>龍中主。住不退地。以大願力到閻浮提。為欲
+<lb n="0509a06" ed="T"/>供養如來世尊。至心禮拜聽正法故。</p>
+<lb n="0509a07" ed="T"/><p xml:id="pT19p0509a0701">爾時阿難多波利迦娑伽羅龍王。從座而起
+<lb n="0509a08" ed="T"/>偏袒右肩右膝著地。合掌向佛一心而禮。白
+<lb n="0509a09" ed="T"/>佛言世尊。我今欲問如來世尊應正遍知一
+<lb n="0509a10" ed="T"/>微小事。若見聽許乃敢發問。爾時世尊聞此
+<lb n="0509a11" ed="T"/>語已。告阿難多波利迦娑伽羅龍王言。大王
+<lb n="0509a12" ed="T"/>恣汝所問。若有欲問今正是時。我當為汝分
+<lb n="0509a13" ed="T"/>別解說滿汝所願。爾時龍王即白佛言。世尊
+<lb n="0509a14" ed="T"/>云何能令一切諸龍離於苦惱得一切樂。適
+<lb n="0509a15" ed="T"/>我願已此閻浮提以時降雨。百穀果藥卉木
+<lb n="0509a16" ed="T"/>叢林。地土所生增長其味。味增長故閻浮提
+<lb n="0509a17" ed="T"/>人得受安樂。作是問已。佛告娑伽羅大龍王
+<lb n="0509a18" ed="T"/>言。善哉善哉龍王。汝今憐愍一切眾生問如
+<lb n="0509a19" ed="T"/>是事。諦聽諦聽善思念之。我今當說。善男
+<lb n="0509a20" ed="T"/>子我有一法。若一切龍能受持者。即盡諸苦
+<lb n="0509a21" ed="T"/>身心安樂。何者一法。所謂慈心。若天若人
+<lb n="0509a22" ed="T"/>能習行者。火不能燒刀不能傷。水不能漂毒
+<lb n="0509a23" ed="T"/>藥不害。內外諸賊所不能侵。睡覺安隱能自
+<lb n="0509a24" ed="T"/>謹慎。以護其身大福威德。生生世世受身端
+<lb n="0509a25" ed="T"/>正。見者愛樂所往無礙。一切天人不能惱
+<lb n="0509a26" ed="T"/>亂。離諸苦惱心常歡喜。受諸快樂得上人法。
+<lb n="0509a27" ed="T"/>設命終時生於梵世。大龍王如是慈心利益
+<lb n="0509a28" ed="T"/>天人。身口意慈常應修習。</p>
+<lb n="0509a29" ed="T"/><p xml:id="pT19p0509a2901">復次大龍王有陀羅尼句。名施安樂。是諸
+<pb n="0509b" xml:id="T19.0993.0509b" ed="T"/>
+<lb n="0509b01" ed="T"/>龍等應常誦持。能除一切諸龍苦惱。能令一
+<lb n="0509b02" ed="T"/>切安隱快樂。既得樂已。彼諸龍等於閻浮提
+<lb n="0509b03" ed="T"/>依時降雨。百穀果藥卉木叢林皆得生長。龍
+<lb n="0509b04" ed="T"/>王白佛。何者名為施一切樂陀羅尼句。爾時
+<lb n="0509b05" ed="T"/>世尊即說呪曰。</p>
+<lb n="0509b06" ed="T"/><p xml:id="pT19p0509b0601" cb:type="dharani">怛地也他<note place="inline">其呪文中字口傍作者皆轉舌讀之注引字者皆須引聲讀之</note>陀呵<note place="inline">引</note>囉尼
+<lb n="0509b07" ed="T"/>陀呵<note place="inline">引</note>囉尼<note place="inline">一</note>欝多<note place="inline">引</note>囉尼<note place="inline">二</note>三波囉帝<note place="inline">丁利<note n="0509002" resp="Taisho" place="foot text" type="orig">反＝切【明】＊</note><app n="0509002"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【明】">切</rdg></app></note>師
+<lb n="0509b08" ed="T"/>尿<note place="inline"><g ref="#CB02048"/>利<app type="star" corresp="#0509002"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【明】">切</rdg></app><note n="0509003" resp="Taisho" place="foot text" type="orig">〔三〕－【宋】【元】</note><app n="0509003"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【宋】【元】"><space quantity="0"/></rdg></app></note>毘闍耶跋唎拏薩帝夜波羅帝闍
+<lb n="0509b09" ed="T"/>若<note n="0509004" resp="Taisho" place="foot text" type="orig">長＝引【元】【明】</note><app n="0509004"><lem wit="【大】">長</lem><rdg resp="Taisho" wit="【元】【明】">引</rdg></app>那跋坻<note place="inline">四</note>欝多波<note place="inline">引</note>達儞<note place="inline">五</note>比那<note place="inline">引</note>漢儞
+<lb n="0509b10" ed="T"/><note place="inline">六</note>阿比屣<note place="inline">引</note>遮儞<note place="inline">七</note>阿<note n="0509005" resp="Taisho" place="foot text" type="orig">陛＝陸【明】</note><app n="0509005"><lem wit="【大】">陛</lem><rdg resp="Taisho" wit="【明】">陸</rdg></app>毘<note n="0509006" resp="Taisho" place="foot text" type="orig">耶＝那【元】【明】</note><app n="0509006"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【元】【明】">那</rdg></app><note place="inline">引</note>呵<note place="inline">引</note>羅<note place="inline">八</note>首
+<lb n="0509b11" ed="T"/>婆呵<note place="inline">引</note>跋帝<note place="inline">九</note>阿<note n="0509007" resp="Taisho" place="foot text" type="orig">祁＝禰【元】【明】</note><app n="0509007"><lem wit="【大】">祁</lem><rdg resp="Taisho" wit="【元】【明】">禰</rdg></app><note place="inline">引</note>末多<note place="inline">十</note><note n="0509008" resp="Taisho" place="foot text" type="orig">野＝黔【元】【明】</note><app n="0509008"><lem wit="【大】">野</lem><rdg resp="Taisho" wit="【元】【明】">黔</rdg></app>咥<note place="inline">香利<app type="star" corresp="#0509002"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【明】">切</rdg></app>十一</note>宮
+<lb n="0509b12" ed="T"/>婆<note place="inline">引</note>羅<note place="inline">引十二</note>擗咥<note place="inline">香利<app type="star" corresp="#0509002"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【明】">切</rdg></app></note>婆<note place="inline">引</note>呵<note place="inline">引十三</note>摩<note place="inline">引</note>囉吉犁<note place="inline">引</note>
+<lb n="0509b13" ed="T"/>舍<note place="inline">引</note>達那波<note place="inline">脯藍<app type="star" corresp="#0509002"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【明】">切</rdg></app>十四</note>輸陀耶摩<note place="inline">引</note>鉗尼唎<note place="inline">引</note>呵
+<lb n="0509b14" ed="T"/>迦達摩多<note place="inline">十五</note>輸陀呵<note place="inline">引</note>盧迦<note place="inline">十六</note>毘帝寐囉
+<lb n="0509b15" ed="T"/><note n="0509009" resp="Taisho" place="foot text" type="orig">何＝阿【三】</note><note n="0509009" resp="CBETA" type="mod">何＝阿【宋】【元】【明】</note><app n="0509009"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【宋】【元】【明】">阿</rdg></app>囉闍婆豆佉舍摩那<note place="inline">十七</note>薩婆佛陀呵<note place="inline">引</note>婆
+<lb n="0509b16" ed="T"/>盧<note place="inline">引</note>迦那<note place="inline">引</note>地師恥坻<note place="inline">引十八</note>波羅闍若<note place="inline">引</note>闍若
+<lb n="0509b17" ed="T"/><note place="inline">引</note>那擗醯<note place="inline">引</note>莎呵</p>
+<lb n="0509b18" ed="T"/><p xml:id="pT19p0509b1801">佛言。大龍王。此陀羅尼。名施一切諸龍安樂。
+<lb n="0509b19" ed="T"/>是諸龍等應常誦持。一切資生恒得自在入
+<lb n="0509b20" ed="T"/>自在門。為諸如來威神所護。與一切龍身心
+<lb n="0509b21" ed="T"/>安樂。復次大龍王有佛世尊。號曰雲生建大
+<lb n="0509b22" ed="T"/>莊嚴威勢之藏華光智幢持水鋒輪金德淨光
+<lb n="0509b23" ed="T"/>毘盧遮那髮際生性如來應供正遍知。大龍
+<lb n="0509b24" ed="T"/>王應當受持讀誦憶念稱名禮拜。聞是佛名
+<lb n="0509b25" ed="T"/>能除龍種。一切龍宮一切龍<note n="0509010" resp="Taisho" place="foot text" type="orig">姓＝性【元】【明】</note><app n="0509010"><lem wit="【大】">姓</lem><rdg resp="Taisho" wit="【元】【明】">性</rdg></app>。一切和合一
+<lb n="0509b26" ed="T"/>切龍踰尼南。一切龍王一切龍女一切龍眷
+<lb n="0509b27" ed="T"/>屬。諸有苦惱能與安樂。復有無量諸佛名號。
+<lb n="0509b28" ed="T"/>其名曰。</p>
+<lb n="0509b29" ed="T"/><p xml:id="pT19p0509b2901">南無婆伽婆帝毘盧遮那藏大雲如來</p>
+<pb n="0509c" xml:id="T19.0993.0509c" ed="T"/>
+<lb n="0509c01" ed="T"/><p xml:id="pT19p0509c0101">南無婆伽婆帝雲生雲照曜如來</p>
+<lb n="0509c02" ed="T"/><p xml:id="pT19p0509c0201">南無婆伽婆帝雲持水如來</p>
+<lb n="0509c03" ed="T"/><p xml:id="pT19p0509c0301">南無婆伽婆帝雲威德如來</p>
+<lb n="0509c04" ed="T"/><p xml:id="pT19p0509c0401">南無婆伽婆帝生大雲如來</p>
+<lb n="0509c05" ed="T"/><p xml:id="pT19p0509c0501">南無婆伽婆帝<note n="0509011" resp="Taisho" place="foot text" type="orig">奮迅＝一切奮【三】</note><note n="0509011" resp="CBETA" type="mod">奮迅＝一切奮【宋】【元】【明】</note><app n="0509011"><lem wit="【大】">奮迅</lem><rdg resp="Taisho" wit="【宋】【元】【明】">一切奮</rdg></app>輪能壞雲如來</p>
+<lb n="0509c06" ed="T"/><p xml:id="pT19p0509c0601">南無婆伽婆帝電焰聚如來</p>
+<lb n="0509c07" ed="T"/><p xml:id="pT19p0509c0701">南無婆伽婆帝大雲羯摩勇健如來</p>
+<lb n="0509c08" ed="T"/><p xml:id="pT19p0509c0801">南無婆伽婆帝須彌善雲如來</p>
+<lb n="0509c09" ed="T"/><p xml:id="pT19p0509c0901">南無婆伽婆帝摩訶伽那雲如來</p>
+<lb n="0509c10" ed="T"/><p xml:id="pT19p0509c1001">南無婆伽婆帝大雲輪如來</p>
+<lb n="0509c11" ed="T"/><p xml:id="pT19p0509c1101">南無婆伽婆帝雲光如來</p>
+<lb n="0509c12" ed="T"/><p xml:id="pT19p0509c1201">南無婆伽婆帝大雲師子座如來</p>
+<lb n="0509c13" ed="T"/><p xml:id="pT19p0509c1301">南無婆伽婆帝大雲蓋如來</p>
+<lb n="0509c14" ed="T"/><p xml:id="pT19p0509c1401">南無婆伽婆帝善示現大雲如來</p>
+<lb n="0509c15" ed="T"/><p xml:id="pT19p0509c1501">南無婆伽婆帝雲覆如來</p>
+<lb n="0509c16" ed="T"/><p xml:id="pT19p0509c1601">南無婆伽婆帝雲生光輪覆十方頻申雷震大
+<lb n="0509c17" ed="T"/>妙鼓音如來</p>
+<lb n="0509c18" ed="T"/><p xml:id="pT19p0509c1801">南無婆伽婆帝大雲清涼歡喜奮迅<note n="0509012" resp="Taisho" place="foot text" type="orig">（深）＋雷【三】</note><note n="0509012" resp="CBETA" type="mod">（深）＋雷【宋】【元】【明】</note><app n="0509012"><lem wit="【大】">雷</lem><rdg resp="Taisho" wit="【宋】【元】【明】">深雷</rdg></app>如來</p>
+<lb n="0509c19" ed="T"/><p xml:id="pT19p0509c1901">南無婆伽婆帝廣雲如來</p>
+<lb n="0509c20" ed="T"/><p xml:id="pT19p0509c2001">南無婆伽婆帝虛空雲如來</p>
+<lb n="0509c21" ed="T"/><p xml:id="pT19p0509c2101">南無婆伽婆帝毘羯磨勇雲如來</p>
+<lb n="0509c22" ed="T"/><p xml:id="pT19p0509c2201">南無婆伽婆帝雲出妙聲如來</p>
+<lb n="0509c23" ed="T"/><p xml:id="pT19p0509c2301">南無婆伽婆帝雲示現如來</p>
+<lb n="0509c24" ed="T"/><p xml:id="pT19p0509c2401">南無婆伽婆帝廣出雲如來</p>
+<lb n="0509c25" ed="T"/><p xml:id="pT19p0509c2501">南無婆伽婆帝雲羅羅如來</p>
+<lb n="0509c26" ed="T"/><p xml:id="pT19p0509c2601">南無婆伽婆帝雲奮震如來</p>
+<lb n="0509c27" ed="T"/><p xml:id="pT19p0509c2701">南無婆伽婆帝雲央伽那如來</p>
+<lb n="0509c28" ed="T"/><p xml:id="pT19p0509c2801">南無婆伽婆帝雲如衣覆如來</p>
+<lb n="0509c29" ed="T"/><p xml:id="pT19p0509c2901">南無婆伽婆帝雲婆盧訶迦夜如來</p>
+<pb n="0510a" xml:id="T19.0993.0510a" ed="T"/>
+<lb n="0510a01" ed="T"/><p xml:id="pT19p0510a0101">南無婆伽婆帝雲衣如來</p>
+<lb n="0510a02" ed="T"/><p xml:id="pT19p0510a0201">南無婆伽婆帝彌伽婆羅呵迦耶如來</p>
+<lb n="0510a03" ed="T"/><p xml:id="pT19p0510a0301">南無婆伽婆帝出雲如來</p>
+<lb n="0510a04" ed="T"/><p xml:id="pT19p0510a0401">南無婆伽婆帝散雲如來</p>
+<lb n="0510a05" ed="T"/><p xml:id="pT19p0510a0501">南無婆伽婆帝雲欝鉢羅花如來</p>
+<lb n="0510a06" ed="T"/><p xml:id="pT19p0510a0601">南無婆伽婆帝火雲香如來</p>
+<lb n="0510a07" ed="T"/><p xml:id="pT19p0510a0701">南無婆伽婆帝大上雲如來</p>
+<lb n="0510a08" ed="T"/><p xml:id="pT19p0510a0801">南無婆伽婆帝大雲自在如來</p>
+<lb n="0510a09" ed="T"/><p xml:id="pT19p0510a0901">南無婆伽婆帝大雲作光如來</p>
+<lb n="0510a10" ed="T"/><p xml:id="pT19p0510a1001">南無婆伽婆帝大雲德如來</p>
+<lb n="0510a11" ed="T"/><p xml:id="pT19p0510a1101">南無婆伽婆帝大雲作摩尼寶雲如來</p>
+<lb n="0510a12" ed="T"/><p xml:id="pT19p0510a1201">南無婆伽婆帝雲碎壞如來</p>
+<lb n="0510a13" ed="T"/><p xml:id="pT19p0510a1301">南無婆伽婆帝雲莖幹如來</p>
+<lb n="0510a14" ed="T"/><p xml:id="pT19p0510a1401">南無婆伽婆帝灌水雲葉如來</p>
+<lb n="0510a15" ed="T"/><p xml:id="pT19p0510a1501">南無婆伽婆帝壞虛空雹如來</p>
+<lb n="0510a16" ed="T"/><p xml:id="pT19p0510a1601">南無婆伽婆帝大雲勝聲如來</p>
+<lb n="0510a17" ed="T"/><p xml:id="pT19p0510a1701">南無婆伽婆帝大雲出聲如來</p>
+<lb n="0510a18" ed="T"/><p xml:id="pT19p0510a1801">南無婆伽婆帝大雲出雨如來</p>
+<lb n="0510a19" ed="T"/><p xml:id="pT19p0510a1901">南無婆伽婆帝欝妻俱殊婆三訶羅拏雲如來</p>
+<lb n="0510a20" ed="T"/><p xml:id="pT19p0510a2001">南無婆伽婆帝大六字水雲如來</p>
+<lb n="0510a21" ed="T"/><p xml:id="pT19p0510a2101">南無婆伽婆帝大雲饒水如來</p>
+<lb n="0510a22" ed="T"/><p xml:id="pT19p0510a2201">南無婆伽婆帝海滿雲如來</p>
+<lb n="0510a23" ed="T"/><p xml:id="pT19p0510a2301">南無婆伽婆帝潤澤遍身雲如來</p>
+<lb n="0510a24" ed="T"/><p xml:id="pT19p0510a2401">南無婆伽婆帝無邊雲色如來</p>
+<lb n="0510a25" ed="T"/><p xml:id="pT19p0510a2501">南無婆伽婆帝毘耶一切差別大雲閻浮德威
+<lb n="0510a26" ed="T"/>月光焰雲如來等應正遍知三藐三佛陀</p><p xml:id="pT19p0510a2617" rend="inline">大
+<lb n="0510a27" ed="T"/>龍王。此諸佛名。一切龍等若能誦持稱名禮
+<lb n="0510a28" ed="T"/>拜。除一切苦得歡喜樂。於閻浮提隨時降雨。
+<lb n="0510a29" ed="T"/>百穀果藥卉木叢林皆得生長。</p>
+<pb n="0510b" xml:id="T19.0993.0510b" ed="T"/>
+<lb n="0510b01" ed="T"/><p xml:id="pT19p0510b0101">爾時三千大千世界主大龍王白佛言。我今
+<lb n="0510b02" ed="T"/>當請諸佛所說陀羅尼章句。於未來世末世
+<lb n="0510b03" ed="T"/>閻浮提中不降雨處。若誦此呪即降甘雨。
+<lb n="0510b04" ed="T"/>若惡時世兇<note n="0510001" resp="Taisho" place="foot text" type="orig">險＝嶮【三】</note><note n="0510001" resp="CBETA" type="mod">險＝嶮【宋】【元】【明】</note><app n="0510001"><lem wit="【大】">險</lem><rdg resp="Taisho" wit="【宋】【元】【明】">嶮</rdg></app>艱難非法起時。疫病流行星
+<lb n="0510b05" ed="T"/>宿失度。若欲滅上諸惡事者。以佛力故大悲
+<lb n="0510b06" ed="T"/>心故。憐愍一切諸眾生故。受持如是陀羅尼
+<lb n="0510b07" ed="T"/>句。說是呪時一切諸龍皆生歡喜。一切諸天
+<lb n="0510b08" ed="T"/>皆悉踊躍壞魔境界。一切眾生四百四病。皆
+<lb n="0510b09" ed="T"/>令不起諸入安隱。一切惡事皆得除滅。</p>
+<lb n="0510b10" ed="T"/><p xml:id="pT19p0510b1001">爾時世尊聞此三千大千世界龍<note n="0510002" resp="Taisho" place="foot text" type="orig">王＝主【宋】【元】</note><app n="0510002"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【宋】【元】">主</rdg></app>如是言
+<lb n="0510b11" ed="T"/>已。讚言善哉善哉大龍王。汝亦如諸佛饒益
+<lb n="0510b12" ed="T"/>眾生。憐愍與樂快<note n="0510003" resp="Taisho" place="foot text" type="orig">請＝說【三】</note><note n="0510003" resp="CBETA" type="mod">請＝說【宋】【元】【明】</note><app n="0510003"><lem wit="【大】">請</lem><rdg resp="Taisho" wit="【宋】【元】【明】">說</rdg></app>是事。諦聽諦聽善思念
+<lb n="0510b13" ed="T"/>之。大龍王我今當說。昔從大悲雲生如來所。
+<lb n="0510b14" ed="T"/>聞頻申勇猛幢陀羅尼。過去諸佛已說威神
+<lb n="0510b15" ed="T"/>加護。我今亦當隨順而說。利益一切諸眾生
+<lb n="0510b16" ed="T"/>故憐愍與樂。於未來世若亢旱時能令降雨。
+<lb n="0510b17" ed="T"/>若水潦時亦令止息。疫死險難皆得滅除。能
+<lb n="0510b18" ed="T"/>集諸龍能令<note n="0510004" resp="Taisho" place="foot text" type="orig">龍＝諸【三】</note><note n="0510004" resp="CBETA" type="mod">龍＝諸【宋】【元】【明】</note><app n="0510004"><lem wit="【大】">龍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">諸</rdg></app>天歡喜踊躍。能壞一切諸魔
+<lb n="0510b19" ed="T"/>境界。能令眾生具足安樂。而說呪曰。</p>
+<lb n="0510b20" ed="T"/><p xml:id="pT19p0510b2001" cb:type="dharani">怛<note n="0510005" resp="Taisho" place="foot text" type="orig">姪＝絰【三】</note><note n="0510005" resp="CBETA" type="mod">姪＝絰【宋】【元】【明】</note><app n="0510005"><lem wit="【大】">姪</lem><rdg resp="Taisho" wit="【宋】【元】【明】">絰</rdg></app>他摩訶若<note place="inline">引</note>那<note place="inline">引</note>婆婆呵<note place="inline">引</note>薩尼<note place="inline">一</note>失梨
+<lb n="0510b21" ed="T"/>帝殊羅欹彌<note place="inline">二</note>地履荼毘伽囉<note n="0510006" resp="Taisho" place="foot text" type="orig">尛＝磨【元】【明】</note><app n="0510006"><lem wit="【大】">尛</lem><rdg resp="Taisho" wit="【元】【明】">磨</rdg></app>鉢耶囉僧
+<lb n="0510b22" ed="T"/>呵怛禰<note place="inline">三</note>波羅摩避囉闍<note place="inline">四</note>尼摩羅求那鷄鬪
+<lb n="0510b23" ed="T"/>蘇栗耶波羅毘<note place="inline">五</note>毘摩嵐伽耶師<g ref="#CB02256"/><note place="inline">六</note>婆呵囉
+<lb n="0510b24" ed="T"/>婆呵囉<note place="inline">七</note>三婆呵囉三婆呵囉<note place="inline">八</note>豆豆毘<note place="inline">九</note>呵
+<lb n="0510b25" ed="T"/>那呵那<note place="inline">十</note>摩呵鉢利鞞<note place="inline">十一</note>比豆那摸呵陀迦
+<lb n="0510b26" ed="T"/>嵐<note place="inline">十二</note>鉢囉若伽囉輸提<note place="inline">十三</note>鉢利富利那彌帝
+<lb n="0510b27" ed="T"/>利彌帝利地囉摩那娑斤提<note place="inline">十四</note>彌多嵐步陀
+<lb n="0510b28" ed="T"/>利<note place="inline">十五</note>闍羅闍羅<note place="inline">十六</note>闍羅闍羅<note place="inline">十七</note>闍嵐步大
+<lb n="0510b29" ed="T"/>離<note place="inline">十八</note>菩澄伽俱蘇彌<note place="inline">十九</note>達舍跋隷<note place="inline">二十</note>遮妬
+<pb n="0510c" xml:id="T19.0993.0510c" ed="T"/>
+<lb n="0510c01" ed="T"/>裴舍<note n="0510007" resp="Taisho" place="foot text" type="orig">阿＝呵【明】</note><app n="0510007"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【明】">呵</rdg></app>囉提<note place="inline">二十一</note>阿吒達舍毘尼吒佛陀達彌
+<lb n="0510c02" ed="T"/><note place="inline">二十二</note>輸<note n="0510008" resp="Taisho" place="foot text" type="orig">頗＝願【宋】，頭【元】【明】</note><note n="0510008" resp="CBETA" type="mod">頗＝願【宋】，＝頭【元】【明】</note><app n="0510008"><lem wit="【大】">頗</lem><rdg resp="Taisho" wit="【宋】">願</rdg><rdg resp="Taisho" wit="【元】【明】">頭</rdg></app>魔帝分若曷囉翅<note place="inline">二十三</note>叔迦羅達摩
+<lb n="0510c03" ed="T"/>三摩禰坻<note place="inline">二十四</note>鉗毘囉毘囉闍息雞<note place="inline">二十五</note>毘富隷
+<lb n="0510c04" ed="T"/>毘舍師沙波羅鉢帝<note place="inline">二十六</note>禰囉蘇羅波達彌<note place="inline">二十七</note>
+<lb n="0510c05" ed="T"/>薩婆盧迦誓薩吒<note place="inline">二十八</note>失離薩吒波羅<note place="inline">二十九</note>鉢羅
+<lb n="0510c06" ed="T"/>婆梨<note place="inline">三十</note>阿奴怛利<note place="inline">三十一</note>阿僧祇<note place="inline">三十二</note>陀羅陀羅
+<lb n="0510c07" ed="T"/><note place="inline">三十三</note>地利地利<note place="inline">三十四</note>豆留豆留<note place="inline">三十五</note>羶哆末坻<note place="inline">三十六</note>
+<lb n="0510c08" ed="T"/>羶哆波卑<note place="inline">三十七</note>遮羅遮羅旨利旨利<note place="inline">三十八</note>朱留朱
+<lb n="0510c09" ed="T"/>留<note place="inline">三十九</note>波羅摩佛陀㝹末坻<note place="inline">四十</note>摩呵鉢羅若波
+<lb n="0510c10" ed="T"/>羅蜜坻<note place="inline">四十一</note>莎呵南無若那<note place="inline">一</note>婆伽羅毘盧
+<lb n="0510c11" ed="T"/>遮那<note n="0510009" resp="Taisho" place="foot text" type="orig">〔耶〕－【元】【明】</note><app n="0510009"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【元】【明】"><space quantity="0"/></rdg></app><note place="inline">二</note>多他竭多耶<note place="inline">三</note>南無薩婆佛陀<note place="inline">四</note>菩
+<lb n="0510c12" ed="T"/>提薩坻毘呵<note place="inline">五</note></p>
+<lb n="0510c13" ed="T"/><p xml:id="pT19p0510c1301">爾時一切諸龍為閻浮提降甘雨故受持此
+<lb n="0510c14" ed="T"/>呪。若後末世惡災行時能令不起。諸佛菩薩
+<lb n="0510c15" ed="T"/>發真實語重說呪曰。</p><p xml:id="pT19p0510c1509" cb:type="dharani" rend="inline">三耶<note n="0510010" resp="Taisho" place="foot text" type="orig">挮＝梯【元】【明】</note><app n="0510010"><lem wit="【大】">挮</lem><rdg resp="Taisho" wit="【元】【明】">梯</rdg></app>淡<note place="inline">一</note>娑羅娑
+<lb n="0510c16" ed="T"/>羅<note place="inline">二</note>斯利斯利<note place="inline">三</note>蘇留蘇留<note place="inline">四</note>那伽男<note place="inline">五</note>闍婆闍
+<lb n="0510c17" ed="T"/>婆<note place="inline">六</note>時毘時毘<note place="inline">七</note>殊復殊復<note place="inline">八</note>摩呵那伽男<note place="inline">九</note>阿
+<lb n="0510c18" ed="T"/>伽車咃<note place="inline">十</note>佛陀薩禰呵<note place="inline">十一</note>闍浮提坻<note place="inline">十二</note>婆羅
+<lb n="0510c19" ed="T"/>婆利沙曇<note place="inline">十三</note>遮羅遮羅<note place="inline">十四</note>旨利旨利<note place="inline">十五</note>周
+<lb n="0510c20" ed="T"/>留周留<note place="inline">十六</note>摩呵那伽地般帝男<note place="inline">十七</note>阿伽車多
+<lb n="0510c21" ed="T"/>蒲<note n="0510011" resp="Taisho" place="foot text" type="orig">盧＝虛【三】</note><note n="0510011" resp="CBETA" type="mod">盧＝虛【宋】【元】【明】</note><app n="0510011"><lem wit="【大】">盧</lem><rdg resp="Taisho" wit="【宋】【元】【明】">虛</rdg></app><note place="inline">十八</note>摩呵那伽佛陀薩坻禰呵<note place="inline">十九</note>閻浮
+<lb n="0510c22" ed="T"/>提卑<note place="inline">二十</note>波羅婆沙曇<note place="inline">二十一</note>波羅波羅<note place="inline">二十二</note>毘利
+<lb n="0510c23" ed="T"/>毘利<note place="inline">二十三</note>浮留浮留<note place="inline">二十四</note>佛陀薩坻那<note place="inline">二十五</note>薩婆
+<lb n="0510c24" ed="T"/>那伽那婆呵耶沙禰<note place="inline">二十六</note>迷帝囉質坻那<note place="inline">二十七</note>迦
+<lb n="0510c25" ed="T"/>樓那質坻那<note place="inline">二十八</note>迦樓那質坻那<note place="inline">二十九</note>牟地多質
+<lb n="0510c26" ed="T"/>坻那<note place="inline">三十</note>憂卑叉質坻那<note place="inline">三十一</note>薩婆佛陀<note place="inline">三十二</note>菩
+<lb n="0510c27" ed="T"/>提薩埵地師咃禰<note n="0510012" resp="Taisho" place="foot text" type="orig">那＋（那）【三】</note><note n="0510012" resp="CBETA" type="mod">那＋（那）【宋】【元】【明】</note><app n="0510012"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【宋】【元】【明】">那那</rdg></app>薩坻那<note place="inline">三十三</note>摩呵耶那
+<lb n="0510c28" ed="T"/>舍移那<note place="inline">三十四</note>阿伽車他<note place="inline">三十五</note>摩呵那<note n="0510013" resp="Taisho" place="foot text" type="orig">伽＝佛【宋】</note><app n="0510013"><lem wit="【大】">伽</lem><rdg resp="Taisho" wit="【宋】">佛</rdg></app>提波怛
+<pb n="0511a" xml:id="T19.0993.0511a" ed="T"/>
+<lb n="0511a01" ed="T"/>耶<note place="inline">三十六</note>蘇摩羅他佛陀那<note place="inline">三十七</note>佛陀達摩那<note place="inline">三十八</note>
+<lb n="0511a02" ed="T"/>菩提薩埵求那男<note place="inline">三十九</note>波羅波羅<note place="inline">四十</note>毘利毘利
+<lb n="0511a03" ed="T"/><note place="inline">四十一</note>浮休留浮休留<note place="inline">四十二</note>摩呵折嵐浮<note place="inline">四十三</note>彌伽
+<lb n="0511a04" ed="T"/>婆利陀利那<note place="inline">四十四</note>摩呵浮闍迦波利迦羅<note place="inline">四十五</note>彌
+<lb n="0511a05" ed="T"/>帝利質帝那<note place="inline">四十六</note>阿伽車他<note place="inline">四十七</note>三摩羅多婆羅
+<lb n="0511a06" ed="T"/>舍三男舍薩妬<note place="inline">四十八</note>伽茶伽茶<note place="inline">四十九</note>祇治祇治<note place="inline">五
+<lb n="0511a07" ed="T"/>十</note>渠籌渠籌<note place="inline">五十一</note>憂伽囉俱嚧陀<note place="inline">五十二</note>摩呵毘伽
+<lb n="0511a08" ed="T"/>嚧囉嗜呵婆<note place="inline">五十三</note>摩呵毘沙<note place="inline">五十四</note>阿伽吒他迷帝
+<lb n="0511a09" ed="T"/>羅質多<note place="inline">五十五</note>婆利沙馱簸伊呵閻浮提卑<note place="inline">五十六</note>薩
+<lb n="0511a10" ed="T"/>婆多他竭多薩坻那<note place="inline">五十七</note>蘇和呵</p>
+<lb n="0511a11" ed="T"/><p xml:id="pT19p0511a1101">若誦此呪。閻浮提內一切諸龍。皆來集聚悲
+<lb n="0511a12" ed="T"/>喜捨心。又以慈心降注甘雨。諸佛如來威神
+<lb n="0511a13" ed="T"/>所加真實不虛。</p>
+<lb n="0511a14" ed="T"/><p xml:id="pT19p0511a1401" cb:type="dharani">怛吒怛吒<note place="inline">一</note>帝致帝致<note place="inline">二</note>鬪晝鬪晝<note place="inline">三</note>摩<note n="0511001" resp="Taisho" place="foot text" type="orig">呵＝阿【元】【明】</note><app n="0511001"><lem wit="【大】">呵</lem><rdg resp="Taisho" wit="【元】【明】">阿</rdg></app>摩
+<lb n="0511a15" ed="T"/>尼<note place="inline">四</note>摩俱吒<note place="inline">五</note>毛林達羅尼比沙<note place="inline">六</note>于留必那<note place="inline">七</note>
+<lb n="0511a16" ed="T"/>三摩<note n="0511002" resp="Taisho" place="foot text" type="orig">羅＝囉【三】</note><note n="0511002" resp="CBETA" type="mod">羅＝囉【宋】【元】【明】</note><app n="0511002"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】【元】【明】">囉</rdg></app>他帝利<note place="inline">八</note>曷囉怛那地師吒南<note place="inline">九</note>跋折
+<lb n="0511a17" ed="T"/>囉陀羅薩坻那<note place="inline">十</note>跋利沙他伊呵閻浮地卑莎
+<lb n="0511a18" ed="T"/>呵<note place="inline">十一</note></p>
+<lb n="0511a19" ed="T"/><p xml:id="pT19p0511a1901" cb:type="dharani">迦羅迦羅<note place="inline">一</note>翅利翅利<note place="inline">二</note>俱盧俱盧<note place="inline">三</note>摩于陀
+<lb n="0511a20" ed="T"/>迦婆斯那<note place="inline">四</note>摩訶跋囉俱吒耶那毘耶以那<note place="inline">五</note>
+<lb n="0511a21" ed="T"/>阿伽車他<note place="inline">六</note>迷怛囉質坻<note place="inline">七</note>尼呵閻浮提卑<note place="inline">八</note>
+<lb n="0511a22" ed="T"/>跋利沙陀羅<note place="inline">九</note>憂<note n="0511003" resp="Taisho" place="foot text" type="orig">乙＝七【三】</note><note n="0511003" resp="CBETA" type="mod">乙＝七【宋】【元】【明】</note><app n="0511003"><lem wit="【大】">乙</lem><rdg resp="Taisho" wit="【宋】【元】【明】">七</rdg></app>利闍他<note place="inline">十</note>多他竭哆薩坻
+<lb n="0511a23" ed="T"/>那<note place="inline">十一</note>怛他竭多地利師吒尼那<note place="inline">十二</note>跋折囉波
+<lb n="0511a24" ed="T"/>尼阿囉闍若波夜坻<note place="inline">十三</note><note n="0511004" resp="Taisho" place="foot text" type="orig">何＝阿【三】＊</note><note n="0511004" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->何＝阿【宋】＊【元】＊【明】＊</note><app n="0511004"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【宋】【元】【明】">阿</rdg></app>囉邏何囉邏<note place="inline">十四</note>
+<lb n="0511a25" ed="T"/>俟利履俟利履<note place="inline">十五</note><note n="0511005" resp="Taisho" place="foot text" type="orig">乎＝于【三】＊</note><note n="0511005" resp="CBETA" type="mod">乎＝于【宋】＊【元】＊【明】＊</note><app n="0511005"><lem wit="【大】">乎</lem><rdg resp="Taisho" wit="【宋】【元】【明】">于</rdg></app>抑嚧<app type="star" corresp="#0511005"><lem wit="【大】">乎</lem><rdg resp="Taisho" wit="【宋】【元】【明】">于</rdg></app>抑嚧<note place="inline">十六</note>毘伽
+<lb n="0511a26" ed="T"/>多蜜陀婆跋他<note place="inline">十七</note>薩婆佛闍迦<note place="inline">十八</note>帝利也途
+<lb n="0511a27" ed="T"/>呵婆<note place="inline">十九</note>怛他竭多薩坻那<note place="inline">二十</note>鉗摩鉗摩<note place="inline">二十一</note>
+<pb n="0511b" xml:id="T19.0993.0511b" ed="T"/>
+<lb n="0511b01" ed="T"/>鉗寐鉗寐<note place="inline">二十二</note>鉗慕鉗慕莎呵<note place="inline">二十三</note></p>
+<lb n="0511b02" ed="T"/><p xml:id="pT19p0511b0201" cb:type="dharani">阿婆阿夜寐<note place="inline">一</note>薩婆那鉗<note place="inline">二</note>迷帝羅質坻那<note place="inline">三</note>
+<lb n="0511b03" ed="T"/>菩提質哆弗婆鉗寐那<note place="inline">四</note>那羅那羅<note place="inline">五</note>禰梨禰
+<lb n="0511b04" ed="T"/>梨<note place="inline">六</note>奴盧奴盧<note place="inline">七</note>莎呵</p>
+<lb n="0511b05" ed="T"/><p xml:id="pT19p0511b0501" cb:type="dharani">毘迦吒<note place="inline">一</note>那那毘訖利哆尸利沙<note place="inline">二</note>婆呵娑羅
+<lb n="0511b06" ed="T"/>尸利沙<note place="inline">三</note>曷囉哆叉<note place="inline">四</note>摩呵婆羅<note place="inline">五</note>摩呵摩睺
+<lb n="0511b07" ed="T"/>何羅伽<note place="inline">六</note>那婆呵耶寐<note place="inline">七</note>步呼步呼<note place="inline">八</note>摩呵蒲
+<lb n="0511b08" ed="T"/>闍伽<note place="inline">九</note>蘇<note n="0511006" resp="Taisho" place="foot text" type="orig">磨＝尛【三】</note><note n="0511006" resp="CBETA" type="mod">磨＝尛【宋】【元】【明】</note><app n="0511006"><lem wit="【大】">磨</lem><rdg resp="Taisho" wit="【宋】【元】【明】">尛</rdg></app>囉他<note place="inline">十</note>波羅摩伽<app type="star" corresp="#0511005"><lem wit="【大】">乎</lem><rdg resp="Taisho" wit="【宋】【元】【明】">于</rdg></app>盧尼迦男
+<lb n="0511b09" ed="T"/><note place="inline">十一</note>薩婆分若薩帝闍<note place="inline">十二</note>悉帝嗜多南<note place="inline">十三</note>毘
+<lb n="0511b10" ed="T"/>多翅梨舍南<note place="inline">十四</note>多他竭多南<note place="inline">十五</note>那摩地師吒
+<lb n="0511b11" ed="T"/>南<note place="inline">十六</note>伽茶伽茶<note place="inline">十七</note>耆稚耆稚<note place="inline">十八</note>求冑求冑
+<lb n="0511b12" ed="T"/>莎呵<note n="0511007" resp="Taisho" place="foot text" type="orig">〔十九〕－【三】</note><note n="0511007" resp="CBETA" type="mod">〔十九〕－【宋】【元】【明】</note><app n="0511007"><lem wit="【大】"><note place="inline">十九</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></p>
+<lb n="0511b13" ed="T"/><p xml:id="pT19p0511b1301" cb:type="dharani">唵波羅坻呵多<note place="inline">一</note>婆羅波羅加邏毛殊陀羅<note place="inline">二</note>
+<lb n="0511b14" ed="T"/>跋利沙陀羅<note place="inline">三</note>波羅跋利沙陀<note place="inline">四</note>帝呵閻浮提
+<lb n="0511b15" ed="T"/>卑<note place="inline">五</note>舍羅舍羅<note place="inline">六</note>室利室利<note place="inline">七</note>舒留舒留莎呵
+<lb n="0511b16" ed="T"/><note n="0511008" resp="Taisho" place="foot text" type="orig">〔八〕－【三】</note><note n="0511008" resp="CBETA" type="mod">〔八〕－【宋】【元】【明】</note><app n="0511008"><lem wit="【大】"><note place="inline">八</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></p>
+<lb n="0511b17" ed="T"/><p xml:id="pT19p0511b1701" cb:type="dharani">蒲呼蒲呼<note place="inline">一</note>摩呵那伽<note place="inline">二</note><note n="0511009" resp="Taisho" place="foot text" type="orig">娑＝婆【三】</note><note n="0511009" resp="CBETA" type="mod">娑＝婆【宋】【元】【明】</note><app n="0511009"><lem wit="【大】">娑</lem><rdg resp="Taisho" wit="【宋】【元】【明】">婆</rdg></app>俱羅瞿多羅<note place="inline">三</note>摩
+<lb n="0511b18" ed="T"/>奴蘇摩羅他<note place="inline">四</note>跋利師陀羅<note place="inline">五</note>欝此利闍坻呵
+<lb n="0511b19" ed="T"/>閻浮提卑<note place="inline">六</note>薩婆提婆<note place="inline">七</note>薩底耶地沙咃泥娜
+<lb n="0511b20" ed="T"/><note place="inline">八</note>摩毘嵐末他莎訶<note place="inline">九</note></p>
+<lb n="0511b21" ed="T"/><p xml:id="pT19p0511b2101" cb:type="dharani">波囉呵尛<note place="inline">一</note>薩坻耶地師咃泥哪<note place="inline">二</note>般囉婆利
+<lb n="0511b22" ed="T"/>沙<note place="inline">三</note>帝呵閻浮地卑蘇呵</p>
+<lb n="0511b23" ed="T"/><p xml:id="pT19p0511b2301" cb:type="dharani">釋迦羅薩坻那<note place="inline">一</note>鉢羅婆摩沙他<note place="inline">二</note>摩呵那伽
+<lb n="0511b24" ed="T"/><note place="inline">三</note>伊呵閻浮提卑莎呵<note place="inline">四</note></p>
+<lb n="0511b25" ed="T"/><p xml:id="pT19p0511b2501" cb:type="dharani">遮<note n="0511010" resp="Taisho" place="foot text" type="orig">妬＝沙【三】</note><note n="0511010" resp="CBETA" type="mod">妬＝沙【宋】【元】【明】</note><app n="0511010"><lem wit="【大】">妬</lem><rdg resp="Taisho" wit="【宋】【元】【明】">沙</rdg></app>摩呵何羅闍薩坻那<note place="inline">一</note>鉢囉跋利沙<note place="inline">二</note>伊
+<lb n="0511b26" ed="T"/>呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0511b27" ed="T"/><p xml:id="pT19p0511b2701" cb:type="dharani">阿師吒摩迦<note place="inline">一</note>薩坻那<note place="inline">二</note>鉢囉婆利沙他<note place="inline">三</note>摩
+<lb n="0511b28" ed="T"/>呵那伽<note place="inline">四</note>伊呵閻浮提卑莎呵<note place="inline">五</note></p>
+<lb n="0511b29" ed="T"/><p xml:id="pT19p0511b2901" cb:type="dharani">跋利沙他<note place="inline">一</note>摩呵那伽<note place="inline">二</note>蘇盧多般男薩坻那
+<pb n="0511c" xml:id="T19.0993.0511c" ed="T"/>
+<lb n="0511c01" ed="T"/><note place="inline">三</note>伊呵閻浮提卑莎呵<note place="inline">四</note></p>
+<lb n="0511c02" ed="T"/><p xml:id="pT19p0511c0201" cb:type="dharani">跋利沙他<note place="inline">一</note>摩呵那伽<note place="inline">二</note>薩吉多那伽彌那<note place="inline">三</note>
+<lb n="0511c03" ed="T"/>薩坻那伊呵閻浮提卑莎呵<note place="inline">四</note></p>
+<lb n="0511c04" ed="T"/><p xml:id="pT19p0511c0401" cb:type="dharani">跋利沙他摩呵那伽<note place="inline">一</note><note n="0511011" resp="Taisho" place="foot text" type="orig">那伽彌＝阿那含【元】【明】</note><app n="0511011"><lem wit="【大】">那伽彌</lem><rdg resp="Taisho" wit="【元】【明】">阿那含</rdg></app>薩坻那<note place="inline">二</note>伊呵
+<lb n="0511c05" ed="T"/>閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0511c06" ed="T"/><p xml:id="pT19p0511c0601" cb:type="dharani">跋利沙他摩呵那伽<note place="inline">一</note>阿羅漢薩坻那<note place="inline">二</note>伊呵
+<lb n="0511c07" ed="T"/>閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0511c08" ed="T"/><p xml:id="pT19p0511c0801" cb:type="dharani">跋利沙他<note place="inline">一</note>摩呵那伽<note place="inline">二</note>鉢囉坻迦<note place="inline">三</note>佛陀薩
+<lb n="0511c09" ed="T"/>坻那<note place="inline">四</note>伊呵閻浮地卑<note place="inline">五</note>蘇和呵<note place="inline">六</note></p>
+<lb n="0511c10" ed="T"/><p xml:id="pT19p0511c1001" cb:type="dharani">跋利沙他摩呵那伽<note place="inline">一</note>薩婆佛陀菩提薩埵薩
+<lb n="0511c11" ed="T"/>坻那<note place="inline">二</note>伊呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0511c12" ed="T"/><p xml:id="pT19p0511c1201" cb:type="dharani">鉢利跋利沙他摩呵那伽<note place="inline">一</note>薩婆多他竭多薩
+<lb n="0511c13" ed="T"/>坻地師吒<note n="0511012" resp="Taisho" place="foot text" type="orig">尼＝泥【三】</note><note n="0511012" resp="CBETA" type="mod">尼＝泥【宋】【元】【明】</note><app n="0511012"><lem wit="【大】">尼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">泥</rdg></app>那<note place="inline">二</note>伊呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0511c14" ed="T"/><p xml:id="pT19p0511c1401" cb:type="dharani">薩婆提婆男<note place="inline">一</note>薩坻男<note place="inline">二</note>舍摩耶他<note place="inline">三</note>薩蒲波
+<lb n="0511c15" ed="T"/>達羅婆尼莎呵<note place="inline">四</note></p>
+<lb n="0511c16" ed="T"/><p xml:id="pT19p0511c1601" cb:type="dharani">薩婆那伽男<note place="inline">一</note>薩坻男<note place="inline">二</note>跋波利沙帝呵<note place="inline">三</note>摩
+<lb n="0511c17" ed="T"/><note n="0511013" resp="Taisho" place="foot text" type="orig">呵＋（必）【元】【明】</note><app n="0511013"><lem wit="【大】">呵</lem><rdg resp="Taisho" wit="【元】【明】">呵必</rdg></app>利剃毘閻莎呵<note place="inline">四</note></p>
+<lb n="0511c18" ed="T"/><p xml:id="pT19p0511c1801" cb:type="dharani">薩婆夜叉南<note place="inline">一</note>薩帝男夜叉他<note place="inline">二</note>薩婆薩埵莎
+<lb n="0511c19" ed="T"/>呵<note place="inline">三</note></p>
+<lb n="0511c20" ed="T"/><p xml:id="pT19p0511c2001" cb:type="dharani">薩婆乾闥婆男<note place="inline">一</note>薩帝那波呵羅多<note place="inline">二</note>薩婆耶
+<lb n="0511c21" ed="T"/>蘇波陀羅婆尼<note place="inline">三</note>薩婆摩奴沙男莎呵<note place="inline">四</note></p>
+<lb n="0511c22" ed="T"/><p xml:id="pT19p0511c2201" cb:type="dharani">薩婆阿脩羅𠲸<note place="inline">一</note>薩坻那<note place="inline">二</note>毘尼跋多夜多<note place="inline">三</note>
+<lb n="0511c23" ed="T"/>薩婆毘沙摩那叉多羅尼莎呵<note place="inline">四</note></p>
+<lb n="0511c24" ed="T"/><p xml:id="pT19p0511c2401" cb:type="dharani">薩婆迦樓<note n="0511014" resp="Taisho" place="foot text" type="orig">〔羅〕－【三】</note><note n="0511014" resp="CBETA" type="mod">〔羅〕－【宋】【元】【明】</note><app n="0511014"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>男<note place="inline">一</note>薩帝那<note place="inline">二</note>迷帝林鳩盧多
+<lb n="0511c25" ed="T"/><note place="inline">三</note>薩婆那伽𠲸<note place="inline">四</note><note n="0511015" resp="Taisho" place="foot text" type="orig">抴＝枻【三】</note><note n="0511015" resp="CBETA" type="mod">抴＝枻【宋】【元】【明】</note><app n="0511015"><lem wit="【大】">抴</lem><rdg resp="Taisho" wit="【宋】【元】【明】">枻</rdg></app>地呵閻浮提卑<note place="inline">五</note>摩呵跋
+<lb n="0511c26" ed="T"/>　利沙陀羅<note n="0511016" resp="Taisho" place="foot text" type="orig">〔六〕－【三】</note><note n="0511016" resp="CBETA" type="mod">〔六〕－【宋】【元】【明】</note><app n="0511016"><lem wit="【大】"><note place="inline">六</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>欝次嗜與莎呵<note place="inline"><note n="0511017" resp="Taisho" place="foot text" type="orig">七＝六【三】</note><note n="0511017" resp="CBETA" type="mod">七＝六【宋】【元】【明】</note><app n="0511017"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【宋】【元】【明】">六</rdg></app></note></p>
+<lb n="0511c27" ed="T"/><p xml:id="pT19p0511c2701" cb:type="dharani">薩婆緊陀羅男<note place="inline">一</note>薩帝那奢摩耶他<note place="inline">二</note>薩婆波
+<lb n="0511c28" ed="T"/>波<note place="inline">補藍<app type="star" corresp="#0509002"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【明】">切</rdg></app></note>波羅呵邏大耶他<note place="inline">三</note>薩婆薩埵莎呵<note place="inline">四</note></p>
+<lb n="0511c29" ed="T"/><p xml:id="pT19p0511c2901" cb:type="dharani">薩婆摩睺<note n="0511018" resp="Taisho" place="foot text" type="orig">〔何〕－【元】【明】</note><app n="0511018"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【元】【明】"><space quantity="0"/></rdg></app>羅伽男<note place="inline">一</note>薩坻那<note place="inline">二</note>毘富羅毘悉
+<pb n="0512a" xml:id="T19.0993.0512a" ed="T"/>
+<lb n="0512a01" ed="T"/>提利拏<note place="inline">三</note>跋利沙陀呵羅<note place="inline">四</note>欝次梨闍他<note place="inline">五</note>那
+<lb n="0512a02" ed="T"/>陀羅夜他<note place="inline">六</note>般遮跋利沙跋羅奴莎呵<note place="inline">七</note></p>
+<lb n="0512a03" ed="T"/><p xml:id="pT19p0512a0301" cb:type="dharani">薩婆摩奴沙𠲸<note place="inline">一</note>薩坻那<note place="inline">二</note>波利波羅耶他<note place="inline">三</note>
+<lb n="0512a04" ed="T"/>薩婆摩男衫莎呵<note place="inline">四</note></p>
+<lb n="0512a05" ed="T"/><p xml:id="pT19p0512a0501" cb:type="dharani">迦羅迦羅<note place="inline">一</note>只利只利<note place="inline">二</note>俱留俱留<note place="inline">三</note>陀羅陀
+<lb n="0512a06" ed="T"/>羅<note place="inline">四</note>地利地利<note place="inline">五</note>豆留豆留<note place="inline">六</note>那吒那吒<note place="inline">七</note>禰致
+<lb n="0512a07" ed="T"/>禰致<note place="inline">八</note>訥晝訥晝<note place="inline">九</note>蘇尸伽囉呵婆醯尼<note place="inline">十</note>摩
+<lb n="0512a08" ed="T"/>呵彌鉗浮達利<note place="inline">十一</note>彌岐彌岐<note place="inline">十二</note>摩訶彌岐<note place="inline">十
+<lb n="0512a09" ed="T"/>三</note>摩呵彌鉗佛達利<note place="inline">十四</note>彌瞿除地坻<note place="inline">十五</note>彌伽
+<lb n="0512a10" ed="T"/>三婆鞞<note place="inline">十六</note>迦羅彌岐<note place="inline">十七</note>彌伽迦利<note n="0512001" resp="Taisho" place="foot text" type="orig">〔十八〕－【三】</note><note n="0512001" resp="CBETA" type="mod">〔十八〕－【宋】【元】【明】</note><app n="0512001"><lem wit="【大】"><note place="inline">十八</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>彌伽
+<lb n="0512a11" ed="T"/>竭利闍尼<note place="inline"><note n="0512002" resp="Taisho" place="foot text" type="orig">十九＝十八【三】</note><note n="0512002" resp="CBETA" type="mod">十九＝十八【宋】【元】【明】</note><app n="0512002"><lem wit="【大】">十九</lem><rdg resp="Taisho" wit="【宋】【元】【明】">十八</rdg></app></note>彌瞿虱帝<note place="inline"><note n="0512003" resp="Taisho" place="foot text" type="orig">二十＝十九【三】</note><note n="0512003" resp="CBETA" type="mod">二十＝十九【宋】【元】【明】</note><app n="0512003"><lem wit="【大】">二十</lem><rdg resp="Taisho" wit="【宋】【元】【明】">十九</rdg></app></note>彌伽毛利<note n="0512004" resp="Taisho" place="foot text" type="orig">〔二十一〕－【三】</note><note n="0512004" resp="CBETA" type="mod">〔二十一〕－【宋】【元】【明】</note><app n="0512004"><lem wit="【大】"><note place="inline">二十一</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>
+<lb n="0512a12" ed="T"/>彌伽摩羅達利<note place="inline"><note n="0512005" resp="Taisho" place="foot text" type="orig">二十二＝二十【三】，以下記數至四十三本倣之</note><note n="0512005" resp="CBETA" type="mod">二十二＝二十【宋】【元】【明】，<!--CBETA todo type: i-->以下記數至四十三本倣之</note><app n="0512005"><lem wit="【大】">二十二</lem><rdg resp="Taisho" wit="【宋】【元】【明】">二十</rdg></app></note>彌伽毘浮師帝<note place="inline">二十三</note>彌伽
+<lb n="0512a13" ed="T"/>耶禰<note place="inline">二十四</note>彌伽禰婆私尼<note place="inline">二十五</note>彌伽竭毘<note place="inline">二十六</note>彌
+<lb n="0512a14" ed="T"/>伽闍知<note place="inline">二十七</note>禰伽般羅鞞<note place="inline">二十八</note>彌伽般利婆利<note place="inline">二十
+<lb n="0512a15" ed="T"/>九</note>毘富羅彌伽除師帝<note place="inline">三十</note>彌伽<note n="0512006" resp="Taisho" place="foot text" type="orig">抴𡦗＝枻孺【元】【明】</note><note n="0512006" resp="CBETA" type="mod">抴<choice cb:resp="CBETA.maha"><corr><g ref="#CB03713"/></corr><sic>𡦗</sic></choice>＝枻孺【元】【明】</note><app n="0512006"><lem wit="【大】">抴<g ref="#CB03713"/></lem><rdg resp="Taisho" wit="【元】【明】">枻孺</rdg></app>波毘帝
+<lb n="0512a16" ed="T"/><note place="inline">三十一</note>薩鬘樹呵梨<note n="0512007" resp="Taisho" place="foot text" type="orig">〔三十二〕－【三】</note><note n="0512007" resp="CBETA" type="mod">〔三十二〕－【宋】【元】【明】</note><app n="0512007"><lem wit="【大】"><note place="inline">三十二</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>祇利于陀<note n="0512008" resp="Taisho" place="foot text" type="orig">羅＋（三十）細註【三】</note><note n="0512008" resp="CBETA" type="mod">羅＋（三十）細註【宋】【元】【明】</note><app n="0512008"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】【元】【明】">羅<note place="inline">三十</note></rdg></app>禰婆斯尼
+<lb n="0512a17" ed="T"/><note place="inline">三十三</note>那伽摩坻<note place="inline">三十四</note>婆伽婆帝<note place="inline">三十五</note>摩呵彌岐<note place="inline">三十六</note>
+<lb n="0512a18" ed="T"/>尸末樹坻何囉斯<note place="inline">三十七</note>尸利多三般利施<note place="inline">三十八</note>摩
+<lb n="0512a19" ed="T"/>呵婆多<note place="inline">三十九</note>曼茶利瞿遮利<note place="inline">四十</note>摩呵那<note n="0512009" resp="Taisho" place="foot text" type="orig">伽＋（三十九）細註【三】</note><note n="0512009" resp="CBETA" type="mod">伽＋（三十九）細註【宋】【元】【明】</note><app n="0512009"><lem wit="【大】">伽</lem><rdg resp="Taisho" wit="【宋】【元】【明】">伽<note place="inline">三十九</note></rdg></app>毘
+<lb n="0512a20" ed="T"/>訖利墀坻<note place="inline"><note n="0512010" resp="Taisho" place="foot text" type="orig">四十一＝四十【三】</note><note n="0512010" resp="CBETA" type="mod">四十一＝四十【宋】【元】【明】</note><app n="0512010"><lem wit="【大】">四十一</lem><rdg resp="Taisho" wit="【宋】【元】【明】">四十</rdg></app></note>婆伽婆帝<note place="inline"><note n="0512011" resp="Taisho" place="foot text" type="orig">四十二＝四十一【三】</note><note n="0512011" resp="CBETA" type="mod">四十二＝四十一【宋】【元】【明】</note><app n="0512011"><lem wit="【大】">四十二</lem><rdg resp="Taisho" wit="【宋】【元】【明】">四十一</rdg></app></note>裒地<note n="0512012" resp="Taisho" place="foot text" type="orig">利＋（四十二）細註【三】</note><note n="0512012" resp="CBETA" type="mod">利＋（四十二）細註【宋】【元】【明】</note><app n="0512012"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【宋】【元】【明】">利<note place="inline">四十二</note></rdg></app>殺茶
+<lb n="0512a21" ed="T"/>囉娑耶那<note place="inline">四十三</note>陀憐<note n="0512013" resp="Taisho" place="foot text" type="orig">尼＋（四十四）細註【三】</note><note n="0512013" resp="CBETA" type="mod">尼＋（四十四）細註【宋】【元】【明】</note><app n="0512013"><lem wit="【大】">尼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">尼<note place="inline">四十四</note></rdg></app>波羅婆利沙<note place="inline"><note n="0512014" resp="Taisho" place="foot text" type="orig">四十四＝四十五【三】，以下記數至四十六三本倣之</note><note n="0512014" resp="CBETA" type="mod">四十四＝四十五【宋】【元】【明】，<!--CBETA todo type: i-->以下記數至四十六三本倣之</note><app n="0512014"><lem wit="【大】">四十四</lem><rdg resp="Taisho" wit="【宋】【元】【明】">四十五</rdg></app></note>佛
+<lb n="0512a22" ed="T"/>陀薩坻那<note place="inline">四十五</note>伊呵閻浮提卑莎呵<note place="inline">四十六</note></p>
+<lb n="0512a23" ed="T"/><p xml:id="pT19p0512a2301" cb:type="dharani">伽羅伽羅<note place="inline">一</note>岐利岐利<note place="inline">二</note>瞿留瞿留<note place="inline">三</note>岐利尼
+<lb n="0512a24" ed="T"/>岐利尼岐利尼<note place="inline">四</note>瞿摩瞿摩瞿摩瞿摩　瞿摩
+<lb n="0512a25" ed="T"/>瞿摩　瞿摩瞿摩瞿<note n="0512015" resp="Taisho" place="foot text" type="orig">摩＋（瞿摩）【三】</note><note n="0512015" resp="CBETA" type="mod">摩＋（瞿摩）【宋】【元】【明】</note><app n="0512015"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【宋】【元】【明】">摩瞿摩</rdg></app>末利<note place="inline">五</note>那婆尸利師<note place="inline">六</note>
+<lb n="0512a26" ed="T"/>摩呵彌伽摩利尼<note place="inline">七</note>比住迦羅波摩利尼<note place="inline">八</note>薩
+<lb n="0512a27" ed="T"/>婆浮虛闍伽陀呵憐尼<note place="inline">九</note>彌伽鉢吒跋薩怛囉
+<lb n="0512a28" ed="T"/><note place="inline">十</note>陀憐尼<note place="inline">十一</note>薩婆比沙伽囉瞿遮利<note place="inline">十二</note>彌伽
+<pb n="0512b" xml:id="T19.0993.0512b" ed="T"/>
+<lb n="0512b01" ed="T"/>比呵婆呵禰<note place="inline">十三</note>揭利闍尼那檀尼<note place="inline">十四</note>地<note n="0512016" resp="Taisho" place="foot text" type="orig">尼＝尸【宋】</note><app n="0512016"><lem wit="【大】">尼</lem><rdg resp="Taisho" wit="【宋】">尸</rdg></app>
+<lb n="0512b02" ed="T"/><note place="inline">十五</note>那伽伽拏那珠達尼<note place="inline">十六</note>朱達耶提比<note place="inline">十七</note>
+<lb n="0512b03" ed="T"/>摩呵彌伽摩利尼<note place="inline">十八</note>怛他揭多薩坻那<note place="inline">十九</note>薩
+<lb n="0512b04" ed="T"/>婆那伽<note place="inline">二十</note>婆利沙他<note place="inline">二十一</note>摩比嵐婆<note place="inline">二十二</note>伊呵
+<lb n="0512b05" ed="T"/>閻浮提卑莎呵<note place="inline">二十三</note></p>
+<lb n="0512b06" ed="T"/><p xml:id="pT19p0512b0601" cb:type="dharani">夜羅夜羅<note place="inline">一</note>溢利溢利<note place="inline">二</note>與<note n="0512017" resp="Taisho" place="foot text" type="orig">慮＝盧【宋】＊</note><app n="0512017"><lem wit="【大】">慮</lem><rdg resp="Taisho" wit="【宋】">盧</rdg></app>與<app type="star" corresp="#0512017"><lem wit="【大】">慮</lem><rdg resp="Taisho" wit="【宋】">盧</rdg></app><note place="inline">三</note>樹慮
+<lb n="0512b07" ed="T"/>樹慮<note place="inline">四</note>視利視利<note place="inline">五</note>闍<note n="0512018" resp="Taisho" place="foot text" type="orig">羅＝呵【三】</note><note n="0512018" resp="CBETA" type="mod">羅＝呵【宋】【元】【明】</note><app n="0512018"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】【元】【明】">呵</rdg></app>闍羅<note place="inline">六</note>舊茶舊茶
+<lb n="0512b08" ed="T"/><note n="0512019" resp="Taisho" place="foot text" type="orig">舊＋（荼）【三】</note><note n="0512019" resp="CBETA" type="mod">舊＋（荼）【宋】【元】【明】</note><app n="0512019"><lem wit="【大】">舊</lem><rdg resp="Taisho" wit="【宋】【元】【明】">舊荼</rdg></app>舊茶<note place="inline">七</note>伽茶伽茶<note place="inline">八</note>岐治岐治<note place="inline">九</note>呵羅呵羅
+<lb n="0512b09" ed="T"/><note place="inline">十</note><note n="0512020" resp="Taisho" place="foot text" type="orig">泥＝呢【三】＊</note><note n="0512020" resp="CBETA" type="mod">泥＝呢【宋】＊【元】＊【明】＊</note><app n="0512020"><lem wit="【大】">泥</lem><rdg resp="Taisho" wit="【宋】【元】【明】">呢</rdg></app>利<app type="star" corresp="#0512020"><lem wit="【大】">泥</lem><rdg resp="Taisho" wit="【宋】【元】【明】">呢</rdg></app>利<note place="inline">十一</note>牟漏牟漏<note place="inline">十二</note>多羅多羅
+<lb n="0512b10" ed="T"/><note place="inline">十三</note>帝利帝利<note place="inline">十四</note>鬪漏鬪漏<note place="inline">十五</note>呵那呵那<note place="inline">十六</note>
+<lb n="0512b11" ed="T"/>陀呵陀呵<note place="inline">十七</note>鉢遮鉢遮<note place="inline">十八</note>姞利呵拏姞利呵
+<lb n="0512b12" ed="T"/>拏<note place="inline">十九</note>末利馱末利馱<note place="inline">二十</note>鉢囉末馱鉢囉末馱
+<lb n="0512b13" ed="T"/><note place="inline">二十一</note>薩婆跋利沙比揭那呵<note place="inline">二十二</note>迷帝利余折
+<lb n="0512b14" ed="T"/><note n="0512021" resp="Taisho" place="foot text" type="orig">壞＝壤【三】</note><note n="0512021" resp="CBETA" type="mod">壞＝壤【宋】【元】【明】</note><app n="0512021"><lem wit="【大】">壞</lem><rdg resp="Taisho" wit="【宋】【元】【明】">壤</rdg></app>簸曳帝莎呵<note place="inline">二十三</note></p>
+<lb n="0512b15" ed="T"/><p xml:id="pT19p0512b1501" cb:type="dharani">佛提醯佛提醯佛提醯<note place="inline">一</note>佛佛提醯<note place="inline">二</note>佛提呵
+<lb n="0512b16" ed="T"/>囉波波<note place="inline">補藍<app type="star" corresp="#0509002"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【明】">切</rdg></app>三</note>薩婆薩埵男<note place="inline">四</note>阿地殺吒耶奔
+<lb n="0512b17" ed="T"/>𠲸<note place="inline">五</note>薩婆佛陀𠲸<note place="inline">六</note>陀憐尼達利<note place="inline">七</note>叔波末帝<note place="inline">八</note>
+<lb n="0512b18" ed="T"/>瞿那揭囉鉢囉鉢尼<note place="inline">九</note>摩呵闍若奴力翅<note place="inline">十</note>叔
+<lb n="0512b19" ed="T"/>訖囉達迷<note place="inline">十一</note>薩帝也鉢帝時尼<note place="inline">十二</note>摩呵耶那
+<lb n="0512b20" ed="T"/>豆師帝<note place="inline">十三</note>盧迦祇<note n="0512022" resp="Taisho" place="foot text" type="orig">師＝帥【元】【明】</note><app n="0512022"><lem wit="【大】">師</lem><rdg resp="Taisho" wit="【元】【明】">帥</rdg></app><note place="inline">十四</note>婆伽婆帝<note place="inline">十五</note>佛陀
+<lb n="0512b21" ed="T"/>迷帝利<note place="inline">十六</note><note n="0512023" resp="Taisho" place="foot text" type="orig">何＝阿【元】【明】＊</note><app n="0512023"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【元】【明】">阿</rdg></app>否<app type="star" corresp="#0512023"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【元】【明】">阿</rdg></app>囉耶<note place="inline">十七</note>薩<note n="0512024" resp="Taisho" place="foot text" type="orig">婆＝菩【明】</note><app n="0512024"><lem wit="【大】">婆</lem><rdg resp="Taisho" wit="【明】">菩</rdg></app>差多囉
+<lb n="0512b22" ed="T"/>尼<note place="inline">十八</note>叔迦羅<note place="inline">十九</note>施耽跋利<note place="inline">二十</note>般茶囉婆私
+<lb n="0512b23" ed="T"/>尼<note place="inline">二十一</note>豆豆隷<note place="inline">二十二</note>豆豆留<note place="inline">二十三</note>睒摩睒摩<note place="inline">二十四</note>
+<lb n="0512b24" ed="T"/>羶哆摩那私<note place="inline">二十五</note>薩婆跋利沙比其那呵<note place="inline">二十六</note>比
+<lb n="0512b25" ed="T"/>師鉗婆耶莎呵<note place="inline">二十七</note></p>
+<lb n="0512b26" ed="T"/><p xml:id="pT19p0512b2601" cb:type="dharani">薩婆帝利豆婆<note place="inline">一</note>多他揭多薩坻那<note place="inline">二</note>迷多羅
+<lb n="0512b27" ed="T"/>質<note n="0512025" resp="Taisho" place="foot text" type="orig">多＋（耶）【三】</note><note n="0512025" resp="CBETA" type="mod">多＋（耶）【宋】【元】【明】</note><app n="0512025"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【宋】【元】【明】">多耶</rdg></app><note place="inline">三</note>薩鉗婆囉哆<note place="inline">四</note>多逋禰耶摩質哆<note place="inline">五</note>多
+<lb n="0512b28" ed="T"/>耶<note place="inline">六</note>摩呵那伽曷<note n="0512026" resp="Taisho" place="foot text" type="orig">囉＝羅【三】</note><note n="0512026" resp="CBETA" type="mod">囉＝羅【宋】【元】【明】</note><app n="0512026"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">羅</rdg></app>闍<note place="inline">七</note>薩珠陀耶寐莎呵<note place="inline">八</note></p>
+<pb n="0512c" xml:id="T19.0993.0512c" ed="T"/>
+<lb n="0512c01" ed="T"/><p xml:id="pT19p0512c0101" cb:type="dharani">阿難哆<note place="inline">一</note>波利迦羅<note place="inline">二</note>娑伽羅<note place="inline">三</note>彌伽比余呵<note place="inline">四</note>
+<lb n="0512c02" ed="T"/>坻殊曼多羅車多羅<note place="inline">五</note>迦囉何羅闍<note place="inline">六</note>那伽地
+<lb n="0512c03" ed="T"/>鉢帝<note place="inline">七</note>刪珠達耶寐<note place="inline">八</note>鉢羅跋利師呵閻浮提
+<lb n="0512c04" ed="T"/>卑莎呵<note place="inline">九</note></p>
+<lb n="0512c05" ed="T"/><p xml:id="pT19p0512c0501" cb:type="dharani">難途般難導那伽羅韶<note place="inline">一</note>薩珠達也彌<note place="inline">二</note>鉢跋
+<lb n="0512c06" ed="T"/>利沙他呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0512c07" ed="T"/><p xml:id="pT19p0512c0701" cb:type="dharani">娑伽羅<note n="0512027" resp="Taisho" place="foot text" type="orig">濫＝灆【三】</note><note n="0512027" resp="CBETA" type="mod">濫＝灆【宋】【元】【明】</note><app n="0512027"><lem wit="【大】">濫</lem><rdg resp="Taisho" wit="【宋】【元】【明】">灆</rdg></app>那伽曷羅闍<note place="inline">一</note><note n="0512028" resp="Taisho" place="foot text" type="orig">那＝刪【三】＊</note><note n="0512028" resp="CBETA" type="mod">那＝刪【宋】＊【元】＊【明】＊</note><app n="0512028"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【宋】【元】【明】">刪</rdg></app>珠馱耶寐<note place="inline">二</note>鉢
+<lb n="0512c08" ed="T"/>跋利沙呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0512c09" ed="T"/><p xml:id="pT19p0512c0901" cb:type="dharani">阿難跋沓耽<note place="inline">一</note>那伽羅閻<note place="inline">二</note>薩珠馱耶寐<note place="inline">三</note><note n="0512029" resp="Taisho" place="foot text" type="orig">（鉢）＋跋【三】</note><note n="0512029" resp="CBETA" type="mod">（鉢）＋跋【宋】【元】【明】</note><app n="0512029"><lem wit="【大】">跋</lem><rdg resp="Taisho" wit="【宋】【元】【明】">鉢跋</rdg></app>
+<lb n="0512c10" ed="T"/>利沙呵閻浮提卑莎呵<note place="inline">四</note></p>
+<lb n="0512c11" ed="T"/><p xml:id="pT19p0512c1101" cb:type="dharani">摩那斯毘那伽羅閻<note place="inline">一</note>薩珠馱耶寐<note place="inline">二</note>鉢跋利
+<lb n="0512c12" ed="T"/>沙呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0512c13" ed="T"/><p xml:id="pT19p0512c1301" cb:type="dharani">跋留𠲸那伽羅閻<note place="inline">一</note>薩珠馱耶寐<note place="inline">二</note>鉢跋利沙
+<lb n="0512c14" ed="T"/>呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0512c15" ed="T"/><p xml:id="pT19p0512c1501" cb:type="dharani">多叉鉗那伽羅閻<note place="inline">一</note>薩珠馱耶寐<note place="inline">二</note>鉢跋利沙
+<lb n="0512c16" ed="T"/>呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0512c17" ed="T"/><p xml:id="pT19p0512c1701" cb:type="dharani">提頭賴多何羅殺欽<note place="inline">一</note>那伽羅閻<note place="inline">二</note><app type="star" corresp="#0512028"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【宋】【元】【明】">刪</rdg></app>珠馱耶
+<lb n="0512c18" ed="T"/>寐鉢跋利沙呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0512c19" ed="T"/><p xml:id="pT19p0512c1901" cb:type="dharani">婆須吉那伽羅閻<note place="inline">一</note>薩珠馱耶寐<note place="inline">二</note>鉢跋利沙
+<lb n="0512c20" ed="T"/>呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0512c21" ed="T"/><p xml:id="pT19p0512c2101" cb:type="dharani">目真陀那伽羅閻<note place="inline">一</note>薩珠馱耶寐<note place="inline">二</note>鉢跋利沙
+<lb n="0512c22" ed="T"/>呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0512c23" ed="T"/><p xml:id="pT19p0512c2301" cb:type="dharani">伊蘭跋<note n="0512030" resp="Taisho" place="foot text" type="orig">男＝𠲸【三】</note><note n="0512030" resp="CBETA" type="mod">男＝𠲸【宋】【元】【明】</note><app n="0512030"><lem wit="【大】">男</lem><rdg resp="Taisho" wit="【宋】【元】【明】">𠲸</rdg></app>那伽羅閻<note place="inline">一</note>薩珠馱耶寐<note place="inline">二</note>鉢跋
+<lb n="0512c24" ed="T"/><note n="0512031" resp="Taisho" place="foot text" type="orig">利＋（沙）【三】＊</note><note n="0512031" resp="CBETA" type="mod">利＋（沙）【宋】＊【元】＊【明】＊</note><app n="0512031"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【宋】【元】【明】">利沙</rdg></app>呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0512c25" ed="T"/><p xml:id="pT19p0512c2501" cb:type="dharani">裒雲達<anchor xml:id="fxT19p0512c02"/>濫那伽羅閻<note place="inline">一</note>薩珠馱耶寐<note place="inline">二</note>鉢跋
+<lb n="0512c26" ed="T"/><app type="star" corresp="#0512031"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【宋】【元】【明】">利沙</rdg></app>呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0512c27" ed="T"/><p xml:id="pT19p0512c2701" cb:type="dharani">尸利帝闍那伽羅閻<note place="inline">一</note>薩珠馱耶寐<note place="inline">二</note>鉢跋利
+<lb n="0512c28" ed="T"/>沙呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0512c29" ed="T"/><p xml:id="pT19p0512c2901" cb:type="dharani">尸利婆呵曇<note n="0512032" resp="Taisho" place="foot text" type="orig">般＝那【元】【明】</note><app n="0512032"><lem wit="【大】">般</lem><rdg resp="Taisho" wit="【元】【明】">那</rdg></app>伽<note n="0512033" resp="Taisho" place="foot text" type="orig">羅＝婆【宋】</note><app n="0512033"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】">婆</rdg></app>閻<note place="inline">一</note>薩珠馱耶寐<note place="inline">二</note>鉢
+<pb n="0513a" xml:id="T19.0993.0513a" ed="T"/>
+<lb n="0513a01" ed="T"/>跋利沙呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0513a02" ed="T"/><p xml:id="pT19p0513a0201" cb:type="dharani">比住與摩利𠲸那伽羅閻<note place="inline">一</note>刪珠馱耶寐<note place="inline">二</note>鉢
+<lb n="0513a03" ed="T"/>跋利沙呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0513a04" ed="T"/><p xml:id="pT19p0513a0401" cb:type="dharani">摩呵摩尼珠曇那伽羅閻<note place="inline">一</note>刪珠馱耶寐<note place="inline">二</note>鉢
+<lb n="0513a05" ed="T"/>跋利沙呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0513a06" ed="T"/><p xml:id="pT19p0513a0601" cb:type="dharani">周茶末尼馱<note n="0513001" resp="Taisho" place="foot text" type="orig">藍＝灆【三】</note><note n="0513001" resp="CBETA" type="mod">藍＝灆【宋】【元】【明】</note><app n="0513001"><lem wit="【大】">藍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">灆</rdg></app>那伽羅閻<note place="inline">一</note>刪珠馱耶寐<note place="inline">二</note>鉢
+<lb n="0513a07" ed="T"/>跋利沙呵閻浮提卑莎呵<note n="0513002" resp="Taisho" place="foot text" type="orig">〔三〕－【宋】</note><app n="0513002"><lem wit="【大】"><note place="inline">三</note></lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app></p>
+<lb n="0513a08" ed="T"/><p xml:id="pT19p0513a0801" cb:type="dharani">阿婆婆娑那式欠那伽羅閻<note place="inline">一</note>刪珠馱耶寐<note place="inline">二</note>
+<lb n="0513a09" ed="T"/>鉢跋利沙呵閻浮提卑莎呵<note place="inline">三</note></p>
+<lb n="0513a10" ed="T"/><p xml:id="pT19p0513a1001" cb:type="dharani">伊梵<note place="inline">一</note>鉢利目冗<note place="inline">二</note>薩婆<app type="star" corresp="#0512028"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【宋】【元】【明】">刪</rdg></app>伽羅<note n="0513003" resp="Taisho" place="foot text" type="orig">闍＝閻【三】</note><note n="0513003" resp="CBETA" type="mod">闍＝閻【宋】【元】【明】</note><app n="0513003"><lem wit="【大】">闍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">閻</rdg></app><note place="inline">三</note>刪珠
+<lb n="0513a11" ed="T"/>地耶彌<note place="inline">四</note>鉢利婆師伊呵閻浮<note n="0513004" resp="Taisho" place="foot text" type="orig">提＝地【三】</note><note n="0513004" resp="CBETA" type="mod">提＝地【宋】【元】【明】</note><app n="0513004"><lem wit="【大】">提</lem><rdg resp="Taisho" wit="【宋】【元】【明】">地</rdg></app>卑沙呵<note n="0513005" resp="Taisho" place="foot text" type="orig">〔五〕－【宋】</note><app n="0513005"><lem wit="【大】"><note place="inline">五</note></lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app></p>
+<lb n="0513a12" ed="T"/><p xml:id="pT19p0513a1201" cb:type="dharani">那岐那岐<note place="inline">一</note>摩呵那岐<note place="inline">二</note>瞿羅摩那斯<note place="inline">三</note>那伽
+<lb n="0513a13" ed="T"/>㕧利陀耶<note place="inline">四</note>頭摩鳩隷<note place="inline">五</note><note n="0513006" resp="Taisho" place="foot text" type="orig">隨＝隋【宋】，郁【元】【明】</note><note n="0513006" resp="CBETA" type="mod">隨＝隋【宋】，＝郁【元】【明】</note><app n="0513006"><lem wit="【大】">隨</lem><rdg resp="Taisho" wit="【宋】">隋</rdg><rdg resp="Taisho" wit="【元】【明】">郁</rdg></app>其囉于嚧師<note place="inline">六</note>波
+<lb n="0513a14" ed="T"/>羅<note n="0513007" resp="Taisho" place="foot text" type="orig">旃＝栴【宋】【元】</note><app n="0513007"><lem wit="【大】">旃</lem><rdg resp="Taisho" wit="【宋】【元】">栴</rdg></app>茶坻祇<note place="inline">七</note>比疎姞梨<note place="inline">八</note>阿尸比師<note place="inline">九</note>阿㕧
+<lb n="0513a15" ed="T"/>瞿梨<note place="inline">十</note>訖師拏賓伽隷<note place="inline">十一</note><note n="0513008" resp="Taisho" place="foot text" type="orig">贍＝瞻【三】</note><note n="0513008" resp="CBETA" type="mod">贍＝瞻【宋】【元】【明】</note><app n="0513008"><lem wit="【大】">贍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">瞻</rdg></app>遮隷<note place="inline">十二</note>嚧羅
+<lb n="0513a16" ed="T"/>時鞞<note place="inline">十三</note>摩呵破那迦梨<note place="inline">十四</note>迦囉波施<note place="inline">十五</note>何
+<lb n="0513a17" ed="T"/>嚧陀羅婆斯尼<note place="inline">十六</note>頭沈比<note place="inline">十七</note>波羅波羅<note place="inline">十八</note>
+<lb n="0513a18" ed="T"/>必利必利<note place="inline">十九</note>富樓富樓<note place="inline">二十</note>比悉剖利闍泥
+<lb n="0513a19" ed="T"/><note place="inline">二十一</note>浮留浮留<note place="inline">二十二</note>摩呵浮<note n="0513009" resp="Taisho" place="foot text" type="orig">盧＝虛【三】</note><note n="0513009" resp="CBETA" type="mod">盧＝虛【宋】【元】【明】</note><app n="0513009"><lem wit="【大】">盧</lem><rdg resp="Taisho" wit="【宋】【元】【明】">虛</rdg></app>祇<note place="inline">二十三</note>摩尼達利
+<lb n="0513a20" ed="T"/><note place="inline">二十四</note>遲利遲利<note place="inline">二十五</note>籌留籌留<note place="inline">二十六</note>茶囉茶囉<note place="inline">二十
+<lb n="0513a21" ed="T"/>七</note>跋利沙跋利沙<note place="inline">二十八</note>折濫浮達利<note place="inline">二十九</note>苫浮苫
+<lb n="0513a22" ed="T"/>浮<note place="inline">三十</note>跋羅呵雞<note place="inline">三十一</note>那吒那吒<note place="inline">三十二</note>欽欽毘<note place="inline">三十
+<lb n="0513a23" ed="T"/>三</note>琛琛琛琛避<note place="inline">三十四</note>彌伽波羅鞞<note place="inline">三十五</note>彌伽波醯
+<lb n="0513a24" ed="T"/>泥<note place="inline">三十六</note>茶迦茶迦茶迦<note place="inline">三十七</note>茶籌鞞<note place="inline">三十八</note>伽拏迦
+<lb n="0513a25" ed="T"/>拏<note place="inline">三十九</note>尸棄禰<note place="inline">四十</note>迦拏迦拏<note place="inline">四十一</note>伽拏迦拏<note place="inline">四十
+<lb n="0513a26" ed="T"/>二</note>摩呵那伽伽拏<note place="inline">四十三</note>禰羅多嵐晝與簸<note place="inline">四十四</note>闍
+<lb n="0513a27" ed="T"/>羅得迦紇利<note place="inline">四十五</note>摩呵那伽紇利馱曳<note place="inline">四十六</note>瞿摩
+<pb n="0513b" xml:id="T19.0993.0513b" ed="T"/>
+<lb n="0513b01" ed="T"/>瞿摩<note place="inline">四十七</note>瞿摩波耶<note place="inline">四十八</note>悉坻迦闍利浮<note n="0513010" resp="Taisho" place="foot text" type="orig">閻＝闍【元】【明】</note><app n="0513010"><lem wit="【大】">閻</lem><rdg resp="Taisho" wit="【元】【明】">闍</rdg></app>鉗
+<lb n="0513b02" ed="T"/>迷<note place="inline">四十九</note>比迦吒<note place="inline">五十</note>僧迦吒<note place="inline">五十一</note>瞿<note n="0513011" resp="Taisho" place="foot text" type="orig">嚧＝噓【三】</note><note n="0513011" resp="CBETA" type="mod">嚧＝噓【宋】【元】【明】</note><app n="0513011"><lem wit="【大】">嚧</lem><rdg resp="Taisho" wit="【宋】【元】【明】">噓</rdg></app>囉比四
+<lb n="0513b03" ed="T"/><note n="0513012" resp="Taisho" place="foot text" type="orig">捊＝桴【三】</note><note n="0513012" resp="CBETA" type="mod">捊＝桴【宋】【元】【明】</note><app n="0513012"><lem wit="【大】">捊</lem><rdg resp="Taisho" wit="【宋】【元】【明】">桴</rdg></app>利闍尼<note place="inline">五十二</note>毘折林波尼<note place="inline">五十三</note>阿婆呵耶寐
+<lb n="0513b04" ed="T"/><note place="inline">五十四</note>娑婆那鉗<note place="inline">五十五</note>薩婆佛陀地虱吒泥娜<note place="inline">五十六</note>
+<lb n="0513b05" ed="T"/>薩婆帝利也豆婆<note place="inline">五十七</note>怛他揭多薩坻那<note place="inline">五十八</note>迷
+<lb n="0513b06" ed="T"/>多囉折坻娜<note place="inline">五十九</note>鉢婆囉波利沙<note place="inline">六十</note>坻呵閻浮
+<lb n="0513b07" ed="T"/>提卑莎呵<note place="inline">六十一</note></p>
+<lb n="0513b08" ed="T"/><p xml:id="pT19p0513b0801">若請大雨及止雨法。汝今諦聽。其請雨主於
+<lb n="0513b09" ed="T"/>一切眾生。起慈悲心受八戒齋。於空露地應
+<lb n="0513b10" ed="T"/>張青帳懸十青幡。淨治其地牛糞塗場。請誦
+<lb n="0513b11" ed="T"/>呪師坐青座上。若在家人受八戒齋。若比丘
+<lb n="0513b12" ed="T"/>者應持禁戒。皆著清淨衣燒好名香。又以末
+<lb n="0513b13" ed="T"/>香散法師座。應食三種白淨之食。所謂牛乳
+<lb n="0513b14" ed="T"/>酪及粳米。誦此大雲輪品時面向東坐。晝夜
+<lb n="0513b15" ed="T"/>至心令聲不斷。供養一切諸佛。復以淨水置
+<lb n="0513b16" ed="T"/>新瓶中安置四維。隨其財辦作種種食供養
+<lb n="0513b17" ed="T"/>諸龍。復以香華散道場中及與四面法座。四
+<lb n="0513b18" ed="T"/>面各用純新淨牛糞汁畫作龍形。東面去座
+<lb n="0513b19" ed="T"/>三肘已外。畫作龍形一身三頭并龍眷屬。南
+<lb n="0513b20" ed="T"/>面去座五肘已外。畫作龍形一身五頭并龍
+<lb n="0513b21" ed="T"/>眷屬。西面去座七肘已外。畫作龍形一身七
+<lb n="0513b22" ed="T"/>頭并龍眷屬。北面去座九肘已外。畫作龍形
+<lb n="0513b23" ed="T"/>一身九頭并龍眷屬。其誦呪師應自護身。或
+<lb n="0513b24" ed="T"/>呪淨水或呪白灰。自心憶念以結場界。或<note n="0513013" resp="Taisho" place="foot text" type="orig">畫＝盡【元】【明】</note><app n="0513013"><lem wit="【大】">畫</lem><rdg resp="Taisho" wit="【元】【明】">盡</rdg></app>
+<lb n="0513b25" ed="T"/>一步乃至多步。若水若灰用為界畔。或呪縷
+<lb n="0513b26" ed="T"/>繫頸若手若足。呪水灰時散灑頂上。若於額
+<lb n="0513b27" ed="T"/>上應作是念。有惡心者不得入此界場。其誦
+<lb n="0513b28" ed="T"/>呪者於一切眾生起慈悲心。勸請一切諸佛
+<pb n="0513c" xml:id="T19.0993.0513c" ed="T"/>
+<lb n="0513c01" ed="T"/>菩薩憐愍加護。迴此功德分施諸龍。若時無
+<lb n="0513c02" ed="T"/>雨。讀誦此經一日二日乃至七日音聲不斷。
+<lb n="0513c03" ed="T"/>亦如上法必定降雨。大海水潮可留過限。若
+<lb n="0513c04" ed="T"/>能具足依此修行。不降雨者無有是處。唯除
+<lb n="0513c05" ed="T"/>不信不至心者。</p>
+<lb n="0513c06" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>大雲<app cb:word-count="8" type="star" corresp="#0506020"><lem wit="【大】">經請雨品第六十四</lem><rdg resp="Taisho" wit="【宋】【元】【明】">請雨經</rdg></app></cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

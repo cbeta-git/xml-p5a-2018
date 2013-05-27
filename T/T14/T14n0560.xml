@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T14n0560">
+<teiHeader>
+        <fileDesc>
+                <titleStmt>
+                        <title>Taisho Tripitaka, Electronic version, No. 0560 佛說老母女六英經</title>
+                        <author>劉宋 求那跋陀羅譯</author>
+                        <respStmt>
+                                <resp>Electronic Version by</resp>
+                                <name>CBETA</name>
+                        </respStmt>
+                </titleStmt>
+        <editionStmt>
+                <edition>$Revision: 1.11 $<date>$Date: 2012/08/27 03:14:55 $</date>新式標點版</edition>
+        </editionStmt>
+        <extent>1卷</extent>
+        <publicationStmt>
+                <distributor>
+                        <name>中華電子佛典協會 (CBETA)</name>
+                        <address>
+                                <addrLine>service@cbeta.org</addrLine>
+                        </address>
+                </distributor>
+                <availability>
+                        <p>Available for non-commercial use when distributed with this header intact.</p>
+                </availability>
+                <date>$Date: 2012/08/27 03:14:55 $</date>
+        </publicationStmt>
+        <sourceDesc>
+                <bibl>Taisho Tripitaka Vol. 14, No. 560 </bibl>
+        </sourceDesc>
+</fileDesc>
+<encodingDesc>
+        <projectDesc>
+                <p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by Anonymous, USA, Punctuated text as provided by Ven. Shi Zhen-Pu</p>
+                <p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，北美某大德提供，釋振溥法師提供新式標點</p>
+        </projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+        <change when="1999-10-12T08:43:25">CW (ed.) Created initial TEI XML version with BASICX.BAT (99/10/12)</change>
+<!--
+$Log: T14n0560.xml,v $
+Revision 1.11  2012/08/27 03:14:55  maha
+修訂新標小圓點及著重號
+
+Revision 1.10  2011/06/09 07:50:58  eva
+上傳 新式標點版
+
+Revision 1.9  2011/05/19 08:49:29  eva
+modified: pushsign normal 比對修訂
+
+Revision 1.8  2009/04/23 07:58:37  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2006/04/12 21:54:54  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.5  2004/10/13 03:39:27  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/09/14 00:42:54  saywhat
+<trailer> => <juan fun="close"><jhead>
+
+Revision 1.3  2004/04/20 08:38:07  maha
+「版本日期」標記修訂
+
+Revision 1.2  2003/06/23 04:00:34  moved
+＊校勘插入 xml 作業
+
+Revision 1.1.1.1  2003/05/05 04:08:53  ray
+recover cvs
+
+Revision 1.15  2002/12/05 05:24:13  saywhat
+校勘插入處理
+
+Revision 1.14  2002/11/04 10:40:46  ray
+tei.2 => TEI.2
+
+Revision 1.13  2002/10/07 13:07:11  moved
+modified
+
+Revision 1.12  2002/07/29 09:54:21  vinking
+modified lang
+
+Revision 1.11  2002/04/04 07:27:01  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.10  2001/10/31 03:51:54  ray
+maha 給的插入校勘符號
+
+Revision 1.7  2001/07/24 06:51:11  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.6  2001/05/25 08:55:40  ray
+經號統一為四碼
+
+Revision 1.5  2001/03/25 09:01:48  ray
+add <milestone>
+
+Revision 1.4  2001/02/07 06:49:59  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.3  2001/02/03 07:39:28  chris
+Added keywords $Revision: 1.11 $, $Date: 2012/08/27 03:14:55 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0912b15" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0912b16" ed="T"/>
+<lb n="0912b17" ed="T"/><cb:docNumber>No. 560 [Nos. 559, 561]</cb:docNumber>
+<lb n="0912b18" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead>佛說老母女六英經</cb:jhead></cb:juan>
+<lb n="0912b19" ed="T"/>
+<lb n="0912b20" ed="T"/><byline cb:type="Translator"><note n="0912006" resp="Taisho" type="orig" place="foot text">（劉）＋宋【元】【明】</note><app n="0912006"><lem wit="【大】">宋</lem><rdg resp="Taisho" wit="【元】【明】">劉宋</rdg></app>天竺三<note n="0912007" resp="Taisho" type="orig" place="foot text">藏＋（法師）【三】【宮】</note><note n="0912007" resp="CBETA" type="mod">藏＋（法師）【宋】【元】【明】【宮】</note><app n="0912007"><lem wit="【大】">藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">藏法師</rdg></app>求那跋陀<note n="0912008" resp="Taisho" type="orig" place="foot text">羅＋（第三）【元】【明】</note><app n="0912008"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【元】【明】">羅第三</rdg></app>譯</byline>
+<lb n="0912b21" ed="T"/><cb:div type="jing"><p xml:id="pT14p0912b2101"><note n="0912009" resp="Taisho" type="orig" place="foot text">〔佛為世尊〕－【宮】</note><app n="0912009"><lem wit="【大】">佛為世尊</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>，功德巍巍，愍念眾生，為之傷悲。
+<lb n="0912b22" ed="T"/>時與弟子、大士相追，止處樂音，廣有所開。</p><p xml:id="pT14p0912b2217" rend="inline">有
+<lb n="0912b23" ed="T"/>一母人，貧老<note n="0912010" resp="Taisho" type="orig" place="foot text">傴僂＝惸惸【宮】</note><app n="0912010"><lem wit="【大】">傴僂</lem><rdg resp="Taisho" wit="【宮】">惸惸</rdg></app>，長跪問佛：「五陰、六衰<note n="0912011" resp="Taisho" type="orig" place="foot text">會合＝合會【三】【宮】</note><note n="0912011" resp="CBETA" type="mod">會合＝合會【宋】【元】【明】【宮】</note><app n="0912011"><lem wit="【大】">會
+<lb n="0912b24" ed="T"/>合</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">合會</rdg></app>我身，悉為是誰？來何所從？去何所歸？<note n="0912012" resp="Taisho" type="orig" place="foot text">惟願＝母言【三】【宮】</note><note n="0912012" resp="CBETA" type="mod">惟願＝母言【宋】【元】【明】【宮】</note><app n="0912012"><lem wit="【大】">惟
+<lb n="0912b25" ed="T"/>願</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">母言</rdg></app>世尊為我思惟！」</p><p xml:id="pT14p0912b2508" rend="inline">佛言：「善哉！宜識<note n="0912013" resp="Taisho" type="orig" place="foot text">其＝是【宮】</note><app n="0912013"><lem wit="【大】">其</lem><rdg resp="Taisho" wit="【宮】">是</rdg></app><note n="0912014" resp="Taisho" type="orig" place="foot text">幾＝已【三】【宮】</note><note n="0912014" resp="CBETA" type="mod">幾＝已【宋】【元】【明】【宮】</note><app n="0912014"><lem wit="【大】">幾</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">已</rdg></app>。
+<lb n="0912b26" ed="T"/>諸法因緣，識之者希。譬如鑽火，兩木相揩。火
+<lb n="0912b27" ed="T"/>不從鑽，亦不從燧。火出其間，赫赫甚<note n="0912015" resp="Taisho" type="orig" place="foot text">輝＝暉【宮】</note><app n="0912015"><lem wit="【大】">輝</lem><rdg resp="Taisho" wit="【宮】">暉</rdg></app>，還
+<lb n="0912b28" ed="T"/>燒其木，木盡消微。亦如<note n="0912016" resp="Taisho" type="orig" place="foot text">搥＝撾【三】【宮】</note><note n="0912016" resp="CBETA" type="mod">搥＝撾【宋】【元】【明】【宮】</note><app n="0912016"><lem wit="【大】">搥</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">撾</rdg></app>鼓，其音哀摧。聲
+<lb n="0912b29" ed="T"/>不從革，亦不從<note n="0912017" resp="Taisho" type="orig" place="foot text">搥＝椎【三】【宮】</note><note n="0912017" resp="CBETA" type="mod">搥＝椎【宋】【元】【明】【宮】</note><app n="0912017"><lem wit="【大】">搥</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">椎</rdg></app>。諸法如是，因緣相推。<note n="0912018" resp="Taisho" type="orig" place="foot text">亦＝譬【三】【宮】</note><note n="0912018" resp="CBETA" type="mod">亦＝譬【宋】【元】【明】【宮】</note><app n="0912018"><lem wit="【大】">亦</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">譬</rdg></app>
+<pb n="0912c" ed="T" xml:id="T14.0560.0912c"/>
+<lb n="0912c01" ed="T"/>如天雨，風雲、<note n="0912019" resp="Taisho" type="orig" place="foot text">雷電＝電雷【三】【宮】</note><note n="0912019" resp="CBETA" type="mod">雷電＝電雷【宋】【元】【明】【宮】</note><app n="0912019"><lem wit="【大】">雷電</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">電雷</rdg></app>合會作雨，不獨龍威。諸
+<lb n="0912c02" ed="T"/>法如是，<note n="0912020" resp="Taisho" type="orig" place="foot text">〔文〕－【三】【宮】</note><note n="0912020" resp="CBETA" type="mod">〔文〕－【宋】【元】【明】【宮】</note><app n="0912020"><lem wit="【大】">文</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>亦如<note n="0912021" resp="Taisho" type="orig" place="foot text">是＋（非）【三】，（作）【宮】</note><note n="0912021" resp="CBETA" type="mod">是＋（非）【宋】【元】【明】，（作）【宮】</note><app n="0912021"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【宋】【元】【明】">是非</rdg><rdg resp="Taisho" wit="【宮】">是作</rdg></app>。譬如畫師，調和彩色，因
+<lb n="0912c03" ed="T"/>素<note n="0912022" resp="Taisho" type="orig" place="foot text">加＝如【三】【宮】</note><note n="0912022" resp="CBETA" type="mod">加＝如【宋】【元】【明】【宮】</note><app n="0912022"><lem wit="【大】">加</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">如</rdg></app>畫，無形不即，皆須緣合，非獨一力。」</p><p xml:id="pT14p0912c0316" rend="inline">母
+<lb n="0912c04" ed="T"/>人聞經，歡<note n="0912023" resp="Taisho" type="orig" place="foot text">喜＝欣【三】【宮】＊</note><note n="0912023" resp="CBETA" type="mod">喜＝欣【宋】【元】【明】【宮】＊</note><app n="0912023"><lem wit="【大】">喜</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">欣</rdg></app>傾側，即得法忍，身不疲極。</p><p xml:id="pT14p0912c0416" rend="inline">阿
+<lb n="0912c05" ed="T"/>難<note n="0912024" resp="Taisho" type="orig" place="foot text">啟＝披【三】【宮】</note><note n="0912024" resp="CBETA" type="mod">啟＝披【宋】【元】【明】【宮】</note><app n="0912024"><lem wit="【大】">啟</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">披</rdg></app>陳：「此何母人？<note n="0912025" resp="Taisho" type="orig" place="foot text">問佛諸＝聞佛說【三】【宮】</note><note n="0912025" resp="CBETA" type="mod">問佛諸＝聞佛說【宋】【元】【明】【宮】</note><app n="0912025"><lem wit="【大】">問佛諸</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">聞佛說</rdg></app>法生死所從，心
+<lb n="0912c06" ed="T"/><note n="0912026" resp="Taisho" type="orig" place="foot text">開意＝意開【三】【宮】</note><note n="0912026" resp="CBETA" type="mod">開意＝意開【宋】【元】【明】【宮】</note><app n="0912026"><lem wit="【大】">開意</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">意開</rdg></app>解，即得道真？」</p>
+<lb n="0912c07" ed="T"/><p xml:id="pT14p0912c0701">佛語阿難：「聽我所言。前過去佛，名曰拘<note n="0912027" resp="Taisho" type="orig" place="foot text">樓秦＝留秦佛【三】【宮】</note><note n="0912027" resp="CBETA" type="mod">樓秦＝留秦佛【宋】【元】【明】【宮】</note><app n="0912027"><lem wit="【大】">樓
+<lb n="0912c08" ed="T"/>秦</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">留秦佛</rdg></app>。爾時此母是我之親。我行學道，<note n="0912028" resp="Taisho" type="orig" place="foot text">戀＝孿【宮】</note><app n="0912028"><lem wit="【大】">戀</lem><rdg resp="Taisho" wit="【宮】">孿</rdg></app>閉我
+<lb n="0912c09" ed="T"/>身，憂思<note n="0912029" resp="Taisho" type="orig" place="foot text">〔不食〕－【三】【宮】</note><note n="0912029" resp="CBETA" type="mod">〔不食〕－【宋】【元】【明】【宮】</note><app n="0912029"><lem wit="【大】">不食</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>一日之間。緣<note n="0912030" resp="Taisho" type="orig" place="foot text">此＝是【三】【宮】</note><note n="0912030" resp="CBETA" type="mod">此＝是【宋】【元】【明】【宮】</note><app n="0912030"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">是</rdg></app>恩愛，五百
+<lb n="0912c10" ed="T"/>世貧。今我得佛，萬福皆臻，眾生無量，清淨佛
+<lb n="0912c11" ed="T"/><note n="0912031" resp="Taisho" type="orig" place="foot text">前＝道【三】</note><note n="0912031" resp="CBETA" type="mod">前＝道【宋】【元】【明】</note><app n="0912031"><lem wit="【大】">前</lem><rdg resp="Taisho" wit="【宋】【元】【明】">道</rdg></app>。過六十<note n="0912032" resp="Taisho" type="orig" place="foot text">億＝一【三】【宮】</note><note n="0912032" resp="CBETA" type="mod">億＝一【宋】【元】【明】【宮】</note><app n="0912032"><lem wit="【大】">億</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">一</rdg></app>劫當得作佛，號薩婆，國<note n="0912033" resp="Taisho" type="orig" place="foot text">名＋（號）【三】【宮】</note><note n="0912033" resp="CBETA" type="mod">名＋（號）【宋】【元】【明】【宮】</note><app n="0912033"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">名號</rdg></app>多
+<lb n="0912c12" ed="T"/><note n="0912034" resp="Taisho" type="orig" place="foot text">華＝化【三】【宮】</note><note n="0912034" resp="CBETA" type="mod">華＝化【宋】【元】【明】【宮】</note><app n="0912034"><lem wit="【大】">華</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">化</rdg></app>，劫名禮禪。時人衣<note n="0912035" resp="Taisho" type="orig" place="foot text">食＝服【三】【宮】</note><note n="0912035" resp="CBETA" type="mod">食＝服【宋】【元】【明】【宮】</note><app n="0912035"><lem wit="【大】">食</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">服</rdg></app>如忉利天，各壽一
+<lb n="0912c13" ed="T"/>劫無有<note n="0912036" resp="Taisho" type="orig" place="foot text">苦勤＝勤苦【元】【明】</note><app n="0912036"><lem wit="【大】">苦勤</lem><rdg resp="Taisho" wit="【元】【明】">勤苦</rdg></app>。」</p><p xml:id="pT14p0912c1306" rend="inline">爾時母人、天、龍、夜叉聞佛說法，
+<lb n="0912c14" ed="T"/>皆大歡<app type="star" corresp="#0912023"><lem wit="【大】">喜</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">欣</rdg></app>。<note n="0912037" resp="Taisho" type="orig" place="foot text">〔八萬…意〕十一字－【元】【明】</note><app n="0912037" cb:word-count="11"><lem wit="【大】">八萬七千人皆得正真道意</lem><rdg resp="Taisho" wit="【元】【明】"><space quantity="0"/></rdg></app>，禮
+<lb n="0912c15" ed="T"/>佛而去。</p></cb:div>
+<lb n="0912c16" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛說老母女六英經</cb:jhead></cb:juan>
+</body></text></TEI>

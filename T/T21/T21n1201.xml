@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T21n1201">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1201 底哩三昧耶不動尊聖者念誦祕密法</title>
+			<author>唐 不空譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.17 $<date>$Date: 2011/02/25 08:14:05 $</date></edition>
+	</editionStmt>
+	<extent>3卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/02/25 08:14:05 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 21, No. 1201 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-31T09:31:23">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T21n1201.xml,v $
+Revision 1.17  2011/02/25 08:14:05  eva
+modified: 校勘條目修訂
+
+Revision 1.16  2010/10/25 08:23:01  amtbgrace
+modified: 圖檔檔名修改
+
+Revision 1.15  2010/03/18 10:12:19  eva
+modified: 大比對修訂
+
+Revision 1.14  2010/03/12 14:24:07  eva
+modified: 經文修訂
+
+Revision 1.13  2009/04/23 08:01:43  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.12  2006/04/12 21:55:52  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.10  2005/10/20 02:10:39  saywhat
+p0016c27 [梵>焚]燒
+
+Revision 1.9  2004/10/22 04:03:43  saywhat
+段落前加入圈點
+
+Revision 1.8  2004/06/23 06:43:27  saywhat
+修訂</byline></div>，將</div>移到前一卷
+
+Revision 1.7  2004/05/13 07:17:44  saywhat
+</lg>　　<p type="inline"> → </lg><p type="inline">
+
+Revision 1.6  2004/04/20 08:39:07  maha
+「版本日期」標記修訂
+
+Revision 1.5  2004/04/20 03:25:32  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.4  2004/04/03 12:57:18  saywhat
+</l></lg><p type="inline"> → </l></lg>　　<p type="inline">
+
+Revision 1.3  2004/01/02 05:53:58  maha
+<note mod>裡的corr2app
+
+Revision 1.2  2003/06/23 06:16:49  saywhat
+[＊]校勘插入XML
+
+Revision 1.1.1.1  2003/05/05 04:09:25  ray
+recover cvs
+
+Revision 1.18  2002/11/28 10:06:33  saywhat
+校勘插入處理
+
+Revision 1.17  2002/11/04 10:46:11  ray
+tei.2 => TEI.2
+
+Revision 1.16  2002/10/21 08:13:33  ray
+移動 <anchor>+<note>, <anchor>+雙圈
+
+Revision 1.15  2002/10/07 13:13:00  moved
+modified
+
+Revision 1.14  2002/07/29 09:57:17  vinking
+modified lang
+
+Revision 1.13  2002/04/08 09:07:10  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.12  2001/11/05 06:14:07  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.11  2001/07/27 08:43:56  vinking
+modified for rtf
+
+Revision 1.10  2001/07/24 06:53:32  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.9  2001/03/30 05:57:20  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.8  2001/03/25 09:18:32  ray
+add <milestone>
+
+Revision 1.7  2001/02/07 06:56:58  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.6  2001/02/03 07:46:52  chris
+Added keywords $Revision: 1.17 $, $Date: 2011/02/25 08:14:05 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0013a10" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0013a11" ed="T"/>
+<lb n="0013a12" ed="T"/><cb:docNumber>No. 1201</cb:docNumber>
+<lb n="0013a13" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0013006" resp="Taisho" place="foot text" type="orig">【原】延享三年刊豐山大學藏本，【甲】元享元年寫寶壽院藏本，【乙】高山寺藏古寫本，【丙】永久元年寫高山寺藏本，丙本上卷缺之</note>底哩三昧耶不動尊聖者念誦祕
+<lb n="0013a14" ed="T"/>密法卷上</cb:jhead></cb:juan>
+<lb n="0013a15" ed="T"/>
+<lb n="0013a16" ed="T"/><byline cb:type="Translator">大興善寺三藏沙門不空奉　詔譯</byline>
+<lb n="0013a17" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="1" type="品">1 本事神力息障祕要品</cb:mulu><head>底哩三昧耶不動明王本事神力息障祕
+<lb n="0013a18" ed="T"/>要品第一</head>
+<lb n="0013a19" ed="T"/><p xml:id="pT21p0013a1901">我薄伽梵大日世尊。復<note n="0013007" resp="Taisho" place="foot text" type="orig">為＝與ィ【乙】</note><app n="0013007"><lem wit="【大】">為</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">與</rdg></app>修真言者說除障
+<lb n="0013a20" ed="T"/>之因。一切障法雖有無量。以要言之但從心
+<lb n="0013a21" ed="T"/>生。又由行者過去世隨順慳法故。今世多有
+<lb n="0013a22" ed="T"/>諸障。當知亦是從心因緣生也。當知彼慳貪
+<lb n="0013a23" ed="T"/>等是諸障之因。若能除彼因障諸障自息。若
+<lb n="0013a24" ed="T"/>能除對治即淨菩提心也。若念菩提心故即是
+<lb n="0013a25" ed="T"/>能除諸障之因。又一切諸障由分別心生。心
+<lb n="0013a26" ed="T"/>思有者即是障。謂心中煩惱隨煩惱等。若離
+<lb n="0013a27" ed="T"/>諸分別即是淨菩提心。由真言行者憶念此
+<lb n="0013a28" ed="T"/>心。即離一切諸過。意常思惟無動聖者。即能
+<lb n="0013a29" ed="T"/>除一切為障者如前所說。無動明王此是如來
+<pb n="0013b" xml:id="T21.1201.0013b" ed="T"/>
+<lb n="0013b01" ed="T"/>法身。以大願<note n="0013008" resp="Taisho" place="foot text" type="orig">故＝於ィ【原】</note><app n="0013008"><lem wit="【大】">故</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">於</rdg></app>。無相<note n="0013009" resp="Taisho" place="foot text" type="orig">相＝之ィ【原】</note><app n="0013009"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">之</rdg></app>中而現是相。護一
+<lb n="0013b02" ed="T"/>切真言行者。若能常念能離一切障也。所謂
+<lb n="0013b03" ed="T"/>無動者。即是真淨菩提之心。為表是義故因
+<lb n="0013b04" ed="T"/>事立名。此明王閉一目者亦有深意也。以<note n="0013010" resp="Taisho" place="foot text" type="orig">佛＋（服）【甲】</note><app n="0013010"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【甲】">佛服</rdg></app>
+<lb n="0013b05" ed="T"/>明鑒唯一無二無三。其印下自當說之。</p>
+<lb n="0013b06" ed="T"/><p xml:id="pT21p0013b0601">祕密主一切惡風。當誦阿字亦有深意。正取
+<lb n="0013b07" ed="T"/>阿字為<note n="0013011" resp="Taisho" place="foot text" type="orig">〔身〕－【甲】【乙】</note><app n="0013011"><lem wit="【大】">身</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>。以此本無生之字門而作我身也。
+<lb n="0013b08" ed="T"/>無我作訶字心誦。塗香點地作七圓點。此風
+<lb n="0013b09" ed="T"/><note n="0013012" resp="Taisho" place="foot text" type="orig">先＝光【甲】＊</note><app n="0013012"><lem wit="【大】">先</lem><rdg resp="Taisho" wit="【甲】">光</rdg></app>想訶字。在中加七點而好蓋之。方依<note n="0013013" resp="Taisho" place="foot text" type="orig">〔縛庾〕－【乙】</note><app n="0013013"><lem wit="【大】">縛
+<lb n="0013b10" ed="T"/>庾</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>以瓦椀蓋合之。此<note n="0013014" resp="Taisho" place="foot text" type="orig">瓦＋（器）【乙】</note><app n="0013014"><lem wit="【大】">瓦</lem><rdg resp="Taisho" wit="【乙】">瓦器</rdg></app>椀大眾生彌盧思念。
+<lb n="0013b11" ed="T"/>時時彼上想阿字并點。作是風大縛繼先佛
+<lb n="0013b12" ed="T"/>所說。謂造立壇時。或有大風為障。以露地
+<lb n="0013b13" ed="T"/><note n="0013015" resp="Taisho" place="foot text" type="orig">立＋（法）ィ【原】</note><app n="0013015"><lem wit="【大】">立</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">立法</rdg></app>故當須止之。當想此阿字遍於身分之內。
+<lb n="0013b14" ed="T"/>此字作金剛不動色。謂真金色也。如是想已
+<lb n="0013b15" ed="T"/>又心誦阿字。於風方<note place="inline">西北方也</note>用塗香。於地畫作
+<lb n="0013b16" ed="T"/><note n="0013016" resp="Taisho" place="foot text" type="orig">一＝七ィ【原】</note><app n="0013016"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">七</rdg></app>小圓點<figure><graphic url="../figures/T/T21p0013_01.gif"/></figure>各如彈丸許大。如數足即
+<lb n="0013b17" ed="T"/>用瓦椀蓋之。於瓦器上想阿字。以此字為金
+<lb n="0013b18" ed="T"/>剛山而鎮押之。三千大千諸須彌山合為一
+<lb n="0013b19" ed="T"/>體而蓋其上。又當時時器上作阿字想。此阿
+<lb n="0013b20" ed="T"/>是金剛不動義。加一點是遍一切處。今此金
+<lb n="0013b21" ed="T"/>剛不動遍一切處。即是增廣之義也。</p>
+<lb n="0013b22" ed="T"/><p xml:id="pT21p0013b2201">祕密主<note n="0013017" resp="Taisho" place="foot text" type="orig">水＝外ィ【乙】</note><app n="0013017"><lem wit="【大】">水</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">外</rdg></app>障法者。當思囉字遍於身。內作
+<lb n="0013b23" ed="T"/>赤色大力焰即是火焰之鬘。從內<note n="0013018" resp="Taisho" place="foot text" type="orig">〔而〕－【甲】</note><app n="0013018"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>出遍於
+<lb n="0013b24" ed="T"/>身上如鬘也。作大力可畏惡形。手執大刀印
+<lb n="0013b25" ed="T"/>作嗔形已。畫地作雲像。或作龍蛇之像。用刀
+<lb n="0013b26" ed="T"/>印斬斷其形雲即散滅。以雲是諸水之所因
+<lb n="0013b27" ed="T"/>依故也。隨所起障之方而作之。如雨從東來
+<lb n="0013b28" ed="T"/>即於東方作也。或作金剛橛用<note n="0013019" resp="Taisho" place="foot text" type="orig">此止其＝止此【乙】</note><app n="0013019"><lem wit="【大】">此止其</lem><rdg resp="Taisho" wit="【乙】">止此</rdg></app><note n="0013020" resp="Taisho" place="foot text" type="orig">風＋（雨）ィ【原】</note><app n="0013020"><lem wit="【大】">風</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">風雨</rdg></app>。
+<lb n="0013b29" ed="T"/>其橛用佉陀羅木作獨股金剛杵。以金剛真
+<pb n="0013c" xml:id="T21.1201.0013c" ed="T"/>
+<lb n="0013c01" ed="T"/>言加持之。想同一切金剛而以打之。亦隨所
+<lb n="0013c02" ed="T"/>在方面也。此應自身同於一切金剛然後作
+<lb n="0013c03" ed="T"/>之。<note n="0013021" resp="Taisho" place="foot text" type="orig">〔此〕－【甲】</note><app n="0013021"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>橛是三股金剛除去邊支即成獨股金
+<lb n="0013c04" ed="T"/>剛。其最小者<note n="0013022" resp="Taisho" place="foot text" type="orig">〔名〕－【甲】</note><app n="0013022"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>金剛針息除一切障難。復說
+<lb n="0013c05" ed="T"/>大威德忿怒不動大力真言法。於本曼荼羅
+<lb n="0013c06" ed="T"/>中<note n="0013023" resp="Taisho" place="foot text" type="orig">〔作〕ィ－【原】</note><app n="0013023"><lem wit="【大】">作</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>住。持誦者於曼荼羅中畫作彼形像。左
+<lb n="0013c07" ed="T"/>脚蹈彼頂上當除<note n="0013024" resp="Taisho" place="foot text" type="orig">息＋（去）【甲】【乙】</note><app n="0013024"><lem wit="【大】">息</lem><rdg resp="Taisho" wit="【甲】【乙】">息去</rdg></app>。死無疑。復更明異方便
+<lb n="0013c08" ed="T"/>除一切障也。即前所說不動明王本曼荼羅。
+<lb n="0013c09" ed="T"/>即是三角曼荼羅其中黑色是也。持誦者自
+<lb n="0013c10" ed="T"/>想己身作不動尊明王之像。又於此中作法
+<lb n="0013c11" ed="T"/>有二意。一者想不動尊在圓壇中而蹈彼上
+<lb n="0013c12" ed="T"/>也。二者想自<note n="0013025" resp="Taisho" place="foot text" type="orig">身＋（是）ィ【原】</note><app n="0013025"><lem wit="【大】">身</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">身是</rdg></app>不動尊。即以本真言<note n="0013026" resp="Taisho" place="foot text" type="orig">印＋（加之）ィ【原】</note><app n="0013026"><lem wit="【大】">印</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">印加之</rdg></app>而
+<lb n="0013c13" ed="T"/>蹈<note n="0013027" resp="Taisho" place="foot text" type="orig">（其）ィ＋上【原】</note><app n="0013027"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">其上</rdg></app>也。三角中畫彼為障者形。然後入中
+<lb n="0013c14" ed="T"/>以左脚蹈彼頂上。以大忿怒形加之。彼當應
+<lb n="0013c15" ed="T"/>時退散。若彼違戾此教者。<note n="0013028" resp="Taisho" place="foot text" type="orig">主＝乃至ィ【原】</note><app n="0013028"><lem wit="【大】">主</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">乃至</rdg></app>必自斷其命
+<lb n="0013c16" ed="T"/>根。是故持誦者。當生慈心念言勿<note n="0013029" resp="Taisho" place="foot text" type="orig">令＝念【乙】</note><app n="0013029"><lem wit="【大】">令</lem><rdg resp="Taisho" wit="【乙】">念</rdg></app>彼斷命
+<lb n="0013c17" ed="T"/>也。然此中密意<note n="0013030" resp="Taisho" place="foot text" type="orig">〔不動〕－【乙】</note><app n="0013030"><lem wit="【大】">不動</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app><note n="0013031" resp="Taisho" place="foot text" type="orig">（所）ィ＋謂【原】</note><app n="0013031"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">所謂</rdg></app>為障者。即是從心
+<lb n="0013c18" ed="T"/>所生<note n="0013032" resp="Taisho" place="foot text" type="orig">慳＝煩惱【乙】</note><app n="0013032"><lem wit="【大】">慳</lem><rdg resp="Taisho" wit="【乙】">煩惱</rdg></app>貪等法。能為行人作一切障事。今
+<lb n="0013c19" ed="T"/><note n="0013033" resp="Taisho" place="foot text" type="orig">此＋（心）ィ【原】</note><app n="0013033"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">此心</rdg></app>無動明王即是一切智智大菩提心。當知
+<lb n="0013c20" ed="T"/>此即是大力威猛。能永害一切隨眠等過。令
+<lb n="0013c21" ed="T"/>彼永斷即是死義也。如瑜伽<note n="0013034" resp="Taisho" place="foot text" type="orig">會中＝所說ィ【原】</note><app n="0013034"><lem wit="【大】">會中</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">所說</rdg></app>佛初成正
+<lb n="0013c22" ed="T"/>覺。大集會中一切曼荼羅所攝三界之眾。有
+<lb n="0013c23" ed="T"/>摩醯首羅者。即是三千世界之<note n="0013035" resp="Taisho" place="foot text" type="orig">〔主〕－【甲】</note><app n="0013035"><lem wit="【大】">主</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。住三千界
+<lb n="0013c24" ed="T"/>之中。心慢故不肯從所召命<note n="0013036" resp="Taisho" place="foot text" type="orig">而＝是ィ【原】</note><app n="0013036"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">是</rdg></app>作是念。<note n="0013037" resp="Taisho" place="foot text" type="orig">（我）＋是【甲】【乙】</note><app n="0013037"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】【乙】">我是</rdg></app>
+<pb n="0014a" xml:id="T21.1201.0014a" ed="T"/>
+<lb n="0014a01" ed="T"/>三界之主。更有誰尊而召我耶。復作是念。彼
+<lb n="0014a02" ed="T"/>持明者畏一切穢惡。我今化作一切穢污之
+<lb n="0014a03" ed="T"/>物。四面圍繞而住其中。彼所<note n="0014001" resp="Taisho" place="foot text" type="orig">〔施〕－【甲】【乙】</note><app n="0014001"><lem wit="【大】">施</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app><note n="0014002" resp="Taisho" place="foot text" type="orig">明＝有ィ【原】</note><app n="0014002"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">有</rdg></app>術何所
+<lb n="0014a04" ed="T"/>能為。時無動明王承佛教命召彼天。見其作
+<lb n="0014a05" ed="T"/>如此<note n="0014003" resp="Taisho" place="foot text" type="orig">事即化＝即彼【甲】【乙】</note><app n="0014003"><lem wit="【大】">事即化</lem><rdg resp="Taisho" wit="【甲】【乙】">即彼</rdg></app>受觸金剛<note place="inline">即是不淨金剛</note><note n="0014004" resp="Taisho" place="foot text" type="orig">令＝命【乙】</note><app n="0014004"><lem wit="【大】">令</lem><rdg resp="Taisho" wit="【乙】">命</rdg></app>彼取之。爾
+<lb n="0014a06" ed="T"/>時不淨金剛。須臾悉<note n="0014005" resp="Taisho" place="foot text" type="orig">噉＝散【乙】</note><app n="0014005"><lem wit="【大】">噉</lem><rdg resp="Taisho" wit="【乙】">散</rdg></app>所有諸穢令盡無餘。
+<lb n="0014a07" ed="T"/>便執彼來至於佛所。<note n="0014006" resp="Taisho" place="foot text" type="orig">〔彼〕－【甲】【乙】</note><app n="0014006"><lem wit="【大】">彼</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>復言。爾等是夜叉之
+<lb n="0014a08" ed="T"/>類。而我是諸天之主。何能受爾所召命耶。尋
+<lb n="0014a09" ed="T"/>即逃歸。如是七遍。爾時無動明王白佛言世
+<lb n="0014a10" ed="T"/>尊。此有情<note n="0014007" resp="Taisho" place="foot text" type="orig">（何）ィ＋故【原】</note><app n="0014007"><lem wit="【大】">故</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">何故</rdg></app>犯三世諸佛三昧耶法。當何事
+<lb n="0014a11" ed="T"/>治之。佛言。即<note n="0014008" resp="Taisho" place="foot text" type="orig">〔當〕－【甲】</note><app n="0014008"><lem wit="【大】">當</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>斷<note n="0014009" resp="Taisho" place="foot text" type="orig">彼＋（命）ィ【原】</note><app n="0014009"><lem wit="【大】">彼</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">彼命</rdg></app>也。時不動明王。即持
+<lb n="0014a12" ed="T"/>彼以左足蹈其頂半<note n="0014010" resp="Taisho" place="foot text" type="orig">月＝心【甲】【乙】</note><app n="0014010"><lem wit="【大】">月</lem><rdg resp="Taisho" wit="【甲】【乙】">心</rdg></app>中。右足蹈其妃首半
+<lb n="0014a13" ed="T"/>月上。爾時大自在天尋即命終。<note n="0014011" resp="Taisho" place="foot text" type="orig">（即）＋於【乙】</note><app n="0014011"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【乙】">即於</rdg></app>爾時悶絕
+<lb n="0014a14" ed="T"/>之中證無量法。而得授記生於灰欲世界。作
+<lb n="0014a15" ed="T"/>佛號<note n="0014012" resp="Taisho" place="foot text" type="orig">〔日〕ィ－【原】</note><app n="0014012"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>月勝如來。此皆祕<note n="0014013" resp="Taisho" place="foot text" type="orig">密＋（語）【甲】【乙】</note><app n="0014013"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【甲】【乙】">密語</rdg></app>也。食一切穢
+<lb n="0014a16" ed="T"/>惡<note n="0014014" resp="Taisho" place="foot text" type="orig">〔污〕－【甲】</note><app n="0014014"><lem wit="【大】">污</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。是噉<note n="0014015" resp="Taisho" place="foot text" type="orig">（彼）＋惡【乙】</note><app n="0014015"><lem wit="【大】">惡</lem><rdg resp="Taisho" wit="【乙】">彼惡</rdg></app>業煩惱等垢穢滓濁。<note n="0014016" resp="Taisho" place="foot text" type="orig">謂之為法本＝之法謂之為ィ【原】，法為【甲】</note><note n="0014016" resp="CBETA" type="mod">謂之為法本＝之法謂之為ィ【原】，＝法為【甲】</note><app n="0014016"><lem wit="【大】">謂之為
+<lb n="0014a17" ed="T"/>法<note n="0014017" resp="Taisho" place="foot text" type="orig">本＝為【乙】</note><app n="0014017"><lem wit="【大】">本</lem><rdg resp="Taisho" wit="【乙】">為</rdg></app></lem><rdg resp="Taisho" wit="【原】" type="variantRemark">之法謂之為</rdg><rdg resp="Taisho" wit="【甲】">法為</rdg></app>命終者。是彼一切心法。永斷入無生法
+<lb n="0014a18" ed="T"/>性故。於此中得一切佛記非是殺也。爾時諸
+<lb n="0014a19" ed="T"/>天等。見三千界天<note n="0014018" resp="Taisho" place="foot text" type="orig">王＝主【甲】</note><app n="0014018"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【甲】">主</rdg></app>以不順諸佛三昧耶故
+<lb n="0014a20" ed="T"/>自取命終。一切敬畏自相謂言。天主尚爾。我
+<lb n="0014a21" ed="T"/>云何不往。即共來詣佛所。於大曼荼羅中而
+<lb n="0014a22" ed="T"/>得<note n="0014019" resp="Taisho" place="foot text" type="orig">法利＝利益【甲】</note><app n="0014019"><lem wit="【大】">法利</lem><rdg resp="Taisho" wit="【甲】">利益</rdg></app>。時無動明王白佛言。此大自在天。
+<lb n="0014a23" ed="T"/>當更云何。佛言。汝應<note n="0014020" resp="Taisho" place="foot text" type="orig">甦＝起【乙】</note><app n="0014020"><lem wit="【大】">甦</lem><rdg resp="Taisho" wit="【乙】">起</rdg></app>之。時無動明王。即
+<lb n="0014a24" ed="T"/>說法界生真言。爾時大自在者。即復蘇息生
+<lb n="0014a25" ed="T"/>大歡喜。白佛言。甚希有也。我初召至己<note n="0014021" resp="Taisho" place="foot text" type="orig">向佛故＝問佛【甲】，問佛故【乙】</note><note n="0014021" resp="CBETA" type="mod">向佛故＝問佛【甲】，＝問佛故【乙】</note><app n="0014021"><lem wit="【大】">向佛
+<lb n="0014a26" ed="T"/>故</lem><rdg resp="Taisho" wit="【甲】">問佛</rdg><rdg resp="Taisho" wit="【乙】">問佛故</rdg></app>。此夜叉是何等類。我所不解。佛言。是諸佛
+<lb n="0014a27" ed="T"/>之主。我作是念。諸佛一切之尊。云何以此而
+<lb n="0014a28" ed="T"/>更為主也。<note n="0014022" resp="Taisho" place="foot text" type="orig">是＋（我）ィ【原】</note><app n="0014022"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">是我</rdg></app>所不解。今乃知之<note n="0014023" resp="Taisho" place="foot text" type="orig">（由）ィ＋此【原】</note><app n="0014023"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">由此</rdg></app>大王力
+<lb n="0014a29" ed="T"/>故。令我現前得記作佛。當知實是諸佛之尊
+<pb n="0014b" xml:id="T21.1201.0014b" ed="T"/>
+<lb n="0014b01" ed="T"/>也。<note n="0014024" resp="Taisho" place="foot text" type="orig">祕密主＝所以然者ィ【原】</note><app n="0014024"><lem wit="【大】">祕密主</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">所以然者</rdg></app>大自在天三千世界之主。即是眾
+<lb n="0014b02" ed="T"/>生自心。所謂<note n="0014025" resp="Taisho" place="foot text" type="orig">（無始）＋無【乙】</note><app n="0014025"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【乙】">無始無</rdg></app>明住地於諸惑<note n="0014026" resp="Taisho" place="foot text" type="orig">中＋（而）【乙】</note><app n="0014026"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【乙】">中而</rdg></app>得自在。
+<lb n="0014b03" ed="T"/>唯除大菩提心無能伏者。斷<note n="0014027" resp="Taisho" place="foot text" type="orig">〔其命…生〕十四字－【甲】</note><app cb:word-count="14" n="0014027"><lem wit="【大】">其命已。即於寂
+<lb n="0014b04" ed="T"/>然世界作證。所謂生</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>者即是起<note n="0014028" resp="Taisho" place="foot text" type="orig">諸＝佛【甲】【乙】</note><app n="0014028"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【甲】【乙】">佛</rdg></app>慧門。是故
+<lb n="0014b05" ed="T"/>真言行者。應一一思<note n="0014029" resp="Taisho" place="foot text" type="orig">順＝惟ィ【原】</note><app n="0014029"><lem wit="【大】">順</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">惟</rdg></app>諸佛密語也。</p>
+<lb n="0014b06" ed="T"/><p xml:id="pT21p0014b0601">又。法用芥子及諸毒藥。二種相和作彼為障
+<lb n="0014b07" ed="T"/>者形像。而用塗之。令彼身如火燒速被中傷
+<lb n="0014b08" ed="T"/>故<note n="0014030" resp="Taisho" place="foot text" type="orig">云＝去【乙】</note><app n="0014030"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【乙】">去</rdg></app>速被著也。乃至大梵等為障。尚被能
+<lb n="0014b09" ed="T"/>著。何況餘耶。又凡此法皆是久時持誦大成
+<lb n="0014b10" ed="T"/>就解法者。乃能作之。若但聞法。即求得如是
+<lb n="0014b11" ed="T"/>用無此理也。其佉陀羅木橛。若無<note n="0014031" resp="Taisho" place="foot text" type="orig">此＋（木）ィ【原】</note><app n="0014031"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">此木</rdg></app>當用苦
+<lb n="0014b12" ed="T"/>練木。乃至用<note n="0014032" resp="Taisho" place="foot text" type="orig">賓＝鑌ィ【原】</note><app n="0014032"><lem wit="【大】">賓</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">鑌</rdg></app>鐵亦得。事知之也。時金剛
+<lb n="0014b13" ed="T"/>手白佛言。如我知佛世尊所說義。我亦<note n="0014033" resp="Taisho" place="foot text" type="orig">（如）＋是【乙】</note><app n="0014033"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【乙】">如是</rdg></app>知
+<lb n="0014b14" ed="T"/>曼荼羅位住。世尊尊主現威令住彼位。如是
+<lb n="0014b15" ed="T"/>如來教勅不敢隱蔽。何以故。此佛三昧耶一
+<lb n="0014b16" ed="T"/>切諸真言所師。謂性住者。金剛手白佛言。此
+<lb n="0014b17" ed="T"/><note n="0014034" resp="Taisho" place="foot text" type="orig">大＋（力）ィ【原】＊</note><app n="0014034"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">大力</rdg></app>無動明王<note place="inline">即是尊<note n="0014035" resp="Taisho" place="foot text" type="orig">主＝王【乙】</note><app n="0014035"><lem wit="【大】">主</lem><rdg resp="Taisho" wit="【乙】">王</rdg></app></note>能作如<note n="0014036" resp="Taisho" place="foot text" type="orig">是＝來ィ【原】</note><app n="0014036"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">來</rdg></app>威猛之事能
+<lb n="0014b18" ed="T"/>調難調。為傳如是祕密之教令使。如本尊是
+<lb n="0014b19" ed="T"/>佛部即<note n="0014037" resp="Taisho" place="foot text" type="orig">（坐）ィ＋金【原】</note><app n="0014037"><lem wit="【大】">金</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">坐金</rdg></app>輪<note n="0014038" resp="Taisho" place="foot text" type="orig">中＋（之類）ィ【原】</note><app n="0014038"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">中之類</rdg></app>若如是作<note n="0014039" resp="Taisho" place="foot text" type="orig">必＋（令）ィ【原】</note><app n="0014039"><lem wit="【大】">必</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">必令</rdg></app>有靈驗。此之
+<lb n="0014b20" ed="T"/>現威即効驗之語也。令修行者若如是作必
+<lb n="0014b21" ed="T"/>令有効。諸生死中普得聞知。不敢隱蔽此之
+<lb n="0014b22" ed="T"/>真言主。是故持金剛者。<app type="star" corresp="#0014034"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">大力</rdg></app>威猛所不敢隱
+<lb n="0014b23" ed="T"/>蔽。謂此尊有靈驗故。所作善事皆成。諸為障
+<lb n="0014b24" ed="T"/>者不敢隱蔽如來所教<note n="0014040" resp="Taisho" place="foot text" type="orig">〔勅〕－【甲】【乙】</note><app n="0014040"><lem wit="【大】">勅</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>也。此即是十方三
+<lb n="0014b25" ed="T"/>世諸佛三昧耶。我等一切執金剛亦應作此
+<lb n="0014b26" ed="T"/>法。所應作者隨此三昧耶不敢失墜。何以故。
+<lb n="0014b27" ed="T"/>此即是諸<note n="0014041" resp="Taisho" place="foot text" type="orig">〔執〕－【甲】【乙】</note><app n="0014041"><lem wit="【大】">執</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>金剛性。是故當住斯法。如四姓
+<lb n="0014b28" ed="T"/>等各各有家法。若失家法則不名敬順先祖
+<lb n="0014b29" ed="T"/>父之教。世人名為惡子。今此大雄猛調伏難
+<pb n="0014c" xml:id="T21.1201.0014c" ed="T"/>
+<lb n="0014c01" ed="T"/>調宣布難信之教。是我金剛等<note n="0014042" resp="Taisho" place="foot text" type="orig">家＋（法）ィ【原】</note><app n="0014042"><lem wit="【大】">家</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">家法</rdg></app><note n="0014043" resp="Taisho" place="foot text" type="orig">姓＝性【甲】【乙】</note><app n="0014043"><lem wit="【大】">姓</lem><rdg resp="Taisho" wit="【甲】【乙】">性</rdg></app>之法。
+<lb n="0014c02" ed="T"/>所謂如來種姓之家也。是等真言門修行諸
+<lb n="0014c03" ed="T"/>菩薩等於<note n="0014044" resp="Taisho" place="foot text" type="orig">本＋（住）ィ【原】</note><app n="0014044"><lem wit="【大】">本</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">本住</rdg></app>中住。一切事業作者。是金剛手
+<lb n="0014c04" ed="T"/>以身<note n="0014045" resp="Taisho" place="foot text" type="orig">勸懃而行之言＝慇懃而行人之意ィ【原】，勸＝慇【乙】</note><app n="0014045"><lem wit="【大】">勸懃而行之言</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">慇懃而行人之意</rdg><rdg resp="Taisho" wit="【乙】">慇懃而行之言</rdg></app>。我等所應作事業亦復
+<lb n="0014c05" ed="T"/>如是。若未來世持真言者<note n="0014046" resp="Taisho" place="foot text" type="orig">〔亦〕－【甲】</note><app n="0014046"><lem wit="【大】">亦</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>當住<note n="0014047" resp="Taisho" place="foot text" type="orig">〔此〕－【甲】</note><app n="0014047"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>位。所
+<lb n="0014c06" ed="T"/>謂如來家法。應以無量門降伏諸障。令如來
+<lb n="0014c07" ed="T"/>法無敢隱蔽也。此真言行人亦於諸尊若欲
+<lb n="0014c08" ed="T"/>作降伏。即須自身作無動尊住於火輪中。亦
+<lb n="0014c09" ed="T"/>名火生三昧也。祕密主若諸彩色畫曼荼羅
+<lb n="0014c10" ed="T"/>中諸尊色。<note n="0014048" resp="Taisho" place="foot text" type="orig">先佛＝光佛所【甲】</note><app n="0014048"><lem wit="【大】">先佛</lem><rdg resp="Taisho" wit="【甲】">光佛所</rdg></app>說者謂本尊各有形色。下當
+<lb n="0014c11" ed="T"/>更說之。如上說隨本位住而作事業。謂於會
+<lb n="0014c12" ed="T"/>中所有諸尊。若見其黃色即應坐金剛中。白
+<lb n="0014c13" ed="T"/>色即坐<note n="0014049" resp="Taisho" place="foot text" type="orig">〔水〕－【甲】</note><app n="0014049"><lem wit="【大】">水</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>輪中。赤色即坐火輪中。黑色坐風
+<lb n="0014c14" ed="T"/>輪中。次下有色字梵音別名。此是形相也。如
+<lb n="0014c15" ed="T"/>是寂<note n="0014050" resp="Taisho" place="foot text" type="orig">然＋（貌）ィ【原】</note><app n="0014050"><lem wit="【大】">然</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">然貌</rdg></app>即須坐圓壇等類。應一一依教而畫。
+<lb n="0014c16" ed="T"/>是<note n="0014051" resp="Taisho" place="foot text" type="orig">故諸＝古ィ【原】，故【甲】【乙】</note><note n="0014051" resp="CBETA" type="mod">故諸＝古ィ【原】，＝故【甲】【乙】</note><app n="0014051"><lem wit="【大】">故諸</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">古</rdg><rdg resp="Taisho" wit="【甲】【乙】">故</rdg></app>佛所說。其道玄同。非我故說欲令
+<lb n="0014c17" ed="T"/>眾生起決定信也。祕密主未來世。當有眾生
+<lb n="0014c18" ed="T"/>劣慧不信聞此法。以先無信<note n="0014052" resp="Taisho" place="foot text" type="orig">〔根〕－【甲】【乙】</note><app n="0014052"><lem wit="【大】">根</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>故。聞此而不
+<lb n="0014c19" ed="T"/><note n="0014053" resp="Taisho" place="foot text" type="orig">〔能〕－【甲】【乙】</note><app n="0014053"><lem wit="【大】">能</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>信。以此眾生等鈍根少智信不具故。聞此
+<lb n="0014c20" ed="T"/>甚深之事不能曉了更增疑網。此即說為障
+<lb n="0014c21" ed="T"/>所由也。如是真畫色及持誦等。一一皆有深
+<lb n="0014c22" ed="T"/>意。畫是如來不思議事。如此畫色等<note n="0014054" resp="Taisho" place="foot text" type="orig">皆＝若ィ【乙】</note><app n="0014054"><lem wit="【大】">皆</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">若</rdg></app>依法
+<lb n="0014c23" ed="T"/>不疑。乃能深入法界不思<note n="0014055" resp="Taisho" place="foot text" type="orig">議＋（境）ィ【原】</note><app n="0014055"><lem wit="【大】">議</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">議境</rdg></app>。唯信者得入。
+<lb n="0014c24" ed="T"/>若欲以心數<note n="0014056" resp="Taisho" place="foot text" type="orig">〔下〕－【甲】</note><app n="0014056"><lem wit="【大】">下</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>量。云何得知所以而不疑耶。
+<pb n="0015a" xml:id="T21.1201.0015a" ed="T"/>
+<lb n="0015a01" ed="T"/>謂非如來真空無相之法。<note n="0015001" resp="Taisho" place="foot text" type="orig">從＝徒【乙】</note><app n="0015001"><lem wit="【大】">從</lem><rdg resp="Taisho" wit="【乙】">徒</rdg></app>自傷也。此色字
+<lb n="0015a02" ed="T"/>亦云通達是正義。謂異方便無事不解之義
+<lb n="0015a03" ed="T"/><note n="0015002" resp="Taisho" place="foot text" type="orig">已＝也【甲】</note><app n="0015002"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【甲】">也</rdg></app>。彼先此一切說梵音迴<note n="0015003" resp="Taisho" place="foot text" type="orig">互＋（也）【乙】</note><app n="0015003"><lem wit="【大】">互</lem><rdg resp="Taisho" wit="【乙】">互也</rdg></app>。上文已明諸
+<lb n="0015a04" ed="T"/>佛。今此下句云先佛。作如是說已。彼此一
+<lb n="0015a05" ed="T"/>切說利益。求者彼凡夫不知。<note n="0015004" resp="Taisho" place="foot text" type="orig">說＝諸【乙】</note><app n="0015004"><lem wit="【大】">說</lem><rdg resp="Taisho" wit="【乙】">諸</rdg></app>法相空。一
+<lb n="0015a06" ed="T"/>切諸法相說常。<note n="0015005" resp="Taisho" place="foot text" type="orig">當＝常【甲】，〔當〕－【乙】</note><app n="0015005"><lem wit="【大】">當</lem><rdg resp="Taisho" wit="【甲】">常</rdg><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>住真言業。作善無疑者。
+<lb n="0015a07" ed="T"/>此意言。如來具一切智。於諸法中而得自在。
+<lb n="0015a08" ed="T"/>以眾生劣慧未堪頓說如來<note n="0015006" resp="Taisho" place="foot text" type="orig">自＋（在）【甲】</note><app n="0015006"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【甲】">自在</rdg></app>證不思議力
+<lb n="0015a09" ed="T"/>用故。作此畫色等方便。令諸眾生隨所作者
+<lb n="0015a10" ed="T"/>能滿所求而得利益。所以然者。以諸眾生未
+<lb n="0015a11" ed="T"/>解諸法空相。是故於無相中而作有相方便
+<lb n="0015a12" ed="T"/>說之。若人得佛深意者。當住真常之行。諸
+<lb n="0015a13" ed="T"/>有所作皆入理體。同於一切智智之心。如是
+<lb n="0015a14" ed="T"/>無疑慮者。一切障法無得其<note n="0015007" resp="Taisho" place="foot text" type="orig">便＋（也）【甲】【乙】</note><app n="0015007"><lem wit="【大】">便</lem><rdg resp="Taisho" wit="【甲】【乙】">便也</rdg></app>次復說法界
+<lb n="0015a15" ed="T"/>生真言曰。</p>
+<lb n="0015a16" ed="T"/><p xml:id="pT21p0015a1601" cb:type="dharani">曩麼三曼多沒陀南<note place="inline">一</note>達磨馱睹<note place="inline">二</note>薩嚩<note n="0015008" resp="Taisho" place="foot text" type="orig">〔二合〕－【甲】【乙】</note><app n="0015008"><lem wit="【大】"><note place="inline">二合</note></lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>
+<lb n="0015a17" ed="T"/>婆嚩<note place="inline">二<note n="0015009" resp="Taisho" place="foot text" type="orig">合＋（三）【乙】</note><app n="0015009"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【乙】">合三</rdg></app></note>句<note n="0015010" resp="Taisho" place="foot text" type="orig">痕＋（四）細註【乙】</note><app n="0015010"><lem wit="【大】">痕</lem><rdg resp="Taisho" wit="【乙】">痕<note place="inline">四</note></rdg></app></p>
+<lb n="0015a18" ed="T"/><p xml:id="pT21p0015a1801">祕密曰不動者。是菩提心。大寂定義也。我薄
+<lb n="0015a19" ed="T"/>伽梵大日世尊。從最初正覺坐寂滅道場。以
+<lb n="0015a20" ed="T"/>大願故證三世諸佛應正等覺。皆從四祕密
+<lb n="0015a21" ed="T"/>三菩提起。<note n="0015011" resp="Taisho" place="foot text" type="orig">〔應〕－【乙】</note><app n="0015011"><lem wit="【大】">應</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>現三身成等正覺。如來成道
+<lb n="0015a22" ed="T"/>時。先坐寶菩提樹降魔成道者。即是大寂定
+<lb n="0015a23" ed="T"/>不動菩提本<note n="0015012" resp="Taisho" place="foot text" type="orig">（以）＋因【乙】</note><app n="0015012"><lem wit="【大】">因</lem><rdg resp="Taisho" wit="【乙】">以因</rdg></app>三世諸佛皆幻化義。現種種
+<lb n="0015a24" ed="T"/>身雲。教<note n="0015013" resp="Taisho" place="foot text" type="orig">化＝他【甲】【乙】</note><app n="0015013"><lem wit="【大】">化</lem><rdg resp="Taisho" wit="【甲】【乙】">他</rdg></app>調<note n="0015014" resp="Taisho" place="foot text" type="orig">伏＋（難伏）【乙】</note><app n="0015014"><lem wit="【大】">伏</lem><rdg resp="Taisho" wit="【乙】">伏難伏</rdg></app>諸眾生故。因事立號號不
+<lb n="0015a25" ed="T"/>動尊。又明尊義<note n="0015015" resp="Taisho" place="foot text" type="orig">〔也〕－【甲】【乙】</note><app n="0015015"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>。即是大日世尊差別智
+<lb n="0015a26" ed="T"/>身。以大願故。於無相中而現作相。閉一目有
+<lb n="0015a27" ed="T"/>深意。示現極惡醜弊<note n="0015016" resp="Taisho" place="foot text" type="orig">身＋（怖魔之義）【甲】</note><app n="0015016"><lem wit="【大】">身</lem><rdg resp="Taisho" wit="【甲】">身怖魔之義</rdg></app>也。唯佛世尊廣大圓
+<lb n="0015a28" ed="T"/>滿眾相具足。我下劣卑弊之身。亦是怖魔之
+<lb n="0015a29" ed="T"/>義。頭上七種<note n="0015017" resp="Taisho" place="foot text" type="orig">髮＝髻ィ【原】</note><app n="0015017"><lem wit="【大】">髮</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">髻</rdg></app>表七菩提分。左垂一髮向下
+<pb n="0015b" xml:id="T21.1201.0015b" ed="T"/>
+<lb n="0015b01" ed="T"/>者。是<note n="0015018" resp="Taisho" place="foot text" type="orig">垂＝乘【甲】</note><app n="0015018"><lem wit="【大】">垂</lem><rdg resp="Taisho" wit="【甲】">乘</rdg></app>慈悲之義。悲念下惡極苦惱眾生
+<lb n="0015b02" ed="T"/>也。云無動使者即大日如來。如世間王勅教
+<lb n="0015b03" ed="T"/>命。令使<note n="0015019" resp="Taisho" place="foot text" type="orig">〔一人火急追役使〕－【甲】</note><app n="0015019"><lem wit="【大】">一人火急<note n="0015020" resp="Taisho" place="foot text" type="orig">追＋（捉）ィ【原】</note><app n="0015020"><lem wit="【大】">追</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">追捉</rdg></app>役使</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>人至已。上至王
+<lb n="0015b04" ed="T"/>公下及凡庶。無問貴賤更不敢拒逆。皆隨使
+<lb n="0015b05" ed="T"/>往至彼王所。無問善惡一依教命。無動使義
+<lb n="0015b06" ed="T"/>亦復如是。能令真言行者親見佛故。發廣大
+<lb n="0015b07" ed="T"/>心灌頂位中為佛長子。佛使願淨佛國土遊
+<lb n="0015b08" ed="T"/>戲神通。右手執劍者。如世間征戰防禦。亦皆
+<lb n="0015b09" ed="T"/>執利器然始得勝。菩薩亦爾。左手執索者是
+<lb n="0015b10" ed="T"/>繫縛之義。又如世間密捉一人。如有違逆難
+<lb n="0015b11" ed="T"/>伏者。即以繩繫縛捉將。諸佛<note n="0015021" resp="Taisho" place="foot text" type="orig">祕＋（密）【乙】</note><app n="0015021"><lem wit="【大】">祕</lem><rdg resp="Taisho" wit="【乙】">祕密</rdg></app>索降伏四魔
+<lb n="0015b12" ed="T"/>亦復如是。坐盤石上者亦是不動之義。如世
+<lb n="0015b13" ed="T"/>山岳亦以石鎮押方始不動。又如大海亦以
+<lb n="0015b14" ed="T"/>須彌山鎮押然<note n="0015022" resp="Taisho" place="foot text" type="orig">〔始〕－【甲】</note><app n="0015022"><lem wit="【大】">始</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>得常安湛然圓滿。不動亦
+<lb n="0015b15" ed="T"/>爾。其大石性能出<note n="0015023" resp="Taisho" place="foot text" type="orig">〔生〕－【甲】</note><app n="0015023"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>一切寶物。無動坐大盤
+<lb n="0015b16" ed="T"/>石者。亦能出生佛功德寶。亦是降伏四魔義。
+<lb n="0015b17" ed="T"/><note n="0015024" resp="Taisho" place="foot text" type="orig">〔不動〕－【甲】</note><app n="0015024"><lem wit="【大】">不動</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>亦自身遍出<note n="0015025" resp="Taisho" place="foot text" type="orig">火焰光＝光焰【甲】，光焰光【乙】</note><note n="0015025" resp="CBETA" type="mod">火焰光＝光焰【甲】，＝光焰光【乙】</note><app n="0015025"><lem wit="【大】">火焰光</lem><rdg resp="Taisho" wit="【甲】">光焰</rdg><rdg resp="Taisho" wit="【乙】">光焰光</rdg></app>。即是本尊自住
+<lb n="0015b18" ed="T"/>火生三昧。又明火有四義。二種世間。<note n="0015026" resp="Taisho" place="foot text" type="orig">〔二種〕－【甲】</note><app n="0015026"><lem wit="【大】">二種</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0015b19" ed="T"/>出世間。<note n="0015027" resp="Taisho" place="foot text" type="orig">〔世間〕－【甲】</note><app n="0015027"><lem wit="【大】">世間</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>火者一是內火。三毒煩惱名之
+<lb n="0015b20" ed="T"/>為火。能燒諸眾生諸善功德故。二外火。能成
+<lb n="0015b21" ed="T"/>就眾生長養萬物。出世間火者<note n="0015028" resp="Taisho" place="foot text" type="orig">〔是〕－【甲】</note><app n="0015028"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>大智火也。
+<lb n="0015b22" ed="T"/>如九十五種外道法中事火為最。如大火龍
+<lb n="0015b23" ed="T"/>變出世火。燒損眾生亦能焚燒眾物此無動
+<lb n="0015b24" ed="T"/>智火。<app type="star" corresp="#0013012"><lem wit="【大】">先</lem><rdg resp="Taisho" wit="【甲】">光</rdg></app>能降伏火龍制諸異道。上<note n="0015029" resp="Taisho" place="foot text" type="orig">至＝自ィ【原】</note><app n="0015029"><lem wit="【大】">至</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">自</rdg></app>等覺
+<lb n="0015b25" ed="T"/>下至眾生。皆能燒諸煩惱乃至菩提大智習
+<lb n="0015b26" ed="T"/>氣。亦燒一切眾生無明煩惱黑闇障故。又本
+<lb n="0015b27" ed="T"/>尊真言<note n="0015030" resp="Taisho" place="foot text" type="orig">句＋（中）【乙】</note><app n="0015030"><lem wit="【大】">句</lem><rdg resp="Taisho" wit="【乙】">句中</rdg></app>自有火生義。即摩<note n="0015031" resp="Taisho" place="foot text" type="orig">賀＝訶【乙】</note><app n="0015031"><lem wit="【大】">賀</lem><rdg resp="Taisho" wit="【乙】">訶</rdg></app>盧沙句是。
+<lb n="0015b28" ed="T"/>此智火住阿字一切智門。重重燒諸菩薩廣大
+<lb n="0015b29" ed="T"/>習氣煩惱令盡無餘故名火生三昧。又無動
+<pb n="0015c" xml:id="T21.1201.0015c" ed="T"/>
+<lb n="0015c01" ed="T"/>義者。執持利劍能斷壞生死業愛煩惱故。<note n="0015032" resp="Taisho" place="foot text" type="orig">（亦）＋降【乙】</note><app n="0015032"><lem wit="【大】">降</lem><rdg resp="Taisho" wit="【乙】">亦降</rdg></app>
+<lb n="0015c02" ed="T"/>伏<note n="0015033" resp="Taisho" place="foot text" type="orig">三＝現在ィ【原】</note><app n="0015033"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">現在</rdg></app>世貪瞋癡我慢煩惱故。喫殘食者噉一
+<lb n="0015c03" ed="T"/>切眾生惡業煩惱重障令盡無餘。證無生法
+<lb n="0015c04" ed="T"/><note n="0015034" resp="Taisho" place="foot text" type="orig">〔忍〕－【甲】，忍＝性【乙】</note><app n="0015034"><lem wit="【大】">忍</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【乙】">性</rdg></app>故。<note n="0015035" resp="Taisho" place="foot text" type="orig">三＝亦ィ【原】</note><app n="0015035"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">亦</rdg></app>降未來世。斷無明煩惱習氣見障
+<lb n="0015c05" ed="T"/>故。執金剛索引至大菩提路住佛解脫門。紹
+<lb n="0015c06" ed="T"/>隆三寶種位不斷故名降三世義也。是故本
+<lb n="0015c07" ed="T"/>尊<note n="0015036" resp="Taisho" place="foot text" type="orig">住＝位【甲】</note><app n="0015036"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【甲】">位</rdg></app>四密門也。所謂<note n="0015037" resp="Taisho" place="foot text" type="orig">阿＝訶【乙】</note><app n="0015037"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【乙】">訶</rdg></app>路唅𤚥重重。是怖
+<lb n="0015c08" ed="T"/>魔義。亦是種子義。如世間良田堪下善種。諸
+<lb n="0015c09" ed="T"/>佛智種亦復如是。能成就大悲曼荼羅。出生
+<lb n="0015c10" ed="T"/>一切陀羅尼門三摩地<note n="0015038" resp="Taisho" place="foot text" type="orig">門＋（也）【甲】【乙】</note><app n="0015038"><lem wit="【大】">門</lem><rdg resp="Taisho" wit="【甲】【乙】">門也</rdg></app>。<note n="0015039" resp="Taisho" place="foot text" type="orig">〔拘底…微是〕六十七字－【甲】</note><app cb:word-count="67" n="0015039"><lem wit="【大】">拘底支木<note place="inline">槐木是</note>
+<lb n="0015c11" ed="T"/><note n="0015040" resp="Taisho" place="foot text" type="orig">鳥＝遏【乙】</note><app n="0015040"><lem wit="【大】">鳥</lem><rdg resp="Taisho" wit="【乙】">遏</rdg></app>伽木<note place="inline"><note n="0015041" resp="Taisho" place="foot text" type="orig">嗢勃＝榅桲ヵ【原】，嗢㪍【乙】</note><note n="0015041" resp="CBETA" type="mod">嗢勃＝榅桲ヵ【原】，＝嗢㪍【乙】</note><app n="0015041"><lem wit="【大】"><app><lem resp="Taisho" wit="【大】">嗢勃</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">＆CB03346；桲</rdg></app></lem><rdg resp="Taisho" wit="【乙】">嗢㪍</rdg></app>是</note>阿彌尸利師木<note place="inline">守宮槐木是</note>鎮頭迦木
+<lb n="0015c12" ed="T"/><note place="inline">柿木未詳</note>篤迦木<note place="inline">栗木是</note>播囉師木<note place="inline">胡桃木是</note><note n="0015042" resp="Taisho" place="foot text" type="orig">羊素＝牟毒【乙】</note><app n="0015042"><lem wit="【大】">羊素</lem><rdg resp="Taisho" wit="【乙】">牟毒</rdg></app>佉木<note place="inline">甘草</note>
+<lb n="0015c13" ed="T"/>居凌迦木<note place="inline">李子是</note>舍利般那木<note place="inline">牆微是</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。</p>
+<lb n="0015c14" ed="T"/><p xml:id="pT21p0015c1401">復次或有真言中。有三吽字者能成一切事。
+<lb n="0015c15" ed="T"/>所<note n="0015043" resp="Taisho" place="foot text" type="orig">謂＝為【乙】</note><app n="0015043"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【乙】">為</rdg></app>護身結界召請供養相助決罰教授等
+<lb n="0015c16" ed="T"/>事。若<note n="0015044" resp="Taisho" place="foot text" type="orig">久＝人ィ【原】</note><app n="0015044"><lem wit="【大】">久</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">人</rdg></app>持一切真言不成就者。持此真言。
+<lb n="0015c17" ed="T"/>當成一切真言之法。三吽字真言曰。</p>
+<lb n="0015c18" ed="T"/><p xml:id="pT21p0015c1801" cb:type="dharani">曩謨喇但<note n="0015045" resp="Taisho" place="foot text" type="orig">曩＋（二合）細註【甲】</note><app n="0015045"><lem wit="【大】">曩</lem><rdg resp="Taisho" wit="【甲】">曩<note place="inline">二合</note></rdg></app>怛<note n="0015046" resp="Taisho" place="foot text" type="orig">囉＋（二合）細註【甲】</note><app n="0015046"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【甲】">囉<note place="inline">二合</note></rdg></app>夜耶<note place="inline"><note n="0015047" resp="Taisho" place="foot text" type="orig">一＝二合【甲】</note><app n="0015047"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">二合</rdg></app></note>曩莽室戰<note place="inline">二合</note>荼
+<lb n="0015c19" ed="T"/>嚩日囉<note place="inline">二合</note><note n="0015048" resp="Taisho" place="foot text" type="orig">簸＋（二）ィ細註【原】</note><app n="0015048"><lem wit="【大】">簸</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">簸<note place="inline">二</note></rdg></app>拏曳<note place="inline"><note n="0015049" resp="Taisho" place="foot text" type="orig">二＋（合）ィ【原】</note><app n="0015049"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">二合</rdg></app></note>摩賀藥乞叉<note place="inline">二合</note>細那
+<lb n="0015c20" ed="T"/>鉢多曳<note place="inline">三</note>唵<note place="inline">四</note>蘇悉地<note n="0015050" resp="Taisho" place="foot text" type="orig">耶＝野【乙】＊</note><app n="0015050"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【乙】">野</rdg></app>蘇悉地<app type="star" corresp="#0015050"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【乙】">野</rdg></app><note place="inline">五</note>娑<note n="0015051" resp="Taisho" place="foot text" type="orig">太＝悉地ィ【原】，大【乙】</note><note n="0015051" resp="CBETA" type="mod">太＝悉地ィ【原】，＝大【乙】</note><app n="0015051"><lem wit="【大】">太</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">悉地</rdg><rdg resp="Taisho" wit="【乙】">大</rdg></app>
+<lb n="0015c21" ed="T"/>野<note place="inline">六</note>蘇悉地羯羅<note place="inline">七</note>吽吽吽<note place="inline">八</note>泮吒泮吒</p>
+<lb n="0015c22" ed="T"/><p xml:id="pT21p0015c2201">蓮華部明王<note n="0015052" resp="Taisho" place="foot text" type="orig">名＝號【乙】</note><app n="0015052"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【乙】">號</rdg></app>賀野羯利婆。為補瑟<note n="0015053" resp="Taisho" place="foot text" type="orig">徵＝微【乙】</note><app n="0015053"><lem wit="【大】">徵</lem><rdg resp="Taisho" wit="【乙】">微</rdg></app>迦
+<lb n="0015c23" ed="T"/>明王真言。<note n="0015054" resp="Taisho" place="foot text" type="orig">原本冠註曰亦名字上恐真言文及句脫乎</note>亦名降三世<note n="0015055" resp="Taisho" place="foot text" type="orig">〔明〕－【乙】</note><app n="0015055"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>王。真言曰。</p>
+<lb n="0015c24" ed="T"/><p xml:id="pT21p0015c2401" cb:type="dharani">曩謨囉怛曩<note place="inline">二合</note>怛囉<note place="inline">二合</note>夜耶曩莽室戰<note place="inline">二合</note>
+<pb n="0016a" xml:id="T21.1201.0016a" ed="T"/>
+<lb n="0016a01" ed="T"/>荼嚩日囉<note place="inline">二合</note>簸拏曳摩賀藥乞叉<note place="inline">二合</note>細曩鉢
+<lb n="0016a02" ed="T"/>多曳唵嗉婆儞<note n="0016001" resp="Taisho" place="foot text" type="orig">（唵）＋嗉【乙】</note><app n="0016001"><lem wit="【大】">嗉</lem><rdg resp="Taisho" wit="【乙】">唵嗉</rdg></app>婆吽<g ref="#CB04201"/>哩<note place="inline">二合</note>亹拏<note place="inline">二合</note><g ref="#CB04201"/>
+<lb n="0016a03" ed="T"/><note n="0016002" resp="Taisho" place="foot text" type="orig">哩＋（二合）細註【甲】【乙】</note><app n="0016002"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【甲】【乙】">哩<note place="inline">二合</note></rdg></app>亹拏<note place="inline">二合</note>吽<g ref="#CB04201"/>哩<note place="inline">二合</note>亹拏<note place="inline">二合</note>播耶吽阿娜
+<lb n="0016a04" ed="T"/>耶護<note place="inline">引</note>薄伽梵尾儞夜嚩日囉<note place="inline">二合</note>囉闍吽泮
+<lb n="0016a05" ed="T"/>吒曩莽</p>
+<lb n="0016a06" ed="T"/><p xml:id="pT21p0016a0601">蓮華部明王心</p>
+<lb n="0016a07" ed="T"/><p xml:id="pT21p0016a0701" cb:type="dharani">唵微路枳寧莎嚩<note place="inline">二合</note>訶<note place="inline">引</note></p>
+<lb n="0016a08" ed="T"/><p xml:id="pT21p0016a0801">佛部明王心</p>
+<lb n="0016a09" ed="T"/><p xml:id="pT21p0016a0901" cb:type="dharani">唵若嚩囉路者寧莎嚩<note place="inline">二合</note>訶<note place="inline">引</note></p>
+<lb n="0016a10" ed="T"/><p xml:id="pT21p0016a1001">金剛部明王心</p>
+<lb n="0016a11" ed="T"/><p xml:id="pT21p0016a1101" cb:type="dharani">唵滿度哩儞異鉢帝莎嚩<note place="inline">二合</note><note n="0016003" resp="Taisho" place="foot text" type="orig">訶＋（引）細註【甲】</note><app n="0016003"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【甲】">訶<note place="inline">引</note></rdg></app></p>
+<lb n="0016a12" ed="T"/><p xml:id="pT21p0016a1201">念誦已欲眠之時。作前光莊嚴印。又以部母
+<lb n="0016a13" ed="T"/>護身。<note n="0016004" resp="Taisho" place="foot text" type="orig">再＝并ィ【原】</note><app n="0016004"><lem wit="【大】">再</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">并</rdg></app>被甲加持所臥處。然後澄淨身心。
+<lb n="0016a14" ed="T"/>誦明曰。</p>
+<lb n="0016a15" ed="T"/><p xml:id="pT21p0016a1501" cb:type="dharani">唵<note n="0016005" resp="Taisho" place="foot text" type="orig">（跋）＋吠【乙】</note><app n="0016005"><lem wit="【大】">吠</lem><rdg resp="Taisho" wit="【乙】">跋吠</rdg></app>賒儞吽</p>
+<lb n="0016a16" ed="T"/><p xml:id="pT21p0016a1601">以此加持<note n="0016006" resp="Taisho" place="foot text" type="orig">令＝全【甲】</note><app n="0016006"><lem wit="【大】">令</lem><rdg resp="Taisho" wit="【甲】">全</rdg></app>無惡夢。若有夢諸惡相者。即誦
+<lb n="0016a17" ed="T"/>此明曰。</p>
+<lb n="0016a18" ed="T"/><p xml:id="pT21p0016a1801" cb:type="dharani">唵嚩日囉<note place="inline">二合</note>那羅呵那麼他盤闍囉拏吽泮
+<lb n="0016a19" ed="T"/><note n="0016007" resp="Taisho" place="foot text" type="orig">吒＋（半音）細註【乙】</note><app n="0016007"><lem wit="【大】">吒</lem><rdg resp="Taisho" wit="【乙】">吒<note place="inline">半音</note></rdg></app></p>
+<lb n="0016a20" ed="T"/><p xml:id="pT21p0016a2001">誦一百八遍。於所眠處如法辟除結界。若欲
+<lb n="0016a21" ed="T"/>知善惡相。應用前三部明王心加持檀香水
+<lb n="0016a22" ed="T"/>七遍。而飲三掬并以灑身上。若念誦求成就
+<lb n="0016a23" ed="T"/>之時。如上作法方取善相。</p>
+<lb n="0016a24" ed="T"/><lg xml:id="lgT21p0016a2401"><l>一切眾生</l><l>無明所覆</l><l>唯求菩提</l>
+<lb n="0016a25" ed="T"/><l>不能<note n="0016008" resp="Taisho" place="foot text" type="orig">信受＝菩提【乙】</note><app n="0016008"><lem wit="【大】">信受</lem><rdg resp="Taisho" wit="【乙】">菩提</rdg></app></l><l>我今為彼</l><l>非為己身</l>
+<lb n="0016a26" ed="T"/><l>唯願如來</l><l>成就之時</l><l>還我遍數</l></lg>
+<lb n="0016a27" ed="T"/><p xml:id="pT21p0016a2701">誦偈<note n="0016009" resp="Taisho" place="foot text" type="orig">既畢＝畢已【乙】</note><app n="0016009"><lem wit="【大】">既畢</lem><rdg resp="Taisho" wit="【乙】">畢已</rdg></app>。以百字明加持。又以部母護尊及
+<lb n="0016a28" ed="T"/>己身。以三昧耶大結護左轉其印。以文闍句
+<lb n="0016a29" ed="T"/>即成界也。</p></cb:div>
+<pb n="0016b" xml:id="T21.1201.0016b" ed="T"/>
+<lb n="0016b01" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>底哩三昧耶不動尊聖者念誦祕密法卷上</cb:jhead></cb:juan>
+<lb n="0016b02" ed="T"/>
+<milestone n="2" unit="juan"/>
+<lb n="0016b03" ed="T"/>
+<lb n="0016b04" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="002" type="卷"></cb:mulu><cb:jhead>底哩三昧耶不動尊聖者念誦祕
+<lb n="0016b05" ed="T"/>密法卷<note n="0016010" resp="Taisho" place="foot text" type="orig">此下甲本有高雄成身院經藏本八字</note><note n="0016010" resp="CBETA" type="mod">中＋（高雄成身院經藏本）八字【甲】</note><app n="0016010"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【甲】">中高雄成身院經藏本</rdg></app></cb:jhead></cb:juan>
+<lb n="0016b06" ed="T"/>
+<lb n="0016b07" ed="T"/><byline cb:type="Translator">大興善寺三藏沙門不空奉　詔譯</byline>
+<lb n="0016b08" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="2" type="品">2 根本真言品</cb:mulu><head>根本真言品第二</head>
+<lb n="0016b09" ed="T"/><p xml:id="pT21p0016b0901">三昧耶經中。略說出無動明王根本祕要成
+<lb n="0016b10" ed="T"/>就一切事業。為欲令諸修行者顯發諸佛實
+<lb n="0016b11" ed="T"/>智故。三世諸佛應正等覺者。皆由成就陀羅
+<lb n="0016b12" ed="T"/>尼門三摩地門。於菩提樹下現證最勝三解
+<lb n="0016b13" ed="T"/>脫門具一切智。彼釋師子由獲無比大明呪
+<lb n="0016b14" ed="T"/>藏故。能摧伏魔軍利樂一切。是故智者安心
+<lb n="0016b15" ed="T"/>此門。祕密為行。應當淨菩提心修行此法。速
+<lb n="0016b16" ed="T"/>得成就一切智故。我薄伽梵大日世尊。復為
+<lb n="0016b17" ed="T"/>一切修真言者為除障故。住於火生三昧。說
+<lb n="0016b18" ed="T"/>此大摧障真言。此祕密明威勢。能除一切有
+<lb n="0016b19" ed="T"/><note n="0016011" resp="Taisho" place="foot text" type="orig">情＝性【丙】</note><app n="0016011"><lem wit="【大】">情</lem><rdg resp="Taisho" wit="【丙】">性</rdg></app>種種障難。乃至佛道樹<note n="0016012" resp="Taisho" place="foot text" type="orig">〔下〕－【甲】【乙】【丙】</note><app n="0016012"><lem wit="【大】">下</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>。以此真言力
+<lb n="0016b20" ed="T"/>故。一切魔軍無不散壞。何況世間所有諸障。
+<lb n="0016b21" ed="T"/>又明此障略有二種。一者內障。謂從自心而
+<lb n="0016b22" ed="T"/>生。其類甚多不可具說。二者外障。而從外而
+<lb n="0016b23" ed="T"/>生。其類亦甚多。以要言之。皆能除障也。即說
+<lb n="0016b24" ed="T"/>大摧障聖者不動明王威怒明曰。</p>
+<lb n="0016b25" ed="T"/><p xml:id="pT21p0016b2501" cb:type="dharani">曩麼三<note n="0016013" resp="Taisho" place="foot text" type="orig">曼＋（哆）【甲】【乙】【丙】</note><app n="0016013"><lem wit="【大】">曼</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">曼哆</rdg></app>縛日羅<note place="inline">二合</note>𧹞<note place="inline">一</note>怛羅<note place="inline">二合</note>吒阿謨
+<lb n="0016b26" ed="T"/>伽戰拏<note place="inline">二</note>摩賀路灑儜<note place="inline">上三</note>娑頗<note place="inline">二合</note>吒野吽<note place="inline">四</note>
+<lb n="0016b27" ed="T"/>怛囉<note place="inline">二合</note>摩野<note n="0016014" resp="Taisho" place="foot text" type="orig">〔怛羅摩野〕－【甲】【丙】</note><app n="0016014"><lem wit="【大】">怛<note n="0016015" resp="Taisho" place="foot text" type="orig">羅＋（二合）細註【乙】</note><app n="0016015"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【乙】">羅<note place="inline">二合</note></rdg></app>摩野</lem><rdg resp="Taisho" wit="【甲】【丙】"><space quantity="0"/></rdg></app><note n="0016016" resp="Taisho" place="foot text" type="orig">五吽＝吽五【甲】【乙】【丙】</note><app n="0016016"><lem wit="【大】"><note place="inline">五</note>吽</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">吽五</rdg></app>怛囉<note n="0016017" resp="Taisho" place="foot text" type="orig">〔二合〕－【甲】【乙】【丙】＊</note><app n="0016017"><lem wit="【大】"><note place="inline">二合</note></lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>吒
+<lb n="0016b28" ed="T"/>唅𤚥<note place="inline">六</note></p>
+<lb n="0016b29" ed="T"/><p xml:id="pT21p0016b2901"><note n="0016018" resp="Taisho" place="foot text" type="orig">（字義）ィ＋祕【原】</note><app n="0016018"><lem wit="【大】">祕</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">字義祕</rdg></app>密釋曰。</p>
+<pb n="0016c" xml:id="T21.1201.0016c" ed="T"/>
+<lb n="0016c01" ed="T"/><p xml:id="pT21p0016c0101" cb:type="dharani">曩莫三曼哆縛日羅<note place="inline">二合</note>𧹞<note place="inline">歸命普遍忿怒金剛王也</note>怛羅<note place="inline">二
+<lb n="0016c02" ed="T"/>合</note>吒<note place="inline">殘害破障也</note>阿謨伽戰拏<note place="inline">不空威怒極惡中之極也。<note n="0016019" resp="Taisho" place="foot text" type="orig">示＝亦ィ【乙】</note><app n="0016019"><lem wit="【大】">示</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">亦</rdg></app>形狀暴惡無有過者。乃
+<lb n="0016c03" ed="T"/>至噉食一切世間諸障令無有餘。惡之中惡也</note>摩賀路灑儜<note place="inline">此是大怒也。極惡之<note n="0016020" resp="Taisho" place="foot text" type="orig">中＋（而）【甲】【乙】【丙】</note><app n="0016020"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">中而</rdg></app>更忿怒
+<lb n="0016c04" ed="T"/>暴<note n="0016021" resp="Taisho" place="foot text" type="orig">惡＋（甚）【甲】【乙】【丙】</note><app n="0016021"><lem wit="【大】">惡</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">惡甚</rdg></app>也。即是諸佛第一義。威猛殘害世間盡其巢穴定入法界歸依金剛界</note>娑頗<note place="inline">二合</note>吒
+<lb n="0016c05" ed="T"/>野<note place="inline">破壞也</note>吽<note place="inline">恐怖也</note>怛囉<note place="inline">二合</note>麼野<note place="inline">堅固也</note>吽怛羅<note place="inline">二合</note>吒
+<lb n="0016c06" ed="T"/>唅𤚥<note place="inline">種子也</note></p>
+<lb n="0016c07" ed="T"/><p xml:id="pT21p0016c0701"><note n="0016022" resp="Taisho" place="foot text" type="orig">用＝由【甲】＊</note><app n="0016022"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【甲】">由</rdg></app>後二字為種子。諸句義中皆能成事業。初
+<lb n="0016c08" ed="T"/>戰拏者是死義。入阿字門即本無生死義也。
+<lb n="0016c09" ed="T"/>荼是戰義。以此無生死大勢之王與諸四<note n="0016023" resp="Taisho" place="foot text" type="orig">魔＝摩ィ【原】</note><app n="0016023"><lem wit="【大】">魔</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">摩</rdg></app>
+<lb n="0016c10" ed="T"/>戰也。次魔是我義。入阿字門即是無我。亦是
+<lb n="0016c11" ed="T"/>空三昧也。盧者有囉字。垢障義為體。有鄔
+<lb n="0016c12" ed="T"/>聲是三昧也。即奢麼他為大三昧也。儜是戰
+<lb n="0016c13" ed="T"/>義。入阿字門即大空三昧也。薩是堅義。頗是
+<lb n="0016c14" ed="T"/><note n="0016024" resp="Taisho" place="foot text" type="orig">沫＝法【甲】【乙】【丙】</note><app n="0016024"><lem wit="【大】">沫</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">法</rdg></app>義。知世間法如聚沫故易破壞也。傍有阿
+<lb n="0016c15" ed="T"/>字<note n="0016025" resp="Taisho" place="foot text" type="orig">〔之〕－【甲】</note><app n="0016025"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>點即行也。吒是戰義。能敵障怖畏令破
+<lb n="0016c16" ed="T"/>也。野是乘義也。吽是大空三昧。如上說怛是
+<lb n="0016c17" ed="T"/><note n="0016026" resp="Taisho" place="foot text" type="orig">如＋（如）【甲】【乙】【丙】</note><app n="0016026"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">如如</rdg></app>也。囉是無垢也。<note n="0016027" resp="Taisho" place="foot text" type="orig">吒＝迦ヵ【原】</note><app n="0016027"><lem resp="Taisho" wit="【大】">吒</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">迦</rdg></app>是作也。謂一切法無
+<lb n="0016c18" ed="T"/>作也。唅字上有空點是圓寂義。亦名大空智。
+<lb n="0016c19" ed="T"/>入訶字門是行義。又有<note n="0016028" resp="Taisho" place="foot text" type="orig">〔阿〕－【甲】</note><app n="0016028"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>聲怖魔障金剛三
+<lb n="0016c20" ed="T"/>昧行也。<note n="0016029" resp="Taisho" place="foot text" type="orig">野＝摩ヵ【原】</note><app n="0016029"><lem resp="Taisho" wit="【大】">野</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">摩</rdg></app>即大空也。以此大空不動之行大
+<lb n="0016c21" ed="T"/>怖一切魔障也。𤚥字亦名大空智。為麼字門
+<lb n="0016c22" ed="T"/>是我義。入阿字門無我也。謂一切法本無生
+<lb n="0016c23" ed="T"/>滅<note n="0016030" resp="Taisho" place="foot text" type="orig">〔也〕ィ－【原】</note><app n="0016030"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>。又以此大空無我三昧而怖眾魔。以
+<lb n="0016c24" ed="T"/>此字亦有阿聲及<note n="0016031" resp="Taisho" place="foot text" type="orig">野＝點ヵ【原】</note><app n="0016031"><lem resp="Taisho" wit="【大】">野</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">點</rdg></app>也。<note n="0016032" resp="Taisho" place="foot text" type="orig">阿＝訶ィ【原】</note><app n="0016032"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">訶</rdg></app>嚧唅𤚥。此四字
+<lb n="0016c25" ed="T"/>皆有阿聲。即重怖魔極怖畏也。即是破內外
+<lb n="0016c26" ed="T"/>二障之義也。結三昧已。即想自身全成㘕字。
+<lb n="0016c27" ed="T"/>此字想成猶如火色。從字發熾然猛焰。<note n="0016033" resp="Taisho" place="foot text" type="orig">梵＝焚【乙】【丙】</note><note n="0016033" resp="CBETA" type="mod">梵＝焚【乙】【丙】【CB】</note><app n="0016033"><lem resp="CBETA.maha" wit="【CBETA】">焚<note type="cf1">T85n2885_p1401a03</note></lem><rdg wit="【大】">梵</rdg><rdg resp="Taisho" wit="【乙】【丙】">焚</rdg></app>燒
+<lb n="0016c28" ed="T"/>身中三毒煩惱<note n="0016034" resp="Taisho" place="foot text" type="orig">〔及隨煩惱〕－【甲】</note><app n="0016034"><lem wit="【大】">及隨煩惱</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。一時頓盡時火亦
+<pb n="0017a" xml:id="T21.1201.0017a" ed="T"/>
+<lb n="0017a01" ed="T"/>隨滅。唯存㘕字融成皎月在心中。作是觀時
+<lb n="0017a02" ed="T"/>不宜遲住。速轉慧心令其成就。</p></cb:div>
+<lb n="0017a03" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="3" type="品">3 澡浴結護身品</cb:mulu><head>澡浴結護身品第<note n="0017001" resp="Taisho" place="foot text" type="orig">二＝三【甲】＊【乙】【丙】</note><note n="0017001" resp="CBETA" type="mod">二＝三【甲】＊【乙】【丙】【CB】＊</note><app n="0017001"><lem resp="CBETA.maha" wit="【CBETA】">三</lem><rdg wit="【大】">二</rdg><rdg resp="Taisho" wit="【甲】【乙】【丙】">三</rdg></app></head>
+<lb n="0017a04" ed="T"/><cb:div type="other"><cb:mulu level="2" n="1" type="其他">1 無動金剛極安穩護身印明</cb:mulu><head>無動金剛極安穩護身印明第一</head>
+<lb n="0017a05" ed="T"/><p xml:id="pT21p0017a0501">先以二小指內相叉。於大指虎口中出並竪二
+<lb n="0017a06" ed="T"/>中指。二無名指。於中<note n="0017002" resp="Taisho" place="foot text" type="orig">〔指〕－【甲】</note><app n="0017002"><lem wit="【大】">指</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>背相交。以二頭指各
+<lb n="0017a07" ed="T"/>握無名指。竪二大指。捻中指中節是。明曰。</p>
+<lb n="0017a08" ed="T"/><p xml:id="pT21p0017a0801" cb:type="dharani">曩麼三曼多勃馱喃<note n="0017003" resp="Taisho" place="foot text" type="orig">〔一〕－【甲】【乙】【丙】</note><app n="0017003"><lem wit="【大】"><note place="inline">一</note></lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>唵<note n="0017004" resp="Taisho" place="foot text" type="orig">〔二〕－【甲】【乙】【丙】</note><app n="0017004"><lem wit="【大】"><note place="inline">二</note></lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>賀羅賀羅<note n="0017005" resp="Taisho" place="foot text" type="orig">〔三〕－【甲】【乙】【丙】</note><app n="0017005"><lem wit="【大】"><note place="inline">三</note></lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>摩
+<lb n="0017a09" ed="T"/>訶<note n="0017006" resp="Taisho" place="foot text" type="orig">儞弭＝弭儞ィ【原】</note><app n="0017006"><lem wit="【大】">儞弭</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">弭儞</rdg></app>多吽<note place="inline">引</note>泮吒<note n="0017007" resp="Taisho" place="foot text" type="orig">〔半音四〕－【甲】【丙】</note><app n="0017007"><lem wit="【大】"><note place="inline">半音<note n="0017008" resp="Taisho" place="foot text" type="orig">〔四〕－【乙】</note><app n="0017008"><lem wit="【大】">四</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app></note></lem><rdg resp="Taisho" wit="【甲】【丙】"><space quantity="0"/></rdg></app></p>
+<lb n="0017a10" ed="T"/><p xml:id="pT21p0017a1001">爾時無動聖者。說洗浴法有二種。一者內淨。
+<lb n="0017a11" ed="T"/>二者外淨。內淨者。於諸眾生起慈悲喜捨心
+<lb n="0017a12" ed="T"/>清淨無我心。二者外<note n="0017009" resp="Taisho" place="foot text" type="orig">淨＋（者）【甲】</note><app n="0017009"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【甲】">淨者</rdg></app>。以水洗浴或於河
+<lb n="0017a13" ed="T"/>中。先結三昧耶印。置安頂上誦明三遍即用
+<lb n="0017a14" ed="T"/>杵印明護身瀉垢。方可結界淨水及土。亦用
+<lb n="0017a15" ed="T"/>杵印明。</p></cb:div>
+<lb n="0017a16" ed="T"/><cb:div type="other"><cb:mulu level="2" n="2" type="其他">2 無動金剛洗浴結護八方印明</cb:mulu><head>無動金剛洗浴結護八方印明第二</head>
+<lb n="0017a17" ed="T"/><p xml:id="pT21p0017a1701">禪度入掌握為拳。獨竪進度金剛峯三轉。右
+<lb n="0017a18" ed="T"/>轉成結界。左轉解界及辟除。明曰。</p>
+<lb n="0017a19" ed="T"/><p xml:id="pT21p0017a1901" cb:type="dharani">唵唅吽摩訶<note n="0017010" resp="Taisho" place="foot text" type="orig">呬＝四【丙】</note><app n="0017010"><lem wit="【大】">呬</lem><rdg resp="Taisho" wit="【丙】">四</rdg></app>摩畔馱儞畔馱<note n="0017011" resp="Taisho" place="foot text" type="orig">〔吽〕－【甲】【乙】【丙】</note><app n="0017011"><lem wit="【大】">吽</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>畔馱嚩日
+<lb n="0017a20" ed="T"/><note n="0017012" resp="Taisho" place="foot text" type="orig">囉＝㘑【甲】【丙】</note><app n="0017012"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【甲】【丙】">㘑</rdg></app><note place="inline">二合</note>嚩日黎<note place="inline">二合</note><note n="0017013" resp="Taisho" place="foot text" type="orig">禰＝祗【甲】【乙】【丙】</note><app n="0017013"><lem wit="【大】">禰</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">祗</rdg></app>吽泮吒</p></cb:div>
+<lb n="0017a21" ed="T"/><cb:div type="other"><cb:mulu level="2" n="3" type="其他">3 無動金剛洗浴淨水印明</cb:mulu><head>無動金剛洗浴淨水印明第三</head>
+<lb n="0017a22" ed="T"/><p xml:id="pT21p0017a2201">禪智雙入定慧掌中。以印攪水除諸障。明曰。</p>
+<lb n="0017a23" ed="T"/><p xml:id="pT21p0017a2301" cb:type="dharani">曩麼三曼哆嚩日囉<note place="inline">二合</note>赦<note place="inline">一</note>怛囉<note place="inline">二合</note>吒阿謨
+<lb n="0017a24" ed="T"/><note n="0017014" resp="Taisho" place="foot text" type="orig">伽＝佉【乙】【丙】</note><app n="0017014"><lem wit="【大】">伽</lem><rdg resp="Taisho" wit="【乙】【丙】">佉</rdg></app>戰荼<note place="inline">二</note>摩訶嚕灑拏<note place="inline">三</note>薩頗<note place="inline">二合</note>吒耶吽<note place="inline">四</note>
+<lb n="0017a25" ed="T"/>怛囉<note place="inline">二合</note>莎耶<note n="0017015" resp="Taisho" place="foot text" type="orig">〔怛囉二合莎耶〕－【甲】</note><app n="0017015"><lem wit="【大】">怛囉<note place="inline">二合</note>莎耶</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>吽怛𡀔<note place="inline">二合</note>吒
+<lb n="0017a26" ed="T"/><note n="0017016" resp="Taisho" place="foot text" type="orig">〔吽〕－【乙】【丙】</note><app n="0017016"><lem wit="【大】">吽</lem><rdg resp="Taisho" wit="【乙】【丙】"><space quantity="0"/></rdg></app>怛𡀔<note place="inline">二合</note>吒</p></cb:div>
+<lb n="0017a27" ed="T"/><cb:div type="other"><cb:mulu level="2" n="4" type="其他">4 不動金剛著甲印明</cb:mulu><head>不動金剛著甲印明第四</head>
+<lb n="0017a28" ed="T"/><p xml:id="pT21p0017a2801">戒方入掌背相著。進力入掌亦如是。六度竪
+<lb n="0017a29" ed="T"/>合三鈷杵。開腕印身上頂加持五處。頂上散。
+<pb n="0017b" xml:id="T21.1201.0017b" ed="T"/>
+<lb n="0017b01" ed="T"/>是名金剛甲。明曰。</p>
+<lb n="0017b02" ed="T"/><p xml:id="pT21p0017b0201" cb:type="dharani">唵唅吽嚩日囉<note place="inline">二合</note><note n="0017017" resp="Taisho" place="foot text" type="orig">〔三〕－【甲】【乙】【丙】</note><app n="0017017"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>摩曳嚩<note n="0017018" resp="Taisho" place="foot text" type="orig">〔日〕－【甲】【乙】【丙】</note><app n="0017018"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>囉迦縛制
+<lb n="0017b03" ed="T"/>護嚩日羅<note place="inline">二合</note>吽泮吒<note place="inline">半音</note></p>
+<lb n="0017b04" ed="T"/><p xml:id="pT21p0017b0401">以此明印印五處即成著甲隨意洗浴。</p></cb:div>
+<lb n="0017b05" ed="T"/><cb:div type="other"><cb:mulu level="2" n="5" type="其他">5 不動金剛灌頂印明</cb:mulu><head>不動金剛灌頂印明第五</head>
+<lb n="0017b06" ed="T"/><p xml:id="pT21p0017b0601">戒方檀慧內相叉。忍願竪合進力附。智捻方
+<lb n="0017b07" ed="T"/>背。禪亦然。是名本尊灌頂印。<note n="0017019" resp="Taisho" place="foot text" type="orig">（誦）＋明【乙】</note><app n="0017019"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【乙】">誦明</rdg></app>曰。</p>
+<lb n="0017b08" ed="T"/><p xml:id="pT21p0017b0801" cb:type="dharani">曩摩悉多羅<note n="0017020" resp="Taisho" place="foot text" type="orig">三合也＝也二合【乙】，三＝二【丙】</note><app n="0017020"><lem wit="【大】"><note place="inline">三合</note>也</lem><rdg resp="Taisho" wit="【乙】">也二合</rdg><rdg resp="Taisho" wit="【丙】">二合也</rdg></app>地尾<note place="inline">二合</note>蘖<note n="0017021" resp="Taisho" place="foot text" type="orig">多＝哆【乙】【丙】</note><app n="0017021"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【乙】【丙】">哆</rdg></app><note n="0017022" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】</note><app n="0017022"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="0017023" resp="Taisho" place="foot text" type="orig">南＝喃【乙】＊</note><app n="0017023"><lem wit="【大】">南</lem><rdg resp="Taisho" wit="【乙】">喃</rdg></app>薩
+<lb n="0017b09" ed="T"/>羅嚩怛他<note place="inline">引</note><note n="0017024" resp="Taisho" place="foot text" type="orig">蘇＝蘗【甲】【丙】</note><app n="0017024"><lem wit="【大】">蘇</lem><rdg resp="Taisho" wit="【甲】【丙】">蘗</rdg></app>哆<app type="star" corresp="#0017023"><lem wit="【大】">南</lem><rdg resp="Taisho" wit="【乙】">喃</rdg></app>紇唎<note place="inline">二合</note>薩羅嚩母馱
+<lb n="0017b10" ed="T"/>那婢<note place="inline">卑也反</note><note n="0017025" resp="Taisho" place="foot text" type="orig">〔邏波波〕ィ－【原】</note><app n="0017025"><lem wit="【大】">邏波波</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>羅<note n="0017026" resp="Taisho" place="foot text" type="orig">濕＝涅【甲】</note><app n="0017026"><lem wit="【大】">濕</lem><rdg resp="Taisho" wit="【甲】">涅</rdg></app>摩鼻曬罽<note n="0017027" resp="Taisho" place="foot text" type="orig">婀＝迦【甲】【乙】【丙】</note><app n="0017027"><lem wit="【大】">婀</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">迦</rdg></app>婢詵<note place="inline">去</note>
+<lb n="0017b11" ed="T"/><note n="0017028" resp="Taisho" place="foot text" type="orig">者＝生ィ【原】</note><app n="0017028"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">生</rdg></app>怛<note n="0017029" resp="Taisho" place="foot text" type="orig">謨＋（二合引）ィ細註【原】</note><app n="0017029"><lem wit="【大】">謨</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">謨<note place="inline">二合引</note></rdg></app>努遞<g ref="#CB04073"/>邏嚩底<note place="inline">丁以切</note><note n="0017030" resp="Taisho" place="foot text" type="orig">尾囉＝末羅ィ【原】</note><app n="0017030"><lem wit="【大】">尾囉</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">末羅</rdg></app>者麗莎嚩
+<lb n="0017b12" ed="T"/><note place="inline">二合</note>訶</p>
+<lb n="0017b13" ed="T"/><p xml:id="pT21p0017b1301">修真言者。著甲護身洗浴著衣竟。誦明曰。</p>
+<lb n="0017b14" ed="T"/><p xml:id="pT21p0017b1401" cb:type="dharani">唵唅吽塞頗吒耶薩醯<note n="0017031" resp="Taisho" place="foot text" type="orig">吽羅＋（吽羅）ィ【原】</note><app n="0017031"><lem wit="【大】">吽羅</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">吽羅吽羅</rdg></app>迦沙<note place="inline">二合</note><note n="0017032" resp="Taisho" place="foot text" type="orig">唅＝𤚥ィ【原】</note><app n="0017032"><lem wit="【大】">唅</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">𤚥</rdg></app>泮
+<lb n="0017b15" ed="T"/>吒<note place="inline">輕呼半音</note></p>
+<lb n="0017b16" ed="T"/><p xml:id="pT21p0017b1601">不動金剛杵印真言。一切穢處用。修真言者。
+<lb n="0017b17" ed="T"/>欲往一切穢處。先用杵印印五處。所謂兩肩
+<lb n="0017b18" ed="T"/>心額喉頂<note n="0017033" resp="Taisho" place="foot text" type="orig">〔是也〕－【甲】</note><app n="0017033"><lem wit="【大】">是也</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。用印之時。以明加持至頂上
+<lb n="0017b19" ed="T"/>散。誦明曰。</p>
+<lb n="0017b20" ed="T"/><p xml:id="pT21p0017b2001" cb:type="dharani">唵阿者邏迦拏戰荼莎馱耶吽泮吒</p></cb:div></cb:div>
+<lb n="0017b21" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="4" type="品">4 結護道場品</cb:mulu><head>結護道場品第四</head>
+<lb n="0017b22" ed="T"/><cb:div type="other"><cb:mulu level="2" n="1" type="其他">1 無動金剛三昧耶印明</cb:mulu><head><note n="0017034" resp="Taisho" place="foot text" type="orig">無＝不ィ【原】</note><app n="0017034"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">不</rdg></app>動金剛三昧耶印明第一</head>
+<lb n="0017b23" ed="T"/><p xml:id="pT21p0017b2301">如是依法洗浴已。即往精舍。以清淨<note n="0017035" resp="Taisho" place="foot text" type="orig">心＋（身）【乙】</note><app n="0017035"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【乙】">心身</rdg></app>如常
+<lb n="0017b24" ed="T"/>合掌。直竪禪智二度。<note n="0017036" resp="Taisho" place="foot text" type="orig">（安）＋於【乙】【丙】</note><app n="0017036"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【乙】【丙】">安於</rdg></app>額上思惟。諸佛菩
+<lb n="0017b25" ed="T"/>薩<note n="0017037" resp="Taisho" place="foot text" type="orig">如＝知【甲】</note><app n="0017037"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】">知</rdg></app>對目前。放其身心。坦然禪悅入三昧
+<lb n="0017b26" ed="T"/><note n="0017038" resp="Taisho" place="foot text" type="orig">耶＝時【甲】【乙】【丙】</note><app n="0017038"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">時</rdg></app>。誦明曰。</p>
+<lb n="0017b27" ed="T"/><p xml:id="pT21p0017b2701" cb:type="dharani">曩摩薩嚩母馱冒地薩怛嚩<note place="inline">二合</note>喃那<note n="0017039" resp="Taisho" place="foot text" type="orig">莫＝莽【乙】【丙】</note><app n="0017039"><lem wit="【大】">莫</lem><rdg resp="Taisho" wit="【乙】【丙】">莽</rdg></app>蘇悉
+<lb n="0017b28" ed="T"/>地莎達儞阿蘖隷<note place="inline">二合</note>迦嚕儞嚩羅提<note n="0017040" resp="Taisho" place="foot text" type="orig">怛羅異怛羅異＝多異ィ【原】，怛異怛異怛異怛異【甲】，怾怾異異怾怾異異【乙】，怛怛異異怛怛異異【丙】</note><note n="0017040" resp="CBETA" type="mod">怛羅異怛羅異＝多異ィ【原】，＝怛異怛異怛異怛異【甲】，＝怾怾異異怾怾異異【乙】，＝怛怛異異怛怛異異【丙】</note><app n="0017040"><lem wit="【大】">怛羅異
+<lb n="0017b29" ed="T"/>怛羅異</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">多異</rdg><rdg resp="Taisho" wit="【甲】">怛異怛異怛異怛異</rdg><rdg resp="Taisho" wit="【乙】">怾怾異異怾怾異異</rdg><rdg resp="Taisho" wit="【丙】">怛怛異異怛怛異異</rdg></app>阿皤曳阿底摩㘑<note n="0017041" resp="Taisho" place="foot text" type="orig">那莽素＝異莽索ィ【原】</note><app n="0017041"><lem wit="【大】">那莽素</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">異莽索</rdg></app>都<note place="inline">二合</note><note n="0017042" resp="Taisho" place="foot text" type="orig">〔帝〕－【甲】【乙】【丙】</note><app n="0017042"><lem wit="【大】">帝</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>
+<pb n="0017c" xml:id="T21.1201.0017c" ed="T"/>
+<lb n="0017c01" ed="T"/><note n="0017043" resp="Taisho" place="foot text" type="orig">波＝婆ィ【原】</note><app n="0017043"><lem wit="【大】">波</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">婆</rdg></app>羅摩悉地馱也罽鼻喻<note place="inline">二合</note>摩訶訖哩<note place="inline">二合</note>
+<lb n="0017c02" ed="T"/>閉弊<note place="inline">毘也反</note>莎嚩訶</p>
+<lb n="0017c03" ed="T"/><lg xml:id="lgT21p0017c0301"><l>禪智並合蓮華掌</l><l>加持本明安額上</l>
+<lb n="0017c04" ed="T"/><l>思惟諸法本<note n="0017044" resp="Taisho" place="foot text" type="orig">不＝無【甲】</note><app n="0017044"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】">無</rdg></app>生</l></lg></cb:div>
+<lb n="0017c05" ed="T"/><cb:div type="other"><cb:mulu level="2" n="2" type="其他">2 不動威怒辟除障難印明</cb:mulu><head>不動威怒辟除障難印明第<choice cb:resp="CBETA.maha"><corr></corr><sic>[＊]</sic></choice>二</head>
+<lb n="0017c06" ed="T"/><lg xml:id="lgT21p0017c0601"><l>願力並竪端</l><l>慧方如鉤勢</l>
+<lb n="0017c07" ed="T"/><l>智度捻如環</l><l><note n="0017045" resp="Taisho" place="foot text" type="orig">慧＝定【乙】【丙】</note><app n="0017045"><lem wit="【大】">慧</lem><rdg resp="Taisho" wit="【乙】【丙】">定</rdg></app>羽亦如是</l>
+<lb n="0017c08" ed="T"/><l>即以忍進劍</l><l>穿入<note n="0017046" resp="Taisho" place="foot text" type="orig">定＝慧【乙】【丙】</note><app n="0017046"><lem wit="【大】">定</lem><rdg resp="Taisho" wit="【乙】【丙】">慧</rdg></app>鞘中</l>
+<lb n="0017c09" ed="T"/><l>是名無動劍</l><l>結護方隅界</l>
+<lb n="0017c10" ed="T"/><l>拔刀左遶之</l><l>辟除一切魔</l>
+<lb n="0017c11" ed="T"/><l>持劍右旋轉</l><l>下指金剛橛</l>
+<lb n="0017c12" ed="T"/><l>上結虛空界</l><l>復誦祕密明</l></lg>
+<lb n="0017c13" ed="T"/><p xml:id="pT21p0017c1301" cb:type="dharani">曩麼三曼哆嚩日囉<note place="inline">二合</note>𧹞怛羅<note place="inline">二合</note>吒戰荼摩
+<lb n="0017c14" ed="T"/>訶路灑拏沙頗<note place="inline">二合</note><note n="0017047" resp="Taisho" place="foot text" type="orig">吒＝囉【乙】【丙】</note><app n="0017047"><lem wit="【大】">吒</lem><rdg resp="Taisho" wit="【乙】【丙】">囉</rdg></app>耶吽怛羅<note place="inline">二合</note>吒唅𤚥</p>
+<lb n="0017c15" ed="T"/><p xml:id="pT21p0017c1501">密誦三遍或七遍。以印右旋結護。左轉辟除
+<lb n="0017c16" ed="T"/>及以上下。是明威力。能大擁護十方大界。及
+<lb n="0017c17" ed="T"/>以護身并淨除處所。乃至三界猶能防護。況
+<lb n="0017c18" ed="T"/>一方所作是法。<note n="0017048" resp="Taisho" place="foot text" type="orig">時＝所ィ【原】</note><app n="0017048"><lem wit="【大】">時</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">所</rdg></app>隨行者心念明印。所及
+<lb n="0017c19" ed="T"/>之處。能令種種類及難調魍魎之屬。皆見熾
+<lb n="0017c20" ed="T"/>然金剛威怒。如大火聚周遍其處。此印功能
+<lb n="0017c21" ed="T"/>甚大難說。若人住於世。窮劫說其功能亦不
+<lb n="0017c22" ed="T"/>可盡。是名無動金剛劍。此印明亦通五部護
+<lb n="0017c23" ed="T"/>身結界用。</p></cb:div>
+<lb n="0017c24" ed="T"/><cb:div type="other"><cb:mulu level="2" n="3" type="其他">3 無動金剛能成就一切事業杵印明</cb:mulu><head>無動金剛能成就一切事業杵印明第三</head>
+<pb n="0018a" xml:id="T21.1201.0018a" ed="T"/>
+<lb n="0018a01" ed="T"/><lg xml:id="lgT21p0018a0101"><l>竪開<note n="0018001" resp="Taisho" place="foot text" type="orig">止＝觀ヵ【原】</note><app n="0018001"><lem resp="Taisho" wit="【大】">止</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">觀</rdg></app>羽掌</l><l>禪進捻如環</l>
+<lb n="0018a02" ed="T"/><l>各建金剛峯</l><l>是名無動杵</l>
+<lb n="0018a03" ed="T"/><l>復誦密言曰</l></lg>
+<lb n="0018a04" ed="T"/><p xml:id="pT21p0018a0401" cb:type="dharani">曩麼三曼多嚩日囉<note place="inline">二合</note>𧹞戰拏唵阿者邏迦
+<lb n="0018a05" ed="T"/>拏<note n="0018002" resp="Taisho" place="foot text" type="orig">者＋（拏者）ィ【原】</note><app n="0018002"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">者拏者</rdg></app>嚕娑馱耶吽泮吒</p>
+<lb n="0018a06" ed="T"/><p xml:id="pT21p0018a0601">此杵明印能成就一切事業。乃至洗浴<note n="0018003" resp="Taisho" place="foot text" type="orig">明＋（水）【甲】【乙】【丙】</note><app n="0018003"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">明水</rdg></app>淨
+<lb n="0018a07" ed="T"/>土。及以護身結界皆用此明印。</p></cb:div>
+<lb n="0018a08" ed="T"/><cb:div type="other"><cb:mulu level="2" n="4" type="其他">4 無動金剛牆印明</cb:mulu><head>無動金剛牆印明第四</head>
+<lb n="0018a09" ed="T"/><lg xml:id="lgT21p0018a0901"><l>戒方進力屈入掌</l><l>側竪忍願並檀慧</l>
+<lb n="0018a10" ed="T"/><l>禪支屈捻進下文</l><l>智捻力支亦如是</l></lg>
+<lb n="0018a11" ed="T"/><p xml:id="pT21p0018a1101">誦明曰。</p>
+<lb n="0018a12" ed="T"/><p xml:id="pT21p0018a1201" cb:type="dharani">唵唅吽嚩日囉<note place="inline">二合</note>曼荼隷畔馱畔馱吽泮吒
+<lb n="0018a13" ed="T"/><note place="inline">輕呼</note></p>
+<lb n="0018a14" ed="T"/><p xml:id="pT21p0018a1401">誦明三遍。以印<note n="0018004" resp="Taisho" place="foot text" type="orig">左＝右【乙】【丙】</note><app n="0018004"><lem wit="【大】">左</lem><rdg resp="Taisho" wit="【乙】【丙】">右</rdg></app>轉三遍隨<note n="0018005" resp="Taisho" place="foot text" type="orig">心＝身【甲】【乙】【丙】</note><app n="0018005"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">身</rdg></app>遠近即成
+<lb n="0018a15" ed="T"/>就牆界。</p></cb:div>
+<lb n="0018a16" ed="T"/><cb:div type="other"><cb:mulu level="2" n="5" type="其他">5 無動金剛網印明</cb:mulu><head>無動金剛網印明第五</head>
+<lb n="0018a17" ed="T"/><lg xml:id="lgT21p0018a1701"><l>戒方進力內相叉</l><l>六度竪合頭相拄</l>
+<lb n="0018a18" ed="T"/><l>開腕頂上右三旋</l><l>即成金剛堅固<note n="0018006" resp="Taisho" place="foot text" type="orig">網＝縛【甲】</note><app n="0018006"><lem wit="【大】">網</lem><rdg resp="Taisho" wit="【甲】">縛</rdg></app></l></lg>
+<lb n="0018a19" ed="T"/><p xml:id="pT21p0018a1901">誦明曰。</p>
+<lb n="0018a20" ed="T"/><p xml:id="pT21p0018a2001" cb:type="dharani">唵唅吽嚩日羅<note place="inline">二合</note>薩囉<note place="inline">二合</note>步嚩儞暮吽泮吒
+<lb n="0018a21" ed="T"/><note place="inline">半音</note></p>
+<lb n="0018a22" ed="T"/><p xml:id="pT21p0018a2201">結此印已誦明三遍。於頂上右旋。三匝即成
+<lb n="0018a23" ed="T"/>網界。</p></cb:div>
+<lb n="0018a24" ed="T"/><cb:div type="other"><cb:mulu level="2" n="6" type="其他">6 無動金剛火焰印明</cb:mulu><head>無動金剛火焰印明第六</head>
+<lb n="0018a25" ed="T"/><lg xml:id="lgT21p0018a2501"><l>二羽翻掌背相叉</l><l>即成本尊三昧火</l>
+<lb n="0018a26" ed="T"/><l>金剛牆外三旋繞</l><l>如火猛焰金剛<note n="0018007" resp="Taisho" place="foot text" type="orig">城＝成【甲】【乙】</note><app n="0018007"><lem wit="【大】">城</lem><rdg resp="Taisho" wit="【甲】【乙】">成</rdg></app></l>
+<lb n="0018a27" ed="T"/><l>一切魔軍悉馳散</l><l>誦明曰</l></lg>
+<lb n="0018a28" ed="T"/><p xml:id="pT21p0018a2801" cb:type="dharani">唵唅吽嚩日羅<note place="inline">二合</note>入嚩<note place="inline">二合</note>隷吽泮吒</p>
+<lb n="0018a29" ed="T"/><p xml:id="pT21p0018a2901">結此火焰印。已誦明三遍。於金剛牆外。右旋
+<pb n="0018b" xml:id="T21.1201.0018b" ed="T"/>
+<lb n="0018b01" ed="T"/>三匝即成火院。</p></cb:div></cb:div>
+<lb n="0018b02" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="5" type="品">5 供養品</cb:mulu><head>供養品第五</head>
+<lb n="0018b03" ed="T"/><cb:div type="other"><cb:mulu level="2" n="1" type="其他">1 無動金剛座印明</cb:mulu><head>無動金剛座印明第一</head>
+<lb n="0018b04" ed="T"/><lg xml:id="lgT21p0018b0401"><l>平舒定掌<note n="0018008" resp="Taisho" place="foot text" type="orig">承＝乘【乙】，垂【丙】</note><note n="0018008" resp="CBETA" type="mod">承＝乘【乙】，＝垂【丙】</note><app n="0018008"><lem wit="【大】">承</lem><rdg resp="Taisho" wit="【乙】">乘</rdg><rdg resp="Taisho" wit="【丙】">垂</rdg></app>慧背</l><l>行人想成金剛座</l>
+<lb n="0018b05" ed="T"/><l>座上更安所生印</l><l>一切聖者皆隨喜</l></lg>
+<lb n="0018b06" ed="T"/><p xml:id="pT21p0018b0601">誦明曰。</p>
+<lb n="0018b07" ed="T"/><p xml:id="pT21p0018b0701" cb:type="dharani">唵唅吽嚩日羅<note place="inline">二合</note>莎儞梵<note n="0018009" resp="Taisho" place="foot text" type="orig">〔吽〕－【甲】</note><app n="0018009"><lem wit="【大】">吽</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>泮吒<note place="inline">半音</note></p>
+<lb n="0018b08" ed="T"/><p xml:id="pT21p0018b0801">以此明印加持住處得為金剛不壞地。即於
+<lb n="0018b09" ed="T"/>地上想有金剛座。便以如來所生印安置諸
+<lb n="0018b10" ed="T"/>佛菩薩於金剛座上。便迴此印供養諸聖。</p></cb:div>
+<lb n="0018b11" ed="T"/><cb:div type="other"><cb:mulu level="2" n="2" type="其他">2 一切如來所生印明</cb:mulu><head>一切如來所生印明第二</head>
+<lb n="0018b12" ed="T"/><lg xml:id="lgT21p0018b1201"><l>金剛堅固內相叉</l><l>檀慧竪開所生印</l>
+<lb n="0018b13" ed="T"/><l>此印名為功德母</l><l>佛法僧寶住其中</l>
+<lb n="0018b14" ed="T"/><l>請召明王及本尊</l><l>結此祕印皆雲集</l>
+<lb n="0018b15" ed="T"/><l>便迴此印獻諸尊</l><l>即成閼伽供養<note n="0018010" resp="Taisho" place="foot text" type="orig">佛＋（誦明曰）【甲】【乙】【丙】</note><app n="0018010"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">佛誦明曰</rdg></app></l></lg>
+<lb n="0018b16" ed="T"/><p xml:id="pT21p0018b1601" cb:type="dharani">曩麼薩嚩母馱<g ref="#CB00155"/>地薩怛嚩<note place="inline">二合</note>喃阿<note place="inline">引</note>摩羅
+<lb n="0018b17" ed="T"/>尾迦<note n="0018011" resp="Taisho" place="foot text" type="orig">羅＝嚩【甲】【乙】【丙】</note><app n="0018011"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">嚩</rdg></app><note place="inline">二合</note>多帝餌儞阿羅逝莎嚩<note place="inline">二合</note>訶</p>
+<lb n="0018b18" ed="T"/><p xml:id="pT21p0018b1801">便以此如來所生印想為閼伽。奉獻諸佛菩
+<lb n="0018b19" ed="T"/>薩諸尊賢聖。常作此法供養。<note n="0018012" resp="Taisho" place="foot text" type="orig">是＝念誦ィ【原】</note><app n="0018012"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">念誦</rdg></app>速得成<note n="0018013" resp="Taisho" place="foot text" type="orig">就＋（故）【乙】【丙】</note><app n="0018013"><lem wit="【大】">就</lem><rdg resp="Taisho" wit="【乙】【丙】">就故</rdg></app>。
+<lb n="0018b20" ed="T"/>復觀不動聖者住本位。<app type="star" corresp="#0016022"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【甲】">由</rdg></app>前灌頂印明奉獻
+<lb n="0018b21" ed="T"/>本尊。即誦根本明一遍。能令聖者歡喜。速得
+<lb n="0018b22" ed="T"/>圓滿成就故。又持明行者。次結三昧耶印安
+<lb n="0018b23" ed="T"/>置頂上<note place="inline"><note n="0018014" resp="Taisho" place="foot text" type="orig">印＝即ィ【乙】</note><app n="0018014"><lem wit="【大】">印</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">即</rdg></app>如前已說</note>即想自身如本尊乘八葉蓮華。
+<lb n="0018b24" ed="T"/>手執香爐。即令三業寂然無亂。往詣精舍至
+<lb n="0018b25" ed="T"/>道場門。三稱吽字驚覺諸聖。入精舍已<note place="inline">已上安於三昧
+<lb n="0018b26" ed="T"/>印後</note>。</p>
+<lb n="0018b27" ed="T"/><p xml:id="pT21p0018b2701">次應如常禮懺奉獻閼伽。應作是念。我今當
+<lb n="0018b28" ed="T"/>捨全身供養十方三世常住三寶道場眾會。
+<lb n="0018b29" ed="T"/>唯願一切諸佛菩薩。乞與我等作大加持。最
+<pb n="0018c" xml:id="T21.1201.0018c" ed="T"/>
+<lb n="0018c01" ed="T"/>上成就。得成金剛薩埵悉地。當攝受故請求
+<lb n="0018c02" ed="T"/>加護。如是三白便即云<note n="0018015" resp="Taisho" place="foot text" type="orig">〔云〕－【甲】</note><app n="0018015"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。又以杵印如前結
+<lb n="0018c03" ed="T"/>界加持本尊座。以如來所生印奉獻諸佛菩
+<lb n="0018c04" ed="T"/>薩。每日三時如法供養。或時忘念闕少法則。
+<lb n="0018c05" ed="T"/>即犯三昧耶。先誦大輪金剛明。及結大輪印。
+<lb n="0018c06" ed="T"/><app type="star" corresp="#0016022"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【甲】">由</rdg></app>除其咎。謝其過罪。</p></cb:div>
+<lb n="0018c07" ed="T"/><cb:div type="other"><cb:mulu level="2" n="3" type="其他">3 大輪金剛懺悔印明</cb:mulu><head>大輪金剛懺悔印明第三</head>
+<lb n="0018c08" ed="T"/><lg xml:id="lgT21p0018c0801"><l>如是依法結護已</l><l>皆有闕犯三昧耶</l>
+<lb n="0018c09" ed="T"/><l>密持蘇摩金剛明</l><l>懺悔四時諸過咎</l>
+<lb n="0018c10" ed="T"/><l>戒方進力內相鉤</l><l>六度竪合金剛輪</l>
+<lb n="0018c11" ed="T"/><l>結此明印安頂上</l><l>右旋三匝謝其過</l></lg>
+<lb n="0018c12" ed="T"/><p xml:id="pT21p0018c1201">誦明曰。</p>
+<lb n="0018c13" ed="T"/><p xml:id="pT21p0018c1301" cb:type="dharani">曩麼悉底哩耶<note place="inline"><note n="0018016" resp="Taisho" place="foot text" type="orig">四＝二【甲】【乙】【丙】＊</note><app n="0018016"><lem wit="【大】">四</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">二</rdg></app>合</note>地尾迦喃薩縛怛他誐多
+<lb n="0018c14" ed="T"/>喃唵尾囉耳<note n="0018017" resp="Taisho" place="foot text" type="orig">〔尾囉耳〕－【甲】</note><app n="0018017"><lem wit="【大】">尾囉耳</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>摩訶斫迦羅嚩日<note n="0018018" resp="Taisho" place="foot text" type="orig">羅＝哩【乙】</note><app n="0018018"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【乙】">哩</rdg></app><note place="inline">二
+<lb n="0018c15" ed="T"/>合</note>薩哆薩哆莎囉帝<note n="0018019" resp="Taisho" place="foot text" type="orig">〔莎囉帝〕－【甲】</note><app n="0018019"><lem wit="【大】">莎囉帝</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>怛囉<note place="inline">二合</note>曳怛囉
+<lb n="0018c16" ed="T"/><note place="inline">二合</note>曳尾馱摩儞三盤若儞怛囉<note place="inline">二合</note>摩底悉馱
+<lb n="0018c17" ed="T"/>阿紇哩曳怛唎<note place="inline">二合</note>藍<note place="inline">引</note>莎嚩<note place="inline">二合</note>訶</p>
+<lb n="0018c18" ed="T"/><p xml:id="pT21p0018c1801">持真言者結護了皆有闕犯三昧耶。當結此
+<lb n="0018c19" ed="T"/>印安頂上誦明三遍或七遍。右旋三匝懺<note n="0018020" resp="Taisho" place="foot text" type="orig">謝＝悔ィ【原】，〔謝〕－ヵ【原】</note><app n="0018020"><lem wit="【大】"><app><lem resp="Taisho" wit="【大】">謝</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app></lem><rdg resp="Taisho" wit="【原】" type="variantRemark">悔</rdg></app>
+<lb n="0018c20" ed="T"/><note n="0018021" resp="Taisho" place="foot text" type="orig">眾＝罪【乙】【丙】</note><app n="0018021"><lem wit="【大】">眾</lem><rdg resp="Taisho" wit="【乙】【丙】">罪</rdg></app>過。然後念誦本尊明。</p></cb:div>
+<lb n="0018c21" ed="T"/><cb:div type="other"><cb:mulu level="2" n="4" type="其他">4 無動金剛滿足印明</cb:mulu><head>無動金剛滿足印明第四</head>
+<lb n="0018c22" ed="T"/><lg xml:id="lgT21p0018c2201"><l>虛心合掌甲相柱</l><l>是名本尊滿足印</l>
+<lb n="0018c23" ed="T"/><l>種種供養及塗香</l><l>焚香燈明并飲食</l>
+<lb n="0018c24" ed="T"/><l>上妙供養吉祥事</l><l>俱持此印皆圓滿</l></lg>
+<lb n="0018c25" ed="T"/><p xml:id="pT21p0018c2501">誦明曰。</p>
+<lb n="0018c26" ed="T"/><p xml:id="pT21p0018c2601" cb:type="dharani">曩麼悉底哩也<note place="inline"><app type="star" corresp="#0018016"><lem wit="【大】">四</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">二</rdg></app>合</note>陀嚩<note place="inline">二合</note>蘖哆喃薩嚩怛
+<lb n="0018c27" ed="T"/>他蘖哆喃喑尾哆哩摩訶嚩日囉<note place="inline">二合</note>薩怛薩
+<lb n="0018c28" ed="T"/>怛莎囉帝莎羅帝莎縛訶</p>
+<lb n="0018c29" ed="T"/><p xml:id="pT21p0018c2901">復以此明印想水陸珍寶。及寶山等物。海中
+<pb n="0019a" xml:id="T21.1201.0019a" ed="T"/>
+<lb n="0019a01" ed="T"/><note n="0019001" resp="Taisho" place="foot text" type="orig">〔妙〕－【甲】</note><app n="0019001"><lem wit="【大】">妙</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>寶摩尼華樹王等。悉皆無主所攝以我福
+<lb n="0019a02" ed="T"/>德力諸佛加持力。願此香華雲遍滿諸佛剎
+<lb n="0019a03" ed="T"/>土。供養一切諸佛菩薩滿足上願。</p></cb:div>
+<lb n="0019a04" ed="T"/><cb:div type="other"><cb:mulu level="2" n="5" type="其他">5 塗香供養印明</cb:mulu><head>塗香供養印明第五</head>
+<lb n="0019a05" ed="T"/><p xml:id="pT21p0019a0501">印如前誦明曰。</p>
+<lb n="0019a06" ed="T"/><p xml:id="pT21p0019a0601" cb:type="dharani">曩麼悉底哩<note n="0019002" resp="Taisho" place="foot text" type="orig">三合也＝也三合【甲】＊，也二合【乙】【丙】＊</note><note n="0019002" resp="CBETA" type="mod">三合也＝也三合【甲】＊，＝也二合【乙】【丙】＊</note><app n="0019002"><lem wit="【大】"><note place="inline">三合</note>也</lem><rdg resp="Taisho" wit="【甲】">也三合</rdg><rdg resp="Taisho" wit="【乙】【丙】">也二合</rdg></app>陀嚩<anchor xml:id="fxT21p0019a01"/><note place="inline">二合</note>蘖哆喃薩縛怛
+<lb n="0019a07" ed="T"/>他蘖哆喃阿三摩彥<note n="0019003" resp="Taisho" place="foot text" type="orig">〔度〕－【甲】</note><app n="0019003"><lem wit="【大】">度</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>怛謎<note n="0019004" resp="Taisho" place="foot text" type="orig">素彥駄＝蘇彥引度怛謎ィ【原】</note><note n="0019004" resp="CBETA" type="mod">素彥<choice cb:resp="CBETA.maha"><corr>馱</corr><sic>駄</sic></choice>＝蘇彥引度怛謎ィ【原】</note><app n="0019004"><lem wit="【大】">素彥馱</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">蘇彥引度怛謎</rdg></app>嚩底薩
+<lb n="0019a08" ed="T"/>頗<note place="inline">二合</note>羅𠰘𤚥哦哦喃摩呼那曳泥<note place="inline">去</note>尾薩嚩
+<lb n="0019a09" ed="T"/>嘌他<note place="inline">二合</note>莎馱儞莎嚩<note place="inline">二合</note>訶</p></cb:div>
+<lb n="0019a10" ed="T"/><cb:div type="other"><cb:mulu level="2" n="6" type="其他">6 燒香供養印明</cb:mulu><head>燒香供養印明第六</head>
+<lb n="0019a11" ed="T"/><p xml:id="pT21p0019a1101">誦明曰。</p>
+<lb n="0019a12" ed="T"/><p xml:id="pT21p0019a1201" cb:type="dharani">曩麼悉底哩<app type="star" corresp="#0019002"><lem wit="【大】"><note place="inline">三合</note>也</lem><rdg resp="Taisho" wit="【甲】">也三合</rdg><rdg resp="Taisho" wit="【乙】【丙】">也二合</rdg></app>陀嚩<note place="inline">二合</note>蘖哆喃薩嚩怛
+<lb n="0019a13" ed="T"/>他蘖哆喃唵阿蘖<note n="0019005" resp="Taisho" place="foot text" type="orig">哩＋（二合）ィ細註【原】＊，哩＝里始棄【丙】</note><app n="0019005"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">哩<note place="inline">二合</note></rdg><rdg resp="Taisho" wit="【丙】">里始棄</rdg></app>阿蘖<app type="star" corresp="#0019005"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">哩<note place="inline">二合</note></rdg></app><note n="0019006" resp="Taisho" place="foot text" type="orig">始棄始棄南＝始棄南始棄唵ィ【原】</note><app n="0019006"><lem wit="【大】">始棄<note n="0019007" resp="Taisho" place="foot text" type="orig">〔始棄〕－【丙】</note><app n="0019007"><lem wit="【大】">始棄</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>
+<lb n="0019a14" ed="T"/><note n="0019008" resp="Taisho" place="foot text" type="orig">〔南薩嚩怛〕－【甲】，南＝唵喃【乙】</note><note n="0019008" resp="CBETA" type="mod"><!--CBETA todo type: a-->〔南薩嚩怛〕－【甲】，南＝唵喃【乙】</note>南</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">始棄南始棄唵</rdg></app>薩嚩怛度麼始棄莎嚩<note place="inline">二合</note>訶</p></cb:div>
+<lb n="0019a15" ed="T"/><cb:div type="other"><cb:mulu level="2" n="7" type="其他">7 華供養印明</cb:mulu><head>華供養印明第七</head>
+<lb n="0019a16" ed="T"/><p xml:id="pT21p0019a1601">誦明曰。</p>
+<lb n="0019a17" ed="T"/><p xml:id="pT21p0019a1701" cb:type="dharani">曩麼悉底哩<app type="star" corresp="#0019002"><lem wit="【大】"><note place="inline">三合</note>也</lem><rdg resp="Taisho" wit="【甲】">也三合</rdg><rdg resp="Taisho" wit="【乙】【丙】">也二合</rdg></app>陀嚩蘖哆喃薩嚩怛他蘖
+<lb n="0019a18" ed="T"/>哆喃阿嚩路<note n="0019009" resp="Taisho" place="foot text" type="orig">〔枳〕－【乙】【丙】</note><app n="0019009"><lem wit="【大】">枳</lem><rdg resp="Taisho" wit="【乙】【丙】"><space quantity="0"/></rdg></app>哆<note place="inline">二合</note>摩訶布澁波<note place="inline">二合</note>嚩底
+<lb n="0019a19" ed="T"/>莎嚩<note place="inline">二合</note>訶</p></cb:div>
+<lb n="0019a20" ed="T"/><cb:div type="other"><cb:mulu level="2" n="8" type="其他">8 飲食供養印明</cb:mulu><head>飲食供養印明第八</head>
+<lb n="0019a21" ed="T"/><p xml:id="pT21p0019a2101">誦明曰。</p>
+<lb n="0019a22" ed="T"/><p xml:id="pT21p0019a2201" cb:type="dharani">曩麼悉底哩<app type="star" corresp="#0019002"><lem wit="【大】"><note place="inline">三合</note>也</lem><rdg resp="Taisho" wit="【甲】">也三合</rdg><rdg resp="Taisho" wit="【乙】【丙】">也二合</rdg></app>陀嚩蘖哆喃薩嚩怛他蘖
+<lb n="0019a23" ed="T"/>哆喃唵阿囉婆阿囉婆迦囉迦囉嚩哩嚩哩嚩
+<lb n="0019a24" ed="T"/>隣嚩隣那陀<note n="0019010" resp="Taisho" place="foot text" type="orig">毘＝思【甲】【乙】【丙】</note><app n="0019010"><lem wit="【大】">毘</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">思</rdg></app>摩訶嚩哩莎嚩<note place="inline">二合</note>訶</p></cb:div>
+<lb n="0019a25" ed="T"/><cb:div type="other"><cb:mulu level="2" n="9" type="其他">9 燈供養印明</cb:mulu><head>燈供養印明第九</head>
+<lb n="0019a26" ed="T"/><p xml:id="pT21p0019a2601">誦明曰。</p>
+<lb n="0019a27" ed="T"/><p xml:id="pT21p0019a2701" cb:type="dharani">曩麼悉底哩<app type="star" corresp="#0019002"><lem wit="【大】"><note place="inline">三合</note>也</lem><rdg resp="Taisho" wit="【甲】">也三合</rdg><rdg resp="Taisho" wit="【乙】【丙】">也二合</rdg></app>陀嚩蘖哆喃薩嚩怛他蘖
+<lb n="0019a28" ed="T"/><note n="0019011" resp="Taisho" place="foot text" type="orig">（嚩）＋哆【甲】</note><app n="0019011"><lem wit="【大】">哆</lem><rdg resp="Taisho" wit="【甲】">嚩哆</rdg></app>喃阿藍帝爾嚩<note place="inline">二合</note>藍帝儞波<note place="inline">必也反</note>儒底始
+<lb n="0019a29" ed="T"/>棄莎嚩訶</p></cb:div>
+<pb n="0019b" xml:id="T21.1201.0019b" ed="T"/>
+<lb n="0019b01" ed="T"/><cb:div type="other"><cb:mulu level="2" n="10" type="其他">10 普莊嚴供養明印</cb:mulu><head>普莊嚴供養明印第十</head>
+<lb n="0019b02" ed="T"/><p xml:id="pT21p0019b0201">誦明曰。</p>
+<lb n="0019b03" ed="T"/><p xml:id="pT21p0019b0301" cb:type="dharani">曩麼薩婆母馱菩地薩埵嚩喃薩婆他烏特<note place="inline">二
+<lb n="0019b04" ed="T"/>合</note>伽帝塞<note n="0019012" resp="Taisho" place="foot text" type="orig">破＋（二合）ィ細註【原】</note><app n="0019012"><lem wit="【大】">破</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">破<note place="inline">二合</note></rdg></app>羅呬𤚥伽伽那劍莎<note n="0019013" resp="Taisho" place="foot text" type="orig">縛＋（二合）細註【乙】【丙】</note><app n="0019013"><lem wit="【大】">縛</lem><rdg resp="Taisho" wit="【乙】【丙】">縛<note place="inline">二合</note></rdg></app>訶</p>
+<lb n="0019b05" ed="T"/><p xml:id="pT21p0019b0501">持此明力故。能生如意寶供養一切諸<note n="0019014" resp="Taisho" place="foot text" type="orig">〔佛〕ィ－【原】</note><app n="0019014"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>菩
+<lb n="0019b06" ed="T"/>薩眾會。由誦此讚歎福德力故。令此供養普
+<lb n="0019b07" ed="T"/>遍一切諸佛<note n="0019015" resp="Taisho" place="foot text" type="orig">〔菩薩〕－【丙】</note><app n="0019015"><lem wit="【大】">菩薩</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>眾會。讚歎明曰。</p>
+<lb n="0019b08" ed="T"/><p xml:id="pT21p0019b0801" cb:type="dharani">曩麼薩婆母馱菩地薩埵<note n="0019016" resp="Taisho" place="foot text" type="orig">〔嚩〕－【甲】</note><app n="0019016"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note place="inline">二合</note>喃<note place="inline">一</note>薩婆怛
+<lb n="0019b09" ed="T"/>路<note place="inline">二合</note>僧句素弭<note n="0019017" resp="Taisho" place="foot text" type="orig">哆二＝二哆【甲】【乙】【丙】</note><app n="0019017"><lem wit="【大】">哆<note place="inline">二</note></lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">二哆</rdg></app>鼻枳惹<note place="inline">二合</note>囉始吠<note place="inline">三</note>那
+<lb n="0019b10" ed="T"/>謨素都帝薩嚩<note place="inline">二合</note>訶<note place="inline">四</note></p>
+<lb n="0019b11" ed="T"/><p xml:id="pT21p0019b1101">復誦無動明王根本明三遍。能令聖者歡喜
+<lb n="0019b12" ed="T"/>與願。速得圓滿菩提故。次即懺悔先業。一切
+<lb n="0019b13" ed="T"/>罪障願皆消滅。復作<note n="0019018" resp="Taisho" place="foot text" type="orig">此＝是【甲】【乙】【丙】</note><app n="0019018"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">是</rdg></app>願。我今所有一切善
+<lb n="0019b14" ed="T"/>業。迴施法界眾生。令我此願速得成就無上
+<lb n="0019b15" ed="T"/>菩提。具一切種智。復誦此加持明八遍。明
+<lb n="0019b16" ed="T"/>曰。</p>
+<lb n="0019b17" ed="T"/><p xml:id="pT21p0019b1701" cb:type="dharani">曩麼<note n="0019019" resp="Taisho" place="foot text" type="orig">薩埵嚩喃＝薩縛沒馱冒地薩埵喃ィ【原】</note><app n="0019019"><lem wit="【大】">薩埵嚩喃</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">薩縛沒馱冒地薩埵喃</rdg></app>那暮素都帝摩訶嚩日羅<note place="inline">二合</note>
+<lb n="0019b18" ed="T"/>薩婆薩埵嚩<note n="0019020" resp="Taisho" place="foot text" type="orig">四路＝呬蹬【甲】【乙】【丙】</note><app n="0019020"><lem wit="【大】">四路</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">呬蹬</rdg></app>迦羅底瑟他薩婆<note n="0019021" resp="Taisho" place="foot text" type="orig">怛羅㘑吠達＝怛囉二合薩㘑吠二合山去ィ【原】</note><app n="0019021"><lem wit="【大】">怛羅㘑
+<lb n="0019b19" ed="T"/>吠達</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">怛囉二合薩㘑吠二合山去</rdg></app>羅摩<note n="0019022" resp="Taisho" place="foot text" type="orig">摩拏＝拏摩【甲】【乙】【丙】</note><app n="0019022"><lem wit="【大】">摩拏</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">拏摩</rdg></app>地瑟他<note n="0019023" resp="Taisho" place="foot text" type="orig">〔耶〕－【甲】</note><app n="0019023"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>莎嚩<note place="inline">二合</note>訶</p>
+<lb n="0019b20" ed="T"/><p xml:id="pT21p0019b2001">如上供養加持本尊已。結前灌頂印。而自灌
+<lb n="0019b21" ed="T"/>頂。</p></cb:div>
+<lb n="0019b22" ed="T"/><cb:div type="other"><cb:mulu level="2" n="11" type="其他">11 無動金剛虛空部母印</cb:mulu><head>無動金剛虛空部母印第十一</head>
+<lb n="0019b23" ed="T"/><p xml:id="pT21p0019b2301">結此虛空<note n="0019024" resp="Taisho" place="foot text" type="orig">明＝眼ィ【原】</note><app n="0019024"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">眼</rdg></app>印。<app type="star" corresp="#0016022"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【甲】">由</rdg></app>護身及護本尊故名部
+<lb n="0019b24" ed="T"/>母。亦名虛空眼。</p>
+<lb n="0019b25" ed="T"/><lg xml:id="lgT21p0019b2501"><l>進力俱入蓮華掌</l><l>即名虛空部母眼</l>
+<lb n="0019b26" ed="T"/><l>以印<note n="0019025" resp="Taisho" place="foot text" type="orig">〔護〕－【甲】</note><app n="0019025"><lem wit="【大】">護</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>身及護<note n="0019026" resp="Taisho" place="foot text" type="orig">〔本〕－ヵ【原】</note><app n="0019026"><lem resp="Taisho" wit="【大】">本</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>尊</l><l>二羽分開捻珠印</l>
+<lb n="0019b27" ed="T"/><l>亦名聖者虛空眼</l><l>明曰</l></lg>
+<lb n="0019b28" ed="T"/><p xml:id="pT21p0019b2801" cb:type="dharani">曩麼悉底哩<note n="0019027" resp="Taisho" place="foot text" type="orig">二合也＝也二合【乙】【丙】</note><app n="0019027"><lem wit="【大】"><note place="inline">二合</note>也</lem><rdg resp="Taisho" wit="【乙】【丙】">也二合</rdg></app>陀嚩<anchor xml:id="fxT21p0019b02"/><note place="inline">二合</note>拏蘖帝弊薩嚩
+<lb n="0019b29" ed="T"/>怛他蘖帝弊唵哦哦那路者儞哦哦那三摩薩
+<pb n="0019c" xml:id="T21.1201.0019c" ed="T"/>
+<lb n="0019c01" ed="T"/>嚩都<note n="0019028" resp="Taisho" place="foot text" type="orig">嚕＝嗢ィ【原】</note><app n="0019028"><lem wit="【大】">嚕</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">嗢</rdg></app>蘖哆<note n="0019029" resp="Taisho" place="foot text" type="orig">底＝毘ヵ【原】</note><app n="0019029"><lem resp="Taisho" wit="【大】">底</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">毘</rdg></app>沙囉三婆吠入嚩<note place="inline">二合</note>攞那
+<lb n="0019c02" ed="T"/><note n="0019030" resp="Taisho" place="foot text" type="orig">〔謨阿〕－【甲】【乙】【丙】</note><app n="0019030"><lem wit="【大】">謨阿</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>謨伽喃莎嚩<note place="inline">二合</note>訶</p></cb:div>
+<lb n="0019c03" ed="T"/><cb:div type="other"><cb:mulu level="2" n="12" type="其他">12 無動金剛法界生印明</cb:mulu><head>無動金剛法界生印明第十二</head>
+<lb n="0019c04" ed="T"/><lg xml:id="lgT21p0019c0401"><l>戒方進力內相叉</l><l>六度竪合頭相拄</l>
+<lb n="0019c05" ed="T"/><l>開腕加持左右臂</l><l>舉印漸至頂上開</l>
+<lb n="0019c06" ed="T"/><l>真言悉地隨此生</l><l>是故名為法生印</l>
+<lb n="0019c07" ed="T"/><l>結印加持誦明曰</l></lg>
+<lb n="0019c08" ed="T"/><p xml:id="pT21p0019c0801" cb:type="dharani">曩麼薩嚩母馱<g ref="#CB00155"/>地薩怛嚩喃阿薩羅嚩他薩
+<lb n="0019c09" ed="T"/>羅縛多囉路計莎嚩<note place="inline">二合</note>訶</p>
+<lb n="0019c10" ed="T"/><p xml:id="pT21p0019c1001">法生印者。從一切如來不動菩提心生。從大
+<lb n="0019c11" ed="T"/>悲本願生。從佛口生。從法化生。故名法生
+<lb n="0019c12" ed="T"/><note n="0019031" resp="Taisho" place="foot text" type="orig">印＋（也）【乙】</note><app n="0019031"><lem wit="【大】">印</lem><rdg resp="Taisho" wit="【乙】">印也</rdg></app>。</p>
+<lb n="0019c13" ed="T"/><p xml:id="pT21p0019c1301">次誦前虛空部母眼明七遍。即觀一切諸<note n="0019032" resp="Taisho" place="foot text" type="orig">〔佛〕－【甲】</note><app n="0019032"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0019c14" ed="T"/>菩薩如在目前。手執數珠如法念誦。如是廣
+<lb n="0019c15" ed="T"/>作佛事已。當結本尊根本三昧耶印。先誦金
+<lb n="0019c16" ed="T"/>剛百字真言。為令加持不傾動故。</p></cb:div>
+<lb n="0019c17" ed="T"/><cb:div type="other"><cb:mulu level="2" n="13" type="其他">13 捻數珠明印</cb:mulu><head>捻數珠明印第十三</head>
+<lb n="0019c18" ed="T"/><p xml:id="pT21p0019c1801">其印準前部母印。二羽分開。即<note n="0019033" resp="Taisho" place="foot text" type="orig">是＋（成）【乙】</note><app n="0019033"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【乙】">是成</rdg></app>此印<note n="0019034" resp="Taisho" place="foot text" type="orig">〔也〕－【甲】【乙】【丙】</note><app n="0019034"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>。
+<lb n="0019c19" ed="T"/>誦明曰。</p>
+<lb n="0019c20" ed="T"/><p xml:id="pT21p0019c2001" cb:type="dharani">曩麼嚩日羅<note place="inline">二合</note>目契弊薩嚩怛他<note place="inline">引</note>蘖帝毘喻
+<lb n="0019c21" ed="T"/><note place="inline">二合</note>婆伽梵特<note n="0019035" resp="Taisho" place="foot text" type="orig">〔縛〕－【甲】，縛＝嚩二合【乙】【丙】</note><app n="0019035"><lem wit="【大】">縛</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【乙】【丙】">嚩二合</rdg></app>弊<note place="inline">畢遮反</note>怛<note n="0019036" resp="Taisho" place="foot text" type="orig">地＝儞【丙】</note><app n="0019036"><lem wit="【大】">地</lem><rdg resp="Taisho" wit="【丙】">儞</rdg></app>也<note place="inline">二合</note><note n="0019037" resp="Taisho" place="foot text" type="orig">他＋（引）細註【乙】【丙】</note><app n="0019037"><lem wit="【大】">他</lem><rdg resp="Taisho" wit="【乙】【丙】">他<note place="inline">引</note></rdg></app>嘺
+<lb n="0019c22" ed="T"/>唎健馱哩戰荼唎摩蹬儗濱俄哩怛他<note place="inline">引</note>伽多
+<lb n="0019c23" ed="T"/>吠曳<note place="inline">二合</note>使怛摩底吽入縛<note place="inline">二合</note>哩多帝逝伊能
+<lb n="0019c24" ed="T"/>迦羅焰句嚕莎縛<note place="inline">二合</note>訶</p></cb:div>
+<lb n="0019c25" ed="T"/><cb:div type="other"><cb:mulu level="2" n="14" type="其他">14 無動金剛根本三昧耶印明</cb:mulu><head>無動金剛根本三昧耶印明第十四<note place="inline">亦名根本<note n="0019038" resp="Taisho" place="foot text" type="orig">身＝尊【甲】</note><app n="0019038"><lem wit="【大】">身</lem><rdg resp="Taisho" wit="【甲】">尊</rdg></app>印</note></head>
+<pb n="0020a" xml:id="T21.1201.0020a" ed="T"/>
+<lb n="0020a01" ed="T"/><lg xml:id="lgT21p0020a0101"><l>六度和合內相叉</l><l>直舒進力頭相拄</l>
+<lb n="0020a02" ed="T"/><l>智度屈捻方便背</l><l>禪捻戒背亦如是</l>
+<lb n="0020a03" ed="T"/><l>當誦金剛百字明</l><l>加持自身堅固住</l>
+<lb n="0020a04" ed="T"/><l>復誦本明成悉地</l></lg><p xml:id="pT21p0020a0408" rend="inline">真言曰。</p>
+<lb n="0020a05" ed="T"/><p xml:id="pT21p0020a0501" cb:type="dharani">唵阿三摩阿三摩三曼哆都那哆怛嚩泌<note n="0020001" resp="Taisho" place="foot text" type="orig">底＋（二合）ィ細註【原】</note><app n="0020001"><lem wit="【大】">底</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">底<note place="inline">二合</note></rdg></app>
+<lb n="0020a06" ed="T"/>舍那儞訶羅訶羅娑<note n="0020002" resp="Taisho" place="foot text" type="orig">摩＝頗ィ【原】</note><app n="0020002"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">頗</rdg></app><note place="inline">二合</note>囉拏娑<note n="0020003" resp="Taisho" place="foot text" type="orig">麼＝頗ィ【原】</note><app n="0020003"><lem wit="【大】">麼</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">頗</rdg></app><note place="inline">二合</note>囉
+<lb n="0020a07" ed="T"/>拏尾蘖哆母馱達摩帝薩羅薩羅三摩嚩邏荷
+<lb n="0020a08" ed="T"/>羅荷羅<note n="0020004" resp="Taisho" place="foot text" type="orig">〔苻娑苻娑〕－【甲】【乙】【丙】</note><app n="0020004"><lem wit="【大】">苻娑苻娑</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>怛羅耶怛羅耶伽那<note n="0020005" resp="Taisho" place="foot text" type="orig">〔伽那〕－【甲】</note><app n="0020005"><lem wit="【大】">伽那</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0020a09" ed="T"/>摩訶<note n="0020006" resp="Taisho" place="foot text" type="orig">嚩＋（嚩）【甲】</note><app n="0020006"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【甲】">嚩嚩</rdg></app>囉囉迦沙<note place="inline">二合</note>儞入縛<note place="inline">二合</note>攞那入嚩
+<lb n="0020a10" ed="T"/><note place="inline">二合</note><note n="0020007" resp="Taisho" place="foot text" type="orig">（攞）＋那【甲】【乙】【丙】</note><app n="0020007"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">攞那</rdg></app>娑伽㘑莎縛<note place="inline">二合</note>訶</p>
+<lb n="0020a11" ed="T"/><p xml:id="pT21p0020a1101">誦百字明加持。復觀一切諸佛菩薩在行者
+<lb n="0020a12" ed="T"/>前。攝受如前種種供養廣大成就。所謂現世
+<lb n="0020a13" ed="T"/>所求一切悉地。名最勝悉地。亦名金剛薩埵
+<lb n="0020a14" ed="T"/>悉地。復作是願。願以此功德。普及於一切。我
+<lb n="0020a15" ed="T"/>等與眾生。皆共成佛道。每日三時念誦。時別
+<lb n="0020a16" ed="T"/>最少一百八遍。已下不成。念誦了。以虛空眼
+<lb n="0020a17" ed="T"/>真言及印<note n="0020008" resp="Taisho" place="foot text" type="orig">如＝加【甲】【乙】【丙】</note><app n="0020008"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">加</rdg></app>持本尊令歡喜與願。亦令堅固
+<lb n="0020a18" ed="T"/>不散。<note n="0020009" resp="Taisho" place="foot text" type="orig">後＝復ィ【原】</note><app n="0020009"><lem wit="【大】">後</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">復</rdg></app>誦根本印明曰。其手印準前根本三
+<lb n="0020a19" ed="T"/>昧耶是。以二手中指已下。並向內相叉便為
+<lb n="0020a20" ed="T"/>鉤。二頭指側相拄。二大指各捻無名指甲。即
+<lb n="0020a21" ed="T"/>成。誦根本明三遍。</p></cb:div>
+<lb n="0020a22" ed="T"/><cb:juan n="002" fun="close"><cb:jhead>底哩三昧耶不動尊聖者念誦祕密法卷<note n="0020010" resp="Taisho" place="foot text" type="orig">此下甲本奧書曰元享元年三月寫，丙本奧書曰永久元年十月四日酉時許於鳴瀧房書了，僧林寬本</note>中</cb:jhead></cb:juan>
+<pb n="0020b" xml:id="T21.1201.0020b" ed="T"/>
+<lb n="0020b01" ed="T"/>
+<milestone n="3" unit="juan"/>
+<lb n="0020b02" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="003" type="卷"></cb:mulu><cb:jhead><note n="0020011" resp="Taisho" place="foot text" type="orig">乙丙兩本下卷缺之</note>底哩三昧耶不動尊聖者念誦祕
+<lb n="0020b03" ed="T"/>密法卷<note n="0020012" resp="Taisho" place="foot text" type="orig">此下甲本有高雄成身院經藏本八字</note><note n="0020012" resp="CBETA" type="mod">下＋（高雄成身院經藏本）八字【甲】</note><app n="0020012"><lem wit="【大】">下</lem><rdg resp="Taisho" wit="【甲】">下高雄成身院經藏本</rdg></app></cb:jhead></cb:juan>
+<lb n="0020b04" ed="T"/>
+<lb n="0020b05" ed="T"/><byline cb:type="Translator">大興善寺三藏沙門不空奉　詔譯</byline>
+<lb n="0020b06" ed="T"/><cb:div type="other"><cb:mulu level="2" n="15" type="其他">1 無動金剛寶山印</cb:mulu><head><note n="0020013" resp="Taisho" place="foot text" type="orig">次前甲本有不動金剛祕密要法品第六</note>無動金剛寶山印第一</head>
+<lb n="0020b07" ed="T"/><lg xml:id="lgT21p0020b0701"><l>金剛堅固內相叉</l><l>是名寶山身密印</l>
+<lb n="0020b08" ed="T"/><l>種種供養并護身</l><l>加持本明頂上散</l></lg></cb:div>
+<lb n="0020b09" ed="T"/><cb:div type="other"><cb:mulu level="2" n="16" type="其他">2 無動金剛頭印</cb:mulu><head>無動金剛頭印第二</head>
+<lb n="0020b10" ed="T"/><lg xml:id="lgT21p0020b1001"><l>禪度入掌把為拳</l><l>置安頂上名頭印</l>
+<lb n="0020b11" ed="T"/><l><note n="0020014" resp="Taisho" place="foot text" type="orig">思＝想【甲】</note><app n="0020014"><lem wit="【大】">思</lem><rdg resp="Taisho" wit="【甲】">想</rdg></app>此全身聖者前</l><l>靜坐安心作觀照</l></lg></cb:div>
+<lb n="0020b12" ed="T"/><cb:div type="other"><cb:mulu level="2" n="17" type="其他">3 無動金剛髻印</cb:mulu><head>無動金剛<note n="0020015" resp="Taisho" place="foot text" type="orig">髻＝髮【甲】＊</note><app n="0020015"><lem wit="【大】">髻</lem><rdg resp="Taisho" wit="【甲】">髮</rdg></app>印第三</head>
+<lb n="0020b13" ed="T"/><lg xml:id="lgT21p0020b1301"><l>戒方檀慧內相叉</l><l>忍願<note n="0020016" resp="Taisho" place="foot text" type="orig">堅＝竪【甲】</note><app n="0020016"><lem wit="【大】">堅</lem><rdg resp="Taisho" wit="【甲】">竪</rdg></app>合進力附</l>
+<lb n="0020b14" ed="T"/><l>禪智二度背相著</l><l>屈入戒方相叉內</l>
+<lb n="0020b15" ed="T"/><l>與二無名面相著</l><l>舉印置安左髻中</l>
+<lb n="0020b16" ed="T"/><l>是名無動金剛髻</l></lg></cb:div>
+<lb n="0020b17" ed="T"/><cb:div type="other"><cb:mulu level="2" n="18" type="其他">4 無動金剛眼印</cb:mulu><head>無動金剛眼印第四</head>
+<lb n="0020b18" ed="T"/><p xml:id="pT21p0020b1801">準前<note n="0020017" resp="Taisho" place="foot text" type="orig">（金剛）＋髻【甲】</note><app n="0020017"><lem wit="【大】">髻</lem><rdg resp="Taisho" wit="【甲】">金剛髻</rdg></app>印。翻手倒垂至額前。即名無動金剛
+<lb n="0020b19" ed="T"/>眼。</p></cb:div>
+<lb n="0020b20" ed="T"/><cb:div type="other"><cb:mulu level="2" n="19" type="其他">5 無動金剛口印</cb:mulu><head>無動金剛口印第五</head>
+<lb n="0020b21" ed="T"/><lg xml:id="lgT21p0020b2101"><l>檀慧二度內相叉</l><l>戒方雙押內叉上</l>
+<lb n="0020b22" ed="T"/><l>忍願竪合進力附</l><l>禪捻戒背智捻方</l>
+<lb n="0020b23" ed="T"/><l>是名聖者金剛口</l></lg></cb:div>
+<lb n="0020b24" ed="T"/><cb:div type="other"><cb:mulu level="2" n="20" type="其他">6 無動金剛心印</cb:mulu><head>無動金剛心印第六</head>
+<lb n="0020b25" ed="T"/><lg xml:id="lgT21p0020b2501"><l>戒方檀慧內相叉</l><l>忍願竪合屈進力</l>
+<lb n="0020b26" ed="T"/><l>禪智並捻忍願文</l><l>是名無動金剛心</l></lg></cb:div>
+<lb n="0020b27" ed="T"/><cb:div type="other"><cb:mulu level="2" n="21" type="其他">7 無動金剛師子奮迅印</cb:mulu><head>無動金剛師子奮迅印第七</head>
+<lb n="0020b28" ed="T"/><lg xml:id="lgT21p0020b2801"><l>準前無動金剛甲</l><l>唯改進力頭<note n="0020018" resp="Taisho" place="foot text" type="orig">相拄＝開立ィ【原】</note><app n="0020018"><lem wit="【大】">相拄</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">開立</rdg></app></l>
+<lb n="0020b29" ed="T"/><l>起立頻<note n="0020019" resp="Taisho" place="foot text" type="orig">伸虎＝申似ィ【原】</note><app n="0020019"><lem wit="【大】">伸虎</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">申似</rdg></app>舞勢</l><l>遶壇行道辟除魔</l>
+<pb n="0020c" xml:id="T21.1201.0020c" ed="T"/>
+<lb n="0020c01" ed="T"/><l>師子頻伸大奮迅</l><l>是名五股金剛印</l></lg></cb:div>
+<lb n="0020c02" ed="T"/><cb:div type="other"><cb:mulu level="2" n="22" type="其他">8 無動金剛火印</cb:mulu><head>無動金剛火印第八</head>
+<lb n="0020c03" ed="T"/><lg xml:id="lgT21p0020c0301"><l>禪捻三度背為拳</l><l>進度獨舒指定掌</l>
+<lb n="0020c04" ed="T"/><l>散開五度如猛焰</l><l>是名無動金剛火</l></lg></cb:div>
+<lb n="0020c05" ed="T"/><cb:div type="other"><cb:mulu level="2" n="23" type="其他">9 無動金剛法螺印</cb:mulu><head>無動金剛法螺印第九</head>
+<lb n="0020c06" ed="T"/><lg xml:id="lgT21p0020c0601"><l>二羽各如無動劍</l><l>掌內鉤鎖狀<note n="0020020" resp="Taisho" place="foot text" type="orig">猶＝連ィ【原】，惠【甲】</note><note n="0020020" resp="CBETA" type="mod">猶＝連ィ【原】，＝惠【甲】</note><app n="0020020"><lem wit="【大】">猶</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">連</rdg><rdg resp="Taisho" wit="【甲】">惠</rdg></app>環</l>
+<lb n="0020c07" ed="T"/><l>忍願竪合頭相拄</l><l>進興忍背重相著</l>
+<lb n="0020c08" ed="T"/><l>力度願背亦如是</l><l>是名無動法螺印</l></lg></cb:div>
+<lb n="0020c09" ed="T"/><cb:div type="other"><cb:mulu level="2" n="24" type="其他">10 無動金剛索印</cb:mulu><head>無動金剛索印第十</head>
+<lb n="0020c10" ed="T"/><lg xml:id="lgT21p0020c1001"><l>禪捻三度背為拳</l><l>進度直舒<note n="0020021" resp="Taisho" place="foot text" type="orig">觀＝止ィ【原】</note><app n="0020021"><lem wit="【大】">觀</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">止</rdg></app>羽握</l>
+<lb n="0020c11" ed="T"/><l>力度屈捻智如環</l><l>是名無動金剛索</l></lg>
+<lb n="0020c12" ed="T"/><p xml:id="pT21p0020c1201"><note n="0020022" resp="Taisho" place="foot text" type="orig">（印）＋明【甲】</note><app n="0020022"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】">印明</rdg></app>曰。</p>
+<lb n="0020c13" ed="T"/><p xml:id="pT21p0020c1301" cb:type="dharani">曩麼三曼哆嚩日囉<note place="inline">二合</note>𧹞阿<note place="inline">引</note>波舍伴闍那
+<lb n="0020c14" ed="T"/>吽泮吒<note place="inline">半音</note></p>
+<lb n="0020c15" ed="T"/><lg xml:id="lgT21p0020c1501"><l>無動金剛劍印明</l><l>能成就一切事業</l></lg>
+<lb n="0020c16" ed="T"/><p xml:id="pT21p0020c1601">明曰。</p>
+<lb n="0020c17" ed="T"/><p xml:id="pT21p0020c1701" cb:type="dharani">唵阿者羅迦拏<note n="0020023" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】</note><app n="0020023"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>勃馱制吒迦吽吽佉<note n="0020024" resp="Taisho" place="foot text" type="orig">醯＋（阿）【甲】</note><app n="0020024"><lem wit="【大】">醯</lem><rdg resp="Taisho" wit="【甲】">醯阿</rdg></app>佉
+<lb n="0020c18" ed="T"/>醯伊能<note n="0020025" resp="Taisho" place="foot text" type="orig">魚＝迦ィ【原】</note><app n="0020025"><lem wit="【大】">魚</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">迦</rdg></app>哩<note place="inline">二合</note>醯摩𤚥賀唎尾沙索鉢多<note place="inline">二
+<lb n="0020c19" ed="T"/>合</note>惡紇哩<note place="inline">二合</note>訶吽<note place="inline">引</note>泮吒阿哩耶<note place="inline">二合</note>者羅阿
+<lb n="0020c20" ed="T"/><note place="inline">引</note>蘖車緊至羅夜思伊<note place="inline">引</note>能迦哩羅耶<note n="0020026" resp="Taisho" place="foot text" type="orig">〔二合〕－【甲】</note><app n="0020026"><lem wit="【大】"><note place="inline">二合</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>句
+<lb n="0020c21" ed="T"/>嚕<note n="0020027" resp="Taisho" place="foot text" type="orig">耶＝那【甲】</note><app n="0020027"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】">那</rdg></app>麼莎縛<note place="inline">二合</note>訶</p>
+<lb n="0020c22" ed="T"/><p xml:id="pT21p0020c2201">持明行者每常食時。出一分殘食供養本尊
+<lb n="0020c23" ed="T"/>像。歡喜擁護所求皆得終不空過。復誦無動
+<lb n="0020c24" ed="T"/>金剛根本明。</p></cb:div>
+<lb n="0020c25" ed="T"/><cb:div type="other"><cb:mulu level="2" n="25" type="其他">11 無動金剛解界明印</cb:mulu><head>無動金剛解界明印第十一</head>
+<lb n="0020c26" ed="T"/><p xml:id="pT21p0020c2601">持明行者念誦了。即解前所結火界及牆界
+<lb n="0020c27" ed="T"/>已。灌頂印竪二小指頭相拄是也。當誦燈焰
+<lb n="0020c28" ed="T"/>如來解界明。以印左轉即成解界。前火院界
+<lb n="0020c29" ed="T"/>是也。燈焰如來解界真言曰。</p>
+<pb n="0021a" xml:id="T21.1201.0021a" ed="T"/>
+<lb n="0021a01" ed="T"/><p xml:id="pT21p0021a0101" cb:type="dharani">曩麼悉底哩也<note place="inline">二合</note>陀嚩拏哦哆喃唵紇哩<note place="inline">二合</note></p>
+<lb n="0021a02" ed="T"/><p xml:id="pT21p0021a0201">誦密語已。重以香花如法供養懺悔三業。即
+<lb n="0021a03" ed="T"/>結部母印。護身方可起去。轉誦大乘方廣理
+<lb n="0021a04" ed="T"/>趣。諸善事<note n="0021001" resp="Taisho" place="foot text" type="orig">隨＋（意）【甲】</note><app n="0021001"><lem wit="【大】">隨</lem><rdg resp="Taisho" wit="【甲】">隨意</rdg></app>修行。</p>
+<lb n="0021a05" ed="T"/><p xml:id="pT21p0021a0501">持明行<note n="0021002" resp="Taisho" place="foot text" type="orig">者＋（者）【甲】</note><app n="0021002"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【甲】">者者</rdg></app>每<note n="0021003" resp="Taisho" place="foot text" type="orig">欲＝飲【甲】</note><app n="0021003"><lem wit="【大】">欲</lem><rdg resp="Taisho" wit="【甲】">飲</rdg></app>食時。以事業金剛真言。加
+<lb n="0021a06" ed="T"/>持自身中種子。加鑁字復誦十力明八遍乃
+<lb n="0021a07" ed="T"/>食之明曰。</p>
+<lb n="0021a08" ed="T"/><p xml:id="pT21p0021a0801" cb:type="dharani">曩麼三曼哆鑁</p>
+<lb n="0021a09" ed="T"/><p xml:id="pT21p0021a0901">十力明曰。</p>
+<lb n="0021a10" ed="T"/><p xml:id="pT21p0021a1001" cb:type="dharani">曩謨薩嚩母馱<g ref="#CB00155"/>地薩怛嚩<note place="inline">二合</note>喃唵麼蘭捺
+<lb n="0021a11" ed="T"/>泥帝<note place="inline">引</note>孺𢖲㗚寧莎縛<note place="inline">二合</note>訶</p>
+<lb n="0021a12" ed="T"/><p xml:id="pT21p0021a1201">如是先成就本尊<note n="0021004" resp="Taisho" place="foot text" type="orig">（飯）＋訖【甲】</note><app n="0021004"><lem wit="【大】">訖</lem><rdg resp="Taisho" wit="【甲】">飯訖</rdg></app>所餘觸食以成辦諸事
+<lb n="0021a13" ed="T"/>心明。供養所應食者。當用不空威怒增加聖
+<lb n="0021a14" ed="T"/>者不動尊明。誦一遍。受者歡喜當隨行者而
+<lb n="0021a15" ed="T"/>護念之。每日如是供養不得斷絕。常得本尊
+<lb n="0021a16" ed="T"/>護念。諸魔不能為害。施食已。如常禮懺依
+<lb n="0021a17" ed="T"/>法念誦。於中夜分欲消息時。即結<note n="0021005" resp="Taisho" place="foot text" type="orig">先＝光【甲】</note><app n="0021005"><lem wit="【大】">先</lem><rdg resp="Taisho" wit="【甲】">光</rdg></app>莊嚴
+<lb n="0021a18" ed="T"/>印。</p></cb:div>
+<lb n="0021a19" ed="T"/><cb:div type="other"><cb:mulu level="2" n="26" type="其他">12 無動金剛光莊嚴印明</cb:mulu><head>無動金剛光莊嚴印明第十二</head>
+<lb n="0021a20" ed="T"/><lg xml:id="lgT21p0021a2001"><l>慧手翻掌彎心上</l><l>定掌還來心上合</l>
+<lb n="0021a21" ed="T"/><l>加持本明安頂上</l><l>便開二手順身摩</l>
+<lb n="0021a22" ed="T"/><l>能除障難得成就</l><l>以護身故名莊嚴</l></lg>
+<lb n="0021a23" ed="T"/><p xml:id="pT21p0021a2301">光莊嚴明曰。</p>
+<lb n="0021a24" ed="T"/><p xml:id="pT21p0021a2401" cb:type="dharani">曩麼悉底哩也<note place="inline">四合</note>陀嚩<note place="inline">二合</note>拏伽哆喃薩嚩怛
+<lb n="0021a25" ed="T"/>他蘖哆喃摩訶三昧耶<note n="0021006" resp="Taisho" place="foot text" type="orig">〔伽底〕－【甲】</note><app n="0021006"><lem wit="【大】">伽底</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>伽帝<note n="0021007" resp="Taisho" place="foot text" type="orig">〔三曼帝〕－【甲】</note><app n="0021007"><lem wit="【大】">三曼帝</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>三
+<lb n="0021a26" ed="T"/>摩蘖羅嚩<note place="inline">二合</note>摩他薩<note n="0021008" resp="Taisho" place="foot text" type="orig">〔羅〕－【甲】</note><app n="0021008"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>婆多羅<note place="inline">二合</note>路計達
+<lb n="0021a27" ed="T"/>麼馱埵底多僧伽帝莎嚩<note place="inline">二合</note>訶</p>
+<lb n="0021a28" ed="T"/><p xml:id="pT21p0021a2801">作前法已。應如過去燃燈佛禮拜法。金剛合
+<lb n="0021a29" ed="T"/>掌長舒二臂於頂上。面東<note n="0021009" resp="Taisho" place="foot text" type="orig">令＝合【甲】</note><app n="0021009"><lem wit="【大】">令</lem><rdg resp="Taisho" wit="【甲】">合</rdg></app>面著地。長展二
+<pb n="0021b" xml:id="T21.1201.0021b" ed="T"/>
+<lb n="0021b01" ed="T"/>足以心著地。如是禮拜時。觀念一切諸佛菩
+<lb n="0021b02" ed="T"/><note n="0021010" resp="Taisho" place="foot text" type="orig">薩＋（名禮本剎復作是念我今當捨全身為僕供養一切諸佛菩薩）【甲】</note><app n="0021010"><lem wit="【大】">薩</lem><rdg resp="Taisho" wit="【甲】">薩名禮本剎復作是念我今當捨全身為僕供養一切諸佛菩薩</rdg></app>。唯願攝受我等作最上成就。哀愍故。如
+<lb n="0021b03" ed="T"/>是三迴已後隨意消息。心念明相作速成就
+<lb n="0021b04" ed="T"/>相。</p></cb:div></cb:div>
+<lb n="0021b05" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="6" type="品">7 無動金剛事業求願品</cb:mulu><head>無動金剛事業求<note n="0021011" resp="Taisho" place="foot text" type="orig">願＋（品）【甲】</note><app n="0021011"><lem wit="【大】">願</lem><rdg resp="Taisho" wit="【甲】">願品</rdg></app>第七</head>
+<lb n="0021b06" ed="T"/><p xml:id="pT21p0021b0601">爾時釋迦牟尼佛。告執金剛菩薩言。我今為
+<lb n="0021b07" ed="T"/>汝說無量神通力無動金剛法。能利益成就
+<lb n="0021b08" ed="T"/>一切事業。若修行者菜食長齋或菓子等。誦
+<lb n="0021b09" ed="T"/>滿一萬遍已。於月八日或十五日。一日一夜
+<lb n="0021b10" ed="T"/>大作供養。於像前取苦練木和蘇燒。一呪一
+<lb n="0021b11" ed="T"/>燒滿一千八遍。作此法已。然後所作一切事
+<lb n="0021b12" ed="T"/>法。皆得成就。行者出語令縛即縛。及問事等。
+<lb n="0021b13" ed="T"/>能摧折樹木墮落飛鳥能令一切泉池枯渴。
+<lb n="0021b14" ed="T"/>亦能令人鬪諍獲勝。得此已亦能團風而為
+<lb n="0021b15" ed="T"/>一團。</p>
+<lb n="0021b16" ed="T"/><p xml:id="pT21p0021b1601">又法於月蝕夜。取<note n="0021012" resp="Taisho" place="foot text" type="orig">未＝木【甲】</note><app n="0021012"><lem wit="【大】">未</lem><rdg resp="Taisho" wit="【甲】">木</rdg></app>著地牛糞塗曼荼羅。
+<lb n="0021b17" ed="T"/><note n="0021013" resp="Taisho" place="foot text" type="orig">種＝三ィ【原】</note><app n="0021013"><lem wit="【大】">種</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">三</rdg></app>種香花散於壇上。置大般若經。前取純色
+<lb n="0021b18" ed="T"/>犢子牸牛蘇一兩。置熟銅椀中。取佉陀羅木
+<lb n="0021b19" ed="T"/>為齒木。并攪蘇明不限遍數。令種種成就。</p>
+<lb n="0021b20" ed="T"/><p xml:id="pT21p0021b2001">又山峯頂上不喫食。誦滿十萬遍。即得見一
+<lb n="0021b21" ed="T"/>切伏藏。</p>
+<lb n="0021b22" ed="T"/><p xml:id="pT21p0021b2201">又<note n="0021014" resp="Taisho" place="foot text" type="orig">用＝由【甲】＊</note><app n="0021014"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【甲】">由</rdg></app>乳作火法誦一千八遍。沃火燒能除疫
+<lb n="0021b23" ed="T"/>病。若共一切人論議。即得彼人口噤不論。</p>
+<lb n="0021b24" ed="T"/><p xml:id="pT21p0021b2401">又法取句瀘草和蘇乳蜜。加持沃火中燒誦
+<lb n="0021b25" ed="T"/>十萬遍。能除大疫病。</p>
+<lb n="0021b26" ed="T"/><p xml:id="pT21p0021b2601">又取蓮花和蘇酪蜜。誦明沃火中燒誦<note n="0021015" resp="Taisho" place="foot text" type="orig">〔明〕－【甲】</note><app n="0021015"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>十
+<lb n="0021b27" ed="T"/>萬遍。蓮華吉祥天與行者願。</p>
+<lb n="0021b28" ed="T"/><p xml:id="pT21p0021b2801">又法於臨<note n="0021016" resp="Taisho" place="foot text" type="orig">近＝江【甲】</note><app n="0021016"><lem wit="【大】">近</lem><rdg resp="Taisho" wit="【甲】">江</rdg></app>海河口。入水至胸誦明三十萬
+<lb n="0021b29" ed="T"/>遍得尾沙耶。</p>
+<pb n="0021c" xml:id="T21.1201.0021c" ed="T"/>
+<lb n="0021c01" ed="T"/><p xml:id="pT21p0021c0101">又誦明以華擲火中燒。隨華色得衣。燒穀米
+<lb n="0021c02" ed="T"/>得穀米。</p>
+<lb n="0021c03" ed="T"/><p xml:id="pT21p0021c0301">又取尾邏縛木誦明燒十萬遍。即得囉闍。</p>
+<lb n="0021c04" ed="T"/><p xml:id="pT21p0021c0401">又取必哩養隅木誦明燒。能令一切人愛念。
+<lb n="0021c05" ed="T"/>明柏木燒。即得無量僕從。明大麥燒。得為大
+<lb n="0021c06" ed="T"/>長者。</p>
+<lb n="0021c07" ed="T"/><p xml:id="pT21p0021c0701">次說畫像法。畫無動尊。身著赤土色帬衣。左
+<lb n="0021c08" ed="T"/>垂辮<app type="star" corresp="#0020015"><lem wit="【大】">髻</lem><rdg resp="Taisho" wit="【甲】">髮</rdg></app>。眼斜視。手執劍索坐寶蓮華。嚬眉
+<lb n="0021c09" ed="T"/>嗔面作怖三<note n="0021017" resp="Taisho" place="foot text" type="orig">世＝界【原】</note><app n="0021017"><lem wit="【大】">世</lem><rdg resp="Taisho" wit="【原】">界</rdg></app>狀。如是畫已。於流水河海岸
+<lb n="0021c10" ed="T"/>上如法安像。行者自身亦著赤色衣。心無染
+<lb n="0021c11" ed="T"/>著寂靜乞食為活。於像前誦五十萬遍畢已。
+<lb n="0021c12" ed="T"/>即於夜中以薝蔔木火燒。一明一燒擲火中
+<lb n="0021c13" ed="T"/>滿一萬遍。即見無動聖者。現前自身得為如
+<lb n="0021c14" ed="T"/>來使者。得三摩地共菩薩同位。</p>
+<lb n="0021c15" ed="T"/><p xml:id="pT21p0021c1501">又法取尸陀林中帛畫無動金剛像。以自身
+<lb n="0021c16" ed="T"/>血淡作色。安置像面向<note n="0021018" resp="Taisho" place="foot text" type="orig">〔西〕－【甲】</note><app n="0021018"><lem wit="【大】">西</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>著。行者面向東坐
+<lb n="0021c17" ed="T"/>念誦每<note n="0021019" resp="Taisho" place="foot text" type="orig">時＝日【甲】</note><app n="0021019"><lem wit="【大】">時</lem><rdg resp="Taisho" wit="【甲】">日</rdg></app>三時澡浴著濕衣。對像面前誦明
+<lb n="0021c18" ed="T"/>十萬遍。即施一切鬼神食。又於黑月八日夜。
+<lb n="0021c19" ed="T"/>取摩奴沙。坐其上。誦明一萬遍已。彼摩奴沙
+<lb n="0021c20" ed="T"/>動身。行者必不得怕。彼口現出大開敷蓮華
+<lb n="0021c21" ed="T"/>即把取。能令行者身如十五六童子。<app type="star" corresp="#0020015"><lem wit="【大】">髻</lem><rdg resp="Taisho" wit="【甲】">髮</rdg></app>如連
+<lb n="0021c22" ed="T"/>環遊歷<note n="0021020" resp="Taisho" place="foot text" type="orig">（梵）＋天【甲】</note><app n="0021020"><lem wit="【大】">天</lem><rdg resp="Taisho" wit="【甲】">梵天</rdg></app>地得大明王。</p>
+<lb n="0021c23" ed="T"/><p xml:id="pT21p0021c2301">又於像前每日<note n="0021021" resp="Taisho" place="foot text" type="orig">二＝三【甲】</note><app n="0021021"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】">三</rdg></app>時。念誦隨力供養燒沈水
+<lb n="0021c24" ed="T"/>香。如是滿足六月。自見得尾沙耶主。</p>
+<lb n="0021c25" ed="T"/><p xml:id="pT21p0021c2501">又法取旗幡誦明一千遍。執於軍陣前能破
+<lb n="0021c26" ed="T"/>他<note n="0021022" resp="Taisho" place="foot text" type="orig">陣＝障【甲】</note><app n="0021022"><lem wit="【大】">陣</lem><rdg resp="Taisho" wit="【甲】">障</rdg></app>。</p>
+<lb n="0021c27" ed="T"/><p xml:id="pT21p0021c2701">又法欲禁他軍令不得動者。於旗幡上畫無
+<lb n="0021c28" ed="T"/>動尊。身作黃肉色四面上下出牙。四臂作怖
+<lb n="0021c29" ed="T"/>畏瞋怒狀。遍身火焰。作吞他兵勢。持法人以
+<pb n="0022a" xml:id="T21.1201.0022a" ed="T"/>
+<lb n="0022a01" ed="T"/>旗示彼人。又想聖者以羂索縛<note n="0022001" resp="Taisho" place="foot text" type="orig">彼＋（彼）ィ【原】</note><app n="0022001"><lem wit="【大】">彼</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">彼彼</rdg></app>兵眾。彼即
+<lb n="0022a02" ed="T"/>無能動也。</p>
+<lb n="0022a03" ed="T"/><p xml:id="pT21p0022a0301">四面無動金剛明曰。</p>
+<lb n="0022a04" ed="T"/><p xml:id="pT21p0022a0401" cb:type="dharani">曩麼三曼哆嚩日羅<note place="inline">二合</note>𧹞始麼<note place="inline">二合</note>舍囊悉體
+<lb n="0022a05" ed="T"/><note place="inline">二合</note>迦播羅楞訖哩<note place="inline">二合</note>哆戶怛嚩賀姥儞𡁠嚩
+<lb n="0022a06" ed="T"/><note place="inline">引</note>路囉馱縛<note place="inline">二合</note>能瑟吒邏<note place="inline">二合</note>迦囉邏娜捨曩
+<lb n="0022a07" ed="T"/>步惹誐跛哩吠瑟徵擔捨唎邏<note n="0022002" resp="Taisho" place="foot text" type="orig">底榮＝勞【甲】</note><app n="0022002"><lem wit="【大】">底榮</lem><rdg resp="Taisho" wit="【甲】">勞</rdg></app>捺<note n="0022003" resp="Taisho" place="foot text" type="orig">囉＋（二合）細註【甲】</note><app n="0022003"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【甲】">囉<note place="inline">二合</note></rdg></app>
+<lb n="0022a08" ed="T"/><note n="0022004" resp="Taisho" place="foot text" type="orig">〔曩〕－【甲】</note><app n="0022004"><lem wit="【大】">曩</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>野曩迦賀護<note n="0022005" resp="Taisho" place="foot text" type="orig">〔姥〕－【甲】</note><app n="0022005"><lem wit="【大】">姥</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>訖哆<note place="inline">二合</note>吒賀三者咄姥
+<lb n="0022a09" ed="T"/>佉尾訖哩<note place="inline">二合</note>怛嚕<note place="inline">引</note>跛莽賀避沙拏也怛儞也
+<lb n="0022a10" ed="T"/><note place="inline">二合</note>他唵尾訖哩哆尾迦吒尾<note n="0022006" resp="Taisho" place="foot text" type="orig">迦＋（羅）【甲】</note><app n="0022006"><lem wit="【大】">迦</lem><rdg resp="Taisho" wit="【甲】">迦羅</rdg></app>邏摩賀<note n="0022007" resp="Taisho" place="foot text" type="orig">囉＝跛【甲】</note><app n="0022007"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【甲】">跛</rdg></app>
+<lb n="0022a11" ed="T"/>𠼐<note place="inline">二合</note>哆尾瑟他姥怛羅契駐<note place="inline">尼去反</note>齒瑟吒賀囉
+<lb n="0022a12" ed="T"/>案怛囉莽羅馱羅者咄姥母佉入嚩<note place="inline">二合</note>邏<note n="0022008" resp="Taisho" place="foot text" type="orig">那＋（迦）ィ【原】，（佉）【甲】</note><app n="0022008"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">那迦</rdg><rdg resp="Taisho" wit="【甲】">那佉</rdg></app>
+<lb n="0022a13" ed="T"/>比路馱嚩<note place="inline">二合</note>計奢吽嚩日囉<note place="inline">二合</note>嚩日㘑<note place="inline">二合</note>
+<lb n="0022a14" ed="T"/>蘖羅<note place="inline">二合</note>吽泮吒莎嚩<note place="inline">二合</note>訶</p>
+<lb n="0022a15" ed="T"/><p xml:id="pT21p0022a1501">若欲令他相鬪者。取鳥鴿鵄梟羽<note n="0022009" resp="Taisho" place="foot text" type="orig">明＋（明）【甲】</note><app n="0022009"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】">明明</rdg></app>燒。即得
+<lb n="0022a16" ed="T"/>鬪諍。</p>
+<lb n="0022a17" ed="T"/><p xml:id="pT21p0022a1701">若欲令燒設都嚕卒者。取稻糠燒當燒之時。
+<lb n="0022a18" ed="T"/>想聖者以索縛彼捨都嚕。將向南方困苦吐
+<lb n="0022a19" ed="T"/>血。彼等族類皆不得存也。</p>
+<lb n="0022a20" ed="T"/><p xml:id="pT21p0022a2001">又法欲令設都嚕卒取<note n="0022010" resp="Taisho" place="foot text" type="orig">土＝生【甲】</note><app n="0022010"><lem wit="【大】">土</lem><rdg resp="Taisho" wit="【甲】">生</rdg></app>鹽蠟。苦練葉相和
+<lb n="0022a21" ed="T"/>擣為泥。捻作彼形狀。置地上斫斷。即卒。</p>
+<lb n="0022a22" ed="T"/><p xml:id="pT21p0022a2201">若明稻穀燒。令彼捨都嚕<note n="0022011" resp="Taisho" place="foot text" type="orig">即＋（卒）【甲】</note><app n="0022011"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【甲】">即卒</rdg></app>貧窮。</p>
+<lb n="0022a23" ed="T"/><p xml:id="pT21p0022a2301">若欲令大人愛樂者。<note n="0022012" resp="Taisho" place="foot text" type="orig">〔以鹽…又〕十九字－【甲】</note><app cb:word-count="19" n="0022012"><lem wit="【大】">以鹽作彼形狀段段斫
+<lb n="0022a24" ed="T"/>之。誦滿七日。彼即愛樂。又</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>取俱蘇摩花<note n="0022013" resp="Taisho" place="foot text" type="orig">明＋（燈）【甲】</note><app n="0022013"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】">明燈</rdg></app>
+<lb n="0022a25" ed="T"/>燒十萬遍。得夜叉女來。於三事中所求皆得。</p>
+<lb n="0022a26" ed="T"/><p xml:id="pT21p0022a2601">又明曼荼羅花。稱彼人名即令<note n="0022014" resp="Taisho" place="foot text" type="orig">橫＝狂ヵ【原】</note><app n="0022014"><lem resp="Taisho" wit="【大】">橫</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">狂</rdg></app>亂。</p>
+<lb n="0022a27" ed="T"/><p xml:id="pT21p0022a2701">明鹽燒。即得天女來所使隨意。</p>
+<lb n="0022a28" ed="T"/><p xml:id="pT21p0022a2801">明安息香燒者。得<note n="0022015" resp="Taisho" place="foot text" type="orig">闍羅＝羅闍【甲】</note><app n="0022015"><lem wit="【大】">闍羅</lem><rdg resp="Taisho" wit="【甲】">羅闍</rdg></app>歡喜。</p>
+<lb n="0022a29" ed="T"/><p xml:id="pT21p0022a2901">又畫像法。先畫釋迦牟尼佛<note n="0022016" resp="Taisho" place="foot text" type="orig">像＋（傍）ィ【原】，像＝傍【甲】</note><app n="0022016"><lem wit="【大】">像</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">像傍</rdg><rdg resp="Taisho" wit="【甲】">傍</rdg></app>。畫文殊師利
+<pb n="0022b" xml:id="T21.1201.0022b" ed="T"/>
+<lb n="0022b01" ed="T"/>童子像。畫執金剛菩薩作微㗛面。手執金剛
+<lb n="0022b02" ed="T"/>杵。於執金剛下。畫無動聖者種種莊嚴。即
+<lb n="0022b03" ed="T"/>於彼前誦明<note n="0022017" resp="Taisho" place="foot text" type="orig">五十＝十五ィ【原】</note><app n="0022017"><lem wit="【大】">五十</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">十五</rdg></app>萬遍。然後作一切事皆得
+<lb n="0022b04" ed="T"/>稱意。</p>
+<lb n="0022b05" ed="T"/><p xml:id="pT21p0022b0501">若欲令降他兵。即結無動聖者眼印。作瞋怒
+<lb n="0022b06" ed="T"/>聲稱吽字。以心想令魍魎捉彼。乃降。<note n="0022018" resp="Taisho" place="foot text" type="orig">（又法）ィ＋取【原】</note><app n="0022018"><lem wit="【大】">取</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">又法取</rdg></app>尸
+<lb n="0022b07" ed="T"/>陀林灰加持七遍。與彼人即得愛樂。</p>
+<lb n="0022b08" ed="T"/><p xml:id="pT21p0022b0801">又法取牛黃加持七遍。點自身額上。能令眾
+<lb n="0022b09" ed="T"/>人見者愛樂。毘那夜迦不能損害。熾焰成就
+<lb n="0022b10" ed="T"/>故。</p>
+<lb n="0022b11" ed="T"/><p xml:id="pT21p0022b1101">又法於己身上布明梵字。彼羅剎眾退散百
+<lb n="0022b12" ed="T"/>由旬外又被毒蛇。經半年不差明之即差。</p>
+<lb n="0022b13" ed="T"/><p xml:id="pT21p0022b1301">又於壁上畫劍契。又畫句律迦大蛇纏劍上。
+<lb n="0022b14" ed="T"/>其劍周圍有火焰。即加持千遍。以示病者。病
+<lb n="0022b15" ed="T"/>者即下語。加持一百八遍。病者常蒙聖者擁
+<lb n="0022b16" ed="T"/>護。每日加持殘食。置淨處供養聖者。常得如
+<lb n="0022b17" ed="T"/>願。</p>
+<lb n="0022b18" ed="T"/><p xml:id="pT21p0022b1801">行者瞋怒結心印稱吽字。一切惡雲退散。</p>
+<lb n="0022b19" ed="T"/><p xml:id="pT21p0022b1901">又取棘針。和羅視迦油明燒能止大雨。能令
+<lb n="0022b20" ed="T"/>行者成結大界。亦成就千種事業。</p>
+<lb n="0022b21" ed="T"/><p xml:id="pT21p0022b2101">又說無動尊金剛畫像法。身著<note n="0022019" resp="Taisho" place="foot text" type="orig">赤＝亦【甲】</note><app n="0022019"><lem wit="【大】">赤</lem><rdg resp="Taisho" wit="【甲】">亦</rdg></app>土色衣。左
+<lb n="0022b22" ed="T"/>垂辮<app type="star" corresp="#0020015"><lem wit="【大】">髻</lem><rdg resp="Taisho" wit="【甲】">髮</rdg></app>斜視童子狀。手執金剛杵及寶棒。眼
+<lb n="0022b23" ed="T"/>微赤坐石上。瞋怒遍身火焰。於像前結愛樂
+<lb n="0022b24" ed="T"/>一切印契。皆得成就。依前法作所樂騰空隱
+<lb n="0022b25" ed="T"/>形及所愛法。隨意成就縱無畫像。獨處閑靜
+<lb n="0022b26" ed="T"/>或在寺中或山窟中離雜閙處。所求者一切
+<lb n="0022b27" ed="T"/>皆得成就。</p>
+<lb n="0022b28" ed="T"/><p xml:id="pT21p0022b2801">加持患瘧病者。即自縛下語。</p>
+<lb n="0022b29" ed="T"/><p xml:id="pT21p0022b2901">加持鏡亦得像。現問事皆說。</p>
+<pb n="0022c" xml:id="T21.1201.0022c" ed="T"/>
+<lb n="0022c01" ed="T"/><p xml:id="pT21p0022c0101">取童子或童女置道場中。召神入令下壇中。
+<lb n="0022c02" ed="T"/>問一切事皆得。</p>
+<lb n="0022c03" ed="T"/><p xml:id="pT21p0022c0301">次欲成就繫迦羅法。於月一日日中<note n="0022020" resp="Taisho" place="foot text" type="orig">時＋（像前）【甲】</note><app n="0022020"><lem wit="【大】">時</lem><rdg resp="Taisho" wit="【甲】">時像前</rdg></app>著種
+<lb n="0022c04" ed="T"/>種香華。供養不歇誦明一百八遍。念壇中一
+<lb n="0022c05" ed="T"/>切諸佛菩薩。每日念誦滿一月日。如法供養
+<lb n="0022c06" ed="T"/>已。<app type="star" corresp="#0021014"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【甲】">由</rdg></app>苦練木柴燒火。遏迦木上塗蘇。白芥
+<lb n="0022c07" ed="T"/>子加持燒火從黃昏。燒火至夜半。乃至日出。
+<lb n="0022c08" ed="T"/>繫迦攞即來語行者言。使我作何事。行者攝
+<lb n="0022c09" ed="T"/>受已後。常隨行者所使必得隨順。乃至使往
+<lb n="0022c10" ed="T"/>天上取天女。即將來所須飲食齒木水等。皆
+<lb n="0022c11" ed="T"/>得給侍。</p></cb:div>
+<lb n="0022c12" ed="T"/><cb:juan n="003" fun="close"><cb:jhead>底哩三昧耶無動尊聖者念誦祕密法卷下</cb:jhead></cb:juan>
+<lb n="0022c13" ed="T"/>
+<lb n="0022c14" ed="T"/><cb:div type="W"><p xml:id="pT21p0022c1401">復次如前建立曼荼羅。應取一千蓮華。一
+<lb n="0022c15" ed="T"/>華一誦安中台以為奉獻。然後引弟子。入
+<lb n="0022c16" ed="T"/>告三昧耶言<note place="inline">為諸欲清淨誓</note>羯磨曼荼羅品。</p>
+<lb n="0022c17" ed="T"/><p xml:id="pT21p0022c1701">復次成就像法。於清淨絹㲲上畫觀自在
+<lb n="0022c18" ed="T"/>菩薩。堅蘇彌盧頂八佛圍遶白月一日於
+<lb n="0022c19" ed="T"/>此像前。</p>
+<lb n="0022c20" ed="T"/><p xml:id="pT21p0022c2001">延享三丙寅年秋七月。再校了同臘月
+<lb n="0022c21" ed="T"/>上旬彫刻成</p>
+<lb n="0022c22" ed="T"/><p xml:id="pT21p0022c2201">　　　　　　豐山長谷輪下無等誌</p></cb:div>
+</body></text></TEI>

@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T20n1184">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1184 大聖妙吉祥菩薩祕密八字陀羅尼修行曼荼羅次第儀軌法</title>
+			<author>唐 菩提仙譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.15 $<date>$Date: 2009/04/23 08:01:23 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:23 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1184 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="sa-Sidd">Sanskrit-Siddam</language>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-24T11:15:19">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T20n1184.xml,v $
+Revision 1.15  2009/04/23 08:01:23  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.14  2006/09/07 05:33:58  saywhat
+p0786c19  SD-AF79 => SD-E4BB
+
+Revision 1.13  2006/04/12 21:55:49  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.11  2006/03/25 13:30:48  saywhat
+SD-A65A=>SD-E3AD
+
+Revision 1.10  2006/03/01 09:15:32  saywhat
+[0786041] <sic><l>...</l></sic> => <l><sic>...</sic></l>
+
+Revision 1.9  2004/11/14 03:17:25  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.8  2004/10/21 08:20:04  saywhat
+段落前加入圈點
+
+Revision 1.7  2004/04/20 08:39:05  maha
+「版本日期」標記修訂
+
+Revision 1.6  2004/04/20 03:25:31  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.5  2004/01/02 05:53:56  maha
+<note mod>裡的corr2app
+
+Revision 1.4  2003/06/26 02:51:49  saywhat
+<corr>→<app>
+
+Revision 1.3  2003/06/23 06:16:05  saywhat
+[＊]校勘插入XML
+
+Revision 1.2  2003/06/02 06:26:31  saywhat
+CVS與2003/04版比對修訂
+
+Revision 1.37  2003/04/14 03:18:26  saywhat
+修訂校勘數字或＊位置
+
+Revision 1.36  2002/12/05 05:20:28  saywhat
+校勘插入處理
+
+Revision 1.35  2002/11/04 10:45:40  ray
+tei.2 => TEI.2
+
+Revision 1.34  2002/10/07 13:11:58  moved
+modified
+
+Revision 1.33  2002/09/02 09:22:07  vinking
+no message
+
+Revision 1.32  2002/08/30 10:00:55  saywhat
+modified footnote
+
+Revision 1.31  2002/08/28 08:52:23  saywhat
+T20 經文修訂 20020721-maha.txt
+
+Revision 1.30  2002/07/29 09:56:49  vinking
+modified lang
+
+Revision 1.29  2002/04/08 09:05:53  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.28  2001/11/05 06:14:01  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.27  2001/08/03 03:14:53  saywhat
+<tt type="inline"> → <tt rend="inline">
+
+Revision 1.26  2001/07/24 06:53:28  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.25  2001/06/22 10:02:57  moved
+modified normal
+
+Revision 1.24  2001/06/13 10:12:23  moved
+modified normal
+
+Revision 1.23  2001/06/12 08:26:03  moved
+modified normal
+
+Revision 1.22  2001/06/11 10:46:44  moved
+modified normal
+
+Revision 1.21  2001/05/30 05:39:29  saywhat
+modified <tt> to <tt rend="inline">
+
+Revision 1.20  2001/05/29 09:13:42  saywhat
+modified <note type='inline"> under </t>
+
+Revision 1.19  2001/05/29 02:35:51  ray
+no message
+
+Revision 1.18  2001/05/28 09:37:49  saywhat
+modified <sg.........><note........> to <sg..........>
+
+Revision 1.17  2001/05/28 07:51:56  vinking
+modified <sg><note place="inline"> to <sg>
+
+Revision 1.16  2001/03/30 05:55:47  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.15  2001/03/25 09:15:33  ray
+add <milestone>
+
+Revision 1.14  2001/02/07 06:56:45  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.13  2001/02/03 07:46:39  chris
+Added keywords $Revision: 1.15 $, $Date: 2009/04/23 08:01:23 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="0784b" xml:id="T20.1184.0784b" ed="T"/>
+<lb n="0784b01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0784b02" ed="T"/>
+<lb n="0784b03" ed="T"/><cb:docNumber>No. 1184</cb:docNumber>
+<lb n="0784b04" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0784001" resp="Taisho" place="foot text" type="orig">【原】享保十七年刊豐山大學藏本，【甲】永久三年寫東寺三密藏本，【乙】永保三年寫東寺三密藏本，【丙】平安時代寫仁和寺藏本</note>大聖妙吉祥菩薩祕密八字陀
+<lb n="0784b05" ed="T"/>羅尼修行曼荼羅次第儀軌法
+<lb n="0784b06" ed="T"/>一卷<note place="inline">出文殊菩薩普集會經除災救難息障品</note></cb:jhead></cb:juan>
+<lb n="0784b07" ed="T"/>
+<lb n="0784b08" ed="T"/><byline cb:type="Translator">中天竺國大那爛陀寺<note n="0784002" resp="Taisho" place="foot text" type="orig">戒行＝三藏【乙】</note><app n="0784002"><lem wit="【大】">戒行</lem><rdg resp="Taisho" wit="【乙】">三藏</rdg></app>沙門
+<lb n="0784b09" ed="T"/>菩提<note n="0784003" resp="Taisho" place="foot text" type="orig">㗚＋（引）夾註【丙】</note><app n="0784003"><lem wit="【大】">㗚</lem><rdg resp="Taisho" wit="【丙】">㗚<note place="inline">引</note></rdg></app>使<note place="inline">二合</note>淨智金剛<note n="0784004" resp="Taisho" place="foot text" type="orig">（奉詔）＋譯【乙】</note><app n="0784004"><lem wit="【大】">譯</lem><rdg resp="Taisho" wit="【乙】">奉詔譯</rdg></app>親承
+<lb n="0784b10" ed="T"/>筆授僧義雲傳流<note n="0784005" resp="Taisho" place="foot text" type="orig">三藏乃至仙十字甲本作本文</note><note n="0784005" resp="CBETA" type="mod">（三藏名此漢地名菩提仙）十字夾註＝（三藏名此漢地名菩提仙）十字本文【甲】</note><app n="0784005"><lem wit="【大】"><note place="inline">三藏名<note n="0784006" resp="Taisho" place="foot text" type="orig">此＋（地）【甲】【乙】【丙】</note><app n="0784006"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">此地</rdg></app>漢<note n="0784007" resp="Taisho" place="foot text" type="orig">地名＝云【甲】【乙】【丙】</note><app n="0784007"><lem wit="【大】">地名</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">云</rdg></app>菩提仙</note></lem><rdg resp="Taisho" wit="【甲】">三藏名此漢地名菩提仙</rdg></app></byline>
+<lb n="0784b11" ed="T"/><cb:div type="jing"><p xml:id="pT20p0784b1101">爾時世尊。告金剛<note n="0784008" resp="Taisho" place="foot text" type="orig">密＝蜜【丙】＊</note><app n="0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>迹主言。是八字最勝大
+<lb n="0784b12" ed="T"/>威德心真言所住之處。如佛在世無有異也。
+<lb n="0784b13" ed="T"/>能現諸佛種種神力不可思議。亦能作大無
+<lb n="0784b14" ed="T"/>量神通變化。我今略讚此陀羅尼少分功德。
+<lb n="0784b15" ed="T"/>我若具說。無量俱胝那<note n="0784009" resp="Taisho" place="foot text" type="orig">庾＝臾【丙】</note><app n="0784009"><lem wit="【大】">庾</lem><rdg resp="Taisho" wit="【丙】">臾</rdg></app>多百千大劫說不
+<lb n="0784b16" ed="T"/>能盡。爾時世尊。即說八字大威德心真言曰。</p>
+<lb n="0784b17" ed="T"/><p xml:id="pT20p0784b1701" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><note n="0784010" resp="Taisho" place="foot text" type="orig">甲本乙本丙本俱梵字無之</note><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17A"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>阿</cb:zi><cb:sg>引入惡聲</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A659"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0784011" resp="Taisho" place="foot text" type="orig">味＝尾【乙】</note><app n="0784011"><lem wit="【大】">味</lem><rdg resp="Taisho" wit="【乙】">尾</rdg></app></cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><note n="0784012" resp="Taisho" place="foot text" type="orig">羅＝囉【乙】【丙】</note><app n="0784012"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【乙】【丙】">囉</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>𤙖</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A44C"/></cb:t><cb:t xml:lang="zh">佉</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47C"/></cb:t><cb:t xml:lang="zh">左</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A649"/></cb:t><cb:t xml:lang="zh"><note n="0784013" resp="Taisho" place="foot text" type="orig">洛＝𠸪【甲】【丙】，路【乙】</note><note n="0784013" resp="CBETA" type="mod">洛＝𠸪【甲】【丙】，＝路【乙】</note><app n="0784013"><lem wit="【大】">洛</lem><rdg resp="Taisho" wit="【甲】【丙】">𠸪</rdg><rdg resp="Taisho" wit="【乙】">路</rdg></app></cb:t></cb:tt></p>
+<lb n="0784b18" ed="T"/>
+<lb n="0784b19" ed="T"/><p xml:id="pT20p0784b1901">復告金剛<app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>迹主<note n="0784014" resp="Taisho" place="foot text" type="orig">〔言〕－【丙】</note><app n="0784014"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>。此陀羅尼。若有男子
+<lb n="0784b20" ed="T"/><note n="0784015" resp="Taisho" place="foot text" type="orig">女＝母【丙】</note><app n="0784015"><lem wit="【大】">女</lem><rdg resp="Taisho" wit="【丙】">母</rdg></app>人不能辦作承事供養法者。復緣在家迫
+<lb n="0784b21" ed="T"/>迮作種種生業。但能憶持不忘依時念誦。隨
+<lb n="0784b22" ed="T"/>分不闕供養少分。隨自力辦亦得成就。除不
+<lb n="0784b23" ed="T"/>至心不正信心。不發大乘菩提之心。興行誹
+<lb n="0784b24" ed="T"/><note n="0784016" resp="Taisho" place="foot text" type="orig">謗＋（而）【丙】</note><app n="0784016"><lem wit="【大】">謗</lem><rdg resp="Taisho" wit="【丙】">謗而</rdg></app>於三寶所。起不善<note n="0784017" resp="Taisho" place="foot text" type="orig">等＋（心）【丙】</note><app n="0784017"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【丙】">等心</rdg></app>行諸惡業。此等之
+<lb n="0784b25" ed="T"/>心一切小法<note n="0784018" resp="Taisho" place="foot text" type="orig">猶＝由【甲】【乙】【丙】</note><app n="0784018"><lem wit="【大】">猶</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">由</rdg></app>不能得成就。況復大法能成
+<lb n="0784b26" ed="T"/>就之。</p>
+<lb n="0784b27" ed="T"/><p xml:id="pT20p0784b2701">爾時如來。復告金剛<app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>迹主言。若善男子
+<lb n="0784b28" ed="T"/>善女人。若能念誦此陀羅尼一遍即得自護。
+<lb n="0784b29" ed="T"/><note n="0784019" resp="Taisho" place="foot text" type="orig">〔若誦〕－【甲】【乙】【丙】</note><app n="0784019"><lem wit="【大】">若誦</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>兩遍能護同伴。若誦三遍即大護住處。
+<pb n="0784c" xml:id="T20.1184.0784c" ed="T"/>
+<lb n="0784c01" ed="T"/>十地菩薩不能逾勝。何況諸小類眾生。若誦
+<lb n="0784c02" ed="T"/>四遍即得擁護妻息。若誦五遍即能擁護一
+<lb n="0784c03" ed="T"/>切眷屬。若誦六遍即能擁護一切城邑村坊
+<lb n="0784c04" ed="T"/>聚落等。若誦七遍即能擁護一切眾生諸苦
+<lb n="0784c05" ed="T"/>難等。若欲著衣時當加持七遍。能除一切惡
+<lb n="0784c06" ed="T"/>毒及諸災難。若洗手面時。加持淨水七遍然
+<lb n="0784c07" ed="T"/>洗手面。能令眾生貴仰。所有諸惡見者悉當
+<lb n="0784c08" ed="T"/>降伏。一切諸人皆<note n="0784020" resp="Taisho" place="foot text" type="orig">（降）＋伏【甲】【丙】</note><app n="0784020"><lem wit="【大】">伏</lem><rdg resp="Taisho" wit="【甲】【丙】">降伏</rdg></app>敬重。除彼惡心生歡喜
+<lb n="0784c09" ed="T"/>心。</p>
+<lb n="0784c10" ed="T"/><p xml:id="pT20p0784c1001">若人患身體支節疼痛者。加持煗水一百八
+<lb n="0784c11" ed="T"/>遍洗浴。即得好夢便得除愈。</p>
+<lb n="0784c12" ed="T"/><p xml:id="pT20p0784c1201">若每日晨朝。以水一掬加持七遍。飲在身中。
+<lb n="0784c13" ed="T"/>所有<note n="0784021" resp="Taisho" place="foot text" type="orig">惡＝正【丙】</note><app n="0784021"><lem wit="【大】">惡</lem><rdg resp="Taisho" wit="【丙】">正</rdg></app>報悉當消滅。何況無災厄<note n="0784022" resp="Taisho" place="foot text" type="orig">〔之〕－【甲】【乙】【丙】</note><app n="0784022"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>者。及
+<lb n="0784c14" ed="T"/>諸三業<note n="0784023" resp="Taisho" place="foot text" type="orig">〔罪垢〕－【丙】</note><app n="0784023"><lem wit="【大】">罪垢</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>亦得消蕩壽命長遠。</p>
+<lb n="0784c15" ed="T"/><p xml:id="pT20p0784c1501">若加持飲食七遍。食者毒亦不能為害。</p>
+<lb n="0784c16" ed="T"/><p xml:id="pT20p0784c1601">若見惡人怨家。當須念誦。即自降伏除攝瞋
+<lb n="0784c17" ed="T"/>心慈心相向。</p>
+<lb n="0784c18" ed="T"/><p xml:id="pT20p0784c1801"><note n="0784024" resp="Taisho" place="foot text" type="orig">〔若〕－【丙】</note><app n="0784024"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>有恐怖處至誠念誦。即得無畏。</p>
+<lb n="0784c19" ed="T"/><p xml:id="pT20p0784c1901">若臥時誦一百八遍。即得好夢能知善惡之
+<lb n="0784c20" ed="T"/>事。</p>
+<lb n="0784c21" ed="T"/><p xml:id="pT20p0784c2101">若人患<note n="0784025" resp="Taisho" place="foot text" type="orig">瘥＝虐【丙】＊</note><note n="0784025" resp="CBETA" type="mod"><choice cb:resp="CBETA.maha"><corr>瘧</corr><sic>瘥</sic></choice>＝虐【丙】＊</note><app n="0784025"><lem wit="【大】">瘧</lem><rdg resp="Taisho" wit="【丙】">虐</rdg></app>。持誦者<note n="0784026" resp="Taisho" place="foot text" type="orig">觀＝視【甲】【乙】【丙】</note><app n="0784026"><lem wit="【大】">觀</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">視</rdg></app>彼患人面。誦此真言
+<lb n="0784c22" ed="T"/>一千八遍。<app type="star" corresp="#0784025"><lem wit="【大】">瘧</lem><rdg resp="Taisho" wit="【丙】">虐</rdg></app>即除差。</p>
+<lb n="0784c23" ed="T"/><p xml:id="pT20p0784c2301">若入<note n="0784027" resp="Taisho" place="foot text" type="orig">陣＝障【丙】</note><app n="0784027"><lem wit="【大】">陣</lem><rdg resp="Taisho" wit="【丙】">障</rdg></app>時。當以牛黃書此真言帶於身上。一
+<lb n="0784c24" ed="T"/>切<note n="0784028" resp="Taisho" place="foot text" type="orig">刀＝力【丙】</note><app n="0784028"><lem wit="【大】">刀</lem><rdg resp="Taisho" wit="【丙】">力</rdg></app>杖弓箭鉾<note n="0784029" resp="Taisho" place="foot text" type="orig">斧＝𨨞【丙】</note><app n="0784029"><lem wit="【大】">斧</lem><rdg resp="Taisho" wit="【丙】">𨨞</rdg></app>不能傷害。</p>
+<lb n="0784c25" ed="T"/><p xml:id="pT20p0784c2501">若入陣時。應<note n="0784030" resp="Taisho" place="foot text" type="orig">畫＝盡【丙】＊</note><app n="0784030"><lem wit="【大】">畫</lem><rdg resp="Taisho" wit="【丙】">盡</rdg></app>文殊師利童子像及真言。
+<lb n="0784c26" ed="T"/><note n="0784031" resp="Taisho" place="foot text" type="orig">置象＝於像【丙】</note><app n="0784031"><lem wit="【大】">置象</lem><rdg resp="Taisho" wit="【丙】">於像</rdg></app>馬<note n="0784032" resp="Taisho" place="foot text" type="orig">上＋（置）【甲】【乙】【丙】</note><app n="0784032"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">上置</rdg></app>軍前先引。諸軍賊等不能為害。
+<lb n="0784c27" ed="T"/>自然退散。</p>
+<lb n="0784c28" ed="T"/><p xml:id="pT20p0784c2801">常須念誦。所有五逆四重十惡等罪悉得消
+<lb n="0784c29" ed="T"/>滅。當得面覩文殊師利。行住坐臥常須受持
+<pb n="0785a" xml:id="T20.1184.0785a" ed="T"/>
+<lb n="0785a01" ed="T"/>念誦憶持不忘。每誦一百八遍勿令斷絕。常
+<lb n="0785a02" ed="T"/>得一切眾生降伏。</p>
+<lb n="0785a03" ed="T"/><p xml:id="pT20p0785a0301">若加持髮髻七遍。一切眾生見者。悉當降伏
+<lb n="0785a04" ed="T"/>惡人退散。</p>
+<lb n="0785a05" ed="T"/><p xml:id="pT20p0785a0501">若能每日三時。依法入道場。時別一百八遍。
+<lb n="0785a06" ed="T"/>所求皆得稱意圓滿具足。得大富貴所行自
+<lb n="0785a07" ed="T"/>在。臨命終時得普門三昧。及見文殊師利菩
+<lb n="0785a08" ed="T"/>薩。</p>
+<lb n="0785a09" ed="T"/><p xml:id="pT20p0785a0901">爾時世尊。復告大眾。諸菩薩等。我今更說最
+<lb n="0785a10" ed="T"/>勝大威德八字曼荼羅壇法次第。汝當諦聽。
+<lb n="0785a11" ed="T"/>若欲建立息災曼荼羅者。先當<note n="0785001" resp="Taisho" place="foot text" type="orig">簡＝橺【丙】</note><app n="0785001"><lem wit="【大】">簡</lem><rdg resp="Taisho" wit="【丙】">橺</rdg></app>擇其地。當
+<lb n="0785a12" ed="T"/>須於清淨伽藍處。或於深山吉祥勝上之地。
+<lb n="0785a13" ed="T"/>或於城邑村落勝上有福德。多生華果乳木
+<lb n="0785a14" ed="T"/>之地。建立道場。深行比<note n="0785002" resp="Taisho" place="foot text" type="orig">丘＋（及）【乙】</note><app n="0785002"><lem wit="【大】">丘</lem><rdg resp="Taisho" wit="【乙】">丘及</rdg></app>比丘尼。善男子
+<lb n="0785a15" ed="T"/>善女人。發悲願心造曼荼羅。而作八字真言
+<lb n="0785a16" ed="T"/>念誦。誓於急難之際救護有情。欲受持此真
+<lb n="0785a17" ed="T"/>言者。先當訪覓具德知解真實道行大阿闍
+<lb n="0785a18" ed="T"/><note n="0785003" resp="Taisho" place="foot text" type="orig">梨＋（邊）【甲】【乙】【丙】</note><app n="0785003"><lem wit="【大】">梨</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">梨邊</rdg></app>而受灌頂。得灌頂已。<note n="0785004" resp="Taisho" place="foot text" type="orig">恭＝敬【丙】</note><app n="0785004"><lem wit="【大】">恭</lem><rdg resp="Taisho" wit="【丙】">敬</rdg></app>白諮請傳受此
+<lb n="0785a19" ed="T"/>教。親蒙傳<note n="0785005" resp="Taisho" place="foot text" type="orig">授＝受【丙】</note><app n="0785005"><lem wit="【大】">授</lem><rdg resp="Taisho" wit="【丙】">受</rdg></app>然可修念。若為急厄怕怖事
+<lb n="0785a20" ed="T"/>者。當於露處以<note n="0785006" resp="Taisho" place="foot text" type="orig">塗香磨＝香泥摩【甲】，塗香摩【乙】【丙】</note><note n="0785006" resp="CBETA" type="mod">塗香磨＝香泥摩【甲】，＝塗香摩【乙】【丙】</note><app n="0785006"><lem wit="【大】">塗香磨</lem><rdg resp="Taisho" wit="【甲】">香泥摩</rdg><rdg resp="Taisho" wit="【乙】【丙】">塗香摩</rdg></app>作曼荼羅。但書真言
+<lb n="0785a21" ed="T"/>及種子字。以觀想本尊形色。相應與作持念
+<lb n="0785a22" ed="T"/>擁護。若事慢要圖<app type="star" corresp="#0784030"><lem wit="【大】">畫</lem><rdg resp="Taisho" wit="【丙】">盡</rdg></app>者。則勿用皮膠。純以
+<lb n="0785a23" ed="T"/>香汁調色彩畫。若作久長念誦者。即當如法
+<lb n="0785a24" ed="T"/>掘地。別取河岸堅好甘淡白色潤細之土微
+<lb n="0785a25" ed="T"/>黃<note n="0785007" resp="Taisho" place="foot text" type="orig">赤＝亦【丙】</note><app n="0785007"><lem wit="【大】">赤</lem><rdg resp="Taisho" wit="【丙】">亦</rdg></app>。得而用香水和築其壇。依教次第加持
+<lb n="0785a26" ed="T"/>作之。其<note n="0785008" resp="Taisho" place="foot text" type="orig">工＝功【甲】【乙】【丙】</note><app n="0785008"><lem wit="【大】">工</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">功</rdg></app>巧人。須日日<note n="0785009" resp="Taisho" place="foot text" type="orig">清淨＝淨清【丙】</note><app n="0785009"><lem wit="【大】">清淨</lem><rdg resp="Taisho" wit="【丙】">淨清</rdg></app>澡浴著新淨
+<lb n="0785a27" ed="T"/>衣。受八<note n="0785010" resp="Taisho" place="foot text" type="orig">關＝卷【乙】</note><app n="0785010"><lem wit="【大】">關</lem><rdg resp="Taisho" wit="【乙】">卷</rdg></app>齋戒訖然得興功。餘依悉地中法
+<lb n="0785a28" ed="T"/>不可具說。其曼荼羅法。先當心作一圓輪由
+<lb n="0785a29" ed="T"/>如圓月。當中心梵書<note n="0785011" resp="Taisho" place="foot text" type="orig">乙本丙本俱梵字無之以下倣之</note><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5EF"/></cb:t><cb:t xml:lang="zh"><note n="0785012" resp="Taisho" place="foot text" type="orig">滿＋（之轉）【乙】</note><app n="0785012"><lem wit="【大】">滿</lem><rdg resp="Taisho" wit="【乙】">滿之轉</rdg></app></cb:t></cb:tt>字。次從字後北
+<pb n="0785b" xml:id="T20.1184.0785b" ed="T"/>
+<lb n="0785b01" ed="T"/>面書<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh">唵<note place="inline">引</note></cb:t></cb:tt>字次右<note n="0785013" resp="Taisho" place="foot text" type="orig">旋＝施【丙】</note><app n="0785013"><lem wit="【大】">旋</lem><rdg resp="Taisho" wit="【丙】">施</rdg></app>東北角書<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA71"/></cb:t><cb:t xml:lang="zh"><note n="0785014" resp="Taisho" place="foot text" type="orig">（羅）＋阿【乙】</note><app n="0785014"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【乙】">羅阿</rdg></app><note n="0785015" resp="Taisho" place="foot text" type="orig">長引聲入惡字音∞字【丙】</note><app n="0785015"><lem wit="【大】"><note place="inline">長引聲入
+<lb n="0785b02" ed="T"/>惡字音</note></lem><rdg resp="Taisho" wit="【丙】"><note place="inline">字</note></rdg></app></cb:t></cb:tt><note n="0785016" resp="Taisho" place="foot text" type="orig">長引聲入惡字音∞字【丙】</note><app n="0785016"><lem wit="【大】">字</lem><rdg resp="Taisho" wit="【丙】">長引聲入惡字音</rdg></app>。次東方書<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A659"/></cb:t><cb:t xml:lang="zh">味<note place="inline">引長</note></cb:t></cb:tt>字。次東<note n="0785017" resp="Taisho" place="foot text" type="orig">南＋（方）【丙】＊</note><app n="0785017"><lem wit="【大】">南</lem><rdg resp="Taisho" wit="【丙】">南方</rdg></app>隅書
+<lb n="0785b03" ed="T"/><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅</cb:t></cb:tt>字。次南方書<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh">𤙖<note place="inline">引</note></cb:t></cb:tt>字。次西<app type="star" corresp="#0785017"><lem wit="【大】">南</lem><rdg resp="Taisho" wit="【丙】">南方</rdg></app>角書<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A44C"/></cb:t><cb:t xml:lang="zh">
+<lb n="0785b04" ed="T"/>佉</cb:t></cb:tt>字。次西方書<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47C"/></cb:t><cb:t xml:lang="zh">左</cb:t></cb:tt>字。次西北隅<note n="0785018" resp="Taisho" place="foot text" type="orig">書＝畫【甲】＊</note><app n="0785018"><lem wit="【大】">書</lem><rdg resp="Taisho" wit="【甲】">畫</rdg></app><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A649"/></cb:t><cb:t xml:lang="zh"><note n="0785019" resp="Taisho" place="foot text" type="orig">洛＝𠸪【甲】【丙】</note><app n="0785019"><lem wit="【大】">洛</lem><rdg resp="Taisho" wit="【甲】【丙】">𠸪</rdg></app></cb:t></cb:tt>
+<lb n="0785b05" ed="T"/>字。以此九字為內院中尊。或於院中<note n="0785020" resp="Taisho" place="foot text" type="orig">畫＝書【丙】</note><app n="0785020"><lem wit="【大】">畫</lem><rdg resp="Taisho" wit="【丙】">書</rdg></app>妙吉
+<lb n="0785b06" ed="T"/>祥童子其頂八髻。前五髻頂上一髻頂後兩
+<lb n="0785b07" ed="T"/>髻一一髻上。皆有佛身<note place="inline">是名畫像法</note>。</p>
+<lb n="0785b08" ed="T"/><p xml:id="pT20p0785b0801">若求福慶祿位吉祥事者。<note n="0785021" resp="Taisho" place="foot text" type="orig">心中＝中心ィ【原】</note><app n="0785021"><lem wit="【大】">心中</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">中心</rdg></app><app type="star" corresp="#0785018"><lem wit="【大】">書</lem><rdg resp="Taisho" wit="【甲】">畫</rdg></app><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-AB60"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>室<note n="0785022" resp="Taisho" place="foot text" type="orig">利＝唎【甲】，哩【乙】</note><note n="0785022" resp="CBETA" type="mod">利＝唎【甲】，＝哩【乙】</note><app n="0785022"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【甲】">唎</rdg><rdg resp="Taisho" wit="【乙】">哩</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0785b09" ed="T"/>字。</p>
+<lb n="0785b10" ed="T"/><p xml:id="pT20p0785b1001">若求息災除難殄滅七種災難。所謂日月<note n="0785023" resp="Taisho" place="foot text" type="orig">薄蝕＝<g ref="#CB14292"/><g ref="#CB14291"/>【甲】【乙】【丙】</note><app n="0785023"><lem wit="【大】">薄
+<lb n="0785b11" ed="T"/>蝕</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><g ref="#CB14292"/><g ref="#CB14291"/></rdg></app>五星違失常度兵賊競起。水<note n="0785024" resp="Taisho" place="foot text" type="orig">旱＝早【丙】</note><app n="0785024"><lem wit="【大】">旱</lem><rdg resp="Taisho" wit="【丙】">早</rdg></app>不時。風雨
+<lb n="0785b12" ed="T"/>失度。惡臣背逆損害國民。<note n="0785025" resp="Taisho" place="foot text" type="orig">原本冠註曰武當作虎唐高祖之祖父名虎故改為武耳</note>武狼惡獸食啗眾
+<lb n="0785b13" ed="T"/>生。五穀不<note n="0785026" resp="Taisho" place="foot text" type="orig">豐＝登【甲】【乙】【丙】</note><app n="0785026"><lem wit="【大】">豐</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">登</rdg></app>。如是災禍急厄官府王難死厄
+<lb n="0785b14" ed="T"/>怕怖等事。欲令消散者。當心中書<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5EF"/></cb:t><cb:t xml:lang="zh">滿</cb:t></cb:tt>字。</p>
+<lb n="0785b15" ed="T"/><p xml:id="pT20p0785b1501">若求降伏怨人令相好捨惡心者。中心而書
+<lb n="0785b16" ed="T"/><cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A7"/></cb:t><cb:t xml:lang="zh">淡</cb:t></cb:tt>字。若有惡人難降伏。屠兒獵師外道不
+<lb n="0785b17" ed="T"/>信佛法者。令惡心摧滅或令破壞者。心中應
+<lb n="0785b18" ed="T"/>書梵文<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0F0"/></cb:t><cb:t xml:lang="zh">瑟</cb:t></cb:tt>置唎<note place="inline"><note n="0785027" resp="Taisho" place="foot text" type="orig">三＝二【甲】【丙】</note><app n="0785027"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【甲】【丙】">二</rdg></app>合</note>字已。說內院字門了。</p>
+<lb n="0785b19" ed="T"/><p xml:id="pT20p0785b1901">次說第二院安布八文殊。布位法尊前南面畫
+<lb n="0785b20" ed="T"/>請召童子。次西南隅畫計設尼童子。次西方
+<lb n="0785b21" ed="T"/>右邊畫救<note n="0785028" resp="Taisho" place="foot text" type="orig">護＝請【丙】</note><app n="0785028"><lem wit="【大】">護</lem><rdg resp="Taisho" wit="【丙】">請</rdg></app>慧童子。次西北隅畫烏波計設
+<lb n="0785b22" ed="T"/>尼童子。次後面北方畫光網童子。次東北隅
+<lb n="0785b23" ed="T"/>畫地慧幢童子。次東方左邊畫無垢光童子。
+<lb n="0785b24" ed="T"/>次東南隅畫不思議慧童子。如是八方妙吉
+<lb n="0785b25" ed="T"/>祥童真菩薩。皆面向中尊如奉教勢。皆坐蓮
+<lb n="0785b26" ed="T"/>華上一一各乘師子。二手各有執持<note n="0785029" resp="Taisho" place="foot text" type="orig">幖幟＝摽熾【甲】【丙】</note><app n="0785029"><lem wit="【大】">幖幟</lem><rdg resp="Taisho" wit="【甲】【丙】">摽熾</rdg></app>印
+<lb n="0785b27" ed="T"/>契畫須如法。<note n="0785030" resp="Taisho" place="foot text" type="orig">又＝右【甲】【乙】【丙】</note><app n="0785030"><lem wit="【大】">又</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">右</rdg></app>於圓輪外四角中畫四忿怒
+<lb n="0785b28" ed="T"/>明王。東南角畫降三世金剛青色八臂。當前
+<lb n="0785b29" ed="T"/>二手結印檀慧反相鉤。餘拳竪進力。左手執
+<pb n="0785c" xml:id="T20.1184.0785c" ed="T"/>
+<lb n="0785c01" ed="T"/>弓。右手把箭架。左一手執杵。<note n="0785031" resp="Taisho" place="foot text" type="orig">（右）＋一【丙】＊</note><app n="0785031"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【丙】">右一</rdg></app>手執索。右
+<lb n="0785c02" ed="T"/>一手執戟。一手把棒。三面口角現牙坐火焰
+<lb n="0785c03" ed="T"/>中。西北角無能勝明王四臂青色三面。火髮
+<lb n="0785c04" ed="T"/>聳上。右一手作拳竪頭指。一手執三股戟。
+<lb n="0785c05" ed="T"/><app type="star" corresp="#0785031"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【丙】">右一</rdg></app>手施願。一手執棒安坐蓮華。西南角閻曼
+<lb n="0785c06" ed="T"/>德<note n="0785032" resp="Taisho" place="foot text" type="orig">〔迦〕－【丙】</note><app n="0785032"><lem wit="【大】">迦</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>金剛青黑色。六頭六臂六足各執器仗。
+<lb n="0785c07" ed="T"/>左上手執戟。次下手執弓。次下手執索。右上
+<lb n="0785c08" ed="T"/>手執劍。次下手執箭。次下手執<note n="0785033" resp="Taisho" place="foot text" type="orig">棓＝捧【甲】【乙】【丙】＊</note><app n="0785033"><lem wit="【大】">棓</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">捧</rdg></app>。乘青水
+<lb n="0785c09" ed="T"/>牛為座。東北角<app type="star" corresp="#0784030"><lem wit="【大】">畫</lem><rdg resp="Taisho" wit="【丙】">盡</rdg></app>馬頭明王<note n="0785034" resp="Taisho" place="foot text" type="orig">而＝面【甲】【乙】【丙】</note><app n="0785034"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">面</rdg></app>有三<note n="0785035" resp="Taisho" place="foot text" type="orig">面六＝目八【明】</note><app n="0785035"><lem wit="【大】">面。
+<lb n="0785c10" ed="T"/><note n="0785036" resp="Taisho" place="foot text" type="orig">六＝八ィ【丙】</note><app n="0785036"><lem wit="【大】">六</lem><rdg resp="Taisho" wit="【丙】" type="variantRemark">八</rdg></app></lem><rdg resp="Taisho" wit="【明】">目八</rdg></app>臂各執器<note n="0785037" resp="Taisho" place="foot text" type="orig">仗＝杖【甲】【乙】【丙】</note><app n="0785037"><lem wit="【大】">仗</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">杖</rdg></app>。左<note n="0785038" resp="Taisho" place="foot text" type="orig">上＝一【甲】【乙】【丙】</note><app n="0785038"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">一</rdg></app>手執蓮華。一手執瓶。
+<lb n="0785c11" ed="T"/>一手執<app type="star" corresp="#0785033"><lem wit="【大】">棓</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">捧</rdg></app>當心。二手結印契。<note n="0785039" resp="Taisho" place="foot text" type="orig">右＋（手）【乙】【丙】</note><app n="0785039"><lem wit="【大】">右</lem><rdg resp="Taisho" wit="【乙】【丙】">右手</rdg></app>上手執<note n="0785040" resp="Taisho" place="foot text" type="orig">鉞＝越【甲】【乙】【丙】</note><app n="0785040"><lem wit="【大】">鉞</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">越</rdg></app>
+<lb n="0785c12" ed="T"/>斧。一手執<note n="0785041" resp="Taisho" place="foot text" type="orig">數＝敉【丙】</note><app n="0785041"><lem wit="【大】">數</lem><rdg resp="Taisho" wit="【丙】">敉</rdg></app>珠。一手執索輪王坐在蓮華
+<lb n="0785c13" ed="T"/>中。大忿怒相現極惡猛利勢。餘皆依本法。次
+<lb n="0785c14" ed="T"/>說第三院十六大天外護。當尊前鉤菩薩<note place="inline">左拳右鉤</note>
+<lb n="0785c15" ed="T"/>次西焰魔后。次西羅剎主。當角燒香供養菩
+<lb n="0785c16" ed="T"/>薩。<note n="0785042" resp="Taisho" place="foot text" type="orig">次＋（角）【甲】【乙】【丙】</note><app n="0785042"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">次角</rdg></app>北羅剎后。次北水天。西門索菩薩。次
+<lb n="0785c17" ed="T"/>北龍天后。次北風天王。西北角華供養菩薩。
+<lb n="0785c18" ed="T"/>次東風天后。次東毘沙門天王。尊後北方金
+<lb n="0785c19" ed="T"/>剛鎖菩薩。次東毘沙門后。次東伊舍那天王。
+<lb n="0785c20" ed="T"/>東北角燈供養菩薩。次南伊舍那后。次南帝
+<lb n="0785c21" ed="T"/>釋天<note n="0785043" resp="Taisho" place="foot text" type="orig">王＋（主）【丙】</note><app n="0785043"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【丙】">王主</rdg></app>。左方東門金剛鈴菩薩。次南帝釋
+<lb n="0785c22" ed="T"/>后。次南火<note n="0785044" resp="Taisho" place="foot text" type="orig">天＋（王）【丙】</note><app n="0785044"><lem wit="【大】">天</lem><rdg resp="Taisho" wit="【丙】">天王</rdg></app>神。東南角塗香供養菩薩。<note n="0785045" resp="Taisho" place="foot text" type="orig">次西＝角西次【甲】【乙】【丙】</note><app n="0785045"><lem wit="【大】">次
+<lb n="0785c23" ed="T"/>西</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">角西次</rdg></app>火天后。次西焰魔天。已上第三院安布諸
+<lb n="0785c24" ed="T"/>尊竟。四門及食道。四角同諸壇法。寶性草亦
+<lb n="0785c25" ed="T"/>同。四門蓮華葉細如青蓮華。</p>
+<lb n="0785c26" ed="T"/><p xml:id="pT20p0785c2601">復說速疾救<note n="0785046" resp="Taisho" place="foot text" type="orig">難＝護【甲】【丙】</note><app n="0785046"><lem wit="【大】">難</lem><rdg resp="Taisho" wit="【甲】【丙】">護</rdg></app>立成壇法。但於一無人及無
+<pb n="0786a" xml:id="T20.1184.0786a" ed="T"/>
+<lb n="0786a01" ed="T"/>穢惡高原之處。或<note n="0786001" resp="Taisho" place="foot text" type="orig">曠＝壙【丙】</note><app n="0786001"><lem wit="【大】">曠</lem><rdg resp="Taisho" wit="【丙】">壙</rdg></app>野或伽藍中露地為之。
+<lb n="0786a02" ed="T"/>即立有神驗法。去上惡穢土別取淨土。實築
+<lb n="0786a03" ed="T"/>令如石使平正。以白檀磨作塗香如<note n="0786002" resp="Taisho" place="foot text" type="orig">麫＝麵【甲】【乙】【丙】</note><app n="0786002"><lem wit="【大】">麫</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">麵</rdg></app>。更取
+<lb n="0786a04" ed="T"/>精白龍腦熏陸香等。浸取汁如乳。<note n="0786003" resp="Taisho" place="foot text" type="orig">如＝和【丙】</note><app n="0786003"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【丙】">和</rdg></app>塗香
+<lb n="0786a05" ed="T"/><note n="0786004" resp="Taisho" place="foot text" type="orig">磨＝摩【甲】【乙】【丙】</note><app n="0786004"><lem wit="【大】">磨</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">摩</rdg></app>塗地。小一肘次二肘三<note n="0786005" resp="Taisho" place="foot text" type="orig">肘＝時【丙】</note><app n="0786005"><lem wit="【大】">肘</lem><rdg resp="Taisho" wit="【丙】">時</rdg></app>四肘。圓如月
+<lb n="0786a06" ed="T"/>輪分為四重。中心種子字。周匝八字真言。第
+<lb n="0786a07" ed="T"/>二院中安布八文殊童子。第三院安布四門
+<lb n="0786a08" ed="T"/>四攝四角四大忿怒明王。第四院四門香水
+<lb n="0786a09" ed="T"/><note n="0786006" resp="Taisho" place="foot text" type="orig">酥＝蘇【甲】【乙】【丙】</note><app n="0786006"><lem wit="【大】">酥</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">蘇</rdg></app>燈白華乳粥酪飯等供養。更若不<choice><corr>辦</corr><sic>辨</sic></choice>但第
+<lb n="0786a10" ed="T"/>二院便布八聖。所謂四攝四明王等。</p>
+<lb n="0786a11" ed="T"/><p xml:id="pT20p0786a1101">若緣國家帝王身有厄難。要作護道場者。其
+<lb n="0786a12" ed="T"/>壇應廣一十六肘。或大二十四肘。</p>
+<lb n="0786a13" ed="T"/><p xml:id="pT20p0786a1301">若緣五星失度。日月頻蝕<note n="0786007" resp="Taisho" place="foot text" type="orig">彗＝替【丙】</note><app n="0786007"><lem wit="【大】">彗</lem><rdg resp="Taisho" wit="【丙】">替</rdg></app>孛數現。四方異
+<lb n="0786a14" ed="T"/>國侵<note n="0786008" resp="Taisho" place="foot text" type="orig">境劫＝競却【丙】</note><app n="0786008"><lem wit="【大】">境。劫</lem><rdg resp="Taisho" wit="【丙】">競却</rdg></app>奪百姓大臣<note n="0786009" resp="Taisho" place="foot text" type="orig">叛＝返【丙】</note><app n="0786009"><lem wit="【大】">叛</lem><rdg resp="Taisho" wit="【丙】">返</rdg></app>逆。用兵不利損
+<lb n="0786a15" ed="T"/>害國人疫病流行。皆作大壇。壇內第二院外
+<lb n="0786a16" ed="T"/>布<note n="0786010" resp="Taisho" place="foot text" type="orig">列＝烈【丙】</note><app n="0786010"><lem wit="【大】">列</lem><rdg resp="Taisho" wit="【丙】">烈</rdg></app>十二大天如熾盛光法。次第四院布二
+<lb n="0786a17" ed="T"/>十八宿。第五院十二宮神外<note n="0786011" resp="Taisho" place="foot text" type="orig">〔布〕－【丙】</note><app n="0786011"><lem wit="【大】">布</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>四明王餘同
+<lb n="0786a18" ed="T"/>諸法。</p>
+<lb n="0786a19" ed="T"/><p xml:id="pT20p0786a1901">又若有比丘比丘尼男子女人。若官若庶。身
+<lb n="0786a20" ed="T"/>遭危厄<note n="0786012" resp="Taisho" place="foot text" type="orig">官＝宮【丙】</note><app n="0786012"><lem wit="【大】">官</lem><rdg resp="Taisho" wit="【丙】">宮</rdg></app>事王厄病厄一切恐怖無可方計。
+<lb n="0786a21" ed="T"/>恐有刀杖刑獄之厄。應當<note n="0786013" resp="Taisho" place="foot text" type="orig">發＋（當發）【丙】</note><app n="0786013"><lem wit="【大】">發</lem><rdg resp="Taisho" wit="【丙】">發當發</rdg></app>大<note n="0786014" resp="Taisho" place="foot text" type="orig">（慈）＋悲【甲】【乙】【丙】</note><app n="0786014"><lem wit="【大】">悲</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">慈悲</rdg></app>心。為夜
+<lb n="0786a22" ed="T"/>眾星下作此念誦。或三人或五人或七人。若
+<lb n="0786a23" ed="T"/>欲臨時。當夜面北為彼稱名發願念誦。每人
+<lb n="0786a24" ed="T"/>一萬遍即得消滅。若擬作持念應具八<note n="0786015" resp="Taisho" place="foot text" type="orig">方便＝万便方【丙】</note><app n="0786015"><lem wit="【大】">方便</lem><rdg resp="Taisho" wit="【丙】">万便方</rdg></app>。
+<lb n="0786a25" ed="T"/>然可作念誦即說頌曰。</p>
+<lb n="0786a26" ed="T"/><lg xml:id="lgT20p0786a2601"><l>澡浴著淨衣</l><l>塗香嚴身體</l>
+<lb n="0786a27" ed="T"/><l>歸命念真言</l><l>至誠恭敬禮</l>
+<lb n="0786a28" ed="T"/><l>焚香懺諸罪</l><l>隨喜及勸請</l>
+<lb n="0786a29" ed="T"/><l>迴向發弘誓</l><l>深起大慈悲</l>
+<pb n="0786b" xml:id="T20.1184.0786b" ed="T"/>
+<lb n="0786b01" ed="T"/><l>如<note n="0786016" resp="Taisho" place="foot text" type="orig">此＝斯【甲】【乙】【丙】</note><app n="0786016"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">斯</rdg></app>八方便</l><l><note n="0786017" resp="Taisho" place="foot text" type="orig">勤＝<g ref="#CB14333"/>【丙】</note><app n="0786017"><lem wit="【大】">勤</lem><rdg resp="Taisho" wit="【丙】"><g ref="#CB14333"/></rdg></app>行勿遺忘</l>
+<lb n="0786b02" ed="T"/><l>然後淨三業</l><l>依法作持念</l></lg>
+<lb n="0786b03" ed="T"/><p xml:id="pT20p0786b0301">大聖妙吉祥菩薩最勝威德祕密八字陀羅尼
+<lb n="0786b04" ed="T"/>修行念誦儀軌次第法。</p>
+<lb n="0786b05" ed="T"/><p xml:id="pT20p0786b0501">我今依真言次第法門說。行人先當從阿闍
+<lb n="0786b06" ed="T"/>梨得受灌頂。及親傳受已。<note n="0786018" resp="Taisho" place="foot text" type="orig">〔及〕－【丙】</note><app n="0786018"><lem wit="【大】">及</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>再入持明悉地
+<lb n="0786b07" ed="T"/>灌頂。具足慈悲行無緣慈。憐<note n="0786019" resp="Taisho" place="foot text" type="orig">愍＝慜【丙】</note><app n="0786019"><lem wit="【大】">愍</lem><rdg resp="Taisho" wit="【丙】">慜</rdg></app>一切苦厄
+<lb n="0786b08" ed="T"/>有情作是念誦。誓當救拔一切恐怖厄難眾
+<lb n="0786b09" ed="T"/>生。<note n="0786020" resp="Taisho" place="foot text" type="orig">〔若眾生〕－【甲】【丙】</note><app n="0786020"><lem wit="【大】">若眾生</lem><rdg resp="Taisho" wit="【甲】【丙】"><space quantity="0"/></rdg></app>若急難時。隨其處或香塗或撚粉
+<lb n="0786b10" ed="T"/>作壇。若常念者。應須精室如法建立道場一
+<lb n="0786b11" ed="T"/>如前法。行人先興八種心方可持法。第一慈
+<lb n="0786b12" ed="T"/>悲心二無<note n="0786021" resp="Taisho" place="foot text" type="orig">妬＝垢【甲】【乙】【丙】</note><app n="0786021"><lem wit="【大】">妬</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">垢</rdg></app>心。三無我所心。四無勝<note n="0786022" resp="Taisho" place="foot text" type="orig">負＝附【甲】【乙】【丙】</note><app n="0786022"><lem wit="【大】">負</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">附</rdg></app>心。
+<lb n="0786b13" ed="T"/>五有平等心。六無怨害心。七有哀愍心。八無
+<lb n="0786b14" ed="T"/>貪利心。如是之人乃可傳受。如是等堪同作
+<lb n="0786b15" ed="T"/>法。若非此者。惟應自作令法得成。若遍數未
+<lb n="0786b16" ed="T"/>終。不得中間輒共人語使有間斷。即法失驗。
+<lb n="0786b17" ed="T"/>未作法時先當明告。若自作念誦亦勿間斷。</p>
+<lb n="0786b18" ed="T"/><p xml:id="pT20p0786b1801">行者若入道場時。次應虔誠作禮。即金剛合
+<lb n="0786b19" ed="T"/><note n="0786023" resp="Taisho" place="foot text" type="orig">掌＝常【丙】</note><app n="0786023"><lem wit="【大】">掌</lem><rdg resp="Taisho" wit="【丙】">常</rdg></app>至心想。於十方諸佛及文殊大聖無量菩
+<lb n="0786b20" ed="T"/>薩金剛密迹一切賢聖等前。一一自身而禮
+<lb n="0786b21" ed="T"/>聖眾。普禮一切佛菩薩金剛等真言曰。</p>
+<lb n="0786b22" ed="T"/><p xml:id="pT20p0786b2201" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><note n="0786024" resp="Taisho" place="foot text" type="orig">甲本乙本丙本俱梵字無之以下倣之</note><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">薩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B7A3"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>嚩</cb:zi><cb:sg>轉舌</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">怛</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A564"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>佗</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">蘗</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">多<note place="inline">二</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh">迦</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh">耶</cb:t></cb:tt>
+<lb n="0786b23" ed="T"/>
+<lb n="0786b24" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AE44"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0786025" resp="Taisho" place="foot text" type="orig">紇＝訖【甲】【乙】【丙】</note><app n="0786025"><lem wit="【大】">紇</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">訖</rdg></app>唧</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh"><note n="0786026" resp="Taisho" place="foot text" type="orig">多＝哆【甲】【乙】【丙】</note><app n="0786026"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">哆</rdg></app><note place="inline">三</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>嚩</cb:zi><cb:sg type="fangie">無撥反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>折<note n="0786027" resp="Taisho" place="foot text" type="orig">囉＝羅【丙】＊</note><app n="0786027"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AABC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>鉢羅</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0786b25" ed="T"/>
+<lb n="0786b26" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A65D"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>梅</cb:zi><cb:sg>輕呼</cb:sg></cb:yin><note place="inline">四</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5EF"/></cb:t><cb:t xml:lang="zh">曼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4BA"/></cb:t><cb:t xml:lang="zh">祖</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AB60"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>室<note n="0786028" resp="Taisho" place="foot text" type="orig">利＝唎【甲】【乙】【丙】</note><app n="0786028"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">唎</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B6C8"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0786029" resp="Taisho" place="foot text" type="orig">㗚＝嘌【丙】</note><app n="0786029"><lem wit="【大】">㗚</lem><rdg resp="Taisho" wit="【丙】">嘌</rdg></app>那</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0786b27" ed="T"/>
+<lb n="0786b28" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">南<note place="inline">五</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh">迦</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A646"/></cb:t><cb:t xml:lang="zh">嚕</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E7"/></cb:t><cb:t xml:lang="zh"><note n="0786030" resp="Taisho" place="foot text" type="orig">弭＝<g ref="#CB02755"/>【甲】＊</note><app n="0786030"><lem wit="【大】">弭</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB02755"/></rdg></app><note place="inline">六</note></cb:t></cb:tt></p>
+<lb n="0786b29" ed="T"/>
+<pb n="0786c" xml:id="T20.1184.0786c" ed="T"/>
+<lb n="0786c01" ed="T"/><p xml:id="pT20p0786c0101">又心<app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>明曰。</p>
+<lb n="0786c02" ed="T"/><p xml:id="pT20p0786c0201" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>日<app type="star" corresp="#0786027"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0AC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>微</cb:zi><cb:sg type="fangie">微一<note n="0786031" resp="Taisho" place="foot text" type="orig">切＝反【甲】【乙】【丙】</note><app n="0786031"><lem wit="【大】">切</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">反</rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh"><note n="0786032" resp="Taisho" place="foot text" type="orig">多＝哆【甲】</note><app n="0786032"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】">哆</rdg></app></cb:t></cb:tt></p>
+<lb n="0786c03" ed="T"/>
+<lb n="0786c04" ed="T"/><lg xml:id="lgT20p0786c0401"><l>先合金剛掌</l><l>十度<note n="0786033" resp="Taisho" place="foot text" type="orig">外相交＝相外灾【丙】</note><app n="0786033"><lem wit="【大】">外相<note n="0786034" resp="Taisho" place="foot text" type="orig">交＝叉【甲】</note><app n="0786034"><lem wit="【大】">交</lem><rdg resp="Taisho" wit="【甲】">叉</rdg></app></lem><rdg resp="Taisho" wit="【丙】">相外灾</rdg></app></l>
+<lb n="0786c05" ed="T"/><l>五輪皆委地</l><l>至誠恭敬禮</l>
+<lb n="0786c06" ed="T"/><l>復以長跪坐</l><l>合掌似<note n="0786035" resp="Taisho" place="foot text" type="orig">含＝合【丙】</note><app n="0786035"><lem wit="【大】">含</lem><rdg resp="Taisho" wit="【丙】">合</rdg></app>蓮</l>
+<lb n="0786c07" ed="T"/><l>觀身如水精</l><l>吽字加三處</l>
+<lb n="0786c08" ed="T"/><l>想成五智杵</l><l>所謂內金剛</l>
+<lb n="0786c09" ed="T"/><l>而為不壞體</l><l>然虔誠奉請</l>
+<lb n="0786c10" ed="T"/><l>一切諸聖尊</l><l>誦是四句偈</l></lg>
+<lb n="0786c11" ed="T"/><lg xml:id="lgT20p0786c1101"><l>稽首無上法<note n="0786036" resp="Taisho" place="foot text" type="orig">醫＝翳【丙】</note><app n="0786036"><lem wit="【大】">醫</lem><rdg resp="Taisho" wit="【丙】">翳</rdg></app>王</l><l>難救能救慈悲主</l>
+<lb n="0786c12" ed="T"/><l>我今歸命恭敬請</l><l>唯願速來降道場</l></lg>
+<lb n="0786c13" ed="T"/><lg xml:id="lgT20p0786c1301"><l>如是三重請</l><l>作前啟白言</l>
+<lb n="0786c14" ed="T"/><l>二手蓮華合</l><l>復誦淨三業</l>
+<lb n="0786c15" ed="T"/><l>令身器清淨</l><l>用加持五處</l>
+<lb n="0786c16" ed="T"/><l>額兩肩心喉</l><l>念彼真言曰</l></lg>
+<lb n="0786c17" ed="T"/><p xml:id="pT20p0786c1701" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B064"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5DA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>婆</cb:zi><cb:sg>去</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A666"/></cb:t><cb:t xml:lang="zh"><note n="0786037" resp="Taisho" place="foot text" type="orig">戍＋（引）夾註【丙】</note><app n="0786037"><lem wit="【大】">戍</lem><rdg resp="Taisho" wit="【丙】">戍<note place="inline">引</note></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg><note n="0786038" resp="Taisho" place="foot text" type="orig">〔引〕－【丙】</note><app n="0786038"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">薩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B7A3"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt>
+<lb n="0786c18" ed="T"/>
+<lb n="0786c19" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A57B"/></cb:t><cb:t xml:lang="zh">達</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1BA"/></cb:t><cb:t xml:lang="zh">磨</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B064"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5D9"/></cb:t><cb:t xml:lang="zh">婆</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A666"/></cb:t><cb:t xml:lang="zh">戍</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E4BB"/></cb:t><cb:t xml:lang="zh">度</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6B2"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0786039" resp="Taisho" place="foot text" type="orig">唅＝𤚥【甲】【乙】【丙】</note><app n="0786039"><lem wit="【大】">唅</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">𤚥</rdg></app></cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0786c20" ed="T"/>
+<lb n="0786c21" ed="T"/><lg xml:id="lgT20p0786c2101"><l>己淨三業竟</l><l>結佛三昧耶</l>
+<lb n="0786c22" ed="T"/><l>定慧合蓮掌</l><l><note n="0786040" resp="Taisho" place="foot text" type="orig">豎＝開【甲】【乙】【丙】</note><app n="0786040"><lem wit="【大】">豎</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">開</rdg></app>合二火峯</l>
+<lb n="0786c23" ed="T"/><l>二風屈上節</l><l>二空捻風根</l>
+<lb n="0786c24" ed="T"/><l>舉印當額前</l><l>諦觀一切佛</l>
+<lb n="0786c25" ed="T"/><l>一一分明見</l><l>住在虛空中</l>
+<lb n="0786c26" ed="T"/><note n="0786041" resp="Taisho" place="foot text" type="orig">〔念彼…召〕四十字－ヵ【原】</note><l><app n="0786041a"><lem resp="Taisho" wit="【大】">念彼真言曰</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app></l><l><app n="0786041b"><lem resp="Taisho" wit="【大】">佛部三昧<note n="0786042" resp="Taisho" place="foot text" type="orig">耶＝印【甲】【乙】【丙】</note><app n="0786042"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">印</rdg></app></lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app></l>
+<lb n="0786c27" ed="T"/><l><app n="0786041c"><lem resp="Taisho" wit="【大】">定慧內合拳</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app></l><l><app n="0786041d"><lem resp="Taisho" wit="【大】">二空皆並豎</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app></l>
+<lb n="0786c28" ed="T"/><l><app n="0786041e"><lem resp="Taisho" wit="【大】">諦觀一切佛</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app></l><l><app n="0786041f"><lem resp="Taisho" wit="【大】">由如對目前</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app></l>
+<lb n="0786c29" ed="T"/><l><app n="0786041g"><lem resp="Taisho" wit="【大】">隨念召請尊</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app></l><l><app n="0786041h"><lem resp="Taisho" wit="【大】">雙舉而並<note n="0786043" resp="Taisho" place="foot text" type="orig">召＝招【甲】【丙】</note><app n="0786043"><lem wit="【大】">召</lem><rdg resp="Taisho" wit="【甲】【丙】">招</rdg></app></lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app></l></lg>
+<pb n="0787a" xml:id="T20.1184.0787a" ed="T"/>
+<lb n="0787a01" ed="T"/><p xml:id="pT20p0787a0101">真言曰。</p>
+<lb n="0787a02" ed="T"/><p xml:id="pT20p0787a0201" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4B8"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>爾</cb:zi><cb:sg type="fangie">慈以反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4B8"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0787001" resp="Taisho" place="foot text" type="orig">區＝匿【甲】【乙】【丙】</note><app n="0787001"><lem wit="【大】">區</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">匿</rdg></app></cb:zi><cb:sg type="fangie">而翼反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E15D"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>迦</cb:zi><cb:sg>半音</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0787a03" ed="T"/>
+<lb n="0787a04" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg><note n="0787002" resp="Taisho" place="foot text" type="orig">引＋（三邊或七邊）【甲】【乙】，引＝三反若七返【丙】</note><app n="0787002"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】">引三邊或七邊</rdg><rdg resp="Taisho" wit="【丙】">三反若七返</rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0787a05" ed="T"/>
+<lb n="0787a06" ed="T"/><lg xml:id="lgT20p0787a0601"><l>復結蓮華部</l><l>祕<app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>三昧耶</l>
+<lb n="0787a07" ed="T"/><l>印相亦如前</l><l>左入右舒出</l>
+<lb n="0787a08" ed="T"/><l>三誦三召請</l><l>安右而散之</l>
+<lb n="0787a09" ed="T"/><l>念彼真言曰</l></lg>
+<lb n="0787a10" ed="T"/><p xml:id="pT20p0787a1001" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC6"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>阿</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A642"/></cb:t><cb:t xml:lang="zh"><note n="0787003" resp="Taisho" place="foot text" type="orig">盧＝嚧【甲】【乙】【丙】</note><app n="0787003"><lem wit="【大】">盧</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">嚧</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64C"/></cb:t><cb:t xml:lang="zh">力</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E15D"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>迦</cb:zi><cb:sg>半音</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg><note n="0787004" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】【乙】【丙】</note><app n="0787004"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0787a11" ed="T"/>
+<lb n="0787a12" ed="T"/><lg xml:id="lgT20p0787a1201"><l>復次金剛部</l><l>微妙三昧契</l>
+<lb n="0787a13" ed="T"/><l>前契改空輪</l><l>右入左竪招</l>
+<lb n="0787a14" ed="T"/><l>專心存<note n="0787005" resp="Taisho" place="foot text" type="orig">念＝想【甲】【乙】，視【丙】</note><note n="0787005" resp="CBETA" type="mod">念＝想【甲】【乙】，＝視【丙】</note><app n="0787005"><lem wit="【大】">念</lem><rdg resp="Taisho" wit="【甲】【乙】">想</rdg><rdg resp="Taisho" wit="【丙】">視</rdg></app>尊</l><l>念彼真言曰</l></lg>
+<lb n="0787a15" ed="T"/><p xml:id="pT20p0787a1501" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>日羅</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CBEF"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>地<note n="0787006" resp="Taisho" place="foot text" type="orig">力＝叻【甲】【乙】【丙】</note><app n="0787006"><lem wit="【大】">力</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">叻</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E15D"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>迦</cb:zi><cb:sg>半<note n="0787007" resp="Taisho" place="foot text" type="orig">音＋（呼）【甲】【乙】【丙】</note><app n="0787007"><lem wit="【大】">音</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">音呼</rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0787008" resp="Taisho" place="foot text" type="orig">〔娑嚩…引〕六字－【甲】【乙】【丙】</note>娑嚩</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0787a16" ed="T"/>
+<lb n="0787a17" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0787a18" ed="T"/>
+<lb n="0787a19" ed="T"/><lg xml:id="lgT20p0787a1901"><l>佛部印安額</l><l>蓮華右耳邊</l>
+<lb n="0787a20" ed="T"/><l>金剛左耳<note n="0787009" resp="Taisho" place="foot text" type="orig">邊＝側【甲】</note><app n="0787009"><lem wit="【大】">邊</lem><rdg resp="Taisho" wit="【甲】">側</rdg></app></l><l>同於頂上散</l>
+<lb n="0787a21" ed="T"/><l>復次被甲契</l><l>檀慧及戒方</l>
+<lb n="0787a22" ed="T"/><l>相叉內入掌</l><l>忍願頭相合</l>
+<lb n="0787a23" ed="T"/><l>進力曲如鉤</l><l>外附二火後</l>
+<lb n="0787a24" ed="T"/><l>禪智並直竪</l><l>由如嚩折羅</l>
+<lb n="0787a25" ed="T"/><l>念加身五處</l><l>額右肩并左</l>
+<lb n="0787a26" ed="T"/><l>心喉散頂門</l><l>念彼真言曰</l></lg>
+<lb n="0787a27" ed="T"/><p xml:id="pT20p0787a2701" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg><note n="0787010" resp="Taisho" place="foot text" type="orig">〔引〕－【丙】＊</note><app n="0787010"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47C"/></cb:t><cb:t xml:lang="zh">斫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A947"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>羯羅</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><g ref="#CB03939"/></cb:zi><cb:sg>轉舌<note n="0787011" resp="Taisho" place="foot text" type="orig">呼＋（反）【丙】</note><app n="0787011"><lem wit="【大】">呼</lem><rdg resp="Taisho" wit="【丙】">呼反</rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0EA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>㗚底</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AABC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>鉢<note n="0787012" resp="Taisho" place="foot text" type="orig">羅＝囉【甲】【乙】</note><app n="0787012"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】【乙】">囉</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0787a28" ed="T"/>
+<lb n="0787a29" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A662"/></cb:t><cb:t xml:lang="zh">賒</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E7"/></cb:t><cb:t xml:lang="zh"><app type="star" corresp="#0786030"><lem wit="【大】">弭</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB02755"/></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A558"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>多</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FE"/></cb:t><cb:t xml:lang="zh"><app type="star" corresp="#0786027"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AA77"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>捺<app type="star" corresp="#0786027"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:zi><cb:sg><app type="star" corresp="#0787010"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FE"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0787013" resp="Taisho" place="foot text" type="orig">〔囉〕－【丙】</note><app n="0787013"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:zi><cb:sg><app type="star" corresp="#0787010"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0787a30" ed="T"/>
+<pb n="0787b" xml:id="T20.1184.0787b" ed="T"/>
+<lb n="0787b01" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AA77"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>捺<app type="star" corresp="#0786027"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:zi><cb:sg>二<note n="0787014" resp="Taisho" place="foot text" type="orig">合＋（引）【丙】</note><app n="0787014"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【丙】">合引</rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5DA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>婆</cb:zi><cb:sg>去</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2CC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑摩</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>攃</cb:zi><cb:sg type="fangie">倉<note n="0787015" resp="Taisho" place="foot text" type="orig">竦切＝辢反【丙】</note><app n="0787015"><lem wit="【大】">竦切</lem><rdg resp="Taisho" wit="【丙】">辢反</rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A646"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>路</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0787b02" ed="T"/>
+<lb n="0787b03" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0C7"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>瑟抳</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A66E"/></cb:t><cb:t xml:lang="zh">沙</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><note n="0787016" resp="Taisho" place="foot text" type="orig">洛＝𠸪【甲】，路【乙】</note><note n="0787016" resp="CBETA" type="mod">洛＝𠸪【甲】，＝路【乙】</note><app n="0787016"><lem wit="【大】">洛</lem><rdg resp="Taisho" wit="【甲】">𠸪</rdg><rdg resp="Taisho" wit="【乙】">路</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6B4"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>乞叉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><choice><corr><g ref="#SD-A5FD"/><g ref="#SD-A6B4"/></corr><sic><g ref="#SD-D957"/></sic></choice></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0787017" resp="Taisho" place="foot text" type="orig">洛＝𠸪【甲】【丙】，𡀔【乙】</note><note n="0787017" resp="CBETA" type="mod">洛＝𠸪【甲】【丙】，＝𡀔【乙】</note><app n="0787017"><lem wit="【大】">洛</lem><rdg resp="Taisho" wit="【甲】【丙】">𠸪</rdg><rdg resp="Taisho" wit="【乙】">𡀔</rdg></app>乞叉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5EF"/></cb:t><cb:t xml:lang="zh"><note n="0787018" resp="Taisho" place="foot text" type="orig">𤚥＝鋡【甲】【乙】【丙】</note><app n="0787018"><lem wit="【大】">𤚥</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">鋡</rdg></app></cb:t></cb:tt>
+<lb n="0787b04" ed="T"/>
+<lb n="0787b05" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh">吽</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5C1"/></cb:t><cb:t xml:lang="zh">發</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E046"/></cb:t><cb:t xml:lang="zh">吒</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0787019" resp="Taisho" place="foot text" type="orig">娑嚩＝沙縛【甲】，沙嚩【乙】</note><note n="0787019" resp="CBETA" type="mod">娑嚩＝沙縛【甲】，＝沙嚩【乙】</note><app n="0787019"><lem wit="【大】">娑嚩</lem><rdg resp="Taisho" wit="【甲】">沙縛</rdg><rdg resp="Taisho" wit="【乙】">沙嚩</rdg></app></cb:zi><cb:sg><note n="0787020" resp="Taisho" place="foot text" type="orig">〔二合引〕－【甲】【乙】【丙】</note><app n="0787020"><lem wit="【大】">二合引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>訶</cb:zi><cb:sg><note n="0787021" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】【乙】【丙】</note><app n="0787021"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0787b06" ed="T"/>
+<lb n="0787b07" ed="T"/><p xml:id="pT20p0787b0701">次說金剛地界𣐍印。</p>
+<lb n="0787b08" ed="T"/><lg xml:id="lgT20p0787b0801"><l>定手方願度</l><l>雙入戒忍間</l>
+<lb n="0787b09" ed="T"/><l>方<note n="0787022" resp="Taisho" place="foot text" type="orig">㧙＝祕【甲】【乙】【丙】</note><app n="0787022"><lem wit="【大】">㧙</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">祕</rdg></app>絞戒後</l><l>入於檀戒<note n="0787023" resp="Taisho" place="foot text" type="orig">間＝門【甲】</note><app n="0787023"><lem wit="【大】">間</lem><rdg resp="Taisho" wit="【甲】">門</rdg></app></l>
+<lb n="0787b10" ed="T"/><l>願絞入忍進</l><l>檀慧與進力</l>
+<lb n="0787b11" ed="T"/><l>禪智各相合</l><l>三旋下<note n="0787024" resp="Taisho" place="foot text" type="orig">釘＝丁【甲】【乙】【丙】</note><app n="0787024"><lem wit="【大】">釘</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">丁</rdg></app>之</l>
+<lb n="0787b12" ed="T"/><l>即念真言曰</l></lg>
+<lb n="0787b13" ed="T"/><p xml:id="pT20p0787b1301" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A442"/></cb:t><cb:t xml:lang="zh">枳</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64C"/></cb:t><cb:t xml:lang="zh">里</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><choice><corr><g ref="#SD-A442"/><g ref="#SD-A64C"/></corr><sic><g ref="#SD-D957"/></sic></choice></cb:t><cb:t xml:lang="zh">枳里</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>日<app type="star" corresp="#0786027"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BF"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>日<note n="0787025" resp="Taisho" place="foot text" type="orig">里＝哩【甲】</note><app n="0787025"><lem wit="【大】">里</lem><rdg resp="Taisho" wit="【甲】">哩</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0787b14" ed="T"/>
+<lb n="0787b15" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5DE"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>步</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">𠷈</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh"><note n="0787026" resp="Taisho" place="foot text" type="orig">滿＋（二合）夾註【丙】</note><app n="0787026"><lem wit="【大】">滿</lem><rdg resp="Taisho" wit="【丙】">滿<note place="inline">二合</note></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA7A"/></cb:t><cb:t xml:lang="zh">馱</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">滿</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA7A"/></cb:t><cb:t xml:lang="zh">馱</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC1"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>吽</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5C1"/></cb:t><cb:t xml:lang="zh">發</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E046"/></cb:t><cb:t xml:lang="zh">吒</cb:t></cb:tt></p>
+<lb n="0787b16" ed="T"/>
+<lb n="0787b17" ed="T"/><p xml:id="pT20p0787b1701">復說金剛<note n="0787027" resp="Taisho" place="foot text" type="orig">牆＝壚【丙】＊</note><app n="0787027"><lem wit="【大】">牆</lem><rdg resp="Taisho" wit="【丙】">壚</rdg></app>界印。</p>
+<lb n="0787b18" ed="T"/><lg xml:id="lgT20p0787b1801"><l>準前地界<note n="0787028" resp="Taisho" place="foot text" type="orig">印＝契【甲】【乙】【丙】</note><app n="0787028"><lem wit="【大】">印</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">契</rdg></app></l><l><note n="0787029" resp="Taisho" place="foot text" type="orig">㰅＝<g ref="#CB14325"/>ィ【丙】</note><app n="0787029"><lem wit="【大】">㰅</lem><rdg resp="Taisho" wit="【丙】" type="variantRemark"><g ref="#CB14325"/></rdg></app>開禪智竪</l>
+<lb n="0787b19" ed="T"/><l>右旋如<note n="0787030" resp="Taisho" place="foot text" type="orig">牆＝<g ref="#CB14331"/>【丙】</note><app n="0787030"><lem wit="【大】">牆</lem><rdg resp="Taisho" wit="【丙】"><g ref="#CB14331"/></rdg></app>院</l><l>隨誦而轉之</l>
+<lb n="0787b20" ed="T"/><l>心想金剛牆</l><l>念彼真言曰</l></lg>
+<lb n="0787b21" ed="T"/><p xml:id="pT20p0787b2101" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">薩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><choice><corr><g ref="#SD-A67A"/><g ref="#SD-A5FD"/></corr><sic><g ref="#SD-D957"/></sic></choice></cb:t><cb:t xml:lang="zh">薩羅</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>日囉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AABC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>鉢羅</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh">迦</cb:t></cb:tt>
+<lb n="0787b22" ed="T"/>
+<lb n="0787b23" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FE"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>羅</cb:zi><cb:sg><note n="0787031" resp="Taisho" place="foot text" type="orig">引吽＝吽引【甲】【乙】【丙】</note>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh">吽</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5C1"/></cb:t><cb:t xml:lang="zh">發</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E046"/></cb:t><cb:t xml:lang="zh">吒</cb:t></cb:tt></p>
+<lb n="0787b24" ed="T"/>
+<lb n="0787b25" ed="T"/><lg xml:id="lgT20p0787b2501"><l>復次虛空藏</l><l>十度外相交</l>
+<lb n="0787b26" ed="T"/><l>進力蹙如寶</l><l>想成妙樓閣</l>
+<lb n="0787b27" ed="T"/><l>上有大蓮華</l><l>諦心觀本尊</l>
+<lb n="0787b28" ed="T"/><l>住於寶帳中</l><l>周匝幢幡蓋</l>
+<lb n="0787b29" ed="T"/><l>天衣香雲海</l><l>遍滿於虛空</l>
+<pb n="0787c" xml:id="T20.1184.0787c" ed="T"/>
+<lb n="0787c01" ed="T"/><l>眷屬中圍繞</l><l>念<note n="0787032" resp="Taisho" place="foot text" type="orig">彼＝是【甲】【乙】【丙】</note><app n="0787032"><lem wit="【大】">彼</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">是</rdg></app>真言曰</l></lg>
+<lb n="0787c02" ed="T"/><p xml:id="pT20p0787c0201" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg><note n="0787033" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】＊</note><app n="0787033"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh"><note n="0787034" resp="Taisho" place="foot text" type="orig">誐誐＝哦哦【甲】</note>誐</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">誐</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5DA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>婆</cb:zi><cb:sg>去引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh"><note n="0787035" resp="Taisho" place="foot text" type="orig">嚩＝縛【丙】＊</note><app n="0787035"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【丙】">縛</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><app type="star" corresp="#0787035"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【丙】">縛</rdg></app></cb:zi><cb:sg type="fangie">無撥反</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0787c03" ed="T"/>
+<lb n="0787c04" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>日<app type="star" corresp="#0786027"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:zi><cb:sg><note n="0787036" resp="Taisho" place="foot text" type="orig">〔二合〕－【甲】</note><app n="0787036"><lem wit="【大】">二合</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E05F"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>斛</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0787c05" ed="T"/>
+<lb n="0787c06" ed="T"/><lg xml:id="lgT20p0787c0601"><l>次結車輅印</l><l>定慧<note n="0787037" resp="Taisho" place="foot text" type="orig">仰＝柳【丙】</note><app n="0787037"><lem wit="【大】">仰</lem><rdg resp="Taisho" wit="【丙】">柳</rdg></app>相叉</l>
+<lb n="0787c07" ed="T"/><l>以右押於左</l><l>禪智捻進力</l>
+<lb n="0787c08" ed="T"/><l>最下第一文</l><l>旋轉送向前</l>
+<lb n="0787c09" ed="T"/><l>想成寶車輅</l><l>念彼真言曰</l></lg>
+<lb n="0787c10" ed="T"/><p xml:id="pT20p0787c1001" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg><app type="star" corresp="#0787033"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A55B"/></cb:t><cb:t xml:lang="zh">覩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A642"/></cb:t><cb:t xml:lang="zh">嚕</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><choice><corr><g ref="#SD-A55B"/><g ref="#SD-A642"/></corr><sic><g ref="#SD-D957"/></sic></choice></cb:t><cb:t xml:lang="zh">覩嚕</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC1"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>吽</cb:zi><cb:sg><note n="0787038" resp="Taisho" place="foot text" type="orig">〔引〕－【丙】</note><app n="0787038"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0787c11" ed="T"/>
+<lb n="0787c12" ed="T"/><lg xml:id="lgT20p0787c1201"><l>三遍或七遍</l><l>運想迎本尊</l>
+<lb n="0787c13" ed="T"/><l>不解此前印</l><l>移禪智度端</l>
+<lb n="0787c14" ed="T"/><l>舉捻忍願頭</l><l><note n="0787039" resp="Taisho" place="foot text" type="orig">想尊乘車輅∞向裏三度撥【甲】【乙】【丙】</note><app n="0787039"><lem wit="【大】">想尊乘車輅</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">向裏三度撥</rdg></app></l>
+<lb n="0787c15" ed="T"/><l><note n="0787040" resp="Taisho" place="foot text" type="orig">想尊乘車輅∞向裏三度撥【甲】【乙】【丙】</note><app n="0787040"><lem wit="【大】">向裏三度撥</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">想尊乘車輅</rdg></app></l><l><note n="0787041" resp="Taisho" place="foot text" type="orig">徐＝<g ref="#CB04633"/>【丙】</note><app n="0787041"><lem wit="【大】">徐</lem><rdg resp="Taisho" wit="【丙】"><g ref="#CB04633"/></rdg></app>來降道場</l>
+<lb n="0787c16" ed="T"/><l>住於虛空中</l><l>待請而來入</l>
+<lb n="0787c17" ed="T"/><l>不違本誓願</l><l>念彼真言曰</l></lg>
+<lb n="0787c18" ed="T"/><p xml:id="pT20p0787c1801" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh">莫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17E"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>悉底哩野</cb:zi><cb:sg>四合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E240"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>地尾</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A441"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>迦</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B3"/></cb:t><cb:t xml:lang="zh">南</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">怛</cb:t></cb:tt>
+<lb n="0787c19" ed="T"/>
+<lb n="0787c20" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A564"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>他</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh"><note n="0787042" resp="Taisho" place="foot text" type="orig">蘖＝𦽆【乙】，薩【丙】</note><note n="0787042" resp="CBETA" type="mod">蘖＝𦽆【乙】，＝薩【丙】</note><app n="0787042"><lem wit="【大】">蘖</lem><rdg resp="Taisho" wit="【乙】">𦽆</rdg><rdg resp="Taisho" wit="【丙】">薩</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">跢</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>南</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline"><note n="0787043" resp="Taisho" place="foot text" type="orig">一＝上【甲】【乙】【丙】</note><app n="0787043"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">上</rdg></app></note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh">唵</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E07A"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>折<note n="0787044" resp="Taisho" place="foot text" type="orig">朗＝羅【丙】</note><app n="0787044"><lem wit="【大】">朗</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A45A"/></cb:t><cb:t xml:lang="zh">祇</cb:t></cb:tt>
+<lb n="0787c21" ed="T"/>
+<lb n="0787c22" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A849"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>儞也</cb:zi><cb:sg>二合<note n="0787045" resp="Taisho" place="foot text" type="orig">〔引〕－【丙】</note><app n="0787045"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC6"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>阿</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh">揭</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B7BB"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>羅灑</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh">野</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0787c23" ed="T"/>
+<lb n="0787c24" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0787c25" ed="T"/>
+<pb n="0788a" xml:id="T20.1184.0788a" ed="T"/>
+<lb n="0788a01" ed="T"/><lg xml:id="lgT20p0788a0101"><l>由此真言力</l><l>及結契相應</l>
+<lb n="0788a02" ed="T"/><l>能召於本尊</l><l>并及餘眷屬</l>
+<lb n="0788a03" ed="T"/><l>降臨道場所</l><l>施願與行人</l>
+<lb n="0788a04" ed="T"/><l>欲結車輅時</l><l>先當淨道路</l>
+<lb n="0788a05" ed="T"/><l>二手捧香爐</l><l>念<note n="0788001" resp="Taisho" place="foot text" type="orig">修＝彼【甲】【丙】</note><app n="0788001"><lem wit="【大】">修</lem><rdg resp="Taisho" wit="【甲】【丙】">彼</rdg></app>祕<app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>句</l>
+<lb n="0788a06" ed="T"/><l>淨治虛中路</l><l>後乃請聖尊</l>
+<lb n="0788a07" ed="T"/><l>想香至彼宮</l><l>念彼真言曰</l></lg>
+<lb n="0788a08" ed="T"/><p xml:id="pT20p0788a0801" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0BC"/></cb:t><cb:t xml:lang="zh">素</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67C"/></cb:t><cb:t xml:lang="zh">悉</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FB"/></cb:t><cb:t xml:lang="zh">地</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh">揭</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A640"/></cb:t><cb:t xml:lang="zh">哩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AEB8"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>入嚩</cb:zi><cb:sg><note n="0788002" resp="Taisho" place="foot text" type="orig">二合＝引【甲】＊</note><app n="0788002"><lem wit="【大】">二合</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64C"/></cb:t><cb:t xml:lang="zh"><note n="0788003" resp="Taisho" place="foot text" type="orig">理＝哩【甲】</note><app n="0788003"><lem wit="【大】">理</lem><rdg resp="Taisho" wit="【甲】">哩</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">哆</cb:t></cb:tt>
+<lb n="0788a09" ed="T"/>
+<lb n="0788a10" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">難</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5ED"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>慕</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A558"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>多</cb:zi><cb:sg>去</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F7"/></cb:t><cb:t xml:lang="zh">曳</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AEB8"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>入<app type="star" corresp="#0787035"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【丙】">縛</rdg></app></cb:zi><cb:sg><app type="star" corresp="#0788002"><lem wit="【大】">二合</lem><rdg resp="Taisho" wit="【甲】">引</rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64A"/></cb:t><cb:t xml:lang="zh">攞</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh"><note n="0788004" resp="Taisho" place="foot text" type="orig">〔滿駄…音〕十三字－【甲】【乙】，（滿駄…音）十三字＝（吽）一字細註【丙】</note>滿</cb:t></cb:tt>
+<lb n="0788a11" ed="T"/>
+<lb n="0788a12" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA7A"/></cb:t><cb:t xml:lang="zh">馱</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><choice><corr><g ref="#SD-A656"/><g ref="#SD-CA7A"/></corr><sic><g ref="#SD-D957"/></sic></choice></cb:t><cb:t xml:lang="zh">滿馱</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A8"/></cb:t><cb:t xml:lang="zh">賀</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">喃</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A8"/></cb:t><cb:t xml:lang="zh">賀</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">喃</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh">吽</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5C1"/></cb:t><cb:t xml:lang="zh">發</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E046"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>吒</cb:zi><cb:sg>半音</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0788a13" ed="T"/>
+<lb n="0788a14" ed="T"/><lg xml:id="lgT20p0788a1401"><l>若作此妙法</l><l>其空中關籥</l>
+<lb n="0788a15" ed="T"/><l>悉皆自開解</l><l>亦成<note n="0788005" resp="Taisho" place="foot text" type="orig">辟＝<g ref="#CB04274"/>【甲】【乙】【丙】</note><app n="0788005"><lem wit="【大】">辟</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><g ref="#CB04274"/></rdg></app>除障</l>
+<lb n="0788a16" ed="T"/><l>乃至清淨等</l><l>及成警覺尊</l>
+<lb n="0788a17" ed="T"/><l>眷屬并親近</l><l>次先作奉請</l>
+<lb n="0788a18" ed="T"/><l>印契誦後明</l><l>召集諸聖賢</l>
+<lb n="0788a19" ed="T"/><l>入曼荼羅內</l><l><note n="0788006" resp="Taisho" place="foot text" type="orig">請＝誦【甲】【乙】【丙】</note><app n="0788006"><lem wit="【大】">請</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">誦</rdg></app>召真言曰</l></lg>
+<lb n="0788a20" ed="T"/><p xml:id="pT20p0788a2001" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFCF"/></cb:t><cb:t xml:lang="zh">曀</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0AF"/></cb:t><cb:t xml:lang="zh">醯曳</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AA"/></cb:t><cb:t xml:lang="zh">呬</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5DA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>婆</cb:zi><cb:sg>去</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">誐</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A660"/></cb:t><cb:t xml:lang="zh">鑁</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5AF"/></cb:t><cb:t xml:lang="zh">寧</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A8"/></cb:t><cb:t xml:lang="zh">賀</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A8"/></cb:t><cb:t xml:lang="zh">薄</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E04D"/></cb:t><cb:t xml:lang="zh">訖底</cb:t></cb:tt>
+<lb n="0788a21" ed="T"/>
+<lb n="0788a22" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh"><note n="0788007" resp="Taisho" place="foot text" type="orig">也＋（二合）細註【甲】【乙】【丙】</note><app n="0788007"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">也<note place="inline">二合</note></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">麼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F7"/></cb:t><cb:t xml:lang="zh">曳</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh"><note n="0788008" resp="Taisho" place="foot text" type="orig">囊＝索【丙】</note><app n="0788008"><lem wit="【大】">囊</lem><rdg resp="Taisho" wit="【丙】">索</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47C"/></cb:t><cb:t xml:lang="zh">者</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh">閼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A46E"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>羅健</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47C"/></cb:t><cb:t xml:lang="zh">者</cb:t></cb:tt>
+<lb n="0788a23" ed="T"/>
+<lb n="0788a24" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A6"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B5"/></cb:t><cb:t xml:lang="zh">鉢</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><note n="0788009" resp="Taisho" place="foot text" type="orig">羅＋（二合）細註【甲】【乙】【丙】</note><app n="0788009"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">羅<note place="inline">二合</note></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A559"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>底</cb:zi><cb:sg type="fangie">丁以反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4BC"/></cb:t><cb:t xml:lang="zh">誓</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A7"/></cb:t><cb:t xml:lang="zh">曇</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B9"/></cb:t><cb:t xml:lang="zh">布</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47C"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>遮</cb:zi><cb:sg type="fangie">茲以反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B9"/></cb:t><cb:t xml:lang="zh">奔</cb:t></cb:tt>
+<lb n="0788a25" ed="T"/>
+<lb n="0788a26" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E044"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>儞也</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AABC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>鉢羅</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67C"/></cb:t><cb:t xml:lang="zh">枲</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A56F"/></cb:t><cb:t xml:lang="zh">娜</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5EB"/></cb:t><cb:t xml:lang="zh">咩</cb:t></cb:tt></p>
+<lb n="0788a27" ed="T"/>
+<lb n="0788a28" ed="T"/><lg xml:id="lgT20p0788a2801"><l>或三或七遍</l><l>召請入道場</l>
+<lb n="0788a29" ed="T"/><l>殷勤陳所請</l>
+<pb n="0788b" xml:id="T20.1184.0788b" ed="T"/>
+<lb n="0788b01" ed="T"/><l>復請妙吉祥</l><l><app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>迹金剛主</l>
+<lb n="0788b02" ed="T"/><l>定慧合蓮<note n="0788010" resp="Taisho" place="foot text" type="orig">掌＝花【丙】</note><app n="0788010"><lem wit="【大】">掌</lem><rdg resp="Taisho" wit="【丙】">花</rdg></app></l><l>二火絞水輪</l>
+<lb n="0788b03" ed="T"/><l>峯端捻甲背</l><l>二風屈相<note n="0788011" resp="Taisho" place="foot text" type="orig">拄＝跓【甲】【乙】【丙】</note><app n="0788011"><lem wit="【大】">拄</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">跓</rdg></app></l>
+<lb n="0788b04" ed="T"/><l>二空並竪之</l><l>風橫押空峯</l>
+<lb n="0788b05" ed="T"/><l>誦<app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>言三召</l></lg>
+<lb n="0788b06" ed="T"/><p xml:id="pT20p0788b0601" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh">莫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh"><note n="0788012" resp="Taisho" place="foot text" type="orig">曼＝滿【丙】</note><app n="0788012"><lem wit="【大】">曼</lem><rdg resp="Taisho" wit="【丙】">滿</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh">沒</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>南</cb:zi><cb:sg>上引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt>
+<lb n="0788b07" ed="T"/>
+<lb n="0788b08" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A444"/></cb:t><cb:t xml:lang="zh">俱</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh"><note n="0788013" resp="Taisho" place="foot text" type="orig">摩＝麼【甲】【乙】【丙】</note><app n="0788013"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">麼</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh">迦</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A658"/></cb:t><cb:t xml:lang="zh">尾</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E043"/></cb:t><cb:t xml:lang="zh">目</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E04D"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>訖底</cb:zi><cb:sg type="fangie"><note n="0788014" resp="Taisho" place="foot text" type="orig">〔丁以反〕－【丙】</note><app n="0788014"><lem wit="【大】">丁以反</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B5"/></cb:t><cb:t xml:lang="zh">鉢</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A564"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>佗</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0788b09" ed="T"/>
+<lb n="0788b10" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDB7"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>悉體</cb:zi><cb:sg>二合</cb:sg><cb:sg type="fangie">佗以反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2CC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑麼</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2CC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>沙麼</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅</cb:t></cb:tt>
+<lb n="0788b11" ed="T"/>
+<lb n="0788b12" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AABC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0788015" resp="Taisho" place="foot text" type="orig">鉢＋（二合）夾註【丙】</note><app n="0788015"><lem wit="【大】">鉢</lem><rdg resp="Taisho" wit="【丙】">鉢<note place="inline">二合</note></rdg></app>羅</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A559"/></cb:t><cb:t xml:lang="zh">底</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1CD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>枳然</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg><note n="0788016" resp="Taisho" place="foot text" type="orig">〔二合引〕－【丙】</note><app n="0788016"><lem wit="【大】">二合<note n="0788017" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】【乙】</note><app n="0788017"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app></lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg><note n="0788018" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】【乙】【丙】＊</note><app n="0788018"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0788b13" ed="T"/>
+<lb n="0788b14" ed="T"/><lg xml:id="lgT20p0788b1401"><l>復次部明王</l><l>辟除諸障者</l>
+<lb n="0788b15" ed="T"/><l>定慧合蓮掌</l><l>水風並下垂</l>
+<lb n="0788b16" ed="T"/><l>俱入滿月間</l><l>空並離風節</l>
+<lb n="0788b17" ed="T"/><l>當心誦明句</l><l>七遍舉額<note n="0788019" resp="Taisho" place="foot text" type="orig">齊＝劑【丙】</note><app n="0788019"><lem wit="【大】">齊</lem><rdg resp="Taisho" wit="【丙】">劑</rdg></app></l>
+<lb n="0788b18" ed="T"/><l>左轉為辟除</l><l>右旋成結界</l>
+<lb n="0788b19" ed="T"/><l>一切作障者</l><l>馳散無有<note n="0788020" resp="Taisho" place="foot text" type="orig">礙＝疑【甲】</note><app n="0788020"><lem wit="【大】">礙</lem><rdg resp="Taisho" wit="【甲】">疑</rdg></app></l>
+<lb n="0788b20" ed="T"/><l>威光如劫火</l><l>忿怒大恐怖</l>
+<lb n="0788b21" ed="T"/><l>三面現六臂</l><l>操持<note n="0788021" resp="Taisho" place="foot text" type="orig">鉞棓＝越棒【甲】【乙】【丙】</note><app n="0788021"><lem wit="【大】">鉞棓</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">越棒</rdg></app>瓶</l>
+<lb n="0788b22" ed="T"/><l>蓮華及數珠</l><l>念彼真言曰</l></lg>
+<lb n="0788b23" ed="T"/><p xml:id="pT20p0788b2301" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0C1"/></cb:t><cb:t xml:lang="zh">度</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0C1"/></cb:t><cb:t xml:lang="zh">度</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩<note place="inline">二</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">麼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A563"/></cb:t><cb:t xml:lang="zh"><note n="0788022" resp="Taisho" place="foot text" type="orig">佗＋（三）夾註【丙】</note><app n="0788022"><lem wit="【大】">佗</lem><rdg resp="Taisho" wit="【丙】">佗<note place="inline">三</note></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">麼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A563"/></cb:t><cb:t xml:lang="zh">佗<note n="0788023" resp="Taisho" place="foot text" type="orig">〔三〕－【丙】</note><app n="0788023"><lem wit="【大】"><note place="inline">三</note></lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:t></cb:tt>
+<lb n="0788b24" ed="T"/>
+<lb n="0788b25" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A8"/></cb:t><cb:t xml:lang="zh">訶</cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A8"/></cb:t><cb:t xml:lang="zh">訶</cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩<note place="inline">四</note></cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A8"/></cb:t><cb:t xml:lang="zh">賀</cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh">野</cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A962"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>儗<note n="0788024" resp="Taisho" place="foot text" type="orig">里＝哩【甲】【乙】【丙】</note><app n="0788024"><lem wit="【大】">里</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">哩</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0788025" resp="Taisho" place="foot text" type="orig">縛＝嚩【甲】</note><app n="0788025"><lem wit="【大】">縛</lem><rdg resp="Taisho" wit="【甲】">嚩</rdg></app></cb:zi><cb:sg type="fangie">無可反</cb:sg></cb:yin><note place="inline"><note n="0788026" resp="Taisho" place="foot text" type="orig">〔五〕－【丙】</note><app n="0788026"><lem wit="【大】">五</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></note></cb:t></cb:tt>
+<lb n="0788b26" ed="T"/>
+<lb n="0788b27" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>吽</cb:zi><cb:sg><note n="0788027" resp="Taisho" place="foot text" type="orig">〔引〕－【丙】</note><app n="0788027"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5C1"/></cb:t><cb:t xml:lang="zh">發</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E046"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>吒</cb:zi><cb:sg><note n="0788028" resp="Taisho" place="foot text" type="orig">〔半音〕－【丙】</note><app n="0788028"><lem wit="【大】">半音</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0788b28" ed="T"/>
+<lb n="0788b29" ed="T"/><p xml:id="pT20p0788b2901">又心明曰。</p>
+<pb n="0788c" xml:id="T20.1184.0788c" ed="T"/>
+<lb n="0788c01" ed="T"/><p xml:id="pT20p0788c0101" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>阿</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CC48"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>㗚</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A55F"/></cb:t><cb:t xml:lang="zh">覩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CE4A"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>納婆</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0788029" resp="Taisho" place="foot text" type="orig">吽＝𤙖【丙】</note><app n="0788029"><lem wit="【大】">吽</lem><rdg resp="Taisho" wit="【丙】">𤙖</rdg></app></cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0788c02" ed="T"/>
+<lb n="0788c03" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5C1"/></cb:t><cb:t xml:lang="zh">發</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E046"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>吒</cb:zi><cb:sg><note n="0788030" resp="Taisho" place="foot text" type="orig">半＝羊【丙】</note><app n="0788030"><lem wit="【大】">半</lem><rdg resp="Taisho" wit="【丙】">羊</rdg></app>音呼</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0788c04" ed="T"/>
+<lb n="0788c05" ed="T"/><lg xml:id="lgT20p0788c0501"><l>由是真言故</l><l>及以印加持</l>
+<lb n="0788c06" ed="T"/><l>能令諸障除</l><l><note n="0788031" resp="Taisho" place="foot text" type="orig">行＝幸【丙】</note><app n="0788031"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【丙】">幸</rdg></app>人少施功</l>
+<lb n="0788c07" ed="T"/><l>速獲得成就</l>
+<lb n="0788c08" ed="T"/><l>復次結上界</l><l>金剛網羅契</l>
+<lb n="0788c09" ed="T"/><l>如前牆印相</l><l>開空捻風根</l>
+<lb n="0788c10" ed="T"/><l>頂平上覆安</l><l>念密加七<note n="0788032" resp="Taisho" place="foot text" type="orig">遍＝返【丙】</note><app n="0788032"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【丙】">返</rdg></app></l>
+<lb n="0788c11" ed="T"/><l>隨<note n="0788033" resp="Taisho" place="foot text" type="orig">誦＝請【甲】</note><app n="0788033"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】">請</rdg></app>右旋轉</l><l>三匝應<note n="0788034" resp="Taisho" place="foot text" type="orig">明＝舞ヵ【原】</note><app n="0788034"><lem resp="Taisho" wit="【大】">明</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">舞</rdg></app>儀</l>
+<lb n="0788c12" ed="T"/><l>散分向下垂</l><l>想網<note n="0788035" resp="Taisho" place="foot text" type="orig">彌＝<g ref="#CB02755"/>【甲】，弭【乙】【丙】</note><note n="0788035" resp="CBETA" type="mod">彌＝<g ref="#CB02755"/>【甲】，＝弭【乙】【丙】</note><app n="0788035"><lem wit="【大】">彌</lem><rdg resp="Taisho" wit="【甲】"><g ref="#CB02755"/></rdg><rdg resp="Taisho" wit="【乙】【丙】">弭</rdg></app>覆界</l>
+<lb n="0788c13" ed="T"/><l><app type="star" corresp="#0787027"><lem wit="【大】">牆</lem><rdg resp="Taisho" wit="【丙】">壚</rdg></app>外至於地</l><l>一切不能穿</l>
+<lb n="0788c14" ed="T"/><l>觀成如金剛</l><l>念彼真言曰</l></lg>
+<lb n="0788c15" ed="T"/><p xml:id="pT20p0788c1501" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A658"/></cb:t><cb:t xml:lang="zh">尾</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDF5"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑普</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><note n="0788036" resp="Taisho" place="foot text" type="orig">羅＝囉【甲】＊</note><app n="0788036"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】">囉</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AA76"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>捺<app type="star" corresp="#0788036"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】">囉</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6B4"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>乞叉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0788c16" ed="T"/>
+<lb n="0788c17" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>折羅</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5BF"/></cb:t><cb:t xml:lang="zh">半</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4B6"/></cb:t><cb:t xml:lang="zh">惹</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>𤙖</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5C1"/></cb:t><cb:t xml:lang="zh">發</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E046"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>吒</cb:zi><cb:sg>半音</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0788c18" ed="T"/>
+<lb n="0788c19" ed="T"/><lg xml:id="lgT20p0788c1901"><l><note n="0788037" resp="Taisho" place="foot text" type="orig">原本冠註曰此章若脫印相乎</note>復次火院印</l><l><app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>縫焰暉光</l>
+<lb n="0788c20" ed="T"/><l>周匝網外圍</l><l>赫奕劫火熾</l>
+<lb n="0788c21" ed="T"/><l>如風右旋繞</l><l>怖畏諸惡魔</l>
+<lb n="0788c22" ed="T"/><l>一切設覩嚕</l><l>無能為惱害</l>
+<lb n="0788c23" ed="T"/><l>行人堅住觀</l><l><note n="0788038" resp="Taisho" place="foot text" type="orig">念彼＝彼念【丙】</note><app n="0788038"><lem wit="【大】">念彼</lem><rdg resp="Taisho" wit="【丙】">彼念</rdg></app>真言曰</l></lg>
+<lb n="0788c24" ed="T"/><p xml:id="pT20p0788c2401" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh">阿</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E6"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>莽</cb:zi><cb:sg><note n="0788039" resp="Taisho" place="foot text" type="orig">〔引去〕－【丙】</note><app n="0788039"><lem wit="【大】">引去</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B34B"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>儗儞</cb:zi><cb:sg><note n="0788040" resp="Taisho" place="foot text" type="orig">〔二合〕－【甲】【乙】【丙】</note><app n="0788040"><lem wit="【大】">二合</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A8"/></cb:t><cb:t xml:lang="zh">訶</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>吽</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0788c25" ed="T"/>
+<lb n="0788c26" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5C1"/></cb:t><cb:t xml:lang="zh">發</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E046"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>吒</cb:zi><cb:sg>半音呼</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0788c27" ed="T"/>
+<lb n="0788c28" ed="T"/><lg xml:id="lgT20p0788c2801"><l>三遍或七遍</l><l>諦想作加持</l>
+<lb n="0788c29" ed="T"/><l>觀<note n="0788041" resp="Taisho" place="foot text" type="orig">中光＝火光ヵ【原】</note><app n="0788041"><lem resp="Taisho" wit="【大】">中光</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">火光</rdg></app>焰暉</l><l>然後而旋轉</l>
+<pb n="0789a" xml:id="T20.1184.0789a" ed="T"/>
+<lb n="0789a01" ed="T"/><l><note n="0789001" resp="Taisho" place="foot text" type="orig">動＝洞ヵ【原】</note><app n="0789001"><lem resp="Taisho" wit="【大】">動</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">洞</rdg></app>然焰輝赫</l><l>令法無不成</l>
+<lb n="0789a02" ed="T"/><l><note n="0789002" resp="Taisho" place="foot text" type="orig">後＝復【甲】【乙】【丙】</note><app n="0789002"><lem wit="【大】">後</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">復</rdg></app>明獻閼伽</l><l>定慧並仰開</l>
+<lb n="0789a03" ed="T"/><l>地水火合峯</l><l>風屈如商佉</l>
+<lb n="0789a04" ed="T"/><l>二空捻風下</l><l>想成眾寶池</l>
+<lb n="0789a05" ed="T"/><l>清徹底金沙</l><l>念彼真言曰</l></lg>
+<lb n="0789a06" ed="T"/><p xml:id="pT20p0789a0601" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh">莫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">曼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>勃</cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>南</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">誐</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">誐</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt>
+<lb n="0789a07" ed="T"/>
+<lb n="0789a08" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E6"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0789003" resp="Taisho" place="foot text" type="orig">摩＝麼【甲】＊</note><app n="0789003"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】">麼</rdg></app></cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><app type="star" corresp="#0789003"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】">麼</rdg></app></cb:zi><cb:sg>上</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合<app type="star" corresp="#0788018"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg><app type="star" corresp="#0788018"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0789a09" ed="T"/>
+<lb n="0789a10" ed="T"/><lg xml:id="lgT20p0789a1001"><l>三<note n="0789004" resp="Taisho" place="foot text" type="orig">遍＝返【丙】＊</note><app n="0789004"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【丙】">返</rdg></app>或七<app type="star" corresp="#0789004"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【丙】">返</rdg></app></l><l>心想寶池中</l>
+<lb n="0789a11" ed="T"/><l>蓮華<note n="0789005" resp="Taisho" place="foot text" type="orig">菡＝莟【甲】【乙】【丙】</note><app n="0789005"><lem wit="【大】">菡</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">莟</rdg></app>萏開</l><l>遍浴諸聖眾</l>
+<lb n="0789a12" ed="T"/><l>先浴本尊足</l><l>次浴諸<note n="0789006" resp="Taisho" place="foot text" type="orig">賢聖＝聖賢【丙】</note><app n="0789006"><lem wit="【大】">賢聖</lem><rdg resp="Taisho" wit="【丙】">聖賢</rdg></app></l>
+<lb n="0789a13" ed="T"/><l>又浴眾聖天</l><l>令我根塵淨</l>
+<lb n="0789a14" ed="T"/><l>復次師子坐</l><l>其契如後明</l>
+<lb n="0789a15" ed="T"/><l>定慧地水交</l><l>相叉入掌內</l>
+<lb n="0789a16" ed="T"/><l>二火合峯竪</l><l>風屈捻二空</l>
+<lb n="0789a17" ed="T"/><l>空並仰前出</l><l>由如師子勢</l>
+<lb n="0789a18" ed="T"/><l>想上有蓮華</l><l>念彼真言曰</l></lg>
+<lb n="0789a19" ed="T"/><p xml:id="pT20p0789a1901" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg><note n="0789007" resp="Taisho" place="foot text" type="orig">引＋（一）【丙】</note><app n="0789007"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】">引一</rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh">阿</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47C"/></cb:t><cb:t xml:lang="zh">佐</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64A"/></cb:t><cb:t xml:lang="zh"><note n="0789008" resp="Taisho" place="foot text" type="orig">攞＝欏【丙】</note><app n="0789008"><lem wit="【大】">攞</lem><rdg resp="Taisho" wit="【丙】">欏</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A658"/></cb:t><cb:t xml:lang="zh">尾</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><app type="star" corresp="#0788036"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】">囉</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh">野</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E17C"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>𤙖</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0789a20" ed="T"/>
+<lb n="0789a21" ed="T"/><lg xml:id="lgT20p0789a2101"><l>次陳普供養</l><l>十度金剛合</l>
+<lb n="0789a22" ed="T"/><l>二風如寶形</l><l>塗香華食燈</l>
+<lb n="0789a23" ed="T"/><l>運想如雲海</l><l>幢幡眾<note n="0789009" resp="Taisho" place="foot text" type="orig">妓＝伎【甲】</note><app n="0789009"><lem wit="【大】">妓</lem><rdg resp="Taisho" wit="【甲】">伎</rdg></app>樂</l>
+<lb n="0789a24" ed="T"/><l>華蓋妙天衣</l><l>流散遍虛空</l>
+<lb n="0789a25" ed="T"/><l>供養增福聚</l><l>念是真言句</l>
+<lb n="0789a26" ed="T"/><l>而以獻諸尊</l><l>供養真言曰</l></lg>
+<lb n="0789a27" ed="T"/><p xml:id="pT20p0789a2701" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh">莫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">曼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh"><note n="0789010" resp="Taisho" place="foot text" type="orig">多＋（引）夾註【甲】【乙】【丙】</note><app n="0789010"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">多<note place="inline">引</note></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh">勃</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>喃</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline"><note n="0789011" resp="Taisho" place="foot text" type="orig">〔一〕－【丙】＊</note><app n="0789011"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg><note n="0789012" resp="Taisho" place="foot text" type="orig">〔引〕－【丙】＊</note><app n="0789012"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0789a28" ed="T"/>
+<lb n="0789b01" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">薩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B7A3"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>羅<note n="0789013" resp="Taisho" place="foot text" type="orig">縛＝嚩【丙】＊</note><app n="0789013"><lem wit="【大】">縛</lem><rdg resp="Taisho" wit="【丙】">嚩</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A564"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>佗</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A456"/></cb:t><cb:t xml:lang="zh">欠</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D1F3"/></cb:t><cb:t xml:lang="zh">溫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CCAA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娜<note n="0789014" resp="Taisho" place="foot text" type="orig"><g ref="#CB00754"/>＝薜【丙】</note><note n="0789014" resp="CBETA" type="mod"><choice cb:resp="CBETA.maha"><corr>蘖</corr><sic><g ref="#CB00754"/></sic></choice>＝薜【丙】</note><app n="0789014"><lem wit="【大】">蘖</lem><rdg resp="Taisho" wit="【丙】">薜</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A55D"/></cb:t><cb:t xml:lang="zh">帝</cb:t></cb:tt>
+<lb n="0789b02" ed="T"/>
+<lb n="0789b03" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDF1"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑頗</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AA"/></cb:t><cb:t xml:lang="zh">呬</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5EF"/></cb:t><cb:t xml:lang="zh"><note n="0789015" resp="Taisho" place="foot text" type="orig">𤚥＝𤜁【乙】</note><app n="0789015"><lem wit="【大】">𤚥</lem><rdg resp="Taisho" wit="【乙】">𤜁</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">誐</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">誐</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A44A"/></cb:t><cb:t xml:lang="zh"><note n="0789016" resp="Taisho" place="foot text" type="orig">劍＝釰【甲】【乙】【丙】</note><app n="0789016"><lem wit="【大】">劍</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">釰</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑<note n="0789017" resp="Taisho" place="foot text" type="orig">嚩＝婆【甲】</note><app n="0789017"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【甲】">婆</rdg></app></cb:zi><cb:sg>二合<note n="0789018" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】</note><app n="0789018"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0789b04" ed="T"/>
+<lb n="0789b05" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>訶</cb:zi><cb:sg><app type="star" corresp="#0789012"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0789b06" ed="T"/>
+<lb n="0789b07" ed="T"/><lg xml:id="lgT20p0789b0701"><l>由此供養故</l><l>當獲無等利</l>
+<lb n="0789b08" ed="T"/><l>能成眾事業</l><l>資糧從是生</l>
+<lb n="0789b09" ed="T"/><l>復次明讚歎</l><l>不解前印契</l>
+<lb n="0789b10" ed="T"/><l>改寶而交合</l><l>梵音誦讚<note n="0789019" resp="Taisho" place="foot text" type="orig">言＝曰【甲】【乙】【丙】</note><app n="0789019"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">曰</rdg></app></l>
+<lb n="0789b11" ed="T"/><l><note n="0789020" resp="Taisho" place="foot text" type="orig">〔令眾聖歡喜〕－【甲】</note><app n="0789020"><lem wit="【大】">令眾聖歡喜</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></l><l>念是<app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>言曰</l></lg>
+<lb n="0789b12" ed="T"/><p xml:id="pT20p0789b1201" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0789021" resp="Taisho" place="foot text" type="orig">〔唵引〕－【甲】【乙】【丙】</note><note n="0789021" resp="CBETA" type="mod"><!--CBETA todo type: a-->〔唵引〕－【甲】【乙】【丙】</note>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>日囉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A559"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>底</cb:zi><cb:sg type="fangie">丁以反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E075"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>乞儭拏</cb:zi><cb:sg><note n="0789022" resp="Taisho" place="foot text" type="orig">三＝二【丙】</note><app n="0789022"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【丙】">二</rdg></app>合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">摩</cb:t></cb:tt>
+<lb n="0789b13" ed="T"/>
+<lb n="0789b14" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>夜</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩<note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh"><app type="star" corresp="#0789013"><lem wit="【大】">縛</lem><rdg resp="Taisho" wit="【丙】">嚩</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>日囉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A448"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>句</cb:zi><cb:sg><note n="0789023" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】</note><app n="0789023"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A662"/></cb:t><cb:t xml:lang="zh">舍</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh"><app type="star" corresp="#0789003"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】">麼</rdg></app></cb:t></cb:tt>
+<lb n="0789b15" ed="T"/>
+<lb n="0789b16" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh"><note n="0789024" resp="Taisho" place="foot text" type="orig">庾＝度【丙】</note><app n="0789024"><lem wit="【大】">庾</lem><rdg resp="Taisho" wit="【丙】">度</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A57C"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline">二</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5EF"/></cb:t><cb:t xml:lang="zh">曼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A4BE"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>祖</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AB60"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>室<note n="0789025" resp="Taisho" place="foot text" type="orig">唎＝利【甲】【乙】【丙】</note><app n="0789025"><lem wit="【大】">唎</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">利</rdg></app></cb:zi><cb:sg>二合引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt>
+<lb n="0789b17" ed="T"/>
+<lb n="0789b18" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>日囉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">儼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CACF"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>鼻</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B769"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0789026" resp="Taisho" place="foot text" type="orig">利＝唎【甲】【乙】【丙】</note><app n="0789026"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">唎</rdg></app>野</cb:zi><cb:sg>二合</cb:sg></cb:yin><note place="inline">三</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>日囉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0789b19" ed="T"/>
+<lb n="0789b20" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh">沒</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FC"/></cb:t><cb:t xml:lang="zh">弟</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5ED"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>謨</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDAD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>率<note n="0789027" resp="Taisho" place="foot text" type="orig">都＝覩【丙】</note><app n="0789027"><lem wit="【大】">都</lem><rdg resp="Taisho" wit="【丙】">覩</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A55D"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>帝</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline"><note n="0789028" resp="Taisho" place="foot text" type="orig">〔四〕－【丙】</note><app n="0789028"><lem wit="【大】">四</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></note></cb:t></cb:tt></p>
+<lb n="0789b21" ed="T"/>
+<lb n="0789b22" ed="T"/><p xml:id="pT20p0789b2201">又<note n="0789029" resp="Taisho" place="foot text" type="orig">〔復〕－【丙】</note><app n="0789029"><lem wit="【大】">復</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>有漢<note n="0789030" resp="Taisho" place="foot text" type="orig">語＝言【甲】【乙】【丙】</note><app n="0789030"><lem wit="【大】">語</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">言</rdg></app>大讚。</p>
+<lb n="0789b23" ed="T"/><lg xml:id="lgT20p0789b2301"><l>歸命密迹主</l><l>摧伏諸魔者</l>
+<lb n="0789b24" ed="T"/><l>童真法王子</l><l>具普賢眾行</l>
+<lb n="0789b25" ed="T"/><l>住是本有身</l><l>無始無終寂</l>
+<lb n="0789b26" ed="T"/><l>妙用施諸願</l><l>降怨害三毒</l>
+<lb n="0789b27" ed="T"/><l><note n="0789031" resp="Taisho" place="foot text" type="orig">原本冠註曰改劫故三字未詳</note>改劫故修行</l><l>而於三界中</l>
+<lb n="0789b28" ed="T"/><l>重說祕明教</l><l>為護有情類</l>
+<lb n="0789b29" ed="T"/><l>設大方便門</l><l>拯救諸含靈</l>
+<pb n="0789c" xml:id="T20.1184.0789c" ed="T"/>
+<lb n="0789c01" ed="T"/><l>令超生死輪</l><l>從凡入佛地</l>
+<lb n="0789c02" ed="T"/><l>行者作是語</l><l>讚詠於本尊</l>
+<lb n="0789c03" ed="T"/><l>至心誦三<app type="star" corresp="#0789004"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【丙】">返</rdg></app></l><l>令大聖歡喜</l>
+<lb n="0789c04" ed="T"/><l>行人所求願</l><l>一切速圓滿</l>
+<lb n="0789c05" ed="T"/><l>復次聖文殊</l><l>請召童子印</l>
+<lb n="0789c06" ed="T"/><l>慧手結為拳</l><l>舒風如鉤狀</l>
+<lb n="0789c07" ed="T"/><l>七遍而三召</l><l>即說真言曰</l></lg>
+<lb n="0789c08" ed="T"/><p xml:id="pT20p0789c0801" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh"><note n="0789032" resp="Taisho" place="foot text" type="orig">莫＋（入）夾註【丙】＊</note><app n="0789032"><lem wit="【大】">莫</lem><rdg resp="Taisho" wit="【丙】">莫<note place="inline">入</note></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh"><note n="0789033" resp="Taisho" place="foot text" type="orig">曼＝<g ref="#CB14314"/>【丙】</note><app n="0789033"><lem wit="【大】">曼</lem><rdg resp="Taisho" wit="【丙】"><g ref="#CB14314"/></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh">沒</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>南</cb:zi><cb:sg>上<note n="0789034" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】【乙】【丙】</note><app n="0789034"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC6"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>阿</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0789c09" ed="T"/>
+<lb n="0789c10" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A440"/></cb:t><cb:t xml:lang="zh">羯</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B7BB"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0789035" resp="Taisho" place="foot text" type="orig">囉＝羅【甲】【乙】【丙】＊</note><note n="0789035" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->囉＝羅【甲】【乙】【丙】＊</note><app n="0789035"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">羅</rdg></app>灑</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh">野<note n="0789036" resp="Taisho" place="foot text" type="orig">〔二〕－【丙】</note><app n="0789036"><lem wit="【大】"><note place="inline">二</note></lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">薩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AF63"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>鑁</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A444"/></cb:t><cb:t xml:lang="zh">矩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A642"/></cb:t><cb:t xml:lang="zh">嚕</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh"><note n="0789037" resp="Taisho" place="foot text" type="orig">〔阿枳〕－【丙】</note>阿</cb:t></cb:tt>
+<lb n="0789c11" ed="T"/>
+<lb n="0789c12" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1CD"/></cb:t><cb:t xml:lang="zh"><note n="0789038" resp="Taisho" place="foot text" type="orig">〔枳〕－【甲】【乙】</note><app n="0789038"><lem wit="【大】">枳</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>然<note n="0789039" resp="Taisho" place="foot text" type="orig">〔三〕－【丙】＊</note><app n="0789039"><lem wit="【大】"><note place="inline">三</note></lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A444"/></cb:t><cb:t xml:lang="zh">矩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E6"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>忙</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><note n="0789040" resp="Taisho" place="foot text" type="orig">羅＝囉【甲】，【丙】＊</note><app n="0789040"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】【丙】">囉</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A8E2"/></cb:t><cb:t xml:lang="zh">寫<note place="inline">四</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑<note n="0789041" resp="Taisho" place="foot text" type="orig">縛＝嚩【丙】</note><app n="0789041"><lem wit="【大】">縛</lem><rdg resp="Taisho" wit="【丙】">嚩</rdg></app></cb:zi><cb:sg>二合<note n="0789042" resp="Taisho" place="foot text" type="orig">〔引〕－【丙】＊</note><app n="0789042"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0789c13" ed="T"/>
+<lb n="0789c14" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0789c15" ed="T"/>
+<lb n="0789c16" ed="T"/><lg xml:id="lgT20p0789c1601"><l>復次計設尼</l><l>印相如後說</l>
+<lb n="0789c17" ed="T"/><l>智慧羽為拳</l><l>火風相合竪</l>
+<lb n="0789c18" ed="T"/><l>由同刀標相</l><l>念彼密言曰</l></lg>
+<lb n="0789c19" ed="T"/><p xml:id="pT20p0789c1901" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh">莫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">曼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh">沒</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>南</cb:zi><cb:sg>上引</cb:sg></cb:yin><note place="inline"><app type="star" corresp="#0789011"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A444"/></cb:t><cb:t xml:lang="zh">矩</cb:t></cb:tt>
+<lb n="0789c20" ed="T"/>
+<lb n="0789c21" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E6"/></cb:t><cb:t xml:lang="zh">忙</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A640"/></cb:t><cb:t xml:lang="zh"><g ref="#CB01233"/></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A446"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>計</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline">二</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A56F"/></cb:t><cb:t xml:lang="zh">娜</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh">耶</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0A4"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>枳壞</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B3"/></cb:t><cb:t xml:lang="zh">難<note place="inline"><note n="0789043" resp="Taisho" place="foot text" type="orig">三＝上【丙】</note><app n="0789043"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【丙】">上</rdg></app></note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2CC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑麼</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0789c22" ed="T"/>
+<lb n="0789c23" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><app type="star" corresp="#0789040"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【丙】">囉</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2D6"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0789044" resp="Taisho" place="foot text" type="orig">〔娑摩二合羅〕－【丙】</note>娑摩</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AABC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>鉢羅</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A559"/></cb:t><cb:t xml:lang="zh">底</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1CD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>吉然</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0789c24" ed="T"/>
+<lb n="0789c25" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0789c26" ed="T"/>
+<lb n="0789c27" ed="T"/><lg xml:id="lgT20p0789c2701"><l>復次尊右方</l><l>救護慧童子</l>
+<lb n="0789c28" ed="T"/><l>左手金剛拳</l><l>端坐安腰側</l>
+<lb n="0789c29" ed="T"/><l>右舒五輪直</l><l>當以掩其心</l>
+<pb n="0790a" xml:id="T20.1184.0790a" ed="T"/>
+<lb n="0790a01" ed="T"/><l><note n="0790001" resp="Taisho" place="foot text" type="orig">磔＝<g ref="#CB14311"/>【甲】【乙】【丙】</note><app n="0790001"><lem wit="【大】">磔</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><g ref="#CB14311"/></rdg></app>竪於空輪</l><l>念彼真言曰</l></lg>
+<lb n="0790a02" ed="T"/><p xml:id="pT20p0790a0201" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh">莫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">曼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh">沒</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>南</cb:zi><cb:sg>上引</cb:sg></cb:yin><note place="inline"><app type="star" corresp="#0789011"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">摩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>訶</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0790a03" ed="T"/>
+<lb n="0790a04" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">摩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>訶</cb:zi><cb:sg><note n="0790002" resp="Taisho" place="foot text" type="orig">引二＝二合【丙】</note><note n="0790002" resp="CBETA" type="mod"><!--CBETA todo type: a-->引二＝二合【丙】</note>引</cb:sg></cb:yin><note place="inline">二</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2CC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑麼</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><note n="0790003" resp="Taisho" place="foot text" type="orig">囉＝羅【丙】＊</note><app n="0790003"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AABC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>鉢<app type="star" corresp="#0790003"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A559"/></cb:t><cb:t xml:lang="zh">底</cb:t></cb:tt>
+<lb n="0790a05" ed="T"/>
+<lb n="0790a06" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1CD"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>枳然</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合<app type="star" corresp="#0789042"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg><app type="star" corresp="#0789042"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0790a07" ed="T"/>
+<lb n="0790a08" ed="T"/><lg xml:id="lgT20p0790a0801"><l>烏波計室尼</l><l>智慧手為拳</l>
+<lb n="0790a09" ed="T"/><l>而<note n="0790004" resp="Taisho" place="foot text" type="orig">甲＝申【甲】【乙】【丙】</note><app n="0790004"><lem wit="【大】">甲</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">申</rdg></app>火輪直</l><l>風屈指中節</l>
+<lb n="0790a10" ed="T"/><l>如同戟<note n="0790005" resp="Taisho" place="foot text" type="orig">標相＝相標【甲】【乙】【丙】</note><app n="0790005"><lem wit="【大】">標相</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">相標</rdg></app></l><l>說彼真言曰</l></lg>
+<lb n="0790a11" ed="T"/><p xml:id="pT20p0790a1101" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh"><app type="star" corresp="#0789032"><lem wit="【大】">莫</lem><rdg resp="Taisho" wit="【丙】">莫<note place="inline">入</note></rdg></app></cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">曼</cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh">沒</cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>南</cb:zi><cb:sg>上<note n="0790006" resp="Taisho" place="foot text" type="orig">引一＝一引【丙】</note><note n="0790006" resp="CBETA" type="mod"><!--CBETA todo type: a-->引一＝一引【丙】</note>引</cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5DB"/></cb:t><cb:t xml:lang="zh">頻</cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA6E"/></cb:t><cb:t xml:lang="zh">娜</cb:t></cb:tt>
+<lb n="0790a12" ed="T"/>
+<lb n="0790a13" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh">夜</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0A4"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>枳壞</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5B3"/></cb:t><cb:t xml:lang="zh">難<note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A444"/></cb:t><cb:t xml:lang="zh">矩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">忙</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A640"/></cb:t><cb:t xml:lang="zh"><g ref="#CB01233"/></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A446"/></cb:t><cb:t xml:lang="zh">計<note place="inline">三</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0790a14" ed="T"/>
+<lb n="0790a15" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>訶</cb:zi><cb:sg><note n="0790007" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】【乙】【丙】＊</note><app n="0790007"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0790a16" ed="T"/>
+<lb n="0790a17" ed="T"/><lg xml:id="lgT20p0790a1701"><l>復次光網尊</l><l>內眷屬童子</l>
+<lb n="0790a18" ed="T"/><l>印契如後說</l><l>三昧手為拳</l>
+<lb n="0790a19" ed="T"/><l>風輪舉如鉤</l><l>為攝諸含識</l>
+<lb n="0790a20" ed="T"/><l>令住解脫地</l><l>即說真言曰</l></lg>
+<lb n="0790a21" ed="T"/><p xml:id="pT20p0790a2101" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh">莫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">曼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh">沒</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>南</cb:zi><cb:sg><note n="0790008" resp="Taisho" place="foot text" type="orig">上引一＝引【丙】</note><note n="0790008" resp="CBETA" type="mod"><!--CBETA todo type: a-->上引一＝引【丙】</note>上引</cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt>
+<lb n="0790a22" ed="T"/>
+<lb n="0790a23" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A444"/></cb:t><cb:t xml:lang="zh">矩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">忙</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">忙</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh">耶</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">蘖</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>婆</cb:zi><cb:sg>去引</cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0790a24" ed="T"/>
+<lb n="0790a25" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CDB7"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>悉體</cb:zi><cb:sg>二合</cb:sg><cb:sg type="fangie">佗以反</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A557"/></cb:t><cb:t xml:lang="zh">哆</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0790a26" ed="T"/>
+<lb n="0790a27" ed="T"/><lg xml:id="lgT20p0790a2701"><l>復<note n="0790009" resp="Taisho" place="foot text" type="orig">次＝明【甲】【乙】【丙】</note><app n="0790009"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">明</rdg></app>地慧幢</l><l>內眷之<note n="0790010" resp="Taisho" place="foot text" type="orig">幖幟＝摽熾【甲】【乙】【丙】</note><app n="0790010"><lem wit="【大】">幖幟</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">摽熾</rdg></app></l>
+<lb n="0790a28" ed="T"/><l>三昧手為拳</l><l>而舒地水輪</l>
+<lb n="0790a29" ed="T"/><l>直竪如幢相</l><l>說是<app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>言曰</l></lg>
+<pb n="0790b" xml:id="T20.1184.0790b" ed="T"/>
+<lb n="0790b01" ed="T"/><p xml:id="pT20p0790b0101" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh">莫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">曼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh">沒</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>南</cb:zi><cb:sg>上<app type="star" corresp="#0790007"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt>
+<lb n="0790b02" ed="T"/>
+<lb n="0790b03" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2CC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑<note n="0790011" resp="Taisho" place="foot text" type="orig">摩＝麼【甲】【乙】【丙】＊</note><app n="0790011"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">麼</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh">羅<note place="inline">二</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E0A4"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>枳壞</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A446"/></cb:t><cb:t xml:lang="zh">計</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A55B"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>都</cb:zi><cb:sg>引</cb:sg></cb:yin><note place="inline"><anchor xml:id="fxT20p0790b02"/>三</note></cb:t></cb:tt>
+<lb n="0790b04" ed="T"/>
+<lb n="0790b05" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合<note n="0790012" resp="Taisho" place="foot text" type="orig">〔引〕－【丙】</note><app n="0790012"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0790b06" ed="T"/>
+<lb n="0790b07" ed="T"/><lg xml:id="lgT20p0790b0701"><l><note n="0790013" resp="Taisho" place="foot text" type="orig">次復＝復次【丙】</note><app n="0790013"><lem wit="【大】">次復</lem><rdg resp="Taisho" wit="【丙】">復次</rdg></app>無垢光</l><l>矩忙囉密主</l>
+<lb n="0790b08" ed="T"/><l>如前三昧手</l><l>舒上一切輪</l>
+<lb n="0790b09" ed="T"/><l>悉皆微屈之</l><l>如佛身光明</l>
+<lb n="0790b10" ed="T"/><l>其焰徹暉照</l><l><note n="0790014" resp="Taisho" place="foot text" type="orig">〔稱〕－【甲】【丙】</note><app n="0790014"><lem wit="【大】">稱</lem><rdg resp="Taisho" wit="【甲】【丙】"><space quantity="0"/></rdg></app>念彼真<note n="0790015" resp="Taisho" place="foot text" type="orig">言＋（曰）【甲】【丙】</note><app n="0790015"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【甲】【丙】">言曰</rdg></app></l></lg>
+<lb n="0790b11" ed="T"/><p xml:id="pT20p0790b1101" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh">莫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">曼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh">沒</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>馱</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>南</cb:zi><cb:sg>上<note n="0790016" resp="Taisho" place="foot text" type="orig">引一＝一引【丙】</note><note n="0790016" resp="CBETA" type="mod"><!--CBETA todo type: a-->引一＝一引【丙】</note>引</cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt>
+<lb n="0790b12" ed="T"/>
+<lb n="0790b13" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A444"/></cb:t><cb:t xml:lang="zh">矩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>忙</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><note n="0790017" resp="Taisho" place="foot text" type="orig">囉＝羅【丙】＊</note><app n="0790017"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A658"/></cb:t><cb:t xml:lang="zh">微</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47E"/></cb:t><cb:t xml:lang="zh">質</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AA5E"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>怛<app type="star" corresp="#0790017"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A458"/></cb:t><cb:t xml:lang="zh">蘖</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A559"/></cb:t><cb:t xml:lang="zh">底</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A444"/></cb:t><cb:t xml:lang="zh">矩</cb:t></cb:tt>
+<lb n="0790b14" ed="T"/>
+<lb n="0790b15" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E6"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>忙</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><app type="star" corresp="#0790017"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh"><app type="star" corresp="#0790011"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">麼</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5AD"/></cb:t><cb:t xml:lang="zh">弩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2CC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑麼</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><app type="star" corresp="#0790017"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合<note n="0790018" resp="Taisho" place="foot text" type="orig">〔引〕－【丙】＊</note><app n="0790018"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0790b16" ed="T"/>
+<lb n="0790b17" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg><app type="star" corresp="#0790018"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0790b18" ed="T"/>
+<lb n="0790b19" ed="T"/><lg xml:id="lgT20p0790b1901"><l>復不思議慧</l><l>印相如後陳</l>
+<lb n="0790b20" ed="T"/><l>定慧內相叉</l><l>一合為拳印</l>
+<lb n="0790b21" ed="T"/><l>二風<note n="0790019" resp="Taisho" place="foot text" type="orig">別屈＝屈別【丙】</note><app n="0790019"><lem wit="【大】">別屈</lem><rdg resp="Taisho" wit="【丙】">屈別</rdg></app>舒</l><l><note n="0790020" resp="Taisho" place="foot text" type="orig">屈＝第【乙】</note><app n="0790020"><lem wit="【大】">屈</lem><rdg resp="Taisho" wit="【乙】">第</rdg></app>三節對之</l>
+<lb n="0790b22" ed="T"/><l><note n="0790021" resp="Taisho" place="foot text" type="orig">合＝令【甲】【丙】</note><app n="0790021"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【甲】【丙】">令</rdg></app>甲<note n="0790022" resp="Taisho" place="foot text" type="orig">急＝喼【丙】</note><app n="0790022"><lem wit="【大】">急</lem><rdg resp="Taisho" wit="【丙】">喼</rdg></app>相背</l><l>二空並直竪</l>
+<lb n="0790b23" ed="T"/><l>名為奉教者</l><l>復說<app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>言曰</l></lg>
+<lb n="0790b24" ed="T"/><p xml:id="pT20p0790b2401" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F0"/></cb:t><cb:t xml:lang="zh">莫</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh">三</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">曼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-CA56"/></cb:t><cb:t xml:lang="zh">多</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E3AD"/></cb:t><cb:t xml:lang="zh">勃</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-D9FA"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0790023" resp="Taisho" place="foot text" type="orig">〔駄引〕－【丙】</note><note n="0790023" resp="CBETA" type="mod"><!--CBETA todo type: a-->〔<choice cb:resp="CBETA.maha"><corr>馱</corr><sic>駄</sic></choice>引〕－【丙】</note>馱</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E040"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>南</cb:zi><cb:sg>上引</cb:sg></cb:yin><note place="inline">一</note></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh">係</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6AE"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>係</cb:zi><cb:sg><app type="star" corresp="#0790018"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt>
+<lb n="0790b25" ed="T"/>
+<lb n="0790b26" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1A1"/></cb:t><cb:t xml:lang="zh"><note n="0790024" resp="Taisho" place="foot text" type="orig">緊＝竪【丙】</note><app n="0790024"><lem wit="【大】">緊</lem><rdg resp="Taisho" wit="【丙】">竪</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47E"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>旨</cb:zi><cb:sg type="fangie">茲以切</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh"><note n="0790025" resp="Taisho" place="foot text" type="orig">囉＝羅【丙】＊</note><note n="0790025" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->囉＝羅【丙】＊</note><app n="0790025"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【丙】">羅</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F7"/></cb:t><cb:t xml:lang="zh">拽</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67C"/></cb:t><cb:t xml:lang="zh"><note n="0790026" resp="Taisho" place="foot text" type="orig">徙＝徒【丙】</note><app n="0790026"><lem wit="【大】">徙</lem><rdg resp="Taisho" wit="【丙】">徒</rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA71"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>阿</cb:zi><cb:sg>去急呼</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A658"/></cb:t><cb:t xml:lang="zh">尾</cb:t></cb:tt>
+<lb n="0790b27" ed="T"/>
+<lb n="0790b28" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B2CC"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑麼</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F1"/></cb:t><cb:t xml:lang="zh">也</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A54D"/></cb:t><cb:t xml:lang="zh">儜</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5F7"/></cb:t><cb:t xml:lang="zh">曳<app type="star" corresp="#0789039"><lem wit="【大】"><note place="inline">三</note></lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合<app type="star" corresp="#0790018"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>賀</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0790b29" ed="T"/>
+<pb n="0790c" xml:id="T20.1184.0790c" ed="T"/>
+<lb n="0790c01" ed="T"/><lg xml:id="lgT20p0790c0101"><l>爾時修行者</l><l>安住慈<note n="0790027" resp="Taisho" place="foot text" type="orig">愍＝慜【丙】</note><app n="0790027"><lem wit="【大】">愍</lem><rdg resp="Taisho" wit="【丙】">慜</rdg></app>心</l>
+<lb n="0790c02" ed="T"/><l>為一切有情</l><l>發大弘誓願</l>
+<lb n="0790c03" ed="T"/><l>至誠起殷敬</l><l>觀想於本尊</l>
+<lb n="0790c04" ed="T"/><l>金色放光明</l><l><note n="0790028" resp="Taisho" place="foot text" type="orig">乘＝垂【丙】</note><app n="0790028"><lem wit="【大】">乘</lem><rdg resp="Taisho" wit="【丙】">垂</rdg></app>師子王坐</l>
+<lb n="0790c05" ed="T"/><l>操持智慧<note n="0790029" resp="Taisho" place="foot text" type="orig">劍＝鉤【丙】</note><app n="0790029"><lem wit="【大】">劍</lem><rdg resp="Taisho" wit="【丙】">鉤</rdg></app></l><l>左執青蓮華</l>
+<lb n="0790c06" ed="T"/><l>華臺立智杵</l><l>首髻八智尊</l>
+<lb n="0790c07" ed="T"/><l>暉光遍十方</l><l>如對<note n="0790030" resp="Taisho" place="foot text" type="orig">原本冠註曰行仁目未詳書誤乎</note>行仁目</l>
+<lb n="0790c08" ed="T"/><l>文殊根本契</l><l>從師密<note n="0790031" resp="Taisho" place="foot text" type="orig">受＝授【甲】【乙】</note><app n="0790031"><lem wit="【大】">受</lem><rdg resp="Taisho" wit="【甲】【乙】">授</rdg></app>之</l>
+<lb n="0790c09" ed="T"/><l>次當取念珠</l><l>盤在於掌內</l>
+<lb n="0790c10" ed="T"/><l>定慧<note n="0790032" resp="Taisho" place="foot text" type="orig">含＝合【甲】【丙】</note><app n="0790032"><lem wit="【大】">含</lem><rdg resp="Taisho" wit="【甲】【丙】">合</rdg></app>蓮相</l><l>當口用加持</l>
+<lb n="0790c11" ed="T"/><l>祕<app type="star" corresp="#0784008"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【丙】">蜜</rdg></app>珠明曰</l></lg>
+<lb n="0790c12" ed="T"/><p xml:id="pT20p0790c1201" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>唵</cb:zi><cb:sg>引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A65D"/></cb:t><cb:t xml:lang="zh"><note n="0790033" resp="Taisho" place="foot text" type="orig">毘盧＝吠嚧【甲】【乙】【丙】</note>毘</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A642"/></cb:t><cb:t xml:lang="zh">盧</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A47C"/></cb:t><cb:t xml:lang="zh">左</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5A9"/></cb:t><cb:t xml:lang="zh">曩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5E5"/></cb:t><cb:t xml:lang="zh">麼</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A64A"/></cb:t><cb:t xml:lang="zh">攞</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi>娑<note n="0790034" resp="Taisho" place="foot text" type="orig">嚩＝婆【丙】</note><app n="0790034"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【丙】">婆</rdg></app></cb:zi><cb:sg>二合<note n="0790035" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】【乙】【丙】＊</note><app n="0790035"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6A9"/></cb:t><cb:t xml:lang="zh"><cb:yin><cb:zi><note n="0790036" resp="Taisho" place="foot text" type="orig">賀＝訶【甲】【乙】【丙】</note><app n="0790036"><lem wit="【大】">賀</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">訶</rdg></app></cb:zi><cb:sg><app type="star" corresp="#0790035"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0790c13" ed="T"/>
+<lb n="0790c14" ed="T"/>
+<lb n="0790c15" ed="T"/><lg xml:id="lgT20p0790c1501"><l>加持七遍已</l><l>旋轉三<note n="0790037" resp="Taisho" place="foot text" type="orig">珠易＝珠移ヵ【原】，易珠【甲】【乙】【丙】</note><note n="0790037" resp="CBETA" type="mod">珠易＝珠移ヵ【原】，＝易珠【甲】【乙】【丙】</note><app n="0790037"><lem wit="【大】"><app><lem resp="Taisho" wit="【大】">珠易</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">珠移</rdg></app></lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">易珠</rdg></app></l>
+<lb n="0790c16" ed="T"/><l>空地對捻珠</l><l>隨誦移三匝</l>
+<lb n="0790c17" ed="T"/><l>誦八字明句</l><l>一千或一萬</l>
+<lb n="0790c18" ed="T"/><l>字字分明呼</l><l>端坐諦觀之</l>
+<lb n="0790c19" ed="T"/><l>念念勿間斷</l><l>數終住觀智</l>
+<lb n="0790c20" ed="T"/><l>并三摩地門</l><l>在於滿月中</l>
+<lb n="0790c21" ed="T"/><l>布字為種智</l><l>或作大日觀</l>
+<lb n="0790c22" ed="T"/><l>圓輝亦復然</l><l>所有諸功德</l>
+<lb n="0790c23" ed="T"/><l>施一切<note n="0790038" resp="Taisho" place="foot text" type="orig">眾生＝有情【丙】</note><app n="0790038"><lem wit="【大】">眾生</lem><rdg resp="Taisho" wit="【丙】">有情</rdg></app></l><l>皆得成佛道</l>
+<lb n="0790c24" ed="T"/><l>復說差別事</l><l>三時或四時</l>
+<lb n="0790c25" ed="T"/><l>無令有退轉</l><l>若為息災故</l>
+<lb n="0790c26" ed="T"/><l>定夜以之初</l><l>若求福智門</l>
+<lb n="0790c27" ed="T"/><l>後夜而起首</l><l>降伏日正午</l>
+<lb n="0790c28" ed="T"/><l><note n="0790039" resp="Taisho" place="foot text" type="orig">愛＝受【丙】</note><app n="0790039"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【丙】">受</rdg></app>敬欲眠時</l><l>鉤召亦同前</l>
+<lb n="0790c29" ed="T"/><l>念訖還珠契</l><l>亦同悉地法</l>
+<pb n="0791a" xml:id="T20.1184.0791a" ed="T"/>
+<lb n="0791a01" ed="T"/><l>本尊數終已</l><l>依前念內眷</l>
+<lb n="0791a02" ed="T"/><l>八尊如舊次</l><l>讚歎奉香花</l>
+<lb n="0791a03" ed="T"/><l>閼伽再奉獻</l><l>發願并勸請</l>
+<lb n="0791a04" ed="T"/><l>解界用火院</l><l>發遣奉送之</l>
+<lb n="0791a05" ed="T"/><l>三部再護身</l><l>被甲如初作</l>
+<lb n="0791a06" ed="T"/><l>焰曼德作衛</l><l>大<note n="0791001" resp="Taisho" place="foot text" type="orig">刀＝力【甲】【乙】【丙】</note><app n="0791001"><lem wit="【大】">刀</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">力</rdg></app>觸加持</l>
+<lb n="0791a07" ed="T"/><l>禮拜眾賢聖</l><l>隨意經行出</l>
+<lb n="0791a08" ed="T"/><l>若住山林中</l><l>頭陀居<note n="0791002" resp="Taisho" place="foot text" type="orig">曠＝壙【丙】</note><app n="0791002"><lem wit="【大】">曠</lem><rdg resp="Taisho" wit="【丙】">壙</rdg></app>野</l>
+<lb n="0791a09" ed="T"/><l>王難遭<note n="0791003" resp="Taisho" place="foot text" type="orig">㹢＝枷【甲】【乙】【丙】</note><app n="0791003"><lem wit="【大】">㹢</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">枷</rdg></app>獄</l><l>橫事恐怖時</l>
+<lb n="0791a10" ed="T"/><l>疾病鬼神殃</l><l>暗夜行怖懼</l>
+<lb n="0791a11" ed="T"/><l>修道被魔嬈</l><l>鬪<note n="0791004" resp="Taisho" place="foot text" type="orig">諍＝請【丙】</note><app n="0791004"><lem wit="【大】">諍</lem><rdg resp="Taisho" wit="【丙】">請</rdg></app>家不和</l>
+<lb n="0791a12" ed="T"/><l>諸毒欲來傷</l><l>如斯多種難</l>
+<lb n="0791a13" ed="T"/><l>常持八祕明</l><l>無惡不殄除</l>
+<lb n="0791a14" ed="T"/><l>印契差別門</l><l>要當師密受</l>
+<lb n="0791a15" ed="T"/><l>若在曼<note n="0791005" resp="Taisho" place="foot text" type="orig">荼＝多【丙】</note><app n="0791005"><lem wit="【大】">荼</lem><rdg resp="Taisho" wit="【丙】">多</rdg></app>羅</l><l>正對尊前<note n="0791006" resp="Taisho" place="foot text" type="orig">次＝恣【丙】</note><app n="0791006"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【丙】">恣</rdg></app></l>
+<lb n="0791a16" ed="T"/><l><note n="0791007" resp="Taisho" place="foot text" type="orig">顰＝頻【甲】【乙】【丙】</note><app n="0791007"><lem wit="【大】">顰</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">頻</rdg></app>申動支節</l><l><note n="0791008" resp="Taisho" place="foot text" type="orig">噓＝嚧【丙】</note><app n="0791008"><lem wit="【大】">噓</lem><rdg resp="Taisho" wit="【丙】">嚧</rdg></app>吹大搖頭</l>
+<lb n="0791a17" ed="T"/><l><note n="0791009" resp="Taisho" place="foot text" type="orig">噦＝穢【甲】【乙】【丙】</note><app n="0791009"><lem wit="【大】">噦</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">穢</rdg></app>嗌噴鳴聲</l><l>涕唾及<note n="0791010" resp="Taisho" place="foot text" type="orig">欬嗽＝咳𡃤【甲】，咳嗽【乙】【丙】</note><note n="0791010" resp="CBETA" type="mod">欬嗽＝咳𡃤【甲】，＝咳嗽【乙】【丙】</note><app n="0791010"><lem wit="【大】">欬嗽</lem><rdg resp="Taisho" wit="【甲】">咳𡃤</rdg><rdg resp="Taisho" wit="【乙】【丙】">咳嗽</rdg></app></l>
+<lb n="0791a18" ed="T"/><l>如是之等事</l><l>制之勿憍慢</l>
+<lb n="0791a19" ed="T"/><l>大教阿闍梨</l><l>深行巧慧者</l>
+<lb n="0791a20" ed="T"/><l>欲求大<note n="0791011" resp="Taisho" place="foot text" type="orig">悉＝惠【丙】</note><app n="0791011"><lem wit="【大】">悉</lem><rdg resp="Taisho" wit="【丙】">惠</rdg></app>地</l><l>應須頻護摩</l>
+<lb n="0791a21" ed="T"/><l>每滿三<note n="0791012" resp="Taisho" place="foot text" type="orig">洛＝落【甲】【乙】【丙】</note><app n="0791012"><lem wit="【大】">洛</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">落</rdg></app>叉</l><l>一度火供養</l>
+<lb n="0791a22" ed="T"/><l>若得三相現</l><l>暖煙及光明</l>
+<lb n="0791a23" ed="T"/><l>釰中發大聲</l><l>梵音師子吼</l>
+<lb n="0791a24" ed="T"/><l>雷鳴微妙響</l><l>鐘鼓雅歌聲</l>
+<lb n="0791a25" ed="T"/><l>種種<note n="0791013" resp="Taisho" place="foot text" type="orig">脫＝說【甲】【乙】【丙】</note><app n="0791013"><lem wit="【大】">脫</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">說</rdg></app>法音</l><l>行人得悉地</l>
+<lb n="0791a26" ed="T"/><l>護摩如教法</l><l>微細明解之</l>
+<lb n="0791a27" ed="T"/><l>少分不相應</l><l>眾惡皆來集</l>
+<lb n="0791a28" ed="T"/><l>三俱胝數滿</l><l>常得見文殊</l>
+<lb n="0791a29" ed="T"/><l>心通解脫門</l><l>智慧不可測</l>
+<pb n="0791b" xml:id="T20.1184.0791b" ed="T"/>
+<lb n="0791b01" ed="T"/><l>世出世間願</l><l>所求皆滿足</l></lg>
+<lb n="0791b02" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><note n="0791014" resp="Taisho" place="foot text" type="orig">文殊八字＝八字文殊【甲】</note><app n="0791014"><lem wit="【大】">文殊八字</lem><rdg resp="Taisho" wit="【甲】">八字文殊</rdg></app>儀軌</cb:jhead></cb:juan>
+<lb n="0791b03" ed="T"/><p xml:id="pT20p0791b0301" cb:type="W"><note n="0791015" resp="Taisho" place="foot text" type="orig">長字以下丙本無</note><note n="0791015" resp="CBETA" type="mod"><!--CBETA todo type: a-->長字以下丙本無</note>長慶四年八月三十日。東塔院青龍寺持
+<lb n="0791b04" ed="T"/>念沙門義雲法金剛。與中天三藏菩提仙。
+<lb n="0791b05" ed="T"/>同譯筆受。結偈潤文僧義雲<note n="0791016" resp="Taisho" place="foot text" type="orig">寫勘＝勘寫【甲】</note><app n="0791016"><lem wit="【大】">寫。勘</lem><rdg resp="Taisho" wit="【甲】">勘寫</rdg></app>終記之
+<lb n="0791b06" ed="T"/><note n="0791017" resp="Taisho" place="foot text" type="orig">耳＝而已【甲】，甲本奧云永久三年十一月一日於冷泉院壇所書寫了，求法沙門禮之，係元二年五月二十五日奉受了，乙本奧云永保三年三月十九日書寫了僧勝寫本也</note><app n="0791017"><lem wit="【大】">耳</lem><rdg resp="Taisho" wit="【甲】">而已</rdg></app><note n="0791017" type="rest" place="foot">甲本奧云永久三年十一月一日於冷泉院壇所書寫了，求法沙門禮之，係元二年五月二十五日奉受了，乙本奧云永保三年三月十九日書寫了僧勝寫本也</note>。</p>
+<lb n="0791b07" ed="T"/><p xml:id="pT20p0791b0701" cb:type="W"><note n="0791018" resp="Taisho" place="foot text" type="orig">八字以下甲本乙本丙本俱無</note><note n="0791018" resp="CBETA" type="mod"><!--CBETA todo type: a-->八字以下甲本乙本丙本俱無</note>八字文殊軌。十八契印。二部二卷。以武府
+<lb n="0791b08" ed="T"/>靈雲開山淨嚴和尚之點本。讐校鋟梓。時
+<lb n="0791b09" ed="T"/>享保歲次壬子季冬之穀和州豐山妙音輪
+<lb n="0791b10" ed="T"/>下沙門無等欽識。</p></cb:div>
+</body></text></TEI>

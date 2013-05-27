@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T21n1258">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1258 摩利支菩薩略念誦法</title>
+			<author>唐 不空譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.6 $<date>$Date: 2009/04/23 08:01:45 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:45 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 21, No. 1258 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-31T09:31:32">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T21n1258.xml,v $
+Revision 1.6  2009/04/23 08:01:45  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.5  2006/04/12 21:55:55  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.3  2004/10/22 04:03:44  saywhat
+段落前加入圈點
+
+Revision 1.2  2004/04/20 08:39:12  maha
+「版本日期」標記修訂
+
+Revision 1.1.1.1  2003/05/05 04:09:28  ray
+recover cvs
+
+Revision 1.13  2002/11/28 10:06:37  saywhat
+校勘插入處理
+
+Revision 1.12  2002/11/04 10:46:13  ray
+tei.2 => TEI.2
+
+Revision 1.11  2002/07/29 09:57:20  vinking
+modified lang
+
+Revision 1.10  2002/04/08 09:07:13  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.9  2001/11/05 06:14:16  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.8  2001/07/24 06:53:40  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.7  2001/03/30 05:57:30  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.6  2001/03/25 09:18:36  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 06:57:27  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 07:47:20  chris
+Added keywords $Revision: 1.6 $, $Date: 2009/04/23 08:01:45 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0285a15" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0285a16" ed="T"/>
+<lb n="0285a17" ed="T"/><cb:docNumber>No. 1258</cb:docNumber><cb:div type="jing">
+<lb n="0285a18" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0285001" resp="Taisho" place="foot text" type="orig">【原】享保年間刊豐山大學藏本，【甲】保延三年寫高山寺藏本，【乙】保安四年寫寶壽院藏本</note>摩利支菩薩略念誦法</cb:jhead></cb:juan>
+<lb n="0285a19" ed="T"/>
+<lb n="0285a20" ed="T"/><byline cb:type="Translator">大興善寺三藏沙門大廣智
+<lb n="0285a21" ed="T"/>不空奉　詔譯</byline>
+<lb n="0285a22" ed="T"/><p xml:id="pT21p0285a2201">先應結毘盧遮那佛印。</p>
+<lb n="0285a23" ed="T"/><p xml:id="pT21p0285a2301"><note n="0285002" resp="Taisho" place="foot text" type="orig">次＝其【甲】</note><app n="0285002"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【甲】">其</rdg></app>印相者。二手內相叉。並竪二大指即成。
+<lb n="0285a24" ed="T"/>誦真言七遍頂上散。真言曰。</p>
+<lb n="0285a25" ed="T"/><p xml:id="pT21p0285a2501" cb:type="dharani">曩莫三滿多沒馱南阿尾羅吽<note n="0285003" resp="Taisho" place="foot text" type="orig">欠＋（平呼）細註【甲】【乙】</note><app n="0285003"><lem wit="【大】">欠</lem><rdg resp="Taisho" wit="【甲】【乙】">欠<note place="inline">平呼</note></rdg></app></p>
+<lb n="0285a26" ed="T"/><p xml:id="pT21p0285a2601">次結摩利支菩薩根本真言印。</p>
+<lb n="0285a27" ed="T"/><p xml:id="pT21p0285a2701">次印相者。以二手內相叉。竪合二頭指。二中
+<lb n="0285a28" ed="T"/>指<note n="0285004" resp="Taisho" place="foot text" type="orig">（相）＋各【甲】</note><app n="0285004"><lem wit="【大】">各</lem><rdg resp="Taisho" wit="【甲】">相各</rdg></app>糺持二頭指令相捻。二大指並竪合即
+<lb n="0285a29" ed="T"/>成。誦真言加持身五處。印額次右肩次左肩。</p>
+<pb n="0285b" xml:id="T21.1258.0285b" ed="T"/>
+<lb n="0285b01" ed="T"/><p xml:id="pT21p0285b0101">次心<note n="0285005" resp="Taisho" place="foot text" type="orig">〔次〕－【乙】</note><app n="0285005"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【乙】"><space quantity="0"/></rdg></app>喉上。以各誦一遍。真言曰。</p>
+<lb n="0285b02" ed="T"/><p xml:id="pT21p0285b0201" cb:type="dharani">曩謨<note place="inline">引</note>囉怛曩<note place="inline">二合</note>怛囉<note place="inline">二合</note><note n="0285006" resp="Taisho" place="foot text" type="orig">夜＋（引）夾註【甲】【乙】</note><app n="0285006"><lem wit="【大】">夜</lem><rdg resp="Taisho" wit="【甲】【乙】">夜<note place="inline">引</note></rdg></app>耶<note place="inline">一</note>怛儞也<note place="inline">二
+<lb n="0285b03" ed="T"/>合</note>他<note place="inline">引二</note>遏迦沫思<note place="inline">三</note>沫迦沫<note n="0285007" resp="Taisho" place="foot text" type="orig">思＝惡【乙】</note><app n="0285007"><lem wit="【大】">思</lem><rdg resp="Taisho" wit="【乙】">惡</rdg></app>遏度<note place="inline">引</note>沫思<note place="inline">四</note>
+<lb n="0285b04" ed="T"/>旨跛囉沫思<note place="inline">五</note><note n="0285008" resp="Taisho" place="foot text" type="orig">摩＝度【甲】</note><app n="0285008"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】">度</rdg></app>賀<note place="inline">引</note>旨跛囉沫思<note place="inline">六</note>按怛
+<lb n="0285b05" ed="T"/><note n="0285009" resp="Taisho" place="foot text" type="orig">馱＝但【乙】</note><app n="0285009"><lem wit="【大】">馱</lem><rdg resp="Taisho" wit="【乙】">但</rdg></app>娜沫思<note place="inline">七</note>摩哩制野沫思<note place="inline">八</note>曩謨薩都<note place="inline">二合</note>
+<lb n="0285b06" ed="T"/>帝<note place="inline">九</note>𡀩乞叉<note place="inline">二合</note>𡀩乞叉<note place="inline">二合</note>𤚥<note place="inline">引十</note>薩嚩薩怛
+<lb n="0285b07" ed="T"/>嚩<note place="inline">二合</note>難<note place="inline">引</note>者<note place="inline">十一</note>薩嚩怛囉<note place="inline">二合</note>薩嚩<note n="0285010" resp="Taisho" place="foot text" type="orig">波＝婆【甲】【乙】</note><app n="0285010"><lem wit="【大】">波</lem><rdg resp="Taisho" wit="【甲】【乙】">婆</rdg></app>庾<note place="inline">引十
+<lb n="0285b08" ed="T"/>二</note>跛捺囉<note place="inline">二合</note>吠毘藥<note place="inline">二合</note>娑嚩<note n="0285011" resp="Taisho" place="foot text" type="orig">二合＝引二合【甲】，二合引【乙】</note><note n="0285011" resp="CBETA" type="mod">二合＝引二合【甲】，＝二合引【乙】</note><app n="0285011"><lem wit="【大】"><note place="inline">二合</note></lem><rdg resp="Taisho" wit="【甲】"><note place="inline">引二合</note></rdg><rdg resp="Taisho" wit="【乙】"><note place="inline">二合引</note></rdg></app>訶<note n="0285012" resp="Taisho" place="foot text" type="orig">〔引十三〕－【甲】</note><app n="0285012"><lem wit="【大】"><note place="inline">引十三</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></p>
+<lb n="0285b09" ed="T"/><p xml:id="pT21p0285b0901">次結摩利支菩薩心印。真言曰。</p>
+<lb n="0285b10" ed="T"/><p xml:id="pT21p0285b1001" cb:type="dharani">曩莫三滿多沒馱<note place="inline">引</note>南<note n="0285013" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】</note><app n="0285013"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>唵摩<note place="inline">引</note><note n="0285014" resp="Taisho" place="foot text" type="orig">〔利〕－【甲】</note><app n="0285014"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>哩制曳
+<lb n="0285b11" ed="T"/><note n="0285015" resp="Taisho" place="foot text" type="orig">沙嚩二合＝二合娑婆【甲】</note><app n="0285015"><lem wit="【大】">沙嚩<note place="inline">二合</note></lem><rdg resp="Taisho" wit="【甲】">二合娑婆</rdg></app><note n="0285016" resp="Taisho" place="foot text" type="orig">訶＋（引）夾註【乙】</note><app n="0285016"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【乙】">訶<note place="inline">引</note></rdg></app></p>
+<lb n="0285b12" ed="T"/><p xml:id="pT21p0285b1201"><note n="0285017" resp="Taisho" place="foot text" type="orig">次＝心【乙】</note><app n="0285017"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【乙】">心</rdg></app>結<note n="0285018" resp="Taisho" place="foot text" type="orig">心＋（印）【甲】</note><app n="0285018"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【甲】">心印</rdg></app>真言印相者。以左手虛作拳。頭指
+<lb n="0285b13" ed="T"/>大母指相捻如環。想自身入左<note n="0285019" resp="Taisho" place="foot text" type="orig">〔手〕－【甲】</note><app n="0285019"><lem wit="【大】">手</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>拳中。以右
+<lb n="0285b14" ed="T"/>手覆左拳上。即想此印為摩利支菩薩形。想
+<lb n="0285b15" ed="T"/>自身<note n="0285020" resp="Taisho" place="foot text" type="orig">（隱）＋在【甲】【乙】</note><app n="0285020"><lem wit="【大】">在</lem><rdg resp="Taisho" wit="【甲】【乙】">隱在</rdg></app>摩利支菩薩心中不斷絕。誦身真言
+<lb n="0285b16" ed="T"/>應時獲得殊勝加持。不被一切惡人為障礙
+<lb n="0285b17" ed="T"/>者所見。一切災禍皆不著身。一切口舌皆得
+<lb n="0285b18" ed="T"/><note n="0285021" resp="Taisho" place="foot text" type="orig">除＝消【甲】【乙】</note><app n="0285021"><lem wit="【大】">除</lem><rdg resp="Taisho" wit="【甲】【乙】">消</rdg></app>滅。蟲狼虎豹水火盜<note n="0285022" resp="Taisho" place="foot text" type="orig">〔則〕－【甲】【乙】</note><app n="0285022"><lem wit="【大】">則</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>賊皆不能侵害。
+<lb n="0285b19" ed="T"/>所求世間果報皆得諧偶。若修出世間法。<note n="0285023" resp="Taisho" place="foot text" type="orig">即＝速【甲】【乙】</note><app n="0285023"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【甲】【乙】">速</rdg></app>
+<lb n="0285b20" ed="T"/>得禪定現前。智慧增盛獲得聞持。不忘失菩
+<lb n="0285b21" ed="T"/>提心法。誦真言時深起<note n="0285024" resp="Taisho" place="foot text" type="orig">悲愍＝慈悲【甲】</note><app n="0285024"><lem wit="【大】">悲愍</lem><rdg resp="Taisho" wit="【甲】">慈悲</rdg></app>。為一切有情拔
+<lb n="0285b22" ed="T"/>除苦惱。皆獲無障解脫速證無上菩提道。應
+<lb n="0285b23" ed="T"/>須祕密勿<note n="0285025" resp="Taisho" place="foot text" type="orig">妄＝忘【甲】</note><app n="0285025"><lem wit="【大】">妄</lem><rdg resp="Taisho" wit="【甲】">忘</rdg></app>傳授。</p>
+<lb n="0285b24" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>摩利支菩薩略念誦<note n="0285026" resp="Taisho" place="foot text" type="orig">此下甲本奧書曰保延三年二月二十五日酉尅書畢執筆生年二十歲□□□保延三年五月十四日辰時交點了，乙本奧書曰保安四年四月十六日書了同日移點了執筆<g ref="#SD-B577"/></note>法</cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

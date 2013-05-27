@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T21n1244">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1244 毘沙門天王經</title>
+			<author>唐 不空譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $<date>$Date: 2009/04/23 08:01:44 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:44 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 21, No. 1244 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="sa-Sidd">Sanskrit-Siddam</language>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-31T09:31:29">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T21n1244.xml,v $
+Revision 1.10  2009/04/23 08:01:44  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2006/04/12 21:55:54  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.7  2004/12/15 04:10:49  saywhat
+p0216c04行尾的<div1 type="W">移到下一行行首
+
+Revision 1.6  2004/10/22 04:03:43  saywhat
+段落前加入圈點
+
+Revision 1.5  2004/04/20 08:39:10  maha
+「版本日期」標記修訂
+
+Revision 1.4  2004/01/02 05:53:59  maha
+<note mod>裡的corr2app
+
+Revision 1.3  2003/06/23 06:16:50  saywhat
+[＊]校勘插入XML
+
+Revision 1.2  2003/05/21 05:44:37  saywhat
+modified star
+
+Revision 1.1.1.1  2003/05/05 04:09:27  ray
+recover cvs
+
+Revision 1.19  2002/11/28 10:06:36  saywhat
+校勘插入處理
+
+Revision 1.18  2002/11/04 10:46:13  ray
+tei.2 => TEI.2
+
+Revision 1.17  2002/10/21 08:13:34  ray
+移動 <anchor>+<note>, <anchor>+雙圈
+
+Revision 1.16  2002/10/07 13:13:02  moved
+modified
+
+Revision 1.15  2002/07/29 09:57:20  vinking
+modified lang
+
+Revision 1.14  2002/04/08 09:07:12  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.13  2001/11/05 06:14:14  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.12  2001/07/27 07:12:33  ray
+去除多餘的 <author>
+
+Revision 1.11  2001/07/24 06:53:38  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.10  2001/03/30 05:57:28  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.9  2001/03/25 09:18:35  ray
+add <milestone>
+
+Revision 1.8  2001/02/07 06:57:19  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.7  2001/02/03 07:47:13  chris
+Added keywords $Revision: 1.10 $, $Date: 2009/04/23 08:01:44 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="0215a" xml:id="T21.1244.0215a" ed="T"/>
+<lb n="0215a01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0215a02" ed="T"/><cb:docNumber>No. 1244</cb:docNumber><cb:div type="jing">
+<lb n="0215a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0215001" resp="Taisho" place="foot text" type="orig">【原】麗本，【甲】三十帖策子第十七，【乙】黃檗版淨嚴等加筆本</note><title>毘沙門天王經</title></cb:jhead></cb:juan>
+<lb n="0215a04" ed="T"/>
+<lb n="0215a05" ed="T"/><byline cb:type="Translator"><note n="0215002" resp="Taisho" place="foot text" type="orig">（（開府…師））三十九字＝（（特進試鴻臚卿大興善寺三藏沙門大廣智））十七字【宋】【元】，（（唐特進試鴻臚卿三藏沙門大廣智））十四字【明】【乙】，（（大興善寺三藏沙門大廣智））十一字【甲】</note><app cb:word-count="39" n="0215002"><lem wit="【大】">開府儀同三司特進試鴻臚卿肅
+<lb n="0215a06" ed="T"/>國公食邑三千戶贈司空諡大鑒
+<lb n="0215a07" ed="T"/>正號大廣智大興善寺三藏法師</lem><rdg resp="Taisho" wit="【宋】【元】">特進試鴻臚卿大興善寺三藏沙門大廣智</rdg><rdg resp="Taisho" wit="【明】【乙】">唐特進試鴻臚卿三藏沙門大廣智</rdg><rdg resp="Taisho" wit="【甲】">大興善寺三藏沙門大廣智</rdg></app>
+<lb n="0215a08" ed="T"/>不空奉　詔譯</byline>
+<lb n="0215a09" ed="T"/><p xml:id="pT21p0215a0901">爾時毘沙門天王。在於佛前合掌。白佛言世
+<lb n="0215a10" ed="T"/>尊。我為未來諸有情等利益安樂。豐饒財寶
+<lb n="0215a11" ed="T"/>護持國界故。說自真言。<note n="0215003" resp="Taisho" place="foot text" type="orig">〔我此真言〕－【甲】</note><app n="0215003"><lem wit="【大】">我此真言</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。如真多摩
+<lb n="0215a12" ed="T"/>尼寶<note n="0215004" resp="Taisho" place="foot text" type="orig">王＝心【三】【甲】【乙】</note><note n="0215004" resp="CBETA" type="mod">王＝心【宋】【元】【明】【甲】【乙】</note><app n="0215004"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">心</rdg></app>能滿眾願。世尊聽許我說。佛言善哉
+<lb n="0215a13" ed="T"/>善哉天王。汝能愍念為諸有情。恣汝意說。</p>
+<lb n="0215a14" ed="T"/><p xml:id="pT21p0215a1401">爾時毘沙門天王歡喜無量即於佛前說心真
+<lb n="0215a15" ed="T"/>言曰。</p>
+<lb n="0215a16" ed="T"/><p xml:id="pT21p0215a1601" cb:type="dharani"><note n="0215005" resp="Taisho" place="foot text" type="orig">梵字真言附載於卷末</note>曩謨囉怛曩<note place="inline">二合</note>怛囉<note place="inline">二合</note>夜<note place="inline">引</note>野<note place="inline">一</note>曩謨吠室
+<lb n="0215a17" ed="T"/>囉<note place="inline">二合</note><note n="0215006" resp="Taisho" place="foot text" type="orig">麼＝摩【三】【乙】＊</note><note n="0215006" resp="CBETA" type="mod">麼＝摩【宋】【元】【明】【乙】＊</note><app n="0215006"><lem wit="【大】">麼</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">摩</rdg></app>拏<note place="inline">鼻<note n="0215007" resp="Taisho" place="foot text" type="orig">引＝音【甲】＊</note><app n="0215007"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】">音</rdg></app></note>野<note place="inline">二</note>摩賀<note place="inline">引</note>囉<note place="inline">引</note>惹<note place="inline">引</note>野<note place="inline">三</note>薩
+<lb n="0215a18" ed="T"/>嚩薩怛嚩<note place="inline">二合</note>曩<note place="inline">引</note><app type="star" corresp="#0215006"><lem wit="【大】">麼</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">摩</rdg></app><note place="inline">鼻引四</note>舍<note place="inline">引</note>跛哩布<note place="inline">引</note><note n="0215008" resp="Taisho" place="foot text" type="orig">囉拏鼻引＝囉摩引【宋】，囉摩拏鼻引【元】【明】【乙】</note><note n="0215008" resp="CBETA" type="mod">囉拏鼻引＝囉摩引【宋】，＝囉摩拏鼻引【元】【明】【乙】</note><app n="0215008"><lem wit="【大】">囉
+<lb n="0215a19" ed="T"/>拏<note place="inline">鼻引</note></lem><rdg resp="Taisho" wit="【宋】">囉摩引</rdg><rdg resp="Taisho" wit="【元】【明】【乙】">囉摩拏鼻引</rdg></app>野<note place="inline">五</note>悉地迦囉<note place="inline">引</note>野<note n="0215009" resp="Taisho" place="foot text" type="orig">〔六〕－【甲】</note><app n="0215009"><lem wit="【大】"><note place="inline">六</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>蘇<note place="inline">上</note>騫娜娜<note place="inline">引</note>野
+<lb n="0215a20" ed="T"/><note n="0215010" resp="Taisho" place="foot text" type="orig">〔七〕－【甲】＊</note><app n="0215010"><lem wit="【大】"><note place="inline">七</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>怛娑每<note place="inline">二合引</note>曩莫塞訖哩<note place="inline">三合</note>怛嚩<note place="inline">二合八</note>伊<note n="0215011" resp="Taisho" place="foot text" type="orig">〔上〕－【甲】</note><app n="0215011"><lem wit="【大】"><note place="inline">上</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
+<lb n="0215a21" ed="T"/>𤚥<note place="inline">引</note>吠<note place="inline">引</note>室囉<note place="inline">二合</note><app type="star" corresp="#0215006"><lem wit="【大】">麼</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">摩</rdg></app>拏<note place="inline">鼻<app type="star" corresp="#0215007"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】">音</rdg></app></note>紇哩<note place="inline">二合</note>乃野<note place="inline">九</note>
+<lb n="0215a22" ed="T"/><app type="star" corresp="#0215006"><lem wit="【大】">麼</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">摩</rdg></app><note place="inline">引</note><note n="0215012" resp="Taisho" place="foot text" type="orig">韈＝襪【三】【乙】</note><note n="0215012" resp="CBETA" type="mod"><choice cb:resp="CBETA.maha"><corr><g ref="#CB02594"/></corr><sic>韈</sic></choice>＝襪【宋】【元】【明】【乙】</note><app n="0215012"><lem wit="【大】"><g ref="#CB02594"/></lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">襪</rdg></app>多以灑<note place="inline">引</note>弭<note place="inline">十</note>薩嚩薩怛嚩<note place="inline">二合</note>蘇<note place="inline">上</note>
+<lb n="0215a23" ed="T"/>佉<note place="inline">去引</note>嚩憾<note place="inline">十一</note>怛儞也<note place="inline">二合</note>他<note place="inline">去引十二</note>唵悉地悉地
+<lb n="0215a24" ed="T"/><note place="inline">十三</note>蘇<note place="inline">上</note>母蘇<note place="inline">上</note>母<note n="0215013" resp="Taisho" place="foot text" type="orig">〔十四〕－【甲】</note><app n="0215013"><lem wit="【大】"><note place="inline">十四</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>左<note place="inline">上</note>左<note place="inline">上</note>左<note place="inline">上</note>左<note place="inline">上十五</note>左
+<lb n="0215a25" ed="T"/>囉左囉<note n="0215014" resp="Taisho" place="foot text" type="orig">〔十六〕－【甲】</note><app n="0215014"><lem wit="【大】"><note place="inline">十六</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>娑囉娑囉<note place="inline">十七</note>羯囉羯囉<note place="inline">十八</note><note n="0215015" resp="Taisho" place="foot text" type="orig">抧＝枳【乙】＊</note><note n="0215015" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->抧＝枳【乙】＊</note><app n="0215015"><lem wit="【大】">抧</lem><rdg resp="Taisho" wit="【乙】">枳</rdg></app>
+<lb n="0215a26" ed="T"/>里抧里<note place="inline">十九</note>矩嚕矩嚕<note place="inline">二十</note>母嚕母嚕<note place="inline">二十一</note>主嚕
+<lb n="0215a27" ed="T"/>主嚕<note place="inline">二十二</note>娑<note place="inline">去<note n="0215016" resp="Taisho" place="foot text" type="orig">引＝聲【明】【乙】</note><app n="0215016"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【明】【乙】">聲</rdg></app></note>馱野遏貪<app type="star" corresp="#0215006"><lem wit="【大】">麼</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">摩</rdg></app>麼<note place="inline">二十三</note>𩕳底也
+<lb n="0215a28" ed="T"/><note place="inline">二合</note>末他<note n="0215017" resp="Taisho" place="foot text" type="orig">弩＝拏ィ【乙】</note><app n="0215017"><lem wit="【大】">弩</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">拏</rdg></app><note place="inline">鼻引</note><note n="0215018" resp="Taisho" place="foot text" type="orig">婆＝娑【宋】</note><app n="0215018"><lem wit="【大】">婆</lem><rdg resp="Taisho" wit="【宋】">娑</rdg></app><note place="inline">去</note>嚩娑嚩<note place="inline">二<note n="0215019" resp="Taisho" place="foot text" type="orig">合＋（引）【三】【乙】</note><note n="0215019" resp="CBETA" type="mod">合＋（引）【宋】【元】【明】【乙】</note><app n="0215019"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">合引</rdg></app></note>賀<note place="inline"><note n="0215020" resp="Taisho" place="foot text" type="orig">（引）＋二【三】【甲】【乙】＊</note><note n="0215020" resp="CBETA" type="mod">（引）＋二【宋】【元】【明】【甲】【乙】＊</note><app n="0215020"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">引二</rdg></app>十四</note>吠
+<lb n="0215a29" ed="T"/>室囉<note n="0215021" resp="Taisho" place="foot text" type="orig">〔二合〕－【甲】</note><app n="0215021"><lem wit="【大】"><note place="inline">二合</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>麼拏<note place="inline">鼻引</note>野娑嚩<note place="inline">二合引</note>賀<note place="inline"><app type="star" corresp="#0215020"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">引二</rdg></app>十五</note>馱曩娜
+<pb n="0215b" xml:id="T21.1244.0215b" ed="T"/>
+<lb n="0215b01" ed="T"/><note place="inline">引</note>野娑嚩<note place="inline">二合</note>賀<note place="inline">引二十六</note>麼<note n="0215022" resp="Taisho" place="foot text" type="orig">〔鼻〕－【甲】</note><app n="0215022"><lem wit="【大】"><note place="inline">鼻</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="0215023" resp="Taisho" place="foot text" type="orig">拏＝弩【三】【甲】【乙】</note><note n="0215023" resp="CBETA" type="mod">拏＝弩【宋】【元】【明】【甲】【乙】</note><app n="0215023"><lem wit="【大】">拏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">弩</rdg></app><note place="inline">鼻引</note>囉他<note place="inline">二十七</note>跛
+<lb n="0215b02" ed="T"/><note n="0215024" resp="Taisho" place="foot text" type="orig">哩＝里【乙】</note><app n="0215024"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【乙】">里</rdg></app>布<note place="inline">引</note>囉迦<note place="inline">引</note><note n="0215025" resp="Taisho" place="foot text" type="orig">野＝也【甲】，〔野〕－ィ【乙】</note><app n="0215025"><lem wit="【大】">野</lem><rdg resp="Taisho" wit="【甲】">也</rdg><rdg resp="Taisho" wit="【乙】" type="variantRemark"><space quantity="0"/></rdg></app>娑嚩<note place="inline">二<note n="0215026" resp="Taisho" place="foot text" type="orig">合＋（引）【三】【乙】</note><note n="0215026" resp="CBETA" type="mod">合＋（引）【宋】【元】【明】【乙】</note><app n="0215026"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">合引</rdg></app></note>賀<note place="inline">引二十八</note></p>
+<lb n="0215b03" ed="T"/><p xml:id="pT21p0215b0301">爾時毘沙門天王說此真言已。白佛言世尊。
+<lb n="0215b04" ed="T"/>我今<note n="0215027" resp="Taisho" place="foot text" type="orig">（當）＋說【乙】</note><app n="0215027"><lem wit="【大】">說</lem><rdg resp="Taisho" wit="【乙】">當說</rdg></app>受持真言法。先取安<note n="0215028" resp="Taisho" place="foot text" type="orig">悉＝息【明】【乙】＊</note><note n="0215028" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->悉＝息【明】【乙】＊</note><app n="0215028"><lem wit="【大】">悉</lem><rdg resp="Taisho" wit="【明】【乙】">息</rdg></app>香白檀香
+<lb n="0215b05" ed="T"/>龍腦香多<g ref="#CB00754"/>囉香薰陸香蘇合香。和合此香。
+<lb n="0215b06" ed="T"/>供養我毘沙門天王。若迎請時結根本印。以
+<lb n="0215b07" ed="T"/>二頭指向身三招。即誦真言七遍頂上散印。</p>
+<lb n="0215b08" ed="T"/><p xml:id="pT21p0215b0801" cb:type="dharani">怛儞也<note place="inline">二合</note>他<note place="inline">去引一</note>曩謨<note n="0215029" resp="Taisho" place="foot text" type="orig">吠引＝引吠【乙】</note><app n="0215029"><lem wit="【大】">吠<note place="inline">引</note></lem><rdg resp="Taisho" wit="【乙】">引吠</rdg></app>室囉<note place="inline">二合</note>麼<note place="inline">鼻<note n="0215030" resp="Taisho" place="foot text" type="orig">〔音呼〕－【三】【甲】【乙】</note><note n="0215030" resp="CBETA" type="mod">〔音呼〕－【宋】【元】【明】【甲】【乙】</note><app n="0215030"><lem wit="【大】">音呼</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app></note>
+<lb n="0215b09" ed="T"/><note n="0215031" resp="Taisho" place="foot text" type="orig">拏＝弩【宋】</note><app n="0215031"><lem wit="【大】">拏</lem><rdg resp="Taisho" wit="【宋】">弩</rdg></app><note place="inline">鼻<note n="0215032" resp="Taisho" place="foot text" type="orig">〔音〕－【三】【甲】【乙】＊</note><note n="0215032" resp="CBETA" type="mod">〔音〕－【宋】【元】【明】【甲】【乙】＊</note><app n="0215032"><lem wit="【大】">音</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app>引</note>野<note place="inline">二</note>曩謨<note n="0215033" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】＊</note><app n="0215033"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>馱曩娜<app type="star" corresp="#0215033"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>野<note place="inline">三</note>馱寗<note place="inline">寧定
+<lb n="0215b10" ed="T"/><note n="0215034" resp="Taisho" place="foot text" type="orig">反＝切【三】【乙】＊</note><note n="0215034" resp="CBETA" type="mod">反＝切【宋】【元】【明】【乙】＊</note><app n="0215034"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">切</rdg></app>引</note>濕嚩<note place="inline">二合</note>囉<note place="inline">引</note>野<note place="inline">四</note>阿<note place="inline">去引</note><g ref="#CB00754"/><note place="inline">言羯<app type="star" corresp="#0215034"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">切</rdg></app></note>蹉<note place="inline">去引</note><note n="0215035" resp="Taisho" place="foot text" type="orig">（阿）＋<g ref="#CB00754"/>【三】【乙】</note><note n="0215035" resp="CBETA" type="mod">（阿）＋<g ref="#CB00754"/>【宋】【元】【明】【乙】</note><app n="0215035"><lem wit="【大】"><g ref="#CB00754"/></lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">阿<g ref="#CB00754"/></rdg></app>
+<lb n="0215b11" ed="T"/>蹉<note place="inline">五</note>阿跛哩弭多馱甯<note place="inline">引</note>濕嚩<note place="inline">二合</note>囉<note place="inline">六</note>鉢囉麼
+<lb n="0215b12" ed="T"/><note place="inline">鼻</note>迦<app type="star" corresp="#0215033"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>嚕抳迦<note place="inline">七</note>薩嚩薩答嚩<note place="inline">二合</note>呬<note place="inline">馨異<app type="star" corresp="#0215034"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">切</rdg></app></note>多<note place="inline">上</note>
+<lb n="0215b13" ed="T"/>唧多<note place="inline">八</note>麼麼馱曩麼<note place="inline">鼻<app type="star" corresp="#0215032"><lem wit="【大】">音</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app></note><note n="0215036" resp="Taisho" place="foot text" type="orig">拏＝弩【三】【甲】【乙】</note><note n="0215036" resp="CBETA" type="mod">拏＝弩【宋】【元】【明】【甲】【乙】</note><app n="0215036"><lem wit="【大】">拏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">弩</rdg></app><note place="inline">鼻<app type="star" corresp="#0215032"><lem wit="【大】">音</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app></note>鉢囉<note place="inline">二合</note>拽
+<lb n="0215b14" ed="T"/><note place="inline">延結<app type="star" corresp="#0215034"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">切</rdg></app></note>蹉<note place="inline">九</note>娑嚩<note place="inline">二合</note>琰麼<note place="inline">鼻<app type="star" corresp="#0215032"><lem wit="【大】">音</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app>引</note>蘗<note n="0215037" resp="Taisho" place="foot text" type="orig">嗟＝蹉【乙】</note><app n="0215037"><lem wit="【大】">嗟</lem><rdg resp="Taisho" wit="【乙】">蹉</rdg></app>娑嚩<note place="inline">二<note n="0215038" resp="Taisho" place="foot text" type="orig">合＋（引）【三】【乙】</note><note n="0215038" resp="CBETA" type="mod">合＋（引）【宋】【元】【明】【乙】</note><app n="0215038"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">合引</rdg></app></note>
+<lb n="0215b15" ed="T"/>賀<note place="inline">引十</note></p>
+<lb n="0215b16" ed="T"/><p xml:id="pT21p0215b1601">行者念誦常無間斷。乃至毘沙門天王子赦
+<lb n="0215b17" ed="T"/>儞娑。現童子形告持誦者言。汝有何事請召
+<lb n="0215b18" ed="T"/>我父。持誦者言。我為供養三寶<note n="0215039" resp="Taisho" place="foot text" type="orig">受＝授【三】【甲】【乙】</note><note n="0215039" resp="CBETA" type="mod">受＝授【宋】【元】【明】【甲】【乙】</note><app n="0215039"><lem wit="【大】">受</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">授</rdg></app>與我財
+<lb n="0215b19" ed="T"/>寶。童子赦儞娑於須臾頃。還至毘沙門天王
+<lb n="0215b20" ed="T"/>所。告父王言。持誦者求諸財寶。為供養故利
+<lb n="0215b21" ed="T"/>益有情。毘沙門天王告童子赦儞娑言。汝日
+<lb n="0215b22" ed="T"/>日與金錢一百乃至壽終。其童子赦儞娑。日
+<lb n="0215b23" ed="T"/>日送金錢一百。與持誦者安於頭邊。其金錢
+<lb n="0215b24" ed="T"/>異種香氣。先願所得之者。除自受用外應行
+<lb n="0215b25" ed="T"/>捨施。不應貯積而懷慳悋。常於一切有情起
+<lb n="0215b26" ed="T"/>大<note n="0215040" resp="Taisho" place="foot text" type="orig">慈＝悲【三】【甲】【乙】</note><note n="0215040" resp="CBETA" type="mod">慈＝悲【宋】【元】【明】【甲】【乙】</note><app n="0215040"><lem wit="【大】">慈</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">悲</rdg></app>心勿生嗔恚。以殊勝香花飲食燈明。於
+<lb n="0215b27" ed="T"/>寂靜處如法供養佛法僧寶。兼復思惟而無
+<lb n="0215b28" ed="T"/>間斷。為毘沙門天王并諸眷屬。念恩德故常
+<lb n="0215b29" ed="T"/>應誦吉祥讚。令彼天王獲諸吉慶。願毘沙門
+<lb n="0215b30" ed="T"/>天王男女眷屬內外親姻輔弼。乃至使者及
+<pb n="0215c" xml:id="T21.1244.0215c" ed="T"/>
+<lb n="0215c01" ed="T"/>諸營從。國界有情佛所稱讚十種福利悉皆
+<lb n="0215c02" ed="T"/>獲得。所謂一者淨信二者戒。<note n="0215041" resp="Taisho" place="foot text" type="orig">二＝三【三】【甲】【乙】</note><note n="0215041" resp="CBETA" type="mod">二＝三【宋】【元】【明】【甲】【乙】</note><app n="0215041"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">三</rdg></app>者聞四者
+<lb n="0215c03" ed="T"/>捨。五者受六者慧。七者形貌八者力。九者辯
+<lb n="0215c04" ed="T"/>十者色聲香味觸富貴自在。於佛法中而<note n="0215042" resp="Taisho" place="foot text" type="orig">開＝聞【宋】</note><app n="0215042"><lem wit="【大】">開</lem><rdg resp="Taisho" wit="【宋】">聞</rdg></app>
+<lb n="0215c05" ed="T"/>法眼。證得聖果獲得甘露妙法。亦得三十七
+<lb n="0215c06" ed="T"/>品助佛道法。持誦者每日作如是發願。毘沙
+<lb n="0215c07" ed="T"/>門天王即生歡喜告自營從眷屬。汝等觀彼
+<lb n="0215c08" ed="T"/>持誦者於我深生恭敬。</p>
+<lb n="0215c09" ed="T"/><p xml:id="pT21p0215c0901">復告<note n="0215043" resp="Taisho" place="foot text" type="orig">（童）＋子【甲】【乙】</note><app n="0215043"><lem wit="【大】">子</lem><rdg resp="Taisho" wit="【甲】【乙】">童子</rdg></app>赦儞娑言。持誦者希望。欲見我毘沙
+<lb n="0215c10" ed="T"/>門藥叉王欲閉惡趣門。所思勝願皆令滿足。
+<lb n="0215c11" ed="T"/>壽無量百千歲。獲得如意寶飛騰虛空。安<note n="0215044" resp="Taisho" place="foot text" type="orig">怛＋（怛）【甲】，＋（但）【乙】</note><app n="0215044"><lem wit="【大】">怛</lem><rdg resp="Taisho" wit="【甲】">怛怛</rdg><rdg resp="Taisho" wit="【乙】">怛但</rdg></app>
+<lb n="0215c12" ed="T"/>那及得伏藏。若男若女及囉惹皆令敬愛。亦
+<lb n="0215c13" ed="T"/>解一切禽獸語言。令得豐財永離貧匱。彼持
+<lb n="0215c14" ed="T"/>誦者<note n="0215045" resp="Taisho" place="foot text" type="orig">當＝常【三】</note><note n="0215045" resp="CBETA" type="mod">當＝常【宋】【元】【明】</note><app n="0215045"><lem wit="【大】">當</lem><rdg resp="Taisho" wit="【宋】【元】【明】">常</rdg></app>於白月八日及十五日。令畫人受八
+<lb n="0215c15" ed="T"/>戒澡浴著新淨衣。取不截白㲲畫像。其彩色
+<lb n="0215c16" ed="T"/>中不用皮膠。中心畫釋迦牟尼佛作說法相。
+<lb n="0215c17" ed="T"/>佛右邊畫吉祥天女形。眼目廣長顏貌寂靜。
+<lb n="0215c18" ed="T"/>首戴天冠瓔珞臂釧莊嚴其身。右手作施願手
+<lb n="0215c19" ed="T"/>左手執開敷蓮花。畫像得已於清淨處。安像
+<lb n="0215c20" ed="T"/>供養以塗香花鬘燒香飲食燈明。以供養佛及
+<lb n="0215c21" ed="T"/>吉祥天女。受持者不應以下劣心而生恐怖。應
+<lb n="0215c22" ed="T"/>以決定心。如法念誦此吉祥天女真言曰。</p>
+<lb n="0215c23" ed="T"/><p xml:id="pT21p0215c2301" cb:type="dharani"><note n="0215046" resp="Taisho" place="foot text" type="orig">梵字真言附載於卷末</note>曩莫室哩<note place="inline">二合</note>伽<note place="inline">去</note>曩<note place="inline">引</note>野曩謨吠<note place="inline">引</note>室囉<note place="inline">二合</note>
+<lb n="0215c24" ed="T"/>摩拏<note place="inline">上引</note>野<note place="inline">二</note>摩賀<note place="inline">引</note>藥乞灑<note place="inline">二合</note>囉<note place="inline">引</note>惹<note place="inline">引</note>地囉
+<lb n="0215c25" ed="T"/><note place="inline">引</note><note n="0215047" resp="Taisho" place="foot text" type="orig">惹＋（引）夾註【甲】</note><app n="0215047"><lem wit="【大】">惹</lem><rdg resp="Taisho" wit="【甲】">惹<note place="inline">引</note></rdg></app>野<note place="inline">三</note>曩莫室哩<note place="inline">二合</note>夜<note place="inline">引</note><g ref="#CB02370"/><note place="inline">引四</note>摩<note n="0215048" resp="Taisho" place="foot text" type="orig">賀＝訶【明】【乙】</note><app n="0215048"><lem wit="【大】">賀</lem><rdg resp="Taisho" wit="【明】【乙】">訶</rdg></app><note place="inline">引</note>禰
+<pb n="0216a" xml:id="T21.1244.0216a" ed="T"/>
+<lb n="0216a01" ed="T"/><note place="inline">引</note>吠<note place="inline">鼻<note n="0216001" resp="Taisho" place="foot text" type="orig">〔引〕－【元】【明】【乙】</note><app n="0216001"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【元】【明】【乙】"><space quantity="0"/></rdg></app>五</note>怛儞也<note place="inline">二合</note>他<note place="inline">去引六</note>唵怛囉怛囉<app type="star" corresp="#0215010"><lem wit="【大】"><note place="inline">七</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>咄
+<lb n="0216a02" ed="T"/>嚕咄嚕<note n="0216002" resp="Taisho" place="foot text" type="orig">〔八〕－【甲】</note><app n="0216002"><lem wit="【大】"><note place="inline">八</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>蘇瑟貙<note place="inline">二合</note>蘇瑟貙<note place="inline">二合下<note n="0216003" resp="Taisho" place="foot text" type="orig">〔貙〕－【元】【明】【乙】</note><app n="0216003"><lem wit="【大】">貙</lem><rdg resp="Taisho" wit="【元】【明】【乙】"><space quantity="0"/></rdg></app><note n="0216004" resp="Taisho" place="foot text" type="orig">〔勅〕－【宋】</note><app n="0216004"><lem wit="【大】">勅</lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app>數<note n="0216005" resp="Taisho" place="foot text" type="orig">反＝切【三】【乙】＊</note><note n="0216005" resp="CBETA" type="mod">反＝切【宋】【元】【明】【乙】＊</note><app n="0216005"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">切</rdg></app>上同九</note>麼
+<lb n="0216a03" ed="T"/>抳迦<note n="0216006" resp="Taisho" place="foot text" type="orig">〔曩迦〕－【甲】</note><app n="0216006"><lem wit="【大】">曩迦</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note place="inline">十</note>嚩日<note n="0216007" resp="Taisho" place="foot text" type="orig">嚩＝囉【三】【乙】</note><note n="0216007" resp="CBETA" type="mod">嚩＝囉【宋】【元】【明】【乙】</note><app n="0216007"><lem wit="【大】">嚩</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">囉</rdg></app><note place="inline">二合</note>吠<note place="inline">引</note>女<note place="inline">拏數<app type="star" corresp="#0216005"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">切</rdg></app>引</note>哩也<note place="inline">二合
+<lb n="0216a04" ed="T"/>十一</note>穆訖多<note place="inline">二合</note>曩<note place="inline">引</note>麼<note place="inline">引</note>稜<note place="inline">去</note>訖𠴊<note place="inline">二合</note>多<note place="inline">十二</note>僕
+<lb n="0216a05" ed="T"/><note place="inline">引十三</note>薩嚩薩怛嚩<note place="inline">二合十四</note>呬多迦<note place="inline">引</note>麼<note place="inline">十五</note>吠<note place="inline">引</note>室囉
+<lb n="0216a06" ed="T"/><note place="inline">二合</note><note n="0216008" resp="Taisho" place="foot text" type="orig">摩＝麼【甲】</note><app n="0216008"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】">麼</rdg></app>拏<note place="inline">十六</note>室哩<note place="inline">二合</note>野泥<note place="inline">上</note>尾<note place="inline">引十七</note>末臘毘
+<lb n="0216a07" ed="T"/><note place="inline">去十八</note><note n="0216009" resp="Taisho" place="foot text" type="orig">曀＝𪾼【乙】</note><app n="0216009"><lem wit="【大】">曀</lem><rdg resp="Taisho" wit="【乙】">𪾼</rdg></app>醯<note place="inline">去引</note>呬<note place="inline">十九</note>具囉拏<note place="inline">二合鼻</note>具囉拏<note place="inline">二合鼻二十</note>
+<lb n="0216a08" ed="T"/>麼娑麼娑<note place="inline">二十一</note>捺囉<note place="inline">二合</note>捨野悉地<note place="inline">二十二</note>娜娜<note place="inline">引</note>
+<lb n="0216a09" ed="T"/>呬銘<note place="inline">二十三</note>捺囉<note place="inline">二合</note>捨曩迦<note place="inline">引</note>麼寫<note place="inline">二十四</note>捺囉<note place="inline">二合</note>
+<lb n="0216a10" ed="T"/>捨南<note place="inline">二十五</note>鉢囉<note place="inline">二合</note><note n="0216010" resp="Taisho" place="foot text" type="orig">〔賀攞二合〕－【三】【甲】【乙】</note><note n="0216010" resp="CBETA" type="mod">〔賀攞二合〕－【宋】【元】【明】【甲】【乙】</note><app n="0216010"><lem wit="【大】">賀攞<note place="inline">二合</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app>賀攞<note place="inline"><app type="star" corresp="#0215020"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">引二</rdg></app>合引</note>娜野
+<lb n="0216a11" ed="T"/><app type="star" corresp="#0215006"><lem wit="【大】">麼</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">摩</rdg></app>諾娑<note n="0216011" resp="Taisho" place="foot text" type="orig">縛＝嚩【三】【甲】【乙】</note><note n="0216011" resp="CBETA" type="mod">縛＝嚩【宋】【元】【明】【甲】【乙】</note><app n="0216011"><lem wit="【大】">縛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">嚩</rdg></app><note place="inline">二合引</note>賀<note n="0216012" resp="Taisho" place="foot text" type="orig">〔引二十六〕－【甲】</note><app n="0216012"><lem wit="【大】"><note place="inline">引二十六</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></p>
+<lb n="0216a12" ed="T"/><p xml:id="pT21p0216a1201">爾時毘沙門天王。見持<note n="0216013" resp="Taisho" place="foot text" type="orig">誦＋（者）【甲】</note><app n="0216013"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】">誦者</rdg></app>此真言及供養如
+<lb n="0216a13" ed="T"/>來。愍念行者。則為現身作童子形或居士形。
+<lb n="0216a14" ed="T"/>右手持如意寶左手持金篋。顏貌寂靜來至
+<lb n="0216a15" ed="T"/>像前。禮佛像已告行者言。汝今於我欲求何
+<lb n="0216a16" ed="T"/>願。為入修羅窟耶。為求伏藏耶。為求伏火水
+<lb n="0216a17" ed="T"/>銀耶。為求安<note n="0216014" resp="Taisho" place="foot text" type="orig">怛＋（怛）【三】【甲】【乙】</note><note n="0216014" resp="CBETA" type="mod">怛＋（怛）【宋】【元】【明】【甲】【乙】</note><app n="0216014"><lem wit="【大】">怛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">怛怛</rdg></app>那囉惹敬愛耶。雄黃成就耶
+<lb n="0216a18" ed="T"/>安膳那藥成就耶。持明成就耶飛騰虛空耶
+<lb n="0216a19" ed="T"/><note n="0216015" resp="Taisho" place="foot text" type="orig">受＝壽【三】【乙】</note><note n="0216015" resp="CBETA" type="mod">受＝壽【宋】【元】【明】【乙】</note><app n="0216015"><lem wit="【大】">受</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">壽</rdg></app>命一大劫耶。如是等願悉能成就。持誦者
+<lb n="0216a20" ed="T"/>白毘沙門天王言。願我一切處通達。獲得金
+<lb n="0216a21" ed="T"/>銀無盡名稱福德。壽命無量劫飛騰虛空。變
+<lb n="0216a22" ed="T"/>化種種瑜伽自在。毘沙門言隨汝所願。爾時
+<lb n="0216a23" ed="T"/>毘沙門天王。欲重明其義而說偈言。</p>
+<lb n="0216a24" ed="T"/><lg xml:id="lgT21p0216a2401"><l>假使有日月</l><l>從空墮於地</l>
+<lb n="0216a25" ed="T"/><l>或大地傾覆</l><l>寧有如是事</l>
+<lb n="0216a26" ed="T"/><l>不應生少疑</l><l>此法易成就</l>
+<lb n="0216a27" ed="T"/><l>不假於齋戒</l><l>利益貧匱者</l>
+<lb n="0216a28" ed="T"/><l>一切人恭敬</l><l>乃至<note n="0216016" resp="Taisho" place="foot text" type="orig">壽命盡＝盡壽命【三】【乙】</note><note n="0216016" resp="CBETA" type="mod">壽命盡＝盡壽命【宋】【元】【明】【乙】</note><app n="0216016"><lem wit="【大】">壽命盡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">盡壽命</rdg></app></l>
+<lb n="0216a29" ed="T"/><l>毘沙門加持</l><l>遠離諸<note n="0216017" resp="Taisho" place="foot text" type="orig">厄＝危【三】【甲】【乙】</note><note n="0216017" resp="CBETA" type="mod">厄＝危【宋】【元】【明】【甲】【乙】</note><app n="0216017"><lem wit="【大】">厄</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">危</rdg></app>難</l>
+<pb n="0216b" xml:id="T21.1244.0216b" ed="T"/>
+<lb n="0216b01" ed="T"/><l>藥叉將衛護</l><l>常隨受持者</l>
+<lb n="0216b02" ed="T"/><l>若能持是教</l><l>諸願悉成就</l>
+<lb n="0216b03" ed="T"/><l>迅疾如射箭</l><l>諸王敬彼人</l>
+<lb n="0216b04" ed="T"/><l>獲得無盡寶</l><l>千俱胝藥叉</l>
+<lb n="0216b05" ed="T"/><l>衛護持誦者</l><l>能滿諸勝願</l>
+<lb n="0216b06" ed="T"/><l>解脫諸惡趣</l><l>若見毘沙門</l>
+<lb n="0216b07" ed="T"/><l>俱尾羅財施</l><l>獲得大智慧</l>
+<lb n="0216b08" ed="T"/><l>乃至天眼通</l><l>壽命俱胝歲</l>
+<lb n="0216b09" ed="T"/><l>若人殷重心</l><l>愛敬此教法</l>
+<lb n="0216b10" ed="T"/><l>應當求成就</l><l>決定無有疑</l>
+<lb n="0216b11" ed="T"/><l>今此護身法</l><l>多聞天所說</l>
+<lb n="0216b12" ed="T"/><l>由此加持故</l><l>真言上悉地</l>
+<lb n="0216b13" ed="T"/><l>即誦護身明</l></lg>
+<lb n="0216b14" ed="T"/><p xml:id="pT21p0216b1401" cb:type="dharani">曩謨囉怛曩<note place="inline">二合</note>怛囉<note place="inline">二合</note><note n="0216018" resp="Taisho" place="foot text" type="orig">〔野引上聲〕－【三】</note><note n="0216018" resp="CBETA" type="mod">〔野引上聲〕－【宋】【元】【明】</note><app n="0216018"><lem wit="【大】">野<note place="inline">引<note n="0216019" resp="Taisho" place="foot text" type="orig">上＝去【乙】</note><app n="0216019"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【乙】">去</rdg></app>聲</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>野<note place="inline">一</note>曩謨
+<lb n="0216b15" ed="T"/>吠<note place="inline">引</note>室囉<note place="inline">二合</note>麼<note place="inline"><note n="0216020" resp="Taisho" place="foot text" type="orig">鼻＋（引）【甲】</note><app n="0216020"><lem wit="【大】">鼻</lem><rdg resp="Taisho" wit="【甲】">鼻引</rdg></app></note>拏<note n="0216021" resp="Taisho" place="foot text" type="orig">〔鼻引〕－【甲】</note><app n="0216021"><lem wit="【大】"><note place="inline">鼻引</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>野<note n="0216022" resp="Taisho" place="foot text" type="orig">（二合）＋二【三】，〔二〕－【甲】</note><note n="0216022" resp="CBETA" type="mod">（二合）＋二【宋】【元】【明】，〔二〕－【甲】</note><app n="0216022"><lem wit="【大】"><note place="inline">二</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><note place="inline">二合二</note></rdg><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="0216023" resp="Taisho" place="foot text" type="orig">摩＝麼【三】【乙】</note><note n="0216023" resp="CBETA" type="mod">摩＝麼【宋】【元】【明】【乙】</note><app n="0216023"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">麼</rdg></app>賀<note place="inline">引</note>囉<note place="inline">引</note>
+<lb n="0216b16" ed="T"/>惹<note place="inline">引</note>野<note place="inline">三</note>怛儞也<note place="inline">二合</note>他<note place="inline"><note n="0216024" resp="Taisho" place="foot text" type="orig">去引＝去引四【三】【乙】</note><note n="0216024" resp="CBETA" type="mod">去引＝去引四【宋】【元】【明】【乙】</note><app n="0216024"><lem wit="【大】">去引</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">去引四</rdg></app></note>唵<note place="inline"><note n="0216025" resp="Taisho" place="foot text" type="orig">四＝引【三】【乙】</note><note n="0216025" resp="CBETA" type="mod">四＝引【宋】【元】【明】【乙】</note><app n="0216025"><lem wit="【大】">四</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">引</rdg></app></note>𠻴<note place="inline">轉舌</note>誐𠻴
+<lb n="0216b17" ed="T"/><note place="inline">准上</note>誐<note place="inline">五</note><note n="0216026" resp="Taisho" place="foot text" type="orig">赦＝𧹞【乙】</note><app n="0216026"><lem wit="【大】">赦</lem><rdg resp="Taisho" wit="【乙】">𧹞</rdg></app><note place="inline"><note n="0216027" resp="Taisho" place="foot text" type="orig">吒＝尼【三】【乙】</note><note n="0216027" resp="CBETA" type="mod">吒＝尼【宋】【元】【明】【乙】</note><app n="0216027"><lem wit="【大】">吒</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">尼</rdg></app>簡<app type="star" corresp="#0216005"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">切</rdg></app>下同</note>拏<note n="0216028" resp="Taisho" place="foot text" type="orig">赦＝𧹞【三】【甲】【乙】</note><note n="0216028" resp="CBETA" type="mod">赦＝𧹞【宋】【元】【明】【甲】【乙】</note><app n="0216028"><lem wit="【大】">赦</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">𧹞</rdg></app>拏<note place="inline">六</note>齲<note place="inline">區宇<app type="star" corresp="#0216005"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">切</rdg></app>下文同</note><note n="0216029" resp="Taisho" place="foot text" type="orig">拏＝弩【三】【甲】【乙】</note><note n="0216029" resp="CBETA" type="mod">拏＝弩【宋】【元】【明】【甲】【乙】</note><app n="0216029"><lem wit="【大】">拏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">弩</rdg></app>
+<lb n="0216b18" ed="T"/><note place="inline">拏數<app type="star" corresp="#0216005"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">切</rdg></app>鼻音數字上聲</note>齲弩<note place="inline">准上音七</note>摩賀<note place="inline">引</note>囉<note place="inline">引</note>惹<note place="inline">八</note>灑乞灑<note place="inline">二
+<lb n="0216b19" ed="T"/>合</note>灑乞灑<note place="inline">二合</note>𤚥<note place="inline">莫感<app type="star" corresp="#0216005"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">切</rdg></app><note n="0216030" resp="Taisho" place="foot text" type="orig">引鼻＝鼻引【乙】</note><app n="0216030"><lem wit="【大】">引鼻</lem><rdg resp="Taisho" wit="【乙】">鼻引</rdg></app>九</note>薩冒<note place="inline">毛保<app type="star" corresp="#0216005"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">切</rdg></app>引</note>鉢捺囉<note place="inline">二合</note>
+<lb n="0216b20" ed="T"/>吠<note place="inline">引</note>毘藥<note place="inline">二合</note>娑嚩<note place="inline"><app type="star" corresp="#0215020"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">引二</rdg></app>合引</note>賀<note place="inline">引十</note></p>
+<lb n="0216b21" ed="T"/><p xml:id="pT21p0216b2101">我今說根本印。以二手右押左內相叉。竪二
+<lb n="0216b22" ed="T"/><note n="0216031" resp="Taisho" place="foot text" type="orig">名＝右【三】</note><note n="0216031" resp="CBETA" type="mod">名＝右【宋】【元】【明】</note><app n="0216031"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【宋】【元】【明】">右</rdg></app>指頭相合。屈二頭指如鉤。若迎請時向身
+<lb n="0216b23" ed="T"/>招。若發遣時向外撥。念誦時結印當心誦七
+<lb n="0216b24" ed="T"/>遍即頂上散。然後取念珠專注念誦。次說吉
+<lb n="0216b25" ed="T"/>祥天女身印。二手虛心合掌。開二頭指二中
+<lb n="0216b26" ed="T"/>指二無名指。屈如蓮華形。二大指二小指<note n="0216032" resp="Taisho" place="foot text" type="orig">竪＝堅【明】</note><app n="0216032"><lem wit="【大】">竪</lem><rdg resp="Taisho" wit="【明】">堅</rdg></app>
+<lb n="0216b27" ed="T"/>合。若念誦時當心結誦真言七遍頂上<note n="0216033" resp="Taisho" place="foot text" type="orig">散＋（毘沙門天王經中）【三】【乙】</note><note n="0216033" resp="CBETA" type="mod">散＋（毘沙門天王經中）【宋】【元】【明】【乙】</note><app n="0216033"><lem wit="【大】">散</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">散毘沙門天王經中</rdg></app>。</p>
+<lb n="0216b28" ed="T"/><p xml:id="pT21p0216b2801"><note n="0216034" resp="Taisho" place="foot text" type="orig">毘字以下甲本無</note><note n="0216034" resp="CBETA" type="mod"><!--CBETA todo type: a-->毘字以下甲本無</note>毘沙門天王呪曰。</p>
+<lb n="0216b29" ed="T"/><p xml:id="pT21p0216b2901" cb:type="dharani">那謨裴鑠囉皤拏寫<note place="inline">一</note>摩訶曷囉闍寫施鞞<note place="inline">二</note>
+<pb n="0216c" xml:id="T21.1244.0216c" ed="T"/>
+<lb n="0216c01" ed="T"/>娑婆呵<note place="inline">三</note>施皤<note n="0216035" resp="Taisho" place="foot text" type="orig">𧿡＝跋【三】【乙】</note><note n="0216035" resp="CBETA" type="mod">𧿡＝跋【宋】【元】【明】【乙】</note><app n="0216035"><lem wit="【大】">𧿡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">跋</rdg></app>跌犁娑婆<note n="0216036" resp="Taisho" place="foot text" type="orig">訶＋（四）【三】【乙】</note><note n="0216036" resp="CBETA" type="mod">訶＋（四）【宋】【元】【明】【乙】</note><app n="0216036"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">訶四</rdg></app></p>
+<lb n="0216c02" ed="T"/><p xml:id="pT21p0216c0201">若呪淨<note n="0216037" resp="Taisho" place="foot text" type="orig">油＝洒【三】</note><note n="0216037" resp="CBETA" type="mod">油＝洒【宋】【元】【明】</note><app n="0216037"><lem wit="【大】">油</lem><rdg resp="Taisho" wit="【宋】【元】【明】">洒</rdg></app>七<note n="0216038" resp="Taisho" place="foot text" type="orig">遍＋（二七遍）【三】【乙】</note><note n="0216038" resp="CBETA" type="mod">遍＋（二七遍）【宋】【元】【明】【乙】</note><app n="0216038"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">遍二七遍</rdg></app>用塗臥所。乞財物等得如
+<lb n="0216c03" ed="T"/>所願。</p>
+<lb n="0216c04" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>毘沙門天王<note n="0216039" resp="Taisho" place="foot text" type="orig">乙本奧書貞享四年二月十四日以和高二本校點之淨嚴四十九載，元祿十六年二月十七日以淨嚴和上之本再挍了尊教</note>經</title></cb:jhead></cb:juan></cb:div>
+<lb n="0216c05" ed="T"/><cb:div type="W"><p xml:lang="sa-Sidd" xml:id="pT21p0216c0501" cb:type="dharani"><note n="0216040" resp="Taisho" place="foot text" type="orig">此等梵字真言依靈雲寺版普通真言藏載之 cf. p. 215a [05], c [46]</note><g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A5FD"/><g ref="#SD-B448"/><g ref="#SD-AA5E"/><g ref="#SD-A5F2"/><g ref="#SD-A5F1"/><g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A65D"/><g ref="#SD-E0E1"/><g ref="#SD-A5E5"/><g ref="#SD-A54C"/><g ref="#SD-A5F1"/>
+<lb n="0216c06" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A5FE"/><g ref="#SD-A4B7"/><g ref="#SD-A5F1"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A67A"/><g ref="#SD-AF59"/><g ref="#SD-A5AA"/><g ref="#SD-A5E6"/><g ref="#SD-A663"/><g ref="#SD-A5B5"/><g ref="#SD-A640"/>
+<lb n="0216c07" ed="T"/><g ref="#SD-E042"/><g ref="#SD-A5FD"/><g ref="#SD-A54C"/><g ref="#SD-A5F1"/><g ref="#SD-A67C"/><g ref="#SD-AF73"/><g ref="#SD-A440"/><g ref="#SD-A5FE"/><g ref="#SD-A5F1"/><g ref="#SD-E0BC"/><g ref="#SD-A440"/><g ref="#SD-CA6E"/><g ref="#SD-A5AA"/><g ref="#SD-A5F1"/>
+<lb n="0216c08" ed="T"/><g ref="#SD-A557"/><g ref="#SD-B2D3"/><g ref="#SD-A5A9"/><g ref="#SD-A5F0"/><g ref="#SD-E0CE"/><g ref="#SD-AF59"/><g ref="#SD-CFC7"/><g ref="#SD-E05D"/><g ref="#SD-A65D"/><g ref="#SD-E0E1"/><g ref="#SD-A5E5"/><g ref="#SD-A54C"/><g ref="#SD-CC68"/><g ref="#SD-A56F"/>
+<lb n="0216c09" ed="T"/><g ref="#SD-A5F1"/><g ref="#SD-A5E6"/><g ref="#SD-A656"/><g ref="#SD-DAB1"/><g ref="#SD-CFC7"/><g ref="#SD-A66E"/><g ref="#SD-A5E7"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A67A"/><g ref="#SD-AF59"/><g ref="#SD-E0BC"/><g ref="#SD-A44D"/><g ref="#SD-A656"/>
+<lb n="0216c10" ed="T"/><g ref="#SD-A6B2"/><g ref="#SD-A557"/><g ref="#SD-DA4A"/><g ref="#SD-A564"/><g ref="#SD-DA42"/><g ref="#SD-A67C"/><g ref="#SD-AF73"/><g ref="#SD-D957"/><g ref="#SD-E0BC"/><g ref="#SD-E0BC"/><g ref="#SD-D957"/><g ref="#SD-A47C"/><g ref="#SD-A47C"/><g ref="#SD-A47C"/>
+<lb n="0216c11" ed="T"/><g ref="#SD-A47C"/><g ref="#SD-A47C"/><g ref="#SD-A5FD"/><g ref="#SD-D957"/><g ref="#SD-A67A"/><g ref="#SD-A5FD"/><g ref="#SD-D957"/><g ref="#SD-A440"/><g ref="#SD-A5FD"/><g ref="#SD-D957"/><g ref="#SD-A442"/><g ref="#SD-A640"/><g ref="#SD-D957"/><g ref="#SD-A444"/>
+<lb n="0216c12" ed="T"/><g ref="#SD-A642"/><g ref="#SD-D957"/><g ref="#SD-E043"/><g ref="#SD-A642"/><g ref="#SD-D957"/><g ref="#SD-E1D3"/><g ref="#SD-A642"/><g ref="#SD-D957"/><g ref="#SD-A67B"/><g ref="#SD-A57B"/><g ref="#SD-A5F1"/><g ref="#SD-CFC5"/><g ref="#SD-B6C6"/><g ref="#SD-A5E5"/>
+<lb n="0216c13" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-A5AB"/><g ref="#SD-A7D7"/><g ref="#SD-A5E5"/><g ref="#SD-A563"/><g ref="#SD-A5B1"/><g ref="#SD-A5DA"/><g ref="#SD-A656"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A65D"/><g ref="#SD-E0E1"/><g ref="#SD-A5E5"/><g ref="#SD-A54C"/>
+<lb n="0216c14" ed="T"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A57B"/><g ref="#SD-A5A9"/><g ref="#SD-A570"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/><g ref="#SD-A5E5"/><g ref="#SD-A5B1"/><g ref="#SD-A5FD"/><g ref="#SD-A563"/><g ref="#SD-A5B5"/>
+<lb n="0216c15" ed="T"/><g ref="#SD-A640"/><g ref="#SD-E042"/><g ref="#SD-A5FD"/><g ref="#SD-A441"/><g ref="#SD-A5F1"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/></p>
+<lb n="0216c16" ed="T"/><p xml:id="pT21p0216c1601" cb:type="dharani"><note n="0216041" resp="Taisho" place="foot text" type="orig">此等梵字真言依靈雲寺版普通真言藏載之 cf. p. 215a [05], c [46]</note><g ref="#SD-A5A9"/><g ref="#SD-A5F0"/><g ref="#SD-AB60"/><g ref="#SD-A459"/><g ref="#SD-A54C"/><g ref="#SD-A5F1"/><g ref="#SD-A5A9"/><g ref="#SD-A5ED"/><g ref="#SD-A65D"/><g ref="#SD-E0E1"/><g ref="#SD-A5E5"/><g ref="#SD-A54C"/><g ref="#SD-A5F1"/><g ref="#SD-A5E5"/>
+<lb n="0216c17" ed="T"/><g ref="#SD-A6A9"/><g ref="#SD-A5F1"/><g ref="#SD-A6B4"/><g ref="#SD-A5FE"/><g ref="#SD-A4B7"/><g ref="#SD-A57D"/><g ref="#SD-A5FE"/><g ref="#SD-A4B7"/><g ref="#SD-A5F1"/><g ref="#SD-A5A9"/><g ref="#SD-A5F0"/><g ref="#SD-AB60"/><g ref="#SD-A5F2"/><g ref="#SD-A5F7"/>
+<lb n="0216c18" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-A6A9"/><g ref="#SD-A575"/><g ref="#SD-A65C"/><g ref="#SD-A557"/><g ref="#SD-DA4A"/><g ref="#SD-A564"/><g ref="#SD-DA42"/><g ref="#SD-A557"/><g ref="#SD-A5FD"/><g ref="#SD-D957"/><g ref="#SD-A55B"/><g ref="#SD-A642"/><g ref="#SD-D957"/>
+<lb n="0216c19" ed="T"/><g ref="#SD-E0BC"/><g ref="#SD-E1D2"/><g ref="#SD-D957"/><g ref="#SD-A5E5"/><g ref="#SD-A54D"/><g ref="#SD-A440"/><g ref="#SD-A5A9"/><g ref="#SD-A440"/><g ref="#SD-A656"/><g ref="#SD-A9BD"/><g ref="#SD-A65D"/><g ref="#SD-A5DE"/><g ref="#SD-B769"/><g ref="#SD-E043"/>
+<lb n="0216c20" ed="T"/><g ref="#SD-E04D"/><g ref="#SD-A5AA"/><g ref="#SD-A5E6"/><g ref="#SD-E15E"/><g ref="#SD-CBA7"/><g ref="#SD-A557"/><g ref="#SD-E1A5"/><g ref="#SD-A67A"/><g ref="#SD-B7A3"/><g ref="#SD-A67A"/><g ref="#SD-AF59"/><g ref="#SD-A6AA"/><g ref="#SD-A557"/><g ref="#SD-A441"/>
+<lb n="0216c21" ed="T"/><g ref="#SD-A5E5"/><g ref="#SD-A65D"/><g ref="#SD-E0E1"/><g ref="#SD-A5E5"/><g ref="#SD-A54B"/><g ref="#SD-AB60"/><g ref="#SD-A5F1"/><g ref="#SD-A575"/><g ref="#SD-A659"/><g ref="#SD-A5E5"/><g ref="#SD-A654"/><g ref="#SD-A659"/><g ref="#SD-CFCF"/><g ref="#SD-E0AF"/>
+<lb n="0216c22" ed="T"/><g ref="#SD-A6AA"/><g ref="#SD-A45C"/><g ref="#SD-B6A4"/><g ref="#SD-D957"/><g ref="#SD-A5E5"/><g ref="#SD-A67A"/><g ref="#SD-D957"/><g ref="#SD-AA76"/><g ref="#SD-A662"/><g ref="#SD-A5F1"/><g ref="#SD-A67C"/><g ref="#SD-AF73"/><g ref="#SD-A570"/><g ref="#SD-A570"/>
+<lb n="0216c23" ed="T"/><g ref="#SD-A6AA"/><g ref="#SD-A5EB"/><g ref="#SD-AA76"/><g ref="#SD-A662"/><g ref="#SD-A5A9"/><g ref="#SD-A441"/><g ref="#SD-A5E5"/><g ref="#SD-A8E2"/><g ref="#SD-AA76"/><g ref="#SD-A662"/><g ref="#SD-A5B3"/><g ref="#SD-AABC"/><g ref="#SD-ADEA"/><g ref="#SD-A56F"/>
+<lb n="0216c24" ed="T"/><g ref="#SD-A5F1"/><g ref="#SD-A5E5"/><g ref="#SD-A556"/><g ref="#SD-B065"/><g ref="#SD-A6A9"/></p></cb:div>
+</body></text></TEI>

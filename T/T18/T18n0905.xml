@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T18n0905">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0905 三種悉地破地獄轉業障出三界祕密陀羅尼法</title>
+			<author>唐 善無畏譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.12 $<date>$Date: 2010/10/25 08:22:28 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/10/25 08:22:28 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 18, No. 905 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="sa-Sidd">Sanskrit-Siddam</language>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-01-05T17:54:19">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/05)</change>
+<!--
+$Log: T18n0905.xml,v $
+Revision 1.12  2010/10/25 08:22:28  amtbgrace
+modified: 圖檔檔名修改
+
+Revision 1.11  2009/04/23 07:59:47  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.10  2008/08/08 09:33:30  saywhat
+p0910c18 [醐醍>醍醐]
+
+Revision 1.9  2006/04/12 21:55:29  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.7  2004/11/14 03:17:20  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.6  2004/10/17 11:34:28  saywhat
+段落前加入圈點
+
+Revision 1.5  2004/04/20 08:38:40  maha
+「版本日期」標記修訂
+
+Revision 1.4  2004/04/20 03:25:22  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.3  2003/06/26 02:50:40  saywhat
+<corr>→<app>
+
+Revision 1.2  2003/06/23 06:13:23  saywhat
+[＊]校勘插入XML
+
+Revision 1.1.1.1  2003/05/05 04:09:08  ray
+recover cvs
+
+Revision 1.25  2002/12/04 01:47:49  saywhat
+校勘插入處理
+
+Revision 1.24  2002/11/04 10:44:31  ray
+tei.2 => TEI.2
+
+Revision 1.23  2002/10/07 13:09:58  moved
+modified
+
+Revision 1.22  2002/07/29 09:45:01  vinking
+modified lang
+
+Revision 1.21  2002/04/08 08:58:27  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.20  2001/11/05 06:13:06  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.19  2001/08/03 03:14:24  saywhat
+<tt type="inline"> → <tt rend="inline">
+
+Revision 1.18  2001/07/24 06:52:36  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.17  2001/06/19 13:55:39  saywhat
+modified normal
+
+Revision 1.16  2001/05/25 08:58:18  ray
+經號統一為四碼
+
+Revision 1.15  2001/05/25 07:06:25  ray
+行行悉漢對照, 兩個 <lb> 都要標
+
+Revision 1.14  2001/03/30 05:48:19  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.13  2001/03/25 09:09:26  ray
+add <milestone>
+
+Revision 1.12  2001/02/07 06:54:04  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.11  2001/02/03 07:43:56  chris
+Added keywords $Revision: 1.12 $, $Date: 2010/10/25 08:22:28 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0909b09" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0909b10" ed="T"/>
+<lb n="0909b11" ed="T"/>
+<lb n="0909b12" ed="T"/><cb:docNumber>No. 905 [cf. Nos. 906, 907]</cb:docNumber><cb:div type="jing">
+<lb n="0909b13" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><note n="0909013" resp="Taisho" place="foot text" type="orig">【原】豐山版</note>三種悉地破地獄轉業障出三界
+<lb n="0909b14" ed="T"/>祕密陀羅尼法</cb:jhead></cb:juan>
+<lb n="0909b15" ed="T"/>
+<lb n="0909b16" ed="T"/><byline cb:type="Translator">中天竺國三藏善無畏奉　詔譯</byline>
+<lb n="0909b17" ed="T"/><p xml:id="pT18p0909b1701">瑜伽事法約有千條。略述少分。口開舌舉震
+<lb n="0909b18" ed="T"/>法界宮。蓮華藏世界<note n="0909014" resp="Taisho" place="foot text" type="orig">（諸）ィ＋如【原】</note><app n="0909014"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">諸如</rdg></app>來出定。即以摧破
+<lb n="0909b19" ed="T"/>地獄轉業障出三界。當<note n="0909015" resp="Taisho" place="foot text" type="orig">〔知〕ィ－【原】</note><app n="0909015"><lem wit="【大】">知</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>如法布字人主頂
+<lb n="0909b20" ed="T"/>戴<note n="0909016" resp="Taisho" place="foot text" type="orig">手＝乎ィ【原】</note><app n="0909016"><lem wit="【大】">手</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">乎</rdg></app>冠中。萬國清泰。節度觀察旗旌上書寫
+<lb n="0909b21" ed="T"/>真言。四方<note n="0909017" resp="Taisho" place="foot text" type="orig">晏＝安ィ【原】</note><app n="0909017"><lem wit="【大】">晏</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">安</rdg></app>靜。專城太守鎮遏。總<note n="0909018" resp="Taisho" place="foot text" type="orig">或＝戎ィ【原】</note><app n="0909018"><lem wit="【大】">或</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">戎</rdg></app>鼓角
+<lb n="0909b22" ed="T"/>上題字嚴警鼓音。遠聞。妖氣清熾盛布千里。
+<lb n="0909b23" ed="T"/>苗稼洪潤人無災<note n="0909019" resp="Taisho" place="foot text" type="orig">疫＝疾ィ【原】</note><app n="0909019"><lem wit="【大】">疫</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">疾</rdg></app>。地土<note n="0909020" resp="Taisho" place="foot text" type="orig">神祇＝山神山祇ィ【原】</note><app n="0909020"><lem wit="【大】">神祇</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">山神山祇</rdg></app>風恬雨順。
+<lb n="0909b24" ed="T"/>念誦加持。戰鼓上書。賊軍自降。一人不損名
+<lb n="0909b25" ed="T"/>金剛鼓。</p>
+<lb n="0909b26" ed="T"/><lg xml:id="lgT18p0909b2601"><l>稽首毘盧遮那佛</l><l>開敷淨眼如蓮花</l>
+<lb n="0909b27" ed="T"/><l>三界調御天人師</l><l>大菩提心救世者</l>
+<lb n="0909b28" ed="T"/><l>深妙真言加持法</l><l>流入無<note n="0909021" resp="Taisho" place="foot text" type="orig">生＝量ィ【原】</note><app n="0909021"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">量</rdg></app>阿字門</l>
+<lb n="0909b29" ed="T"/><l>白毫無相正遍知</l><l>圓滿恒照如日月</l>
+<pb n="0909c" xml:id="T18.0905.0909c" ed="T"/>
+<lb n="0909c01" ed="T"/><l>身口意業成三密</l><l>三密即成應化法</l>
+<lb n="0909c02" ed="T"/><l>五輪五智是五分</l><l>五分盡攝法界輪</l>
+<lb n="0909c03" ed="T"/><l>阿閦寶生救世者</l><l>彌陀成就不空王</l>
+<lb n="0909c04" ed="T"/><l><note n="0909022" resp="Taisho" place="foot text" type="orig">成＝咸ィ【原】</note><app n="0909022"><lem wit="【大】">成</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">咸</rdg></app>於悉地吉祥輪</l><l>傳斯妙法化諸有</l>
+<lb n="0909c05" ed="T"/><l>慈心自在降三世</l><l>金剛薩埵不動尊</l>
+<lb n="0909c06" ed="T"/><l>無違誓願應時期</l><l>瑜伽事畢還金<note n="0909023" resp="Taisho" place="foot text" type="orig">剎＝剛ィ【原】</note><app n="0909023"><lem wit="【大】">剎</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">剛</rdg></app></l></lg>
+<lb n="0909c07" ed="T"/><p xml:id="pT18p0909c0701">佛言<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh">阿</cb:t></cb:tt>字金剛部主肝。阿字即是大日如
+<lb n="0909c08" ed="T"/>來理法身。本性清淨極理畢竟不可得<note n="0909024" resp="Taisho" place="foot text" type="orig">空＋（一切眾生本有大菩提心）ィ【原】</note><app n="0909024"><lem wit="【大】">空</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">空一切眾生本有大菩提心</rdg></app>。金
+<lb n="0909c09" ed="T"/>剛地輪種子。金剛部曼荼羅也。若約名色者。
+<lb n="0909c10" ed="T"/>地是色法。五陰中識陰心持地。其種子不淨。
+<lb n="0909c11" ed="T"/>凡五贓者是色法也。<note n="0909025" resp="Taisho" place="foot text" type="orig">〔五陰…也〕ィ十六字－【原】</note><app cb:word-count="16" n="0909025"><lem wit="【大】">五陰中識陰心發故。約
+<lb n="0909c12" ed="T"/>名色地是色法也</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>。今肝主魂。魂神氣為東及
+<lb n="0909c13" ed="T"/>木。木是色空也。木主春其色青。青色從木生。
+<lb n="0909c14" ed="T"/>木從水生。肝從青氣及腎生。其形如立蓮花
+<lb n="0909c15" ed="T"/>葉。其中間著<note n="0909026" resp="Taisho" place="foot text" type="orig"><g ref="#CB03460"/>＝閭ィ【原】＊</note><app n="0909026"><lem wit="【大】"><g ref="#CB03460"/></lem><rdg resp="Taisho" wit="【原】" type="variantRemark">閭</rdg></app>珠。<app type="star" corresp="#0909026"><lem wit="【大】"><g ref="#CB03460"/></lem><rdg resp="Taisho" wit="【原】" type="variantRemark">閭</rdg></app>肉在胸<note n="0909027" resp="Taisho" place="foot text" type="orig">左也＝右ィ【原】</note><app n="0909027"><lem wit="【大】">左也</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">右</rdg></app>。肝出
+<lb n="0909c16" ed="T"/>為眼主筋。筋窮為爪也。今以五字門主五贓
+<lb n="0909c17" ed="T"/>六腑故。內外交雜明此而已。又酸味多入肝
+<lb n="0909c18" ed="T"/>增肝損脾。若<note n="0909028" resp="Taisho" place="foot text" type="orig">脾＝肝ィ【原】</note><app n="0909028"><lem wit="【大】">脾</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">肝</rdg></app>中無魂多惛惛肺害肝成病。
+<lb n="0909c19" ed="T"/>若如金剋木。肺強肝弱。當止心<note n="0909029" resp="Taisho" place="foot text" type="orig">〔於〕ィ－【原】</note><app n="0909029"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>肺。以青
+<lb n="0909c20" ed="T"/>氣攝取白氣肝病則差。青氣著也<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A660"/></cb:t><cb:t xml:lang="zh">鑁</cb:t></cb:tt>字蓮
+<lb n="0909c21" ed="T"/>花部主<note n="0909030" resp="Taisho" place="foot text" type="orig">肺＝肝ィ【原】</note><app n="0909030"><lem wit="【大】">肺</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">肝</rdg></app>。鑁字是縛字第十一轉。尾字是第
+<lb n="0909c22" ed="T"/>三轉也。轉釋阿字義也。即大日如來智海水
+<lb n="0909c23" ed="T"/>大<note n="0909031" resp="Taisho" place="foot text" type="orig">〔轉〕ィ－【原】</note><app n="0909031"><lem wit="【大】">轉</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>輪種子。神通自在之法名智法身。亦名
+<lb n="0909c24" ed="T"/>報身。是即蓮花部曼荼羅也。肺臟主魄。魄形
+<lb n="0909c25" ed="T"/><note n="0909032" resp="Taisho" place="foot text" type="orig">〔體也〕ィ－【原】</note><app n="0909032"><lem wit="【大】">體也</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>。其形如花主鼻為西方金。金主秋其
+<pb n="0910a" xml:id="T18.0905.0910a" ed="T"/>
+<lb n="0910a01" ed="T"/>色白。白色從風生。風從<note n="0910001" resp="Taisho" place="foot text" type="orig">地＋（起）ィ【原】</note><app n="0910001"><lem wit="【大】">地</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">地起</rdg></app>陽氣生。五陰中
+<lb n="0910a02" ed="T"/>想陰心持風。<note n="0910002" resp="Taisho" place="foot text" type="orig">想＋（陰）ィ【原】</note><app n="0910002"><lem wit="【大】">想</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">想陰</rdg></app>心從識生。<note n="0910003" resp="Taisho" place="foot text" type="orig">識＋（陰）ィ【原】</note><app n="0910003"><lem wit="【大】">識</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">識陰</rdg></app>心從過去行
+<lb n="0910a03" ed="T"/>生。過去行從無明生。無明從妄想生。妄想還
+<lb n="0910a04" ed="T"/>從妄想生。輪迴十二因緣也。肺從白氣及脾
+<lb n="0910a05" ed="T"/>生。辛味多入肺增肺損肝。若肺中無魄恐怖
+<lb n="0910a06" ed="T"/>癲病。心害肺成病。若如火剋金。心強肺弱。當
+<lb n="0910a07" ed="T"/>止心於心。以白氣攝取赤氣肺病則差。白氣
+<lb n="0910a08" ed="T"/>者<note n="0910004" resp="Taisho" place="foot text" type="orig">字也＝名肺字ィ【原】</note><app n="0910004"><lem wit="【大】">字也</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">名肺字</rdg></app>。<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A648"/></cb:t><cb:t xml:lang="zh">藍</cb:t></cb:tt>字寶部主心。藍字是大日如來
+<lb n="0910a09" ed="T"/>心地種火大種子。三世諸佛室<note n="0910005" resp="Taisho" place="foot text" type="orig">宅＋（也）ィ【原】</note><app n="0910005"><lem wit="【大】">宅</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">宅也</rdg></app>。焚燒一切
+<lb n="0910a10" ed="T"/>眾生無始無明塵垢妄執出生菩提心牙種。
+<lb n="0910a11" ed="T"/>轉釋阿字義也。即是應化身如來。實是智法
+<lb n="0910a12" ed="T"/>身火生曼荼羅也。心主神其形如鳥。為南方
+<lb n="0910a13" ed="T"/><note n="0910006" resp="Taisho" place="foot text" type="orig">（為）ィ＋火【原】</note><app n="0910006"><lem wit="【大】">火</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">為火</rdg></app>。火主夏其色赤。赤色從火生。火從木生。
+<lb n="0910a14" ed="T"/>五陰中受陰心持火。受心從想心生。又心從
+<lb n="0910a15" ed="T"/>赤氣及肝生。心出為舌主血。血窮為乳。又主
+<lb n="0910a16" ed="T"/>耳<note n="0910007" resp="Taisho" place="foot text" type="orig">轉＝輪ィ【原】，識轉ィ【原】</note><note n="0910007" resp="CBETA" type="mod">轉＝輪ィ【原】，＝識轉ィ【原】</note><app n="0910007"><lem wit="【大】">轉</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">輪</rdg><rdg resp="Taisho" wit="【原】" type="variantRemark">識轉</rdg></app>鼻喉鼻梁<note n="0910008" resp="Taisho" place="foot text" type="orig">額＝頰ィ【原】</note><app n="0910008"><lem wit="【大】">額</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">頰</rdg></app>頤等。苦味多入心增心
+<lb n="0910a17" ed="T"/>損肺。若心中無神多忘失前後。腎害心成病。
+<lb n="0910a18" ed="T"/>若如水剋火<choice><corr>腎</corr><sic>賢</sic></choice>強心弱。當止心於腎。以赤氣
+<lb n="0910a19" ed="T"/>攝取黑氣心病則差。赤氣者<note n="0910009" resp="Taisho" place="foot text" type="orig">字也＝心名字ィ【原】</note><app n="0910009"><lem wit="【大】">字也</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">心名字</rdg></app>。<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6B2"/></cb:t><cb:t xml:lang="zh">唅</cb:t></cb:tt>字羯
+<lb n="0910a20" ed="T"/>磨部主<note n="0910010" resp="Taisho" place="foot text" type="orig">（胃）ィ＋腎【原】</note><app n="0910010"><lem wit="【大】">腎</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">胃腎</rdg></app>。<note n="0910011" resp="Taisho" place="foot text" type="orig">（是唅字）ィ＋吽【原】</note><app n="0910011"><lem wit="【大】">吽</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">是唅字吽</rdg></app>字即賀字轉也。即是大日如
+<lb n="0910a21" ed="T"/>來常住壽量風大種子。三解脫門三際不可
+<lb n="0910a22" ed="T"/>得義。法身大力曼荼羅也。風則想陰心所持
+<lb n="0910a23" ed="T"/>也。五藏者肝肺心脾腎也。胃者六腑一名也。
+<lb n="0910a24" ed="T"/>胃此肚<note n="0910012" resp="Taisho" place="foot text" type="orig">〔穀〕ィ－【原】＊</note><app n="0910012"><lem wit="【大】">穀</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>是脾腑。五臟六腑之海水。<app type="star" corresp="#0910012"><lem wit="【大】">穀</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>皆
+<lb n="0910a25" ed="T"/>入胃。五臟六腑皆稟於胃。五味各走流。其嘉
+<lb n="0910a26" ed="T"/><note n="0910013" resp="Taisho" place="foot text" type="orig">〔淡〕ィ－【原】</note><app n="0910013"><lem wit="【大】">淡</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>味入胃故腎稟胃也。腎在臍腰下。左名腎。
+<lb n="0910a27" ed="T"/>右名命門。腎敷心腹<note place="inline">胃也腎也</note><note n="0910014" resp="Taisho" place="foot text" type="orig">寢＝覆ィ【原】，竆𥨊ィ【原】</note><note n="0910014" resp="CBETA" type="mod">寢＝覆ィ【原】，＝竆𥨊ィ【原】</note><app n="0910014"><lem wit="【大】">寢</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">覆</rdg><rdg resp="Taisho" wit="【原】" type="variantRemark">竆𥨊</rdg></app>寫<note n="0910015" resp="Taisho" place="foot text" type="orig">水＝米ィ【原】</note><app n="0910015"><lem wit="【大】">水</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">米</rdg></app>精也。腎主
+<lb n="0910a28" ed="T"/>志為北方及水。水主冬其色黑。五陰中行陰
+<lb n="0910a29" ed="T"/>心持水。行心從受心生。受心從想生。腎從黑
+<pb n="0910b" xml:id="T18.0905.0910b" ed="T"/>
+<lb n="0910b01" ed="T"/><note n="0910016" resp="Taisho" place="foot text" type="orig">〔氣〕ィ－【原】</note><app n="0910016"><lem wit="【大】">氣</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>及肺生。主耳腎出為骨主髓。髓窮為耳
+<lb n="0910b02" ed="T"/><note n="0910017" resp="Taisho" place="foot text" type="orig">乳＝孔ィ【原】</note><app n="0910017"><lem wit="【大】">乳</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">孔</rdg></app>。骨窮為齒。鹹味多入腎增腎損心。若腎
+<lb n="0910b03" ed="T"/>中無志多悲哭。脾害腎成病。若如土剋水脾
+<lb n="0910b04" ed="T"/>強腎弱。當止心於脾。以黑氣攝取黃氣腎病
+<lb n="0910b05" ed="T"/>則差。黑氣者<note n="0910018" resp="Taisho" place="foot text" type="orig">（水名）ィ＋字【原】</note><app n="0910018"><lem wit="【大】">字</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">水名字</rdg></app>也<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A456"/></cb:t><cb:t xml:lang="zh">欠</cb:t></cb:tt>字虛空部主脾<term xml:lang="sa-Sidd"><g ref="#SD-A456"/></term>字
+<lb n="0910b06" ed="T"/>則大日如來無見頂相五佛所證大空智處。
+<lb n="0910b07" ed="T"/>寂滅真如理智。十方三世諸佛所證菩提道
+<lb n="0910b08" ed="T"/>場殊勝曼荼羅也。脾主意。為中央及土。土主
+<lb n="0910b09" ed="T"/>季夏其色黃也。黃色從地生。地從火生。如前
+<lb n="0910b10" ed="T"/>說五陰中識。陰心持地。或為木臟。木青是空
+<lb n="0910b11" ed="T"/>也。脾從黃氣及心生。主口為<note n="0910019" resp="Taisho" place="foot text" type="orig">志＝意ィ【原】</note><app n="0910019"><lem wit="【大】">志</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">意</rdg></app>。甘味多入
+<lb n="0910b12" ed="T"/>脾增脾損<note n="0910020" resp="Taisho" place="foot text" type="orig">腎＋（成病）ィ【原】</note><app n="0910020"><lem wit="【大】">腎</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">腎成病</rdg></app>。若脾中無意多迴惑肝害<note n="0910021" resp="Taisho" place="foot text" type="orig">脾＋（脾弱）ィ【原】</note><app n="0910021"><lem wit="【大】">脾</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">脾脾弱</rdg></app>
+<lb n="0910b13" ed="T"/>成病。若如木剋土肝強脾弱。當止心於肝。以
+<lb n="0910b14" ed="T"/>黃氣攝取青氣脾病則差也。黃氣者<note n="0910022" resp="Taisho" place="foot text" type="orig">字也＝脾名字ィ【原】</note><app n="0910022"><lem wit="【大】">字也</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">脾名字</rdg></app>。五
+<lb n="0910b15" ed="T"/>臟如蓮花靡向下也。內五臟外五行出成形
+<lb n="0910b16" ed="T"/>體。此則名也。色即四大五根。名即想行等四
+<lb n="0910b17" ed="T"/>陰心也。即是日月五星十二宮二十八宿。成
+<lb n="0910b18" ed="T"/><note n="0910023" resp="Taisho" place="foot text" type="orig">人＋（形）ィ【原】</note><app n="0910023"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">人形</rdg></app>之體也。山<note n="0910024" resp="Taisho" place="foot text" type="orig">海＝島ィ【原】</note><app n="0910024"><lem wit="【大】">海</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">島</rdg></app>大地。從阿字出。江<note n="0910025" resp="Taisho" place="foot text" type="orig">河＝海萬流ィ【原】</note><app n="0910025"><lem wit="【大】">河</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">海萬流</rdg></app>流
+<lb n="0910b19" ed="T"/>從鑁字出。金玉珍寶日月星辰火珠光明從
+<lb n="0910b20" ed="T"/>藍字成。五穀菓眾花開敷因含字結也。<note n="0910026" resp="Taisho" place="foot text" type="orig">界＝秀ィ【原】</note><app n="0910026"><lem wit="【大】">界</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">秀</rdg></app>香
+<lb n="0910b21" ed="T"/>美<note n="0910027" resp="Taisho" place="foot text" type="orig">人＋（鬼畜）ィ【原】</note><app n="0910027"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">人鬼畜</rdg></app>天長養顏色滋味端正相貌。福德富貴
+<lb n="0910b22" ed="T"/>從欠字莊嚴<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC5"/></cb:t><cb:t xml:lang="zh">阿</cb:t></cb:tt>字是東方阿閦如來<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A660"/></cb:t><cb:t xml:lang="zh">鑁</cb:t></cb:tt>字
+<lb n="0910b23" ed="T"/>西方阿彌陀如來<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A648"/></cb:t><cb:t xml:lang="zh">藍</cb:t></cb:tt>字是南方寶生如來<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6B2"/></cb:t>
+<lb n="0910b24" ed="T"/><cb:t xml:lang="zh">唅</cb:t></cb:tt>
+字北方不空成就如來<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-A456"/></cb:t><cb:t xml:lang="zh">欠</cb:t></cb:tt>字是<note n="0910028" resp="Taisho" place="foot text" type="orig">上＝中ィ【原】</note><app n="0910028"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">中</rdg></app>方毘
+<lb n="0910b25" ed="T"/>盧遮那<note n="0910029" resp="Taisho" place="foot text" type="orig">〔大日〕ィ－【原】</note><app n="0910029"><lem wit="【大】">大日</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>如來也。</p>
+<lb n="0910b26" ed="T"/><p xml:id="pT18p0910b2601">阿字<note n="0910030" resp="Taisho" place="foot text" type="orig">〔意〕ィ－【原】</note><app n="0910030"><lem wit="【大】">意</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>甚深。空寂之體取之不可取。捨之不
+<lb n="0910b27" ed="T"/>可捨。法之母大灌<note n="0910031" resp="Taisho" place="foot text" type="orig">頂＋（王）ィ【原】</note><app n="0910031"><lem wit="【大】">頂</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">頂王</rdg></app>阿字是也。阿字是難信
+<lb n="0910b28" ed="T"/>之法。小乘律師特勿令見。此本五部梵本四
+<lb n="0910b29" ed="T"/>十萬言出。毘盧遮那經金剛頂經採集要妙
+<pb n="0910c" xml:id="T18.0905.0910c" ed="T"/>
+<lb n="0910c01" ed="T"/>最上福田。唯此五字真<note n="0910032" resp="Taisho" place="foot text" type="orig">言＋（也）ィ【原】</note><app n="0910032"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">言也</rdg></app>誦者。所獲功德不
+<lb n="0910c02" ed="T"/>可比量不可思議不可說也。金剛頂經五部
+<lb n="0910c03" ed="T"/>真言。受持讀誦觀照理性令人獲福。骨堅體
+<lb n="0910c04" ed="T"/>健永無災障及諸病苦攝養長壽。此五字門
+<lb n="0910c05" ed="T"/>是五智髻珠五佛肝心。十方三世諸佛能寂
+<lb n="0910c06" ed="T"/>智母。一切眾生養育父母。十方法界庫藏也。
+<lb n="0910c07" ed="T"/>能<note n="0910033" resp="Taisho" place="foot text" type="orig">為＝與ィ【原】</note><app n="0910033"><lem wit="【大】">為</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">與</rdg></app>三世惡魔怨戰獲得三<note n="0910034" resp="Taisho" place="foot text" type="orig">世＝種ィ【原】</note><app n="0910034"><lem wit="【大】">世</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">種</rdg></app>勝利故。如
+<lb n="0910c08" ed="T"/>鉀鎧鉾楯弓箭器杖。是故三世諸佛菩薩沒
+<lb n="0910c09" ed="T"/>在<note n="0910035" resp="Taisho" place="foot text" type="orig">是＝其ィ【原】</note><app n="0910035"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">其</rdg></app>中出生是中。<note n="0910036" resp="Taisho" place="foot text" type="orig">牙＝字ィ【原】</note><app n="0910036"><lem wit="【大】">牙</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">字</rdg></app>是種子也。<note n="0910037" resp="Taisho" place="foot text" type="orig">〔疏〕ィ－【原】</note><app n="0910037"><lem wit="【大】">疏</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>又此瑜
+<lb n="0910c10" ed="T"/>伽之座。其黃金剛方輪。即是金剛座也。</p>
+<lb n="0910c11" ed="T"/><p xml:id="pT18p0910c1101"><figure><graphic url="../figures/T/T18p0910_01.gif"/></figure>阿金剛地部。一阿字作地觀金剛座觀。</p>
+<lb n="0910c12" ed="T"/><p xml:id="pT18p0910c1201"><figure><graphic url="../figures/T/T18p0910_02.gif"/></figure>鑁金剛水部。二鑁字作水觀蓮花觀。</p>
+<lb n="0910c13" ed="T"/><p xml:id="pT18p0910c1301"><figure><graphic url="../figures/T/T18p0910_03.gif"/></figure>藍金剛火部。三藍字作日觀也。</p>
+<lb n="0910c14" ed="T"/><p xml:id="pT18p0910c1401"><figure><graphic url="../figures/T/T18p0910_04.gif"/></figure>唅金剛風部。四唅字作月觀。</p>
+<lb n="0910c15" ed="T"/><p xml:id="pT18p0910c1501"><figure><graphic url="../figures/T/T18p0910_05.gif"/></figure>欠金剛空部。五欠字作空觀。</p>
+<lb n="0910c16" ed="T"/><p xml:id="pT18p0910c1601"><figure><graphic url="../figures/T/T18p0910_06.gif"/></figure>如來體性無<note n="0910038" resp="Taisho" place="foot text" type="orig">生＝性ィ【原】</note><app n="0910038"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">性</rdg></app>觀。</p>
+<lb n="0910c17" ed="T"/><p xml:id="pT18p0910c1701">右五部真言。是一切如來無<note n="0910039" resp="Taisho" place="foot text" type="orig">生＝比ィ【原】</note><app n="0910039"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">比</rdg></app>甘露之珍漿。
+<lb n="0910c18" ed="T"/><choice cb:resp="CBETA.maha"><corr>醍醐<note type="cf1">T18n0906_p0912c05</note></corr><sic>醐醍</sic></choice>佛性之妙藥也。一字<note n="0910040" resp="Taisho" place="foot text" type="orig">入＋（於）ィ【原】</note><app n="0910040"><lem wit="【大】">入</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">入於</rdg></app>五臟萬病不生。
+<lb n="0910c19" ed="T"/>況修日觀月觀。即時證得佛身空寂。阿鑁覽
+<lb n="0910c20" ed="T"/>唅欠。右上五字法身真言。若日誦一遍或七
+<lb n="0910c21" ed="T"/>遍或二十一遍或四十九遍者。校量功德一遍
+<lb n="0910c22" ed="T"/>福。如轉藏經一百萬遍<note place="inline">藏經者一切經也</note>何況禪寂坐
+<lb n="0910c23" ed="T"/>入定門。從阿字觀諦審分明。如日照空。即是
+<lb n="0910c24" ed="T"/><note n="0910041" resp="Taisho" place="foot text" type="orig">了觀＝畢見ィ【原】</note><app n="0910041"><lem wit="【大】">了觀</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">畢見</rdg></app>佛性。所獲福無有比量。<note n="0910042" resp="Taisho" place="foot text" type="orig">祕＋（密）ィ【原】</note><app n="0910042"><lem wit="【大】">祕</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">祕密</rdg></app>藏文句實
+<lb n="0910c25" ed="T"/>不思議。只恐聲聞法師。小乘持律者。生疑不
+<lb n="0910c26" ed="T"/>信反益其罪。譬如王有稚子偏最憐念。庫藏
+<lb n="0910c27" ed="T"/>珍寶傾竭不惜。唯不與干將鏌<note n="0910043" resp="Taisho" place="foot text" type="orig">鎁＋（續大）ィ【原】</note><app n="0910043"><lem wit="【大】">鎁</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">鎁續大</rdg></app>。恐不解用
+<lb n="0910c28" ed="T"/>故傷其體。是故如來密傳大菩薩。不與聲聞
+<pb n="0911a" xml:id="T18.0905.0911a" ed="T"/>
+<lb n="0911a01" ed="T"/>劣慧。</p>
+<lb n="0911a02" ed="T"/><p xml:id="pT18p0911a0201">馱盧麼陀都。法身如來真<note n="0911001" resp="Taisho" place="foot text" type="orig">實＋（體）ィ【原】</note><app n="0911001"><lem wit="【大】">實</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">實體</rdg></app>也。從腋至頂為
+<lb n="0911a03" ed="T"/>上。從臍至腋為中。從足至臍為下。於真言中
+<lb n="0911a04" ed="T"/>當應分別三種成就也。</p>
+<lb n="0911a05" ed="T"/><p xml:id="pT18p0911a0501">下品悉地阿羅波左那。是名出悉地。能生根
+<lb n="0911a06" ed="T"/>莖遍滿四方。誦一遍如轉藏經一百遍<note place="inline">若誦一遍如誦
+<lb n="0911a07" ed="T"/>八萬四千十二圍陀藏經除行人一切苦難</note>即入如來一切法平等。一切
+<lb n="0911a08" ed="T"/>文字亦皆平等。速得成就摩訶般若。誦兩遍
+<lb n="0911a09" ed="T"/>除滅億劫生死重罪。文殊普賢隨逐四眾圍
+<lb n="0911a10" ed="T"/>繞<note n="0911002" resp="Taisho" place="foot text" type="orig">如＝伽ィ【原】</note><app n="0911002"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">伽</rdg></app>備。是慈無畏護法善神在其人前。若誦
+<lb n="0911a11" ed="T"/>三遍三昧現前。若誦四遍總持不忘。若誦五
+<lb n="0911a12" ed="T"/>遍速成無上菩提也。</p>
+<lb n="0911a13" ed="T"/><p xml:id="pT18p0911a1301">中品悉地阿尾羅吽欠。是名入悉地。能生<note n="0911003" resp="Taisho" place="foot text" type="orig">枝葉＝拔業ィ【原】</note><app n="0911003"><lem wit="【大】">枝
+<lb n="0911a14" ed="T"/>葉</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">拔業</rdg></app>遍滿四方。光明光耀入佛法界。名入悉地。
+<lb n="0911a15" ed="T"/>若誦一遍如轉藏經一千遍<note place="inline">是名降伏四魔六趣滿足一切智智金剛字句
+<lb n="0911a16" ed="T"/>也</note>。</p>
+<lb n="0911a17" ed="T"/><p xml:id="pT18p0911a1701">上品悉地阿鑁<note n="0911004" resp="Taisho" place="foot text" type="orig">㘕＝囕　【原】</note><note n="0911004" resp="CBETA" type="mod">㘕＝囕<!--CBETA todo type: None--><space quantity="1" unit="chars"/>【原】</note>㘕唅欠。是名祕密悉地。亦名
+<lb n="0911a18" ed="T"/>成就悉地。亦名蘇悉地。蘇悉地者遍法界也。
+<lb n="0911a19" ed="T"/>成就佛果證大菩提法界祕言。光明遍滿唯
+<lb n="0911a20" ed="T"/>佛與佛能入此門。緣覺聲聞不能照。此亦名
+<lb n="0911a21" ed="T"/>祕密悉地。若誦一遍。當如轉藏經一百萬遍。
+<lb n="0911a22" ed="T"/>出悉地從足至腰。入悉地從臍至心。祕密悉
+<lb n="0911a23" ed="T"/>地從心至頂。如是三悉地。出悉地化身成就。
+<lb n="0911a24" ed="T"/>入悉地報身成就祕密悉地蘇悉地法身成
+<lb n="0911a25" ed="T"/>就。實是三種常身。正法之藏。法身遮那具足
+<lb n="0911a26" ed="T"/>之體。五部三部真實之<note n="0911005" resp="Taisho" place="foot text" type="orig">源＋（也）ィ【原】</note><app n="0911005"><lem wit="【大】">源</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">源也</rdg></app>。是故稽首禮毘
+<lb n="0911a27" ed="T"/>盧遮那佛。此三五字<note n="0911006" resp="Taisho" place="foot text" type="orig">〔即十五字〕ィ－【原】</note><app n="0911006"><lem wit="【大】">即十五字</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>即十五種金
+<lb n="0911a28" ed="T"/>剛三昧。一字即十五字十五字即一字。一字
+<lb n="0911a29" ed="T"/>即五字五字即一字。逆順旋轉初後不二。今
+<pb n="0911b" xml:id="T18.0905.0911b" ed="T"/>
+<lb n="0911b01" ed="T"/>八門中該攝萬法。一字中攝一切字。一切字
+<lb n="0911b02" ed="T"/>中攝一字。以一字釋一切字。以一切字釋一
+<lb n="0911b03" ed="T"/>字。以一字成立一切字。以一切字成立一字。
+<lb n="0911b04" ed="T"/>以一字破一切字。以一切字破一字義。即是
+<lb n="0911b05" ed="T"/>順一遍逆一遍。次順旋轉四遍。次逆旋轉四
+<lb n="0911b06" ed="T"/>遍。利益十方<note n="0911007" resp="Taisho" place="foot text" type="orig">（法）ィ＋界【原】</note><app n="0911007"><lem wit="【大】">界</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">法界</rdg></app>一切眾生皆成佛義也。凡人
+<lb n="0911b07" ed="T"/>汗栗馱心<note place="inline">此云真實心</note>形猶如蓮花合而未敷之像。
+<lb n="0911b08" ed="T"/>有筋脈約之以成八分。男子上向女人下向。
+<lb n="0911b09" ed="T"/>觀此蓮花令其開敷為八葉白蓮花。此臺上
+<lb n="0911b10" ed="T"/>觀阿字作金剛色。復阿字如方黃壇身在其
+<lb n="0911b11" ed="T"/>中。從阿字出羅字燒身悉成灰已。此灰中生
+<lb n="0911b12" ed="T"/>縛字其色純白。從此出生阿鑁囕唅欠五輪
+<lb n="0911b13" ed="T"/>字。而即從腰下至頂上安立身五處。謂淨菩
+<lb n="0911b14" ed="T"/>提心。以此五字門為緣生大悲根。佛娑羅樹
+<lb n="0911b15" ed="T"/>王增長。彌布滿於法界。然一切法。即由此
+<lb n="0911b16" ed="T"/>五字門本不生離言說自性淨無因緣如虛空
+<lb n="0911b17" ed="T"/>也。為八葉位從臍至心為金剛臺<note place="inline">海中立莖</note>臍為大
+<lb n="0911b18" ed="T"/>海。從臍已下此地居諸尊位。在海岸邊也。謂
+<lb n="0911b19" ed="T"/>從諸佛大悲海而生金剛智。從金剛智出生
+<lb n="0911b20" ed="T"/>一切佛會也。於此心八葉花臺上。而觀阿字。
+<lb n="0911b21" ed="T"/>從此字出無量光。從心中四散而<note n="0911008" resp="Taisho" place="foot text" type="orig">合＝令ィ【原】</note><app n="0911008"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">令</rdg></app>為光鬘。
+<lb n="0911b22" ed="T"/>猶如花鬘。普遍一切佛剎。此光從頂至足周
+<lb n="0911b23" ed="T"/>匝環繞行者之身也。復觀暗字在頂上。轉成
+<lb n="0911b24" ed="T"/>中胎藏。從此字生三重光焰。一重光遍繞咽
+<lb n="0911b25" ed="T"/>上。從咽至頂相隨所照及之處。諸尊隨現成
+<lb n="0911b26" ed="T"/>第一院曼荼羅。次一重光遍遶心上從臍以
+<lb n="0911b27" ed="T"/>上至咽。諸尊隨現成第二重曼荼羅。次一重
+<lb n="0911b28" ed="T"/><note n="0911009" resp="Taisho" place="foot text" type="orig">光＋（焰）ィ【原】</note><app n="0911009"><lem wit="【大】">光</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">光焰</rdg></app>遍繞臍上從臍以下。諸尊隨現成第三重
+<lb n="0911b29" ed="T"/>曼荼羅。即是世間天院也。諸尊形色相好各
+<pb n="0911c" xml:id="T18.0905.0911c" ed="T"/>
+<lb n="0911c01" ed="T"/>各差別。宛然具足自身中猶如親入佛會。而
+<lb n="0911c02" ed="T"/>自身都成曼荼羅身。即是普門法界身也。其
+<lb n="0911c03" ed="T"/>中胎藏即是毘盧遮那自心八葉花也。即於
+<lb n="0911c04" ed="T"/>此心蓮花臺上為曼荼羅中胎。其外八葉亦
+<lb n="0911c05" ed="T"/>隨佛位次列布也。四方即是如來四智。其四
+<lb n="0911c06" ed="T"/>隅葉即是四攝法也。且東南方普賢是菩提
+<lb n="0911c07" ed="T"/>心。此妙因也。次西南方文殊是大智慧也。次
+<lb n="0911c08" ed="T"/>東北方彌勒是大慈也。大慈大悲俱是第二
+<lb n="0911c09" ed="T"/><note n="0911010" resp="Taisho" place="foot text" type="orig">（句）ィ＋義【原】</note><app n="0911010"><lem wit="【大】">義</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">句義</rdg></app>也。次西北方觀音即是證。謂行願成就入
+<lb n="0911c10" ed="T"/>此華臺三昧也。其四方葉中。初阿字在東方
+<lb n="0911c11" ed="T"/>喻菩提心。最是萬行之初也。黃色是金剛性。
+<lb n="0911c12" ed="T"/>其名曰寶幢。亦名阿閦佛。次<note n="0911011" resp="Taisho" place="foot text" type="orig">阿＋（引）ィ細註【原】</note><app n="0911011"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">阿<note place="inline">引</note></rdg></app>字在南方是
+<lb n="0911c13" ed="T"/>行。赤色火義。即同文殊之<note n="0911012" resp="Taisho" place="foot text" type="orig">義＋（也）ィ【原】</note><app n="0911012"><lem wit="【大】">義</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">義也</rdg></app>。即是華開敷。
+<lb n="0911c14" ed="T"/>亦名寶生佛。次暗字在西方<note n="0911013" resp="Taisho" place="foot text" type="orig">是＋（三）ィ【原】</note><app n="0911013"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">是三</rdg></app>菩提也。萬行
+<lb n="0911c15" ed="T"/>故成等正覺。白色即是圓明究極之義。又是
+<lb n="0911c16" ed="T"/>水義。其佛名阿彌陀也。次惡字在北方。是正
+<lb n="0911c17" ed="T"/>等覺果。其佛名鼓音。是釋迦牟尼也。即是大
+<lb n="0911c18" ed="T"/>涅槃。迹極還本故涅槃也。佛日己隱於涅槃
+<lb n="0911c19" ed="T"/>山故色黑也。次即入中惡<note place="inline">長聲</note>字是方便。即知
+<lb n="0911c20" ed="T"/>此心法界之體。本來常寂滅相。此是毘盧遮
+<lb n="0911c21" ed="T"/>那本地之身。華臺之體。超八葉絕方所。非有
+<lb n="0911c22" ed="T"/>心之境界。唯佛與佛乃能知之。以此方便同
+<lb n="0911c23" ed="T"/>於大空而現眾像。中心空具一切色。即是加
+<lb n="0911c24" ed="T"/>持世界。曼荼羅普門之會無處不有也。但是
+<lb n="0911c25" ed="T"/>如來一身一智一行。是故八葉皆是大日如
+<lb n="0911c26" ed="T"/>來一體也。是故中尊大日是法身。祕密主金
+<lb n="0911c27" ed="T"/>剛惠印是般若。觀自在持蓮華印是解脫。<note n="0911014" resp="Taisho" place="foot text" type="orig">則＝即ィ【原】</note><app n="0911014"><lem wit="【大】">則</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">即</rdg></app>
+<lb n="0911c28" ed="T"/>身密法身德。口密是般若德。意密是解脫德
+<lb n="0911c29" ed="T"/>也。因般若故得解脫。解脫因般若。此二依法
+<pb n="0912a" xml:id="T18.0905.0912a" ed="T"/>
+<lb n="0912a01" ed="T"/>身之體。不即不離闕一不得。猶如伊字三點。
+<lb n="0912a02" ed="T"/>菩提心此金剛部。大悲蓮華部。方便此應化
+<lb n="0912a03" ed="T"/>身也。是故阿字是胎內。指位在等覺已前娑
+<lb n="0912a04" ed="T"/>字胎外指位妙覺。嚩字是用。一切法轉咸依
+<lb n="0912a05" ed="T"/>此門。<note n="0912001" resp="Taisho" place="foot text" type="orig">跡＝蹤ィ【原】</note><app n="0912001"><lem wit="【大】">跡</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">蹤</rdg></app>恣二化濟度十界也。此如來智印是
+<lb n="0912a06" ed="T"/>心實相一切智智果。即菩提心為因。大悲為
+<lb n="0912a07" ed="T"/>根。方便為究竟。以一切智門五種義為眾緣。
+<lb n="0912a08" ed="T"/>若有眾生知此法教者。世人應供養猶如敬
+<lb n="0912a09" ed="T"/>制底。制底是生身舍利所依。是故諸天世人
+<lb n="0912a10" ed="T"/>祈福祐者皆悉供養。若行人信受如是義者。
+<lb n="0912a11" ed="T"/>即法身舍利所依也。復梵音制底與質多體
+<lb n="0912a12" ed="T"/>同。此中祕密謂心為佛塔也。如第三曼荼羅
+<lb n="0912a13" ed="T"/>以自心為基。次第增加乃至中胎。涅槃色最
+<lb n="0912a14" ed="T"/>居其上。故此制底甚高。又從中胎八葉次第
+<lb n="0912a15" ed="T"/>增加。乃至第三隨類普門身。無處不遍。故此
+<lb n="0912a16" ed="T"/>制底極廣。蓮華臺達磨馱都。所謂法身舍利
+<lb n="0912a17" ed="T"/>也。若眾生解此心菩提印者。即同毘盧遮那。
+<lb n="0912a18" ed="T"/>故云。世間應供養猶如敬制底也。然毘<note n="0912002" resp="Taisho" place="foot text" type="orig">盧＋（遮那）ィ【原】</note><app n="0912002"><lem wit="【大】">盧</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">盧遮那</rdg></app>
+<lb n="0912a19" ed="T"/>身土依正相融。性相同一真如遍滿法界大
+<lb n="0912a20" ed="T"/>我。身口意平等如太虛空。以虛空為道場。以
+<lb n="0912a21" ed="T"/>法界為床。大日如來為令知見此道。示二種
+<lb n="0912a22" ed="T"/>法身。智法身佛住實相理。為自受用現三十
+<lb n="0912a23" ed="T"/>七尊。令一切入不二之道。理法身佛住如如
+<lb n="0912a24" ed="T"/>寂照。法然常住不<note n="0912003" resp="Taisho" place="foot text" type="orig">動＋（而動）ィ【原】</note><app n="0912003"><lem wit="【大】">動</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">動而動</rdg></app>現於八葉。為自他受用
+<lb n="0912a25" ed="T"/>示三重曼荼羅。令十界證大空。雖是理智之
+<lb n="0912a26" ed="T"/>殊廣略之異。本來一法曾無殊異。萬法歸一
+<lb n="0912a27" ed="T"/>阿字。五部同一遮那也。</p>
+<lb n="0912a28" ed="T"/><lg xml:id="lgT18p0912a2801"><l>我依毘盧遮那佛</l><l>開心智印建標義</l>
+<lb n="0912a29" ed="T"/><l>無量功德普莊嚴</l><l>同入總持諸善逝</l>
+<pb n="0912b" xml:id="T18.0905.0912b" ed="T"/>
+<lb n="0912b01" ed="T"/><l>願共有緣修學者</l><l>安住無上清淨海</l></lg>
+<lb n="0912b02" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>三種悉地祕密真言法一<note n="0912004" resp="Taisho" place="foot text" type="orig">卷＋（亦名五臟曼荼羅也）ィ【原】</note><app n="0912004"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">卷亦名五臟曼荼羅也</rdg></app></cb:jhead></cb:juan></cb:div>
+</body></text></TEI>

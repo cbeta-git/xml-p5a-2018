@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T50n2044">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 2044 天尊說阿育王譬喻經</title>
+			<author>失譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.11 $<date>$Date: 2009/04/23 08:13:15 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:13:15 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 50, No. 2044 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2000-10-03T14:39:24">CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)</change>
+<!--
+$Log: T50n2044.xml,v $
+Revision 1.11  2009/04/23 08:13:15  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.10  2006/04/12 21:59:16  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.8  2004/11/14 03:18:11  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.7  2004/11/04 14:40:28  saywhat
+段落前加入圈點
+
+Revision 1.6  2004/04/20 08:43:22  maha
+「版本日期」標記修訂
+
+Revision 1.5  2004/03/16 02:20:58  ray
+resp 屬性 統一格式為 CBETA.xxx
+
+Revision 1.4  2004/01/02 05:55:38  maha
+<note mod>裡的corr2app
+
+Revision 1.3  2003/06/23 05:18:51  moved
+＊校勘插入 xml 作業
+
+Revision 1.2  2003/06/12 10:34:21  moved
+「找不到對應的校勘」作業
+
+Revision 1.1.1.1  2003/05/05 04:10:39  ray
+recover cvs
+
+Revision 1.14  2002/12/06 03:08:26  moved
+modified
+
+Revision 1.13  2002/11/04 11:00:06  ray
+tei.2 => TEI.2
+
+Revision 1.12  2002/10/07 13:30:15  moved
+modified
+
+Revision 1.11  2002/07/29 09:45:51  vinking
+modified lang
+
+Revision 1.10  2002/04/08 09:45:11  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.9  2001/07/24 07:01:37  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.8  2001/04/06 11:40:18  moved
+modified normal
+
+Revision 1.7  2001/03/30 06:46:01  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.6  2001/03/25 11:20:31  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 07:33:41  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 08:10:51  chris
+Added keywords $Revision: 1.11 $, $Date: 2009/04/23 08:13:15 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0170a09" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0170a10" ed="T"/>
+<lb n="0170a11" ed="T"/><cb:docNumber>No. 2044</cb:docNumber>
+<lb n="0170a12" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead><note n="0170002" resp="Taisho" place="foot text" type="orig">【原】麗本，【甲】奈良時代寫法然院藏本，〔天尊說〕－【三】【宮】</note><note n="0170002" resp="CBETA" type="mod">【原】麗本，【甲】奈良時代寫法然院藏本，〔天尊說〕－【宋】【元】【明】【宮】</note><app n="0170002"><lem wit="【大】">天尊說</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app><note n="0170002" type="rest" place="foot">【原】麗本，【甲】奈良時代寫法然院藏本</note>阿育王譬喻經</cb:jhead></cb:juan>
+<lb n="0170a13" ed="T"/>
+<lb n="0170a14" ed="T"/><byline cb:type="Translator">失譯<note n="0170003" resp="Taisho" place="foot text" type="orig">〔人名附東晉錄〕六字－【宋】【宮】，人名＝今【元】，人名今【明】</note><note n="0170003" resp="CBETA" type="mod">〔人名附東晉錄〕六字－【宋】【宮】，人名＝今【元】，＝人名今【明】</note><app n="0170003"><lem wit="【大】">人名附東晉錄</lem><rdg resp="Taisho" wit="【宋】【宮】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【元】">今附東晉錄</rdg><rdg resp="Taisho" wit="【明】">人名今</rdg></app></byline>
+<lb n="0170a15" ed="T"/><cb:div type="jing"><p xml:id="pT50p0170a1501">昔有大國王。字名阿育。統領諸國莫不臣屬。
+<lb n="0170a16" ed="T"/>大王聰明智慧無量。教問諸臣。天下頗有不
+<lb n="0170a17" ed="T"/>屬我者不。諸臣對曰。天下盡屬大王。無不
+<lb n="0170a18" ed="T"/><note n="0170004" resp="Taisho" place="foot text" type="orig">弭＝糜【三】【宮】，彌【甲】</note><note n="0170004" resp="CBETA" type="mod">弭＝糜【宋】【元】【明】【宮】，＝彌【甲】</note><app n="0170004"><lem wit="【大】">弭</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">糜</rdg><rdg resp="Taisho" wit="【甲】">彌</rdg></app>伏。中有一智臣對曰。王界內不屬王者。海
+<lb n="0170a19" ed="T"/>中有龍王不屬大王。初不遣信亦無貢獻。是
+<lb n="0170a20" ed="T"/>以知不屬大王。王可<note n="0170005" resp="Taisho" place="foot text" type="orig">試＝識【甲】</note><app n="0170005"><lem wit="【大】">試</lem><rdg resp="Taisho" wit="【甲】">識</rdg></app>之。千乘萬騎。<note n="0170006" resp="Taisho" place="foot text" type="orig">搥＝椎【三】【宮】，推【甲】</note><note n="0170006" resp="CBETA" type="mod">搥＝椎【宋】【元】【明】【宮】，＝推【甲】</note><app n="0170006"><lem wit="【大】">搥</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">椎</rdg><rdg resp="Taisho" wit="【甲】">推</rdg></app>鍾
+<lb n="0170a21" ed="T"/>鳴鼓。旌旗護<note n="0170007" resp="Taisho" place="foot text" type="orig">憐＝擁【三】【宮】</note><note n="0170007" resp="CBETA" type="mod">憐＝擁【宋】【元】【明】【宮】</note><app n="0170007"><lem wit="【大】">憐</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">擁</rdg></app>前後到海邊。龍王靜然不出。
+<lb n="0170a22" ed="T"/>王便呼言。汝在我界內。所由不出。亦寂然不
+<lb n="0170a23" ed="T"/>對王。王便問智臣。何由使龍王得出。智臣對
+<lb n="0170a24" ed="T"/>曰。可使出耳。龍王福德甚大。以是不肯<note n="0170008" resp="Taisho" place="foot text" type="orig">歸服＝歸伏【三】【宮】</note><note n="0170008" resp="CBETA" type="mod">歸服＝歸伏【宋】【元】【明】【宮】</note><app n="0170008"><lem wit="【大】">歸
+<lb n="0170a25" ed="T"/>服</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">歸伏</rdg></app>。大王若不信臣語者。等<note n="0170009" resp="Taisho" place="foot text" type="orig">稱＝秤【三】</note><note n="0170009" resp="CBETA" type="mod">稱＝秤【宋】【元】【明】</note><app n="0170009"><lem wit="【大】">稱</lem><rdg resp="Taisho" wit="【宋】【元】【明】">秤</rdg></app>二斤金鑄作二
+<lb n="0170a26" ed="T"/>像。一作王像。一作龍王像。復取<note n="0170010" resp="Taisho" place="foot text" type="orig">秤＝稱【甲】＊</note><app n="0170010"><lem wit="【大】">秤</lem><rdg resp="Taisho" wit="【甲】">稱</rdg></app>之。龍王
+<lb n="0170a27" ed="T"/>像重。大王像輕。是以知龍王福德多。大王福
+<lb n="0170a28" ed="T"/>德少。王心甚解。歡喜無量。<note n="0170011" resp="Taisho" place="foot text" type="orig">（普）＋告【三】【宮】</note><note n="0170011" resp="CBETA" type="mod">（普）＋告【宋】【元】【明】【宮】</note><app n="0170011"><lem wit="【大】">告</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">普告</rdg></app>天下侍養孤
+<lb n="0170a29" ed="T"/>老。周窮濟<note n="0170012" resp="Taisho" place="foot text" type="orig">乏＝之【甲】</note><app n="0170012"><lem wit="【大】">乏</lem><rdg resp="Taisho" wit="【甲】">之</rdg></app>。所在郡縣興立天尊祠。及置
+<pb n="0170b" xml:id="T50.2044.0170b" ed="T"/>
+<lb n="0170b01" ed="T"/>天尊舍<note n="0170013" resp="Taisho" place="foot text" type="orig">利＋（弗）【甲】</note><app n="0170013"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【甲】">利弗</rdg></app>供養<note n="0170014" resp="Taisho" place="foot text" type="orig">眾＋（僧）【三】，〔眾〕－【宮】</note><note n="0170014" resp="CBETA" type="mod">眾＋（僧）【宋】【元】【明】，〔眾〕－【宮】</note><app n="0170014"><lem wit="【大】">眾</lem><rdg resp="Taisho" wit="【宋】【元】【明】">眾僧</rdg><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>。三年之中復取龍像王
+<lb n="0170b02" ed="T"/>像<app type="star" corresp="#0170010"><lem wit="【大】">秤</lem><rdg resp="Taisho" wit="【甲】">稱</rdg></app>之。龍像便輕。王像便重。智臣白王。龍
+<lb n="0170b03" ed="T"/>可伏矣。便設鹵<note n="0170015" resp="Taisho" place="foot text" type="orig">簿＝蓐【甲】</note><app n="0170015"><lem wit="【大】">簿</lem><rdg resp="Taisho" wit="【甲】">蓐</rdg></app>如前後復到海邊。龍王化
+<lb n="0170b04" ed="T"/>作年少婆羅門。於王前長跪問訊起居。<note n="0170016" resp="Taisho" place="foot text" type="orig">貢＝真【甲】</note><app n="0170016"><lem wit="【大】">貢</lem><rdg resp="Taisho" wit="【甲】">真</rdg></app>
+<lb n="0170b05" ed="T"/>獻海中所有珍<note n="0170017" resp="Taisho" place="foot text" type="orig">〔寶〕－【三】【宮】</note><note n="0170017" resp="CBETA" type="mod">〔寶〕－【宋】【元】【明】【宮】</note><app n="0170017"><lem wit="【大】">寶</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>奇好寶。自稱臣妾。率土
+<lb n="0170b06" ed="T"/>之民無不歡喜。別在經<note n="0170018" resp="Taisho" place="foot text" type="orig">文＝久【宮】【甲】</note><app n="0170018"><lem wit="【大】">文</lem><rdg resp="Taisho" wit="【宮】【甲】">久</rdg></app>。以示後世人。天
+<lb n="0170b07" ed="T"/>下多力無過福德。人護經法如母護子。豈
+<lb n="0170b08" ed="T"/><note n="0170019" resp="Taisho" place="foot text" type="orig">不可＝可不【三】【宮】</note><note n="0170019" resp="CBETA" type="mod">不可＝可不【宋】【元】【明】【宮】</note><app n="0170019"><lem wit="【大】">不可</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">可不</rdg></app>思之。</p>
+<lb n="0170b09" ed="T"/><p xml:id="pT50p0170b0901">昔天尊在世時。將諸弟子教化群生見地有
+<lb n="0170b10" ed="T"/>一紙。弟子阿難輒便取之。天尊告阿難放地。
+<lb n="0170b11" ed="T"/>阿難即便放地。手便大香。小復前行見飄風
+<lb n="0170b12" ed="T"/>吹草在地。阿難復取。天尊語阿難放地。手便
+<lb n="0170b13" ed="T"/>臭。阿難未解。須臾前到精舍當問此意。阿難
+<lb n="0170b14" ed="T"/>白<note n="0170020" resp="Taisho" place="foot text" type="orig">世尊＝天尊【三】</note><note n="0170020" resp="CBETA" type="mod">世尊＝天尊【宋】【元】【明】</note><app n="0170020"><lem wit="【大】">世尊</lem><rdg resp="Taisho" wit="【宋】【元】【明】">天尊</rdg></app>。何緣捉紙而手香。捉草令手臭。天
+<lb n="0170b15" ed="T"/>尊語阿難。紙本從香地來。香著紙。是以使汝
+<lb n="0170b16" ed="T"/>手香。草從臭地來故。是以使汝手臭。與<note n="0170021" resp="Taisho" place="foot text" type="orig">賢＋（人）【甲】</note><app n="0170021"><lem wit="【大】">賢</lem><rdg resp="Taisho" wit="【甲】">賢人</rdg></app>
+<lb n="0170b17" ed="T"/>相近如香著紙。與惡人相近如臭著草。是以
+<lb n="0170b18" ed="T"/>經言近賢成智。近愚益惑。損我者三。益我者
+<lb n="0170b19" ed="T"/>三。此之<note n="0170022" resp="Taisho" place="foot text" type="orig">謂＋（也）【三】【宮】</note><note n="0170022" resp="CBETA" type="mod">謂＋（也）【宋】【元】【明】【宮】</note><app n="0170022"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">謂也</rdg></app>不可不<note n="0170023" resp="Taisho" place="foot text" type="orig">慎＝思【甲】</note><app n="0170023"><lem wit="【大】">慎</lem><rdg resp="Taisho" wit="【甲】">思</rdg></app>。</p>
+<lb n="0170b20" ed="T"/><p xml:id="pT50p0170b2001">昔天尊將諸弟子至江邊。天尊語弟子。取如
+<lb n="0170b21" ed="T"/>拳許石。擲著水中為浮為沒。弟子對曰。石
+<lb n="0170b22" ed="T"/>沒在水底。天尊言。無有緣故。復次有一石
+<lb n="0170b23" ed="T"/><note n="0170024" resp="Taisho" place="foot text" type="orig">辟＝壁【宮】【甲】</note><app n="0170024"><lem wit="【大】">辟</lem><rdg resp="Taisho" wit="【宮】【甲】">壁</rdg></app>方三尺。著於水上經便<note n="0170025" resp="Taisho" place="foot text" type="orig">渡＝度【三】【宮】【甲】下同</note><note n="0170025" resp="CBETA" type="mod">渡＝度【宋】【元】【明】【宮】【甲】下同</note><app n="0170025"><lem wit="【大】">渡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】">度</rdg></app>河石亦不濕
+<lb n="0170b24" ed="T"/>云何得爾。諸弟子未解僉然怪之。諸弟子長
+<lb n="0170b25" ed="T"/>跪白佛言。何緣如<note n="0170026" resp="Taisho" place="foot text" type="orig">此＝是【宋】【甲】</note><app n="0170026"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【宋】【甲】">是</rdg></app>。天尊言。有善緣故耳。
+<lb n="0170b26" ed="T"/>何者為緣船。是天尊借為喻。與善師相值者。
+<lb n="0170b27" ed="T"/>得<note n="0170027" resp="Taisho" place="foot text" type="orig">免＝勉【甲】</note><app n="0170027"><lem wit="【大】">免</lem><rdg resp="Taisho" wit="【甲】">勉</rdg></app>眾苦。與惡師相值者。則習惡事不離
+<lb n="0170b28" ed="T"/>眾禍。示語後世之人。不可不慎。</p>
+<lb n="0170b29" ed="T"/><p xml:id="pT50p0170b2901">昔有窮寒孤獨老公。無以自業。<note n="0170028" resp="Taisho" place="foot text" type="orig">遇＝偶【甲】</note><app n="0170028"><lem wit="【大】">遇</lem><rdg resp="Taisho" wit="【甲】">偶</rdg></app>市得一
+<pb n="0170c" xml:id="T50.2044.0170c" ed="T"/>
+<lb n="0170c01" ed="T"/><note n="0170029" resp="Taisho" place="foot text" type="orig">斧＝斫【甲】＊</note><app n="0170029"><lem wit="【大】">斧</lem><rdg resp="Taisho" wit="【甲】">斫</rdg></app>。是眾寶之英。而不識之。持行斫杖賣之。
+<lb n="0170c02" ed="T"/>以供微命用<app type="star" corresp="#0170029"><lem wit="【大】">斧</lem><rdg resp="Taisho" wit="【甲】">斫</rdg></app>欲盡。見外國治生大<note n="0170030" resp="Taisho" place="foot text" type="orig">賈＝估【甲】</note><app n="0170030"><lem wit="【大】">賈</lem><rdg resp="Taisho" wit="【甲】">估</rdg></app>客。
+<lb n="0170c03" ed="T"/>名曰薩薄。見<app type="star" corresp="#0170029"><lem wit="【大】">斧</lem><rdg resp="Taisho" wit="【甲】">斫</rdg></app>識之。便問老公。賣此<app type="star" corresp="#0170029"><lem wit="【大】">斧</lem><rdg resp="Taisho" wit="【甲】">斫</rdg></app>不。
+<lb n="0170c04" ed="T"/>老公言。我仰此<app type="star" corresp="#0170029"><lem wit="【大】">斧</lem><rdg resp="Taisho" wit="【甲】">斫</rdg></app>斫杖生活不賣也。薩薄復
+<lb n="0170c05" ed="T"/>言。與公絹百匹何以不賣。公謂調己。亦不應
+<lb n="0170c06" ed="T"/>和。薩薄復言。何以不見應和。與公二百匹。公
+<lb n="0170c07" ed="T"/>便<note n="0170031" resp="Taisho" place="foot text" type="orig">悵＝長跪【甲】</note><app n="0170031"><lem wit="【大】">悵</lem><rdg resp="Taisho" wit="【甲】">長跪</rdg></app>然不樂。薩薄復言。嫌少當益。公何以
+<lb n="0170c08" ed="T"/>不樂。與公五百匹。公便大啼哭言。我不恨絹
+<lb n="0170c09" ed="T"/>少。我愚癡此<app type="star" corresp="#0170029"><lem wit="【大】">斧</lem><rdg resp="Taisho" wit="【甲】">斫</rdg></app>長尺半斫地已盡。餘有五
+<lb n="0170c10" ed="T"/>寸猶得五百匹。是以為恨耳。薩薄復言。勿
+<lb n="0170c11" ed="T"/>復遺恨。今與公千匹。即便破券持去。此<app type="star" corresp="#0170029"><lem wit="【大】">斧</lem><rdg resp="Taisho" wit="【甲】">斫</rdg></app>
+<lb n="0170c12" ed="T"/>眾寶之英耳。<note n="0170032" resp="Taisho" place="foot text" type="orig">薩＝地【三】【宮】【甲】</note><note n="0170032" resp="CBETA" type="mod">薩＝地【宋】【元】【明】【宮】【甲】</note><app n="0170032"><lem wit="【大】">薩</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】">地</rdg></app>博不問多少以<app type="star" corresp="#0170029"><lem wit="【大】">斧</lem><rdg resp="Taisho" wit="【甲】">斫</rdg></app>著上。薪
+<lb n="0170c13" ed="T"/>火燒之盡成貴寶。天尊借以為喻。<note n="0170033" resp="Taisho" place="foot text" type="orig">以＝已【宮】</note><app n="0170033"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宮】">已</rdg></app>受人身
+<lb n="0170c14" ed="T"/>六情完具聰智辯達。當就明師以求<note n="0170034" resp="Taisho" place="foot text" type="orig">度＝展【三】</note><note n="0170034" resp="CBETA" type="mod">度＝展【宋】【元】【明】</note><app n="0170034"><lem wit="【大】">度</lem><rdg resp="Taisho" wit="【宋】【元】【明】">展</rdg></app>世之
+<lb n="0170c15" ed="T"/>道。神通可及。而俗著不別真偽者。耕犁因放
+<lb n="0170c16" ed="T"/>時世取驅。至於老死復當受罪。喻如老公用
+<lb n="0170c17" ed="T"/>寶<app type="star" corresp="#0170029"><lem wit="【大】">斧</lem><rdg resp="Taisho" wit="【甲】">斫</rdg></app>盡。豈不<note n="0170035" resp="Taisho" place="foot text" type="orig">誤＝悟【三】【宮】</note><note n="0170035" resp="CBETA" type="mod">誤＝悟【宋】【元】【明】【宮】</note><app n="0170035"><lem wit="【大】">誤</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">悟</rdg></app>哉。昔隴上一鳥字為鸚鵡。
+<lb n="0170c18" ed="T"/>展轉及得在東太山。諸禽<note n="0170036" resp="Taisho" place="foot text" type="orig">〔獸〕－【甲】</note><app n="0170036"><lem wit="【大】">獸</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>飛鳥莫不敬愛。
+<lb n="0170c19" ed="T"/>以其在遠來故。比作親友甚相愛樂。春月
+<lb n="0170c20" ed="T"/>野火所燒便行入水。飛在火上<note n="0170037" resp="Taisho" place="foot text" type="orig">抖擻＝水凍【甲】</note><app n="0170037"><lem wit="【大】">抖擻</lem><rdg resp="Taisho" wit="【甲】">水凍</rdg></app>毛羽之
+<lb n="0170c21" ed="T"/>水。救親友難。往返非一。悲鳴大<note n="0170038" resp="Taisho" place="foot text" type="orig">吁＝呼【三】【宮】【甲】</note><note n="0170038" resp="CBETA" type="mod">吁＝呼【宋】【元】【明】【宮】【甲】</note><app n="0170038"><lem wit="【大】">吁</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】">呼</rdg></app>鸚鵡之
+<lb n="0170c22" ed="T"/>水豈能滅火。至<note n="0170039" resp="Taisho" place="foot text" type="orig">誠＝成【甲】</note><app n="0170039"><lem wit="【大】">誠</lem><rdg resp="Taisho" wit="【甲】">成</rdg></app>感天為之降雨。火即時
+<lb n="0170c23" ed="T"/>得滅。天尊經借以為喻。賢者以道士遠到研
+<lb n="0170c24" ed="T"/>精行道。減割身口侵妻子分供養眾僧。雖無
+<lb n="0170c25" ed="T"/>神通感動。亦以至誠燒香求<note n="0170040" resp="Taisho" place="foot text" type="orig">滅挾＝滅使【宋】，啟使【元】【明】【甲】，滅殃【宮】</note><note n="0170040" resp="CBETA" type="mod">滅挾＝滅使【宋】，＝啟使【元】【明】【甲】，＝滅殃【宮】</note><app n="0170040"><lem wit="【大】">滅。挾</lem><rdg resp="Taisho" wit="【宋】">滅使</rdg><rdg resp="Taisho" wit="【元】【明】【甲】">啟使</rdg><rdg resp="Taisho" wit="【宮】">滅殃</rdg></app><note n="0170041" resp="Taisho" place="foot text" type="orig">諸＝護【宮】</note><app n="0170041"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【宮】">護</rdg></app><note n="0170042" resp="Taisho" place="foot text" type="orig">禮起＝檀越【三】【甲】</note><note n="0170042" resp="CBETA" type="mod">禮起＝檀越【宋】【元】【明】【甲】</note><app n="0170042"><lem wit="【大】">禮
+<lb n="0170c26" ed="T"/>起</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">檀越</rdg></app>獲福無量。喻如天雨眾<note n="0170043" resp="Taisho" place="foot text" type="orig">災＝火【三】【宮】</note><note n="0170043" resp="CBETA" type="mod">災＝火【宋】【元】【明】【宮】</note><app n="0170043"><lem wit="【大】">災</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">火</rdg></app>悉滅。</p>
+<lb n="0170c27" ed="T"/><p xml:id="pT50p0170c2701">昔有大長者財富無<note n="0170044" resp="Taisho" place="foot text" type="orig">量＝數【甲】</note><app n="0170044"><lem wit="【大】">量</lem><rdg resp="Taisho" wit="【甲】">數</rdg></app>。窖穀千斛後出之不
+<lb n="0170c28" ed="T"/>見穀。見一小兒可年三歲亦不知語。長者
+<lb n="0170c29" ed="T"/>亦不知字名何物。舉門前大道邊。陌上行人
+<pb n="0171a" xml:id="T50.2044.0171a" ed="T"/>
+<lb n="0171a01" ed="T"/><note n="0171001" resp="Taisho" place="foot text" type="orig">尚＝儻【元】【明】，償【甲】</note><note n="0171001" resp="CBETA" type="mod">尚＝儻【元】【明】，＝償【甲】</note><app n="0171001"><lem wit="【大】">尚</lem><rdg resp="Taisho" wit="【元】【明】">儻</rdg><rdg resp="Taisho" wit="【甲】">償</rdg></app>有識者。<note n="0171002" resp="Taisho" place="foot text" type="orig">舍＝會【甲】</note><app n="0171002"><lem wit="【大】">舍</lem><rdg resp="Taisho" wit="【甲】">會</rdg></app>東有一車來。乘駕黃牛人著
+<lb n="0171a02" ed="T"/>黃衣從人皆黃。過見小兒便言。穀賊何以坐
+<lb n="0171a03" ed="T"/>此。是兒五穀之神。語長者持鍬。斧來。我語
+<lb n="0171a04" ed="T"/>君一<note n="0171003" resp="Taisho" place="foot text" type="orig">盆＝貪【甲】</note><app n="0171003"><lem wit="【大】">盆</lem><rdg resp="Taisho" wit="【甲】">貪</rdg></app>金處。適始行過者是金神。順陌<note n="0171004" resp="Taisho" place="foot text" type="orig">西＝面【三】，而【宮】，惡【甲】</note><note n="0171004" resp="CBETA" type="mod">西＝面【宋】【元】【明】，＝而【宮】，＝惡【甲】</note><app n="0171004"><lem wit="【大】">西</lem><rdg resp="Taisho" wit="【宋】【元】【明】">面</rdg><rdg resp="Taisho" wit="【宮】">而</rdg><rdg resp="Taisho" wit="【甲】">惡</rdg></app>
+<lb n="0171a05" ed="T"/>去得道南迴。行二百步。道西當有朽故樹。其
+<lb n="0171a06" ed="T"/>下有<note n="0171005" resp="Taisho" place="foot text" type="orig">瓫＝瓮【宮】＊</note><app n="0171005"><lem wit="【大】">瓫</lem><rdg resp="Taisho" wit="【宮】">瓮</rdg></app>有十斛金。君往掘取可以還君穀直。
+<lb n="0171a07" ed="T"/>長者即<note n="0171006" resp="Taisho" place="foot text" type="orig">〔隨〕－【甲】</note><app n="0171006"><lem wit="【大】">隨</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>小兒教得此治家足成大富。佛經
+<lb n="0171a08" ed="T"/>借以為喻。供養眾僧廣設檀會交有所費。喻
+<lb n="0171a09" ed="T"/>以失穀。道士講<note n="0171007" resp="Taisho" place="foot text" type="orig">經＝教【甲】</note><app n="0171007"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【甲】">教</rdg></app>說<note n="0171008" resp="Taisho" place="foot text" type="orig">〔義〕－【甲】</note><app n="0171008"><lem wit="【大】">義</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>教人遠惡就<note n="0171009" resp="Taisho" place="foot text" type="orig">〔善後…無〕五字－【甲】</note><app cb:word-count="5" n="0171009"><lem wit="【大】">善。
+<lb n="0171a10" ed="T"/>後獲福無</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>量乃可至道。喻如得金<app type="star" corresp="#0171005"><lem wit="【大】">瓫</lem><rdg resp="Taisho" wit="【宮】">瓮</rdg></app>。示語
+<lb n="0171a11" ed="T"/>後世人。福德不可不作。後悔無及。</p>
+<lb n="0171a12" ed="T"/><p xml:id="pT50p0171a1201">昔有國豐盛安樂無所渴乏。便語<note n="0171010" resp="Taisho" place="foot text" type="orig">大＝火【甲】</note><app n="0171010"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】">火</rdg></app>臣。遣一
+<lb n="0171a13" ed="T"/>可使之臣。至於他國市吾所無者市來。即遣
+<lb n="0171a14" ed="T"/>一人往至他國益<note n="0171011" resp="Taisho" place="foot text" type="orig">將＝持【甲】</note><app n="0171011"><lem wit="【大】">將</lem><rdg resp="Taisho" wit="【甲】">持</rdg></app>珍寶遍市肆觀<note n="0171012" resp="Taisho" place="foot text" type="orig">看＝者【甲】</note><app n="0171012"><lem wit="【大】">看</lem><rdg resp="Taisho" wit="【甲】">者</rdg></app>無有
+<lb n="0171a15" ed="T"/><note n="0171013" resp="Taisho" place="foot text" type="orig">餘＝俞【甲】</note><app n="0171013"><lem wit="【大】">餘</lem><rdg resp="Taisho" wit="【甲】">俞</rdg></app>物。盡是我國中所有耳。<note n="0171014" resp="Taisho" place="foot text" type="orig">最＝窮【甲】</note><app n="0171014"><lem wit="【大】">最</lem><rdg resp="Taisho" wit="【甲】">窮</rdg></app>後見一賢者
+<lb n="0171a16" ed="T"/>空坐肆上。便問之言。不見君有所賣。何以空
+<lb n="0171a17" ed="T"/>坐。答言在此賣智慧耳。問曰。君<note n="0171015" resp="Taisho" place="foot text" type="orig">智＋（慧）【三】【宮】【甲】</note><note n="0171015" resp="CBETA" type="mod">智＋（慧）【宋】【元】【明】【宮】【甲】</note><app n="0171015"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】">智慧</rdg></app>何像賣
+<lb n="0171a18" ed="T"/>索幾許。答言。吾智慧直五百兩金。前稱爾金
+<lb n="0171a19" ed="T"/>吾當與汝說之耳。遠人便自念。我國中無賣
+<lb n="0171a20" ed="T"/>智慧與人。便<app type="star" corresp="#0170010"><lem wit="【大】">秤</lem><rdg resp="Taisho" wit="【甲】">稱</rdg></app>五百兩金與其人。即與說
+<lb n="0171a21" ed="T"/>智慧之言。<note n="0171016" resp="Taisho" place="foot text" type="orig">二十＋（一）【三】【宮】</note><note n="0171016" resp="CBETA" type="mod">二十＋（一）【宋】【元】【明】【宮】</note><app n="0171016"><lem wit="【大】">二十</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">二十一</rdg></app>字言。長慮諦思惟。不當
+<lb n="0171a22" ed="T"/><note n="0171017" resp="Taisho" place="foot text" type="orig">卒＝年【甲】</note><app n="0171017"><lem wit="【大】">卒</lem><rdg resp="Taisho" wit="【甲】">年</rdg></app>行怒。今日雖不用。會當有用時。於是受
+<lb n="0171a23" ed="T"/><note n="0171018" resp="Taisho" place="foot text" type="orig">誦＝訟【甲】</note><app n="0171018"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】">訟</rdg></app>令利各自還家。臣買得智慧之言即便還
+<lb n="0171a24" ed="T"/>國道徑其家。夜入<note n="0171019" resp="Taisho" place="foot text" type="orig">明月＝月明見【三】【宮】</note><note n="0171019" resp="CBETA" type="mod">明月＝月明見【宋】【元】【明】【宮】</note><app n="0171019"><lem wit="【大】">明月</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">月明見</rdg></app>婦床前有兩<note n="0171020" resp="Taisho" place="foot text" type="orig">（色）＋履【三】【宮】</note><note n="0171020" resp="CBETA" type="mod">（色）＋履【宋】【元】【明】【宮】</note><app n="0171020"><lem wit="【大】">履</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">色履</rdg></app>。疑
+<lb n="0171a25" ed="T"/>有異人便生惡念。其婦卒得疾病母往宿。視
+<lb n="0171a26" ed="T"/>長者故說智慧之言未休。其母驚覺兒<note n="0171021" resp="Taisho" place="foot text" type="orig">〔爾〕－【甲】</note><app n="0171021"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>來
+<lb n="0171a27" ed="T"/>歸<note n="0171022" resp="Taisho" place="foot text" type="orig">耶＝那【甲】</note><app n="0171022"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】">那</rdg></app>。兒<note n="0171023" resp="Taisho" place="foot text" type="orig">便＝使【甲】</note><app n="0171023"><lem wit="【大】">便</lem><rdg resp="Taisho" wit="【甲】">使</rdg></app>走出戶呼賤賤。母問其言。云何
+<lb n="0171a28" ed="T"/>汝行為得何物。何以呼賤。兒言我母以婦萬
+<lb n="0171a29" ed="T"/>兩金猶不與人。正顧五百兩金豈非賤<note n="0171024" resp="Taisho" place="foot text" type="orig">耶＝邪【甲】</note><app n="0171024"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】">邪</rdg></app>。
+<pb n="0171b" xml:id="T50.2044.0171b" ed="T"/>
+<lb n="0171b01" ed="T"/>天尊經借以為喻。諺語一言之助。勝千金之
+<lb n="0171b02" ed="T"/>益。此之謂也。</p>
+<lb n="0171b03" ed="T"/><p xml:id="pT50p0171b0301">昔天尊在<note n="0171025" resp="Taisho" place="foot text" type="orig">洹＝恒【三】【宮】【甲】</note><note n="0171025" resp="CBETA" type="mod">洹＝恒【宋】【元】【明】【宮】【甲】</note><app n="0171025"><lem wit="【大】">洹</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】">恒</rdg></app>水邊。廣說經法。時天龍鬼神帝
+<lb n="0171b04" ed="T"/>王<note n="0171026" resp="Taisho" place="foot text" type="orig">人＝之【三】【宮】【甲】</note><note n="0171026" resp="CBETA" type="mod">人＝之【宋】【元】【明】【宮】【甲】</note><app n="0171026"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】">之</rdg></app>民飛鳥走<note n="0171027" resp="Taisho" place="foot text" type="orig">獸＝狩【宋】【元】【宮】【甲】</note><app n="0171027"><lem wit="【大】">獸</lem><rdg resp="Taisho" wit="【宋】【元】【宮】【甲】">狩</rdg></app>皆來聽法。時有放牛老
+<lb n="0171b05" ed="T"/>公柱杖而聽。不覺杖下有蝦蟆。蝦蟆聽經意
+<lb n="0171b06" ed="T"/>美。亦不覺背上有杖。遂久蝦蟆命終。其神即
+<lb n="0171b07" ed="T"/>生天上。用天眼觀其本。從何道中來乃見故
+<lb n="0171b08" ed="T"/>身在蝦蟆中。來天華散其故身上。示語後世
+<lb n="0171b09" ed="T"/>人。蝦蟆中聽經意美得生天上。況<note n="0171028" resp="Taisho" place="foot text" type="orig">於＝杖【宮】，枚【甲】</note><note n="0171028" resp="CBETA" type="mod">於＝杖【宮】，＝枚【甲】</note><app n="0171028"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【宮】">杖</rdg><rdg resp="Taisho" wit="【甲】">枚</rdg></app>賢者至
+<lb n="0171b10" ed="T"/>心聽經。豈不巍巍乎。</p>
+<lb n="0171b11" ed="T"/><p xml:id="pT50p0171b1101">昔有兄弟二人。弟行追明師作沙門。遂得羅
+<lb n="0171b12" ed="T"/>漢道。數數來語兄。可勤作福德。兄言。我<note n="0171029" resp="Taisho" place="foot text" type="orig">今＋（心念）【三】【宮】</note><note n="0171029" resp="CBETA" type="mod">今＋（心念）【宋】【元】【明】【宮】</note><app n="0171029"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">今心念</rdg></app>
+<lb n="0171b13" ed="T"/><note n="0171030" resp="Taisho" place="foot text" type="orig">怱＝忽【明】【甲】＊</note><app n="0171030"><lem wit="【大】">怱</lem><rdg resp="Taisho" wit="【明】【甲】">忽</rdg></app>務且須後耳。數數非一。兄後命終。弟以
+<lb n="0171b14" ed="T"/>道眼觀兄神生何道。看天道人道<note n="0171031" resp="Taisho" place="foot text" type="orig">〔其〕－【甲】</note><app n="0171031"><lem wit="【大】">其</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>中不見
+<lb n="0171b15" ed="T"/>其神。復觀地獄餓鬼道中復不見。乃在畜生
+<lb n="0171b16" ed="T"/>道中。見兄神作大牛。時賈客駕牛治生。道惡
+<lb n="0171b17" ed="T"/>趺泥中不能自起。賈客以杖打之。猶復舒咽
+<lb n="0171b18" ed="T"/>不起。弟見兄如此。逕來在牛前。語兄言。今日
+<lb n="0171b19" ed="T"/><app type="star" corresp="#0171030"><lem wit="【大】">怱</lem><rdg resp="Taisho" wit="【明】【甲】">忽</rdg></app>務何如本時。牛便<note n="0171032" resp="Taisho" place="foot text" type="orig">羞＝著【元】【明】</note><app n="0171032"><lem wit="【大】">羞</lem><rdg resp="Taisho" wit="【元】【明】">著</rdg></app>慚感絕而死。道人
+<lb n="0171b20" ed="T"/>即去。眾<note n="0171033" resp="Taisho" place="foot text" type="orig">賈＝寶【甲】</note><app n="0171033"><lem wit="【大】">賈</lem><rdg resp="Taisho" wit="【甲】">寶</rdg></app>人等便共議言。道人何故來<note n="0171034" resp="Taisho" place="foot text" type="orig">呪＝祝【甲】</note><app n="0171034"><lem wit="【大】">呪</lem><rdg resp="Taisho" wit="【甲】">祝</rdg></app>
+<lb n="0171b21" ed="T"/>殺我牛。便追逐道人。將還問其意狀。道人如
+<lb n="0171b22" ed="T"/>事為說牛是我兄。不隨我語以致此罪。道人
+<lb n="0171b23" ed="T"/>便擲鉢虛空。飛隨其後。眾賈人知是聖人。乃
+<lb n="0171b24" ed="T"/>更自責。為牛燒香作福。其福得生天上。</p>
+<lb n="0171b25" ed="T"/><p xml:id="pT50p0171b2501">昔有賢者。居舍衛國<note n="0171035" resp="Taisho" place="foot text" type="orig">東南＝南東【甲】</note><app n="0171035"><lem wit="【大】">東南</lem><rdg resp="Taisho" wit="【甲】">南東</rdg></app>三十里。家門奉法
+<lb n="0171b26" ed="T"/>供養道人。家公好喜殺猪賣肉。道人漸漸知
+<lb n="0171b27" ed="T"/>之。未及呵誡。老公遂便命終。在恒水中受鬼
+<lb n="0171b28" ed="T"/>神形。有<note n="0171036" resp="Taisho" place="foot text" type="orig">自＝白【三】【宮】【甲】</note><note n="0171036" resp="CBETA" type="mod">自＝白【宋】【元】【明】【宮】【甲】</note><app n="0171036"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】">白</rdg></app>鐵輪鋒刃如霜雪。隨流刺之。苦
+<lb n="0171b29" ed="T"/>痛不可言。後日道人渡恒水在正與鬼神相
+<pb n="0171c" xml:id="T50.2044.0171c" ed="T"/>
+<lb n="0171c01" ed="T"/>值。其鬼便出半身在水上。<note n="0171037" resp="Taisho" place="foot text" type="orig">捉＝投【甲】</note><app n="0171037"><lem wit="【大】">捉</lem><rdg resp="Taisho" wit="【甲】">投</rdg></app>船顧言。捉道
+<lb n="0171c02" ed="T"/>人著水中。不者盡殺船上人。時有一賢者便
+<lb n="0171c03" ed="T"/>問鬼神。何以故索是道人。鬼神言。我在世間
+<lb n="0171c04" ed="T"/><note n="0171038" resp="Taisho" place="foot text" type="orig">〔時〕－【宮】，時＝門【甲】</note><app n="0171038"><lem wit="【大】">時</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【甲】">門</rdg></app>供養道人。道人心知我殺猪賣肉。而不呵
+<lb n="0171c05" ed="T"/>誡我。是以殺道人耳。賢者便言。君坐殺猪乃
+<lb n="0171c06" ed="T"/>致此罪。今復欲殺道人。罪豈不多乎。鬼神思
+<lb n="0171c07" ed="T"/>惟實如賢者之言。便放令去。道人得去還語
+<lb n="0171c08" ed="T"/>其家子孫。為作追福。神即<note n="0171039" resp="Taisho" place="foot text" type="orig">得＝德【甲】</note><app n="0171039"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【甲】">德</rdg></app>免苦。示語後
+<lb n="0171c09" ed="T"/>世人。道人受供養不可不教誡。</p>
+<lb n="0171c10" ed="T"/><p xml:id="pT50p0171c1001">昔有人在道上行。見道有一死人。鬼神以杖
+<lb n="0171c11" ed="T"/>鞭之。行人問言。此人<note n="0171040" resp="Taisho" place="foot text" type="orig">已＝以【甲】</note><app n="0171040"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【甲】">以</rdg></app>死何故鞭之。鬼神
+<lb n="0171c12" ed="T"/>言。是我故身。<note n="0171041" resp="Taisho" place="foot text" type="orig">在生＝生在【甲】</note><app n="0171041"><lem wit="【大】">在生</lem><rdg resp="Taisho" wit="【甲】">生在</rdg></app>之日不孝父母。事君不
+<lb n="0171c13" ed="T"/>忠。不敬三尊。不隨師父之教。令我墮罪苦
+<lb n="0171c14" ed="T"/>痛<note n="0171042" resp="Taisho" place="foot text" type="orig">難＝勤【甲】</note><app n="0171042"><lem wit="【大】">難</lem><rdg resp="Taisho" wit="【甲】">勤</rdg></app>言。悉我故身故來鞭耳。稍稍前行復見
+<lb n="0171c15" ed="T"/>一死人。天神來下散華於死人屍上。以手摩
+<lb n="0171c16" ed="T"/><note n="0171043" resp="Taisho" place="foot text" type="orig">挱＝抄【宮】，挲【甲】＊</note><note n="0171043" resp="CBETA" type="mod">挱＝抄【宮】，＝挲【甲】＊</note><app n="0171043"><lem wit="【大】">挱</lem><rdg resp="Taisho" wit="【宮】">抄</rdg><rdg resp="Taisho" wit="【甲】">挲</rdg></app>之。行人問言。觀君似是天。何故摩<app type="star" corresp="#0171043"><lem wit="【大】">挱</lem><rdg resp="Taisho" wit="【甲】">挲</rdg></app>是
+<lb n="0171c17" ed="T"/>死屍。答曰。是我故身生時之日孝順父母。忠
+<lb n="0171c18" ed="T"/>信事君。奉敬三尊。承受師父之教。令我神得
+<lb n="0171c19" ed="T"/>生天。皆是故身之恩。是以來報之耳。行人一
+<lb n="0171c20" ed="T"/>日見<note n="0171044" resp="Taisho" place="foot text" type="orig">〔此〕－【甲】</note><app n="0171044"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>二變。便還家奉持五戒修行十善。
+<lb n="0171c21" ed="T"/>孝順父母忠信事君。示語後世人。罪福追人
+<lb n="0171c22" ed="T"/>久而不置。不可不慎。</p>
+<lb n="0171c23" ed="T"/><p xml:id="pT50p0171c2301">昔有道人。在山中學<note n="0171045" resp="Taisho" place="foot text" type="orig">道＋（道）【三】【宮】</note><note n="0171045" resp="CBETA" type="mod">道＋（道）【宋】【元】【明】【宮】</note><app n="0171045"><lem wit="【大】">道</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">道道</rdg></app>。人遣沙彌出舍
+<lb n="0171c24" ed="T"/><note n="0171046" resp="Taisho" place="foot text" type="orig">（分）＋衛【三】【宮】</note><note n="0171046" resp="CBETA" type="mod">（分）＋衛【宋】【元】【明】【宮】</note><app n="0171046"><lem wit="【大】">衛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">分衛</rdg></app>。日日責一<note n="0171047" resp="Taisho" place="foot text" type="orig">斗＝舛【三】【宮】【甲】＊</note><note n="0171047" resp="CBETA" type="mod">斗＝舛【宋】【元】【明】【宮】【甲】＊</note><app n="0171047"><lem wit="【大】">斗</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】">舛</rdg></app>米兼課一偈。市中有一坐
+<lb n="0171c25" ed="T"/>肆賢者。見沙彌並語而行。問沙彌言。周行
+<lb n="0171c26" ed="T"/>走索何以並語而行。沙彌答言。我師在山
+<lb n="0171c27" ed="T"/>中學道。日責我米一<app type="star" corresp="#0171047"><lem wit="【大】">斗</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】">舛</rdg></app>兼課一偈。是以並
+<lb n="0171c28" ed="T"/>行誦一偈耳。賢者復問。若不輸米日可<note n="0171048" resp="Taisho" place="foot text" type="orig">諳＝菴【甲】</note><note n="0171048" resp="CBETA" type="mod">諳＝菴【甲】<choice cb:resp="CBETA.march"><corr>＊</corr><sic></sic></choice></note><app n="0171048"><lem wit="【大】">諳</lem><rdg resp="Taisho" wit="【甲】">菴</rdg></app>
+<lb n="0171c29" ed="T"/>幾偈。言可<app type="star" corresp="#0171048"><lem wit="【大】">諳</lem><rdg resp="Taisho" wit="【甲】">菴</rdg></app>十偈。賢者便言。勿復分<note n="0171049" resp="Taisho" place="foot text" type="orig">行＝衛【三】【宮】【甲】</note><note n="0171049" resp="CBETA" type="mod">行＝衛【宋】【元】【明】【宮】【甲】</note><app n="0171049"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】">衛</rdg></app>。
+<pb n="0172a" xml:id="T50.2044.0172a" ed="T"/>
+<lb n="0172a01" ed="T"/>吾<note n="0172001" resp="Taisho" place="foot text" type="orig">自＝日【甲】</note><app n="0172001"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【甲】">日</rdg></app>代沙彌輸米。沙彌歡喜即得靜坐學問。
+<lb n="0172a02" ed="T"/>賢者為沙彌輸<note n="0172002" resp="Taisho" place="foot text" type="orig">〔米〕－【甲】</note><app n="0172002"><lem wit="【大】">米</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>九斛<note n="0172003" resp="Taisho" place="foot text" type="orig">〔米〕－【三】【宮】</note><note n="0172003" resp="CBETA" type="mod">〔米〕－【宋】【元】【明】【宮】</note><app n="0172003"><lem wit="【大】">米</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>。然後試沙彌經
+<lb n="0172a03" ed="T"/>皆自通利。賢者後生世間為天尊作弟子。字
+<lb n="0172a04" ed="T"/>名阿難。天尊有十二部經典。聰明之福<note n="0172004" resp="Taisho" place="foot text" type="orig">報＋（悉能誦持智）【三】【宮】</note><note n="0172004" resp="CBETA" type="mod">報＋（悉能誦持智）【宋】【元】【明】【宮】</note><app n="0172004"><lem wit="【大】">報</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">報悉能誦持智</rdg></app>不
+<lb n="0172a05" ed="T"/>可<note n="0172005" resp="Taisho" place="foot text" type="orig">謂＝量【三】【宮】【甲】</note><note n="0172005" resp="CBETA" type="mod">謂＝量【宋】【元】【明】【宮】【甲】</note><app n="0172005"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】">量</rdg></app>問一知十。示語後世人。福德隨身如影
+<lb n="0172a06" ed="T"/>隨形。隨人所種各獲其福。不可不為。</p>
+<lb n="0172a07" ed="T"/><p xml:id="pT50p0172a0701">昔有屠兒有千頭牛養令<note n="0172006" resp="Taisho" place="foot text" type="orig">肥＝服【甲】</note><app n="0172006"><lem wit="【大】">肥</lem><rdg resp="Taisho" wit="【甲】">服</rdg></app>好。日殺一牛賣
+<lb n="0172a08" ed="T"/>肉。<note n="0172007" resp="Taisho" place="foot text" type="orig">以＝已【三】【宮】</note><note n="0172007" resp="CBETA" type="mod">以＝已【宋】【元】【明】【宮】</note><app n="0172007"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">已</rdg></app>殺五百牛。餘有五百頭。方共跳騰諠
+<lb n="0172a09" ed="T"/>戲共相觝觸。天尊時入國。見牛如此愍而捨
+<lb n="0172a10" ed="T"/>去。語諸弟子。此牛愚癡。伴侶欲盡方共戲諠。
+<lb n="0172a11" ed="T"/>人亦如是。一日過去。人命轉<note n="0172008" resp="Taisho" place="foot text" type="orig">減＝滅【甲】</note><app n="0172008"><lem wit="【大】">減</lem><rdg resp="Taisho" wit="【甲】">滅</rdg></app>不可不思惟
+<lb n="0172a12" ed="T"/>勤求度世之道。</p>
+<lb n="0172a13" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><note n="0172009" resp="Taisho" place="foot text" type="orig">〔天尊說〕－【三】【宮】【甲】</note><note n="0172009" resp="CBETA" type="mod">〔天尊說〕－【宋】【元】【明】【宮】【甲】</note><app n="0172009"><lem wit="【大】">天尊說</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【甲】"><space quantity="0"/></rdg></app>阿育王譬喻經</cb:jhead></cb:juan></cb:div>
+</body></text></TEI>
