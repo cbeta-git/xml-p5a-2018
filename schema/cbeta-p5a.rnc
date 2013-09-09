@@ -31,6 +31,9 @@ tei_macro.specialPara =
    | tei_model.divPart
    | tei_model.global)*
 tei_macro.xtext = (text | tei_model.gLike)*
+
+data.pointer = xsd:anyURI
+
 att.ascribed.attributes = att.ascribed.attribute.who
 att.ascribed.attribute.who =
   
@@ -627,6 +630,14 @@ att.segLike.attribute.part =
       ## (final) the final part of an incomplete segment
       "F"
   }?
+
+att.source.attributes = att.source.attribute.source
+att.source.attribute.source =
+  ##  (pointer to a bibliographical source reference) provides a pointer to the bibliographical source from which a quotation or citation is drawn.
+  attribute source {
+    list { data.pointer+ }
+  }?
+
 att.sourced.attributes = att.sourced.attribute.ed
 att.sourced.attribute.ed =
   
@@ -1123,16 +1134,18 @@ tei_said =
     attribute direct { xsd:boolean | "unknown" | "inapplicable" }?,
     empty
   }
-tei_quote =
+
+tei_quote =  
+	## (quotation) contains a phrase or passage attributed by the narrator or author to some agency external
+	##         to the text.
+	element quote {
+		tei_macro.specialPara,
+		att.global.attributes,
+		att.typed.attributes,
+		att.source.attributes,
+		empty
+	}
   
-  ## (quotation) contains a phrase or passage attributed by the narrator or author to some agency external
-  ##         to the text.
-  element quote {
-    tei_macro.specialPara,
-    att.global.attributes,
-    att.typed.attributes,
-    empty
-  }
 tei_q =
   
   ## (separated from the surrounding text with quotation marks) contains material which is marked as (ostensibly) being somehow different than the
