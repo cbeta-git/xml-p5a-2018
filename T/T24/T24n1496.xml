@@ -11,7 +11,7 @@
 			</respStmt>
 		</titleStmt>
 	<editionStmt>
-		<edition>$Revision: 1.10 $<date>$Date: 2009/04/23 08:02:39 $</date></edition>
+		<edition>$Revision: 1.10 $<date>$Date: 2009/04/23 08:02:39 $</date>新式標點版</edition>
 	</editionStmt>
 	<extent>1卷</extent>
 	<publicationStmt>
@@ -32,8 +32,8 @@
 </fileDesc>
 <encodingDesc>
 	<projectDesc>
-		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Gaya Foundation, Text as provided by Anonymous from USA</p>
-		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，伽耶山基金會提供，北美某大德提供</p>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Gaya Foundation, Text as provided by Anonymous from USA, Punctuated text as provided by Mr. Li Ming-Fang</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，伽耶山基金會提供，北美某大德提供，李明芳大德提供新式標點</p>
 	</projectDesc>
 </encodingDesc>
 <profileDesc>
@@ -117,135 +117,135 @@ Added comment  for Emacs
 <lb n="1102b25" ed="T"/><cb:docNumber>No. 1496</cb:docNumber>
 <lb n="1102b26" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><title>佛說正恭敬經</title></cb:jhead></cb:juan>
 <lb n="1102b27" ed="T"/>
-<lb n="1102b28" ed="T"/><byline cb:type="Translator"><note n="1102004" resp="Taisho" place="foot text" type="orig">〔元魏…譯〕十一字－【西】</note><app cb:word-count="11" n="1102004"><lem wit="【大】">元魏天竺三藏佛陀扇多譯</lem><rdg resp="Taisho" wit="【西】"><space quantity="0"/></rdg></app></byline>
-<lb n="1102b29" ed="T"/><cb:div type="jing"><p xml:id="pT24p1102b2901">如是我聞。一時佛<note n="1102005" resp="Taisho" place="foot text" type="orig">住＝在【三】【宮】</note><note n="1102005" resp="CBETA" type="mod">住＝在【宋】【元】【明】【宮】</note><app n="1102005"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">在</rdg></app>舍衛國祇樹給孤獨園。
-<pb n="1102c" xml:id="T24.1496.1102c" ed="T"/>
-<lb n="1102c01" ed="T"/>與聲聞比丘二百五十人俱。菩薩五百人皆
-<lb n="1102c02" ed="T"/>是如來種子。權行六道助佛<note n="1102006" resp="Taisho" place="foot text" type="orig">揚＝楊【西】</note><app n="1102006"><lem wit="【大】">揚</lem><rdg resp="Taisho" wit="【西】">楊</rdg></app>化。知眾生根
-<lb n="1102c03" ed="T"/>威德自在。顯發如來方便密教。其名曰生疑
-<lb n="1102c04" ed="T"/>菩薩。寶德菩薩。光明王菩薩。慧<note n="1102007" resp="Taisho" place="foot text" type="orig">登＝鐙【三】【宮】</note><note n="1102007" resp="CBETA" type="mod">登＝鐙【宋】【元】【明】【宮】</note><app n="1102007"><lem wit="【大】">登</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">鐙</rdg></app>菩薩。德
-<lb n="1102c05" ed="T"/>臻菩薩。悉達菩薩。無畏菩薩。覺首菩薩。財
-<lb n="1102c06" ed="T"/>首菩薩。寶首菩薩。德首菩薩。目首菩薩。進
-<lb n="1102c07" ed="T"/>首菩薩。法首菩薩。智首菩薩。賢首菩薩。如
+<lb n="1102b28" ed="T"/><byline cb:type="Translator"><note n="1102004" resp="Taisho" type="orig" place="foot text">〔元魏…譯〕十一字－【西】</note><app n="1102004" cb:word-count="11"><lem wit="【大】">元魏天竺三藏佛陀扇多譯</lem><rdg resp="Taisho" wit="【西】"><space quantity="0"/></rdg></app></byline>
+<lb n="1102b29" ed="T"/><cb:div type="jing"><p xml:id="pT24p1102b2901">如是我聞：</p><p xml:id="pT24p1102b2905" rend="inline">一時佛<note n="1102005" resp="Taisho" type="orig" place="foot text">住＝在【三】【宮】</note><note n="1102005" resp="CBETA" type="mod">住＝在【宋】【元】【明】【宮】</note><app n="1102005"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">在</rdg></app>舍衛國祇樹給孤獨園，
+<pb n="1102c" ed="T" xml:id="T24.1496.1102c"/>
+<lb n="1102c01" ed="T"/>與聲聞比丘二百五十人俱，菩薩五百人——皆
+<lb n="1102c02" ed="T"/>是如來種子，權行六道助佛<note n="1102006" resp="Taisho" type="orig" place="foot text">揚＝楊【西】</note><app n="1102006"><lem wit="【大】">揚</lem><rdg resp="Taisho" wit="【西】">楊</rdg></app>化，知眾生根
+<lb n="1102c03" ed="T"/>威德自在，顯發如來方便密教——其名曰生疑
+<lb n="1102c04" ed="T"/>菩薩、寶德菩薩、光明王菩薩、慧<note n="1102007" resp="Taisho" type="orig" place="foot text">登＝鐙【三】【宮】</note><note n="1102007" resp="CBETA" type="mod">登＝鐙【宋】【元】【明】【宮】</note><app n="1102007"><lem wit="【大】">登</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">鐙</rdg></app>菩薩、德
+<lb n="1102c05" ed="T"/>臻菩薩、悉達菩薩、無畏菩薩、覺首菩薩、財
+<lb n="1102c06" ed="T"/>首菩薩、寶首菩薩、德首菩薩、目首菩薩、進
+<lb n="1102c07" ed="T"/>首菩薩、法首菩薩、智首菩薩、賢首菩薩，如
 <lb n="1102c08" ed="T"/>是等菩薩摩訶薩五百人俱。</p>
-<lb n="1102c09" ed="T"/><p xml:id="pT24p1102c0901">爾時尊者阿難白佛言。世尊。樂法善男子善
-<lb n="1102c10" ed="T"/>女人。當云何敬法及敬法師。爾時世尊告
-<lb n="1102c11" ed="T"/>阿難言。止止阿難。今時眾生不能恭敬及有
-<lb n="1102c12" ed="T"/>敬法。</p>
-<lb n="1102c13" ed="T"/><p xml:id="pT24p1102c1301">阿難白佛言。世尊。我今樂法及以敬法。已
-<lb n="1102c14" ed="T"/>敬當敬。世尊。自我親近如來以來。未曾得聞
-<lb n="1102c15" ed="T"/>如此法門。以不聞故。恭敬如來必失儀則。今
-<lb n="1102c16" ed="T"/>若聞者。故得如法修行是事。世尊。復有樂
-<lb n="1102c17" ed="T"/>法善男子善女人。聞此法門即得修行。世尊。
-<lb n="1102c18" ed="T"/>復有如<note n="1102008" resp="Taisho" place="foot text" type="orig">來＝是【三】【宮】</note><note n="1102008" resp="CBETA" type="mod">來＝是【宋】【元】【明】【宮】</note><app n="1102008"><lem wit="【大】">來</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">是</rdg></app>法中出家比丘。貧窮下賤但求衣
-<lb n="1102c19" ed="T"/>食。不樂求法及敬法師。雖復親近佛法。而行
-<lb n="1102c20" ed="T"/>下賤不能隱覆。必當示現。世尊。是故我今現
-<lb n="1102c21" ed="T"/>在自為。并及未來一切比丘。諮請如來如是
-<lb n="1102c22" ed="T"/><note n="1102009" resp="Taisho" place="foot text" type="orig">敬法＝法故【宮】</note><app n="1102009"><lem wit="【大】">敬法</lem><rdg resp="Taisho" wit="【宮】">法故</rdg></app>。世尊。我等云何得修正行。<note n="1102010" resp="Taisho" place="foot text" type="orig">惟＝唯【西】</note><app n="1102010"><lem wit="【大】">惟</lem><rdg resp="Taisho" wit="【西】">唯</rdg></app>願如
-<lb n="1102c23" ed="T"/>來為我解說。</p>
-<lb n="1102c24" ed="T"/><p xml:id="pT24p1102c2401">佛告阿難。樂敬法善男子善女人。若欲讀誦
-<lb n="1102c25" ed="T"/>請問。往至經法應當<note n="1102011" resp="Taisho" place="foot text" type="orig">和上＝和尚【明】</note><app n="1102011"><lem wit="【大】">和上</lem><rdg resp="Taisho" wit="【明】">和尚</rdg></app>阿闍梨所。至其所
-<lb n="1102c26" ed="T"/>已。應問和上阿闍梨。如來正法隨心所樂。當
-<lb n="1102c27" ed="T"/>知和上阿闍<anchor xml:id="fxT24p1102c01"/>梨心所知法。先應諮請聽問以
-<lb n="1102c28" ed="T"/>不。師若聽者。然後乃問。雖復歲數若十二
-<lb n="1102c29" ed="T"/>十。為樂法故應往諮請及受依止。何以故。
-<pb n="1103a" xml:id="T24.1496.1103a" ed="T"/>
-<lb n="1103a01" ed="T"/>如來法中雖聽五歲比丘得離依止。然彼人
-<lb n="1103a02" ed="T"/>以初敬為法求樂法故。何以故。是人為欲成
-<lb n="1103a03" ed="T"/>就自德行故。阿難。彼阿闍梨者。應如是與依
-<lb n="1103a04" ed="T"/>止。或言可。<note n="1103001" resp="Taisho" place="foot text" type="orig">〔或言…誨〕十四字－【西】</note><app cb:word-count="14" n="1103001"><lem wit="【大】">或言如是。或言爾。或言利。或
-<lb n="1103a05" ed="T"/>言教誨</lem><rdg resp="Taisho" wit="【西】"><space quantity="0"/></rdg></app>。或言謹慎行莫放逸。如法端正修行
-<lb n="1103a06" ed="T"/>作。如是與依止。比丘成就如是等法。可與
-<lb n="1103a07" ed="T"/>依止。彼得名為成就依止。假使百歲比丘不
-<lb n="1103a08" ed="T"/>能通達如是等句。彼人應受依止。況能與他
-<lb n="1103a09" ed="T"/>作依止師。若使無歲比丘成就如是等法。沙
-<lb n="1103a10" ed="T"/>門密語即得名為<note n="1103002" resp="Taisho" place="foot text" type="orig">以＝已【三】【宮】＊</note><note n="1103002" resp="CBETA" type="mod">以＝已【宋】【元】【明】【宮】＊</note><app n="1103002"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">已</rdg></app>受依止。假使百歲<note n="1103003" resp="Taisho" place="foot text" type="orig">〔自〕－【三】【宮】</note><note n="1103003" resp="CBETA" type="mod">〔自〕－【宋】【元】【明】【宮】</note><app n="1103003"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>
-<lb n="1103a11" ed="T"/>不達如是等法諸句律者。彼應受依止。是中
-<lb n="1103a12" ed="T"/>誦經比丘。應於阿闍梨所作敬重心。及正恭
-<lb n="1103a13" ed="T"/>敬彼讀誦受經者。在阿闍梨前不得露<note n="1103004" resp="Taisho" place="foot text" type="orig">齒＝棄【宋】【宮】【西】</note><app n="1103004"><lem wit="【大】">齒</lem><rdg resp="Taisho" wit="【宋】【宮】【西】">棄</rdg></app>。
-<lb n="1103a14" ed="T"/>不得瞻足。不得動足。不得<note n="1103005" resp="Taisho" place="foot text" type="orig">壘＝疊【元】【明】，蹀【西】</note><note n="1103005" resp="CBETA" type="mod">壘＝疊【元】【明】，＝蹀【西】</note><app n="1103005"><lem wit="【大】">壘</lem><rdg resp="Taisho" wit="【元】【明】">疊</rdg><rdg resp="Taisho" wit="【西】">蹀</rdg></app>足。不得踔足。
-<lb n="1103a15" ed="T"/>不得弄足。不得高座處坐。師不借問亦不
-<lb n="1103a16" ed="T"/>得語。不得違師語。不得一向瞻相師面。住
-<lb n="1103a17" ed="T"/>在師前三肘而立。師聽坐即坐。坐已於師
-<lb n="1103a18" ed="T"/>所起慈悲心。彼誦經者應先誦<note n="1103006" resp="Taisho" place="foot text" type="orig">熟熟＝熟【宋】【宮】，孰孰【西】</note><note n="1103006" resp="CBETA" type="mod">熟熟＝熟【宋】【宮】，＝孰孰【西】</note><app n="1103006"><lem wit="【大】">熟。熟</lem><rdg resp="Taisho" wit="【宋】【宮】">熟</rdg><rdg resp="Taisho" wit="【西】">孰孰</rdg></app>者誦
-<lb n="1103a19" ed="T"/>已。從師受經任意多少。隨諸法門中若有疑
-<lb n="1103a20" ed="T"/>者。先應諮請聽問以不。師若聽可然後當問。
-<lb n="1103a21" ed="T"/>彼受經已右膝著地。兩手接禮師足。若地處
-<lb n="1103a22" ed="T"/>惡者。隨所有道却退而行。當至平處。若地處
-<lb n="1103a23" ed="T"/>先平。彼應禮師足然後當行。行至十肘復更
-<lb n="1103a24" ed="T"/>作禮。然後隨道而行。彼應作如是念。阿闍梨
-<lb n="1103a25" ed="T"/>常逐我後。我不能遠離阿闍梨。彼應知時。日
-<lb n="1103a26" ed="T"/>三時到阿闍梨所。若不到者。應如法治。若到
-<lb n="1103a27" ed="T"/>而不見阿闍梨者。彼應若草若木若杖若土
-<lb n="1103a28" ed="T"/>塊若石。令作記識。若阿闍梨在房宴坐者。彼
-<lb n="1103a29" ed="T"/>應旋房禮敬然後當行。若有所作不問師。亦
-<pb n="1103b" xml:id="T24.1496.1103b" ed="T"/>
-<lb n="1103b01" ed="T"/>不得作。除大小便。不得向師作麁獷惡語。
-<lb n="1103b02" ed="T"/>不得重<note n="1103007" resp="Taisho" place="foot text" type="orig">循＝修【西】</note><app n="1103007"><lem wit="【大】">循</lem><rdg resp="Taisho" wit="【西】">修</rdg></app>師語。隨師所坐之處。若繩床若木
-<lb n="1103b03" ed="T"/>床。皆不得坐。彼床若壞即應治之。彼應晨朝
-<lb n="1103b04" ed="T"/>時往知時往。不得非時往彼。往已應問阿闍
-<lb n="1103b05" ed="T"/>梨。當<note n="1103008" resp="Taisho" place="foot text" type="orig">何＝向【明】</note><app n="1103008"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【明】">向</rdg></app>所須及何所作。為入聚落不。若言
-<lb n="1103b06" ed="T"/>入。阿闍梨所有衣被。應<note n="1103009" resp="Taisho" place="foot text" type="orig">洗＝洒【宮】下同</note><app n="1103009"><lem wit="【大】">洗</lem><rdg resp="Taisho" wit="【宮】">洒</rdg></app>手自衣拭手。兩
-<lb n="1103b07" ed="T"/>手捉師衣已著淨處。先與師淨水洗手。然後
-<lb n="1103b08" ed="T"/>授衣與師。於後安<note n="1103010" resp="Taisho" place="foot text" type="orig">〔陀〕－【宋】，陀＝多【元】【明】【宮】【西】</note><app n="1103010"><lem wit="【大】">陀</lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【元】【明】【宮】【西】">多</rdg></app>會拂塵與之。或覆身
-<lb n="1103b09" ed="T"/>衣或雨衣。或所須餘衣資用之者。彼應如是
-<lb n="1103b10" ed="T"/>敬。不得阿闍梨前<note n="1103011" resp="Taisho" place="foot text" type="orig">㖒＝洟【三】【宮】</note><note n="1103011" resp="CBETA" type="mod">㖒＝洟【宋】【元】【明】【宮】</note><app n="1103011"><lem wit="【大】">㖒</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">洟</rdg></app>唾。若寺內若寺東西。
-<lb n="1103b11" ed="T"/>不得左右反抄衣。不得纏頭隨師所居。有經
-<lb n="1103b12" ed="T"/>行處掃灑令淨。日三時拂<note n="1103012" resp="Taisho" place="foot text" type="orig">扇＝床【西】</note><app n="1103012"><lem wit="【大】">扇</lem><rdg resp="Taisho" wit="【西】">床</rdg></app>。三時洗浴。三
-<lb n="1103b13" ed="T"/>時諮問。取水為師乞食。若師有所作者。彼應
-<lb n="1103b14" ed="T"/>用力作之。若食竟應從師索鉢洗之。若與先
-<lb n="1103b15" ed="T"/>洗師鉢。然後自洗己鉢。師若不與不得重索。
-<lb n="1103b16" ed="T"/>何以故。阿難。未來有如是比丘。作是念言。
-<lb n="1103b17" ed="T"/>如來等正覺鉢無有洗者。彼學我故自欲洗
-<lb n="1103b18" ed="T"/>之。如來聽如是等人。夏取清涼冬取溫<note n="1103013" resp="Taisho" place="foot text" type="orig">煖＝暖【三】【宮】</note><note n="1103013" resp="CBETA" type="mod">煖＝暖【宋】【元】【明】【宮】</note><app n="1103013"><lem wit="【大】">煖</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">暖</rdg></app>。
-<lb n="1103b19" ed="T"/>隨所須者皆應得取。不得師前嚼楊枝。不得
-<lb n="1103b20" ed="T"/>說師若好若惡。若遙見師應起迎接。阿難。
-<lb n="1103b21" ed="T"/>若從讀誦諮請一四句偈。是名阿闍梨。是故
-<lb n="1103b22" ed="T"/>彼應恭敬阿闍梨。阿難。若不如是敬阿闍梨
-<lb n="1103b23" ed="T"/>者。以不敬故住不正行。說師過惡者。彼不
-<lb n="1103b24" ed="T"/>說我以為世尊。何以故。阿難。彼人不重佛
-<lb n="1103b25" ed="T"/>不敬法不在僧數。何以故。阿難。如是癡人不
-<lb n="1103b26" ed="T"/>得名為住正行中。阿難。住正行者。我為彼人
-<lb n="1103b27" ed="T"/>說佛法耳。</p>
-<lb n="1103b28" ed="T"/><p xml:id="pT24p1103b2801">爾時尊者阿難涕泣流淚作如是言。世尊。未
-<lb n="1103b29" ed="T"/>來世中若有眾生。能住能行如是等行。甚為
-<pb n="1103c" xml:id="T24.1496.1103c" ed="T"/>
-<lb n="1103c01" ed="T"/>希有。世尊。我能行住如是等行。世尊。若有
-<lb n="1103c02" ed="T"/>比丘不能恭敬和上阿闍梨及說過者。彼人
-<lb n="1103c03" ed="T"/>得何等報。佛告阿難。若有比丘不敬和上阿闍
-<lb n="1103c04" ed="T"/>梨及說過者。我說彼人愚癡凡夫。何以故。阿
-<lb n="1103c05" ed="T"/>難。不得說阿闍梨實惡。何況說虛。是中阿難。
-<lb n="1103c06" ed="T"/>若不恭敬和上阿闍梨者。有辟支地獄名之
-<lb n="1103c07" ed="T"/>為滅。彼人命終生彼地獄。彼人生已即有四
-<lb n="1103c08" ed="T"/>頭。身上火然如熱鐵丸。是中有諸虫名為鐵
-<lb n="1103c09" ed="T"/>狗。常所食噉彼人舌根。是處命終生畜生中。
-<lb n="1103c10" ed="T"/>作虎狼野<note n="1103014" resp="Taisho" place="foot text" type="orig">干＝于【西】</note><app n="1103014"><lem wit="【大】">干</lem><rdg resp="Taisho" wit="【西】">于</rdg></app>。眾生見者皆唱言。是虎狼野
-<lb n="1103c11" ed="T"/>干。有所見者無能喜樂。以本口過故常食糞
-<lb n="1103c12" ed="T"/>穢。受報已盡復生人中。常在邊地無佛法處。
-<lb n="1103c13" ed="T"/>雖生人中具足眾惡。遠離功德。身形色力不
-<lb n="1103c14" ed="T"/>類人狀。稟受身形不似父母。不為父母之所
-<lb n="1103c15" ed="T"/>憐愛。常被惡謗遠離諸佛。生生愚癡闇鈍無
-<lb n="1103c16" ed="T"/>智速墮地獄。何以故。以不恭敬教授施法。濟
-<lb n="1103c17" ed="T"/>拔難者故。阿難。如是等人數得苦法。阿難。
-<lb n="1103c18" ed="T"/>假使讀誦受持一四句偈。及以經卷書寫供
-<lb n="1103c19" ed="T"/>養。隨彼<note n="1103015" resp="Taisho" place="foot text" type="orig">字＝守【西】</note><app n="1103015"><lem wit="【大】">字</lem><rdg resp="Taisho" wit="【西】">守</rdg></app>等劫。若頂若肩若背荷負彼師。
-<lb n="1103c20" ed="T"/>及一切樂具而供養之。阿難。如是供養已。猶
-<lb n="1103c21" ed="T"/>不能報阿闍梨恩。佛告阿難。未來世中有如
-<lb n="1103c22" ed="T"/>是等諸惡比丘。得是經已而不恭敬阿闍梨
-<lb n="1103c23" ed="T"/>和上者。以無行故。說阿闍梨和上過。我今當
-<lb n="1103c24" ed="T"/>記如是比丘愚癡人等。墮諸地獄受大苦惱。
-<lb n="1103c25" ed="T"/>阿難。我今<note n="1103016" resp="Taisho" place="foot text" type="orig">告＝語【西】</note><app n="1103016"><lem wit="【大】">告</lem><rdg resp="Taisho" wit="【西】">語</rdg></app>汝及以正勅。如來<app type="star" corresp="#1103002"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">已</rdg></app>說善惡
-<lb n="1103c26" ed="T"/>道行。隨彼眾生所行善惡。得報如是。是故阿
-<lb n="1103c27" ed="T"/>難。汝等今當應善恭敬應善思量。阿難。善恭
-<lb n="1103c28" ed="T"/>敬善男子善女人得此法門者。讚歎出離訶
-<lb n="1103c29" ed="T"/>欲不<note n="1103017" resp="Taisho" place="foot text" type="orig">淨＝靜【西】</note><app n="1103017"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【西】">靜</rdg></app>。諸塵垢盡得法眼淨。</p>
-<pb n="1104a" xml:id="T24.1496.1104a" ed="T"/>
-<lb n="1104a01" ed="T"/><p xml:id="pT24p1104a0101">爾時阿難更整衣服白佛言。世尊。此法之要
-<lb n="1104a02" ed="T"/>當名何經。比丘比丘尼優婆塞優婆夷。云何
-<lb n="1104a03" ed="T"/>受持修行。於未來世紹三寶種使不斷絕。佛
-<lb n="1104a04" ed="T"/>告阿難。此經名為正恭敬。如是受<note n="1104001" resp="Taisho" place="foot text" type="orig">持＝時【元】</note><app n="1104001"><lem wit="【大】">持</lem><rdg resp="Taisho" wit="【元】">時</rdg></app>。所謂
-<lb n="1104a05" ed="T"/>愛佛愛法愛僧。佛說是經已。尊者阿難及
-<lb n="1104a06" ed="T"/>諸比丘并諸菩薩聞佛所說。皆大踊躍歡喜
+<lb n="1102c09" ed="T"/><p xml:id="pT24p1102c0901">爾時尊者阿難白佛言：「世尊！樂法善男子、善
+<lb n="1102c10" ed="T"/>女人，當云何敬法及敬法師？」</p><p xml:id="pT24p1102c1012" rend="inline">爾時世尊告
+<lb n="1102c11" ed="T"/>阿難言：「止止。阿難！今時眾生不能恭敬及有
+<lb n="1102c12" ed="T"/>敬法。」</p>
+<lb n="1102c13" ed="T"/><p xml:id="pT24p1102c1301">阿難白佛言：「世尊！我今樂法及以敬法，已
+<lb n="1102c14" ed="T"/>敬當敬。世尊！自我親近如來以來，未曾得聞
+<lb n="1102c15" ed="T"/>如此法門。以不聞故，恭敬如來必失儀則。今
+<lb n="1102c16" ed="T"/>若聞者，故得如法修行是事。世尊！復有樂
+<lb n="1102c17" ed="T"/>法善男子、善女人，聞此法門即得修行。世尊！
+<lb n="1102c18" ed="T"/>復有如<note n="1102008" resp="Taisho" type="orig" place="foot text">來＝是【三】【宮】</note><note n="1102008" resp="CBETA" type="mod">來＝是【宋】【元】【明】【宮】</note><app n="1102008"><lem wit="【大】">來</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">是</rdg></app>法中出家比丘，貧窮下賤但求衣
+<lb n="1102c19" ed="T"/>食，不樂求法及敬法師。雖復親近佛法，而行
+<lb n="1102c20" ed="T"/>下賤不能隱覆必當示現。世尊！是故我今現
+<lb n="1102c21" ed="T"/>在自為并及未來一切比丘，諮請如來如是
+<lb n="1102c22" ed="T"/><note n="1102009" resp="Taisho" type="orig" place="foot text">敬法＝法故【宮】</note><app n="1102009"><lem wit="【大】">敬法</lem><rdg resp="Taisho" wit="【宮】">法故</rdg></app>。世尊！我等云何得修正行？<note n="1102010" resp="Taisho" type="orig" place="foot text">惟＝唯【西】</note><app n="1102010"><lem wit="【大】">惟</lem><rdg resp="Taisho" wit="【西】">唯</rdg></app>願如
+<lb n="1102c23" ed="T"/>來為我解說。」</p>
+<lb n="1102c24" ed="T"/><p xml:id="pT24p1102c2401">佛告阿難：「樂敬法善男子、善女人，若欲讀誦
+<lb n="1102c25" ed="T"/>請問，往至經法應當<note n="1102011" resp="Taisho" type="orig" place="foot text">和上＝和尚【明】</note><app n="1102011"><lem wit="【大】">和上</lem><rdg resp="Taisho" wit="【明】">和尚</rdg></app>阿闍梨所。至其所
+<lb n="1102c26" ed="T"/>已，應問和上阿闍梨如來正法，隨心所樂。當
+<lb n="1102c27" ed="T"/>知和上阿闍<anchor xml:id="fxT24p1102c01"/>梨心所知法，先應諮請聽問以
+<lb n="1102c28" ed="T"/>不？師若聽者，然後乃問。雖復歲數若十、二
+<lb n="1102c29" ed="T"/>十，為樂法故應往諮請及受依止。何以故？
+<pb n="1103a" ed="T" xml:id="T24.1496.1103a"/>
+<lb n="1103a01" ed="T"/>如來法中雖聽五歲比丘得離依止，然彼人
+<lb n="1103a02" ed="T"/>以初敬為法求樂法故。何以故？是人為欲成
+<lb n="1103a03" ed="T"/>就自德行故。阿難！彼阿闍梨者，應如是與依
+<lb n="1103a04" ed="T"/>止，或言：『可。』<note n="1103001" resp="Taisho" type="orig" place="foot text">〔或言…誨〕十四字－【西】</note><app n="1103001" cb:word-count="14"><lem wit="【大】">或言：『如是。』或言：『爾。』或言：『利。』或
+<lb n="1103a05" ed="T"/>言：『教誨</lem><rdg resp="Taisho" wit="【西】"><space quantity="0"/></rdg></app>。』或言：『謹慎行莫放逸，如法端正修行。』
+<lb n="1103a06" ed="T"/>作如是與依止。比丘成就如是等法，可與
+<lb n="1103a07" ed="T"/>依止，彼得名為成就依止。假使百歲比丘不
+<lb n="1103a08" ed="T"/>能通達如是等句，彼人應受依止，況能與他
+<lb n="1103a09" ed="T"/>作依止師？若使無歲比丘成就如是等法，沙
+<lb n="1103a10" ed="T"/>門密語即得名為<note n="1103002" resp="Taisho" type="orig" place="foot text">以＝已【三】【宮】＊</note><note n="1103002" resp="CBETA" type="mod">以＝已【宋】【元】【明】【宮】＊</note><app n="1103002"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">已</rdg></app>受依止。假使百歲，<note n="1103003" resp="Taisho" type="orig" place="foot text">〔自〕－【三】【宮】</note><note n="1103003" resp="CBETA" type="mod">〔自〕－【宋】【元】【明】【宮】</note><app n="1103003"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>
+<lb n="1103a11" ed="T"/>不達如是等法諸句律者，彼應受依止。是中
+<lb n="1103a12" ed="T"/>誦經比丘，應於阿闍梨所作敬重心，及正恭
+<lb n="1103a13" ed="T"/>敬彼讀誦受經者。在阿闍梨前不得露<note n="1103004" resp="Taisho" type="orig" place="foot text">齒＝棄【宋】【宮】【西】</note><app n="1103004"><lem wit="【大】">齒</lem><rdg resp="Taisho" wit="【宋】【宮】【西】">棄</rdg></app>、
+<lb n="1103a14" ed="T"/>不得瞻足、不得動足、不得<note n="1103005" resp="Taisho" type="orig" place="foot text">壘＝疊【元】【明】，蹀【西】</note><note n="1103005" resp="CBETA" type="mod">壘＝疊【元】【明】，＝蹀【西】</note><app n="1103005"><lem wit="【大】">壘</lem><rdg resp="Taisho" wit="【元】【明】">疊</rdg><rdg resp="Taisho" wit="【西】">蹀</rdg></app>足、不得踔足、
+<lb n="1103a15" ed="T"/>不得弄足、不得高座處坐，師不借問亦不
+<lb n="1103a16" ed="T"/>得語，不得違師語，不得一向瞻相師面。住
+<lb n="1103a17" ed="T"/>在師前三肘而立，師聽坐即坐，坐已於師
+<lb n="1103a18" ed="T"/>所起慈悲心。彼誦經者應先誦<note n="1103006" resp="Taisho" type="orig" place="foot text">熟熟＝熟【宋】【宮】，孰孰【西】</note><note n="1103006" resp="CBETA" type="mod">熟熟＝熟【宋】【宮】，＝孰孰【西】</note><app n="1103006"><lem wit="【大】">熟，熟</lem><rdg resp="Taisho" wit="【宋】【宮】">熟</rdg><rdg resp="Taisho" wit="【西】">孰孰</rdg></app>者誦
+<lb n="1103a19" ed="T"/>已，從師受經任意多少。隨諸法門中若有疑
+<lb n="1103a20" ed="T"/>者，先應諮請聽問以不？師若聽可，然後當問。
+<lb n="1103a21" ed="T"/>彼受經已，右膝著地，兩手接禮師足。若地處
+<lb n="1103a22" ed="T"/>惡者，隨所有道却退而行，當至平處。若地處
+<lb n="1103a23" ed="T"/>先平，彼應禮師足然後當行。行至十肘復更
+<lb n="1103a24" ed="T"/>作禮，然後隨道而行。彼應作如是念：『阿闍梨
+<lb n="1103a25" ed="T"/>常逐我後，我不能遠離阿闍梨。』彼應知時，日
+<lb n="1103a26" ed="T"/>三時到阿闍梨所。若不到者，應如法治。若到
+<lb n="1103a27" ed="T"/>而不見阿闍梨者，彼應若草若木若杖若土
+<lb n="1103a28" ed="T"/>塊若石令作記識。若阿闍梨在房宴坐者，彼
+<lb n="1103a29" ed="T"/>應旋房禮敬然後當行。若有所作不問師，亦
+<pb n="1103b" ed="T" xml:id="T24.1496.1103b"/>
+<lb n="1103b01" ed="T"/>不得作，除大小便。不得向師作麁獷惡語，
+<lb n="1103b02" ed="T"/>不得重<note n="1103007" resp="Taisho" type="orig" place="foot text">循＝修【西】</note><app n="1103007"><lem wit="【大】">循</lem><rdg resp="Taisho" wit="【西】">修</rdg></app>師語。隨師所坐之處，若繩床若木
+<lb n="1103b03" ed="T"/>床，皆不得坐。彼床若壞，即應治之。彼應晨朝
+<lb n="1103b04" ed="T"/>時往、知時往，不得非時往彼。往已應問阿闍
+<lb n="1103b05" ed="T"/>梨：『當<note n="1103008" resp="Taisho" type="orig" place="foot text">何＝向【明】</note><app n="1103008"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【明】">向</rdg></app>所須及何所作？為入聚落不？』若言
+<lb n="1103b06" ed="T"/>入，阿闍梨所有衣被，應<note n="1103009" resp="Taisho" type="orig" place="foot text">洗＝洒【宮】下同</note><app n="1103009"><lem wit="【大】">洗</lem><rdg resp="Taisho" wit="【宮】">洒</rdg></app>手自衣拭手，兩
+<lb n="1103b07" ed="T"/>手捉師衣已著淨處，先與師淨水洗手，然後
+<lb n="1103b08" ed="T"/>授衣與師，於後安<note n="1103010" resp="Taisho" type="orig" place="foot text">〔陀〕－【宋】，陀＝多【元】【明】【宮】【西】</note><app n="1103010"><lem wit="【大】">陀</lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【元】【明】【宮】【西】">多</rdg></app>會拂塵與之，或覆身
+<lb n="1103b09" ed="T"/>衣或雨衣。或所須餘衣資用之者。</p><p xml:id="pT24p1103b0914" rend="inline">「彼應如是
+<lb n="1103b10" ed="T"/>敬，不得阿闍梨前<note n="1103011" resp="Taisho" type="orig" place="foot text">㖒＝洟【三】【宮】</note><note n="1103011" resp="CBETA" type="mod">㖒＝洟【宋】【元】【明】【宮】</note><app n="1103011"><lem wit="【大】">㖒</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">洟</rdg></app>唾，若寺內若寺東西
+<lb n="1103b11" ed="T"/>不得左右反抄衣，不得纏頭隨師所居。有經
+<lb n="1103b12" ed="T"/>行處掃灑令淨，日三時拂<note n="1103012" resp="Taisho" type="orig" place="foot text">扇＝床【西】</note><app n="1103012"><lem wit="【大】">扇</lem><rdg resp="Taisho" wit="【西】">床</rdg></app>，三時洗浴，三
+<lb n="1103b13" ed="T"/>時諮問、取水，為師乞食。若師有所作者，彼應
+<lb n="1103b14" ed="T"/>用力作之。若食竟，應從師索鉢洗之。若與，先
+<lb n="1103b15" ed="T"/>洗師鉢，然後自洗己鉢。師若不與，不得重索。
+<lb n="1103b16" ed="T"/>何以故？阿難！未來有如是比丘，作是念言：
+<lb n="1103b17" ed="T"/>『如來等正覺鉢無有洗者。』彼學我故，自欲洗
+<lb n="1103b18" ed="T"/>之。如來聽如是等人，夏取清涼、冬取溫<note n="1103013" resp="Taisho" type="orig" place="foot text">煖＝暖【三】【宮】</note><note n="1103013" resp="CBETA" type="mod">煖＝暖【宋】【元】【明】【宮】</note><app n="1103013"><lem wit="【大】">煖</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">暖</rdg></app>，
+<lb n="1103b19" ed="T"/>隨所須者皆應得取。不得師前嚼楊枝，不得
+<lb n="1103b20" ed="T"/>說師若好若惡，若遙見師應起迎接。阿難！
+<lb n="1103b21" ed="T"/>若從讀誦諮請一四句偈，是名阿闍梨。是故
+<lb n="1103b22" ed="T"/>彼應恭敬阿闍梨。阿難！若不如是敬阿闍梨
+<lb n="1103b23" ed="T"/>者，以不敬故住不正行。說師過惡者，彼不
+<lb n="1103b24" ed="T"/>說我以為世尊。何以故？阿難！彼人不重佛、
+<lb n="1103b25" ed="T"/>不敬法、不在僧數。何以故？阿難！如是癡人，不
+<lb n="1103b26" ed="T"/>得名為住正行中。阿難！住正行者，我為彼人
+<lb n="1103b27" ed="T"/>說佛法耳。」</p>
+<lb n="1103b28" ed="T"/><p xml:id="pT24p1103b2801">爾時尊者阿難涕泣流淚作如是言：「世尊！未
+<lb n="1103b29" ed="T"/>來世中若有眾生，能住能行如是等行，甚為
+<pb n="1103c" ed="T" xml:id="T24.1496.1103c"/>
+<lb n="1103c01" ed="T"/>希有。世尊！我能行住如是等行。世尊！若有
+<lb n="1103c02" ed="T"/>比丘不能恭敬和上阿闍梨及說過者，彼人
+<lb n="1103c03" ed="T"/>得何等報？」</p><p xml:id="pT24p1103c0305" rend="inline">佛告阿難：「若有比丘不敬和上阿闍
+<lb n="1103c04" ed="T"/>梨及說過者，我說彼人愚癡凡夫。何以故？阿
+<lb n="1103c05" ed="T"/>難！不得說阿闍梨實惡，何況說虛！是中，阿難！
+<lb n="1103c06" ed="T"/>若不恭敬和上阿闍梨者，有辟支、地獄名之
+<lb n="1103c07" ed="T"/>為滅。彼人命終生彼地獄，彼人生已即有四
+<lb n="1103c08" ed="T"/>頭，身上火然如熱鐵丸。是中有諸虫名為鐵
+<lb n="1103c09" ed="T"/>狗，常所食噉彼人舌根。是處命終生畜生中，
+<lb n="1103c10" ed="T"/>作虎狼野<note n="1103014" resp="Taisho" type="orig" place="foot text">干＝于【西】</note><app n="1103014"><lem wit="【大】">干</lem><rdg resp="Taisho" wit="【西】">于</rdg></app>，眾生見者皆唱言：『是虎狼野
+<lb n="1103c11" ed="T"/>干。』有所見者無能喜樂。以本口過故，常食糞
+<lb n="1103c12" ed="T"/>穢。受報已盡復生人中，常在邊地無佛法處。
+<lb n="1103c13" ed="T"/>雖生人中具足眾惡、遠離功德，身形色力不
+<lb n="1103c14" ed="T"/>類人狀，稟受身形不似父母，不為父母之所
+<lb n="1103c15" ed="T"/>憐愛。常被惡謗，遠離諸佛，生生愚癡闇鈍無
+<lb n="1103c16" ed="T"/>智，速墮地獄。何以故？以不恭敬教授施法、濟
+<lb n="1103c17" ed="T"/>拔難者故。阿難！如是等人數得苦法。阿難！
+<lb n="1103c18" ed="T"/>假使讀誦受持一四句偈，及以經卷書寫供
+<lb n="1103c19" ed="T"/>養，隨彼<note n="1103015" resp="Taisho" type="orig" place="foot text">字＝守【西】</note><app n="1103015"><lem wit="【大】">字</lem><rdg resp="Taisho" wit="【西】">守</rdg></app>等劫，若頂若肩若背荷負彼師，
+<lb n="1103c20" ed="T"/>及一切樂具而供養之。阿難！如是供養已，猶
+<lb n="1103c21" ed="T"/>不能報阿闍梨恩。」</p><p xml:id="pT24p1103c2108" rend="inline">佛告阿難：「未來世中有如
+<lb n="1103c22" ed="T"/>是等諸惡比丘，得是經已而不恭敬阿闍梨
+<lb n="1103c23" ed="T"/>和上者，以無行故說阿闍梨和上過。我今當
+<lb n="1103c24" ed="T"/>記如是比丘愚癡人等，墮諸地獄受大苦惱。
+<lb n="1103c25" ed="T"/>阿難！我今<note n="1103016" resp="Taisho" type="orig" place="foot text">告＝語【西】</note><app n="1103016"><lem wit="【大】">告</lem><rdg resp="Taisho" wit="【西】">語</rdg></app>汝及以正勅，如來<app type="star" corresp="#1103002"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">已</rdg></app>說善惡
+<lb n="1103c26" ed="T"/>道行，隨彼眾生所行善惡，得報如是。是故阿
+<lb n="1103c27" ed="T"/>難！汝等今當應善恭敬應善思量。阿難！善恭
+<lb n="1103c28" ed="T"/>敬善男子、善女人得此法門者，讚歎出離、訶
+<lb n="1103c29" ed="T"/>欲不<note n="1103017" resp="Taisho" type="orig" place="foot text">淨＝靜【西】</note><app n="1103017"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【西】">靜</rdg></app>，諸塵垢盡得法眼淨。」</p>
+<pb n="1104a" ed="T" xml:id="T24.1496.1104a"/>
+<lb n="1104a01" ed="T"/><p xml:id="pT24p1104a0101">爾時阿難更整衣服白佛言：「世尊！此法之要
+<lb n="1104a02" ed="T"/>當名何經？比丘、比丘尼、優婆塞、優婆夷云何
+<lb n="1104a03" ed="T"/>受持修行，於未來世紹三寶種使不斷絕？」</p><p xml:id="pT24p1104a0317" rend="inline">佛
+<lb n="1104a04" ed="T"/>告阿難：「此經名為『正恭敬』，如是受<note n="1104001" resp="Taisho" type="orig" place="foot text">持＝時【元】</note><app n="1104001"><lem wit="【大】">持</lem><rdg resp="Taisho" wit="【元】">時</rdg></app>，所謂
+<lb n="1104a05" ed="T"/>愛佛、愛法、愛僧。」</p><p xml:id="pT24p1104a0507" rend="inline">佛說是經已，尊者阿難及
+<lb n="1104a06" ed="T"/>諸比丘并諸菩薩，聞佛所說，皆大踊躍，歡喜
 <lb n="1104a07" ed="T"/>奉行。</p></cb:div>
-<lb n="1104a08" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>佛說正恭敬經</title><note n="1104002" resp="Taisho" place="foot text" type="orig">此次西福寺本有後魏正光六年至元象二年三藏佛陀扇多於洛陽白馬寺及鄴金花寺譯出費長房錄三十四字</note></cb:jhead></cb:juan>
+<lb n="1104a08" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>佛說正恭敬經</title><note n="1104002" resp="Taisho" type="orig" place="foot text">此次西福寺本有後魏正光六年至元象二年三藏佛陀扇多於洛陽白馬寺及鄴金花寺譯出費長房錄三十四字</note></cb:jhead></cb:juan>
 </body></text></TEI>
