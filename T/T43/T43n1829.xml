@@ -92,7 +92,7 @@ Revision 1.16  2005/03/29 03:32:13  saywhat
 <xref  => <p><xref  ;  </xref> => </xref></p>
 
 Revision 1.15  2005/02/20 04:12:48  saywhat
-嬰&CB00108;  => <choice><orig>嬰&#x59DF;</orig><reg type="通用詞">嬰孩</reg></choice>
+嬰&CB00108;  => 嬰&#x59DF;
 
 Revision 1.14  2004/12/15 06:06:19  saywhat
 行尾的<div1 type="w">移到下一行行首
@@ -8065,7 +8065,7 @@ Added comment  for Emacs
 <lb n="0088b09" ed="T"/><p xml:id="pT43p0088b0901">見聞覺知。瑜伽第三。九十三。對法第一等。釋
 <lb n="0088b10" ed="T"/>見聞覺知義。顯揚第十八說。色界無覺。後起
 <lb n="0088b11" ed="T"/>言說。無色都無。謂生彼界故。無彼後言說。</p>
-<lb n="0088b12" ed="T"/><p xml:id="pT43p0088b1201">六種次第流轉次第者。謂<choice><orig>嬰姟</orig><reg type="通用詞">嬰孩</reg></choice>等十時流轉
+<lb n="0088b12" ed="T"/><p xml:id="pT43p0088b1201">六種次第流轉次第者。謂嬰姟等十時流轉
 <lb n="0088b13" ed="T"/>次第。或十二因緣次第　成所作次第者。謂
 <lb n="0088b14" ed="T"/>出家受具。修七方便。得見道等　宣說次第
 <lb n="0088b15" ed="T"/>者。謂四正斷。一剎那中。具其四用。以辨次
@@ -19924,7 +19924,7 @@ Added comment  for Emacs
 <lb n="0220a01" ed="T"/>故。此生老病死苦。勘前本地第十。及緣起經
 <lb n="0220a02" ed="T"/>廣辨。</p>
 <lb n="0220a03" ed="T"/><p xml:id="pT43p0220a0301">論云何五取蘊苦當知此苦亦由五相謂生苦
-<lb n="0220a04" ed="T"/>器故依生苦器故者。謂依此故生苦得<note n="0220001" resp="Taisho" place="foot text" type="orig">生＝苦ヵ【甲】，身ヵ【甲】</note>生。是
+<lb n="0220a04" ed="T"/>器故依生苦器故者。謂依此故生苦得<note n="0220001" resp="Taisho" place="foot text" type="orig">生＝苦ヵ【甲】，身ヵ【甲】</note><note n="0220001" resp="CBETA" type="mod">生＝苦ヵ【甲】，＝身ヵ【甲】</note><app n="0220001"><lem resp="Taisho" wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">苦</rdg><rdg resp="Taisho" wit="【甲】" type="correctionRemark">身</rdg></app>。是
 <lb n="0220a05" ed="T"/>生苦之器故。言生苦器。故依生餘六苦。謂老
 <lb n="0220a06" ed="T"/>苦等。總名生苦依器故。依此器而生苦。言依
 <lb n="0220a07" ed="T"/>生苦器。或此是生苦之器。餘六苦依生苦器
