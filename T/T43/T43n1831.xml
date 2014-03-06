@@ -68,7 +68,7 @@ Revision 1.14  2005/03/29 03:32:13  saywhat
 <xref  => <p><xref  ;  </xref> => </xref></p>
 
 Revision 1.13  2005/02/20 04:12:48  saywhat
-嬰&CB00108;  => <choice><orig>嬰&#x59DF;</orig><reg type="通用詞">嬰孩</reg></choice>
+嬰&CB00108;  => 嬰&#x59DF;
 
 Revision 1.12  2004/11/14 03:18:01  maha
 將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
@@ -2172,7 +2172,7 @@ Added comment  for Emacs
 <lb n="0629a28" ed="T"/>義行之<note n="0629006" resp="Taisho" place="foot text" type="orig">其＝共？</note><app n="0629006"><lem resp="Taisho" wit="【大】">其</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">共</rdg></app>名。二顯常現在非無間覺。</p>
 <lb n="0629a29" ed="T"/><p xml:id="pT43p0629a2901">又了境者。一唯見分行相。而<note n="0629007" resp="Taisho" place="foot text" type="orig">現＝顯？</note><app n="0629007"><lem resp="Taisho" wit="【大】">現</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">顯</rdg></app>自體。二簡
 <pb n="0629b" xml:id="T43.1831.0629b" ed="T"/>
-<lb n="0629b01" ed="T"/>他識。有四義。一易共知故。<choice><orig>嬰姟</orig><reg type="通用詞">嬰孩</reg></choice>之屬皆知
+<lb n="0629b01" ed="T"/>他識。有四義。一易共知故。嬰姟之屬皆知
 <lb n="0629b02" ed="T"/>有故。二共許有故。三乘通許。三行相麁故。
 <lb n="0629b03" ed="T"/>四所緣麁故。唯六名了境餘不得名　又
 <lb n="0629b04" ed="T"/>自可名為心．意。何故但名識不名心．意
@@ -4462,7 +4462,7 @@ Added comment  for Emacs
 <lb n="0654c07" ed="T"/>障對治義。以欲界見道煩惱。有不善．及五
 <lb n="0654c08" ed="T"/>趣．四生。厭心可深能入見道。上界不爾。若
 <lb n="0654c09" ed="T"/>唯斷所知障。不藉深厭心。但求菩提不
-<lb n="0654c10" ed="T"/><note n="0654006" resp="Taisho" place="foot text" type="orig">折＝祈【丁】，欣？</note><note n="0654006" resp="CBETA" type="mod">折＝祈【丁】，<!--CBETA todo type: i-->欣？</note><app n="0654006"><lem wit="【大】">折</lem><rdg resp="Taisho" wit="【丁】">祈</rdg></app>解脫。上界亦得故。有聲聞色界迴心入
+<lb n="0654c10" ed="T"/><note n="0654006" resp="Taisho" place="foot text" type="orig">折＝祈【丁】，欣？</note><note n="0654006" resp="CBETA" type="mod">折＝祈【丁】，＝欣？</note><app n="0654006"><lem wit="【大】">折</lem><rdg resp="Taisho" wit="【丁】">祈</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">欣</rdg></app>解脫。上界亦得故。有聲聞色界迴心入
 <lb n="0654c11" ed="T"/>見道等。此說直往。彼說迂會。亦不相違
 <lb n="0654c12" ed="T"/>　七十三解無相取有數十番解。應勘敘之
 <lb n="0654c13" ed="T"/>　問若許無分別智有見無相。如自證分。
