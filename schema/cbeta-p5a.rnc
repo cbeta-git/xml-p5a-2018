@@ -3253,8 +3253,8 @@ tei_floatingText =
     att.typed.attributes,
     empty
   }
+
 tei_div =
-  
   ## (text division) contains a subdivision of the front, body, or back of a text.
   element ns1:div {
     (tei_mulu
@@ -3282,6 +3282,7 @@ tei_div =
      | tei_docNumber
      | tei_dialog
      | tei_unclear
+     | tei_quote
      | tei_macro.xtext)*,
     att.global.attributes,
     att.divLike.attributes,
@@ -3289,6 +3290,7 @@ tei_div =
     att.declaring.attributes,
     empty
   }
+
 tei_div1 =
   
   ## (level-1 text division) contains a first-level subdivision of the front, body, or back of a text.
