@@ -234,7 +234,7 @@ Added comment  for Emacs
 <lb n="0781a04" ed="T"/>
 <lb n="0781a05" ed="T"/><byline cb:type="Translator"><note n="0781001" resp="Taisho" type="orig" place="foot text">（宋）＋西【明】＊</note><app n="0781001"><lem wit="【大】">西</lem><rdg resp="Taisho" wit="【明】">宋西</rdg></app>天<note n="0781002" resp="Taisho" type="orig" place="foot text">〔譯經〕－【明】＊</note><app n="0781002"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>三藏朝散大夫試光祿卿
 <lb n="0781a06" ed="T"/>傳梵大師<note n="0781003" resp="Taisho" type="orig" place="foot text">〔賜紫沙門臣〕－【明】＊</note><app n="0781003"><lem wit="【大】">賜紫沙門臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>法護等奉　詔譯</byline>
-<lb n="0781a07" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="1" type="品">1 長者賢護品</cb:mulu><head>長者賢護品第一之一</head>
+<lb n="0781a07" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="1" type="品">1 長者賢護品</cb:mulu><cb:mulu level="2">1</cb:mulu><head>長者賢護品第一之一</head>
 <lb n="0781a08" ed="T"/><p xml:id="pT11p0781a0801">如是我聞：</p><p xml:id="pT11p0781a0805" rend="inline">一時世尊在舍衛國坐夏安居滿
 <lb n="0781a09" ed="T"/>三月已，出行訪其裁製成辦衣服之者，與大
 <lb n="0781a10" ed="T"/>苾芻眾千二百五十人俱，并餘苾芻、苾芻尼、
@@ -422,7 +422,7 @@ Added comment  for Emacs
 <lb n="0783a12" ed="T"/>
 <milestone n="2" unit="juan"/>
 <lb n="0783a13" ed="T"/>
-<lb n="0783a14" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="002" type="卷"></cb:mulu><cb:jhead><title>佛說大乘菩薩藏正法經</title>卷第二</cb:jhead>
+<lb n="0783a14" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="002" type="卷"></cb:mulu><cb:mulu level="2">2</cb:mulu><cb:jhead><title>佛說大乘菩薩藏正法經</title>卷第二</cb:jhead>
 <lb n="0783a15" ed="T"/>
 <lb n="0783a16" ed="T"/><byline cb:type="Translator"><anchor xml:id="fxT11p0783a01"/>西天<anchor xml:id="fxT11p0783a02"/>譯經三藏朝散大夫試光祿卿
 <lb n="0783a17" ed="T"/>傳梵大師<anchor xml:id="fxT11p0783a03"/>賜紫沙門臣法護等奉　詔譯</byline>
@@ -619,7 +619,7 @@ Added comment  for Emacs
 <pb n="0785b" ed="T" xml:id="T11.0316.0785b"/>
 <lb n="0785b01" ed="T"/>
 <milestone n="3" unit="juan"/>
-<lb n="0785b02" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="003" type="卷"></cb:mulu><cb:jhead><title>佛說大乘菩薩藏正法經</title>卷第三</cb:jhead>
+<lb n="0785b02" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="003" type="卷"></cb:mulu><cb:mulu level="2">3</cb:mulu><cb:jhead><title>佛說大乘菩薩藏正法經</title>卷第三</cb:jhead>
 <lb n="0785b03" ed="T"/>
 <lb n="0785b04" ed="T"/><byline cb:type="Translator"><anchor xml:id="fxT11p0785b01"/>西天<anchor xml:id="fxT11p0785b02"/>譯經三藏朝散大夫
 <lb n="0785b05" ed="T"/>試光祿卿傳梵大師<anchor xml:id="fxT11p0785b03"/>賜紫
@@ -808,7 +808,7 @@ Added comment  for Emacs
 <lb n="0787b08" ed="T"/>
 <milestone n="4" unit="juan"/>
 <lb n="0787b09" ed="T"/>
-<lb n="0787b10" ed="T"/><cb:juan n="004" fun="open"><cb:mulu n="004" type="卷"></cb:mulu><cb:jhead><title>佛說大乘菩薩藏正法經</title>卷第四</cb:jhead>
+<lb n="0787b10" ed="T"/><cb:juan n="004" fun="open"><cb:mulu n="004" type="卷"></cb:mulu><cb:mulu level="2">4</cb:mulu><cb:jhead><title>佛說大乘菩薩藏正法經</title>卷第四</cb:jhead>
 <lb n="0787b11" ed="T"/>
 <lb n="0787b12" ed="T"/><byline cb:type="Translator"><note n="0787002" resp="Taisho" type="orig" place="foot text">譯經＝宋【明】＊</note><app n="0787002"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【明】">宋</rdg></app>三藏朝散大夫試光祿卿
 <lb n="0787b13" ed="T"/>光梵大師<anchor xml:id="fxT11p0787b01"/>賜紫沙門臣惟淨
@@ -7607,7 +7607,7 @@ Added comment  for Emacs
 <lb n="0863a06" ed="T"/>菩薩摩訶薩<anchor xml:id="fxT11p0863a01"/>唯能於菩薩藏正法如是進求
 <lb n="0863a07" ed="T"/>不退轉精進之行。舍利子！是名菩薩摩訶薩
 <lb n="0863a08" ed="T"/>精進波羅蜜多。</p></cb:div>
-<lb n="0863a09" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="14" type="品">10 禪定波羅蜜多品</cb:mulu><head>禪定波羅蜜多品第十之一</head>
+<lb n="0863a09" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="14" type="品">10 禪定波羅蜜多品</cb:mulu><cb:mulu level="2">1</cb:mulu><head>禪定波羅蜜多品第十之一</head>
 <lb n="0863a10" ed="T"/><p xml:id="pT11p0863a1001">「復次舍利子！云何菩薩摩訶薩修行進趣菩
 <lb n="0863a11" ed="T"/>薩禪定波羅蜜多之行？舍利子！菩薩摩訶薩
 <lb n="0863a12" ed="T"/>應先遠離染欲過失諸不善法，於彼尋伺發
@@ -7706,7 +7706,7 @@ Added comment  for Emacs
 <lb n="0864a15" ed="T"/>
 <milestone n="32" unit="juan"/>
 <lb n="0864a16" ed="T"/>
-<lb n="0864a17" ed="T"/><cb:juan n="032" fun="open"><cb:mulu n="032" type="卷"></cb:mulu><cb:jhead><title>佛說大乘菩薩藏正法經</title>卷第三
+<lb n="0864a17" ed="T"/><cb:juan n="032" fun="open"><cb:mulu n="032" type="卷"></cb:mulu><cb:mulu level="2">2</cb:mulu><cb:jhead><title>佛說大乘菩薩藏正法經</title>卷第三
 <lb n="0864a18" ed="T"/>十二</cb:jhead>
 <lb n="0864a19" ed="T"/>
 <lb n="0864a20" ed="T"/><byline cb:type="Translator"><anchor xml:id="fxT11p0864a01"/>西天<anchor xml:id="fxT11p0864a02"/>譯經三藏銀青光祿大夫
