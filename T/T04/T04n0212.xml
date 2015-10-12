@@ -276,7 +276,7 @@ Added comment  for Emacs
 <lb n="0609c17" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><title><note n="0609026" resp="Taisho" type="orig" place="foot text">此經為二十卷【三】</note><note n="0609026" resp="CBETA" type="mod">此經為二十卷【宋】【元】【明】</note>出曜經</title>卷第一</cb:jhead></cb:juan>
 <lb n="0609c18" ed="T"/>
 <lb n="0609c19" ed="T"/><byline cb:type="Translator"><note n="0609027" resp="Taisho" type="orig" place="foot text">（尊者法救造）＋姚【元】【明】</note><app n="0609027"><lem wit="【大】">姚</lem><rdg resp="Taisho" wit="【元】【明】">尊者法救造姚</rdg></app>秦<note n="0609028" resp="Taisho" type="orig" place="foot text">涼州沙門＝三藏【三】</note><note n="0609028" resp="CBETA" type="mod">涼州沙門＝三藏【宋】【元】【明】</note><app n="0609028"><lem wit="【大】">涼州沙門</lem><rdg resp="Taisho" wit="【宋】【元】【明】">三藏</rdg></app>竺佛念譯</byline>
-<lb n="0609c20" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="1" type="品">1 無常品</cb:mulu><head>無常品第一<note n="0609029" resp="Taisho" type="orig" place="foot text">〔之一〕－【三】</note><note n="0609029" resp="CBETA" type="mod">〔之一〕－【宋】【元】【明】</note><app n="0609029"><lem wit="【大】">之一</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></head>
+<lb n="0609c20" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="1" type="品">1 無常品</cb:mulu><cb:mulu level="2">1</cb:mulu><head>無常品第一<note n="0609029" resp="Taisho" type="orig" place="foot text">〔之一〕－【三】</note><note n="0609029" resp="CBETA" type="mod">〔之一〕－【宋】【元】【明】</note><app n="0609029"><lem wit="【大】">之一</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></head>
 <lb n="0609c21" ed="T"/><p xml:id="pT04p0609c2101">昔佛在波羅㮈國。佛告諸比丘：「當來之世，眾
 <lb n="0609c22" ed="T"/>生之類壽八萬四千歲。爾時壽八萬四千歲
 <lb n="0609c23" ed="T"/>眾生輩，於此閻浮<note n="0609030" resp="Taisho" type="orig" place="foot text">利＝剎【明】</note><app n="0609030"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【明】">剎</rdg></app>內，眾生共居一處，穀米
@@ -786,7 +786,7 @@ Added comment  for Emacs
 <lb n="0615b17" ed="T"/>
 <milestone n="2" unit="juan"/>
 <lb n="0615b18" ed="T"/>
-<lb n="0615b19" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="002" type="卷"></cb:mulu><cb:jhead><title>出曜經</title>卷第二</cb:jhead>
+<lb n="0615b19" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="002" type="卷"></cb:mulu><cb:mulu level="2">2</cb:mulu><cb:jhead><title>出曜經</title>卷第二</cb:jhead>
 <lb n="0615b20" ed="T"/>
 <lb n="0615b21" ed="T"/><byline cb:type="Translator">姚秦涼州沙門竺佛念譯</byline>
 <lb n="0615b22" ed="T"/><cb:jhead type="pin"><anchor type="circle"/><note n="0615010" resp="Taisho" type="orig" place="foot text">不分卷及品〔出曜…之二〕－【三】</note><note n="0615010" resp="CBETA" type="mod"><!--CBETA todo type: a-->不分卷及品〔出曜…之二〕－【宋】【元】【明】</note>無常品之二</cb:jhead></cb:juan>
@@ -1289,7 +1289,7 @@ Added comment  for Emacs
 <lb n="0621a09" ed="T"/>
 <milestone n="3" unit="juan"/>
 <lb n="0621a10" ed="T"/>
-<lb n="0621a11" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="003" type="卷"></cb:mulu><cb:jhead><title>出曜經</title>卷第三</cb:jhead>
+<lb n="0621a11" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="003" type="卷"></cb:mulu><cb:mulu level="2">3</cb:mulu><cb:jhead><title>出曜經</title>卷第三</cb:jhead>
 <lb n="0621a12" ed="T"/>
 <lb n="0621a13" ed="T"/><byline cb:type="Translator">姚秦涼州沙門竺佛念譯</byline>
 <lb n="0621a14" ed="T"/><cb:jhead type="pin"><anchor type="circle"/><note n="0621003" resp="Taisho" type="orig" place="foot text">不分卷〔出曜…品下〕－【三】</note><note n="0621003" resp="CBETA" type="mod"><!--CBETA todo type: a-->不分卷〔出曜…品下〕－【宋】【元】【明】</note>無常品下</cb:jhead></cb:juan>
@@ -3157,7 +3157,7 @@ Added comment  for Emacs
 <lb n="0641c13" ed="T"/>杖日加，瘡痍膿血臭穢難近，蠅蟲噆螫避無
 <lb n="0641c14" ed="T"/>處所，臥大小便求死不得，斯由婬<app type="star" corresp="#0640007"><lem wit="【大】">妷</lem><rdg resp="Taisho" wit="【元】【明】">泆</rdg></app>不淨之
 <lb n="0641c15" ed="T"/>行，死入地獄求出甚難。<note n="0641010" resp="Taisho" type="orig" place="foot text">次行＋（無放逸品竟）【宋】</note></p></cb:div>
-<lb n="0641c16" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="5" type="品">5 放逸品</cb:mulu><head><note n="0641011" resp="Taisho" type="orig" place="foot text">（出曜經）＋放【宋】，〔放逸…初〕七字－【元】【明】</note><note n="0641011a" resp="CBETA" type="mod">〔放逸品第五之初〕七字－【元】【明】</note><app n="0641011a"><lem wit="【大】"><note n="0641011b" resp="CBETA" type="mod">（出曜經）＋放【宋】</note><app n="0641011b"><lem wit="【大】">放</lem><rdg resp="Taisho" wit="【宋】">出曜經放</rdg></app>逸<note n="0641012" resp="Taisho" type="orig" place="foot text">品＋（上）【宋】</note><app n="0641012"><lem wit="【大】">品</lem><rdg resp="Taisho" wit="【宋】">品上</rdg></app>第五<note n="0641013" resp="Taisho" type="orig" place="foot text">〔之初〕－【宋】</note><app n="0641013"><lem wit="【大】">之初</lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app></lem><rdg resp="Taisho" wit="【元】【明】"><space quantity="0"/></rdg></app></head>
+<lb n="0641c16" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="5" type="品">5 放逸品</cb:mulu><cb:mulu level="2">1</cb:mulu><head><note n="0641011" resp="Taisho" type="orig" place="foot text">（出曜經）＋放【宋】，〔放逸…初〕七字－【元】【明】</note><note n="0641011a" resp="CBETA" type="mod">〔放逸品第五之初〕七字－【元】【明】</note><app n="0641011a"><lem wit="【大】"><note n="0641011b" resp="CBETA" type="mod">（出曜經）＋放【宋】</note><app n="0641011b"><lem wit="【大】">放</lem><rdg resp="Taisho" wit="【宋】">出曜經放</rdg></app>逸<note n="0641012" resp="Taisho" type="orig" place="foot text">品＋（上）【宋】</note><app n="0641012"><lem wit="【大】">品</lem><rdg resp="Taisho" wit="【宋】">品上</rdg></app>第五<note n="0641013" resp="Taisho" type="orig" place="foot text">〔之初〕－【宋】</note><app n="0641013"><lem wit="【大】">之初</lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app></lem><rdg resp="Taisho" wit="【元】【明】"><space quantity="0"/></rdg></app></head>
 <lb n="0641c17" ed="T"/><lg xml:id="lgT04p0641c1701"><l>本性不自造，</l><l>情知不自為，</l>
 <lb n="0641c18" ed="T"/><l>不慮邪徑路，</l><l>愚者念力求。</l></lg>
 <lb n="0641c19" ed="T"/><p xml:id="pT04p0641c1901">本性不自造者，所應造者不造，所不應造者
@@ -3362,7 +3362,7 @@ Added comment  for Emacs
 <lb n="0644a08" ed="T"/><cb:juan n="006" fun="close"><cb:jhead><title>出曜經</title>卷第<note n="0644002" resp="Taisho" type="orig" place="foot text">六＝四【三】</note><note n="0644002" resp="CBETA" type="mod">六＝四【宋】【元】【明】</note><app n="0644002"><lem wit="【大】">六</lem><rdg resp="Taisho" wit="【宋】【元】【明】">四</rdg></app></cb:jhead></cb:juan>
 <lb n="0644a09" ed="T"/>
 <milestone n="7" unit="juan"/>
-<lb n="0644a10" ed="T"/><cb:juan n="007" fun="open"><cb:mulu n="007" type="卷"></cb:mulu><cb:jhead><title>出曜經</title>卷第<note n="0644003" resp="Taisho" type="orig" place="foot text">七＝五【三】</note><note n="0644003" resp="CBETA" type="mod">七＝五【宋】【元】【明】</note><app n="0644003"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【宋】【元】【明】">五</rdg></app></cb:jhead>
+<lb n="0644a10" ed="T"/><cb:juan n="007" fun="open"><cb:mulu n="007" type="卷"></cb:mulu><cb:mulu level="2">2</cb:mulu><cb:jhead><title>出曜經</title>卷第<note n="0644003" resp="Taisho" type="orig" place="foot text">七＝五【三】</note><note n="0644003" resp="CBETA" type="mod">七＝五【宋】【元】【明】</note><app n="0644003"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【宋】【元】【明】">五</rdg></app></cb:jhead>
 <lb n="0644a11" ed="T"/>
 <lb n="0644a12" ed="T"/><byline cb:type="Translator"><note n="0644004" resp="Taisho" type="orig" place="foot text">（尊者法救造）五字＋姚【元】【明】</note><app n="0644004"><lem wit="【大】">姚</lem><rdg resp="Taisho" wit="【元】【明】">尊者法救造姚</rdg></app>秦<note n="0644005" resp="Taisho" type="orig" place="foot text">涼州沙門＝三藏【三】</note><note n="0644005" resp="CBETA" type="mod">涼州沙門＝三藏【宋】【元】【明】</note><app n="0644005"><lem wit="【大】">涼州沙門</lem><rdg resp="Taisho" wit="【宋】【元】【明】">三藏</rdg></app>竺佛念譯</byline>
 <lb n="0644a13" ed="T"/><cb:jhead type="pin"><note n="0644006" resp="Taisho" type="orig" place="foot text">（無）＋放【元】【明】</note><app n="0644006"><lem wit="【大】">放</lem><rdg resp="Taisho" wit="【元】【明】">無放</rdg></app>逸品<note n="0644007" resp="Taisho" type="orig" place="foot text">之二＝下【宋】，之餘【元】，第四之餘【明】</note><note n="0644007" resp="CBETA" type="mod">之二＝下【宋】，＝之餘【元】，＝第四之餘【明】</note><app n="0644007"><lem wit="【大】">之二</lem><rdg resp="Taisho" wit="【宋】">下</rdg><rdg resp="Taisho" wit="【元】">之餘</rdg><rdg resp="Taisho" wit="【明】">第四之餘</rdg></app></cb:jhead></cb:juan>
@@ -7258,7 +7258,7 @@ Added comment  for Emacs
 <lb n="0687b01" ed="T"/>所謂甘露者，滅盡泥洹是。若有學人得至彼
 <lb n="0687b02" ed="T"/>者，不生不老不病不死，是故說，修<note n="0687004" resp="Taisho" type="orig" place="foot text">道＝行【三】</note><note n="0687004" resp="CBETA" type="mod">道＝行【宋】【元】【明】</note><app n="0687004"><lem wit="【大】">道</lem><rdg resp="Taisho" wit="【宋】【元】【明】">行</rdg></app>甘露
 <lb n="0687b03" ed="T"/><note n="0687005" resp="Taisho" type="orig" place="foot text">果＝彼【宋】</note><app n="0687005"><lem wit="【大】">果</lem><rdg resp="Taisho" wit="【宋】">彼</rdg></app>也。</p><note n="0687006" resp="Taisho" type="orig" place="foot text">卷第九終【三】</note><note n="0687006" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第九終【宋】【元】【明】</note><anchor type="circle"/></cb:div>
-<lb n="0687b04" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="14" type="品">14 利養品</cb:mulu><head><title><anchor type="circle"/><note n="0687007" resp="Taisho" type="orig" place="foot text">卷第十首【三】</note><note n="0687007" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第十首【宋】【元】【明】</note>出曜經</title>利養品第十<note n="0687008" resp="Taisho" type="orig" place="foot text">四＝三【元】【明】</note><app n="0687008"><lem wit="【大】">四</lem><rdg resp="Taisho" wit="【元】【明】">三</rdg></app></head>
+<lb n="0687b04" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="14" type="品">14 利養品</cb:mulu><cb:mulu level="2">1</cb:mulu><head><title><anchor type="circle"/><note n="0687007" resp="Taisho" type="orig" place="foot text">卷第十首【三】</note><note n="0687007" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第十首【宋】【元】【明】</note>出曜經</title>利養品第十<note n="0687008" resp="Taisho" type="orig" place="foot text">四＝三【元】【明】</note><app n="0687008"><lem wit="【大】">四</lem><rdg resp="Taisho" wit="【元】【明】">三</rdg></app></head>
 <lb n="0687b05" ed="T"/><lg xml:id="lgT04p0687b0501"><l>芭蕉以實死，</l><l>竹蘆實亦然，</l>
 <lb n="0687b06" ed="T"/><l>駏驉坐妊死，</l><l>士以貪自喪。</l></lg>
 <lb n="0687b07" ed="T"/><p xml:id="pT04p0687b0701">昔佛在羅閱城竹園<note n="0687009" resp="Taisho" type="orig" place="foot text">加＝迦【三】</note><note n="0687009" resp="CBETA" type="mod">加＝迦【宋】【元】【明】</note><app n="0687009"><lem wit="【大】">加</lem><rdg resp="Taisho" wit="【宋】【元】【明】">迦</rdg></app>蘭陀所。爾時有比丘
@@ -7364,7 +7364,7 @@ Added comment  for Emacs
 <lb n="0688b17" ed="T"/>
 <milestone n="15" unit="juan"/>
 <lb n="0688b18" ed="T"/>
-<lb n="0688b19" ed="T"/><cb:juan n="015" fun="open"><cb:mulu n="015" type="卷"></cb:mulu><cb:jhead><title>出曜經</title>卷第十五</cb:jhead>
+<lb n="0688b19" ed="T"/><cb:juan n="015" fun="open"><cb:mulu n="015" type="卷"></cb:mulu><cb:mulu level="2">2</cb:mulu><cb:jhead><title>出曜經</title>卷第十五</cb:jhead>
 <lb n="0688b20" ed="T"/>
 <lb n="0688b21" ed="T"/><byline cb:type="Translator">姚秦涼州沙門竺佛念譯</byline>
 <lb n="0688b22" ed="T"/><cb:jhead type="pin">利養品下</cb:jhead></cb:juan>
