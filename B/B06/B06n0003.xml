@@ -57,7 +57,7 @@ Revision 1.1  2011/10/26 07:33:25  eva
 </teiHeader>
 <text><body>
 <pb ed="B" xml:id="B06.0003.0003a" n="0003a"/>
-<lb ed="B" n="0003a01"/><milestone unit="juan" n="1"/><cb:mulu type="卷" n="1"></cb:mulu><cb:div type="other"><cb:mulu type="其他" level="1">長部經典一</cb:mulu><head>長部經典一</head><byline cb:type="translator">江鍊百據日譯本重譯</byline><byline cb:type="other">沙門芝峯校證</byline>
+<lb ed="B" n="0003a01"/><milestone unit="juan" n="1"/><cb:mulu type="卷" n="1"/><cb:div type="other"><cb:mulu type="其他" level="1">長部經典一</cb:mulu><head>長部經典一</head><byline cb:type="translator">江鍊百據日譯本重譯</byline><byline cb:type="other">沙門芝峯校證</byline>
 <lb ed="B" n="0003a02"/><cb:div type="other"><cb:mulu type="其他" level="2">目次</cb:mulu><head>目次</head>
 <lb ed="B" n="0003a03"/><list><item xml:id="itemB06p0003a0301"><p xml:id="pB06p0003a0301">梵網經第一　　宇井伯壽原譯　　一</p>
 <lb ed="B" n="0003a04"/><p xml:id="pB06p0003a0401" rend="margin-left:1em">舊譯　長阿含卷第十四梵動經（大正藏一）及梵網六十二見經（大正藏二一）。本經內容依二
@@ -158,15 +158,15 @@ Revision 1.1  2011/10/26 07:33:25  eva
 <pb ed="B" xml:id="B06.0003.0004b" n="0004b"/>
 <lb ed="B" n="0004b01"/><p cb:type="head1" xml:id="pB06p0004b0101">長部經典</p>
 <lb ed="B" n="0004b02"/><cb:div type="other"><cb:mulu type="其他" level="2">凡例</cb:mulu><head>凡例</head>
-<lb ed="B" n="0004b03"/><list><item xml:id="itemB06p0004b0301"><choice cb:resp="CBETA.maha"><corr></corr><sic>一、</sic></choice>本經據日本大藏出版株式會社發行之日譯本重譯。其原本為巴利聖典出版協會（Paali Text Society）
+<lb ed="B" n="0004b03"/><list><item xml:id="itemB06p0004b0301"><choice cb:resp="CBETA.maha"><corr/><sic>一、</sic></choice>本經據日本大藏出版株式會社發行之日譯本重譯。其原本為巴利聖典出版協會（Paali Text Society）
 <lb ed="B" n="0004b04"/>本．兼參照錫蘭本與暹邏本云。</item>
-<lb ed="B" n="0004b05"/><item xml:id="itemB06p0004b0501"><choice cb:resp="CBETA.maha"><corr></corr><sic>一、</sic></choice>日譯本於經文行端．標有數字．示巴利原本之頁數．俾便互相對照。今一一仍之．概用大寫數字標出。</item>
-<lb ed="B" n="0004b06"/><item xml:id="itemB06p0004b0601"><choice cb:resp="CBETA.maha"><corr></corr><sic>一、</sic></choice>文中字之右角上所記之七號小寫數字．為註釋之號碼．註釋隨附每經之後。</item>
-<lb ed="B" n="0004b07"/><item xml:id="itemB06p0004b0701"><choice cb:resp="CBETA.maha"><corr></corr><sic>一、</sic></choice>文中〔〕內之語或句．乃日譯者為助讀者瞭解起見而加襯者．今仍之。</item>
-<lb ed="B" n="0004b08"/><item xml:id="itemB06p0004b0801"><choice cb:resp="CBETA.maha"><corr></corr><sic>一、</sic></choice>文中（）內之名詞．乃日譯者就原語所引用之舊有義譯。</item>
-<lb ed="B" n="0004b09"/><item xml:id="itemB06p0004b0901"><choice cb:resp="CBETA.maha"><corr></corr><sic>一、</sic></choice>文中節略語句．方式不一．一依前後之語氣．用「乃至」、「如是乃至」、「云云」、「如是云云」、「亦
+<lb ed="B" n="0004b05"/><item xml:id="itemB06p0004b0501"><choice cb:resp="CBETA.maha"><corr/><sic>一、</sic></choice>日譯本於經文行端．標有數字．示巴利原本之頁數．俾便互相對照。今一一仍之．概用大寫數字標出。</item>
+<lb ed="B" n="0004b06"/><item xml:id="itemB06p0004b0601"><choice cb:resp="CBETA.maha"><corr/><sic>一、</sic></choice>文中字之右角上所記之七號小寫數字．為註釋之號碼．註釋隨附每經之後。</item>
+<lb ed="B" n="0004b07"/><item xml:id="itemB06p0004b0701"><choice cb:resp="CBETA.maha"><corr/><sic>一、</sic></choice>文中〔〕內之語或句．乃日譯者為助讀者瞭解起見而加襯者．今仍之。</item>
+<lb ed="B" n="0004b08"/><item xml:id="itemB06p0004b0801"><choice cb:resp="CBETA.maha"><corr/><sic>一、</sic></choice>文中（）內之名詞．乃日譯者就原語所引用之舊有義譯。</item>
+<lb ed="B" n="0004b09"/><item xml:id="itemB06p0004b0901"><choice cb:resp="CBETA.maha"><corr/><sic>一、</sic></choice>文中節略語句．方式不一．一依前後之語氣．用「乃至」、「如是乃至」、「云云」、「如是云云」、「亦
 <lb ed="B" n="0004b10"/>然」、「亦復如是」、「如是如是」等。於中加〔〕者．為日譯本所節略．無〔〕者．為原底本所節略。</item>
-<lb ed="B" n="0004b11"/><item xml:id="itemB06p0004b1101"><choice cb:resp="CBETA.maha"><corr></corr><sic>一、</sic></choice>日譯本於目次下．每經各附有提要．今仍之。</item></list>
+<lb ed="B" n="0004b11"/><item xml:id="itemB06p0004b1101"><choice cb:resp="CBETA.maha"><corr/><sic>一、</sic></choice>日譯本於目次下．每經各附有提要．今仍之。</item></list>
 <lb ed="B" n="0004b12"/><p xml:id="pB06p0004b1201">中華民國三十三年九月漢譯校證者沙門芝峯謹識</p></cb:div>
 <lb ed="B" n="0004b13"/>
 <lb ed="B" n="0004b14"/>
