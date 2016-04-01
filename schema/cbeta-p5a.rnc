@@ -5625,7 +5625,7 @@ tei_event =
   ## (event) contains data relating to any kind of significant event associated with a person, place, or
   ##     organization.
   element ns1:event {
-    (tei_model.headLike*,
+     (tei_model.headLike*,
      (tei_model.dateLike+ | tei_model.labelLike+),
      (tei_model.global
       | tei_model.pLike
@@ -5638,7 +5638,7 @@ tei_event =
       | tei_model.noteLike
       | tei_model.biblLike | tei_list )*,
      tei_event*),
-    
+          
     ## indicates the location of an event by pointing to a place element
     attribute where { xsd:anyURI }?,
     att.global.attributes,
@@ -5646,6 +5646,7 @@ tei_event =
     att.editLike.attributes,
     att.typed.attributes,
     att.naming.attributes,
+    (tei_date | tei_p | tei_lg | tei_lb | tei_pb | tei_byline)*,
     empty
   }
 tei_faith =
