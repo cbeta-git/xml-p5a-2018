@@ -2075,6 +2075,8 @@ tei_biblScope =
   element biblScope {
     tei_macro.phraseSeq,
     att.global.attributes,
+    attribute from { text }?,
+    attribute to { text }?,
     
     ## identifies the type of information conveyed by the element, e.g.
     ##                 columns, pages, volume.
