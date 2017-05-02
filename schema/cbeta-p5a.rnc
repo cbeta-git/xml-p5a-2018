@@ -2118,6 +2118,7 @@ tei_bibl =
   ##     not be explicitly tagged. 
   element bibl {
     (text
+     | tei_bibl
      | tei_model.gLike
      | tei_model.highlighted
      | tei_model.pPart.data
