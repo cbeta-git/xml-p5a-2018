@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T32n1690">
 <teiHeader>
 	<fileDesc>
@@ -11,7 +11,7 @@
 			</respStmt>
 		</titleStmt>
 	<editionStmt>
-		<edition>$Revision: 1.10 $<date>$Date: 2009/04/23 08:08:32 $</date></edition>
+		<edition>$Revision: 1.10 $<date>$Date: 2009/04/23 08:08:32 $</date>新式標點版</edition>
 	</editionStmt>
 	<extent>1卷</extent>
 	<publicationStmt>
@@ -32,8 +32,8 @@
 </fileDesc>
 <encodingDesc>
 	<projectDesc>
-		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by SAT, Japan, Text as provided by Anonymous from USA</p>
-		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，日本 SAT 組織提供，北美某大德提供</p>
+		<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by SAT, Japan, Text as provided by Anonymous from USA, Punctuated text as provided by Mr. Li Ming-Fang</p>
+		<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，日本 SAT 組織提供，北美某大德提供，李明芳大德提供新式標點</p>
 	</projectDesc>
 </encodingDesc>
 <profileDesc>
@@ -115,247 +115,247 @@ Added comment  for Emacs
 </teiHeader>
 <text><body>
 <lb n="0784c18" ed="T"/>
-<milestone n="1" unit="juan"/>
+<milestone unit="juan" n="1"/>
 <lb n="0784c19" ed="T"/><cb:docNumber>No. 1690</cb:docNumber>
-<lb n="0784c20" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead>賓頭盧突羅闍為優陀延王說<note n="0784029" resp="Taisho" place="foot text" type="orig">法＋（緣）【三】【宮】</note><note n="0784029" resp="CBETA" type="mod">法＋（緣）【宋】【元】【明】【宮】</note><app n="0784029"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">法緣</rdg></app>
+<lb n="0784c20" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead>賓頭盧突羅闍為優陀延王說<note resp="Taisho" n="0784029" place="foot text" type="orig">法＋（緣）【三】【宮】</note><note resp="CBETA" n="0784029" type="mod">法＋（緣）【宋】【元】【明】【宮】</note><app n="0784029"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">法緣</rdg></app>
 <lb n="0784c21" ed="T"/>經</cb:jhead></cb:juan>
 <lb n="0784c22" ed="T"/>
 <lb n="0784c23" ed="T"/><byline cb:type="Translator">宋天竺三藏求那跋陀羅譯</byline>
-<lb n="0784c24" ed="T"/><cb:div type="jing"><p xml:id="pT32p0784c2401">欲樂味甚少。憂苦患甚多。是以智者。應修方
-<lb n="0784c25" ed="T"/>便。速離眾欲。勤行淨行。我昔曾聞。千福王
-<lb n="0784c26" ed="T"/>子。名優陀延。紹父王位。住拘舍彌城。其城殊
-<lb n="0784c27" ed="T"/>妙。寬博嚴淨。晃爛宮觀。映飾綺麗。窓牖通
-<lb n="0784c28" ed="T"/>疎。交絡珠網。樓觀千萬。莊挍此城。街巷相
-<lb n="0784c29" ed="T"/>當。阡陌齊整。市肆充盈。多諸珍寶。其城周
-<pb n="0785a" xml:id="T32.1690.0785a" ed="T"/>
-<lb n="0785a01" ed="T"/>匝。有好林苑。樹木翠蔚。花果茂盛。泉流清
-<lb n="0785a02" ed="T"/>潔。生眾蓮華。青黃赤白。文色相映。鴻鴈鴛
-<lb n="0785a03" ed="T"/>鴦。孔雀鸚鵡。迦陵頻伽。命命之鳥。其聲相
-<lb n="0785a04" ed="T"/>和。猶如樂音。<note n="0785001" resp="Taisho" place="foot text" type="orig">壯麗＝莊嚴【三】【宮】</note><note n="0785001" resp="CBETA" type="mod">壯麗＝莊嚴【宋】【元】【明】【宮】</note><app n="0785001"><lem wit="【大】">壯麗</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">莊嚴</rdg></app>之盛。如<note n="0785002" resp="Taisho" place="foot text" type="orig">奇羅娑＝寄羅婆【三】【宮】</note><note n="0785002" resp="CBETA" type="mod">奇羅娑＝寄羅婆【宋】【元】【明】【宮】</note><app n="0785002"><lem wit="【大】">奇羅娑</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">寄羅婆</rdg></app>山王。
-<lb n="0785a05" ed="T"/>崇巖峻岳。而自莊嚴。又像帝釋所居喜見之
-<lb n="0785a06" ed="T"/>城。優陀延王。形貌端正。威相具足。聰明黠
-<lb n="0785a07" ed="T"/>慧。武勇絕倫。才<note n="0785003" resp="Taisho" place="foot text" type="orig">伎＝技【明】</note><app n="0785003"><lem wit="【大】">伎</lem><rdg resp="Taisho" wit="【明】">技</rdg></app>兼<note n="0785004" resp="Taisho" place="foot text" type="orig">備＝修【三】【宮】</note><note n="0785004" resp="CBETA" type="mod">備＝修【宋】【元】【明】【宮】</note><app n="0785004"><lem wit="【大】">備</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">修</rdg></app>。靡所不知。善能
-<lb n="0785a08" ed="T"/>呪象。令諸山象。咸來赴集。又能控御。皆令調
-<lb n="0785a09" ed="T"/>順。又善彈琴。和雅中節。宮商相應。鳥獸率
-<lb n="0785a10" ed="T"/>舞。合眾香丸。用降<note n="0785005" resp="Taisho" place="foot text" type="orig">怨＝忽【明】</note><app n="0785005"><lem wit="【大】">怨</lem><rdg resp="Taisho" wit="【明】">忽</rdg></app>敵。香氣所及。盡來
-<lb n="0785a11" ed="T"/>歸順。善能刻畫。曲得相貌。其所圖像。真形
-<lb n="0785a12" ed="T"/>無異。六十二藝。悉皆備具。衣服飲食。不尚
-<lb n="0785a13" ed="T"/>豐奢。矜窮敬老。存恤民庶。正法治國。日夕
-<lb n="0785a14" ed="T"/>忘倦。禮儀法律。一依古典。如昔哲王。什奢
-<lb n="0785a15" ed="T"/>之等。國富民殷。庫藏盈溢。福德之人。集生
-<lb n="0785a16" ed="T"/>其國。受王風化。咸皆修善。博通經學。明解
-<lb n="0785a17" ed="T"/>諸論。世間典籍。無不綜練。勇健雄武。如羅
-<lb n="0785a18" ed="T"/>摩延阿純之等。由王先身辟支佛所種諸善
-<lb n="0785a19" ed="T"/>根。獲報如是。王之威德。隣國畏伏。道化光
-<lb n="0785a20" ed="T"/>被。聲聞天下。時輔相子。名賓頭盧突羅闍。
-<lb n="0785a21" ed="T"/>姿容豐美。世所希有。聰明智慧。博聞廣識。
-<lb n="0785a22" ed="T"/>仁慈汎愛。志存濟苦。勸化國民。盡修十善。信
-<lb n="0785a23" ed="T"/>樂三寶。出家學道。得具足果。遊行教化。還拘
-<lb n="0785a24" ed="T"/>舍彌城。欲度親黨。遍行乞食。乞食已訖。於
-<lb n="0785a25" ed="T"/>林樹下。結<note n="0785006" resp="Taisho" place="foot text" type="orig">跏＝加【宋】【宮】</note><app n="0785006"><lem wit="【大】">跏</lem><rdg resp="Taisho" wit="【宋】【宮】">加</rdg></app>趺坐。思惟入定。時有一人。識
-<lb n="0785a26" ed="T"/>賓頭盧。來白王言。昔輔相子。賓頭盧者。今近
-<lb n="0785a27" ed="T"/>在此林中樹下。王聞歡喜。心懷敬仰。便勅嚴
-<lb n="0785a28" ed="T"/>駕。將諸宮人眷屬僕從。詣尊者所。問訊既
-<lb n="0785a29" ed="T"/>竟。命王就坐。王即思惟。所有疑事。今當問
-<pb n="0785b" xml:id="T32.1690.0785b" ed="T"/>
-<lb n="0785b01" ed="T"/>之。而作是言。賓頭盧。今我與爾。少小知舊。
-<lb n="0785b02" ed="T"/>汝之祖先。世為輔相。聰明智達。常為國師。今
-<lb n="0785b03" ed="T"/>既相造欲問疑事。非相惱觸。為我說不。尊者
-<lb n="0785b04" ed="T"/>答言。恣<note n="0785007" resp="Taisho" place="foot text" type="orig">爾＝今【三】【宮】</note><note n="0785007" resp="CBETA" type="mod">爾＝今【宋】【元】【明】【宮】</note><app n="0785007"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">今</rdg></app>所問。我當為王分別解說。王以
-<lb n="0785b05" ed="T"/>偈問曰。</p>
-<lb n="0785b06" ed="T"/><lg xml:id="lgT32p0785b0601"><l>一切世人</l><l>貪著五欲</l><l>縱情放逸</l>
-<lb n="0785b07" ed="T"/><l>以自娛樂</l><l>如汝今者</l><l>獨處空閑</l>
-<lb n="0785b08" ed="T"/><l>捨離恩愛</l><l>有何榮樂</l></lg>
-<lb n="0785b09" ed="T"/><p xml:id="pT32p0785b0901">尊者答言。我觀因緣。皆悉無常。是故出家。以
-<lb n="0785b10" ed="T"/>割情愛。樂於林藪。猶如野鹿。專心勤修。永斷
-<lb n="0785b11" ed="T"/>煩惱。以智慧斧。破愛樹枝。心無戀著。毒果消
-<lb n="0785b12" ed="T"/>滅。諸結駛流生死<note n="0785008" resp="Taisho" place="foot text" type="orig">瀑＝暴【三】【宮】</note><note n="0785008" resp="CBETA" type="mod">瀑＝暴【宋】【元】【明】【宮】</note><app n="0785008"><lem wit="【大】">瀑</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">暴</rdg></app>河。我已得渡。更無憂
-<lb n="0785b13" ed="T"/>患。譬如飛鳥得免羅網。<note n="0785009" resp="Taisho" place="foot text" type="orig">陵＝凌【三】</note><note n="0785009" resp="CBETA" type="mod">陵＝凌【宋】【元】【明】</note><app n="0785009"><lem wit="【大】">陵</lem><rdg resp="Taisho" wit="【宋】【元】【明】">凌</rdg></app>虛遠逝。名曰解
-<lb n="0785b14" ed="T"/>脫。王聞斯語。語賓頭盧。今我勢力。能伏諸
-<lb n="0785b15" ed="T"/>國。威德暉赫。有如盛日。首戴天冠。瓔珞盛
-<lb n="0785b16" ed="T"/>服。<note n="0785010" resp="Taisho" place="foot text" type="orig">婇＝采【三】【宮】</note><note n="0785010" resp="CBETA" type="mod">婇＝采【宋】【元】【明】【宮】</note><app n="0785010"><lem wit="【大】">婇</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">采</rdg></app>女侍衛。如天帝釋。汝今獨處。頗羨
-<lb n="0785b17" ed="T"/>我不。尊者答言。我無羨心。王復問言。何故
-<lb n="0785b18" ed="T"/>於我而不願羨。尊者答言。我於今日欲泥已
-<lb n="0785b19" ed="T"/>乾。諸有結縛。今已解脫。乃至帝釋諸妙天女。
-<lb n="0785b20" ed="T"/><note n="0785011" resp="Taisho" place="foot text" type="orig">尚不生羨＝不生羨尚【三】【宮】</note><note n="0785011" resp="CBETA" type="mod">尚不生羨＝不生羨尚【宋】【元】【明】【宮】</note><app n="0785011"><lem wit="【大】">尚不生羨</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">不生羨尚</rdg></app>。況汝人間鄙穢者乎。誰有智者得
-<lb n="0785b21" ed="T"/>離魔縛。渡生死岸。得淨慧眼。壞無明闇。而
-<lb n="0785b22" ed="T"/>羨王耶。何有明眼。羨於盲者。何有強健而羨
-<lb n="0785b23" ed="T"/>病患。何有無罪而羨獄囚。何有巨富羨於貧
-<lb n="0785b24" ed="T"/>窮。何有高貴而羨奴僕。何有智者羨於愚癡。
-<lb n="0785b25" ed="T"/>何有勇健羨於儜弱。王聞是已。心懷懊惱。而
-<lb n="0785b26" ed="T"/>作是言。汝作方喻。一何苦劇我寧困劣乃如
-<lb n="0785b27" ed="T"/>是乎。尊者答言。王無慧眼。煩惱所病。四取
-<lb n="0785b28" ed="T"/>駛流之所漂沒。失於勇健。不能精勤。如斯嬰
-<lb n="0785b29" ed="T"/>愚。不識真諦。沈淪苦海。是王之分。於五欲
-<pb n="0785c" xml:id="T32.1690.0785c" ed="T"/>
-<lb n="0785c01" ed="T"/>中。生希有想。如此之想。實違淨行。王復問
-<lb n="0785c02" ed="T"/>言。有何等過。而言違失。尊者答言。此五欲
-<lb n="0785c03" ed="T"/>者。眾苦之本。害於眾生。所有善根。如雹害
-<lb n="0785c04" ed="T"/>苗。螫惱眾生。甚於毒蛇。亦如熾火。能燒功
-<lb n="0785c05" ed="T"/>德亦如野馬。誑惑凡夫。亦如幻化。迷亂惑者。
-<lb n="0785c06" ed="T"/>欲詐親善。過於怨家。欲如老牛沒溺<note n="0785012" resp="Taisho" place="foot text" type="orig">污＝淤【明】</note><app n="0785012"><lem wit="【大】">污</lem><rdg resp="Taisho" wit="【明】">淤</rdg></app>泥。
-<lb n="0785c07" ed="T"/>欲如大網纏裹三界。欲如劍道難可履<note n="0785013" resp="Taisho" place="foot text" type="orig">踐＝蹈【三】【宮】</note><note n="0785013" resp="CBETA" type="mod">踐＝蹈【宋】【元】【明】【宮】</note><app n="0785013"><lem wit="【大】">踐</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">蹈</rdg></app>。欲
-<lb n="0785c08" ed="T"/>能繫閉殺害眾生。一切過患。皆從欲起。如往
-<lb n="0785c09" ed="T"/>古時。有婆須天。由欲因緣。為婆利阿修羅之
-<lb n="0785c10" ed="T"/>所繫縛。擲沸湯中。婆勒天壞阿修羅城<note n="0785014" resp="Taisho" place="foot text" type="orig">墎＝郭【三】【宮】</note><note n="0785014" resp="CBETA" type="mod">墎＝郭【宋】【元】【明】【宮】</note><app n="0785014"><lem wit="【大】">墎</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">郭</rdg></app>。
-<lb n="0785c11" ed="T"/>殄滅其民。惱觸苦婆羅王種八純提王及彼
-<lb n="0785c12" ed="T"/>百子。悉皆誅滅。鼻多羅阿修羅。害於千眼羅
-<lb n="0785c13" ed="T"/>摩。害十<note n="0785015" resp="Taisho" place="foot text" type="orig">頭＝頃【宋】【宮】</note><app n="0785015"><lem wit="【大】">頭</lem><rdg resp="Taisho" wit="【宋】【宮】">頃</rdg></app>羅剎。及數千億羅剎之眾。羅漫
-<lb n="0785c14" ed="T"/>害因陀羅<note n="0785016" resp="Taisho" place="foot text" type="orig">且＝具【三】【宮】</note><note n="0785016" resp="CBETA" type="mod">且＝具【宋】【元】【明】【宮】</note><app n="0785016"><lem wit="【大】">且</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">具</rdg></app>翼叉王。摩羅支王。滅多摩羅質
-<lb n="0785c15" ed="T"/>種族。迦帝毘<note n="0785017" resp="Taisho" place="foot text" type="orig">〔王〕－【三】【宮】</note><note n="0785017" resp="CBETA" type="mod">〔王〕－【宋】【元】【明】【宮】</note><app n="0785017"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>為閻摩尼婆羅門所殺。毘那
-<lb n="0785c16" ed="T"/>悉那害提頭賴吒眷屬班<note n="0785018" resp="Taisho" place="foot text" type="orig">細＝紬【三】【宮】</note><note n="0785018" resp="CBETA" type="mod">細＝紬【宋】【元】【明】【宮】</note><app n="0785018"><lem wit="【大】">細</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">紬</rdg></app>五子。殺十八億
-<lb n="0785c17" ed="T"/>人。弼匿安毒多羅蹭伽王種。俱羅王種。彌絺
-<lb n="0785c18" ed="T"/>羅檀特伽王種。是等人王。皆為欲故。更相殘
-<lb n="0785c19" ed="T"/>滅。即說偈言。</p>
-<lb n="0785c20" ed="T"/><lg xml:id="lgT32p0785c2001"><l>王位雖尊嚴</l><l>代謝不暫停</l>
-<lb n="0785c21" ed="T"/><l>輕疾如電光</l><l>須臾歸磨滅</l>
-<lb n="0785c22" ed="T"/><l>王位極富逸</l><l>愚者情愛樂</l>
-<lb n="0785c23" ed="T"/><l>衰滅死時至</l><l>苦劇過下賤</l>
-<lb n="0785c24" ed="T"/><l>王者居高位</l><l>名聞滿四方</l>
-<lb n="0785c25" ed="T"/><l>端正甚可愛</l><l>種種自嚴身</l>
-<lb n="0785c26" ed="T"/><l>譬如臨死<note n="0785019" resp="Taisho" place="foot text" type="orig">者＝時【明】</note><app n="0785019"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【明】">時</rdg></app></l><l>著花鬘瓔珞</l>
-<lb n="0785c27" ed="T"/><l>餘命未幾時</l><l>王位亦如是</l>
-<lb n="0785c28" ed="T"/><l>王者譬如<note n="0785020" resp="Taisho" place="foot text" type="orig">烏＝鳥【明】</note><app n="0785020"><lem wit="【大】">烏</lem><rdg resp="Taisho" wit="【明】">鳥</rdg></app></l><l>常懷諸恐怖</l>
-<lb n="0785c29" ed="T"/><l>行住及坐臥</l><l>乃至一切時</l>
-<pb n="0786a" xml:id="T32.1690.0786a" ed="T"/>
-<lb n="0786a01" ed="T"/><l>於其親踈中</l><l>恒有疑懼心</l>
-<lb n="0786a02" ed="T"/><l>臣民宮妃后</l><l>象馬及珍寶</l>
-<lb n="0786a03" ed="T"/><l>國土諸所有</l><l>一切是王物</l>
-<lb n="0786a04" ed="T"/><l>諸王捨命時</l><l>皆棄無隨者</l>
-<lb n="0786a05" ed="T"/><l>人王及天王</l><l>阿修羅王等</l>
-<lb n="0786a06" ed="T"/><l>威力逼人民</l><l>斧鉞相殘害</l>
-<lb n="0786a07" ed="T"/><l>不識無常苦</l><l>橫增貪<note n="0786001" resp="Taisho" place="foot text" type="orig">嫉＝疾【三】【宮】</note><note n="0786001" resp="CBETA" type="mod">嫉＝疾【宋】【元】【明】【宮】</note><app n="0786001"><lem wit="【大】">嫉</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">疾</rdg></app>惱</l>
-<lb n="0786a08" ed="T"/><l>譬如妙華林</l><l>金蛇睡在中</l>
-<lb n="0786a09" ed="T"/><l>愚人謂珍寶</l><l>盛裏齎歸家</l>
-<lb n="0786a10" ed="T"/><l>蛇覺縱毒火</l><l>焚燒其屋宅</l>
-<lb n="0786a11" ed="T"/><l>王位如華林</l><l>災患如金蛇</l>
-<lb n="0786a12" ed="T"/><l>愚人以為貴</l><l>智者所不樂</l>
-<lb n="0786a13" ed="T"/><l>譬如以揣肉</l><l>置四衢道頭</l>
-<lb n="0786a14" ed="T"/><l>狐狼<note n="0786002" resp="Taisho" place="foot text" type="orig">烏＝鵰【三】【宮】</note><note n="0786002" resp="CBETA" type="mod">烏＝鵰【宋】【元】【明】【宮】</note><app n="0786002"><lem wit="【大】">烏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">鵰</rdg></app>鷲等</l><l>競來諍食之</l>
-<lb n="0786a15" ed="T"/><l>王位亦如是</l><l>眾共諍取之</l>
-<lb n="0786a16" ed="T"/><l>鳥獸以嘴爪</l><l><note n="0786003" resp="Taisho" place="foot text" type="orig">抓＝爪【三】【宮】</note><note n="0786003" resp="CBETA" type="mod">抓＝爪【宋】【元】【明】【宮】</note><app n="0786003"><lem wit="【大】">抓</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">爪</rdg></app><app><lem wit="【CBETA】【麗】" resp="CBETA.maha CBETA.say">爴<note type="cf1">K30n1039_p0667a01</note></lem><rdg wit="【大】"><g ref="#CB00510"/></rdg></app>共鬪諍</l>
-<lb n="0786a17" ed="T"/><l>王者以刀矛</l><l>相害諍榮位</l>
-<lb n="0786a18" ed="T"/><l>亦如彼鳥獸</l><l>愚癡等無異</l>
-<lb n="0786a19" ed="T"/><l>我寧食灰土</l><l><note n="0786004" resp="Taisho" place="foot text" type="orig">草＝果【三】【宮】</note><note n="0786004" resp="CBETA" type="mod">草＝果【宋】【元】【明】【宮】</note><app n="0786004"><lem wit="【大】">草</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">果</rdg></app>菜以自存</l>
-<lb n="0786a20" ed="T"/><l>此身如癰瘡</l><l><note n="0786005" resp="Taisho" place="foot text" type="orig">會＝食【明】</note><app n="0786005"><lem wit="【大】">會</lem><rdg resp="Taisho" wit="【明】">食</rdg></app>歸當潰爛</l>
-<lb n="0786a21" ed="T"/><l>云何為此故</l><l>造作眾惡業</l>
-<lb n="0786a22" ed="T"/><l>如食<note n="0786006" resp="Taisho" place="foot text" type="orig">欽＝菴【三】【宮】</note><note n="0786006" resp="CBETA" type="mod">欽＝菴【宋】【元】【明】【宮】</note><app n="0786006"><lem wit="【大】">欽</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">菴</rdg></app>婆果</l><l>香味悉具足</l>
-<lb n="0786a23" ed="T"/><l>及其果消時</l><l>身體盡爛壞</l>
-<lb n="0786a24" ed="T"/><l>王位如彼果</l><l>失滅生苦惱</l>
-<lb n="0786a25" ed="T"/><l>譬如有方土</l><l>災疫行疾病</l>
-<lb n="0786a26" ed="T"/><l>有智諸勝人</l><l>宜應速遠離</l>
-<lb n="0786a27" ed="T"/><l>若不遠離者</l><l>如逆風執炬</l>
-<lb n="0786a28" ed="T"/><l>不捨必自燒</l><l>如渴飲醎水</l>
-<lb n="0786a29" ed="T"/><l>無有飽足時</l><l>如十頭羅剎</l>
-<pb n="0786b" xml:id="T32.1690.0786b" ed="T"/>
-<lb n="0786b01" ed="T"/><l>城郭及眷屬</l><l>為欲因緣故</l>
-<lb n="0786b02" ed="T"/><l>滅壞無<note n="0786007" resp="Taisho" place="foot text" type="orig">有＝遺【三】【宮】</note><note n="0786007" resp="CBETA" type="mod">有＝遺【宋】【元】【明】【宮】</note><app n="0786007"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">遺</rdg></app>餘</l><l>又如寄越王</l>
-<lb n="0786b03" ed="T"/><l>兄弟有百人</l><l>為欲因緣故</l>
-<lb n="0786b04" ed="T"/><l>亦皆盡敗滅</l><l>日種槃趙王</l>
-<lb n="0786b05" ed="T"/><l>及提頭賴吒</l><l>如是諸王等</l>
-<lb n="0786b06" ed="T"/><l>盡為欲所滅</l></lg>
-<lb n="0786b07" ed="T"/><p xml:id="pT32p0786b0701">當知國土猶如羅網。亦如羂弶。如深淤泥。亦
-<lb n="0786b08" ed="T"/>如洄波。又如海浪。如林被燒。亦如危岸。猶如
-<lb n="0786b09" ed="T"/>地獄。<note n="0786008" resp="Taisho" place="foot text" type="orig">何＝誰【三】【宮】＊</note><note n="0786008" resp="CBETA" type="mod">何＝誰【宋】【元】【明】【宮】＊</note><app n="0786008"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">誰</rdg></app>有智者。當樂貪著。如是大苦。<app type="star" corresp="#0786008"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">誰</rdg></app>有
-<lb n="0786b10" ed="T"/>智者。當生樂想。如是大王。嗚呼怪哉。被欺乃
-<lb n="0786b11" ed="T"/>爾。被誑乃爾猶如空拳誑於小兒。速疾不
-<lb n="0786b12" ed="T"/>停。猶如幻化。五欲欺誑。亦復如是。猶如<note n="0786009" resp="Taisho" place="foot text" type="orig">猿＝猨【三】【宮】</note><note n="0786009" resp="CBETA" type="mod">猿＝猨【宋】【元】【明】【宮】</note><app n="0786009"><lem wit="【大】">猿</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">猨</rdg></app>
-<lb n="0786b13" ed="T"/>猴在<note n="0786010" resp="Taisho" place="foot text" type="orig">高＝嵩【宋】【宮】</note><app n="0786010"><lem wit="【大】">高</lem><rdg resp="Taisho" wit="【宋】【宮】">嵩</rdg></app>山頂見雲彌布以為堅實。謂為是地
-<lb n="0786b14" ed="T"/>便以身投墮百丈巖。喪其身命。一切碎滅。亦
-<lb n="0786b15" ed="T"/>如野干見甄叔迦樹。其果似肉。見落地時。便
-<lb n="0786b16" ed="T"/>往欲食。知其非肉。更復生念。今此非肉。彼
-<lb n="0786b17" ed="T"/>樹上者。必當是肉。遂便守之。為其所困五欲
-<lb n="0786b18" ed="T"/>誑王。亦復如是。亦如商<note n="0786011" resp="Taisho" place="foot text" type="orig">估＝賈【三】【宮】</note><note n="0786011" resp="CBETA" type="mod">估＝賈【宋】【元】【明】【宮】</note><app n="0786011"><lem wit="【大】">估</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">賈</rdg></app>以偽珠誑人。五
-<lb n="0786b19" ed="T"/>欲誑王。亦復如是。又如嬰愚嗜味<note n="0786012" resp="Taisho" place="foot text" type="orig">貪＝食【三】【宮】</note><note n="0786012" resp="CBETA" type="mod">貪＝食【宋】【元】【明】【宮】</note><app n="0786012"><lem wit="【大】">貪</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">食</rdg></app>歡喜
-<lb n="0786b20" ed="T"/>丸。人以泥團。而來誑之。謂為真實。走<note n="0786013" resp="Taisho" place="foot text" type="orig">逐＝遂【三】</note><note n="0786013" resp="CBETA" type="mod">逐＝遂【宋】【元】【明】</note><app n="0786013"><lem wit="【大】">逐</lem><rdg resp="Taisho" wit="【宋】【元】【明】">遂</rdg></app>疲
-<lb n="0786b21" ed="T"/>苦。乃得泥團。如熱時焰誑渴愚夫。猶如眾
-<lb n="0786b22" ed="T"/>人前竪於幻橛。能使時眾見種種事。若拔幻
-<lb n="0786b23" ed="T"/>橛。色像即滅。猶如畫匠及機關師。如狗吠
-<lb n="0786b24" ed="T"/>井自見形影。怒眼竪毛。謂井底影欲共己鬪。
-<lb n="0786b25" ed="T"/>橫生瞋忿。投井而死。大王。宜善觀察。何有五
-<lb n="0786b26" ed="T"/>欲而得常者何有王位而得久停。尊豪威勢。
-<lb n="0786b27" ed="T"/>無得住者。何有國界而不遷壞。何有珍寶而
-<lb n="0786b28" ed="T"/>不散失。何有欲樂常恒不變。苦之封授必受
-<lb n="0786b29" ed="T"/>衰滅。何有合會而不別離。一切五欲。體性實
-<pb n="0786c" xml:id="T32.1690.0786c" ed="T"/>
-<lb n="0786c01" ed="T"/>苦。皆從妄想而生於樂。何有諸行不似<note n="0786014" resp="Taisho" place="foot text" type="orig">芭＝巴【宮】＊</note><app n="0786014"><lem wit="【大】">芭</lem><rdg resp="Taisho" wit="【宮】">巴</rdg></app>蕉
-<lb n="0786c02" ed="T"/><note n="0786015" resp="Taisho" place="foot text" type="orig">揵＝乾【三】【宮】</note><note n="0786015" resp="CBETA" type="mod">揵＝乾【宋】【元】【明】【宮】</note><app n="0786015"><lem wit="【大】">揵</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">乾</rdg></app>闥婆城。大王云何。處生老病死衰禍恐怖
-<lb n="0786c03" ed="T"/>逼迫之中。云何能為國<note n="0786016" resp="Taisho" place="foot text" type="orig">土＝王【宮】</note><app n="0786016"><lem wit="【大】">土</lem><rdg resp="Taisho" wit="【宮】">王</rdg></app>少樂生愛樂想。
-<lb n="0786c04" ed="T"/>如林中鹿。四邊火起。如鳥在籠。如魚處網。如
-<lb n="0786c05" ed="T"/>龜吞鉤。如師子毒箭入心。如龍處呪場。如人
-<lb n="0786c06" ed="T"/>在屋中四邊火起。如處危朽華堂速疾崩墜。
-<lb n="0786c07" ed="T"/>如好華池有水羅剎噏食於人。重說偈言。</p>
-<lb n="0786c08" ed="T"/><lg xml:id="lgT32p0786c0801"><l>生老病死患</l><l>於中未解脫</l>
-<lb n="0786c09" ed="T"/><l>無明愛毒箭</l><l>猶未得拔出</l>
-<lb n="0786c10" ed="T"/><l>人帝汝云何</l><l>而生樂著想</l>
-<lb n="0786c11" ed="T"/><l>如象處林中</l><l>四邊大火起</l>
-<lb n="0786c12" ed="T"/><l>處此急難處</l><l>云何有歡<note n="0786017" resp="Taisho" place="foot text" type="orig">喜＝樂【三】【宮】</note><note n="0786017" resp="CBETA" type="mod">喜＝樂【宋】【元】【明】【宮】</note><app n="0786017"><lem wit="【大】">喜</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">樂</rdg></app></l>
-<lb n="0786c13" ed="T"/><l>大王應當知</l><l>榮位須臾<note n="0786018" resp="Taisho" place="foot text" type="orig">間＝問【宮】</note><app n="0786018"><lem wit="【大】">間</lem><rdg resp="Taisho" wit="【宮】">問</rdg></app></l>
-<lb n="0786c14" ed="T"/><l>智者深觀察</l><l>不應於此事</l>
-<lb n="0786c15" ed="T"/><l>而生希有想</l><l>汝何故錯解</l>
-<lb n="0786c16" ed="T"/><l>實是愛奴僕</l><l>而生高貴想</l>
-<lb n="0786c17" ed="T"/><l>捨上妙財寶</l><l>而生大富想</l>
-<lb n="0786c18" ed="T"/><l>不善解方便</l><l>橫生智慧想</l>
-<lb n="0786c19" ed="T"/><l>為眾煩惱患</l><l>橫生無病想</l>
-<lb n="0786c20" ed="T"/><l>未脫生死胎</l><l>橫生無畏想</l>
-<lb n="0786c21" ed="T"/><l>處十二刺林</l><l>橫生無刺想</l>
-<lb n="0786c22" ed="T"/><l>欲賊劫諸根</l><l>橫生無賊想</l></lg>
-<lb n="0786c23" ed="T"/><p xml:id="pT32p0786c2301">大王而此身者必歸敗壞。尊豪榮貴。必有衰
-<lb n="0786c24" ed="T"/>滅。財寶庫藏。必有散失。大王。如佛言曰。
-<lb n="0786c25" ed="T"/>榮位如夢。恩愛暫有。汝於五欲。生於希有難
-<lb n="0786c26" ed="T"/>遭之想。賢德於此。豈得名為能善觀察。何以
-<lb n="0786c27" ed="T"/>故。榮位恩愛。必有別離。如眾飛鳥夜栖一樹。
-<lb n="0786c28" ed="T"/>晨則四散。又如客舍夕則聚賓。明各異路。亦
-<lb n="0786c29" ed="T"/>如乘船。異人同載。既至岸已。各自殊道。亦如
-<pb n="0787a" xml:id="T32.1690.0787a" ed="T"/>
-<lb n="0787a01" ed="T"/>駛流漂集眾木。須臾之間。隨流分散。猶如浮
-<lb n="0787a02" ed="T"/>雲。須臾散滅。作音樂處。男女聚集作樂已
-<lb n="0787a03" ed="T"/><note n="0787001" resp="Taisho" place="foot text" type="orig">後＝訖【三】【宮】</note><note n="0787001" resp="CBETA" type="mod">後＝訖【宋】【元】【明】【宮】</note><app n="0787001"><lem wit="【大】">後</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">訖</rdg></app>。各自散去。宮人婇女端正美妙。無常理
-<lb n="0787a04" ed="T"/>會。會歸捨棄。譬如華樹蜂集其上。花<note n="0787002" resp="Taisho" place="foot text" type="orig">凋＝彫【三】【宮】</note><note n="0787002" resp="CBETA" type="mod">凋＝彫【宋】【元】【明】【宮】</note><app n="0787002"><lem wit="【大】">凋</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">彫</rdg></app>落
-<lb n="0787a05" ed="T"/>盡。諸蜂遠離。如花池枯涸牸象不入。如大池
-<lb n="0787a06" ed="T"/>水<note n="0787003" resp="Taisho" place="foot text" type="orig">鵠＝鶴【三】【宮】＊</note><note n="0787003" resp="CBETA" type="mod">鵠＝鶴【宋】【元】【明】【宮】＊</note><app n="0787003"><lem wit="【大】">鵠</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">鶴</rdg></app>樂遊居。及其乾竭更不復近。福盡之
-<lb n="0787a07" ed="T"/>家。榮利不近。如密雲聚集。電光暫現。如風
-<lb n="0787a08" ed="T"/>吹雲。電光不現。彼不捨汝。汝必捨之。如似
-<lb n="0787a09" ed="T"/>夏盡孔雀毛羽悉皆自落。如寒既至鴻<app type="star" corresp="#0787003"><lem wit="【大】">鵠</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">鶴</rdg></app>遠
-<lb n="0787a10" ed="T"/>池。如阿輸伽樹花葉盛時。人所愛樂及其枯
-<lb n="0787a11" ed="T"/>悴。無有花葉。人不<note n="0787004" resp="Taisho" place="foot text" type="orig">顧＝須【宮】</note><app n="0787004"><lem wit="【大】">顧</lem><rdg resp="Taisho" wit="【宮】">須</rdg></app>視。猶如花幢。貴者愛
-<lb n="0787a12" ed="T"/>敬。華萎縷絕而便棄之。即說偈言。</p>
-<lb n="0787a13" ed="T"/><lg xml:id="lgT32p0787a1301"><l>無常不堅固</l><l>如<app type="star" corresp="#0786014"><lem wit="【大】">芭</lem><rdg resp="Taisho" wit="【宮】">巴</rdg></app>蕉水沫</l>
-<lb n="0787a14" ed="T"/><l>亦如浮雲散</l><l>天王尊勝位</l>
-<lb n="0787a15" ed="T"/><l>危脆亦如是</l><l>人帝應當知</l>
-<lb n="0787a16" ed="T"/><l>貪利極速駛</l><l>如水<note n="0787005" resp="Taisho" place="foot text" type="orig">澍＝注【三】【宮】</note><note n="0787005" resp="CBETA" type="mod">澍＝注【宋】【元】【明】【宮】</note><app n="0787005"><lem wit="【大】">澍</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">注</rdg></app>深谷</l>
-<lb n="0787a17" ed="T"/><l>嗜欲極輕疾</l><l>動轉如掉索</l>
-<lb n="0787a18" ed="T"/><l>愚癡<note n="0787006" resp="Taisho" place="foot text" type="orig">染為欲＝深為谷【三】【宮】</note><note n="0787006" resp="CBETA" type="mod">染為欲＝深為谷【宋】【元】【明】【宮】</note><app n="0787006"><lem wit="【大】">染為欲</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">深為谷</rdg></app></l><l>不覺致墮落</l></lg>
-<lb n="0787a19" ed="T"/><p xml:id="pT32p0787a1901">尊者言。大王。我今為王略說譬喻。諸有生死。
-<lb n="0787a20" ed="T"/>著味過患。王至心聽。昔日有人。行在曠路。逢
-<lb n="0787a21" ed="T"/>大惡象。為象所逐。狂懼走突。無所依怙見一
-<lb n="0787a22" ed="T"/>丘井。即尋樹根。入井中藏。有白黑鼠。牙齧樹
-<lb n="0787a23" ed="T"/>根。此井四邊。有四毒蛇。欲螫其人。而此井
-<lb n="0787a24" ed="T"/>下。有大毒龍。傍畏四蛇。下畏毒龍。所攀之
-<lb n="0787a25" ed="T"/>樹。其根動搖。樹上有蜜<note n="0787007" resp="Taisho" place="foot text" type="orig">三渧＝三滴【宋】【元】【宮】，五滴【明】</note><note n="0787007" resp="CBETA" type="mod">三渧＝三滴【宋】【元】【宮】，＝五滴【明】</note><app n="0787007"><lem wit="【大】">三渧</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">三滴</rdg><rdg resp="Taisho" wit="【明】">五滴</rdg></app>。墮其口中。
-<lb n="0787a26" ed="T"/>于時動樹𢴤壞蜂窠。眾蜂散飛。唼螫其人。有
-<lb n="0787a27" ed="T"/>野火起。復來燒樹。大王當知。彼人苦惱。不可
-<lb n="0787a28" ed="T"/>稱計。王愁憂厭惡而言。彼人得味甚少。苦患
-<lb n="0787a29" ed="T"/>甚多。其所味者。如牛跡水。其所苦患猶如大
-<pb n="0787b" xml:id="T32.1690.0787b" ed="T"/>
-<lb n="0787b01" ed="T"/>海。味如芥子。苦如須彌。味如螢火。苦如日
-<lb n="0787b02" ed="T"/>月。如藕根孔比於<note n="0787008" resp="Taisho" place="foot text" type="orig">太＝大【明】</note><app n="0787008"><lem wit="【大】">太</lem><rdg resp="Taisho" wit="【明】">大</rdg></app>虛。亦如蚊子比金翅
-<lb n="0787b03" ed="T"/>鳥。其味苦惱多少如是。尊者言。大王。曠野
-<lb n="0787b04" ed="T"/>者。喻於生死。彼男子者。喻於凡夫。象喻無
-<lb n="0787b05" ed="T"/>常。丘井喻於人身。樹根喻人命。白黑鼠者。
-<lb n="0787b06" ed="T"/>喻晝夜。齧樹根者。喻念念滅。四毒蛇喻四大。
-<lb n="0787b07" ed="T"/>蜜者喻五欲。<note n="0787009" resp="Taisho" place="foot text" type="orig">眾＝綖【三】【宮】</note><note n="0787009" resp="CBETA" type="mod">眾＝綖【宋】【元】【明】【宮】</note><app n="0787009"><lem wit="【大】">眾</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">綖</rdg></app>蜂喻惡覺觀。野火燒者喻
-<lb n="0787b08" ed="T"/>老。下毒龍者喻死。是故當知。欲味甚少。苦
-<lb n="0787b09" ed="T"/>患甚多。生老病死。於一切人。皆得自在。世
-<lb n="0787b10" ed="T"/>間之人。身心勞苦。無歸依處。眾苦所逼。輕
-<lb n="0787b11" ed="T"/>疾如電。是可憂愁。不應愛著。大王。今我語
-<lb n="0787b12" ed="T"/>王。言雖麁惡。實是利益。王聞是語。衣毛皆
-<lb n="0787b13" ed="T"/>竪。悲喜交集。涕泣流淚。即起合掌。五體投
-<lb n="0787b14" ed="T"/>地。白尊者言。我之嬰愚。無有智慧。我之下
-<lb n="0787b15" ed="T"/>賤。作斯狂言。如是狂言。聽我懺悔。尊者言。
-<lb n="0787b16" ed="T"/>我於今者。以忍出家。無不忍受。我心清淨。
-<lb n="0787b17" ed="T"/>猶如秋月淨無雲翳。王今懺悔。願使大王猶
-<lb n="0787b18" ed="T"/>如天帝得見道跡。王大歡喜。與諸眷屬。作禮
+<lb n="0784c24" ed="T"/><cb:div type="jing"><p xml:id="pT32p0784c2401">欲樂味甚少，憂苦患甚多。是以智者，應修方
+<lb n="0784c25" ed="T"/>便，速離眾欲，勤行淨行。我昔曾聞，千福王
+<lb n="0784c26" ed="T"/>子名優陀延，紹父王位，住拘舍彌城。其城殊
+<lb n="0784c27" ed="T"/>妙寬博嚴淨，晃爛宮觀映飾綺麗，窓牖通
+<lb n="0784c28" ed="T"/>疎交絡珠網。樓觀千萬莊挍此城。街巷相
+<lb n="0784c29" ed="T"/>當，阡陌齊整，市肆充盈，多諸珍寶。其城周
+<pb n="0785a" ed="T" xml:id="T32.1690.0785a"/>
+<lb n="0785a01" ed="T"/>匝有好林苑，樹木翠蔚，花果茂盛，泉流清
+<lb n="0785a02" ed="T"/>潔，生眾蓮華，青黃赤白文色相映。鴻鴈鴛
+<lb n="0785a03" ed="T"/>鴦、孔雀鸚鵡、迦陵頻伽命命之鳥，其聲相
+<lb n="0785a04" ed="T"/>和猶如樂音。<note resp="Taisho" n="0785001" place="foot text" type="orig">壯麗＝莊嚴【三】【宮】</note><note resp="CBETA" n="0785001" type="mod">壯麗＝莊嚴【宋】【元】【明】【宮】</note><app n="0785001"><lem wit="【大】">壯麗</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">莊嚴</rdg></app>之盛，如<note resp="Taisho" n="0785002" place="foot text" type="orig">奇羅娑＝寄羅婆【三】【宮】</note><note resp="CBETA" n="0785002" type="mod">奇羅娑＝寄羅婆【宋】【元】【明】【宮】</note><app n="0785002"><lem wit="【大】">奇羅娑</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">寄羅婆</rdg></app>山王，
+<lb n="0785a05" ed="T"/>崇巖峻岳而自莊嚴，又像帝釋所居喜見之
+<lb n="0785a06" ed="T"/>城。優陀延王，形貌端正威相具足、聰明黠
+<lb n="0785a07" ed="T"/>慧、武勇絕倫，才<note resp="Taisho" n="0785003" place="foot text" type="orig">伎＝技【明】</note><app n="0785003"><lem wit="【大】">伎</lem><rdg resp="Taisho" wit="【明】">技</rdg></app>兼<note resp="Taisho" n="0785004" place="foot text" type="orig">備＝修【三】【宮】</note><note resp="CBETA" n="0785004" type="mod">備＝修【宋】【元】【明】【宮】</note><app n="0785004"><lem wit="【大】">備</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">修</rdg></app>靡所不知。善能
+<lb n="0785a08" ed="T"/>呪象，令諸山象咸來赴集，又能控御皆令調
+<lb n="0785a09" ed="T"/>順。又善彈琴，和雅中節、宮商相應，鳥獸率
+<lb n="0785a10" ed="T"/>舞。合眾香丸用降<note resp="Taisho" n="0785005" place="foot text" type="orig">怨＝忽【明】</note><app n="0785005"><lem wit="【大】">怨</lem><rdg resp="Taisho" wit="【明】">忽</rdg></app>敵，香氣所及盡來
+<lb n="0785a11" ed="T"/>歸順。善能刻畫，曲得相貌，其所圖像，真形
+<lb n="0785a12" ed="T"/>無異。六十二藝悉皆備具，衣服飲食不尚
+<lb n="0785a13" ed="T"/>豐奢，矜窮敬老、存恤民庶，正法治國日夕
+<lb n="0785a14" ed="T"/>忘倦，禮儀法律一依古典，如昔哲王什奢
+<lb n="0785a15" ed="T"/>之等，國富民殷、庫藏盈溢，福德之人集生
+<lb n="0785a16" ed="T"/>其國，受王風化咸皆修善，博通經學、明解
+<lb n="0785a17" ed="T"/>諸論，世間典籍無不綜練；勇健雄武，如羅
+<lb n="0785a18" ed="T"/>摩延、阿純之等。由王先身辟支佛所種諸善
+<lb n="0785a19" ed="T"/>根，獲報如是。王之威德，隣國畏伏，道化光
+<lb n="0785a20" ed="T"/>被聲聞天下。</p><p rend="inline" xml:id="pT32p0785a2006">時輔相子，名賓頭盧突羅闍。
+<lb n="0785a21" ed="T"/>姿容豐美世所希有，聰明智慧、博聞廣識、
+<lb n="0785a22" ed="T"/>仁慈汎愛，志存濟苦，勸化國民盡修十善，信
+<lb n="0785a23" ed="T"/>樂三寶出家學道，得具足果。遊行教化，還拘
+<lb n="0785a24" ed="T"/>舍彌城，欲度親黨，遍行乞食。乞食已訖，於
+<lb n="0785a25" ed="T"/>林樹下結<note resp="Taisho" n="0785006" place="foot text" type="orig">跏＝加【宋】【宮】</note><app n="0785006"><lem wit="【大】">跏</lem><rdg resp="Taisho" wit="【宋】【宮】">加</rdg></app>趺坐，思惟入定。</p><p rend="inline" xml:id="pT32p0785a2512">時有一人識
+<lb n="0785a26" ed="T"/>賓頭盧，來白王言：「昔輔相子賓頭盧者，今近
+<lb n="0785a27" ed="T"/>在此林中樹下。」王聞歡喜，心懷敬仰，便勅嚴
+<lb n="0785a28" ed="T"/>駕，將諸宮人眷屬僕從詣尊者所。問訊既
+<lb n="0785a29" ed="T"/>竟，命王就坐。王即思惟：「所有疑事，今當問
+<pb n="0785b" ed="T" xml:id="T32.1690.0785b"/>
+<lb n="0785b01" ed="T"/>之。」而作是言：「賓頭盧！今我與爾少小知舊，
+<lb n="0785b02" ed="T"/>汝之祖先世為輔相，聰明智達常為國師。今
+<lb n="0785b03" ed="T"/>既相造，欲問疑事，非相惱觸。為我說不？」</p><p rend="inline" xml:id="pT32p0785b0316">尊者
+<lb n="0785b04" ed="T"/>答言：「恣<note resp="Taisho" n="0785007" place="foot text" type="orig">爾＝今【三】【宮】</note><note resp="CBETA" n="0785007" type="mod">爾＝今【宋】【元】【明】【宮】</note><app n="0785007"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">今</rdg></app>所問，我當為王分別解說。」</p><p rend="inline" xml:id="pT32p0785b0415">王以
+<lb n="0785b05" ed="T"/>偈問曰：</p>
+<lb n="0785b06" ed="T"/><lg xml:id="lgT32p0785b0601" rend="margin-left:1em;text-indent:-1em"><l>「一切世人，</l><l>貪著五欲，</l><l>縱情放逸，</l>
+<lb n="0785b07" ed="T"/><l>以自娛樂。</l><l>如汝今者，</l><l>獨處空閑，</l>
+<lb n="0785b08" ed="T"/><l>捨離恩愛，</l><l>有何榮樂？」</l></lg>
+<lb n="0785b09" ed="T"/><p xml:id="pT32p0785b0901">尊者答言：「我觀因緣皆悉無常，是故出家。以
+<lb n="0785b10" ed="T"/>割情愛，樂於林藪，猶如野鹿。專心勤修，永斷
+<lb n="0785b11" ed="T"/>煩惱，以智慧斧破愛樹枝，心無戀著、毒果消
+<lb n="0785b12" ed="T"/>滅，諸結駛流生死<note resp="Taisho" n="0785008" place="foot text" type="orig">瀑＝暴【三】【宮】</note><note resp="CBETA" n="0785008" type="mod">瀑＝暴【宋】【元】【明】【宮】</note><app n="0785008"><lem wit="【大】">瀑</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">暴</rdg></app>河我已得渡，更無憂
+<lb n="0785b13" ed="T"/>患。譬如飛鳥得免羅網，<note resp="Taisho" n="0785009" place="foot text" type="orig">陵＝凌【三】</note><note resp="CBETA" n="0785009" type="mod">陵＝凌【宋】【元】【明】</note><app n="0785009"><lem wit="【大】">陵</lem><rdg resp="Taisho" wit="【宋】【元】【明】">凌</rdg></app>虛遠逝，名曰解
+<lb n="0785b14" ed="T"/>脫。」</p><p rend="inline" xml:id="pT32p0785b1402">王聞斯語，語賓頭盧：「今我勢力能伏諸
+<lb n="0785b15" ed="T"/>國，威德暉赫有如盛日，首戴天冠、瓔珞盛
+<lb n="0785b16" ed="T"/>服、<note resp="Taisho" n="0785010" place="foot text" type="orig">婇＝采【三】【宮】</note><note resp="CBETA" n="0785010" type="mod">婇＝采【宋】【元】【明】【宮】</note><app n="0785010"><lem wit="【大】">婇</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">采</rdg></app>女侍衛，如天帝釋。汝今獨處，頗羨
+<lb n="0785b17" ed="T"/>我不？」</p><p rend="inline" xml:id="pT32p0785b1703">尊者答言：「我無羨心。」</p><p rend="inline" xml:id="pT32p0785b1711">王復問言：「何故
+<lb n="0785b18" ed="T"/>於我而不願羨？」</p><p rend="inline" xml:id="pT32p0785b1807">尊者答言：「我於今日欲泥已
+<lb n="0785b19" ed="T"/>乾，諸有結縛今已解脫，乃至帝釋諸妙天女
+<lb n="0785b20" ed="T"/><note resp="Taisho" n="0785011" place="foot text" type="orig">尚不生羨＝不生羨尚【三】【宮】</note><note resp="CBETA" n="0785011" type="mod">尚不生羨＝不生羨尚【宋】【元】【明】【宮】</note><app n="0785011"><lem wit="【大】">尚不生羨</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">不生羨尚</rdg></app>，況汝人間鄙穢者乎！誰有智者得
+<lb n="0785b21" ed="T"/>離魔縛、渡生死岸，得淨慧眼、壞無明闇，而
+<lb n="0785b22" ed="T"/>羨王耶？何有明眼羨於盲者？何有強健而羨
+<lb n="0785b23" ed="T"/>病患？何有無罪而羨獄囚？何有巨富羨於貧
+<lb n="0785b24" ed="T"/>窮？何有高貴而羨奴僕？何有智者羨於愚癡？
+<lb n="0785b25" ed="T"/>何有勇健羨於儜弱？」</p><p rend="inline" xml:id="pT32p0785b2509">王聞是已心懷懊惱，而
+<lb n="0785b26" ed="T"/>作是言：「汝作方喻一何苦劇！我寧困劣乃如
+<lb n="0785b27" ed="T"/>是乎？」</p><p rend="inline" xml:id="pT32p0785b2703">尊者答言：「王無慧眼，煩惱所病、四取
+<lb n="0785b28" ed="T"/>駛流之所漂沒，失於勇健、不能精勤。如斯嬰
+<lb n="0785b29" ed="T"/>愚，不識真諦、沈淪苦海，是王之分。於五欲
+<pb n="0785c" ed="T" xml:id="T32.1690.0785c"/>
+<lb n="0785c01" ed="T"/>中生希有想，如此之想實違淨行。」</p><p rend="inline" xml:id="pT32p0785c0114">王復問
+<lb n="0785c02" ed="T"/>言：「有何等過而言違失？」</p><p rend="inline" xml:id="pT32p0785c0210">尊者答言：「此五欲
+<lb n="0785c03" ed="T"/>者眾苦之本，害於眾生所有善根如雹害
+<lb n="0785c04" ed="T"/>苗，螫惱眾生甚於毒蛇，亦如熾火能燒功
+<lb n="0785c05" ed="T"/>德，亦如野馬誑惑凡夫，亦如幻化迷亂惑者。
+<lb n="0785c06" ed="T"/>欲詐親善過於怨家，欲如老牛沒溺<note resp="Taisho" n="0785012" place="foot text" type="orig">污＝淤【明】</note><app n="0785012"><lem wit="【大】">污</lem><rdg resp="Taisho" wit="【明】">淤</rdg></app>泥，
+<lb n="0785c07" ed="T"/>欲如大網纏裹三界，欲如劍道難可履<note resp="Taisho" n="0785013" place="foot text" type="orig">踐＝蹈【三】【宮】</note><note resp="CBETA" n="0785013" type="mod">踐＝蹈【宋】【元】【明】【宮】</note><app n="0785013"><lem wit="【大】">踐</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">蹈</rdg></app>，欲
+<lb n="0785c08" ed="T"/>能繫閉殺害眾生，一切過患皆從欲起。如往
+<lb n="0785c09" ed="T"/>古時有婆須天，由欲因緣，為婆利阿修羅之
+<lb n="0785c10" ed="T"/>所繫縛，擲沸湯中。婆勒天壞阿修羅城<note resp="Taisho" n="0785014" place="foot text" type="orig">墎＝郭【三】【宮】</note><note resp="CBETA" n="0785014" type="mod">墎＝郭【宋】【元】【明】【宮】</note><app n="0785014"><lem wit="【大】">墎</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">郭</rdg></app>，
+<lb n="0785c11" ed="T"/>殄滅其民，惱觸苦婆羅王種，八純提王及彼
+<lb n="0785c12" ed="T"/>百子悉皆誅滅。鼻多羅阿修羅，害於千眼羅
+<lb n="0785c13" ed="T"/>摩、害十<note resp="Taisho" n="0785015" place="foot text" type="orig">頭＝頃【宋】【宮】</note><app n="0785015"><lem wit="【大】">頭</lem><rdg resp="Taisho" wit="【宋】【宮】">頃</rdg></app>羅剎及數千億羅剎之眾。羅漫
+<lb n="0785c14" ed="T"/>害因陀羅<note resp="Taisho" n="0785016" place="foot text" type="orig">且＝具【三】【宮】</note><note resp="CBETA" n="0785016" type="mod">且＝具【宋】【元】【明】【宮】</note><app n="0785016"><lem wit="【大】">且</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">具</rdg></app>翼叉王，摩羅支王滅多摩羅質
+<lb n="0785c15" ed="T"/>種族，迦帝毘<note resp="Taisho" n="0785017" place="foot text" type="orig">〔王〕－【三】【宮】</note><note resp="CBETA" n="0785017" type="mod">〔王〕－【宋】【元】【明】【宮】</note><app n="0785017"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"></space></rdg></app>為閻摩尼婆羅門所殺，毘那
+<lb n="0785c16" ed="T"/>悉那害提頭賴吒眷屬，班<note resp="Taisho" n="0785018" place="foot text" type="orig">細＝紬【三】【宮】</note><note resp="CBETA" n="0785018" type="mod">細＝紬【宋】【元】【明】【宮】</note><app n="0785018"><lem wit="【大】">細</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">紬</rdg></app>五子殺十八億
+<lb n="0785c17" ed="T"/>人，弼匿安毒多羅蹭伽王種、俱羅王種、彌絺
+<lb n="0785c18" ed="T"/>羅檀特伽王種。是等人王，皆為欲故，更相殘
+<lb n="0785c19" ed="T"/>滅。」即說偈言：</p>
+<lb n="0785c20" ed="T"/><lg xml:id="lgT32p0785c2001" rend="margin-left:1em;text-indent:-1em"><l>「王位雖尊嚴，</l><l>代謝不暫停，</l>
+<lb n="0785c21" ed="T"/><l>輕疾如電光，</l><l>須臾歸磨滅。</l>
+<lb n="0785c22" ed="T"/><l>王位極富逸，</l><l>愚者情愛樂，</l>
+<lb n="0785c23" ed="T"/><l>衰滅死時至，</l><l>苦劇過下賤。</l>
+<lb n="0785c24" ed="T"/><l>王者居高位，</l><l>名聞滿四方，</l>
+<lb n="0785c25" ed="T"/><l>端正甚可愛，</l><l>種種自嚴身，</l>
+<lb n="0785c26" ed="T"/><l>譬如臨死<note resp="Taisho" n="0785019" place="foot text" type="orig">者＝時【明】</note><app n="0785019"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【明】">時</rdg></app>，</l><l>著花鬘瓔珞，</l>
+<lb n="0785c27" ed="T"/><l>餘命未幾時，</l><l>王位亦如是。</l>
+<lb n="0785c28" ed="T"/><l>王者譬如<note resp="Taisho" n="0785020" place="foot text" type="orig">烏＝鳥【明】</note><app n="0785020"><lem wit="【大】">烏</lem><rdg resp="Taisho" wit="【明】">鳥</rdg></app>，</l><l>常懷諸恐怖，</l>
+<lb n="0785c29" ed="T"/><l>行住及坐臥，</l><l>乃至一切時，</l>
+<pb n="0786a" ed="T" xml:id="T32.1690.0786a"/>
+<lb n="0786a01" ed="T"/><l>於其親踈中，</l><l>恒有疑懼心。</l>
+<lb n="0786a02" ed="T"/><l>臣民宮妃后，</l><l>象馬及珍寶，</l>
+<lb n="0786a03" ed="T"/><l>國土諸所有，</l><l>一切是王物，</l>
+<lb n="0786a04" ed="T"/><l>諸王捨命時，</l><l>皆棄無隨者。</l>
+<lb n="0786a05" ed="T"/><l>人王及天王，</l><l>阿修羅王等，</l>
+<lb n="0786a06" ed="T"/><l>威力逼人民，</l><l>斧鉞相殘害，</l>
+<lb n="0786a07" ed="T"/><l>不識無常苦，</l><l>橫增貪<note resp="Taisho" n="0786001" place="foot text" type="orig">嫉＝疾【三】【宮】</note><note resp="CBETA" n="0786001" type="mod">嫉＝疾【宋】【元】【明】【宮】</note><app n="0786001"><lem wit="【大】">嫉</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">疾</rdg></app>惱。</l>
+<lb n="0786a08" ed="T"/><l>譬如妙華林，</l><l>金蛇睡在中，</l>
+<lb n="0786a09" ed="T"/><l>愚人謂珍寶，</l><l>盛裏齎歸家，</l>
+<lb n="0786a10" ed="T"/><l>蛇覺縱毒火，</l><l>焚燒其屋宅。</l>
+<lb n="0786a11" ed="T"/><l>王位如華林，</l><l>災患如金蛇，</l>
+<lb n="0786a12" ed="T"/><l>愚人以為貴，</l><l>智者所不樂。</l>
+<lb n="0786a13" ed="T"/><l>譬如以揣肉，</l><l>置四衢道頭，</l>
+<lb n="0786a14" ed="T"/><l>狐狼<note resp="Taisho" n="0786002" place="foot text" type="orig">烏＝鵰【三】【宮】</note><note resp="CBETA" n="0786002" type="mod">烏＝鵰【宋】【元】【明】【宮】</note><app n="0786002"><lem wit="【大】">烏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">鵰</rdg></app>鷲等，</l><l>競來諍食之，</l>
+<lb n="0786a15" ed="T"/><l>王位亦如是，</l><l>眾共諍取之。</l>
+<lb n="0786a16" ed="T"/><l>鳥獸以嘴爪，</l><l><note resp="Taisho" n="0786003" place="foot text" type="orig">抓＝爪【三】【宮】</note><note resp="CBETA" n="0786003" type="mod">抓＝爪【宋】【元】【明】【宮】</note><app n="0786003"><lem wit="【大】">抓</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">爪</rdg></app><app><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">爴<note type="cf1">K30n1039_p0667a01</note></lem><rdg wit="【大】"><g ref="#CB00510"></g></rdg></app>共鬪諍，</l>
+<lb n="0786a17" ed="T"/><l>王者以刀矛，</l><l>相害諍榮位。</l>
+<lb n="0786a18" ed="T"/><l>亦如彼鳥獸，</l><l>愚癡等無異，</l>
+<lb n="0786a19" ed="T"/><l>我寧食灰土，</l><l><note resp="Taisho" n="0786004" place="foot text" type="orig">草＝果【三】【宮】</note><note resp="CBETA" n="0786004" type="mod">草＝果【宋】【元】【明】【宮】</note><app n="0786004"><lem wit="【大】">草</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">果</rdg></app>菜以自存。</l>
+<lb n="0786a20" ed="T"/><l>此身如癰瘡，</l><l><note resp="Taisho" n="0786005" place="foot text" type="orig">會＝食【明】</note><app n="0786005"><lem wit="【大】">會</lem><rdg resp="Taisho" wit="【明】">食</rdg></app>歸當潰爛，</l>
+<lb n="0786a21" ed="T"/><l>云何為此故，</l><l>造作眾惡業？</l>
+<lb n="0786a22" ed="T"/><l>如食<note resp="Taisho" n="0786006" place="foot text" type="orig">欽＝菴【三】【宮】</note><note resp="CBETA" n="0786006" type="mod">欽＝菴【宋】【元】【明】【宮】</note><app n="0786006"><lem wit="【大】">欽</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">菴</rdg></app>婆果，</l><l>香味悉具足，</l>
+<lb n="0786a23" ed="T"/><l>及其果消時，</l><l>身體盡爛壞，</l>
+<lb n="0786a24" ed="T"/><l>王位如彼果，</l><l>失滅生苦惱。</l>
+<lb n="0786a25" ed="T"/><l>譬如有方土，</l><l>災疫行疾病，</l>
+<lb n="0786a26" ed="T"/><l>有智諸勝人，</l><l>宜應速遠離。</l>
+<lb n="0786a27" ed="T"/><l>若不遠離者，</l><l>如逆風執炬，</l>
+<lb n="0786a28" ed="T"/><l>不捨必自燒；</l><l>如渴飲醎水，</l>
+<lb n="0786a29" ed="T"/><l>無有飽足時。</l><l>如十頭羅剎，</l>
+<pb n="0786b" ed="T" xml:id="T32.1690.0786b"/>
+<lb n="0786b01" ed="T"/><l>城郭及眷屬，</l><l>為欲因緣故，</l>
+<lb n="0786b02" ed="T"/><l>滅壞無<note resp="Taisho" n="0786007" place="foot text" type="orig">有＝遺【三】【宮】</note><note resp="CBETA" n="0786007" type="mod">有＝遺【宋】【元】【明】【宮】</note><app n="0786007"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">遺</rdg></app>餘。</l><l>又如寄越王，</l>
+<lb n="0786b03" ed="T"/><l>兄弟有百人，</l><l>為欲因緣故，</l>
+<lb n="0786b04" ed="T"/><l>亦皆盡敗滅。</l><l>日種槃趙王，</l>
+<lb n="0786b05" ed="T"/><l>及提頭賴吒，</l><l>如是諸王等，</l>
+<lb n="0786b06" ed="T"/><l>盡為欲所滅。</l></lg>
+<lb n="0786b07" ed="T"/><p xml:id="pT32p0786b0701">「當知國土猶如羅網，亦如羂弶，如深淤泥，亦
+<lb n="0786b08" ed="T"/>如洄波，又如海浪，如林被燒，亦如危岸，猶如
+<lb n="0786b09" ed="T"/>地獄，<note resp="Taisho" n="0786008" place="foot text" type="orig">何＝誰【三】【宮】＊</note><note resp="CBETA" n="0786008" type="mod">何＝誰【宋】【元】【明】【宮】＊</note><app n="0786008"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">誰</rdg></app>有智者當樂貪著？如是大苦，<app corresp="#0786008" type="star"><lem wit="【大】">何</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">誰</rdg></app>有
+<lb n="0786b10" ed="T"/>智者當生樂想？如是大王！嗚呼怪哉，被欺乃
+<lb n="0786b11" ed="T"/>爾！被誑乃爾！猶如空拳誑於小兒，速疾不
+<lb n="0786b12" ed="T"/>停猶如幻化，五欲欺誑亦復如是。猶如<note resp="Taisho" n="0786009" place="foot text" type="orig">猿＝猨【三】【宮】</note><note resp="CBETA" n="0786009" type="mod">猿＝猨【宋】【元】【明】【宮】</note><app n="0786009"><lem wit="【大】">猿</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">猨</rdg></app>
+<lb n="0786b13" ed="T"/>猴在<note resp="Taisho" n="0786010" place="foot text" type="orig">高＝嵩【宋】【宮】</note><app n="0786010"><lem wit="【大】">高</lem><rdg resp="Taisho" wit="【宋】【宮】">嵩</rdg></app>山頂，見雲彌布以為堅實，謂為是地
+<lb n="0786b14" ed="T"/>便以身投，墮百丈巖喪其身命，一切碎滅。亦
+<lb n="0786b15" ed="T"/>如野干見甄叔迦樹其果似肉，見落地時便
+<lb n="0786b16" ed="T"/>往欲食，知其非肉，更復生念：『今此非肉。彼
+<lb n="0786b17" ed="T"/>樹上者必當是肉。』遂便守之，為其所困。五欲
+<lb n="0786b18" ed="T"/>誑王亦復如是。亦如商<note resp="Taisho" n="0786011" place="foot text" type="orig">估＝賈【三】【宮】</note><note resp="CBETA" n="0786011" type="mod">估＝賈【宋】【元】【明】【宮】</note><app n="0786011"><lem wit="【大】">估</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">賈</rdg></app>以偽珠誑人，五
+<lb n="0786b19" ed="T"/>欲誑王亦復如是。又如嬰愚嗜味<note resp="Taisho" n="0786012" place="foot text" type="orig">貪＝食【三】【宮】</note><note resp="CBETA" n="0786012" type="mod">貪＝食【宋】【元】【明】【宮】</note><app n="0786012"><lem wit="【大】">貪</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">食</rdg></app>歡喜
+<lb n="0786b20" ed="T"/>丸，人以泥團而來誑之，謂為真實，走<note resp="Taisho" n="0786013" place="foot text" type="orig">逐＝遂【三】</note><note resp="CBETA" n="0786013" type="mod">逐＝遂【宋】【元】【明】</note><app n="0786013"><lem wit="【大】">逐</lem><rdg resp="Taisho" wit="【宋】【元】【明】">遂</rdg></app>疲
+<lb n="0786b21" ed="T"/>苦乃得泥團，如熱時焰誑渴愚夫。猶如眾
+<lb n="0786b22" ed="T"/>人前竪於幻橛，能使時眾見種種事；若拔幻
+<lb n="0786b23" ed="T"/>橛，色像即滅，猶如畫匠及機關師。如狗吠
+<lb n="0786b24" ed="T"/>井自見形影，怒眼竪毛，謂井底影欲共己鬪，
+<lb n="0786b25" ed="T"/>橫生瞋忿投井而死。大王！宜善觀察，何有五
+<lb n="0786b26" ed="T"/>欲而得常者？何有王位而得久停？尊豪威勢
+<lb n="0786b27" ed="T"/>無得住者。何有國界而不遷壞？何有珍寶而
+<lb n="0786b28" ed="T"/>不散失？何有欲樂常恒不變？苦之封授必受
+<lb n="0786b29" ed="T"/>衰滅。何有合會而不別離？一切五欲體性實
+<pb n="0786c" ed="T" xml:id="T32.1690.0786c"/>
+<lb n="0786c01" ed="T"/>苦，皆從妄想而生於樂。何有諸行不似<note resp="Taisho" n="0786014" place="foot text" type="orig">芭＝巴【宮】＊</note><app n="0786014"><lem wit="【大】">芭</lem><rdg resp="Taisho" wit="【宮】">巴</rdg></app>蕉、
+<lb n="0786c02" ed="T"/><note resp="Taisho" n="0786015" place="foot text" type="orig">揵＝乾【三】【宮】</note><note resp="CBETA" n="0786015" type="mod">揵＝乾【宋】【元】【明】【宮】</note><app n="0786015"><lem wit="【大】">揵</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">乾</rdg></app>闥婆城？大王！云何處生老病死衰禍恐怖
+<lb n="0786c03" ed="T"/>逼迫之中，云何能為國<note resp="Taisho" n="0786016" place="foot text" type="orig">土＝王【宮】</note><app n="0786016"><lem wit="【大】">土</lem><rdg resp="Taisho" wit="【宮】">王</rdg></app>少樂生愛樂想？
+<lb n="0786c04" ed="T"/>如林中鹿四邊火起，如鳥在籠，如魚處網，如
+<lb n="0786c05" ed="T"/>龜吞鉤，如師子毒箭入心，如龍處呪場，如人
+<lb n="0786c06" ed="T"/>在屋中四邊火起，如處危朽華堂速疾崩墜，
+<lb n="0786c07" ed="T"/>如好華池有水羅剎噏食於人。」重說偈言：</p>
+<lb n="0786c08" ed="T"/><lg xml:id="lgT32p0786c0801" rend="margin-left:1em;text-indent:-1em"><l>「生老病死患，</l><l>於中未解脫，</l>
+<lb n="0786c09" ed="T"/><l>無明愛毒箭，</l><l>猶未得拔出，</l>
+<lb n="0786c10" ed="T"/><l>人帝汝云何，</l><l>而生樂著想？</l>
+<lb n="0786c11" ed="T"/><l>如象處林中，</l><l>四邊大火起，</l>
+<lb n="0786c12" ed="T"/><l>處此急難處，</l><l>云何有歡<note resp="Taisho" n="0786017" place="foot text" type="orig">喜＝樂【三】【宮】</note><note resp="CBETA" n="0786017" type="mod">喜＝樂【宋】【元】【明】【宮】</note><app n="0786017"><lem wit="【大】">喜</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">樂</rdg></app>？</l>
+<lb n="0786c13" ed="T"/><l>大王應當知，</l><l>榮位須臾<note resp="Taisho" n="0786018" place="foot text" type="orig">間＝問【宮】</note><app n="0786018"><lem wit="【大】">間</lem><rdg resp="Taisho" wit="【宮】">問</rdg></app>，</l>
+<lb n="0786c14" ed="T"/><l>智者深觀察，</l><l>不應於此事，</l>
+<lb n="0786c15" ed="T"/><l>而生希有想。</l><l>汝何故錯解？</l>
+<lb n="0786c16" ed="T"/><l>實是愛奴僕，</l><l>而生高貴想；</l>
+<lb n="0786c17" ed="T"/><l>捨上妙財寶，</l><l>而生大富想；</l>
+<lb n="0786c18" ed="T"/><l>不善解方便，</l><l>橫生智慧想；</l>
+<lb n="0786c19" ed="T"/><l>為眾煩惱患，</l><l>橫生無病想；</l>
+<lb n="0786c20" ed="T"/><l>未脫生死胎，</l><l>橫生無畏想；</l>
+<lb n="0786c21" ed="T"/><l>處十二刺林，</l><l>橫生無刺想；</l>
+<lb n="0786c22" ed="T"/><l>欲賊劫諸根，</l><l>橫生無賊想。</l></lg>
+<lb n="0786c23" ed="T"/><p xml:id="pT32p0786c2301">「大王！而此身者必歸敗壞，尊豪榮貴必有衰
+<lb n="0786c24" ed="T"/>滅，財寶庫藏必有散失。大王！如佛言曰：
+<lb n="0786c25" ed="T"/>『榮位如夢，恩愛暫有。』汝於五欲生於希有難
+<lb n="0786c26" ed="T"/>遭之想，賢德於此豈得名為能善觀察？何以
+<lb n="0786c27" ed="T"/>故？榮位恩愛必有別離，如眾飛鳥，夜栖一樹，
+<lb n="0786c28" ed="T"/>晨則四散。又如客舍，夕則聚賓，明各異路。亦
+<lb n="0786c29" ed="T"/>如乘船，異人同載，既至岸已各自殊道。亦如
+<pb n="0787a" ed="T" xml:id="T32.1690.0787a"/>
+<lb n="0787a01" ed="T"/>駛流漂集眾木，須臾之間隨流分散。猶如浮
+<lb n="0787a02" ed="T"/>雲，須臾散滅。作音樂處男女聚集，作樂已
+<lb n="0787a03" ed="T"/><note resp="Taisho" n="0787001" place="foot text" type="orig">後＝訖【三】【宮】</note><note resp="CBETA" n="0787001" type="mod">後＝訖【宋】【元】【明】【宮】</note><app n="0787001"><lem wit="【大】">後</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">訖</rdg></app>各自散去。宮人婇女端正美妙，無常理
+<lb n="0787a04" ed="T"/>會，會歸捨棄。譬如華樹蜂集其上，花<note resp="Taisho" n="0787002" place="foot text" type="orig">凋＝彫【三】【宮】</note><note resp="CBETA" n="0787002" type="mod">凋＝彫【宋】【元】【明】【宮】</note><app n="0787002"><lem wit="【大】">凋</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">彫</rdg></app>落
+<lb n="0787a05" ed="T"/>盡諸蜂遠離。如花池枯涸，牸象不入。如大池
+<lb n="0787a06" ed="T"/>水<note resp="Taisho" n="0787003" place="foot text" type="orig">鵠＝鶴【三】【宮】＊</note><note resp="CBETA" n="0787003" type="mod">鵠＝鶴【宋】【元】【明】【宮】＊</note><app n="0787003"><lem wit="【大】">鵠</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">鶴</rdg></app>樂遊居，及其乾竭更不復近。福盡之
+<lb n="0787a07" ed="T"/>家，榮利不近。如密雲聚集，電光暫現；如風
+<lb n="0787a08" ed="T"/>吹雲，電光不現。彼不捨汝，汝必捨之。如似
+<lb n="0787a09" ed="T"/>夏盡，孔雀毛羽悉皆自落。如寒既至，鴻<app corresp="#0787003" type="star"><lem wit="【大】">鵠</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">鶴</rdg></app>遠
+<lb n="0787a10" ed="T"/>池。如阿輸伽樹花葉盛時，人所愛樂及其枯
+<lb n="0787a11" ed="T"/>悴；無有花葉，人不<note resp="Taisho" n="0787004" place="foot text" type="orig">顧＝須【宮】</note><app n="0787004"><lem wit="【大】">顧</lem><rdg resp="Taisho" wit="【宮】">須</rdg></app>視。猶如花幢，貴者愛
+<lb n="0787a12" ed="T"/>敬，華萎縷絕而便棄之。」即說偈言：</p>
+<lb n="0787a13" ed="T"/><lg xml:id="lgT32p0787a1301" rend="margin-left:1em;text-indent:-1em"><l>「無常不堅固，</l><l>如<app corresp="#0786014" type="star"><lem wit="【大】">芭</lem><rdg resp="Taisho" wit="【宮】">巴</rdg></app>蕉水沫，</l>
+<lb n="0787a14" ed="T"/><l>亦如浮雲散，</l><l>天王尊勝位，</l>
+<lb n="0787a15" ed="T"/><l>危脆亦如是。</l><l>人帝應當知，</l>
+<lb n="0787a16" ed="T"/><l>貪利極速駛，</l><l>如水<note resp="Taisho" n="0787005" place="foot text" type="orig">澍＝注【三】【宮】</note><note resp="CBETA" n="0787005" type="mod">澍＝注【宋】【元】【明】【宮】</note><app n="0787005"><lem wit="【大】">澍</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">注</rdg></app>深谷；</l>
+<lb n="0787a17" ed="T"/><l>嗜欲極輕疾，</l><l>動轉如掉索；</l>
+<lb n="0787a18" ed="T"/><l>愚癡<note resp="Taisho" n="0787006" place="foot text" type="orig">染為欲＝深為谷【三】【宮】</note><note resp="CBETA" n="0787006" type="mod">染為欲＝深為谷【宋】【元】【明】【宮】</note><app n="0787006"><lem wit="【大】">染為欲</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">深為谷</rdg></app>，</l><l>不覺致墮落。」</l></lg>
+<lb n="0787a19" ed="T"/><p xml:id="pT32p0787a1901">尊者言：「大王！我今為王略說譬喻，諸有生死
+<lb n="0787a20" ed="T"/>著味過患，王至心聽。昔日有人行在曠路，逢
+<lb n="0787a21" ed="T"/>大惡象，為象所逐，狂懼走突無所依怙，見一
+<lb n="0787a22" ed="T"/>丘井即尋樹根入井中藏，有白黑鼠牙齧樹
+<lb n="0787a23" ed="T"/>根，此井四邊有四毒蛇欲螫其人，而此井
+<lb n="0787a24" ed="T"/>下有大毒龍。傍畏四蛇、下畏毒龍、所攀之
+<lb n="0787a25" ed="T"/>樹其根動搖，樹上有蜜<note resp="Taisho" n="0787007" place="foot text" type="orig">三渧＝三滴【宋】【元】【宮】，五滴【明】</note><note resp="CBETA" n="0787007" type="mod">三渧＝三滴【宋】【元】【宮】，＝五滴【明】</note><app n="0787007"><lem wit="【大】">三渧</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">三滴</rdg><rdg resp="Taisho" wit="【明】">五滴</rdg></app>墮其口中，
+<lb n="0787a26" ed="T"/>于時動樹𢴤壞蜂窠，眾蜂散飛唼螫其人，有
+<lb n="0787a27" ed="T"/>野火起復來燒樹。大王當知，彼人苦惱不可
+<lb n="0787a28" ed="T"/>稱計。」</p><p rend="inline" xml:id="pT32p0787a2803">王愁憂厭惡而言：「彼人得味甚少，苦患
+<lb n="0787a29" ed="T"/>甚多。其所味者如牛跡水，其所苦患猶如大
+<pb n="0787b" ed="T" xml:id="T32.1690.0787b"/>
+<lb n="0787b01" ed="T"/>海，味如芥子、苦如須彌，味如螢火、苦如日
+<lb n="0787b02" ed="T"/>月，如藕根孔比於<note resp="Taisho" n="0787008" place="foot text" type="orig">太＝大【明】</note><app n="0787008"><lem wit="【大】">太</lem><rdg resp="Taisho" wit="【明】">大</rdg></app>虛，亦如蚊子比金翅
+<lb n="0787b03" ed="T"/>鳥，其味苦惱多少如是。」</p><p rend="inline" xml:id="pT32p0787b0310">尊者言：「大王！曠野
+<lb n="0787b04" ed="T"/>者，喻於生死。彼男子者，喻於凡夫。象，喻無
+<lb n="0787b05" ed="T"/>常。丘井，喻於人身。樹根，喻人命。白黑鼠者，
+<lb n="0787b06" ed="T"/>喻晝夜。齧樹根者，喻念念滅。四毒蛇，喻四大。
+<lb n="0787b07" ed="T"/>蜜者，喻五欲。<note resp="Taisho" n="0787009" place="foot text" type="orig">眾＝綖【三】【宮】</note><note resp="CBETA" n="0787009" type="mod">眾＝綖【宋】【元】【明】【宮】</note><app n="0787009"><lem wit="【大】">眾</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">綖</rdg></app>蜂，喻惡覺觀。野火燒者，喻
+<lb n="0787b08" ed="T"/>老。下毒龍者，喻死。是故當知，欲味甚少、苦
+<lb n="0787b09" ed="T"/>患甚多。生老病死於一切人皆得自在，世
+<lb n="0787b10" ed="T"/>間之人身心勞苦無歸依處，眾苦所逼輕
+<lb n="0787b11" ed="T"/>疾如電，是可憂愁，不應愛著。大王？今我語
+<lb n="0787b12" ed="T"/>王，言雖麁惡，實是利益。」</p><p rend="inline" xml:id="pT32p0787b1210">王聞是語，衣毛皆
+<lb n="0787b13" ed="T"/>竪，悲喜交集，涕泣流淚。即起合掌，五體投
+<lb n="0787b14" ed="T"/>地，白尊者言：「我之嬰愚無有智慧，我之下
+<lb n="0787b15" ed="T"/>賤作斯狂言，如是狂言聽我懺悔。」</p><p rend="inline" xml:id="pT32p0787b1514">尊者言：
+<lb n="0787b16" ed="T"/>「我於今者以忍出家，無不忍受。我心清淨，
+<lb n="0787b17" ed="T"/>猶如秋月淨無雲翳。王今懺悔，願使大王猶
+<lb n="0787b18" ed="T"/>如天帝得見道跡。」</p><p rend="inline" xml:id="pT32p0787b1808">王大歡喜，與諸眷屬作禮
 <lb n="0787b19" ed="T"/>還宮。</p>
-<lb n="0787b20" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><note n="0787010" resp="Taisho" place="foot text" type="orig">（（賓頭…經））十四字＝（（賓頭盧經一卷））六字【宋】【元】【宮】</note><app cb:word-count="14" n="0787010"><lem wit="【大】">賓頭盧突羅闍為優陀延王說<note n="0787011" resp="Taisho" place="foot text" type="orig">法＋（緣）【明】</note><app n="0787011"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【明】">法緣</rdg></app>經</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">賓頭盧經一卷</rdg></app></cb:jhead></cb:juan></cb:div>
+<lb n="0787b20" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><note resp="Taisho" n="0787010" place="foot text" type="orig">（（賓頭…經））十四字＝（（賓頭盧經一卷））六字【宋】【元】【宮】</note><app n="0787010" cb:word-count="14"><lem wit="【大】">賓頭盧突羅闍為優陀延王說<note resp="Taisho" n="0787011" place="foot text" type="orig">法＋（緣）【明】</note><app n="0787011"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【明】">法緣</rdg></app>經</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">賓頭盧經一卷</rdg></app></cb:jhead></cb:juan></cb:div>
 </body></text></TEI>
