@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T12n0389"><teiHeader><fileDesc>
+<?xml version="1.0" encoding="UTF-8" ?>
+<TEI xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T12n0389" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc>
 <titleStmt>
 <title>Taisho Tripitaka, Electronic version, No. 0389 佛垂般涅槃略說教誡經</title>
 <author>姚秦 鳩摩羅什譯</author>
@@ -15,8 +15,8 @@
 <sourceDesc><bibl>Taisho Tripitaka Vol. 12, No. 389</bibl></sourceDesc></fileDesc>
 <encodingDesc><projectDesc>
 <p>This is a very preliminary format-conversion.</p>
-<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as inputted by Mr. Tseng Kuo-Feng, Punctuated text as provided by Mr. Zhang Zhao-Yu, Others</p>
-<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，曾國豐大德輸入，張曌昱大德提供新式標點，其他</p>
+<p cb:type="ly" xml:lang="en">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as inputted by Mr. Tseng Kuo-Feng, Punctuated text as provided by Mr. Zhang Zhao-Yu, Re-proofing punctuated text as provided by Mr. Zhang Ge-Feng, Others</p>
+<p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，曾國豐大德輸入，張曌昱大德提供新式標點，張革豐大德提供新式標點重校，其他</p>
 </projectDesc>
 </encodingDesc>
 <profileDesc>
@@ -69,168 +69,168 @@ add cvs log
  </revisionDesc>
 </teiHeader>
 <text><body>
-<lb n="1110c10" ed="T"/>
+<lb ed="T" n="1110c10"/>
 <milestone n="1" unit="juan"/>
 <lb n="1110c11" ed="T"/>
 <lb n="1110c12" ed="T"/><cb:docNumber>No. 389</cb:docNumber>
-<lb n="1110c13" ed="T"/><cb:div type="jing"><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>佛垂般涅槃略說教誡經</title><note n="1110001" resp="Taisho" type="orig" place="foot text">〔亦名…經〕－【宋】【宮】</note><app n="1110001" cb:word-count="6"><lem wit="【大】"><note place="inline">亦名<app><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】"><space quantity="0"/><note type="cf1">K13n0453_p1180a01</note><note type="cf2">T55n2154_p0604a26</note></lem><rdg wit="【大】">佛</rdg></app>遺教經</note></lem><rdg resp="Taisho" wit="【宋】【宮】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
-<lb n="1110c14" ed="T"/>
-<lb n="1110c15" ed="T"/><byline cb:type="Translator"><note n="1110002" resp="Taisho" type="orig" place="foot text">譯號姚秦三藏法師鳩摩羅什譯【三】【宮】</note><note n="1110002" resp="CBETA" type="mod">譯號姚秦三藏法師鳩摩羅什譯【宋】【元】【明】【宮】</note>後秦龜茲國三藏鳩摩羅什
+<lb n="1110c13" ed="T"/><cb:div type="jing"><cb:juan fun="open" n="001"><cb:mulu n="001" type="卷"/><cb:jhead><title>佛垂般涅槃略說教誡經</title><note place="foot text" type="orig" resp="Taisho" n="1110001">〔亦名…經〕－【宋】【宮】</note><app n="1110001" cb:word-count="6"><lem wit="【大】"><note place="inline">亦名<app><lem wit="【CBETA】【麗】" resp="CBETA.maha CBETA.say"><space quantity="0"></space><note type="cf1">K13n0453_p1180a01</note><note type="cf2">T55n2154_p0604a26</note></lem><rdg wit="【大】">佛</rdg></app>遺教經</note></lem><rdg resp="Taisho" wit="【宋】【宮】"><space quantity="0"></space></rdg></app></cb:jhead></cb:juan>
+<lb ed="T" n="1110c14"/>
+<lb ed="T" n="1110c15"/><byline cb:type="Translator"><note type="orig" place="foot text" n="1110002" resp="Taisho">譯號姚秦三藏法師鳩摩羅什譯【三】【宮】</note><note type="mod" resp="CBETA" n="1110002">譯號姚秦三藏法師鳩摩羅什譯【宋】【元】【明】【宮】</note>後秦龜茲國三藏鳩摩羅什
 <lb n="1110c16" ed="T"/>奉　詔譯</byline>
-<lb n="1110c17" ed="T"/><p xml:id="pT12p1110c1701">釋迦牟尼佛初轉法輪，度阿若憍陳如，最後
-<lb n="1110c18" ed="T"/>說法度須跋陀羅，所應度者皆已度訖，於娑
+<lb ed="T" n="1110c17"/><p xml:id="pT12p1110c1701">釋迦牟尼佛初轉法輪，度阿若憍陳如，最後
+<lb ed="T" n="1110c18"/>說法度須跋陀羅，所應度者皆已度訖，於娑
 <lb n="1110c19" ed="T"/>羅雙樹間將入涅槃。是時中夜寂然無聲，為
-<lb n="1110c20" ed="T"/>諸弟子略說法要：「汝等比丘，於我滅後，當尊
-<lb n="1110c21" ed="T"/>重珍敬波羅提木叉。如闇遇明、貧人得寶，當
+<lb ed="T" n="1110c20"/>諸弟子略說法要：「汝等比丘，於我滅後，當尊
+<lb ed="T" n="1110c21"/>重珍敬波羅提木叉，如闇遇明、貧人得寶。當
 <lb n="1110c22" ed="T"/>知此則是汝大師，若我住世無異此也。持淨
-<lb n="1110c23" ed="T"/>戒者，不得販賣貿易、安置田宅、畜養人民奴
-<lb n="1110c24" ed="T"/>婢畜生，一切種<note n="1110003" resp="Taisho" type="orig" place="foot text">殖＝植【三】【宮】</note><note n="1110003" resp="CBETA" type="mod">殖＝植【宋】【元】【明】【宮】</note><app n="1110003"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">植</rdg></app>及諸財寶，皆當遠離如避
+<lb ed="T" n="1110c23"/>戒者，不得販賣貿易、安置田宅、畜養人民奴
+<lb ed="T" n="1110c24"/>婢畜生，一切種<note type="orig" place="foot text" n="1110003" resp="Taisho">殖＝植【三】【宮】</note><note type="mod" resp="CBETA" n="1110003">殖＝植【宋】【元】【明】【宮】</note><app n="1110003"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">植</rdg></app>及諸財寶，皆當遠離如避
 <lb n="1110c25" ed="T"/>火坑。不得斬伐草木、墾土掘地，合和湯藥、占
-<lb n="1110c26" ed="T"/>相吉凶、仰觀星宿推步盈虛<note n="1110004" resp="Taisho" type="orig" place="foot text">曆＝歷【三】【宮】</note><note n="1110004" resp="CBETA" type="mod">曆＝歷【宋】【元】【明】【宮】</note><app n="1110004"><lem wit="【大】">曆</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">歷</rdg></app>數算計，皆所
+<lb ed="T" n="1110c26"/>相吉凶、仰觀星宿推步盈虛、<note type="orig" place="foot text" n="1110004" resp="Taisho">曆＝歷【三】【宮】</note><note resp="CBETA" n="1110004" type="mod">曆＝歷【宋】【元】【明】【宮】</note><app n="1110004"><lem wit="【大】">曆</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">歷</rdg></app>數算計，皆所
 <lb n="1110c27" ed="T"/>不應。節身時食清淨自活，不得參預世事通
-<lb n="1110c28" ed="T"/>致使命，呪術仙藥、結好貴人親厚媟<note n="1110005" resp="Taisho" type="orig" place="foot text">嫚＝慢【三】【宮】</note><note n="1110005" resp="CBETA" type="mod">嫚＝慢【宋】【元】【明】【宮】</note><app n="1110005"><lem wit="【大】">嫚</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">慢</rdg></app>，皆
-<lb n="1110c29" ed="T"/>不應作。當自端心正念求度，不得<note n="1110006" resp="Taisho" type="orig" place="foot text">苞＝包【三】【宮】</note><note n="1110006" resp="CBETA" type="mod">苞＝包【宋】【元】【明】【宮】</note><app n="1110006"><lem wit="【大】">苞</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">包</rdg></app>藏<note n="1110007" resp="Taisho" type="orig" place="foot text">瑕＝瘕【宋】【宮】</note><app n="1110007"><lem wit="【大】">瑕</lem><rdg resp="Taisho" wit="【宋】【宮】">瘕</rdg></app>
-<pb n="1111a" xml:id="T12.0389.1111a" ed="T"/>
+<lb ed="T" n="1110c28"/>致使命，呪術仙藥、結好貴人親厚媟<note type="orig" place="foot text" n="1110005" resp="Taisho">嫚＝慢【三】【宮】</note><note type="mod" n="1110005" resp="CBETA">嫚＝慢【宋】【元】【明】【宮】</note><app n="1110005"><lem wit="【大】">嫚</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">慢</rdg></app>，皆
+<lb ed="T" n="1110c29"/>不應作。當自端心正念求度，不得<note resp="Taisho" n="1110006" place="foot text" type="orig">苞＝包【三】【宮】</note><note resp="CBETA" n="1110006" type="mod">苞＝包【宋】【元】【明】【宮】</note><app n="1110006"><lem wit="【大】">苞</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">包</rdg></app>藏<note resp="Taisho" n="1110007" place="foot text" type="orig">瑕＝瘕【宋】【宮】</note><app n="1110007"><lem wit="【大】">瑕</lem><rdg resp="Taisho" wit="【宋】【宮】">瘕</rdg></app>
+<pb ed="T" n="1111a" xml:id="T12.0389.1111a"/>
 <lb n="1111a01" ed="T"/>疵、顯異惑眾。於四供養知量知足，趣得供事
-<lb n="1111a02" ed="T"/>不應<note n="1111001" resp="Taisho" type="orig" place="foot text">稸＝畜【三】【宮】</note><note n="1111001" resp="CBETA" type="mod">稸＝畜【宋】【元】【明】【宮】</note><app n="1111001"><lem wit="【大】">稸</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">畜</rdg></app>積，此則略說持戒之相。戒是正順解
-<lb n="1111a03" ed="T"/>脫之本，故名波羅提木叉。依因此戒，得生諸
+<lb n="1111a02" ed="T"/>不應<note resp="Taisho" n="1111001" place="foot text" type="orig">稸＝畜【三】【宮】</note><note resp="CBETA" n="1111001" type="mod">稸＝畜【宋】【元】【明】【宮】</note><app n="1111001"><lem wit="【大】">稸</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">畜</rdg></app>積。此則略說持戒之相。戒是正順解
+<lb ed="T" n="1111a03"/>脫之本，故名波羅提木叉。依因此戒，得生諸
 <lb n="1111a04" ed="T"/>禪定及滅苦智慧。是故比丘，當持淨戒勿令
-<lb n="1111a05" ed="T"/>毀<note n="1111002" resp="Taisho" type="orig" place="foot text">犯＝缺【三】【宮】</note><note n="1111002" resp="CBETA" type="mod">犯＝缺【宋】【元】【明】【宮】</note><app n="1111002"><lem wit="【大】">犯</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">缺</rdg></app>。若人能持淨戒，是則能有善法。若無淨
-<lb n="1111a06" ed="T"/>戒，諸善功德皆不得生。是以當知，戒為第一
-<lb n="1111a07" ed="T"/>安隱功德之所住處。</p>
-<lb n="1111a08" ed="T"/><p xml:id="pT12p1111a0801">「汝等比丘，已能住戒當制五根，勿令放逸入
-<lb n="1111a09" ed="T"/>於五欲。譬如牧牛之人執杖視之，不令縱逸
-<lb n="1111a10" ed="T"/>犯人苗稼；若縱五根，非唯五欲將無<note n="1111003" resp="Taisho" type="orig" place="foot text">崖＝涯【元】【明】</note><app n="1111003"><lem wit="【大】">崖</lem><rdg resp="Taisho" wit="【元】【明】">涯</rdg></app>畔不
-<lb n="1111a11" ed="T"/>可制也，亦如惡馬不以轡制，將當牽人墜於
-<lb n="1111a12" ed="T"/>坑<note n="1111004" resp="Taisho" type="orig" place="foot text">陷＝埳【三】【宮】</note><note n="1111004" resp="CBETA" type="mod">陷＝埳【宋】【元】【明】【宮】</note><app n="1111004"><lem wit="【大】">陷</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">埳</rdg></app>，如被劫害苦止一世；五根賊禍殃及累
-<lb n="1111a13" ed="T"/>世，為害甚重，不可不慎。是故智者制而不隨，
+<lb n="1111a05" ed="T"/>毀<note resp="Taisho" n="1111002" place="foot text" type="orig">犯＝缺【三】【宮】</note><note type="mod" n="1111002" resp="CBETA">犯＝缺【宋】【元】【明】【宮】</note><app n="1111002"><lem wit="【大】">犯</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">缺</rdg></app>。若人能持淨戒，是則能有善法；若無淨
+<lb ed="T" n="1111a06"/>戒，諸善功德皆不得生。是以當知，戒為第一
+<lb ed="T" n="1111a07"/>安隱功德之所住處。</p>
+<lb ed="T" n="1111a08"/><p xml:id="pT12p1111a0801">「汝等比丘，已能住戒當制五根，勿令放逸入
+<lb n="1111a09" ed="T"/>於五欲，譬如牧牛之人執杖視之，不令縱逸
+<lb ed="T" n="1111a10"/>犯人苗稼。若縱五根，非唯五欲將無<note resp="Taisho" n="1111003" place="foot text" type="orig">崖＝涯【元】【明】</note><app n="1111003"><lem wit="【大】">崖</lem><rdg resp="Taisho" wit="【元】【明】">涯</rdg></app>畔不
+<lb ed="T" n="1111a11"/>可制也，亦如惡馬不以轡制，將當牽人墜於
+<lb ed="T" n="1111a12"/>坑<note resp="Taisho" n="1111004" place="foot text" type="orig">陷＝埳【三】【宮】</note><note type="mod" resp="CBETA" n="1111004">陷＝埳【宋】【元】【明】【宮】</note><app n="1111004"><lem wit="【大】">陷</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">埳</rdg></app>。如被劫害苦止一世，五根賊禍殃及累
+<lb ed="T" n="1111a13"/>世，為害甚重，不可不慎。是故智者制而不隨，
 <lb n="1111a14" ed="T"/>持之如賊不令縱逸；假令縱之，皆亦不久見
-<lb n="1111a15" ed="T"/>其磨滅。此五根者，心為其主。是故汝等當
-<lb n="1111a16" ed="T"/>好制心，心之可畏，甚於毒蛇、惡獸怨賊、大火
-<lb n="1111a17" ed="T"/>越逸，未足喻也，<note n="1111005" resp="Taisho" type="orig" place="foot text">（喻如一人手執蜜器）＋動【明】</note><app n="1111005"><lem wit="【大】">動</lem><rdg resp="Taisho" wit="【明】">喻如一人手執蜜器動</rdg></app>轉輕躁，但觀於蜜不見深
-<lb n="1111a18" ed="T"/>坑，譬如狂象無鈎，猿猴得樹騰躍<note n="1111006" resp="Taisho" type="orig" place="foot text">跳＝踔【三】【宮】</note><note n="1111006" resp="CBETA" type="mod">跳＝踔【宋】【元】【明】【宮】</note><app n="1111006"><lem wit="【大】">跳</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">踔</rdg></app>躑，難
-<lb n="1111a19" ed="T"/>可禁制，當急挫之無令放逸。縱此心者喪人
+<lb ed="T" n="1111a15"/>其磨滅。此五根者，心為其主。是故汝等當
+<lb n="1111a16" ed="T"/>好制心，心之可畏甚於毒蛇、惡獸、怨賊，大火
+<lb n="1111a17" ed="T"/>越逸，未足喻也。<note place="foot text" type="orig" resp="Taisho" n="1111005">（喻如一人手執蜜器）＋動【明】</note><app n="1111005"><lem wit="【大】">動</lem><rdg resp="Taisho" wit="【明】">喻如一人手執蜜器動</rdg></app>轉輕躁，但觀於蜜不見深
+<lb n="1111a18" ed="T"/>坑，譬如狂象無鈎、猿猴得樹，騰躍<note place="foot text" type="orig" resp="Taisho" n="1111006">跳＝踔【三】【宮】</note><note type="mod" n="1111006" resp="CBETA">跳＝踔【宋】【元】【明】【宮】</note><app n="1111006"><lem wit="【大】">跳</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">踔</rdg></app>躑，難
+<lb ed="T" n="1111a19"/>可禁制，當急挫之無令放逸。縱此心者喪人
 <lb n="1111a20" ed="T"/>善事，制之一處無事不辦。是故比丘，當勤精
-<lb n="1111a21" ed="T"/>進折伏<note n="1111007" resp="Taisho" type="orig" place="foot text">其＝汝【三】【宮】</note><note n="1111007" resp="CBETA" type="mod">其＝汝【宋】【元】【明】【宮】</note><app n="1111007"><lem wit="【大】">其</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">汝</rdg></app>心。</p>
-<lb n="1111a22" ed="T"/><p xml:id="pT12p1111a2201">「汝等比丘，受諸飲食當<note n="1111008" resp="Taisho" type="orig" place="foot text">如＝汝【明】</note><app n="1111008"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【明】">汝</rdg></app>服藥，於好於惡勿
-<lb n="1111a23" ed="T"/>生增減，趣得支身以除飢渴。如蜂採花，但取
-<lb n="1111a24" ed="T"/>其味不損色香。比丘亦爾，受人供養<note n="1111009" resp="Taisho" type="orig" place="foot text">取＝趣【三】【宮】</note><note n="1111009" resp="CBETA" type="mod">取＝趣【宋】【元】【明】【宮】</note><app n="1111009"><lem wit="【大】">取</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">趣</rdg></app>自除
-<lb n="1111a25" ed="T"/>惱，無得多求壞其善心。譬如智者籌量牛力
+<lb ed="T" n="1111a21"/>進折伏<note type="orig" place="foot text" n="1111007" resp="Taisho">其＝汝【三】【宮】</note><note type="mod" n="1111007" resp="CBETA">其＝汝【宋】【元】【明】【宮】</note><app n="1111007"><lem wit="【大】">其</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">汝</rdg></app>心。</p>
+<lb ed="T" n="1111a22"/><p xml:id="pT12p1111a2201">「汝等比丘，受諸飲食當<note n="1111008" resp="Taisho" type="orig" place="foot text">如＝汝【明】</note><app n="1111008"><lem wit="【大】">如</lem><rdg wit="【明】" resp="Taisho">汝</rdg></app>服藥，於好於惡勿
+<lb ed="T" n="1111a23"/>生增減，趣得支身以除飢渴。如蜂採花，但取
+<lb ed="T" n="1111a24"/>其味不損色香；比丘亦爾，受人供養<note resp="Taisho" n="1111009" place="foot text" type="orig">取＝趣【三】【宮】</note><note type="mod" resp="CBETA" n="1111009">取＝趣【宋】【元】【明】【宮】</note><app n="1111009"><lem wit="【大】">取</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">趣</rdg></app>自除
+<lb ed="T" n="1111a25"/>惱，無得多求壞其善心。譬如智者籌量牛力
 <lb n="1111a26" ed="T"/>所堪多少，不令過分以竭其力。</p>
-<lb n="1111a27" ed="T"/><p xml:id="pT12p1111a2701">「汝等比丘，晝則勤心修習善法無令失時，初
+<lb ed="T" n="1111a27"/><p xml:id="pT12p1111a2701">「汝等比丘，晝則勤心修習善法，無令失時，初
 <lb n="1111a28" ed="T"/>夜後夜亦勿有廢，中夜誦經以自消息，無以
-<lb n="1111a29" ed="T"/>睡眠因緣令一生空過無所得也。當念無常
-<pb n="1111b" xml:id="T12.0389.1111b" ed="T"/>
+<lb ed="T" n="1111a29"/>睡眠因緣令一生空過無所得也。當念無常
+<pb xml:id="T12.0389.1111b" n="1111b" ed="T"/>
 <lb n="1111b01" ed="T"/>之火燒諸世間，早求自度勿睡眠也。諸煩惱
-<lb n="1111b02" ed="T"/>賊常伺殺人，甚於怨家，安可睡眠不自<note n="1111010" resp="Taisho" type="orig" place="foot text">驚＝警【三】【宮】</note><note n="1111010" resp="CBETA" type="mod">驚＝警【宋】【元】【明】【宮】</note><app n="1111010"><lem wit="【大】">驚</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">警</rdg></app>
-<lb n="1111b03" ed="T"/><note n="1111011" resp="Taisho" type="orig" place="foot text">寤＝悟【宋】【宮】</note><app n="1111011"><lem wit="【大】">寤</lem><rdg resp="Taisho" wit="【宋】【宮】">悟</rdg></app>？煩惱毒蛇睡在汝心，譬如黑蚖在汝室
-<lb n="1111b04" ed="T"/>睡，當以持戒之鉤早<note n="1111012" resp="Taisho" type="orig" place="foot text">摒＝屏【宋】【明】【宮】</note><app n="1111012"><lem wit="【大】">摒</lem><rdg resp="Taisho" wit="【宋】【明】【宮】">屏</rdg></app>除之。睡蛇既出乃可
-<lb n="1111b05" ed="T"/>安<note n="1111013" resp="Taisho" type="orig" place="foot text">睡＝眠【三】【宮】</note><note n="1111013" resp="CBETA" type="mod">睡＝眠【宋】【元】【明】【宮】【麗-CB】【CB】</note><app n="1111013"><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">眠<note type="cf1">K13n0453_p1180c12</note><note type="cf2">T26n1529_p0286b05</note></lem><rdg wit="【大】">睡</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">眠</rdg></app>，不出而眠是無慚人也。慚恥之服，於
+<lb ed="T" n="1111b02"/>賊常伺殺人，甚於怨家，安可睡眠不自<note place="foot text" type="orig" resp="Taisho" n="1111010">驚＝警【三】【宮】</note><note type="mod" resp="CBETA" n="1111010">驚＝警【宋】【元】【明】【宮】</note><app n="1111010"><lem wit="【大】">驚</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">警</rdg></app>
+<lb n="1111b03" ed="T"/><note type="orig" place="foot text" n="1111011" resp="Taisho">寤＝悟【宋】【宮】</note><app n="1111011"><lem wit="【大】">寤</lem><rdg resp="Taisho" wit="【宋】【宮】">悟</rdg></app>？煩惱毒蛇睡在汝心，譬如黑蚖在汝室
+<lb ed="T" n="1111b04"/>睡，當以持戒之鉤早<note n="1111012" resp="Taisho" type="orig" place="foot text">摒＝屏【宋】【明】【宮】</note><app n="1111012"><lem wit="【大】">摒</lem><rdg resp="Taisho" wit="【宋】【明】【宮】">屏</rdg></app>除之。睡蛇既出乃可
+<lb ed="T" n="1111b05"/>安<note type="orig" place="foot text" n="1111013" resp="Taisho">睡＝眠【三】【宮】</note><note n="1111013" resp="CBETA" type="mod">睡＝眠【宋】【元】【明】【宮】【麗-CB】【CB】</note><app n="1111013"><lem wit="【CBETA】【麗】" resp="CBETA.maha CBETA.say">眠<note type="cf1">K13n0453_p1180c12</note><note type="cf2">T26n1529_p0286b05</note></lem><rdg wit="【大】">睡</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">眠</rdg></app>，不出而眠是無慚人也。慚恥之服，於
 <lb n="1111b06" ed="T"/>諸莊嚴最為第一，慚如鐵鉤，能制人非法。是
-<lb n="1111b07" ed="T"/>故比丘，常當慚恥，<note n="1111014" resp="Taisho" type="orig" place="foot text">無＝勿【三】【宮】＊</note><note n="1111014" resp="CBETA" type="mod">無＝勿【宋】【元】【明】【宮】＊</note><app n="1111014"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">勿</rdg></app>得暫替，若離慚恥則
+<lb n="1111b07" ed="T"/>故比丘，常當慚恥，<note resp="Taisho" n="1111014" place="foot text" type="orig">無＝勿【三】【宮】＊</note><note type="mod" resp="CBETA" n="1111014">無＝勿【宋】【元】【明】【宮】＊</note><app n="1111014"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">勿</rdg></app>得暫替；若離慚恥則
 <lb n="1111b08" ed="T"/>失諸功德。有愧之人則有善法；若無愧者，與
 <lb n="1111b09" ed="T"/>諸禽獸無相異也。</p>
-<lb n="1111b10" ed="T"/><p xml:id="pT12p1111b1001">「汝等比丘，若有人來節節支解，當自攝心無
-<lb n="1111b11" ed="T"/>令瞋恨，亦當護口勿出惡言，若縱恚心則自
-<lb n="1111b12" ed="T"/>妨道、失功德利。忍之為德，持戒苦行所不能
-<lb n="1111b13" ed="T"/>及。能行忍者乃可名為有力大人；若其不能
-<lb n="1111b14" ed="T"/>歡喜忍受惡罵之毒如飲甘露者，不名入道
-<lb n="1111b15" ed="T"/>智慧人也。所以者何？瞋恚之害<note n="1111015" resp="Taisho" type="orig" place="foot text">能＝則【三】【宮】</note><note n="1111015" resp="CBETA" type="mod">能＝則【宋】【元】【明】【宮】</note><app n="1111015"><lem wit="【大】">能</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">則</rdg></app>破諸善法、
+<lb ed="T" n="1111b10"/><p xml:id="pT12p1111b1001">「汝等比丘，若有人來節節支解，當自攝心無
+<lb ed="T" n="1111b11"/>令瞋恨，亦當護口勿出惡言；若縱恚心，則自
+<lb ed="T" n="1111b12"/>妨道、失功德利。忍之為德，持戒苦行所不能
+<lb n="1111b13" ed="T"/>及。能行忍者，乃可名為有力大人；若其不能
+<lb ed="T" n="1111b14"/>歡喜忍受惡罵之毒如飲甘露者，不名入道
+<lb ed="T" n="1111b15"/>智慧人也。所以者何？瞋恚之害<note n="1111015" resp="Taisho" type="orig" place="foot text">能＝則【三】【宮】</note><note type="mod" n="1111015" resp="CBETA">能＝則【宋】【元】【明】【宮】</note><app n="1111015"><lem wit="【大】">能</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">則</rdg></app>破諸善法、
 <lb n="1111b16" ed="T"/>壞好名聞，今世後世人不憙見。當知瞋心甚
-<lb n="1111b17" ed="T"/>於猛火，常當防護<app type="star" corresp="#1111014"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">勿</rdg></app>令得入，劫功德賊無過
+<lb n="1111b17" ed="T"/>於猛火，常當防護<app type="star" corresp="#1111014"><lem wit="【大】">無</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">勿</rdg></app>令得入，劫功德賊無過
 <lb n="1111b18" ed="T"/>瞋恚。白衣受欲非行道人，無法自制，瞋猶可
-<lb n="1111b19" ed="T"/>恕；出家行道無欲之人，而懷瞋恚，甚不可也。
-<lb n="1111b20" ed="T"/>譬如清冷雲<note n="1111016" resp="Taisho" type="orig" place="foot text">中＋（而有）【宋】【宮】</note><app n="1111016"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【宋】【宮】">中而有</rdg></app>霹靂起火，非所應也。</p>
-<lb n="1111b21" ed="T"/><p xml:id="pT12p1111b2101">「汝等比丘，當自摩頭，<note n="1111017" resp="Taisho" type="orig" place="foot text">已＝以【三】【宮】</note><note n="1111017" resp="CBETA" type="mod">已＝以【宋】【元】【明】【宮】</note><app n="1111017"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">以</rdg></app>捨飾好著壞色衣，
-<lb n="1111b22" ed="T"/>執持應器以乞自活，自見如是，若起憍慢當
-<lb n="1111b23" ed="T"/>疾滅之。<note n="1111018" resp="Taisho" type="orig" place="foot text">謂＝增【三】【宮】</note><note n="1111018" resp="CBETA" type="mod">謂＝增【宋】【元】【明】【宮】</note><app n="1111018"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">增</rdg></app>長憍慢尚非世俗白衣所宜，何況
-<lb n="1111b24" ed="T"/>出家入道之人，為解脫故自降其<note n="1111019" resp="Taisho" type="orig" place="foot text">心＝身【元】【明】</note><app n="1111019"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【元】【明】">身</rdg></app>而行乞
-<lb n="1111b25" ed="T"/><note n="1111020" resp="Taisho" type="orig" place="foot text">耶＝也【三】【宮】</note><note n="1111020" resp="CBETA" type="mod">耶＝也【宋】【元】【明】【宮】</note><app n="1111020"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">也</rdg></app>？</p><p xml:id="pT12p1111b2502" rend="inline">「汝等比丘，諂曲之心與道相違，是故宜
+<lb ed="T" n="1111b19"/>恕；出家行道無欲之人，而懷瞋恚，甚不可也。
+<lb n="1111b20" ed="T"/>譬如清冷雲<note place="foot text" type="orig" resp="Taisho" n="1111016">中＋（而有）【宋】【宮】</note><app n="1111016"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【宋】【宮】">中而有</rdg></app>霹靂起火，非所應也。</p>
+<lb n="1111b21" ed="T"/><p xml:id="pT12p1111b2101">「汝等比丘，當自摩頭，<note resp="Taisho" n="1111017" place="foot text" type="orig">已＝以【三】【宮】</note><note type="mod" n="1111017" resp="CBETA">已＝以【宋】【元】【明】【宮】</note><app n="1111017"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">以</rdg></app>捨飾好著壞色衣，
+<lb ed="T" n="1111b22"/>執持應器以乞自活，自見如是，若起憍慢當
+<lb ed="T" n="1111b23"/>疾滅之。<note type="orig" place="foot text" n="1111018" resp="Taisho">謂＝增【三】【宮】</note><note resp="CBETA" n="1111018" type="mod">謂＝增【宋】【元】【明】【宮】</note><app n="1111018"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">增</rdg></app>長憍慢尚非世俗白衣所宜，何況
+<lb ed="T" n="1111b24"/>出家入道之人為解脫故，自降其<note type="orig" place="foot text" n="1111019" resp="Taisho">心＝身【元】【明】</note><app n="1111019"><lem wit="【大】">心</lem><rdg wit="【元】【明】" resp="Taisho">身</rdg></app>而行乞
+<lb n="1111b25" ed="T"/><note resp="Taisho" n="1111020" place="foot text" type="orig">耶＝也【三】【宮】</note><note type="mod" resp="CBETA" n="1111020">耶＝也【宋】【元】【明】【宮】</note><app n="1111020"><lem wit="【大】">耶</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">也</rdg></app>？</p><p xml:id="pT12p1111b2502" rend="inline">「汝等比丘，諂曲之心與道相違，是故宜
 <lb n="1111b26" ed="T"/>應質直其心。當知諂曲但為欺誑，入道之人
-<lb n="1111b27" ed="T"/>則無是處。是故汝等，宜應端心以質直為本。</p>
-<lb n="1111b28" ed="T"/><p xml:id="pT12p1111b2801">「汝等比丘，當知多欲之人多求利故，苦惱亦
+<lb n="1111b27" ed="T"/>則無是處。是故汝等宜應端心，以質直為本。</p>
+<lb ed="T" n="1111b28"/><p xml:id="pT12p1111b2801">「汝等比丘，當知多欲之人多求利故，苦惱亦
 <lb n="1111b29" ed="T"/>多；少欲之人無求無欲，則無此患。直爾少欲
-<pb n="1111c" xml:id="T12.0389.1111c" ed="T"/>
-<lb n="1111c01" ed="T"/>尚應修習，何況少欲能生諸<note n="1111021" resp="Taisho" type="orig" place="foot text">〔善〕－【三】【宮】</note><note n="1111021" resp="CBETA" type="mod">〔善〕－【宋】【元】【明】【宮】</note><app n="1111021"><lem wit="【大】">善</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>功德！少欲之
-<lb n="1111c02" ed="T"/>人則無諂曲以求人意，亦復不為諸根所牽。
-<lb n="1111c03" ed="T"/>行少欲者，心則坦然無所憂畏，觸事有餘常
+<pb ed="T" xml:id="T12.0389.1111c" n="1111c"/>
+<lb n="1111c01" ed="T"/>尚應修習，何況少欲能生諸<note resp="Taisho" n="1111021" place="foot text" type="orig">〔善〕－【三】【宮】</note><note type="mod" n="1111021" resp="CBETA">〔善〕－【宋】【元】【明】【宮】</note><app n="1111021"><lem wit="【大】">善</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho"><space quantity="0"></space></rdg></app>功德？少欲之
+<lb ed="T" n="1111c02"/>人則無諂曲以求人意，亦復不為諸根所牽。
+<lb ed="T" n="1111c03"/>行少欲者，心則坦然無所憂畏，觸事有餘常
 <lb n="1111c04" ed="T"/>無不足，有少欲者則有涅槃。是名少欲。</p>
-<lb n="1111c05" ed="T"/><p xml:id="pT12p1111c0501">「汝等比丘，若欲脫諸苦惱，當觀知足，知足之
-<lb n="1111c06" ed="T"/>法即是富樂安隱之處。知足之人，雖臥地上
+<lb ed="T" n="1111c05"/><p xml:id="pT12p1111c0501">「汝等比丘，若欲脫諸苦惱，當觀知足，知足之
+<lb ed="T" n="1111c06"/>法即是富樂安隱之處。知足之人，雖臥地上
 <lb n="1111c07" ed="T"/>猶為安樂；不知足者，雖處天堂亦不稱意。不
-<lb n="1111c08" ed="T"/>知足者雖富而貧，知足之人雖貧而富。不知
-<lb n="1111c09" ed="T"/>足者常為五欲所牽，為知足者之所憐愍。是
+<lb ed="T" n="1111c08"/>知足者雖富而貧，知足之人雖貧而富。不知
+<lb ed="T" n="1111c09"/>足者常為五欲所牽，為知足者之所憐愍。是
 <lb n="1111c10" ed="T"/>名知足。</p>
-<lb n="1111c11" ed="T"/><p xml:id="pT12p1111c1101">「汝等比丘，<note n="1111022" resp="Taisho" type="orig" place="foot text">若＝欲【三】</note><note n="1111022" resp="CBETA" type="mod">若＝欲【宋】【元】【明】</note><app n="1111022"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【宋】【元】【明】">欲</rdg></app>求寂靜無為安樂，當離憒<note n="1111023" resp="Taisho" type="orig" place="foot text">閙＝內【明】</note><app n="1111023"><lem wit="【大】">閙</lem><rdg resp="Taisho" wit="【明】">內</rdg></app>、
+<lb ed="T" n="1111c11"/><p xml:id="pT12p1111c1101">「汝等比丘，<note n="1111022" resp="Taisho" type="orig" place="foot text">若＝欲【三】</note><note n="1111022" resp="CBETA" type="mod">若＝欲【宋】【元】【明】</note><app n="1111022"><lem wit="【大】">若</lem><rdg wit="【宋】【元】【明】" resp="Taisho">欲</rdg></app>求寂靜無為安樂，當離憒<note n="1111023" resp="Taisho" type="orig" place="foot text">閙＝內【明】</note><app n="1111023"><lem wit="【大】">閙</lem><rdg wit="【明】" resp="Taisho">內</rdg></app>、
 <lb n="1111c12" ed="T"/>獨處閑居，靜處之人帝釋諸天所共敬重。是
 <lb n="1111c13" ed="T"/>故當捨己眾他眾，空閑獨處思滅苦本。若樂
 <lb n="1111c14" ed="T"/>眾者則受眾惱，譬如大樹眾鳥集之，則有枯
 <lb n="1111c15" ed="T"/>折之患。世間縛著沒於眾苦，譬如老象溺泥
-<lb n="1111c16" ed="T"/>不能自出。是名遠離。</p>
-<lb n="1111c17" ed="T"/><p xml:id="pT12p1111c1701">「汝等比丘，若勤精進則事無難者，是故汝等，
+<lb ed="T" n="1111c16"/>不能自出。是名遠離。</p>
+<lb n="1111c17" ed="T"/><p xml:id="pT12p1111c1701">「汝等比丘，若勤精進則事無難者，是故汝等
 <lb n="1111c18" ed="T"/>當勤精進，譬如小水常流則能穿石。若行者
 <lb n="1111c19" ed="T"/>之心數數懈廢，譬如鑽火未熱而息，雖欲得
-<lb n="1111c20" ed="T"/>火，火難可得。是名精進。</p>
-<lb n="1111c21" ed="T"/><p xml:id="pT12p1111c2101">「汝等比丘，求善知識、求善護助<note n="1111024" resp="Taisho" type="orig" place="foot text">而＝無如【三】，如【宮】</note><note n="1111024" resp="CBETA" type="mod">而＝無如【宋】【元】【明】，＝如【宮】</note><app n="1111024"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【宋】【元】【明】">無如</rdg><rdg resp="Taisho" wit="【宮】">如</rdg></app>不忘念，
-<lb n="1111c22" ed="T"/><note n="1111025" resp="Taisho" type="orig" place="foot text">若＋（有）【三】【宮】</note><note n="1111025" resp="CBETA" type="mod">若＋（有）【宋】【元】【明】【宮】</note><app n="1111025"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">若有</rdg></app>不忘念者，諸煩惱賊則不能入，是故汝
-<lb n="1111c23" ed="T"/>等，常當攝念在心；若失念者則失諸功德。若
+<lb ed="T" n="1111c20"/>火，火難可得。是名精進。</p>
+<lb n="1111c21" ed="T"/><p xml:id="pT12p1111c2101">「汝等比丘，求善知識、求善護助<note resp="Taisho" n="1111024" place="foot text" type="orig">而＝無如【三】，如【宮】</note><note n="1111024" resp="CBETA" type="mod">而＝無如【宋】【元】【明】，＝如【宮】</note><app n="1111024"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【宋】【元】【明】">無如</rdg><rdg wit="【宮】" resp="Taisho">如</rdg></app>不忘念；
+<lb ed="T" n="1111c22"/><note type="orig" place="foot text" n="1111025" resp="Taisho">若＋（有）【三】【宮】</note><note type="mod" n="1111025" resp="CBETA">若＋（有）【宋】【元】【明】【宮】</note><app n="1111025"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">若有</rdg></app>不忘念者，諸煩惱賊則不能入。是故汝
+<lb n="1111c23" ed="T"/>等常當攝念在心，若失念者則失諸功德。若
 <lb n="1111c24" ed="T"/>念力堅強，雖入五欲賊中不為所害，譬如著
 <lb n="1111c25" ed="T"/>鎧入陣則無所畏。是名不忘念。</p>
 <lb n="1111c26" ed="T"/><p xml:id="pT12p1111c2601">「汝等比丘，若攝心者心則在定，心在定故能
-<lb n="1111c27" ed="T"/>知世間生滅法相，是故汝等，常當精勤修<note n="1111026" resp="Taisho" type="orig" place="foot text">集＝習【三】</note><note n="1111026" resp="CBETA" type="mod">集＝習【宋】【元】【明】</note><app n="1111026"><lem wit="【大】">集</lem><rdg resp="Taisho" wit="【宋】【元】【明】">習</rdg></app>
-<lb n="1111c28" ed="T"/>諸定，若得定者心則不<note n="1111027" resp="Taisho" type="orig" place="foot text">亂＝散【三】【宮】</note><note n="1111027" resp="CBETA" type="mod">亂＝散【宋】【元】【明】【宮】</note><app n="1111027"><lem wit="【大】">亂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">散</rdg></app>，譬如惜水之家善
-<lb n="1111c29" ed="T"/>治堤塘。行者<note n="1111028" resp="Taisho" type="orig" place="foot text">〔亦爾〕－【宮】</note><app n="1111028"><lem wit="【大】">亦爾</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>，為智慧水故，善<note n="1111029" resp="Taisho" type="orig" place="foot text">修＝治【宮】</note><app n="1111029"><lem wit="【大】">修</lem><rdg resp="Taisho" wit="【宮】">治</rdg></app>禪定
-<pb n="1112a" xml:id="T12.0389.1112a" ed="T"/>
-<lb n="1112a01" ed="T"/>令不漏失。是名為定。</p>
+<lb n="1111c27" ed="T"/>知世間生滅法相。是故汝等常當精勤修<note place="foot text" type="orig" resp="Taisho" n="1111026">集＝習【三】</note><note n="1111026" resp="CBETA" type="mod">集＝習【宋】【元】【明】</note><app n="1111026"><lem wit="【大】">集</lem><rdg wit="【宋】【元】【明】" resp="Taisho">習</rdg></app>
+<lb ed="T" n="1111c28"/>諸定，若得定者心則不<note place="foot text" type="orig" resp="Taisho" n="1111027">亂＝散【三】【宮】</note><note n="1111027" resp="CBETA" type="mod">亂＝散【宋】【元】【明】【宮】</note><app n="1111027"><lem wit="【大】">亂</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">散</rdg></app>，譬如惜水之家善
+<lb n="1111c29" ed="T"/>治堤塘；行者<note n="1111028" resp="Taisho" type="orig" place="foot text">〔亦爾〕－【宮】</note><app n="1111028"><lem wit="【大】">亦爾</lem><rdg wit="【宮】" resp="Taisho"><space quantity="0"></space></rdg></app>，為智慧水故，善<note resp="Taisho" n="1111029" place="foot text" type="orig">修＝治【宮】</note><app n="1111029"><lem wit="【大】">修</lem><rdg resp="Taisho" wit="【宮】">治</rdg></app>禪定
+<pb ed="T" n="1112a" xml:id="T12.0389.1112a"/>
+<lb ed="T" n="1112a01"/>令不漏失。是名為定。</p>
 <lb n="1112a02" ed="T"/><p xml:id="pT12p1112a0201">「汝等比丘，若有智慧則無貪著，常自省察不
-<lb n="1112a03" ed="T"/>令有失，是則於我法中能得解脫；若不爾者，
+<lb ed="T" n="1112a03"/>令有失，是則於我法中能得解脫；若不爾者，
 <lb n="1112a04" ed="T"/>既非道人又非白衣，無所名也。實智慧者，則
-<lb n="1112a05" ed="T"/>是度老病死海堅牢船也，亦是無明黑闇大
-<lb n="1112a06" ed="T"/>明燈也，一切病<note n="1112001" resp="Taisho" type="orig" place="foot text">苦＝者【三】【宮】</note><note n="1112001" resp="CBETA" type="mod">苦＝者【宋】【元】【明】【宮】</note><app n="1112001"><lem wit="【大】">苦</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">者</rdg></app>之良藥也，伐煩惱樹<note n="1112002" resp="Taisho" type="orig" place="foot text">〔者〕－【三】【宮】</note><note n="1112002" resp="CBETA" type="mod">〔者〕－【宋】【元】【明】【宮】</note><app n="1112002"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>
-<lb n="1112a07" ed="T"/>之利斧也。是故汝等，當以聞思修慧而自增
-<lb n="1112a08" ed="T"/>益。若人有智慧之照，雖<note n="1112003" resp="Taisho" type="orig" place="foot text">無天＝是肉【三】，無慧【宮】</note><note n="1112003" resp="CBETA" type="mod">無天＝是肉【宋】【元】【明】，＝無慧【宮】</note><app n="1112003"><lem wit="【大】">無天</lem><rdg resp="Taisho" wit="【宋】【元】【明】">是肉</rdg><rdg resp="Taisho" wit="【宮】">無慧</rdg></app>眼而是明見人
-<lb n="1112a09" ed="T"/>也。是為智慧。</p>
-<lb n="1112a10" ed="T"/><p xml:id="pT12p1112a1001">「汝等比丘，若種種戲論其心則亂，雖復出家
-<lb n="1112a11" ed="T"/>猶未得脫。是故比丘，當急捨離亂心戲論。
-<lb n="1112a12" ed="T"/><note n="1112004" resp="Taisho" type="orig" place="foot text">若汝＝汝若【宋】【宮】</note><app n="1112004"><lem wit="【大】">若汝</lem><rdg resp="Taisho" wit="【宋】【宮】">汝若</rdg></app>欲得寂滅樂者，唯當善滅戲論之患。是
+<lb ed="T" n="1112a05"/>是度老病死海堅牢船也，亦是無明黑闇大
+<lb n="1112a06" ed="T"/>明燈也，一切病<note type="orig" place="foot text" n="1112001" resp="Taisho">苦＝者【三】【宮】</note><note resp="CBETA" n="1112001" type="mod">苦＝者【宋】【元】【明】【宮】</note><app n="1112001"><lem wit="【大】">苦</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">者</rdg></app>之良藥也，伐煩惱樹<note resp="Taisho" n="1112002" place="foot text" type="orig">〔者〕－【三】【宮】</note><note resp="CBETA" n="1112002" type="mod">〔者〕－【宋】【元】【明】【宮】</note><app n="1112002"><lem wit="【大】">者</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho"><space quantity="0"></space></rdg></app>
+<lb n="1112a07" ed="T"/>之利斧也。是故汝等當以聞、思、修慧而自增
+<lb n="1112a08" ed="T"/>益；若人有智慧之照，雖<note place="foot text" type="orig" resp="Taisho" n="1112003">無天＝是肉【三】，無慧【宮】</note><note n="1112003" resp="CBETA" type="mod">無天＝是肉【宋】【元】【明】，＝無慧【宮】</note><app n="1112003"><lem wit="【大】">無天</lem><rdg wit="【宋】【元】【明】" resp="Taisho">是肉</rdg><rdg wit="【宮】" resp="Taisho">無慧</rdg></app>眼而是明見人
+<lb ed="T" n="1112a09"/>也。是為智慧。</p>
+<lb ed="T" n="1112a10"/><p xml:id="pT12p1112a1001">「汝等比丘，若種種戲論其心則亂，雖復出家
+<lb ed="T" n="1112a11"/>猶未得脫。是故比丘，當急捨離亂心戲論；
+<lb ed="T" n="1112a12"/><note n="1112004" resp="Taisho" type="orig" place="foot text">若汝＝汝若【宋】【宮】</note><app n="1112004"><lem wit="【大】">若汝</lem><rdg wit="【宋】【宮】" resp="Taisho">汝若</rdg></app>欲得寂滅樂者，唯當善滅戲論之患。是
 <lb n="1112a13" ed="T"/>名不戲論。</p>
 <lb n="1112a14" ed="T"/><p xml:id="pT12p1112a1401">「汝等比丘，於諸功德常當一心，捨諸放逸如
-<lb n="1112a15" ed="T"/>離怨賊。大悲世尊所<note n="1112005" resp="Taisho" type="orig" place="foot text">欲＝說【三】</note><note n="1112005" resp="CBETA" type="mod">欲＝說【宋】【元】【明】</note><app n="1112005"><lem wit="【大】">欲</lem><rdg resp="Taisho" wit="【宋】【元】【明】">說</rdg></app>利益皆以究竟，汝等
-<lb n="1112a16" ed="T"/>但當勤而行之。若<note n="1112006" resp="Taisho" type="orig" place="foot text">在＝於【三】【宮】</note><note n="1112006" resp="CBETA" type="mod">在＝於【宋】【元】【明】【宮】</note><app n="1112006"><lem wit="【大】">在</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">於</rdg></app>山間、若空澤中，若在樹
-<lb n="1112a17" ed="T"/>下、閑處靜室，念所受法勿令忘失，常當自勉
-<lb n="1112a18" ed="T"/>精進修之，無為空死後致<note n="1112007" resp="Taisho" type="orig" place="foot text">憂＝有【三】【宮】</note><note n="1112007" resp="CBETA" type="mod">憂＝有【宋】【元】【明】【宮】</note><app n="1112007"><lem wit="【大】">憂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">有</rdg></app>悔。我如良醫，知
+<lb ed="T" n="1112a15"/>離怨賊。大悲世尊所<note n="1112005" resp="Taisho" type="orig" place="foot text">欲＝說【三】</note><note resp="CBETA" n="1112005" type="mod">欲＝說【宋】【元】【明】</note><app n="1112005"><lem wit="【大】">欲</lem><rdg wit="【宋】【元】【明】" resp="Taisho">說</rdg></app>利益皆以究竟，汝等
+<lb n="1112a16" ed="T"/>但當勤而行之。若<note place="foot text" type="orig" resp="Taisho" n="1112006">在＝於【三】【宮】</note><note type="mod" n="1112006" resp="CBETA">在＝於【宋】【元】【明】【宮】</note><app n="1112006"><lem wit="【大】">在</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">於</rdg></app>山間、若空澤中、若在樹
+<lb ed="T" n="1112a17"/>下、閑處靜室，念所受法勿令忘失，常當自勉
+<lb ed="T" n="1112a18"/>精進修之，無為空死後致<note resp="Taisho" n="1112007" place="foot text" type="orig">憂＝有【三】【宮】</note><note resp="CBETA" n="1112007" type="mod">憂＝有【宋】【元】【明】【宮】</note><app n="1112007"><lem wit="【大】">憂</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">有</rdg></app>悔。我如良醫，知
 <lb n="1112a19" ed="T"/>病說藥，服與不服，非醫咎也。又如善導，導人
-<lb n="1112a20" ed="T"/>善<note n="1112008" resp="Taisho" type="orig" place="foot text">導＝道【三】【宮】</note><note n="1112008" resp="CBETA" type="mod">導＝道【宋】【元】【明】【宮】【CB】</note><app n="1112008"><lem resp="CBETA.maha" wit="【CBETA】">道<note type="cf1">T26n1529_p0289b29</note></lem><rdg wit="【大】">導</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">道</rdg></app>，聞之不行，非導過也，汝等若於苦等四
-<lb n="1112a21" ed="T"/>諦有所疑者，可疾問之，無得懷疑不求決也。」</p>
+<lb n="1112a20" ed="T"/>善<note n="1112008" resp="Taisho" type="orig" place="foot text">導＝道【三】【宮】</note><note type="mod" n="1112008" resp="CBETA">導＝道【宋】【元】【明】【宮】【CB】</note><app n="1112008"><lem wit="【CBETA】" resp="CBETA.maha">道<note type="cf1">T26n1529_p0289b29</note></lem><rdg wit="【大】">導</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">道</rdg></app>，聞之不行，非導過也。汝等若於苦等四
+<lb ed="T" n="1112a21"/>諦有所疑者，可疾問之，無得懷疑不求決也。」</p>
 <lb n="1112a22" ed="T"/><p xml:id="pT12p1112a2201">爾時世尊如是三唱，人無問者。所以者何？眾
 <lb n="1112a23" ed="T"/>無疑故。</p>
-<lb n="1112a24" ed="T"/><p xml:id="pT12p1112a2401"><note n="1112009" resp="Taisho" type="orig" place="foot text">〔爾〕－【三】【宮】</note><note n="1112009" resp="CBETA" type="mod">〔爾〕－【宋】【元】【明】【宮】</note><app n="1112009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>時阿㝹樓<note n="1112010" resp="Taisho" type="orig" place="foot text">馱＝陀【宮】＊</note><app n="1112010"><lem wit="【大】">馱</lem><rdg resp="Taisho" wit="【宮】">陀</rdg></app>觀察眾心而白佛言：「世尊！
-<lb n="1112a25" ed="T"/>月可令熱，日可令冷，佛說四諦不可令異。佛
-<lb n="1112a26" ed="T"/>說苦諦<note n="1112011" resp="Taisho" type="orig" place="foot text">真實是＝實【三】【宮】</note><note n="1112011" resp="CBETA" type="mod">真實是＝實【宋】【元】【明】【宮】</note><app n="1112011"><lem wit="【大】">真實是</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">實</rdg></app>苦，不可令樂；集真是因，更
-<lb n="1112a27" ed="T"/>無異因；苦若滅者即是因滅，因滅故果滅；滅
-<lb n="1112a28" ed="T"/>苦之道實是真道，更無餘道。世尊！是諸比丘
-<lb n="1112a29" ed="T"/>於四諦中決定無疑。於此眾中<note n="1112012" resp="Taisho" type="orig" place="foot text">（若有）＋所【宋】【宮】，（若）＋所【元】【明】</note><app n="1112012"><lem wit="【大】">所</lem><rdg resp="Taisho" wit="【宋】【宮】">若有所</rdg><rdg resp="Taisho" wit="【元】【明】">若所</rdg></app>作未辦
-<pb n="1112b" xml:id="T12.0389.1112b" ed="T"/>
-<lb n="1112b01" ed="T"/>者，見佛滅度，當有悲感。若有初入法者，聞佛
-<lb n="1112b02" ed="T"/>所說，即皆得度，譬如夜見電光即得見道。<note n="1112013" resp="Taisho" type="orig" place="foot text">若＋（有）【宋】【宮】</note><app n="1112013"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【宋】【宮】">若有</rdg></app>
+<lb ed="T" n="1112a24"/><p xml:id="pT12p1112a2401"><note type="orig" place="foot text" n="1112009" resp="Taisho">〔爾〕－【三】【宮】</note><note type="mod" n="1112009" resp="CBETA">〔爾〕－【宋】【元】【明】【宮】</note><app n="1112009"><lem wit="【大】">爾</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"></space></rdg></app>時阿㝹樓<note n="1112010" resp="Taisho" type="orig" place="foot text">馱＝陀【宮】＊</note><app n="1112010"><lem wit="【大】">馱</lem><rdg resp="Taisho" wit="【宮】">陀</rdg></app>觀察眾心而白佛言：「世尊！
+<lb ed="T" n="1112a25"/>月可令熱，日可令冷，佛說四諦不可令異。佛
+<lb n="1112a26" ed="T"/>說苦諦<note n="1112011" resp="Taisho" type="orig" place="foot text">真實是＝實【三】【宮】</note><note resp="CBETA" n="1112011" type="mod">真實是＝實【宋】【元】【明】【宮】</note><app n="1112011"><lem wit="【大】">真實是</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">實</rdg></app>苦，不可令樂；集真是因，更
+<lb ed="T" n="1112a27"/>無異因；苦若滅者即是因滅，因滅故果滅。滅
+<lb ed="T" n="1112a28"/>苦之道實是真道，更無餘道。世尊！是諸比丘
+<lb ed="T" n="1112a29"/>於四諦中決定無疑。於此眾中<note resp="Taisho" n="1112012" place="foot text" type="orig">（若有）＋所【宋】【宮】，（若）＋所【元】【明】</note><app n="1112012"><lem wit="【大】">所</lem><rdg wit="【宋】【宮】" resp="Taisho">若有所</rdg><rdg wit="【元】【明】" resp="Taisho">若所</rdg></app>作未辦
+<pb xml:id="T12.0389.1112b" n="1112b" ed="T"/>
+<lb n="1112b01" ed="T"/>者，見佛滅度當有悲感，若有初入法者，聞佛
+<lb n="1112b02" ed="T"/>所說即皆得度，譬如夜見電光即得見道；<note place="foot text" type="orig" resp="Taisho" n="1112013">若＋（有）【宋】【宮】</note><app n="1112013"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【宋】【宮】">若有</rdg></app>
 <lb n="1112b03" ed="T"/>所作已辦、已度苦海者，但作是念：『世尊滅度，
-<lb n="1112b04" ed="T"/>一何疾哉！』」</p><p xml:id="pT12p1112b0405" rend="inline">阿㝹樓<app type="star" corresp="#1112010"><lem wit="【大】">馱</lem><rdg resp="Taisho" wit="【宮】">陀</rdg></app>雖說是語，眾中皆悉了
-<lb n="1112b05" ed="T"/>達四聖諦義。世尊欲令此諸大眾皆得堅固，
-<lb n="1112b06" ed="T"/>以大悲心復為眾說：</p>
-<lb n="1112b07" ed="T"/><p xml:id="pT12p1112b0701">「汝等比丘，勿懷<note n="1112014" resp="Taisho" type="orig" place="foot text">憂＝悲【三】【宮】</note><note n="1112014" resp="CBETA" type="mod">憂＝悲【宋】【元】【明】【宮】</note><app n="1112014"><lem wit="【大】">憂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">悲</rdg></app>惱。若我住世一劫會亦當
-<lb n="1112b08" ed="T"/>滅，會而不離，終不可得。自利利人法皆具足，
-<lb n="1112b09" ed="T"/>若我久住更無所益，應可度者，若天上人間
-<lb n="1112b10" ed="T"/>皆悉已度，其未度者，皆亦已作得度因緣。自
-<lb n="1112b11" ed="T"/>今已後，我諸弟子展轉行之，則是如來法身
-<lb n="1112b12" ed="T"/>常在而不滅也。是故當知，世皆無常，會必有
-<lb n="1112b13" ed="T"/>離，勿懷憂<note n="1112015" resp="Taisho" type="orig" place="foot text">也＝惱【三】</note><note n="1112015" resp="CBETA" type="mod">也＝惱【宋】【元】【明】</note><app n="1112015"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【宋】【元】【明】">惱</rdg></app>。世<note n="1112016" resp="Taisho" type="orig" place="foot text">相＝間【宮】</note><app n="1112016"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【宮】">間</rdg></app>如是，當勤精進早求解
+<lb ed="T" n="1112b04"/>一何疾哉！』」</p><p rend="inline" xml:id="pT12p1112b0405">阿㝹樓<app type="star" corresp="#1112010"><lem wit="【大】">馱</lem><rdg wit="【宮】" resp="Taisho">陀</rdg></app>雖說是語，眾中皆悉了
+<lb ed="T" n="1112b05"/>達四聖諦義。世尊欲令此諸大眾皆得堅固，
+<lb ed="T" n="1112b06"/>以大悲心復為眾說：</p>
+<lb ed="T" n="1112b07"/><p xml:id="pT12p1112b0701">「汝等比丘，勿懷<note type="orig" place="foot text" n="1112014" resp="Taisho">憂＝悲【三】【宮】</note><note type="mod" n="1112014" resp="CBETA">憂＝悲【宋】【元】【明】【宮】</note><app n="1112014"><lem wit="【大】">憂</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">悲</rdg></app>惱。若我住世一劫會亦當
+<lb ed="T" n="1112b08"/>滅，會而不離終不可得。自利利人法皆具足，
+<lb n="1112b09" ed="T"/>若我久住更無所益。應可度者，若天上人間
+<lb ed="T" n="1112b10"/>皆悉已度，其未度者，皆亦已作得度因緣。自
+<lb ed="T" n="1112b11"/>今已後，我諸弟子展轉行之，則是如來法身
+<lb ed="T" n="1112b12"/>常在而不滅也。是故當知，世皆無常，會必有
+<lb ed="T" n="1112b13"/>離，勿懷憂<note n="1112015" resp="Taisho" type="orig" place="foot text">也＝惱【三】</note><note type="mod" resp="CBETA" n="1112015">也＝惱【宋】【元】【明】</note><app n="1112015"><lem wit="【大】">也</lem><rdg wit="【宋】【元】【明】" resp="Taisho">惱</rdg></app>。世<note resp="Taisho" n="1112016" place="foot text" type="orig">相＝間【宮】</note><app n="1112016"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【宮】">間</rdg></app>如是，當勤精進早求解
 <lb n="1112b14" ed="T"/>脫，以智慧明滅諸癡闇。世實危脆無牢強者，
-<lb n="1112b15" ed="T"/>我今得滅如除惡病，此是應捨罪惡之物，假
-<lb n="1112b16" ed="T"/>名為身，沒在<note n="1112017" resp="Taisho" type="orig" place="foot text">生老病＝老病生【三】【宮】</note><note n="1112017" resp="CBETA" type="mod">生老病＝老病生【宋】【元】【明】【宮】</note><app n="1112017"><lem wit="【大】">生老病</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">老病生</rdg></app>死大海，何有智者得除
-<lb n="1112b17" ed="T"/>滅之，如殺怨賊而不歡喜？</p>
+<lb n="1112b15" ed="T"/>我今得滅如除惡病。此是應捨罪惡之物，假
+<lb ed="T" n="1112b16"/>名為身，沒在<note resp="Taisho" n="1112017" place="foot text" type="orig">生老病＝老病生【三】【宮】</note><note resp="CBETA" n="1112017" type="mod">生老病＝老病生【宋】【元】【明】【宮】</note><app n="1112017"><lem wit="【大】">生老病</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">老病生</rdg></app>死大海，何有智者得除
+<lb ed="T" n="1112b17"/>滅之，如殺怨賊而不歡喜？</p>
 <lb n="1112b18" ed="T"/><p xml:id="pT12p1112b1801">「汝等比丘，常當一心勤求出道，一切世間動
-<lb n="1112b19" ed="T"/>不動法，皆是敗壞不安之相。汝等且止，勿得
+<lb ed="T" n="1112b19"/>不動法，皆是敗壞不安之相。汝等且止，勿得
 <lb n="1112b20" ed="T"/>復語，時將欲過，我欲滅度，是我最後之所教
-<lb n="1112b21" ed="T"/>誨。」</p>
-<lb n="1112b22" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>佛垂般涅槃略說教誡經</title></cb:jhead></cb:juan></cb:div>
+<lb ed="T" n="1112b21"/>誨。」</p>
+<lb ed="T" n="1112b22"/><cb:juan n="001" fun="close"><cb:jhead><title>佛垂般涅槃略說教誡經</title></cb:jhead></cb:juan></cb:div>
 </body></text></TEI>

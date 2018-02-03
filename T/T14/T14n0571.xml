@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T14n0571">
+<?xml version="1.0" encoding="UTF-8" ?>
+<TEI xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T14n0571" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
         <fileDesc>
                 <titleStmt>
@@ -32,8 +32,8 @@
 </fileDesc>
 <encodingDesc>
         <projectDesc>
-                <p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as inputted by Mr. Yan Hsue-Hsin / proofread by Mr. Shen Jie-Pan, Text as provided by Anonymous from USA, Punctuated text as provided by Jasmine</p>
-                <p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，閻學新大德輸入／沈介磐大德校對，北美某大德提供，Jasmine 提供新式標點</p>
+                <p cb:type="ly" xml:lang="en">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as inputted by Mr. Yan Hsue-Hsin / proofread by Mr. Shen Jie-Pan, Text as provided by Anonymous from USA, Punctuated text as provided by Jasmine, Re-proofing punctuated text as provided by Mr. Zhang Ge-Feng</p>
+                <p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，閻學新大德輸入／沈介磐大德校對，北美某大德提供，Jasmine 提供新式標點，張革豐大德提供新式標點重校</p>
         </projectDesc>
 </encodingDesc>
 <profileDesc>
@@ -122,49 +122,49 @@ Added comment  for Emacs
 <text><body>
 <pb n="0944a" ed="T" xml:id="T14.0571.0944a"/>
 <lb n="0944a01" ed="T"/>
-<milestone n="1" unit="juan"/>
+<milestone unit="juan" n="1"/>
 <lb n="0944a02" ed="T"/><cb:docNumber>No. 571</cb:docNumber>
-<lb n="0944a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead>佛說婦人遇辜經</cb:jhead></cb:juan>
-<lb n="0944a04" ed="T"/>
-<lb n="0944a05" ed="T"/><byline cb:type="Translator">乞伏秦<note n="0944001" resp="Taisho" type="orig" place="foot text">沙門＝釋【三】【宮】</note><note n="0944001" resp="CBETA" type="mod">沙門＝釋【宋】【元】【明】【宮】</note><app n="0944001"><lem wit="【大】">沙門</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">釋</rdg></app>聖堅譯</byline>
-<lb n="0944a06" ed="T"/><cb:div type="jing"><p xml:id="pT14p0944a0601">聞如是：</p><p xml:id="pT14p0944a0604" rend="inline">一時，佛在舍衛<note n="0944002" resp="Taisho" type="orig" place="foot text">〔國〕－【三】【宮】</note><note n="0944002" resp="CBETA" type="mod">〔國〕－【宋】【元】【明】【宮】</note><app n="0944002"><lem wit="【大】">國</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>祇樹給孤獨精舍，
-<lb n="0944a07" ed="T"/>與大比丘眾千二百五十人俱。</p><p xml:id="pT14p0944a0713" rend="inline">時有一人無
+<lb ed="T" n="0944a03"/><cb:juan n="001" fun="open"><cb:mulu type="卷" n="001"/><cb:jhead>佛說婦人遇辜經</cb:jhead></cb:juan>
+<lb ed="T" n="0944a04"/>
+<lb ed="T" n="0944a05"/><byline cb:type="Translator">乞伏秦<note n="0944001" place="foot text" resp="Taisho" type="orig">沙門＝釋【三】【宮】</note><note type="mod" resp="CBETA" n="0944001">沙門＝釋【宋】【元】【明】【宮】</note><app n="0944001"><lem wit="【大】">沙門</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">釋</rdg></app>聖堅譯</byline>
+<lb ed="T" n="0944a06"/><cb:div type="jing"><p xml:id="pT14p0944a0601">聞如是：</p><p xml:id="pT14p0944a0604" rend="inline">一時，佛在舍衛<note resp="Taisho" type="orig" n="0944002" place="foot text">〔國〕－【三】【宮】</note><note type="mod" resp="CBETA" n="0944002">〔國〕－【宋】【元】【明】【宮】</note><app n="0944002"><lem wit="【大】">國</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho"><space quantity="0"></space></rdg></app>祇樹給孤獨精舍，
+<lb ed="T" n="0944a07"/>與大比丘眾千二百五十人俱。</p><p xml:id="pT14p0944a0713" rend="inline">時有一人無
 <lb n="0944a08" ed="T"/>婦，往詣舍衛國，娶婦本國，自有兩子，大子
 <lb n="0944a09" ed="T"/>七歲，次子孩抱，母復懷軀，欲向在產。天
 <lb n="0944a10" ed="T"/>竺禮俗，婦人臨月，歸父母國。時夫婦乘車載
-<lb n="0944a11" ed="T"/>二子，當詣舍衛，中路食息并牧牛。時有毒
-<lb n="0944a12" ed="T"/>蛇，纏繞牛脚，牛遂離<note n="0944003" resp="Taisho" type="orig" place="foot text">圈＝絭【宋】，桊【元】【明】，棬【宮】</note><note n="0944003" resp="CBETA" type="mod">圈＝絭【宋】，＝桊【元】【明】，＝棬【宮】</note><app n="0944003"><lem wit="【大】">圈</lem><rdg resp="Taisho" wit="【宋】">絭</rdg><rdg resp="Taisho" wit="【元】【明】">桊</rdg><rdg resp="Taisho" wit="【宮】">棬</rdg></app>，其夫取牛，欲得嚴
+<lb ed="T" n="0944a11"/>二子，當詣舍衛，中路食息并牧牛。時有毒
+<lb ed="T" n="0944a12"/>蛇，纏繞牛脚，牛遂離<note type="orig" resp="Taisho" place="foot text" n="0944003">圈＝絭【宋】，桊【元】【明】，棬【宮】</note><note resp="CBETA" type="mod" n="0944003">圈＝絭【宋】，＝桊【元】【明】，＝棬【宮】</note><app n="0944003"><lem wit="【大】">圈</lem><rdg wit="【宋】" resp="Taisho">絭</rdg><rdg resp="Taisho" wit="【元】【明】">桊</rdg><rdg wit="【宮】" resp="Taisho">棬</rdg></app>。其夫取牛，欲得嚴
 <lb n="0944a13" ed="T"/>發，見牛為毒蛇所殺，蛇復捨牛，復纏夫殺。
-<lb n="0944a14" ed="T"/>婦遙見之，怖懼戰慄，啼哭呼天，無救護者。
-<lb n="0944a15" ed="T"/>日遂欲冥，去道不遠，有流河水，水<note n="0944004" resp="Taisho" type="orig" place="foot text">碓＝對【三】【宮】</note><note n="0944004" resp="CBETA" type="mod">碓＝對【宋】【元】【明】【宮】</note><app n="0944004"><lem wit="【大】">碓</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">對</rdg></app>有家
-<lb n="0944a16" ed="T"/>居，婦迫日冥，懼為賊所劫，棄車將二子到
-<lb n="0944a17" ed="T"/>水畔，留大子著水邊，抱小子<note n="0944005" resp="Taisho" type="orig" place="foot text">渡＝度【三】【宮】＊</note><note n="0944005" resp="CBETA" type="mod">渡＝度【宋】【元】【明】【宮】＊</note><app n="0944005"><lem wit="【大】">渡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">度</rdg></app>水。適到水
-<lb n="0944a18" ed="T"/>半，狼食其子，子叫呼母，母時還顧見子，為
-<lb n="0944a19" ed="T"/>狼所噉，驚惶怖懼，失抱中子，<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">墮水隨流<note type="cf1">K20n0837_p1175a18</note></lem><rdg wit="【大】">隨水墮流</rdg></app>。母
-<lb n="0944a20" ed="T"/>益懊惱，迷惑失志頓躓水中，墮所懷子。遂
-<lb n="0944a21" ed="T"/>便<app type="star" corresp="#0944005"><lem wit="【大】">渡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">度</rdg></app>水，問道行人：「我家父母，為安隱不？」</p><p xml:id="pT14p0944a2116" rend="inline">行
-<lb n="0944a22" ed="T"/>人答曰：「<note n="0944006" resp="Taisho" type="orig" place="foot text">昨家＝家作【三】，家昨【宮】</note><note n="0944006" resp="CBETA" type="mod">昨家＝家作【宋】【元】【明】，＝家昨【宮】</note><app n="0944006"><lem wit="【大】">昨家</lem><rdg resp="Taisho" wit="【宋】【元】【明】">家作</rdg><rdg resp="Taisho" wit="【宮】">家昨</rdg></app>失火，皆燒父母，悉盡無餘。」</p><p xml:id="pT14p0944a2216" rend="inline">又
-<lb n="0944a23" ed="T"/>問行人：「我夫家姑<note n="0944007" resp="Taisho" type="orig" place="foot text">妐＝公【明】＊</note><app n="0944007"><lem wit="【大】">妐</lem><rdg resp="Taisho" wit="【明】">公</rdg></app>為安隱不？」</p><p xml:id="pT14p0944a2313" rend="inline">行人答曰：
-<lb n="0944a24" ed="T"/>「昨有劇賊，傷害其家，姑<app type="star" corresp="#0944007"><lem wit="【大】">妐</lem><rdg resp="Taisho" wit="【明】">公</rdg></app>皆死，無完在者。」</p>
-<lb n="0944a25" ed="T"/><p xml:id="pT14p0944a2501">其<note n="0944008" resp="Taisho" type="orig" place="foot text">母＝婦【三】【宮】</note><note n="0944008" resp="CBETA" type="mod">母＝婦【宋】【元】【明】【宮】</note><app n="0944008"><lem wit="【大】">母</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">婦</rdg></app>聞之，愁憂怖懼，心迷意惑，不識東西，
-<lb n="0944a26" ed="T"/>脫衣裸形，迷惑狂走。道中行人，見大怪之，
-<lb n="0944a27" ed="T"/>謂得邪病，鬼神所嬈乎，或謂愁憂迷惑失志，
-<lb n="0944a28" ed="T"/>或有唾<note n="0944009" resp="Taisho" type="orig" place="foot text">賤＝湔【宋】【宮】，濺【元】【明】</note><note n="0944009" resp="CBETA" type="mod">賤＝湔【宋】【宮】，＝濺【元】【明】</note><app n="0944009"><lem wit="【大】">賤</lem><rdg resp="Taisho" wit="【宋】【宮】">湔</rdg><rdg resp="Taisho" wit="【元】【明】">濺</rdg></app>捨避之走，或有憐傷愍念哀之。</p>
-<lb n="0944a29" ed="T"/><p xml:id="pT14p0944a2901">時佛在舍衛祇樹給孤獨精舍。時婦馳走，而
-<pb n="0944b" ed="T" xml:id="T14.0571.0944b"/>
-<lb n="0944b01" ed="T"/>往趣之，過祇樹園。爾時，世尊大會說法，
-<lb n="0944b02" ed="T"/>四輩弟子，諸天龍神，十方一切，皆悉聽經。
+<lb ed="T" n="0944a14"/>婦遙見之，怖懼戰慄，啼哭呼天，無救護者。
+<lb ed="T" n="0944a15"/>日遂欲冥，去道不遠，有流河水，水<note resp="Taisho" type="orig" n="0944004" place="foot text">碓＝對【三】【宮】</note><note n="0944004" type="mod" resp="CBETA">碓＝對【宋】【元】【明】【宮】</note><app n="0944004"><lem wit="【大】">碓</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">對</rdg></app>有家
+<lb ed="T" n="0944a16"/>居。婦迫日冥，懼為賊所劫，棄車將二子到
+<lb n="0944a17" ed="T"/>水畔，留大子著水邊，抱小子<note place="foot text" n="0944005" type="orig" resp="Taisho">渡＝度【三】【宮】＊</note><note type="mod" resp="CBETA" n="0944005">渡＝度【宋】【元】【明】【宮】＊</note><app n="0944005"><lem wit="【大】">渡</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">度</rdg></app>水。適到水
+<lb n="0944a18" ed="T"/>半，狼食其子，子叫呼母，母時還顧見子為
+<lb ed="T" n="0944a19"/>狼所噉，驚惶怖懼，失抱中子，<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">墮水隨流<note type="cf1">K20n0837_p1175a18</note></lem><rdg wit="【大】">隨水墮流</rdg></app>。母
+<lb ed="T" n="0944a20"/>益懊惱，迷惑失志頓躓水中，墮所懷子。遂
+<lb n="0944a21" ed="T"/>便<app corresp="#0944005" type="star"><lem wit="【大】">渡</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">度</rdg></app>水，問道行人：「我家父母為安隱不？」</p><p rend="inline" xml:id="pT14p0944a2116">行
+<lb ed="T" n="0944a22"/>人答曰：「<note n="0944006" place="foot text" resp="Taisho" type="orig">昨家＝家作【三】，家昨【宮】</note><note type="mod" resp="CBETA" n="0944006">昨家＝家作【宋】【元】【明】，＝家昨【宮】</note><app n="0944006"><lem wit="【大】">昨家</lem><rdg resp="Taisho" wit="【宋】【元】【明】">家作</rdg><rdg resp="Taisho" wit="【宮】">家昨</rdg></app>失火，皆燒父母，悉盡無餘。」</p><p rend="inline" xml:id="pT14p0944a2216">又
+<lb ed="T" n="0944a23"/>問行人：「我夫家姑<note type="orig" resp="Taisho" place="foot text" n="0944007">妐＝公【明】＊</note><app n="0944007"><lem wit="【大】">妐</lem><rdg resp="Taisho" wit="【明】">公</rdg></app>為安隱不？」</p><p rend="inline" xml:id="pT14p0944a2313">行人答曰：
+<lb ed="T" n="0944a24"/>「昨有劇賊傷害其家，姑<app type="star" corresp="#0944007"><lem wit="【大】">妐</lem><rdg wit="【明】" resp="Taisho">公</rdg></app>皆死，無完在者。」</p>
+<lb n="0944a25" ed="T"/><p xml:id="pT14p0944a2501">其<note place="foot text" n="0944008" type="orig" resp="Taisho">母＝婦【三】【宮】</note><note n="0944008" type="mod" resp="CBETA">母＝婦【宋】【元】【明】【宮】</note><app n="0944008"><lem wit="【大】">母</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">婦</rdg></app>聞之，愁憂怖懼，心迷意惑，不識東西，
+<lb n="0944a26" ed="T"/>脫衣裸形，迷惑狂走。道中行人見，大怪之，
+<lb ed="T" n="0944a27"/>謂得邪病，鬼神所嬈乎；或謂愁憂迷惑失志，
+<lb n="0944a28" ed="T"/>或有唾<note n="0944009" place="foot text" resp="Taisho" type="orig">賤＝湔【宋】【宮】，濺【元】【明】</note><note n="0944009" resp="CBETA" type="mod">賤＝湔【宋】【宮】，＝濺【元】【明】</note><app n="0944009"><lem wit="【大】">賤</lem><rdg wit="【宋】【宮】" resp="Taisho">湔</rdg><rdg resp="Taisho" wit="【元】【明】">濺</rdg></app>捨避之走，或有憐傷愍念哀之。</p>
+<lb n="0944a29" ed="T"/><p xml:id="pT14p0944a2901">時，佛在舍衛祇樹給孤獨精舍。時，婦馳走而
+<pb xml:id="T14.0571.0944b" n="0944b" ed="T"/>
+<lb ed="T" n="0944b01"/>往趣之，過祇樹園。爾時，世尊大會說法，
+<lb ed="T" n="0944b02"/>四輩弟子、諸天龍神、十方一切皆悉聽經。
 <lb n="0944b03" ed="T"/>諸佛之法，盲者見佛，皆得眼目，聾者得聽，
-<lb n="0944b04" ed="T"/><note n="0944010" resp="Taisho" type="orig" place="foot text">啞＝瘂【宮】</note><app n="0944010"><lem wit="【大】">啞</lem><rdg resp="Taisho" wit="【宮】">瘂</rdg></app>者能言，疾病除愈，尫劣強健，被毒不行，
+<lb n="0944b04" ed="T"/><note resp="Taisho" type="orig" n="0944010" place="foot text">啞＝瘂【宮】</note><app n="0944010"><lem wit="【大】">啞</lem><rdg wit="【宮】" resp="Taisho">瘂</rdg></app>者能言，疾病除愈，尫劣強健，被毒不行，
 <lb n="0944b05" ed="T"/>心亂得定。</p><p xml:id="pT14p0944b0505" rend="inline">時婦見佛，意即得定，不復愁憂，
-<lb n="0944b06" ed="T"/>自視裸形，慚愧伏地。佛呼阿難：「取衣與婦。」
-<lb n="0944b07" ed="T"/>即時受教，則取衣與婦。著衣竟，稽首佛足，
-<lb n="0944b08" ed="T"/>却坐一面。佛即說經，為現罪福：「人命無常，
-<lb n="0944b09" ed="T"/>合會有別，生者有死，<note n="0944011" resp="Taisho" type="orig" place="foot text">無＝不【三】【宮】</note><note n="0944011" resp="CBETA" type="mod">無＝不【宋】【元】【明】【宮】</note><app n="0944011"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">不</rdg></app>生不終，一切本空，
-<lb n="0944b10" ed="T"/>自作起滅，展轉五道，譬如車輪，已解本無，不
+<lb ed="T" n="0944b06"/>自視裸形，慚愧伏地。佛呼阿難：「取衣與婦。」
+<lb ed="T" n="0944b07"/>即時受教，則取衣與婦。著衣竟，稽首佛足，
+<lb ed="T" n="0944b08"/>却坐一面。佛即說經，為現罪福：「人命無常，
+<lb n="0944b09" ed="T"/>合會有別，生者有死，<note type="orig" resp="Taisho" place="foot text" n="0944011">無＝不【三】【宮】</note><note n="0944011" type="mod" resp="CBETA">無＝不【宋】【元】【明】【宮】</note><app n="0944011"><lem wit="【大】">無</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">不</rdg></app>生不終，一切本空，
+<lb ed="T" n="0944b10"/>自作起滅，展轉五道，譬如車輪，已解本無，不
 <lb n="0944b11" ed="T"/>復起分。」婦聞佛言，心開意解，即發無上正
-<lb n="0944b12" ed="T"/>真道意，即時得立不退轉地，愁憂除愈，如
-<lb n="0944b13" ed="T"/>日無雲。</p><p xml:id="pT14p0944b1304" rend="inline">佛說如是，四輩歡喜，諸天龍神，稽
+<lb ed="T" n="0944b12"/>真道意，即時得立不退轉地，愁憂除愈，如
+<lb ed="T" n="0944b13"/>日無雲。</p><p xml:id="pT14p0944b1304" rend="inline">佛說如是，四輩歡喜，諸天龍神，稽
 <lb n="0944b14" ed="T"/>首而退。</p></cb:div>
-<lb n="0944b15" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛說婦人遇辜經</cb:jhead></cb:juan>
+<lb ed="T" n="0944b15"/><cb:juan fun="close" n="001"><cb:jhead>佛說婦人遇辜經</cb:jhead></cb:juan>
 </body></text></TEI>

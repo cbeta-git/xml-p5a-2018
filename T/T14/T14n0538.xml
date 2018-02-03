@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T14n0538">
+<?xml version="1.0" encoding="UTF-8" ?>
+<TEI xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T14n0538" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
         <fileDesc>
                 <titleStmt>
@@ -32,8 +32,8 @@
 </fileDesc>
 <encodingDesc>
         <projectDesc>
-                <p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as inputted by Mr. Yan Hsue-Hsin / proofread by Mr. Shen Jie-Pan, Text as provided by Anonymous from USA, Punctuated text as provided by Jasmine</p>
-                <p xml:lang="zh" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，閻學新大德輸入／沈介磐大德校對，北美某大德提供，Jasmine 提供新式標點</p>
+                <p cb:type="ly" xml:lang="en">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as inputted by Mr. Yan Hsue-Hsin / proofread by Mr. Shen Jie-Pan, Text as provided by Anonymous from USA, Punctuated text as provided by Jasmine, Re-proofing punctuated text as provided by Mr. Zhang Ge-Feng</p>
+                <p cb:type="ly" xml:lang="zh">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，閻學新大德輸入／沈介磐大德校對，北美某大德提供，Jasmine 提供新式標點，張革豐大德提供新式標點重校</p>
         </projectDesc>
 </encodingDesc>
 <profileDesc>
@@ -124,58 +124,58 @@ Added comment  for Emacs
 </teiHeader>
 <text><body>
 <lb n="0821a15" ed="T"/>
-<milestone n="1" unit="juan"/>
-<lb n="0821a16" ed="T"/>
-<lb n="0821a17" ed="T"/><cb:docNumber>No. 538</cb:docNumber>
-<lb n="0821a18" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead>佛說呵雕阿那<note n="0821009" resp="Taisho" type="orig" place="foot text">鋡＝含【三】【宮】＊</note><note n="0821009" resp="CBETA" type="mod">鋡＝含【宋】【元】【明】【宮】＊</note><app n="0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>經</cb:jhead></cb:juan>
+<milestone unit="juan" n="1"/>
+<lb ed="T" n="0821a16"/>
+<lb ed="T" n="0821a17"/><cb:docNumber>No. 538</cb:docNumber>
+<lb ed="T" n="0821a18"/><cb:juan n="001" fun="open"><cb:mulu type="卷" n="001"/><cb:jhead>佛說呵雕阿那<note type="orig" n="0821009" place="foot text" resp="Taisho">鋡＝含【三】【宮】＊</note><note resp="CBETA" type="mod" n="0821009">鋡＝含【宋】【元】【明】【宮】＊</note><app n="0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>經</cb:jhead></cb:juan>
 <lb n="0821a19" ed="T"/>
-<lb n="0821a20" ed="T"/><byline cb:type="Translator">東晉<note n="0821010" resp="Taisho" type="orig" place="foot text">天竺三藏＝西域沙門【三】【宮】</note><note n="0821010" resp="CBETA" type="mod">天竺三藏＝西域沙門【宋】【元】【明】【宮】</note><app n="0821010"><lem wit="【大】">天竺三藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">西域沙門</rdg></app>竺曇無蘭譯</byline>
-<lb n="0821a21" ed="T"/><cb:div type="jing"><p xml:id="pT14p0821a2101">聞如是：</p><p xml:id="pT14p0821a2104" rend="inline">一時，佛在舍衛國祇陀<note n="0821011" resp="Taisho" type="orig" place="foot text">恒＝園【三】【宮】</note><note n="0821011" resp="CBETA" type="mod">恒＝園【宋】【元】【明】【宮】</note><app n="0821011"><lem wit="【大】">恒</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">園</rdg></app>，呵雕阿那
-<lb n="0821a22" ed="T"/><app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>將五百優婆塞至舍利弗所，作禮已却
-<lb n="0821a23" ed="T"/>坐。舍利弗為說經，大歡喜而退。復至佛所，以
-<lb n="0821a24" ed="T"/>頭面著地，叉手繞佛三匝却坐。</p><p xml:id="pT14p0821a2413" rend="inline">佛問呵雕阿
-<lb n="0821a25" ed="T"/>那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>：「若有何功德，教化五百弟子隨<note n="0821012" resp="Taisho" type="orig" place="foot text">從＝侍【三】【宮】</note><note n="0821012" resp="CBETA" type="mod">從＝侍【宋】【元】【明】【宮】</note><app n="0821012"><lem wit="【大】">從</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">侍</rdg></app>
-<lb n="0821a26" ed="T"/>汝？」</p><p xml:id="pT14p0821a2602" rend="inline">呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>即長跪叉手言：「我常奉行
-<lb n="0821a27" ed="T"/>佛所說四事。何等為四？一者、布施於人；二
-<lb n="0821a28" ed="T"/>者、說善說；三者、<note n="0821013" resp="Taisho" type="orig" place="foot text">瞻＝占【三】【宮】</note><note n="0821013" resp="CBETA" type="mod">瞻＝占【宋】【元】【明】【宮】</note><app n="0821013"><lem wit="【大】">瞻</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">占</rdg></app>視同學給足有無；四者、
-<lb n="0821a29" ed="T"/>同學者財共不計。」</p><p xml:id="pT14p0821a2908" rend="inline">佛言：「善哉！善哉！已過去
-<pb n="0821b" ed="T" xml:id="T14.0538.0821b"/>
-<lb n="0821b01" ed="T"/>佛，無有過是四事；未來佛亦無有過是四事；
-<lb n="0821b02" ed="T"/>今現在佛，亦無有過是四事。」</p><p xml:id="pT14p0821b0212" rend="inline">佛為呵雕阿那
-<lb n="0821b03" ed="T"/><app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>說經已，各大歡喜而退。</p><p xml:id="pT14p0821b0311" rend="inline">呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>還
-<lb n="0821b04" ed="T"/>歸入<note n="0821014" resp="Taisho" type="orig" place="foot text">舍＝含【明】</note><app n="0821014"><lem wit="【大】">舍</lem><rdg resp="Taisho" wit="【明】">含</rdg></app>，呼諸人<note n="0821015" resp="Taisho" type="orig" place="foot text">客＝容【聖】</note><app n="0821015"><lem wit="【大】">客</lem><rdg resp="Taisho" wit="【聖】">容</rdg></app>奴婢坐著前，好為說經
-<lb n="0821b05" ed="T"/>開解，語生死善惡之道；復上殿呼諸<note n="0821016" resp="Taisho" type="orig" place="foot text">持＝侍【聖】</note><app n="0821016"><lem wit="【大】">持</lem><rdg resp="Taisho" wit="【聖】">侍</rdg></app>藏
-<lb n="0821b06" ed="T"/>人、諸<app><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">妓<note type="cf1">K20n0834_p1169b19</note></lem><rdg wit="【大】">伎</rdg></app>女著前，為說經<note n="0821017" resp="Taisho" type="orig" place="foot text">戒＝誡【聖】＊</note><app n="0821017"><lem wit="【大】">戒</lem><rdg resp="Taisho" wit="【聖】">誡</rdg></app>，皆大歡喜；復上
-<lb n="0821b07" ed="T"/>後殿，為諸夫人婦女，說經<app type="star" corresp="#0821017"><lem wit="【大】">戒</lem><rdg resp="Taisho" wit="【聖】">誡</rdg></app>已訖，還至正
-<lb n="0821b08" ed="T"/>殿，齋戒床上，端<note n="0821018" resp="Taisho" type="orig" place="foot text">坐＝正【宮】</note><app n="0821018"><lem wit="【大】">坐</lem><rdg resp="Taisho" wit="【宮】">正</rdg></app>定意，便得等心。</p><p xml:id="pT14p0821b0814" rend="inline">第一
+<lb ed="T" n="0821a20"/><byline cb:type="Translator">東晉<note resp="Taisho" place="foot text" n="0821010" type="orig">天竺三藏＝西域沙門【三】【宮】</note><note resp="CBETA" n="0821010" type="mod">天竺三藏＝西域沙門【宋】【元】【明】【宮】</note><app n="0821010"><lem wit="【大】">天竺三藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">西域沙門</rdg></app>竺曇無蘭譯</byline>
+<lb ed="T" n="0821a21"/><cb:div type="jing"><p xml:id="pT14p0821a2101">聞如是：</p><p rend="inline" xml:id="pT14p0821a2104">一時，佛在舍衛國祇陀<note type="orig" n="0821011" place="foot text" resp="Taisho">恒＝園【三】【宮】</note><note resp="CBETA" type="mod" n="0821011">恒＝園【宋】【元】【明】【宮】</note><app n="0821011"><lem wit="【大】">恒</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">園</rdg></app>，呵雕阿那
+<lb ed="T" n="0821a22"/><app corresp="#0821009" type="star"><lem wit="【大】">鋡</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">含</rdg></app>將五百優婆塞至舍利弗所，作禮已，却
+<lb ed="T" n="0821a23"/>坐。舍利弗為說經，大歡喜而退。復至佛所，以
+<lb ed="T" n="0821a24"/>頭面著地，叉手繞佛三匝，却坐。</p><p rend="inline" xml:id="pT14p0821a2413">佛問呵雕阿
+<lb n="0821a25" ed="T"/>那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>：「若有何功德，教化五百弟子隨<note type="orig" n="0821012" place="foot text" resp="Taisho">從＝侍【三】【宮】</note><note n="0821012" type="mod" resp="CBETA">從＝侍【宋】【元】【明】【宮】</note><app n="0821012"><lem wit="【大】">從</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">侍</rdg></app>
+<lb ed="T" n="0821a26"/>汝？」</p><p rend="inline" xml:id="pT14p0821a2602">呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">含</rdg></app>即長跪叉手言：「我常奉行
+<lb ed="T" n="0821a27"/>佛所說四事。何等為四？一者、布施於人；二
+<lb n="0821a28" ed="T"/>者、說善說；三者、<note type="orig" n="0821013" place="foot text" resp="Taisho">瞻＝占【三】【宮】</note><note resp="CBETA" type="mod" n="0821013">瞻＝占【宋】【元】【明】【宮】</note><app n="0821013"><lem wit="【大】">瞻</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">占</rdg></app>視同學給足有無；四者、
+<lb ed="T" n="0821a29"/>同學者財共不計。」</p><p rend="inline" xml:id="pT14p0821a2908">佛言：「善哉！善哉！已過去
+<pb ed="T" xml:id="T14.0538.0821b" n="0821b"/>
+<lb ed="T" n="0821b01"/>佛，無有過是四事；未來佛，亦無有過是四事；
+<lb n="0821b02" ed="T"/>今現在佛，亦無有過是四事。」</p><p rend="inline" xml:id="pT14p0821b0212">佛為呵雕阿那
+<lb ed="T" n="0821b03"/><app corresp="#0821009" type="star"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>說經已，各大歡喜而退。</p><p xml:id="pT14p0821b0311" rend="inline">呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>還
+<lb n="0821b04" ed="T"/>歸入<note type="orig" n="0821014" place="foot text" resp="Taisho">舍＝含【明】</note><app n="0821014"><lem wit="【大】">舍</lem><rdg resp="Taisho" wit="【明】">含</rdg></app>，呼諸人、<note resp="Taisho" place="foot text" n="0821015" type="orig">客＝容【聖】</note><app n="0821015"><lem wit="【大】">客</lem><rdg wit="【聖】" resp="Taisho">容</rdg></app>、奴婢坐著前，好為說經
+<lb ed="T" n="0821b05"/>開解，語生死善惡之道；復上殿呼諸<note type="orig" n="0821016" place="foot text" resp="Taisho">持＝侍【聖】</note><app n="0821016"><lem wit="【大】">持</lem><rdg wit="【聖】" resp="Taisho">侍</rdg></app>藏
+<lb ed="T" n="0821b06"/>人、諸<app><lem wit="【CBETA】【麗】" resp="CBETA.maha CBETA.say">妓<note type="cf1">K20n0834_p1169b19</note></lem><rdg wit="【大】">伎</rdg></app>女著前，為說經<note type="orig" n="0821017" place="foot text" resp="Taisho">戒＝誡【聖】＊</note><app n="0821017"><lem wit="【大】">戒</lem><rdg wit="【聖】" resp="Taisho">誡</rdg></app>，皆大歡喜；復上
+<lb ed="T" n="0821b07"/>後殿，為諸夫人、婦女，說經<app type="star" corresp="#0821017"><lem wit="【大】">戒</lem><rdg wit="【聖】" resp="Taisho">誡</rdg></app>已訖，還至正
+<lb n="0821b08" ed="T"/>殿，齋戒床上，端<note resp="Taisho" place="foot text" n="0821018" type="orig">坐＝正【宮】</note><app n="0821018"><lem wit="【大】">坐</lem><rdg resp="Taisho" wit="【宮】">正</rdg></app>定意，便得等心。</p><p rend="inline" xml:id="pT14p0821b0814">第一
 <lb n="0821b09" ed="T"/>天上四王請諸天皆會坐，共稱譽呵雕阿那
-<lb n="0821b10" ed="T"/><app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>功德，<note n="0821019" resp="Taisho" type="orig" place="foot text">四天＝天四【三】【宮】【聖】</note><note n="0821019" resp="CBETA" type="mod">四天＝天四【宋】【元】【明】【宮】【聖】</note><app n="0821019"><lem wit="【大】">四天</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】">天四</rdg></app>王中尊王下至呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>
-<lb n="0821b11" ed="T"/>舍，面稱譽呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>功德。呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>
-<lb n="0821b12" ed="T"/>時得等心，不答天王。</p><p xml:id="pT14p0821b1209" rend="inline">佛邊有一比丘，至呵
-<lb n="0821b13" ed="T"/>雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>舍，呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>起迎比丘前坐，
-<lb n="0821b14" ed="T"/>比丘說言：「佛坐中常相稱譽功德。」呵雕阿那
+<lb n="0821b10" ed="T"/><app corresp="#0821009" type="star"><lem wit="【大】">鋡</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">含</rdg></app>功德，<note resp="Taisho" place="foot text" n="0821019" type="orig">四天＝天四【三】【宮】【聖】</note><note type="mod" n="0821019" resp="CBETA">四天＝天四【宋】【元】【明】【宮】【聖】</note><app n="0821019"><lem wit="【大】">四天</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】">天四</rdg></app>王中尊王下至呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">含</rdg></app>
+<lb n="0821b11" ed="T"/>舍，面稱譽呵雕阿那<app corresp="#0821009" type="star"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>功德。呵雕阿那<app corresp="#0821009" type="star"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>
+<lb ed="T" n="0821b12"/>時得等心，不答天王。</p><p rend="inline" xml:id="pT14p0821b1209">佛邊有一比丘至呵
+<lb ed="T" n="0821b13"/>雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>舍，呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>起迎比丘前坐，
+<lb ed="T" n="0821b14"/>比丘說言：「佛坐中常相稱譽功德。」呵雕阿那
 <lb n="0821b15" ed="T"/><app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>問比丘言：「佛稱譽我時，邊有白衣無？」</p><p xml:id="pT14p0821b1516" rend="inline">比
-<lb n="0821b16" ed="T"/>丘言：「無有白衣，正使有白衣，<note n="0821020" resp="Taisho" type="orig" place="foot text">〔有〕－【聖】</note><app n="0821020"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>何等嫌疑
-<lb n="0821b17" ed="T"/><note n="0821021" resp="Taisho" type="orig" place="foot text">那＝耶【三】【宮】，邪【聖】</note><note n="0821021" resp="CBETA" type="mod">那＝耶【宋】【元】【明】【宮】【麗-CB】【CB】，＝邪【聖】</note><app n="0821021"><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">耶<note type="cf1">K20n0834_p1169c10</note></lem><rdg wit="【大】">那</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">耶</rdg><rdg resp="Taisho" wit="【聖】">邪</rdg></app>？」</p><p xml:id="pT14p0821b1702" rend="inline">呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>言：「佛語至誠，恐白衣不
-<lb n="0821b18" ed="T"/>信者，便當墮泥犁中；正使信佛語者，便復
-<lb n="0821b19" ed="T"/>來承事我，布施我，我不喜煩擾於人，<note n="0821022" resp="Taisho" type="orig" place="foot text">以＝於【明】</note><app n="0821022"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【明】">於</rdg></app>是
-<lb n="0821b20" ed="T"/>故問耳。」比丘辭去。</p><p xml:id="pT14p0821b2008" rend="inline">呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>言：「想朝來
-<lb n="0821b21" ed="T"/>未食，且留飲食。」便行澡水，下<note n="0821023" resp="Taisho" type="orig" place="foot text">飯＝飲【三】【宮】</note><note n="0821023" resp="CBETA" type="mod">飯＝飲【宋】【元】【明】【宮】</note><app n="0821023"><lem wit="【大】">飯</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">飲</rdg></app>。</p><p xml:id="pT14p0821b2113" rend="inline">食訖，比丘
+<lb n="0821b16" ed="T"/>丘言：「無有白衣。正使有白衣，<note resp="Taisho" place="foot text" n="0821020" type="orig">〔有〕－【聖】</note><app n="0821020"><lem wit="【大】">有</lem><rdg wit="【聖】" resp="Taisho"><space quantity="0"></space></rdg></app>何等嫌疑
+<lb n="0821b17" ed="T"/><note resp="Taisho" place="foot text" n="0821021" type="orig">那＝耶【三】【宮】，邪【聖】</note><note resp="CBETA" n="0821021" type="mod">那＝耶【宋】【元】【明】【宮】【麗-CB】【CB】，＝邪【聖】</note><app n="0821021"><lem wit="【CBETA】【麗】" resp="CBETA.maha CBETA.say">耶<note type="cf1">K20n0834_p1169c10</note></lem><rdg wit="【大】">那</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">耶</rdg><rdg wit="【聖】" resp="Taisho">邪</rdg></app>？」</p><p xml:id="pT14p0821b1702" rend="inline">呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>言：「佛語至誠，恐白衣不
+<lb ed="T" n="0821b18"/>信者，便當墮泥犁中；正使信佛語者，便復
+<lb ed="T" n="0821b19"/>來承事我，布施我，我不喜煩擾於人，<note place="foot text" resp="Taisho" type="orig" n="0821022">以＝於【明】</note><app n="0821022"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【明】">於</rdg></app>是
+<lb ed="T" n="0821b20"/>故問耳。」比丘辭去。</p><p xml:id="pT14p0821b2008" rend="inline">呵雕阿那<app corresp="#0821009" type="star"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>言：「想朝來
+<lb ed="T" n="0821b21"/>未食，且留飲食。」便行澡水，下<note type="orig" n="0821023" place="foot text" resp="Taisho">飯＝飲【三】【宮】</note><note resp="CBETA" n="0821023" type="mod">飯＝飲【宋】【元】【明】【宮】</note><app n="0821023"><lem wit="【大】">飯</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">飲</rdg></app>。</p><p rend="inline" xml:id="pT14p0821b2113">食訖，比丘
 <lb n="0821b22" ed="T"/>還白佛言：「屬至呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>舍，道說言：『佛
-<lb n="0821b23" ed="T"/>坐中大相稱譽。』呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>因問我言：『佛稱
-<lb n="0821b24" ed="T"/>譽我時，邊有白衣無？』我言：『無白衣，正使有白
-<lb n="0821b25" ed="T"/>衣有何等嫌疑？』呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>言：『佛稱譽我，
+<lb ed="T" n="0821b23"/>坐中大相稱譽。』呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>因問我言：『佛稱
+<lb ed="T" n="0821b24"/>譽我時，邊有白衣無？』我言：『無白衣。正使有白
+<lb n="0821b25" ed="T"/>衣，有何等嫌疑？』呵雕阿那<app corresp="#0821009" type="star"><lem wit="【大】">鋡</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">含</rdg></app>言：『佛稱譽我，
 <lb n="0821b26" ed="T"/>實至誠不妄，白衣不信佛語者，便當墮泥犁
-<lb n="0821b27" ed="T"/>中；正使信者，便復來承事我，我不喜煩擾
+<lb ed="T" n="0821b27"/>中；正使信者，便復來承事我，我不喜煩擾
 <lb n="0821b28" ed="T"/>他人，以是故問耳。』」</p><p xml:id="pT14p0821b2808" rend="inline">佛言：「善哉！善哉！我不常
-<lb n="0821b29" ed="T"/>為汝曹說呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app>有七事，今復益一事
-<pb n="0821c" ed="T" xml:id="T14.0538.0821c"/>
-<lb n="0821c01" ed="T"/>為八事。何等為八事？一者、不求不欲令人知；
-<lb n="0821c02" ed="T"/>二者、信不欲令人知；三者、自羞不欲令人知；
-<lb n="0821c03" ed="T"/>四者、自慚不欲令人知；五者、精進不欲令人
-<lb n="0821c04" ed="T"/>知；六者、自觀不欲令人知；七者、得禪不欲令
-<lb n="0821c05" ed="T"/>人知；八者、黠慧不欲令人知。所以不欲令人
-<lb n="0821c06" ed="T"/>知者，不欲煩擾於人，故不欲令人知。」</p><p xml:id="pT14p0821c0615" rend="inline">佛說
-<lb n="0821c07" ed="T"/>經已，諸比丘皆大歡喜，起前為佛作禮。<note n="0821024" resp="Taisho" type="orig" place="foot text">光明皇后願文【聖】</note></p></cb:div>
-<lb n="0821c08" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><note n="0821025" resp="Taisho" type="orig" place="foot text">〔佛說〕－【聖】</note><app n="0821025"><lem wit="【大】">佛說</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app><note n="0821026" resp="Taisho" type="orig" place="foot text">經＋（一卷）【聖】</note><app n="0821026"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【聖】">經一卷</rdg></app></cb:jhead></cb:juan>
+<lb n="0821b29" ed="T"/>為汝曹說呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">含</rdg></app>有七事，今復益一事
+<pb n="0821c" xml:id="T14.0538.0821c" ed="T"/>
+<lb ed="T" n="0821c01"/>為八事。何等為八事？一者、不求，不欲令人知；
+<lb n="0821c02" ed="T"/>二者、信，不欲令人知；三者、自羞，不欲令人知；
+<lb n="0821c03" ed="T"/>四者、自慚，不欲令人知；五者、精進，不欲令人
+<lb n="0821c04" ed="T"/>知；六者、自觀，不欲令人知；七者、得禪，不欲令
+<lb n="0821c05" ed="T"/>人知；八者、黠慧，不欲令人知。所以不欲令人
+<lb n="0821c06" ed="T"/>知者，不欲煩擾於人，故不欲令人知。」</p><p rend="inline" xml:id="pT14p0821c0615">佛說
+<lb n="0821c07" ed="T"/>經已，諸比丘皆大歡喜，起前為佛作禮。<note place="foot text" resp="Taisho" type="orig" n="0821024">光明皇后願文【聖】</note></p></cb:div>
+<lb ed="T" n="0821c08"/><cb:juan fun="close" n="001"><cb:jhead><note place="foot text" resp="Taisho" type="orig" n="0821025">〔佛說〕－【聖】</note><app n="0821025"><lem wit="【大】">佛說</lem><rdg wit="【聖】" resp="Taisho"><space quantity="0"></space></rdg></app>呵雕阿那<app type="star" corresp="#0821009"><lem wit="【大】">鋡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">含</rdg></app><note resp="Taisho" place="foot text" n="0821026" type="orig">經＋（一卷）【聖】</note><app n="0821026"><lem wit="【大】">經</lem><rdg wit="【聖】" resp="Taisho">經一卷</rdg></app></cb:jhead></cb:juan>
 </body></text></TEI>
