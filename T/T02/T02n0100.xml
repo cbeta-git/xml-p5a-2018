@@ -223,7 +223,7 @@ Revision 1.13  2001/05/25 08:41:42  ray
 經號統一為四碼
 
 Revision 1.12  2001/04/09 23:22:02  ray
-p0418b16, <choice><orig>&#x4812;跪</orig><reg type="通用詞">胡跪</reg></choice>X掌 => <choice><orig>&#x4812;跪</orig><reg type="通用詞">胡跪</reg></choice>合掌
+p0418b16, <choice cb:resp="CBETA"><orig>&#x4812;跪</orig><reg type="通用詞">胡跪</reg></choice>X掌 => <choice cb:resp="CBETA"><orig>&#x4812;跪</orig><reg type="通用詞">胡跪</reg></choice>合掌
 
 Revision 1.11  2001/04/06 12:42:58  ray
 no message
@@ -309,7 +309,7 @@ Added comment  for Emacs
 <lb n="0374b24" ed="T"/>入城乞食。<note n="0374015" resp="Taisho" type="orig" place="foot text">飲＝飯【三】</note><note n="0374015" resp="CBETA" type="mod">飲＝飯【宋】【元】【明】</note><app n="0374015"><lem wit="【大】">飲</lem><rdg resp="Taisho" wit="【宋】【元】【明】">飯</rdg></app>食已訖，往詣佛所，白佛言：「世
 <lb n="0374b25" ed="T"/>尊！向以時到，入城乞食，見提婆達多招集遠
 <lb n="0374b26" ed="T"/>近，大獲供養。」佛告諸比丘：「汝等不應於<note n="0374016" resp="Taisho" type="orig" place="foot text">提婆達＋（多）【三】【聖】＊</note><note n="0374016" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->提婆達＋（多）【宋】【元】【明】【聖】＊</note><app n="0374016"><lem wit="【大】">提
-<lb n="0374b27" ed="T"/>婆達</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">提婆達多</rdg></app>所，生願<choice><corr>羨</corr><sic>羡</sic></choice>心。所以者何？此<note n="0374017" resp="Taisho" type="orig" place="foot text">〔提〕－【宋】【元】</note><app n="0374017"><lem wit="【大】"><anchor xml:id="fxT02p0374b01"/>提</lem><rdg resp="Taisho" wit="【宋】【元】"><space quantity="0"/></rdg></app>婆達必
+<lb n="0374b27" ed="T"/>婆達</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">提婆達多</rdg></app>所，生願<choice cb:resp="CBETA"><corr>羨</corr><sic>羡</sic></choice>心。所以者何？此<note n="0374017" resp="Taisho" type="orig" place="foot text">〔提〕－【宋】【元】</note><app n="0374017"><lem wit="【大】"><anchor xml:id="fxT02p0374b01"/>提</lem><rdg resp="Taisho" wit="【宋】【元】"><space quantity="0"/></rdg></app>婆達必
 <lb n="0374b28" ed="T"/>為利養之所傷害。譬如芭蕉生實則死，蘆竹
 <lb n="0374b29" ed="T"/><note n="0374018" resp="Taisho" type="orig" place="foot text">𤝙𤡣＝駏驉【三】</note><note n="0374018" resp="CBETA" type="mod">𤝙𤡣＝駏驉【宋】【元】【明】</note><app n="0374018"><lem wit="【大】">𤝙𤡣</lem><rdg resp="Taisho" wit="【宋】【元】【明】">駏驉</rdg></app>，騾懷妊等，亦復如是。提婆達多得於利
 <pb n="0374c" ed="T" xml:id="T02.0100.0374c"/>
@@ -1470,12 +1470,12 @@ Added comment  for Emacs
 <lb n="0387b13" ed="T"/>天人，所恭敬者，名之為僧，今我恭敬信向於
 <lb n="0387b14" ed="T"/>僧。』爾時，摩得梨<note n="0387007" resp="Taisho" type="orig" place="foot text">說偈問＝即說偈【三】【聖】</note><note n="0387007" resp="CBETA" type="mod">說偈問＝即說偈【宋】【元】【明】【聖】</note><app n="0387007"><lem wit="【大】">說偈問</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">即說偈</rdg></app>言：</p>
 <lb n="0387b15" ed="T"/><lg xml:id="lgT02p0387b1501" rend="margin-left:2em;text-indent:-2em"><l>「『人身膿汗滿，</l><l>劇於露死屍，</l>
-<lb n="0387b16" ed="T"/><l>恒患飢渴苦，</l><l>豈<choice><corr>羨</corr><sic>羡</sic></choice>彼無家？</l>
+<lb n="0387b16" ed="T"/><l>恒患飢渴苦，</l><l>豈<choice cb:resp="CBETA"><corr>羨</corr><sic>羡</sic></choice>彼無家？</l>
 <lb n="0387b17" ed="T"/><l>汝今以何故，</l><l>極能恭敬彼？</l>
 <lb n="0387b18" ed="T"/><l>彼有何威儀，</l><l>及以道德行？</l>
 <lb n="0387b19" ed="T"/><l>願汝為我說，</l><l>我今至心聽。』</l></lg>
 <lb n="0387b20" ed="T"/><p xml:id="pT02p0387b2001">「爾時，釋提桓因即說偈言：</p>
-<lb n="0387b21" ed="T"/><lg xml:id="lgT02p0387b2101" rend="margin-left:2em;text-indent:-2em"><l>「『以彼無家故，</l><l>我實<choice><corr>羨</corr><sic>羡</sic></choice>於彼，</l>
+<lb n="0387b21" ed="T"/><lg xml:id="lgT02p0387b2101" rend="margin-left:2em;text-indent:-2em"><l>「『以彼無家故，</l><l>我實<choice cb:resp="CBETA"><corr>羨</corr><sic>羡</sic></choice>於彼，</l>
 <lb n="0387b22" ed="T"/><l>彼亦無庫藏，</l><l>倉庫及穀米。</l>
 <lb n="0387b23" ed="T"/><l>離諸眾事務，</l><l>節食諧全命，</l>
 <lb n="0387b24" ed="T"/><l>善護於禁戒，</l><l>辯說美妙法。</l>
@@ -2096,7 +2096,7 @@ Added comment  for Emacs
 <lb n="0394b08" ed="T"/>時，煮薑一罷，煮已還取，賣為財用。所可著者，
 <lb n="0394b09" ed="T"/>唯衣麁布，五總麁弊，以為內衣。乘朽故車，<app><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">連<note type="cf1">K19n0651_p0027b23</note><note type="cf2">T02n0100_p0393c20</note></lem><rdg wit="【大】">進</rdg></app>
 <lb n="0394b10" ed="T"/>綴樹葉，以為繖蓋。未曾見其修少布施沙門、
-<lb n="0394b11" ed="T"/>婆羅門、<choice><corr>貧</corr><sic>貪</sic></choice>窮乞兒。」</p><p xml:id="pT02p0394b1108" rend="inline">佛言：「如此愚人，非善丈夫。
+<lb n="0394b11" ed="T"/>婆羅門、<choice cb:resp="CBETA"><corr>貧</corr><sic>貪</sic></choice>窮乞兒。」</p><p xml:id="pT02p0394b1108" rend="inline">佛言：「如此愚人，非善丈夫。
 <lb n="0394b12" ed="T"/>何以故？雖有財寶，不能開意正直受樂，又復
 <lb n="0394b13" ed="T"/>不能供養父母及與妻子，亦不賜與奴婢僕
 <lb n="0394b14" ed="T"/>使，<note n="0394005" resp="Taisho" type="orig" place="foot text">（又）＋不【三】</note><note n="0394005" resp="CBETA" type="mod">（又）＋不【宋】【元】【明】</note><app n="0394005"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【宋】【元】【明】">又不</rdg></app>時時施與沙門及婆羅門，亦復不求生
@@ -2880,7 +2880,7 @@ Added comment  for Emacs
 <lb n="0403a15" ed="T"/><lg xml:id="lgT02p0403a1501" rend="margin-left:1em;text-indent:-1em"><l>「能知於宿命，</l><l>見天及惡趣，</l>
 <lb n="0403a16" ed="T"/><l>盡於生死有，</l><l>三通并三明。</l>
 <lb n="0403a17" ed="T"/><l>心得好解脫，</l><l>斷欲及一切，</l>
-<lb n="0403a18" ed="T"/><l>成就上三<choice><corr>明</corr><sic>朋</sic></choice>，</l><l>我名為三明。」</l></lg>
+<lb n="0403a18" ed="T"/><l>成就上三<choice cb:resp="CBETA"><corr>明</corr><sic>朋</sic></choice>，</l><l>我名為三明。」</l></lg>
 <lb n="0403a19" ed="T"/><p xml:id="pT02p0403a1901">時，婆羅門聞佛所說，踊躍歡喜，退坐而去。</p></cb:div>
 <lb n="0403a20" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">85</cb:mulu><head><note n="0403008" resp="Taisho" type="orig" place="foot text">[No. 99(1162)]</note><note n="0403008" place="foot" type="cf.">[No. 99(1162)]</note>（八五）</head><p xml:id="pT02p0403a2003" rend="inline">如是我聞：</p><p xml:id="pT02p0403a2007" rend="inline">一時，佛在舍衛國祇樹給孤
 <lb n="0403a21" ed="T"/>獨園。爾時，世尊晨朝著衣持鉢，阿難從佛，向
@@ -2902,7 +2902,7 @@ Added comment  for Emacs
 <lb n="0403b07" ed="T"/><l>不修於梵行，</l><l>壯不聚財寶，</l>
 <lb n="0403b08" ed="T"/><l>念壯所好樂，</l><l>住立如曲弓。」</l></lg>
 <lb n="0403b09" ed="T"/><p xml:id="pT02p0403b0901">佛說是已，諸比丘聞佛所說，歡喜奉行。</p></cb:div>
-<lb n="0403b10" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">86</cb:mulu><head><note n="0403013" resp="Taisho" type="orig" place="foot text">[No. 99(1163)]</note><note n="0403013" place="foot" type="cf.">[No. 99(1163)]</note>（八六）</head><p xml:id="pT02p0403b1003" rend="inline">如是我聞：</p><p xml:id="pT02p0403b1007" rend="inline">一<choice><corr>時</corr><sic>切</sic></choice>，佛在舍衛國祇樹給孤
+<lb n="0403b10" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">86</cb:mulu><head><note n="0403013" resp="Taisho" type="orig" place="foot text">[No. 99(1163)]</note><note n="0403013" place="foot" type="cf.">[No. 99(1163)]</note>（八六）</head><p xml:id="pT02p0403b1003" rend="inline">如是我聞：</p><p xml:id="pT02p0403b1007" rend="inline">一<choice cb:resp="CBETA"><corr>時</corr><sic>切</sic></choice>，佛在舍衛國祇樹給孤
 <lb n="0403b11" ed="T"/>獨園。爾時，有一老婆羅門年耆根熟，先於往
 <lb n="0403b12" ed="T"/>日，多造眾惡，極為麁弊，毀犯所禁，不<note n="0403014" resp="Taisho" type="orig" place="foot text">信＝修【三】</note><note n="0403014" resp="CBETA" type="mod">信＝修【宋】【元】【明】</note><app n="0403014"><lem wit="【大】">信</lem><rdg resp="Taisho" wit="【宋】【元】【明】">修</rdg></app>福
 <lb n="0403b13" ed="T"/>善，不先作福，臨終之時，無所依止，往詣佛
@@ -3569,7 +3569,7 @@ Added comment  for Emacs
 <lb n="0410c14" ed="T"/><l>譬如彼恒河，</l><l>流赴於大海，</l>
 <lb n="0410c15" ed="T"/><l>聖道亦如是，</l><l>佛為開顯現，</l>
 <lb n="0410c16" ed="T"/><l>斯道如彼河，</l><l>趣於甘露海。</l>
-<lb n="0410c17" ed="T"/><l>昔來<choice><corr>未</corr><sic>末</sic></choice>曾聞，</l><l>轉妙法輪音，</l>
+<lb n="0410c17" ed="T"/><l>昔來<choice cb:resp="CBETA"><corr>未</corr><sic>末</sic></choice>曾聞，</l><l>轉妙法輪音，</l>
 <lb n="0410c18" ed="T"/><l>唯願天人尊，</l><l>度老病死者，</l>
 <lb n="0410c19" ed="T"/><l>一切所歸命，</l><l>為轉妙法輪。」</l></lg>
 <lb n="0410c20" ed="T"/><p xml:id="pT02p0410c2001">時，梵主天頂禮佛足，即沒而去。</p></cb:div>
@@ -4005,7 +4005,7 @@ Added comment  for Emacs
 <lb n="0415b30" ed="T"/>語。」</p><p xml:id="pT02p0415b3002" rend="inline">佛告迦葉：「汝於今者，見何因緣，而不為
 <pb n="0415c" ed="T" xml:id="T02.0100.0415c"/>
 <lb n="0415c01" ed="T"/>說？」</p><p xml:id="pT02p0415c0102" rend="inline">迦葉對曰：「若不信者，退失善法，便生懈
-<lb n="0415c02" ed="T"/>怠，無有<choice><corr>慚</corr><sic>漸</sic></choice>愧，愚癡無智，貪著他物，有恚害
+<lb n="0415c02" ed="T"/>怠，無有<choice cb:resp="CBETA"><corr>慚</corr><sic>漸</sic></choice>愧，愚癡無智，貪著他物，有恚害
 <lb n="0415c03" ed="T"/>心，睡蓋所覆，掉動不停，於法疑惑，深著我
 <lb n="0415c04" ed="T"/>見，具於煩惱垢污之心，喜瞋失念，<note n="0415010" resp="Taisho" type="orig" place="foot text">（心）＋無【三】</note><note n="0415010" resp="CBETA" type="mod">（心）＋無【宋】【元】【明】</note><app n="0415010"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【宋】【元】【明】">心無</rdg></app><note n="0415011" resp="Taisho" type="orig" place="foot text">暫＝慚【明】</note><app n="0415011"><lem wit="【大】">暫</lem><rdg resp="Taisho" wit="【明】">慚</rdg></app>定，
 <lb n="0415c05" ed="T"/>有如是等種種不善惡法，決定具有。如斯等
@@ -4146,7 +4146,7 @@ Added comment  for Emacs
 <lb n="0417a20" ed="T"/>是。」爾時，世尊<app><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">於<note type="cf1">K19n0651_p0057a15</note></lem><rdg wit="【大】">我</rdg></app>彼無量大眾之中，稱讚迦葉
 <lb n="0417a21" ed="T"/>功德，尊重如是，種種與己齊等。</p><p xml:id="pT02p0417a2113" rend="inline">時，諸比丘聞
 <lb n="0417a22" ed="T"/>佛所說，<note n="0417003" resp="Taisho" type="orig" place="foot text">以歡喜奉行為卷第十三終【三】</note><note n="0417003" resp="CBETA" type="mod"><!--CBETA todo type: a-->以歡喜奉行為卷第十三終【宋】【元】【明】</note>歡喜奉行。</p></cb:div>
-<lb n="0417a23" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">118</cb:mulu><head><note n="0417004" resp="Taisho" type="orig" place="foot text">[No. 99(1143)]如是我聞以下為卷第十四【三】</note><note n="0417004" resp="CBETA" type="mod"><!--CBETA todo type: a-->[No. 99(1143)]，如是我聞以下為卷第十四【宋】【元】【明】</note><note n="0417004" place="foot" type="cf.">[No. 99(1143)]</note>（一一八）</head><p xml:id="pT02p0417a2304" rend="inline">如是我聞：</p><p xml:id="pT02p0417a2308" rend="inline"><choice><corr><space quantity="0"/></corr><sic>賤</sic></choice>一時，佛在王舍城，耆闍崛
+<lb n="0417a23" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">118</cb:mulu><head><note n="0417004" resp="Taisho" type="orig" place="foot text">[No. 99(1143)]如是我聞以下為卷第十四【三】</note><note n="0417004" resp="CBETA" type="mod"><!--CBETA todo type: a-->[No. 99(1143)]，如是我聞以下為卷第十四【宋】【元】【明】</note><note n="0417004" place="foot" type="cf.">[No. 99(1143)]</note>（一一八）</head><p xml:id="pT02p0417a2304" rend="inline">如是我聞：</p><p xml:id="pT02p0417a2308" rend="inline"><choice cb:resp="CBETA"><corr><space quantity="0"/></corr><sic>賤</sic></choice>一時，佛在王舍城，耆闍崛
 <lb n="0417a24" ed="T"/>山迦蘭陀竹林。爾時，尊者摩訶迦葉、尊者阿
 <lb n="0417a25" ed="T"/>難在耆闍崛山中。于時阿難食時已到，語尊
 <lb n="0417a26" ed="T"/>者摩訶迦葉言：「大德！食時已到，可共乞食。」於
@@ -5410,7 +5410,7 @@ Added comment  for Emacs
 <lb n="0431a28" ed="T"/><p xml:id="pT02p0431a2801">說斯法時，大迦旃延遠塵離垢，得法眼淨。薄
 <lb n="0431a29" ed="T"/>迦梨比丘煩惱永滅，不受後生，盡諸有結。</p><p xml:id="pT02p0431a2917" rend="inline">時
 <pb n="0431b" ed="T" xml:id="T02.0100.0431b"/>
-<lb n="0431b01" ed="T"/>諸<choice><corr>比</corr><sic>此</sic></choice>丘聞佛所說，歡喜奉行。</p>
+<lb n="0431b01" ed="T"/>諸<choice cb:resp="CBETA"><corr>比</corr><sic>此</sic></choice>丘聞佛所說，歡喜奉行。</p>
 <lb n="0431b02" ed="T"/><lg xml:id="lgT02p0431b0201"><l>惡馬、調順馬</l><l>賢乘、三及四</l>
 <lb n="0431b03" ed="T"/><l>鞭影并調乘</l><l>有過、八種惡</l>
 <lb n="0431b04" ed="T"/><l>迦旃延離垢</l><l>十事悉皆竟</l></lg></cb:div>
@@ -7182,7 +7182,7 @@ Added comment  for Emacs
 <pb n="0451a" ed="T" xml:id="T02.0100.0451a"/>
 <lb n="0451a01" ed="T"/>行。」于時如來作斯念已，從<anchor xml:id="fxT02p0451a01"/>坐起去。</p><p xml:id="pT02p0451a0114" rend="inline">佛去不
 <lb n="0451a02" ed="T"/>久，爾時，須摩竭陀池神而說偈言：</p>
-<lb n="0451a03" ed="T"/><lg xml:id="lgT02p0451a0301" rend="margin-left:1em;text-indent:-1em"><l>「譬如畫水欲求迹，</l><l>下種鹵地求苗<choice><corr>稼</corr><sic>榢</sic></choice>，</l>
+<lb n="0451a03" ed="T"/><lg xml:id="lgT02p0451a0301" rend="margin-left:1em;text-indent:-1em"><l>「譬如畫水欲求迹，</l><l>下種鹵地求苗<choice cb:resp="CBETA"><corr>稼</corr><sic>榢</sic></choice>，</l>
 <lb n="0451a04" ed="T"/><l>如以芳香熏臭穢，</l><l>水𣷽注<note n="0451001" resp="Taisho" type="orig" place="foot text">波＝陂【三】</note><note n="0451001" resp="CBETA" type="mod">波＝陂【宋】【元】【明】</note><app n="0451001"><lem wit="【大】">波</lem><rdg resp="Taisho" wit="【宋】【元】【明】">陂</rdg></app>求<app type="star" corresp="#0450007"><lem wit="【大】">濡</lem><rdg resp="Taisho" wit="【宋】【元】【明】">軟</rdg></app>弱，</l>
 <lb n="0451a05" ed="T"/><l>吹彼鐵杵求妙聲，</l><l>如於盛冬求野馬，</l>
 <lb n="0451a06" ed="T"/><l>彼諸外道亦如是，</l><l>雖聞妙法不信受。」</l></lg>
@@ -7317,7 +7317,7 @@ Added comment  for Emacs
 <lb n="0452b15" ed="T"/>若如是者，為自所作？為他所作？」</p><p xml:id="pT02p0452b1513" rend="inline">尸蔔白佛：「他
 <lb n="0452b16" ed="T"/>之所作。」</p><p xml:id="pT02p0452b1604" rend="inline">佛告尸蔔：「云何自己所作？常拔鬚髮，
 <lb n="0452b17" ed="T"/>或舉手立，不在床坐。或復蹲坐，以之為業。或
-<lb n="0452b18" ed="T"/>復坐臥於<choice><corr>棘</corr><sic>𣗥</sic></choice>刺之上，或<note n="0452003" resp="Taisho" type="orig" place="foot text">邊＝編【三】</note><note n="0452003" resp="CBETA" type="mod">邊＝編【宋】【元】【明】</note><app n="0452003"><lem wit="【大】">邊</lem><rdg resp="Taisho" wit="【宋】【元】【明】">編</rdg></app>椽坐臥，或坐臥灰
+<lb n="0452b18" ed="T"/>復坐臥於<choice cb:resp="CBETA"><corr>棘</corr><sic>𣗥</sic></choice>刺之上，或<note n="0452003" resp="Taisho" type="orig" place="foot text">邊＝編【三】</note><note n="0452003" resp="CBETA" type="mod">邊＝編【宋】【元】【明】</note><app n="0452003"><lem wit="【大】">邊</lem><rdg resp="Taisho" wit="【宋】【元】【明】">編</rdg></app>椽坐臥，或坐臥灰
 <lb n="0452b19" ed="T"/>土，或牛屎塗地，於其中坐臥。或翹一足，隨日
 <lb n="0452b20" ed="T"/>而轉，盛夏之月，五熱炙身，或食菜，或食稗
 <lb n="0452b21" ed="T"/>子，或食舍樓伽，或食糟，或食油滓，或食牛
@@ -7379,7 +7379,7 @@ Added comment  for Emacs
 <lb n="0453a17" ed="T"/>久，學日又淺，而當能解如斯之義？」作是念時，
 <lb n="0453a18" ed="T"/>於其中路，迴車欲還，復更思惟：「我昔曾從耆
 <lb n="0453a19" ed="T"/>舊宿德老梵志所，聞如是說：『出家之人，年雖
-<lb n="0453a20" ed="T"/>幼稚，不應<choice><corr>輕</corr><sic>經</sic></choice>蔑。何以故？年雖幼稚，有大神通
+<lb n="0453a20" ed="T"/>幼稚，不應<choice cb:resp="CBETA"><corr>輕</corr><sic>經</sic></choice>蔑。何以故？年雖幼稚，有大神通
 <lb n="0453a21" ed="T"/>及大智慧。』」作是念已，即往佛所。至佛所已，恭
 <lb n="0453a22" ed="T"/>敬問訊，在一面坐。心中默念如是四難：「云何
 <lb n="0453a23" ed="T"/>於己實是怨家，詐現親相？云何於自善親友
@@ -7458,7 +7458,7 @@ Added comment  for Emacs
 <lb n="0454a05" ed="T"/><lg xml:id="lgT02p0454a0501" rend="margin-left:1em;text-indent:-1em"><l>「仙聖之所得，</l><l>斯處難階及，</l>
 <lb n="0454a06" ed="T"/><l>非汝鄙穢智，</l><l>獲得如是處。」</l></lg>
 <lb n="0454a07" ed="T"/><p xml:id="pT02p0454a0701">時比丘尼作如是念：「此為是人？是非人乎？而
-<lb n="0454a08" ed="T"/>欲惱我。」入定觀<choice><corr>察</corr><sic>眾</sic></choice>，知是波旬，即說偈言：</p>
+<lb n="0454a08" ed="T"/>欲惱我。」入定觀<choice cb:resp="CBETA"><corr>察</corr><sic>眾</sic></choice>，知是波旬，即說偈言：</p>
 <lb n="0454a09" ed="T"/><lg xml:id="lgT02p0454a0901" rend="margin-left:1em;text-indent:-1em"><l>「女相無所作，</l><l>唯意修禪定，</l>
 <lb n="0454a10" ed="T"/><l>觀見<note n="0454001" resp="Taisho" type="orig" place="foot text">於＝于【三】【聖】</note><note n="0454001" resp="CBETA" type="mod">於＝于【宋】【元】【明】【聖】</note><app n="0454001"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">于</rdg></app>上法。</l><l>若有男女相，</l>
 <lb n="0454a11" ed="T"/><l>可說於女人，</l><l>於法無所能。</l>
@@ -7633,7 +7633,7 @@ Added comment  for Emacs
 <pb n="0456a" ed="T" xml:id="T02.0100.0456a"/>
 <lb n="0456a01" ed="T"/>鉢，入舍衛城乞食，食訖洗足，收攝坐具，詣得
 <lb n="0456a02" ed="T"/>眼林，在一樹下，正身端坐，入於天住。我今當
-<lb n="0456a03" ed="T"/>往而作壞亂。」作是念已，化作<choice><corr>摩</corr><sic>魔</sic></choice>納，即往其所，
+<lb n="0456a03" ed="T"/>往而作壞亂。」作是念已，化作<choice cb:resp="CBETA"><corr>摩</corr><sic>魔</sic></choice>納，即往其所，
 <lb n="0456a04" ed="T"/>問比丘尼言：「阿利耶欲何處受身？」</p><p xml:id="pT02p0456a0414" rend="inline">比丘尼答
 <lb n="0456a05" ed="T"/>曰：「我都無受身處。」</p><p xml:id="pT02p0456a0508" rend="inline">爾時，摩納即說偈言：</p>
 <lb n="0456a06" ed="T"/><lg xml:id="lgT02p0456a0601" rend="margin-left:1em;text-indent:-1em"><l>「忉利及炎摩，</l><l>兜率與化樂，</l>
@@ -7715,7 +7715,7 @@ Added comment  for Emacs
 <lb n="0456c22" ed="T"/><l>歸命稽首禮世尊。」</l></lg>
 <lb n="0456c23" ed="T"/><p xml:id="pT02p0456c2301">時婆耆奢說此偈已，歡喜踊躍，還于所止。</p></cb:div>
 <lb n="0456c24" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">226</cb:mulu><head><note n="0456016" resp="Taisho" type="orig" place="foot text">[No. 99(1210)]</note><note n="0456016" place="foot" type="cf.">[No. 99(1210)]</note>（二二六）</head><p xml:id="pT02p0456c2404" rend="inline">如是我聞：</p><p xml:id="pT02p0456c2408" rend="inline">一時，佛在舍衛國祇樹給孤
-<lb n="0456c25" ed="T"/>獨園。爾時，尊者舍利<choice><corr>弗</corr><sic>佛</sic></choice>在講堂中，為眾說法，
+<lb n="0456c25" ed="T"/>獨園。爾時，尊者舍利<choice cb:resp="CBETA"><corr>弗</corr><sic>佛</sic></choice>在講堂中，為眾說法，
 <lb n="0456c26" ed="T"/>言音滿足，能使聽者心意喜樂，言<note n="0456017" resp="Taisho" type="orig" place="foot text">辭＝詞【三】</note><note n="0456017" resp="CBETA" type="mod">辭＝詞【宋】【元】【明】</note><app n="0456017"><lem wit="【大】">辭</lem><rdg resp="Taisho" wit="【宋】【元】【明】">詞</rdg></app>正直，聞
 <lb n="0456c27" ed="T"/>者開解，心無所為，所說辯了，諸比丘眾，至心
 <lb n="0456c28" ed="T"/>聽受，聽者悅豫，尊重恭敬，至心<note n="0456018" resp="Taisho" type="orig" place="foot text">憶＝意【三】</note><note n="0456018" resp="CBETA" type="mod">憶＝意【宋】【元】【明】</note><app n="0456018"><lem wit="【大】">憶</lem><rdg resp="Taisho" wit="【宋】【元】【明】">意</rdg></app>念，等同
@@ -7895,7 +7895,7 @@ Added comment  for Emacs
 <lb n="0458c22" ed="T"/><l>若於娶妻中，</l><l>童女為最勝。</l>
 <lb n="0458c23" ed="T"/><l>於諸兒息中，</l><l>長子為最勝。」</l></lg>
 <lb n="0458c24" ed="T"/><p xml:id="pT02p0458c2401">爾時，世尊以偈答曰：</p>
-<lb n="0458c25" ed="T"/><lg xml:id="lgT02p0458c2501" rend="margin-left:0em;text-indent:0em"><l rend="text-indent:0em">「<choice><corr>兩</corr><sic>雨</sic></choice>足最勝正覺是，</l><l>四足中勝善乘是，</l>
+<lb n="0458c25" ed="T"/><lg xml:id="lgT02p0458c2501" rend="margin-left:0em;text-indent:0em"><l rend="text-indent:0em">「<choice cb:resp="CBETA"><corr>兩</corr><sic>雨</sic></choice>足最勝正覺是，</l><l>四足中勝善乘是，</l>
 <lb n="0458c26" ed="T"/><l rend="text-indent:1em">娶妻中勝貞女是，</l><l>兒子中勝孝者是。」</l></lg>
 <lb n="0458c27" ed="T"/><p xml:id="pT02p0458c2701">爾時，天復說偈讚言：</p>
 <lb n="0458c28" ed="T"/><lg xml:id="lgT02p0458c2801" rend="margin-left:1em;text-indent:-1em"><l>「往昔已曾見，</l><l>婆羅門涅槃，</l>
@@ -8338,7 +8338,7 @@ Added comment  for Emacs
 <lb n="0463c14" ed="T"/>遙見佛來，自力欲起，佛告之曰：「不須汝起。」爾
 <lb n="0463c15" ed="T"/>時，世尊別敷座坐，告婆耆奢：「汝今身體苦痛
 <lb n="0463c16" ed="T"/>為可忍不？能飲食不？」</p><p xml:id="pT02p0463c1609" rend="inline">時婆耆奢白言：「此痛
-<lb n="0463c17" ed="T"/>轉增，無有瘳損，今我所患，譬如力<choice><corr>士</corr><sic>土</sic></choice>捉儜人
+<lb n="0463c17" ed="T"/>轉增，無有瘳損，今我所患，譬如力<choice cb:resp="CBETA"><corr>士</corr><sic>土</sic></choice>捉儜人
 <lb n="0463c18" ed="T"/>髮，<note n="0463020" resp="Taisho" type="orig" place="foot text">㨑＝總【三】</note><note n="0463020" resp="CBETA" type="mod">㨑＝總【宋】【元】【明】</note><app n="0463020"><lem wit="【大】">㨑</lem><rdg resp="Taisho" wit="【宋】【元】【明】">總</rdg></app><note n="0463021" resp="Taisho" type="orig" place="foot text">搣＝滅【宋】</note><app n="0463021"><lem wit="【大】">搣</lem><rdg resp="Taisho" wit="【宋】">滅</rdg></app>揉捺，我患頭痛，亦復如是。又如大
 <lb n="0463c19" ed="T"/>力殺牛之人，以刀刺腹，割其腸肚，我患腹痛，
 <lb n="0463c20" ed="T"/>亦復如是。又如瘦人為有力者強捉，火炙，身
@@ -8504,7 +8504,7 @@ Added comment  for Emacs
 <pb n="0465c" ed="T" xml:id="T02.0100.0465c"/>
 <lb n="0465c01" ed="T"/><l>亦如具信人，</l><l>戒聞捨貪嫉，</l>
 <lb n="0465c02" ed="T"/><l>於諸嫉妬者，</l><l>如月蔽眾星。」</l></lg>
-<lb n="0465c03" ed="T"/><p xml:id="pT02p0465c0301">時僧伽羅摩納聞佛所說，<choice><corr>踊</corr><sic>誦</sic></choice>躍而去。諸比丘
+<lb n="0465c03" ed="T"/><p xml:id="pT02p0465c0301">時僧伽羅摩納聞佛所說，<choice cb:resp="CBETA"><corr>踊</corr><sic>誦</sic></choice>躍而去。諸比丘
 <lb n="0465c04" ed="T"/>聞佛所說，歡喜奉行。</p></cb:div>
 <lb n="0465c05" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">261</cb:mulu><head><note n="0465002" resp="Taisho" type="orig" place="foot text">[No. 99(95)].</note><note n="0465002" place="foot" type="cf.">[No. 99(95)].</note>（二六一）</head><p xml:id="pT02p0465c0504" rend="inline">如是我聞：</p><p xml:id="pT02p0465c0508" rend="inline">一時，佛在舍衛國祇樹給孤
 <lb n="0465c06" ed="T"/>獨園。爾時，有婆羅門名曰生聽，往詣佛所，問
@@ -8788,7 +8788,7 @@ Added comment  for Emacs
 <lb n="0468c13" ed="T"/>還于天宮。</p></cb:div>
 <lb n="0468c14" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">270</cb:mulu><head><note n="0468008" resp="Taisho" type="orig" place="foot text">[No. 99(1271)]</note><note n="0468008" place="foot" type="cf.">[No. 99(1271)]</note>（二七〇）</head><p xml:id="pT02p0468c1404" rend="inline">如是我聞：</p><p xml:id="pT02p0468c1408" rend="inline">一時，佛在舍衛國祇樹給孤
 <lb n="0468c15" ed="T"/>獨園。爾時，阿難告諸比丘：「我今欲演四句之
-<lb n="0468c16" ed="T"/>法，咸當善受，至心諦聽，<choice><corr>憶</corr><sic>億</sic></choice>持莫忘。云何名為
+<lb n="0468c16" ed="T"/>法，咸當善受，至心諦聽，<choice cb:resp="CBETA"><corr>憶</corr><sic>億</sic></choice>持莫忘。云何名為
 <lb n="0468c17" ed="T"/>演四句法？</p>
 <lb n="0468c18" ed="T"/><lg xml:id="lgT02p0468c1801" rend="margin-left:1em;text-indent:-1em"><l>「口意宜修善，</l><l>不應作諸惡，</l>
 <lb n="0468c19" ed="T"/><l>身不以小惡，</l><l>加害於世間。</l>
@@ -10277,7 +10277,7 @@ Added comment  for Emacs
 <lb n="0485b05" ed="T"/>拳打舍利弗頭，既打之已，復害夜叉語為害
 <lb n="0485b06" ed="T"/>言：「今打比丘，便為燒煮於我，汝今應當救拔
 <lb n="0485b07" ed="T"/>於我。」作是語時，地自開裂，現身陷入無間地
-<lb n="0485b08" ed="T"/>獄。</p><p xml:id="pT02p0485b0802" rend="inline">爾時，尊者大目<choice><corr>揵</corr><sic>捷</sic></choice>連去舍利弗坐處不遠，
+<lb n="0485b08" ed="T"/>獄。</p><p xml:id="pT02p0485b0802" rend="inline">爾時，尊者大目<choice cb:resp="CBETA"><corr>揵</corr><sic>捷</sic></choice>連去舍利弗坐處不遠，
 <lb n="0485b09" ed="T"/>坐一樹下，尋聞打於舍利弗聲，往詣尊者舍
 <lb n="0485b10" ed="T"/>利弗所，而語之言：「不能堪忍受如是苦，將無
 <lb n="0485b11" ed="T"/>驚怖，散壞身耶？」</p><p xml:id="pT02p0485b1107" rend="inline">舍利弗言：「我身忍受，都無<note n="0485003" resp="Taisho" type="orig" place="foot text">苦痛＝痛苦【明】</note><app n="0485003"><lem wit="【大】">苦
@@ -10825,7 +10825,7 @@ Added comment  for Emacs
 <lb n="0491b15" ed="T"/><l>今日到滿月，</l><l>誰苦劇於我？」</l></lg>
 <lb n="0491b16" ed="T"/><p xml:id="pT02p0491b1601">爾時，天神知其所念，說偈問言：</p>
 <lb n="0491b17" ed="T"/><lg xml:id="lgT02p0491b1701" rend="margin-left:1em;text-indent:-1em"><l>「汝今處空林，</l><l>云何似棄木？</l>
-<lb n="0491b18" ed="T"/><l>地獄<choice><corr>羨</corr><sic>羡</sic></choice>忉利，</l><l>天慕汝亦然。」</l></lg></cb:div>
+<lb n="0491b18" ed="T"/><l>地獄<choice cb:resp="CBETA"><corr>羨</corr><sic>羡</sic></choice>忉利，</l><l>天慕汝亦然。」</l></lg></cb:div>
 <lb n="0491b19" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">361</cb:mulu><head><note n="0491011" resp="Taisho" type="orig" place="foot text">[No. 99(1341)]</note><note n="0491011" place="foot" type="cf.">[No. 99(1341)]</note>（三六一）</head><p xml:id="pT02p0491b1904" rend="inline">爾時，有一比丘在俱薩羅，止住彼林，
 <lb n="0491b20" ed="T"/>修持禁戒，已為滿足，更不求勝。時彼天神即
 <lb n="0491b21" ed="T"/>說偈言：</p>

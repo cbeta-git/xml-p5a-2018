@@ -118,7 +118,7 @@ Revision 1.11  2001/05/15 10:14:31  saywhat
 修改<list><item>空格
 
 Revision 1.10  2001/04/16 04:08:02  ray
-192a27, &CBx0566; => <choice><orig>&#x4812;跪</orig><reg type="通用詞">胡跪</reg></choice>
+192a27, &CBx0566; => <choice cb:resp="CBETA"><orig>&#x4812;跪</orig><reg type="通用詞">胡跪</reg></choice>
 
 Revision 1.9  2001/03/30 06:49:01  ray
 缺字CB碼由四碼增長為五碼
@@ -244,7 +244,7 @@ Added comment  for Emacs
 <lb n="0180a01" ed="T"/>觀道書。有名與無名。晚年開釋卷。猶日<note n="0180001" resp="Taisho" place="foot text" type="orig">勝＝映【甲】</note><app n="0180001"><lem wit="【大】">勝</lem><rdg resp="Taisho" wit="【甲】">映</rdg></app>
 <lb n="0180a02" ed="T"/>眾星。按花嚴經云。一切諸佛退位或作菩薩。
 <lb n="0180a03" ed="T"/>或作聲聞。或作轉輪聖王。或作魔王。或作國
-<lb n="0180a04" ed="T"/>王大臣。居士長者。<choice><corr>婇</corr><sic>綵</sic></choice>女百官。或作大力鬼神。
+<lb n="0180a04" ed="T"/>王大臣。居士長者。<choice cb:resp="CBETA"><corr>婇</corr><sic>綵</sic></choice>女百官。或作大力鬼神。
 <lb n="0180a05" ed="T"/>山神河神。江神海神。主日神主月神。晝神夜
 <lb n="0180a06" ed="T"/>神。主火神主水神。一切苗稼神。樹神。及<note n="0180002" resp="Taisho" place="foot text" type="orig">（諸）＋外【甲】</note><app n="0180002"><lem wit="【大】">外</lem><rdg resp="Taisho" wit="【甲】">諸外</rdg></app>
 <lb n="0180a07" ed="T"/>道。作種種方便。助我釋迦如來化導眾生。按
@@ -1658,7 +1658,7 @@ Added comment  for Emacs
 <lb n="0195c05" ed="T"/>不自。無念即般若波羅蜜。般若波羅蜜者是
 <lb n="0195c06" ed="T"/>大神呪。是大明呪。是無上呪。是無等等呪。能
 <lb n="0195c07" ed="T"/>除一切苦。真實不虛。何其壇越拔妄相之源。
-<lb n="0195c08" ed="T"/>悟無生之體。卷重雲而朗惠日。業障頓<choice><corr>祛</corr><sic>袪</sic></choice>。廓
+<lb n="0195c08" ed="T"/>悟無生之體。卷重雲而朗惠日。業障頓<choice cb:resp="CBETA"><corr>祛</corr><sic>袪</sic></choice>。廓
 <lb n="0195c09" ed="T"/>妄相以定心。寂然不動。真如之義。非理非事。
 <lb n="0195c10" ed="T"/>無生無滅。不動不寂。二諦雙照。即真見佛。檀
 <lb n="0195c11" ed="T"/>越但依此法。無慢斯須雖<note n="0195024" resp="Taisho" place="foot text" type="orig">（開）＋塞【甲】</note><app n="0195024"><lem wit="【大】">塞</lem><rdg resp="Taisho" wit="【甲】">開塞</rdg></app>阻遙。即常相見
