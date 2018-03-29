@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 2175 錄外經等目錄</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 2175 錄外經等目錄</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -138,8 +138,8 @@ Added comment  for Emacs
 <lb n="1112a13" ed="T"/>
 <lb n="1112a14" ed="T"/><cb:mulu level="1" type="其他">請來錄外</cb:mulu><head><note place="inline">海</note>請來錄外<note place="inline">并所學外</note></head>
 <lb n="1112a15" ed="T"/><list><item xml:id="itemT55p1112a1501"><title>金剛頂瑜伽略述三十七尊心要一卷</title></item>
-<lb n="1112a16" ed="T"/><item xml:id="itemT55p1112a1601"><title>不動明王安鎮<note n="1112002" resp="Taisho" place="foot text" type="orig">國家＝家國ヵ【原】</note><app n="1112002"><lem resp="Taisho" wit="【大】">國家</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">家國</rdg></app>等法一卷</title><note place="inline">金剛智三藏付王光</note></item>
-<lb n="1112a17" ed="T"/><item xml:id="itemT55p1112a1701"><title>大毘盧舍<note n="1112003" resp="Taisho" place="foot text" type="orig">遮＝那ヵ【原】</note><app n="1112003"><lem resp="Taisho" wit="【大】">遮</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">那</rdg></app>經疾大成就儀軌</title>一部二卷<note place="inline">曼荼羅□</note></item>
+<lb n="1112a16" ed="T"/><item xml:id="itemT55p1112a1601"><title>不動明王安鎮<note n="1112002" resp="Taisho" place="foot text" type="orig">國家＝家國ヵ【原】</note><note n="1112002" resp="CBETA" type="mod">國家【大】，家國【考偽-原】</note><app n="1112002"><lem resp="Taisho" wit="【大】">國家</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">家國</rdg></app>等法一卷</title><note place="inline">金剛智三藏付王光</note></item>
+<lb n="1112a17" ed="T"/><item xml:id="itemT55p1112a1701"><title>大毘盧舍<note n="1112003" resp="Taisho" place="foot text" type="orig">遮＝那ヵ【原】</note><note n="1112003" resp="CBETA" type="mod">遮【大】，那【考偽-原】</note><app n="1112003"><lem resp="Taisho" wit="【大】">遮</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">那</rdg></app>經疾大成就儀軌</title>一部二卷<note place="inline">曼荼羅□</note></item>
 <lb n="1112a18" ed="T"/><item xml:id="itemT55p1112a1801"><title>火吽供養儀軌一卷</title><note place="inline">契遁</note></item>
 <lb n="1112a19" ed="T"/><item xml:id="itemT55p1112a1901"><title>金剛童成就儀軌經一卷</title></item>
 <lb n="1112a20" ed="T"/><item xml:id="itemT55p1112a2001"><title>施餓鬼陀羅尼經要訣一卷</title></item>
@@ -204,8 +204,8 @@ Added comment  for Emacs
 <lb n="1112c19" ed="T"/><item xml:id="itemT55p1112c1901"><title>毘盧舍那五字真言修略習儀軌一卷</title></item>
 <lb n="1112c20" ed="T"/><item xml:id="itemT55p1112c2001"><title>大日如來成佛經釋中世間六月持明禁戒念
 <lb n="1112c21" ed="T"/>誦儀軌一卷</title></item>
-<lb n="1112c22" ed="T"/><item xml:id="itemT55p1112c2201"><title>大毘盧遮那成佛神變加持經蓮花胎藏并<choice cb:resp="CBETA"><corr>幢</corr><sic>憧</sic></choice>
-<lb n="1112c23" ed="T"/>標<choice cb:resp="CBETA"><corr>幟</corr><sic>熾</sic></choice>善通真言成就瑜伽三卷</title></item>
+<lb n="1112c22" ed="T"/><item xml:id="itemT55p1112c2201"><title>大毘盧遮那成佛神變加持經蓮花胎藏并<note n="1112c2201" resp="CBETA" type="add">幢【CB】，憧【大】</note><app n="1112c2201"><lem wit="【CB】" resp="CBETA">幢</lem><rdg wit="【大】">憧</rdg></app>
+<lb n="1112c23" ed="T"/>標<note n="1112c2301" resp="CBETA" type="add">幟【CB】，熾【大】</note><app n="1112c2301"><lem wit="【CB】" resp="CBETA">幟</lem><rdg wit="【大】">熾</rdg></app>善通真言成就瑜伽三卷</title></item>
 <lb n="1112c24" ed="T"/><item xml:id="itemT55p1112c2401"><title>金剛頂瑜伽略述三十七尊心要一卷</title></item>
 <lb n="1112c25" ed="T"/><item xml:id="itemT55p1112c2501"><title>金剛峯樓閣一切瑜伽瑜祗經一卷</title></item>
 <lb n="1112c26" ed="T"/><item xml:id="itemT55p1112c2601"><title>諸佛境界標真實法</title>一部三卷</item>

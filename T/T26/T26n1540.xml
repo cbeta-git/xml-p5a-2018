@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T26n1540">
 <teiHeader>
 	<fileDesc>
@@ -130,7 +130,7 @@ Added comment  for Emacs
 <lb n="0614b05" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>阿毘達磨界身足論</title>卷上</cb:jhead></cb:juan>
 <lb n="0614b06" ed="T"/>
 <lb n="0614b07" ed="T"/><byline cb:type="author">尊者世友造</byline>
-<lb n="0614b08" ed="T"/><byline cb:type="Translator"><note resp="Taisho" n="0614003" place="foot text" type="orig">（唐）＋三藏【明】＊</note><note resp="CBETA" n="0614003" type="mod"><!--CBETA todo type: ＊-->（唐）＋三藏【明】＊</note><app n="0614003"><lem wit="【大】">三藏</lem><rdg resp="Taisho" wit="【明】">唐三藏</rdg></app>法師玄奘奉　詔譯</byline>
+<lb n="0614b08" ed="T"/><byline cb:type="Translator"><note resp="Taisho" n="0614003" place="foot text" type="orig">（唐）＋三藏【明】＊</note><note resp="CBETA" n="0614003" type="mod"><!--CBETA todo type: ＊-->三藏【大】＊，唐三藏【明】＊</note><app n="0614003"><lem wit="【大】">三藏</lem><rdg resp="Taisho" wit="【明】">唐三藏</rdg></app>法師玄奘奉　詔譯</byline>
 <lb n="0614b09" ed="T"/><cb:mulu n="1" level="1" type="品">1 本事品</cb:mulu><head>本事品第一</head>
 <lb n="0614b10" ed="T"/><lg xml:id="lgT26p0614b1001"><l>三地各十種，</l><l>五煩惱五見，</l>
 <lb n="0614b11" ed="T"/><l>五觸五根法，</l><l>六六身相應。</l></lg>
@@ -142,7 +142,7 @@ Added comment  for Emacs
 <lb n="0614b17" ed="T"/>云何？一、不信；二、懈怠；三、失念；四、心亂；五、無
 <lb n="0614b18" ed="T"/>明；六、不正知；七、非理作意；八、邪勝解；九、掉
 <lb n="0614b19" ed="T"/>舉；十、放逸。十小煩惱地法云何？一、忿；二、恨；
-<lb n="0614b20" ed="T"/>三、覆；四、惱；五、嫉；六、慳；七、誑；八、<note resp="Taisho" n="0614004" place="foot text" type="orig">諂＝謟【明】＊</note><app n="0614004"><lem wit="【大】">諂</lem><rdg resp="Taisho" wit="【明】">謟</rdg></app>；九、憍；十、
+<lb n="0614b20" ed="T"/>三、覆；四、惱；五、嫉；六、慳；七、誑；八、<note resp="Taisho" n="0614004" place="foot text" type="orig">諂＝謟【明】＊</note><note resp="CBETA" n="0614004" type="mod">諂【大】＊，謟【明】＊</note><app n="0614004"><lem wit="【大】">諂</lem><rdg resp="Taisho" wit="【明】">謟</rdg></app>；九、憍；十、
 <lb n="0614b21" ed="T"/>害。五煩惱云何？一、欲貪；二、色貪；三、無色貪；
 <lb n="0614b22" ed="T"/>四、瞋；五、疑。五見云何？一、有身見；二、邊執見；
 <lb n="0614b23" ed="T"/>三、邪見；四、見取；五、戒禁取。五觸云何？一、有對
@@ -151,7 +151,7 @@ Added comment  for Emacs
 <lb n="0614b26" ed="T"/>四、憂根；五、捨根。五法云何？一、尋；二、伺；三、識；
 <lb n="0614b27" ed="T"/>四、無慚；五、無愧。六識身云何？一、眼識；二、耳
 <lb n="0614b28" ed="T"/>識；三、鼻識；四、舌識；五、身識；六、意識。六觸身
-<lb n="0614b29" ed="T"/>云何？一、眼觸；二、耳觸；三、鼻觸；四、舌<app><lem resp="CBETA.maha" wit="【CBETA】【麗】">觸<note type="cf1">K25n0947_p0131c16</note></lem><rdg wit="【大】">識</rdg></app>；五、身
+<lb n="0614b29" ed="T"/>云何？一、眼觸；二、耳觸；三、鼻觸；四、舌<note n="0614b2901" resp="CBETA" type="add">觸【CB】【麗-CB】，識【大】</note><app n="0614b2901"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">觸<note type="cf1">K25n0947_p0131c16</note></lem><rdg wit="【大】">識</rdg></app>；五、身
 <pb n="0614c" ed="T" xml:id="T26.1540.0614c"/>
 <lb n="0614c01" ed="T"/>觸；六、意觸。六受身云何？一、眼觸所生受；二、耳
 <lb n="0614c02" ed="T"/>觸所生受；三、鼻觸所生受；四、舌觸所生受；五、
@@ -190,7 +190,7 @@ Added comment  for Emacs
 <lb n="0615a05" ed="T"/>念性、心迷亂性、心不一境性，不住一境性，是
 <lb n="0615a06" ed="T"/>名心亂。無明云何？謂三界無智。不正知云
 <lb n="0615a07" ed="T"/>何？謂非理所引慧。非理作意云何？謂染污作
-<lb n="0615a08" ed="T"/>意。<note resp="Taisho" n="0615001" place="foot text" type="orig">邪＝耶【三】【宮】</note><note resp="CBETA" n="0615001" type="mod">邪＝耶【宋】【元】【明】【宮】</note><app n="0615001"><lem wit="【大】">邪</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">耶</rdg></app>勝解云何？謂染污作意相應心勝解、
+<lb n="0615a08" ed="T"/>意。<note resp="Taisho" n="0615001" place="foot text" type="orig">邪＝耶【三】【宮】</note><note resp="CBETA" n="0615001" type="mod">邪【大】，耶【宋】【元】【明】【宮】</note><app n="0615001"><lem wit="【大】">邪</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">耶</rdg></app>勝解云何？謂染污作意相應心勝解、
 <lb n="0615a09" ed="T"/>心印順，是名邪勝解。掉舉云何？謂心不寂靜、
 <lb n="0615a10" ed="T"/>不極寂靜、不寂靜性、囂舉等囂舉心囂舉性，
 <lb n="0615a11" ed="T"/>是名掉舉。放逸云何？謂於斷不善法引集善
@@ -198,24 +198,24 @@ Added comment  for Emacs
 <lb n="0615a13" ed="T"/>習，是名放逸。</p><p rend="inline" xml:id="pT26p0615a1306">忿云何？謂忿等忿遍忿極忿、已
 <lb n="0615a14" ed="T"/>忿當忿，是名忿。恨云何？謂心結恨、等遍結恨，
 <lb n="0615a15" ed="T"/>心怨結性，是名恨。覆云何？謂隱所作罪。惱云
-<lb n="0615a16" ed="T"/>何？謂心憤惱，堅執尤蛆，心<note resp="Taisho" n="0615002" place="foot text" type="orig">俍＝佷【宋】【宮】，憤【元】，很【明】</note><note resp="CBETA" n="0615002" type="mod">俍＝佷【宋】【宮】，＝憤【元】，＝很【明】</note><app n="0615002"><lem wit="【大】">俍</lem><rdg resp="Taisho" wit="【宋】【宮】">佷</rdg><rdg resp="Taisho" wit="【元】">憤</rdg><rdg resp="Taisho" wit="【明】">很</rdg></app>戾性，是名惱。
+<lb n="0615a16" ed="T"/>何？謂心憤惱，堅執尤蛆，心<note resp="Taisho" n="0615002" place="foot text" type="orig">俍＝佷【宋】【宮】，憤【元】，很【明】</note><note resp="CBETA" n="0615002" type="mod">俍【大】，佷【宋】【宮】，憤【元】，很【明】</note><app n="0615002"><lem wit="【大】">俍</lem><rdg resp="Taisho" wit="【宋】【宮】">佷</rdg><rdg resp="Taisho" wit="【元】">憤</rdg><rdg resp="Taisho" wit="【明】">很</rdg></app>戾性，是名惱。
 <lb n="0615a17" ed="T"/>嫉云何？謂心不忍他之榮利。慳云何？謂於財
 <lb n="0615a18" ed="T"/>法心著不捨。誑云何？謂矯惑他。<app corresp="#0614004" type="star"><lem wit="【大】">諂</lem><rdg resp="Taisho" wit="【明】">謟</rdg></app>云何？謂
 <lb n="0615a19" ed="T"/>心曲。憍云何？謂如有一作如是念：「我具妙色
-<lb n="0615a20" ed="T"/>財位<note resp="Taisho" n="0615003" place="foot text" type="orig">技＝伎【三】【宮】</note><note resp="CBETA" n="0615003" type="mod">技＝伎【宋】【元】【明】【宮】</note><app n="0615003"><lem wit="【大】">技</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">伎</rdg></app>藝淨命功德，形貌端嚴眾所樂見。」由
-<lb n="0615a21" ed="T"/>此因緣便起憍傲極憍傲、醉悶等醉悶、<note resp="Taisho" n="0615004" place="foot text" type="orig">𥈅＝瞑【明】＊</note><app n="0615004"><lem wit="【大】">𥈅</lem><rdg resp="Taisho" wit="【明】">瞑</rdg></app>眩
-<lb n="0615a22" ed="T"/>等<app corresp="#0615004" type="star"><lem wit="【大】">𥈅</lem><rdg resp="Taisho" wit="【明】">瞑</rdg></app>眩，心<note resp="Taisho" n="0615005" place="foot text" type="orig">踞＝倨【明】</note><app n="0615005"><lem wit="【大】">踞</lem><rdg resp="Taisho" wit="【明】">倨</rdg></app>傲性，是名憍。害云何？謂於有
+<lb n="0615a20" ed="T"/>財位<note resp="Taisho" n="0615003" place="foot text" type="orig">技＝伎【三】【宮】</note><note resp="CBETA" n="0615003" type="mod">技【大】，伎【宋】【元】【明】【宮】</note><app n="0615003"><lem wit="【大】">技</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">伎</rdg></app>藝淨命功德，形貌端嚴眾所樂見。」由
+<lb n="0615a21" ed="T"/>此因緣便起憍傲極憍傲、醉悶等醉悶、<note resp="Taisho" n="0615004" place="foot text" type="orig">𥈅＝瞑【明】＊</note><note resp="CBETA" n="0615004" type="mod">𥈅【大】＊，瞑【明】＊</note><app n="0615004"><lem wit="【大】">𥈅</lem><rdg resp="Taisho" wit="【明】">瞑</rdg></app>眩
+<lb n="0615a22" ed="T"/>等<app corresp="#0615004" type="star"><lem wit="【大】">𥈅</lem><rdg resp="Taisho" wit="【明】">瞑</rdg></app>眩，心<note resp="Taisho" n="0615005" place="foot text" type="orig">踞＝倨【明】</note><note resp="CBETA" n="0615005" type="mod">踞【大】，倨【明】</note><app n="0615005"><lem wit="【大】">踞</lem><rdg resp="Taisho" wit="【明】">倨</rdg></app>傲性，是名憍。害云何？謂於有
 <lb n="0615a23" ed="T"/>情樂為捶撻諸損惱事，是名害。</p><p rend="inline" xml:id="pT26p0615a2313">欲貪云何？謂
 <lb n="0615a24" ed="T"/>於諸欲起貪等貪，執藏防護愛樂耽著，是名
 <lb n="0615a25" ed="T"/>欲貪。色貪云何？謂於諸色起貪等貪，執藏防
 <lb n="0615a26" ed="T"/>護愛樂耽著，是名色貪。無色貪云何？謂於諸
 <lb n="0615a27" ed="T"/>無色起貪等貪，執藏防護愛樂耽著，是名無
-<lb n="0615a28" ed="T"/>色貪。瞋云何？謂於有情欲為逼害，內懷栽<app><lem resp="CBETA.maha" wit="【CBETA】【麗】"><g ref="#CB03870"/><note type="cf1">K25n0947_p0132c15</note></lem><rdg wit="【大】">蘗</rdg></app>，
-<lb n="0615a29" ed="T"/>極瞋恚遍瞋恚<note resp="Taisho" n="0615006" place="foot text" type="orig">等＝瞋【明】</note><app n="0615006"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【明】">瞋</rdg></app>瞋恚、瞋極瞋意憤恚、現瞋
+<lb n="0615a28" ed="T"/>色貪。瞋云何？謂於有情欲為逼害，內懷栽<note n="0615a2801" resp="CBETA" type="add"><g ref="#CB03870"/>【CB】【麗-CB】，蘗【大】</note><app n="0615a2801"><lem resp="CBETA.maha" wit="【CB】【麗-CB】"><g ref="#CB03870"/><note type="cf1">K25n0947_p0132c15</note></lem><rdg wit="【大】">蘗</rdg></app>，
+<lb n="0615a29" ed="T"/>極瞋恚遍瞋恚<note resp="Taisho" n="0615006" place="foot text" type="orig">等＝瞋【明】</note><note resp="CBETA" n="0615006" type="mod">等【大】，瞋【明】</note><app n="0615006"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【明】">瞋</rdg></app>瞋恚、瞋極瞋意憤恚、現瞋
 <pb n="0615b" ed="T" xml:id="T26.1540.0615b"/>
 <lb n="0615b01" ed="T"/>恚已瞋恚當瞋恚，是名瞋。疑云何？謂於諸諦
 <lb n="0615b02" ed="T"/>猶豫。</p><p rend="inline" xml:id="pT26p0615b0203">有身見云何？謂於五取蘊等，隨觀執我
-<lb n="0615b03" ed="T"/>或我所，由此起<note resp="Taisho" n="0615007" place="foot text" type="orig">忍＝思【宋】</note><app n="0615007"><lem wit="【大】">忍</lem><rdg resp="Taisho" wit="【宋】">思</rdg></app>樂慧觀見，是名有身見。邊
+<lb n="0615b03" ed="T"/>或我所，由此起<note resp="Taisho" n="0615007" place="foot text" type="orig">忍＝思【宋】</note><note resp="CBETA" n="0615007" type="mod">忍【大】，思【宋】</note><app n="0615007"><lem wit="【大】">忍</lem><rdg resp="Taisho" wit="【宋】">思</rdg></app>樂慧觀見，是名有身見。邊
 <lb n="0615b04" ed="T"/>執見云何？謂於五取蘊等，隨觀執或斷或常，
 <lb n="0615b05" ed="T"/>由此起忍樂慧觀見，是名邊執見。邪見云何？
 <lb n="0615b06" ed="T"/>謂謗因謗果、或謗作用、或壞實事，由此起忍
@@ -233,7 +233,7 @@ Added comment  for Emacs
 <lb n="0615b18" ed="T"/>觸順喜受，觸者所起心喜平等受受所攝，是
 <lb n="0615b19" ed="T"/>名喜根。憂根云何？謂觸順憂受，觸者所起心
 <lb n="0615b20" ed="T"/>憂不平等受受所攝，是名憂根。捨根云何？謂
-<lb n="0615b21" ed="T"/>觸<note resp="Taisho" n="0615008" place="foot text" type="orig">順＝頻【宮】</note><app n="0615008"><lem wit="【大】">順</lem><rdg resp="Taisho" wit="【宮】">頻</rdg></app>不苦不樂受，觸者所起身心捨非平等
+<lb n="0615b21" ed="T"/>觸<note resp="Taisho" n="0615008" place="foot text" type="orig">順＝頻【宮】</note><note resp="CBETA" n="0615008" type="mod">順【大】，頻【宮】</note><app n="0615008"><lem wit="【大】">順</lem><rdg resp="Taisho" wit="【宮】">頻</rdg></app>不苦不樂受，觸者所起身心捨非平等
 <lb n="0615b22" ed="T"/>非不平等受受所攝，是名捨根。</p><p rend="inline" xml:id="pT26p0615b2213">尋云何？謂心
 <lb n="0615b23" ed="T"/>推覓遍推覓、顯示極顯示現前顯示、尋求遍
 <lb n="0615b24" ed="T"/>尋求、算計遍算計、搆畫遍搆畫、分別等分別，
@@ -284,7 +284,7 @@ Added comment  for Emacs
 <lb n="0616a09" ed="T"/>為緣生於眼識，三和合故觸，觸為緣思。此
 <lb n="0616a10" ed="T"/>中眼為增上、色為所緣，眼觸為因、眼觸為
 <lb n="0616a11" ed="T"/>集、眼觸種類、眼觸為緣、眼觸所生作意相
-<lb n="0616a12" ed="T"/>應，於眼所識色，<note resp="Taisho" n="0616001" place="foot text" type="orig">諸＝識【三】【宮】</note><note resp="CBETA" n="0616001" type="mod">諸＝識【宋】【元】【明】【宮】</note><app n="0616001"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">識</rdg></app>思等思各別等思現
+<lb n="0616a12" ed="T"/>應，於眼所識色，<note resp="Taisho" n="0616001" place="foot text" type="orig">諸＝識【三】【宮】</note><note resp="CBETA" n="0616001" type="mod">諸【大】，識【宋】【元】【明】【宮】</note><app n="0616001"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">識</rdg></app>思等思各別等思現
 <lb n="0616a13" ed="T"/>前等思、已思當思，思所攝造心意業，是名
 <lb n="0616a14" ed="T"/>眼觸所生思。耳鼻舌身意觸所生思云何？謂
 <lb n="0616a15" ed="T"/>意及法為緣生於意識，三和合故觸，觸為
@@ -307,7 +307,7 @@ Added comment  for Emacs
 <lb n="0616b02" ed="T"/><l>謂受并識身，</l><l>及無慚無愧；</l>
 <lb n="0616b03" ed="T"/><l>餘門八十五，</l><l>謂受等次第，</l>
 <lb n="0616b04" ed="T"/><l>相應不相應，</l><l>一行界處蘊。</l></lg>
-<lb n="0616b05" ed="T"/><p xml:id="pT26p0616b0501">五受根，謂樂根、苦<note resp="Taisho" n="0616002" place="foot text" type="orig">根＝樂【三】【宮】</note><note resp="CBETA" n="0616002" type="mod">根＝樂【宋】【元】【明】【宮】</note><app n="0616002"><lem wit="【大】">根</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">樂</rdg></app>、喜根、憂根、捨根。大地
+<lb n="0616b05" ed="T"/><p xml:id="pT26p0616b0501">五受根，謂樂根、苦<note resp="Taisho" n="0616002" place="foot text" type="orig">根＝樂【三】【宮】</note><note resp="CBETA" n="0616002" type="mod">根【大】，樂【宋】【元】【明】【宮】</note><app n="0616002"><lem wit="【大】">根</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">樂</rdg></app>、喜根、憂根、捨根。大地
 <lb n="0616b06" ed="T"/>法受與五受根，幾相應、幾不相應？乃至意觸
 <lb n="0616b07" ed="T"/>所生愛與五受根，幾相應、幾不相應？大地法
 <lb n="0616b08" ed="T"/>受，五受根無相應者，皆不相應。大地法想，五
@@ -364,8 +364,8 @@ Added comment  for Emacs
 <lb n="0616c29" ed="T"/>不相應除眼。如眼觸，耳鼻舌身意觸隨所應
 <pb n="0617a" ed="T" xml:id="T26.1540.0617a"/>
 <lb n="0617a01" ed="T"/>亦爾。如六觸身，六受身、六想身、六思身亦爾。
-<lb n="0617a02" ed="T"/>眼觸所生<note resp="Taisho" n="0617001" place="foot text" type="orig">愛＝受【三】【宮】＊</note><note resp="CBETA" n="0617001" type="mod">愛＝受【宋】【元】【明】【宮】＊</note><app n="0617001"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>，一識相應謂眼，六識不相應。
-<lb n="0617a03" ed="T"/>如眼觸所生<app corresp="#0617001" type="star"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>，耳鼻舌身意觸所生<note resp="Taisho" n="0617002" place="foot text" type="orig">愛＝受【三】</note><note resp="CBETA" n="0617002" type="mod">愛＝受【宋】【元】【明】</note><app n="0617002"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】">受</rdg></app>隨
+<lb n="0617a02" ed="T"/>眼觸所生<note resp="Taisho" n="0617001" place="foot text" type="orig">愛＝受【三】【宮】＊</note><note resp="CBETA" n="0617001" type="mod">愛【大】＊，受【宋】【元】【明】【宮】＊</note><app n="0617001"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>，一識相應謂眼，六識不相應。
+<lb n="0617a03" ed="T"/>如眼觸所生<app corresp="#0617001" type="star"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>，耳鼻舌身意觸所生<note resp="Taisho" n="0617002" place="foot text" type="orig">愛＝受【三】</note><note resp="CBETA" n="0617002" type="mod">愛【大】，受【宋】【元】【明】</note><app n="0617002"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】">受</rdg></app>隨
 <lb n="0617a04" ed="T"/>所應亦爾。</p></cb:div>
 <lb n="0617a05" ed="T"/><cb:div type="other"><cb:mulu n="3" level="2" type="其他">第三門</cb:mulu><head>分別品第二中第三門</head>
 <lb n="0617a06" ed="T"/><p xml:id="pT26p0617a0601">二法，謂無慚、無愧。大地法受與此二法，幾相
@@ -410,13 +410,13 @@ Added comment  for Emacs
 <lb n="0617b14" ed="T"/><byline cb:type="Translator">三藏法師玄奘奉　詔譯</byline>
 <lb n="0617b15" ed="T"/><cb:mulu n="4" level="2" type="其他">第四門</cb:mulu><head><anchor type="circle"/><note resp="Taisho" n="0617004" place="foot text" type="orig">不分卷【明】</note><note resp="CBETA" n="0617004" type="mod"><!--CBETA todo type: a-->不分卷【明】</note>分別品第二中第四門</head>
 <lb n="0617b16" ed="T"/><p xml:id="pT26p0617b1601">受相應、想不相應十八界、十二處、五蘊。受相
-<lb n="0617b17" ed="T"/>應，何所攝？謂心、心所法八界、<note resp="Taisho" n="0617005" place="foot text" type="orig">二＝三【宮】</note><app n="0617005"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宮】">三</rdg></app>處、三蘊。<note resp="Taisho" n="0617006" place="foot text" type="orig">此＝比【明】</note><app n="0617006"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【明】">比</rdg></app>
+<lb n="0617b17" ed="T"/>應，何所攝？謂心、心所法八界、<note resp="Taisho" n="0617005" place="foot text" type="orig">二＝三【宮】</note><note resp="CBETA" n="0617005" type="mod">二【大】，三【宮】</note><app n="0617005"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宮】">三</rdg></app>處、三蘊。<note resp="Taisho" n="0617006" place="foot text" type="orig">此＝比【明】</note><note resp="CBETA" n="0617006" type="mod">此【大】，比【明】</note><app n="0617006"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【明】">比</rdg></app>
 <lb n="0617b18" ed="T"/>何為餘？謂受自性、色、無為、心不相應行十一
 <lb n="0617b19" ed="T"/>界、十一處、三蘊。想不相應，何所攝？謂想自
 <lb n="0617b20" ed="T"/>性、色、無為、心不相應行十一界、十一處、三
-<lb n="0617b21" ed="T"/>蘊。此何所問？謂除受相應及想不相應<note resp="Taisho" n="0617007" place="foot text" type="orig">法＝行【宮】</note><app n="0617007"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宮】">行</rdg></app>，
-<lb n="0617b22" ed="T"/>即除一切法：十八界、十二處、五蘊。<note resp="Taisho" n="0617008" place="foot text" type="orig">此下乃至除故三十二字宋元明宮四本作夾註</note><note resp="CBETA" n="0617008" type="mod">（此下二事雖各除一而文影略顯各除二不爾不應除一切法受等自體不被除故）三十二字本文＝（此下二事雖各除一而文影略顯各除二不爾不應除一切法受等自體不被除故）三十二字夾註【宋】【元】【明】【宮】</note><app n="0617008"><lem wit="【大】">此下二事
-<lb n="0617b23" ed="T"/>雖各除一，而文影略顯各除二，不爾不<note resp="Taisho" n="0617009" place="foot text" type="orig">應＝歷【宮】</note><app n="0617009"><lem wit="【大】">應</lem><rdg resp="Taisho" wit="【宮】">歷</rdg></app>除
+<lb n="0617b21" ed="T"/>蘊。此何所問？謂除受相應及想不相應<note resp="Taisho" n="0617007" place="foot text" type="orig">法＝行【宮】</note><note resp="CBETA" n="0617007" type="mod">法【大】，行【宮】</note><app n="0617007"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宮】">行</rdg></app>，
+<lb n="0617b22" ed="T"/>即除一切法：十八界、十二處、五蘊。<note resp="Taisho" n="0617008" place="foot text" type="orig">此下乃至除故三十二字宋元明宮四本作夾註</note><note resp="CBETA" n="0617008" type="mod">此下二事雖各除一而文影略顯各除二不爾不應除一切法受等自體不被除故【大】，(此下二事雖各除一而文影略顯各除二不爾不應除一切法受等自體不被除故)【宋】【元】【明】【宮】</note><app n="0617008"><lem wit="【大】">此下二事
+<lb n="0617b23" ed="T"/>雖各除一，而文影略顯各除二，不爾不<note resp="Taisho" n="0617009" place="foot text" type="orig">應＝歷【宮】</note><note resp="CBETA" n="0617009" type="mod">應【大】，歷【宮】</note><app n="0617009"><lem wit="【大】">應</lem><rdg resp="Taisho" wit="【宮】">歷</rdg></app>除
 <lb n="0617b24" ed="T"/>一切法，受等自體不被除故</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><note place="inline">此下二事雖各除一而文影略顯各除二不爾不應除一切法受等自體不被除故</note></rdg></app>。想相應、受不相
 <lb n="0617b25" ed="T"/>應十八界、十二處、五蘊。想相應，何所攝？謂
 <lb n="0617b26" ed="T"/>心、心所法八界、二處、三蘊。此何為餘？謂想自
@@ -440,7 +440,7 @@ Added comment  for Emacs
 <lb n="0617c14" ed="T"/>受自性、色、無為、心不相應行十一界、十一處、
 <lb n="0617c15" ed="T"/>三蘊。此何所問？謂除不信相應及受不相應
 <lb n="0617c16" ed="T"/>法，即除一切法：十八界、十二處、五蘊。如以
-<lb n="0617c17" ed="T"/>受對不信，對<note resp="Taisho" n="0617010" place="foot text" type="orig">餘＝除【三】【宮】</note><note resp="CBETA" n="0617010" type="mod">餘＝除【宋】【元】【明】【宮】</note><app n="0617010"><lem wit="【大】">餘</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">除</rdg></app>大煩惱地法、欲貪、瞋、無明觸、
+<lb n="0617c17" ed="T"/>受對不信，對<note resp="Taisho" n="0617010" place="foot text" type="orig">餘＝除【三】【宮】</note><note resp="CBETA" n="0617010" type="mod">餘【大】，除【宋】【元】【明】【宮】</note><app n="0617010"><lem wit="【大】">餘</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">除</rdg></app>大煩惱地法、欲貪、瞋、無明觸、
 <lb n="0617c18" ed="T"/>非明非無明觸、無慚、無愧亦爾。</p><p rend="inline" xml:id="pT26p0617c1813">受相應、忿不
 <lb n="0617c19" ed="T"/>相應十八界、十二處、五蘊。受相應，何所攝？
 <lb n="0617c20" ed="T"/>謂心、心所法八界、二處、三蘊。此何為餘？謂
@@ -481,7 +481,7 @@ Added comment  for Emacs
 <lb n="0618a25" ed="T"/>八界、十二處、五蘊。有對觸相應、受不相應十
 <lb n="0618a26" ed="T"/>八界、十二處、五蘊。有對觸相應，何所攝？謂心、
 <lb n="0618a27" ed="T"/>心所法七界、二處、四蘊。此何為餘？謂有對觸
-<lb n="0618a28" ed="T"/>自性、色、無為、心不相應行十三界、十<note resp="Taisho" n="0618001" place="foot text" type="orig">二＝一【元】【明】</note><app n="0618001"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【元】【明】">一</rdg></app>處、五
+<lb n="0618a28" ed="T"/>自性、色、無為、心不相應行十三界、十<note resp="Taisho" n="0618001" place="foot text" type="orig">二＝一【元】【明】</note><note resp="CBETA" n="0618001" type="mod">二【大】，一【元】【明】</note><app n="0618001"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【元】【明】">一</rdg></app>處、五
 <lb n="0618a29" ed="T"/>蘊。受不相應，何所攝？謂受自性、色、無為、心不
 <pb n="0618b" ed="T" xml:id="T26.1540.0618b"/>
 <lb n="0618b01" ed="T"/>相應行十一界、十一處、三蘊。此何所問？謂除
@@ -553,7 +553,7 @@ Added comment  for Emacs
 <lb n="0619a07" ed="T"/>處、五蘊。眼觸相應、受不相應十八界、十二處、
 <lb n="0619a08" ed="T"/>五蘊。眼觸相應，何所攝？謂心、心所法三界、二
 <lb n="0619a09" ed="T"/>處、四蘊。此何為餘？謂眼觸自性、色、無為、心不
-<lb n="0619a10" ed="T"/>相應行十七界、<note resp="Taisho" n="0619001" place="foot text" type="orig">十＋（二）【三】【宮】</note><note resp="CBETA" n="0619001" type="mod">十＋（二）【宋】【元】【明】【宮】</note><app n="0619001"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">十二</rdg></app>處、五蘊。受不相應，何所
+<lb n="0619a10" ed="T"/>相應行十七界、<note resp="Taisho" n="0619001" place="foot text" type="orig">十＋（二）【三】【宮】</note><note resp="CBETA" n="0619001" type="mod">十【大】，十二【宋】【元】【明】【宮】</note><app n="0619001"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">十二</rdg></app>處、五蘊。受不相應，何所
 <lb n="0619a11" ed="T"/>攝？謂受自性、色、無為、心不相應行十一界、十
 <lb n="0619a12" ed="T"/>一處、三蘊。此何所問？謂除眼觸相應及受不
 <lb n="0619a13" ed="T"/>相應法，即除一切法：十八界、十二處、五蘊。如
@@ -571,7 +571,7 @@ Added comment  for Emacs
 <lb n="0619a25" ed="T"/>所法八界、二處、四蘊。此何為餘？謂思自性、色、
 <lb n="0619a26" ed="T"/>無為、心不相應行十一界、十一處、二蘊。想不
 <lb n="0619a27" ed="T"/>相應，何所攝？謂想自性、色、無為、心不相應行
-<lb n="0619a28" ed="T"/>十一界、十一處、三蘊。此何所問？謂除思<note resp="Taisho" n="0619006" place="foot text" type="orig">相＝想【明】</note><app n="0619006"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【明】">想</rdg></app>
+<lb n="0619a28" ed="T"/>十一界、十一處、三蘊。此何所問？謂除思<note resp="Taisho" n="0619006" place="foot text" type="orig">相＝想【明】</note><note resp="CBETA" n="0619006" type="mod">相【大】，想【明】</note><app n="0619006"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【明】">想</rdg></app>
 <lb n="0619a29" ed="T"/>應及想不相應法，即除一切法：十八界、十二
 <pb n="0619b" ed="T" xml:id="T26.1540.0619b"/>
 <lb n="0619b01" ed="T"/>處、五蘊。如以想對思，乃至對慧亦爾。</p><p rend="inline" xml:id="pT26p0619b0115">想相
@@ -606,7 +606,7 @@ Added comment  for Emacs
 <pb n="0619c" ed="T" xml:id="T26.1540.0619c"/>
 <lb n="0619c01" ed="T"/>即除一切法：十八界、十二處、五蘊。如以想對
 <lb n="0619c02" ed="T"/>忿，對餘小煩惱地法、無色貪、疑、五見、明觸、六
-<lb n="0619c03" ed="T"/><note resp="Taisho" n="0619007" place="foot text" type="orig">愛＝受【宮】</note><app n="0619007"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宮】">受</rdg></app>身亦爾。</p><p rend="inline" xml:id="pT26p0619c0305">想相應、色貪不相應十八界、十
+<lb n="0619c03" ed="T"/><note resp="Taisho" n="0619007" place="foot text" type="orig">愛＝受【宮】</note><note resp="CBETA" n="0619007" type="mod">愛【大】，受【宮】</note><app n="0619007"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宮】">受</rdg></app>身亦爾。</p><p rend="inline" xml:id="pT26p0619c0305">想相應、色貪不相應十八界、十
 <lb n="0619c04" ed="T"/>二處、五蘊。想相應，何所攝？謂心、心所法八
 <lb n="0619c05" ed="T"/>界、二處、三蘊。此何為餘？謂想自性、色、無為、
 <lb n="0619c06" ed="T"/>心不相應行十一界、十一處、三蘊。色貪不相
@@ -623,7 +623,7 @@ Added comment  for Emacs
 <lb n="0619c17" ed="T"/><p xml:id="pT26p0619c1701">想相應、有對觸不相應十八界、十二處、五蘊。
 <lb n="0619c18" ed="T"/>想相應，何所攝？謂心、心所法八界、二處、三蘊。
 <lb n="0619c19" ed="T"/>此何為餘？謂想自性、色、無為、心不相應行
-<lb n="0619c20" ed="T"/>十一界、十一處、<note resp="Taisho" n="0619008" place="foot text" type="orig">三蘊＝二蘊【元】【明】，明註曰二蘊南藏作三蘊多有對觸不相應何所攝謂</note><app n="0619008"><lem wit="【大】">三蘊</lem><rdg resp="Taisho" wit="【元】【明】">二蘊</rdg></app><note n="0619008" place="foot" type="rest">明註曰二蘊南藏作三蘊多有對觸不相應何所攝謂</note>。有對觸<note resp="Taisho" n="0619009" place="foot text" type="orig">〔不相應何所攝謂有對〕－【三】【宮】</note><note resp="CBETA" n="0619009" type="mod">〔不相應何所攝謂有對〕－【宋】【元】【明】【宮】</note><app n="0619009"><lem wit="【大】">不相應，何所
+<lb n="0619c20" ed="T"/>十一界、十一處、<note resp="Taisho" n="0619008" place="foot text" type="orig">三蘊＝二蘊【元】【明】，明註曰二蘊南藏作三蘊多有對觸不相應何所攝謂</note><note resp="CBETA" n="0619008" type="mod">三蘊【大】，二蘊【元】【明】，明註曰二蘊南藏作三蘊多有對觸不相應何所攝謂</note><app n="0619008"><lem wit="【大】">三蘊</lem><rdg resp="Taisho" wit="【元】【明】">二蘊</rdg></app><note n="0619008" place="foot" type="rest">明註曰二蘊南藏作三蘊多有對觸不相應何所攝謂</note>。有對觸<note resp="Taisho" n="0619009" place="foot text" type="orig">〔不相應何所攝謂有對〕－【三】【宮】</note><note resp="CBETA" n="0619009" type="mod">不相應何所攝謂有對【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0619009"><lem wit="【大】">不相應，何所
 <lb n="0619c21" ed="T"/>攝？謂有對</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>自性、色、無為、心不相應行十三
 <lb n="0619c22" ed="T"/>界、十二處、五蘊。此何所問？謂除想相應及有
 <lb n="0619c23" ed="T"/>對觸不相應法，即除一切法：十八界、十二處、
@@ -657,12 +657,12 @@ Added comment  for Emacs
 <lb n="0620a21" ed="T"/>樂根自性、色、無為、心不相應行十八界、十二
 <lb n="0620a22" ed="T"/>處、五蘊。此何所問？謂除想相應及樂根不相
 <lb n="0620a23" ed="T"/>應法，即除一切法：十八界、十二處、五蘊。樂根
-<lb n="0620a24" ed="T"/>相應、想不相應十八界、十<note resp="Taisho" n="0620003" place="foot text" type="orig">二＝三【元】【明】</note><app n="0620003"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【元】【明】">三</rdg></app>處、五蘊。樂根
-<lb n="0620a25" ed="T"/>相應，何所攝？謂心、心所法八界、<note resp="Taisho" n="0620004" place="foot text" type="orig">二＝三【三】【宮】</note><note resp="CBETA" n="0620004" type="mod">二＝三【宋】【元】【明】【宮】</note><app n="0620004"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">三</rdg></app>處、三蘊。
+<lb n="0620a24" ed="T"/>相應、想不相應十八界、十<note resp="Taisho" n="0620003" place="foot text" type="orig">二＝三【元】【明】</note><note resp="CBETA" n="0620003" type="mod">二【大】，三【元】【明】</note><app n="0620003"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【元】【明】">三</rdg></app>處、五蘊。樂根
+<lb n="0620a25" ed="T"/>相應，何所攝？謂心、心所法八界、<note resp="Taisho" n="0620004" place="foot text" type="orig">二＝三【三】【宮】</note><note resp="CBETA" n="0620004" type="mod">二【大】，三【宋】【元】【明】【宮】</note><app n="0620004"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">三</rdg></app>處、三蘊。
 <lb n="0620a26" ed="T"/>此何為餘？謂樂根自性、色、無為、心不相應行
 <lb n="0620a27" ed="T"/>十八界、十二處、五蘊。想不相應，何所攝？謂
 <lb n="0620a28" ed="T"/>想自性、色、無為、心不相應行十一界、十一
-<lb n="0620a29" ed="T"/>處、<note resp="Taisho" n="0620005" place="foot text" type="orig">三＝五【明】</note><app n="0620005"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【明】">五</rdg></app>蘊。此何所問？謂除樂根相應及想不
+<lb n="0620a29" ed="T"/>處、<note resp="Taisho" n="0620005" place="foot text" type="orig">三＝五【明】</note><note resp="CBETA" n="0620005" type="mod">三【大】，五【明】</note><app n="0620005"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【明】">五</rdg></app>蘊。此何所問？謂除樂根相應及想不
 <pb n="0620b" ed="T" xml:id="T26.1540.0620b"/>
 <lb n="0620b01" ed="T"/>相應法，即除一切法：十八界、十二處、五蘊。如
 <lb n="0620b02" ed="T"/>以想對樂根，對捨根亦爾。</p><p rend="inline" xml:id="pT26p0620b0211">想相應、苦根不相
@@ -710,7 +710,7 @@ Added comment  for Emacs
 <lb n="0620c14" ed="T"/>受自性、色、無為、心不相應行十七界、十二處、
 <lb n="0620c15" ed="T"/>五蘊。想不相應，何所攝？謂想自性、色、無為、心
 <lb n="0620c16" ed="T"/>不相應行十一界、十一處、三蘊。此何所問？謂
-<lb n="0620c17" ed="T"/>除眼觸所<note resp="Taisho" n="0620006" place="foot text" type="orig">〔生〕－【三】【宮】</note><note resp="CBETA" n="0620006" type="mod">〔生〕－【宋】【元】【明】【宮】</note><app n="0620006"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>受相應及想不相應法，即除一
+<lb n="0620c17" ed="T"/>除眼觸所<note resp="Taisho" n="0620006" place="foot text" type="orig">〔生〕－【三】【宮】</note><note resp="CBETA" n="0620006" type="mod">生【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0620006"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>受相應及想不相應法，即除一
 <lb n="0620c18" ed="T"/>切法：十八界、十二處、五蘊。如以想對眼觸所
 <lb n="0620c19" ed="T"/>生受，乃至對意觸所生受，隨其所應廣說亦
 <lb n="0620c20" ed="T"/>爾。</p></cb:div>
@@ -733,12 +733,12 @@ Added comment  for Emacs
 <lb n="0621a07" ed="T"/>不信不相應十八界、十二處、五蘊。思相應，何
 <lb n="0621a08" ed="T"/>所攝？謂心、心所法八界、二處、四蘊。此何為餘？
 <lb n="0621a09" ed="T"/>謂思自性、色、無為、心不相應行十一界、十一
-<lb n="0621a10" ed="T"/>處、<note resp="Taisho" n="0621001" place="foot text" type="orig">二＝一【元】【明】</note><app n="0621001"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【元】【明】">一</rdg></app>蘊。不信不相應，何所攝？謂不信自性、
+<lb n="0621a10" ed="T"/>處、<note resp="Taisho" n="0621001" place="foot text" type="orig">二＝一【元】【明】</note><note resp="CBETA" n="0621001" type="mod">二【大】，一【元】【明】</note><app n="0621001"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【元】【明】">一</rdg></app>蘊。不信不相應，何所攝？謂不信自性、
 <lb n="0621a11" ed="T"/>色、無為、心不相應行十八界、十二處、五蘊。此
 <lb n="0621a12" ed="T"/>何所問？謂除思相應及不信不相應法，即除
 <lb n="0621a13" ed="T"/>一切法：十八界、十二處、五蘊。不信相應、思不
 <lb n="0621a14" ed="T"/>相應十八界、十二處、五蘊。不信相應，何所攝？
-<lb n="0621a15" ed="T"/>謂心、心所<note resp="Taisho" n="0621002" place="foot text" type="orig">法＝攝【三】【宮】＊</note><note resp="CBETA" n="0621002" type="mod">法＝攝【宋】【元】【明】【宮】＊</note><app n="0621002"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">攝</rdg></app>八界、二處、四蘊。此何為餘？謂
+<lb n="0621a15" ed="T"/>謂心、心所<note resp="Taisho" n="0621002" place="foot text" type="orig">法＝攝【三】【宮】＊</note><note resp="CBETA" n="0621002" type="mod">法【大】＊，攝【宋】【元】【明】【宮】＊</note><app n="0621002"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">攝</rdg></app>八界、二處、四蘊。此何為餘？謂
 <lb n="0621a16" ed="T"/>不信自性、色、無為、心不相應行十八界、十二
 <lb n="0621a17" ed="T"/>處、五蘊。思不相應，何所攝？謂思自性、色、無
 <lb n="0621a18" ed="T"/>為、心不相應行十一界、十一處、二蘊。此何所
@@ -749,7 +749,7 @@ Added comment  for Emacs
 <lb n="0621a23" ed="T"/>二處、五蘊。思相應，何所攝？謂心、心所法八界、
 <lb n="0621a24" ed="T"/>二處、四蘊。此何為餘？謂思自性、色、無為、心不
 <lb n="0621a25" ed="T"/>相應行十一界、十一處、二蘊。忿不相應，何所
-<lb n="0621a26" ed="T"/>攝？<note resp="Taisho" n="0621003" place="foot text" type="orig">〔謂〕－【三】【宮】</note><note resp="CBETA" n="0621003" type="mod">〔謂〕－【宋】【元】【明】【宮】</note><app n="0621003"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>忿自性、色、無為、心不相應行十八
+<lb n="0621a26" ed="T"/>攝？<note resp="Taisho" n="0621003" place="foot text" type="orig">〔謂〕－【三】【宮】</note><note resp="CBETA" n="0621003" type="mod">謂【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0621003"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>忿自性、色、無為、心不相應行十八
 <lb n="0621a27" ed="T"/>界、十二處、五蘊。此何所問？謂除思相應及忿
 <lb n="0621a28" ed="T"/>不相應法，即除一切法：十八界、十二處、五蘊。
 <lb n="0621a29" ed="T"/>忿相應、思不相應十八界、十二處、五蘊。忿
@@ -760,7 +760,7 @@ Added comment  for Emacs
 <lb n="0621b04" ed="T"/>色、無為、心不相應行十一界、十一處、二蘊。此何
 <lb n="0621b05" ed="T"/>所問？謂除忿相應及思不相應法，即除一切
 <lb n="0621b06" ed="T"/>法：十八界、十二處、五蘊。如以思對忿，對餘小
-<lb n="0621b07" ed="T"/>煩惱地法、無色貪、疑、五見、明觸、六<note resp="Taisho" n="0621004" place="foot text" type="orig">愛＝受【宮】</note><app n="0621004"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宮】">受</rdg></app>身亦爾。</p>
+<lb n="0621b07" ed="T"/>煩惱地法、無色貪、疑、五見、明觸、六<note resp="Taisho" n="0621004" place="foot text" type="orig">愛＝受【宮】</note><note resp="CBETA" n="0621004" type="mod">愛【大】，受【宮】</note><app n="0621004"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宮】">受</rdg></app>身亦爾。</p>
 <lb n="0621b08" ed="T"/><p xml:id="pT26p0621b0801">思相應、色貪不相應十八界、十二處、五蘊。思
 <lb n="0621b09" ed="T"/>相應，何所攝？謂心、心所<app corresp="#0621002" type="star"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">攝</rdg></app>八界、二處、四蘊。
 <lb n="0621b10" ed="T"/>此何為餘？謂思自性、色、無為、心不相應行十
@@ -817,7 +817,7 @@ Added comment  for Emacs
 <pb n="0622a" ed="T" xml:id="T26.1540.0622a"/>
 <lb n="0622a01" ed="T"/>相應法，即除一切法：十八界、十二處、五蘊。作
 <lb n="0622a02" ed="T"/>意相應、觸不相應十八界、十二處、五蘊。作意
-<lb n="0622a03" ed="T"/>相應，何所攝？謂心、心所法八界、<note resp="Taisho" n="0622001" place="foot text" type="orig">二＝一【宮】</note><app n="0622001"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宮】">一</rdg></app>處、四蘊。
+<lb n="0622a03" ed="T"/>相應，何所攝？謂心、心所法八界、<note resp="Taisho" n="0622001" place="foot text" type="orig">二＝一【宮】</note><note resp="CBETA" n="0622001" type="mod">二【大】，一【宮】</note><app n="0622001"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宮】">一</rdg></app>處、四蘊。
 <lb n="0622a04" ed="T"/>此何為餘？謂作意自性、色、無為、心不相應行
 <lb n="0622a05" ed="T"/>十一界、十一處、二蘊。觸不相應等如前說。如
 <lb n="0622a06" ed="T"/>以觸對作意，乃至對慧亦爾。觸相應、不信不
@@ -847,7 +847,7 @@ Added comment  for Emacs
 <pb n="0622b" ed="T" xml:id="T26.1540.0622b"/>
 <lb n="0622b01" ed="T"/>應，隨所應當廣說。如以作意對不信，對餘大
 <lb n="0622b02" ed="T"/>煩惱地法、欲貪、瞋、無明觸、非明非無明觸、無
-<lb n="0622b03" ed="T"/><choice cb:resp="CBETA"><corr>慚</corr><sic>漸</sic></choice>、無愧亦爾。作意相應、忿不相應，忿相應、作
+<lb n="0622b03" ed="T"/><note n="0622b0301" resp="CBETA" type="add">慚【CB】，漸【大】</note><app n="0622b0301"><lem wit="【CB】" resp="CBETA">慚</lem><rdg wit="【大】">漸</rdg></app>、無愧亦爾。作意相應、忿不相應，忿相應、作
 <lb n="0622b04" ed="T"/>意不相應，隨所應當廣說。如以作意對忿，對
 <lb n="0622b05" ed="T"/>餘小煩惱地法、無色貪、疑、五見、明觸、六愛身亦
 <lb n="0622b06" ed="T"/>爾。作意相應、色貪不相應，色貪相應、作意不
@@ -865,7 +865,7 @@ Added comment  for Emacs
 <lb n="0622b18" ed="T"/>說。</p></cb:div>
 <lb n="0622b19" ed="T"/><cb:div type="other"><cb:mulu n="9" level="2" type="其他">第九門</cb:mulu><head>分別品第二中第九門</head>
 <lb n="0622b20" ed="T"/><p xml:id="pT26p0622b2001">欲相應、勝解不相應十八界、十二處、五蘊。欲
-<lb n="0622b21" ed="T"/>相應等如前說。勝<note resp="Taisho" n="0622002" place="foot text" type="orig">解＝觸【明】</note><app n="0622002"><lem wit="【大】">解</lem><rdg resp="Taisho" wit="【明】">觸</rdg></app>不相應，何所攝？謂勝
+<lb n="0622b21" ed="T"/>相應等如前說。勝<note resp="Taisho" n="0622002" place="foot text" type="orig">解＝觸【明】</note><note resp="CBETA" n="0622002" type="mod">解【大】，觸【明】</note><app n="0622002"><lem wit="【大】">解</lem><rdg resp="Taisho" wit="【明】">觸</rdg></app>不相應，何所攝？謂勝
 <lb n="0622b22" ed="T"/>解自性、色、無為、心不相應行十一界、十一處、
 <lb n="0622b23" ed="T"/>二蘊。此何所問？謂除欲相應及勝解不相應
 <lb n="0622b24" ed="T"/>法，即除一切法：十八界、十二處、五蘊。勝解相
@@ -926,7 +926,7 @@ Added comment  for Emacs
 <lb n="0623a19" ed="T"/>念相應等如前說。三摩地不相應，何所攝？
 <lb n="0623a20" ed="T"/>謂三摩地自性、色、無為、心不相應行十一界、
 <lb n="0623a21" ed="T"/>十一處、二蘊。此何所問？如前說。三摩地相應、
-<lb n="0623a22" ed="T"/>念不相應十八界、十二處、五蘊。三摩地<note resp="Taisho" n="0623001" place="foot text" type="orig">相應＝應相【明】</note><app n="0623001"><lem wit="【大】">相
+<lb n="0623a22" ed="T"/>念不相應十八界、十二處、五蘊。三摩地<note resp="Taisho" n="0623001" place="foot text" type="orig">相應＝應相【明】</note><note resp="CBETA" n="0623001" type="mod">相應【大】，應相【明】</note><app n="0623001"><lem wit="【大】">相
 <lb n="0623a23" ed="T"/>應</lem><rdg resp="Taisho" wit="【明】">應相</rdg></app>，何所攝？謂心、心所法八界、二處、四蘊。此何
 <lb n="0623a24" ed="T"/>為餘？謂三摩地自性、色、無為、心不相應行
 <lb n="0623a25" ed="T"/>十一界、十一處、二蘊。念不相應等如前說。如
@@ -981,10 +981,10 @@ Added comment  for Emacs
 <lb n="0623c14" ed="T"/>應當廣說。</p></cb:div>
 <lb n="0623c15" ed="T"/><cb:div type="other"><cb:mulu n="13" level="2" type="其他">第十三門</cb:mulu><head>分別品第二中第十三門</head>
 <lb n="0623c16" ed="T"/><p xml:id="pT26p0623c1601">慧相應、不信不相應，不信相應、慧不相應，隨
-<lb n="0623c17" ed="T"/>所應<note resp="Taisho" n="0623002" place="foot text" type="orig">當＝廣【明】</note><app n="0623002"><lem wit="【大】">當</lem><rdg resp="Taisho" wit="【明】">廣</rdg></app>廣說。如以慧對不信，對餘大煩惱
+<lb n="0623c17" ed="T"/>所應<note resp="Taisho" n="0623002" place="foot text" type="orig">當＝廣【明】</note><note resp="CBETA" n="0623002" type="mod">當【大】，廣【明】</note><app n="0623002"><lem wit="【大】">當</lem><rdg resp="Taisho" wit="【明】">廣</rdg></app>廣說。如以慧對不信，對餘大煩惱
 <lb n="0623c18" ed="T"/>地法、欲貪、瞋、無明觸、非明非無明觸、無慚、無愧
 <lb n="0623c19" ed="T"/>亦爾。慧相應、忿不相應，忿相應、慧不相應，
-<lb n="0623c20" ed="T"/>隨所應當廣說。如以慧對忿，<note resp="Taisho" n="0623003" place="foot text" type="orig">（對）＋餘【三】【宮】</note><note resp="CBETA" n="0623003" type="mod">（對）＋餘【宋】【元】【明】【宮】</note><app n="0623003"><lem wit="【大】">餘</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">對餘</rdg></app>小煩惱地法、
+<lb n="0623c20" ed="T"/>隨所應當廣說。如以慧對忿，<note resp="Taisho" n="0623003" place="foot text" type="orig">（對）＋餘【三】【宮】</note><note resp="CBETA" n="0623003" type="mod">餘【大】，對餘【宋】【元】【明】【宮】</note><app n="0623003"><lem wit="【大】">餘</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">對餘</rdg></app>小煩惱地法、
 <lb n="0623c21" ed="T"/>無色貪、疑、五見、明觸、六愛身亦爾。慧相應、色
 <lb n="0623c22" ed="T"/>貪不相應，色貪相應、慧不相應，隨所應當廣
 <lb n="0623c23" ed="T"/>說。慧相應、有對觸不相應，有對觸相應、慧不
@@ -1040,7 +1040,7 @@ Added comment  for Emacs
 <lb n="0624b13" ed="T"/>心、心所法三界、二處、四蘊。此何為餘？謂眼
 <lb n="0624b14" ed="T"/>觸自性、色、無為、心不相應行十七界、十二處、
 <lb n="0624b15" ed="T"/>五蘊。眼識不相應，何所攝？謂眼識自性、
-<lb n="0624b16" ed="T"/>色、無為、心不相應行十八界、<note resp="Taisho" n="0624001" place="foot text" type="orig">十二＝十一【宮】</note><app n="0624001"><lem wit="【大】">十二</lem><rdg resp="Taisho" wit="【宮】">十一</rdg></app>處、五蘊。
+<lb n="0624b16" ed="T"/>色、無為、心不相應行十八界、<note resp="Taisho" n="0624001" place="foot text" type="orig">十二＝十一【宮】</note><note resp="CBETA" n="0624001" type="mod">十二【大】，十一【宮】</note><app n="0624001"><lem wit="【大】">十二</lem><rdg resp="Taisho" wit="【宮】">十一</rdg></app>處、五蘊。
 <lb n="0624b17" ed="T"/>此何所問？謂除眼觸相應及眼識不相應法，
 <lb n="0624b18" ed="T"/>即除一切法：十八界、十二處、五蘊。如以眼識
 <lb n="0624b19" ed="T"/>對眼觸，乃至對意觸、六思身，隨所應當廣說。</p>
@@ -1062,19 +1062,19 @@ Added comment  for Emacs
 <lb n="0624c05" ed="T"/>生受相應及眼識不相應法，即除一切法：十
 <lb n="0624c06" ed="T"/>八界、十二處、五蘊。如以眼識對眼觸所生受，
 <lb n="0624c07" ed="T"/>乃至對意觸所生受、六想身，隨所應當廣說。</p>
-<lb n="0624c08" ed="T"/><p xml:id="pT26p0624c0801">眼識相應、眼觸所生<note resp="Taisho" n="0624002" place="foot text" type="orig">愛＝受【三】【宮】＊</note><note resp="CBETA" n="0624002" type="mod">愛＝受【宋】【元】【明】【宮】＊</note><app n="0624002"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>不相應十八界、十
+<lb n="0624c08" ed="T"/><p xml:id="pT26p0624c0801">眼識相應、眼觸所生<note resp="Taisho" n="0624002" place="foot text" type="orig">愛＝受【三】【宮】＊</note><note resp="CBETA" n="0624002" type="mod">愛【大】＊，受【宋】【元】【明】【宮】＊</note><app n="0624002"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>不相應十八界、十
 <lb n="0624c09" ed="T"/>二處、五蘊。眼識相應，何所攝？謂心所法一
-<lb n="0624c10" ed="T"/>界、一處、<note resp="Taisho" n="0624003" place="foot text" type="orig">三＝二【三】【宮】</note><note resp="CBETA" n="0624003" type="mod">三＝二【宋】【元】【明】【宮】</note><app n="0624003"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">二</rdg></app>蘊。此何為餘？謂眼識自性、色、
+<lb n="0624c10" ed="T"/>界、一處、<note resp="Taisho" n="0624003" place="foot text" type="orig">三＝二【三】【宮】</note><note resp="CBETA" n="0624003" type="mod">三【大】，二【宋】【元】【明】【宮】</note><app n="0624003"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">二</rdg></app>蘊。此何為餘？謂眼識自性、色、
 <lb n="0624c11" ed="T"/>無為、心不相應行十八界、十二處、五蘊。眼
 <lb n="0624c12" ed="T"/>觸所生<app corresp="#0624002" type="star"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>不相應，何所攝？謂眼觸所生
 <lb n="0624c13" ed="T"/><app corresp="#0624002" type="star"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>自性、色、無為、心不相應行十八界、十
-<lb n="0624c14" ed="T"/>二處、五蘊。此何所問？謂除眼<note resp="Taisho" n="0624004" place="foot text" type="orig">識＝觸【三】【宮】</note><note resp="CBETA" n="0624004" type="mod">識＝觸【宋】【元】【明】【宮】</note><app n="0624004"><lem wit="【大】">識</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">觸</rdg></app>相應及眼
+<lb n="0624c14" ed="T"/>二處、五蘊。此何所問？謂除眼<note resp="Taisho" n="0624004" place="foot text" type="orig">識＝觸【三】【宮】</note><note resp="CBETA" n="0624004" type="mod">識【大】，觸【宋】【元】【明】【宮】</note><app n="0624004"><lem wit="【大】">識</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">觸</rdg></app>相應及眼
 <lb n="0624c15" ed="T"/>觸所生<app corresp="#0624002" type="star"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>不相應法，即除一切法：十八界、十
 <lb n="0624c16" ed="T"/>二處、五蘊。眼觸所生<app corresp="#0624002" type="star"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>相應、眼識不相應
 <lb n="0624c17" ed="T"/>十八界、十二處、五蘊。眼觸所生<app corresp="#0624002" type="star"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>相應，何
 <lb n="0624c18" ed="T"/>所攝？謂心、心所法三界、二處、四蘊。此何為餘？
 <lb n="0624c19" ed="T"/>謂眼觸所生<app corresp="#0624002" type="star"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>自性、色、無為、心不相應行
-<lb n="0624c20" ed="T"/>十<note resp="Taisho" n="0624005" place="foot text" type="orig">八＝七【三】【宮】</note><note resp="CBETA" n="0624005" type="mod">八＝七【宋】【元】【明】【宮】</note><app n="0624005"><lem wit="【大】">八</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">七</rdg></app>界、十二處、五蘊。眼識不相應，何所攝？
+<lb n="0624c20" ed="T"/>十<note resp="Taisho" n="0624005" place="foot text" type="orig">八＝七【三】【宮】</note><note resp="CBETA" n="0624005" type="mod">八【大】，七【宋】【元】【明】【宮】</note><app n="0624005"><lem wit="【大】">八</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">七</rdg></app>界、十二處、五蘊。眼識不相應，何所攝？
 <lb n="0624c21" ed="T"/>謂眼識自性、色、無為、心不相應行十八界、十
 <lb n="0624c22" ed="T"/>二處、五蘊。此何所問？謂除眼觸所生<app corresp="#0624002" type="star"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>相
 <lb n="0624c23" ed="T"/>應及眼識不相應法，即除一切法：十八界、十
@@ -1089,7 +1089,7 @@ Added comment  for Emacs
 <lb n="0625a02" ed="T"/>攝？謂心、心所法三界、二處、三蘊。此何為餘？
 <lb n="0625a03" ed="T"/>謂眼觸所生受自性、色、無為、心不相應行
 <lb n="0625a04" ed="T"/>十七界、十二處、五蘊。眼觸所生想不相應，何
-<lb n="0625a05" ed="T"/>所攝？謂眼觸所生想自性、色、無為、心<note resp="Taisho" n="0625001" place="foot text" type="orig">不＝所【三】【宮】</note><note resp="CBETA" n="0625001" type="mod">不＝所【宋】【元】【明】【宮】</note><app n="0625001"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">所</rdg></app>
+<lb n="0625a05" ed="T"/>所攝？謂眼觸所生想自性、色、無為、心<note resp="Taisho" n="0625001" place="foot text" type="orig">不＝所【三】【宮】</note><note resp="CBETA" n="0625001" type="mod">不【大】，所【宋】【元】【明】【宮】</note><app n="0625001"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">所</rdg></app>
 <lb n="0625a06" ed="T"/>相應行十七界、十二處、五蘊。此何所問？謂
 <lb n="0625a07" ed="T"/>除眼觸所生受相應及眼觸所生想不相應
 <lb n="0625a08" ed="T"/>法，即除一切法：十八界、十二處、五蘊。眼觸所
@@ -1099,7 +1099,7 @@ Added comment  for Emacs
 <lb n="0625a12" ed="T"/>生想自性、色、無為、心不相應行十七界、十二
 <lb n="0625a13" ed="T"/>處、五蘊。眼觸所生受不相應，何所攝？謂眼觸
 <lb n="0625a14" ed="T"/>所生受自性、色、無為、心不相應行十七界、十
-<lb n="0625a15" ed="T"/>二處、五蘊。此何所<note resp="Taisho" n="0625002" place="foot text" type="orig">問＝間【宮】</note><app n="0625002"><lem wit="【大】">問</lem><rdg resp="Taisho" wit="【宮】">間</rdg></app>？謂除眼觸所生想相
+<lb n="0625a15" ed="T"/>二處、五蘊。此何所<note resp="Taisho" n="0625002" place="foot text" type="orig">問＝間【宮】</note><note resp="CBETA" n="0625002" type="mod">問【大】，間【宮】</note><app n="0625002"><lem wit="【大】">問</lem><rdg resp="Taisho" wit="【宮】">間</rdg></app>？謂除眼觸所生想相
 <lb n="0625a16" ed="T"/>應及眼觸所生受不相應法，即除一切法：十
 <lb n="0625a17" ed="T"/>八界、十二處、五蘊。如以眼觸所生受對眼觸
 <lb n="0625a18" ed="T"/>所生想，乃至對意觸所生想亦爾。</p><p rend="inline" xml:id="pT26p0625a1814">眼觸所生
@@ -1147,7 +1147,7 @@ Added comment  for Emacs
 <pb n="0625c" ed="T" xml:id="T26.1540.0625c"/>
 <lb n="0625c01" ed="T"/>所應當廣說。如是略說有十六門，若廣說有
 <lb n="0625c02" ed="T"/>八十八門。</p>
-<lb n="0625c03" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title><note resp="Taisho" n="0625003" place="foot text" type="orig">說一切有部＝阿毘達磨【明】</note><app n="0625003"><lem wit="【大】">說一切有部</lem><rdg resp="Taisho" wit="【明】">阿毘達磨</rdg></app>界身足論</title>卷下</cb:jhead></cb:juan></cb:div></cb:div>
+<lb n="0625c03" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title><note resp="Taisho" n="0625003" place="foot text" type="orig">說一切有部＝阿毘達磨【明】</note><note resp="CBETA" n="0625003" type="mod">說一切有部【大】，阿毘達磨【明】</note><app n="0625003"><lem wit="【大】">說一切有部</lem><rdg resp="Taisho" wit="【明】">阿毘達磨</rdg></app>界身足論</title>卷下</cb:jhead></cb:juan></cb:div></cb:div>
 <lb n="0625c04" ed="T"/>
 <lb n="0625c05" ed="T"/>
 <lb n="0625c06" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">後序</cb:mulu><head><title>界身足論</title>後序</head>
@@ -1155,10 +1155,10 @@ Added comment  for Emacs
 <lb n="0625c08" ed="T"/><byline cb:type="author">沙門釋基製</byline>
 <lb n="0625c09" ed="T"/><p xml:id="pT26p0625c0901">《界身足論》者，說一切有部《發智》六足之一足
 <lb n="0625c10" ed="T"/>也。詳夫邃旨沖微，非大聖無以揚其奧；梵
-<lb n="0625c11" ed="T"/>言幽祕，非上哲何以繹其真。是以夕<note resp="Taisho" n="0625004" place="foot text" type="orig">𥧌＝<g ref="#CB02127"/>【三】【宮】</note><note resp="CBETA" n="0625004" type="mod">𥧌＝<g ref="#CB02127"/>【宋】【元】【明】【宮】</note><app n="0625004"><lem wit="【大】">𥧌</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><g ref="#CB02127"/></rdg></app>金
+<lb n="0625c11" ed="T"/>言幽祕，非上哲何以繹其真。是以夕<note resp="Taisho" n="0625004" place="foot text" type="orig">𥧌＝<g ref="#CB02127"/>【三】【宮】</note><note resp="CBETA" n="0625004" type="mod">𥧌【大】，<g ref="#CB02127"/>【宋】【元】【明】【宮】</note><app n="0625004"><lem wit="【大】">𥧌</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><g ref="#CB02127"/></rdg></app>金
 <lb n="0625c12" ed="T"/>容、晨馳白馬，譯經者結轍、津義者聯蹤，
 <lb n="0625c13" ed="T"/>至於婆沙八蘊，缺五蘊之幽趣；發智六足，無
-<lb n="0625c14" ed="T"/>五足之玄文，餘旨雖存，尚多紕<note resp="Taisho" n="0625005" place="foot text" type="orig">綆＝硬【宋】【元】【宮】</note><app n="0625005"><lem wit="【大】">綆</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">硬</rdg></app>，故使三
+<lb n="0625c14" ed="T"/>五足之玄文，餘旨雖存，尚多紕<note resp="Taisho" n="0625005" place="foot text" type="orig">綆＝硬【宋】【元】【宮】</note><note resp="CBETA" n="0625005" type="mod">綆【大】，硬【宋】【元】【宮】</note><app n="0625005"><lem wit="【大】">綆</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">硬</rdg></app>，故使三
 <lb n="0625c15" ed="T"/>秦匠彥穿鑿於異端、九土緇英滯惑於真偽。
 <lb n="0625c16" ed="T"/>故我親教三藏法師玄奘，業該群籍、志隆弘
 <lb n="0625c17" ed="T"/>撫，欲使有宗俊穎不延頸於五天、對法雄傑
@@ -1169,7 +1169,7 @@ Added comment  for Emacs
 <lb n="0625c22" ed="T"/>三十頌，文遺廣略、義離增減。詳其論始說起
 <lb n="0625c23" ed="T"/>能仁，大德流通遂師名稱，尊者世友之所作
 <lb n="0625c24" ed="T"/>也。既而道滿待機、因圓佇列，神功妙思繄可
-<lb n="0625c25" ed="T"/><note resp="Taisho" n="0625006" place="foot text" type="orig">殫＝彈【宮】</note><app n="0625006"><lem wit="【大】">殫</lem><rdg resp="Taisho" wit="【宮】">彈</rdg></app>言？但基虛簉操觚、謬倍函丈，承暉彫斲、
+<lb n="0625c25" ed="T"/><note resp="Taisho" n="0625006" place="foot text" type="orig">殫＝彈【宮】</note><note resp="CBETA" n="0625006" type="mod">殫【大】，彈【宮】</note><app n="0625006"><lem wit="【大】">殫</lem><rdg resp="Taisho" wit="【宮】">彈</rdg></app>言？但基虛簉操觚、謬倍函丈，承暉彫斲、
 <lb n="0625c26" ed="T"/>受旨執文，惟恐愛海波騰、玄源祕洩。矚法舟
-<lb n="0625c27" ed="T"/>之<note resp="Taisho" n="0625007" place="foot text" type="orig">淪＝論【宋】【元】【宮】</note><app n="0625007"><lem wit="【大】">淪</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">論</rdg></app>喪，故敘其時事云。</p></cb:div>
+<lb n="0625c27" ed="T"/>之<note resp="Taisho" n="0625007" place="foot text" type="orig">淪＝論【宋】【元】【宮】</note><note resp="CBETA" n="0625007" type="mod">淪【大】，論【宋】【元】【宮】</note><app n="0625007"><lem wit="【大】">淪</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">論</rdg></app>喪，故敘其時事云。</p></cb:div>
 </body></text></TEI>

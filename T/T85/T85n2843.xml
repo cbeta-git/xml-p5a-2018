@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 2843 大悲啟請</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 2843 大悲啟請</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -160,7 +160,7 @@ Added comment  for Emacs
 <pb n="1296a" xml:id="T85.2843.1296a" ed="T"/>
 <lb n="1296a01" ed="T"/>耶<note place="inline">十</note>婆盧羯帝室佛楞馱婆<note place="inline">十一</note>南無那囉謹
 <lb n="1296a02" ed="T"/>墀<note place="inline">十二</note>醯唎摩訶皤哆沙咩<note place="inline">羊聲呼十三</note>薩婆阿他豆
-<lb n="1296a03" ed="T"/>輸<choice cb:resp="CBETA.maha"><corr>朋<note type="cf1">T20n1060_p0107c02</note><note type="cf2">T20n1064_p0116b23</note></corr><sic>明</sic></choice><note place="inline">十四</note>阿<choice cb:resp="CBETA.maha"><corr>逝<note type="cf1">T20n1060_p0107c02</note><note type="cf2">T20n1064_p0116b24</note></corr><sic>遊</sic></choice>孕<note place="inline">十五</note>薩婆薩哆那<choice cb:resp="CBETA.maha"><corr>摩<note type="cf1">T20n1060_p0107c2</note><note type="cf2">T46n 1950_p0976b5</note></corr><sic>薩</sic></choice>婆伽<note place="inline">十六</note>
+<lb n="1296a03" ed="T"/>輸<note n="1296a0301" resp="CBETA" type="add">朋【CB】，明【大】</note><app n="1296a0301"><lem wit="【CB】" resp="CBETA.maha">朋<note type="cf1">T20n1060_p0107c02</note><note type="cf2">T20n1064_p0116b23</note></lem><rdg wit="【大】">明</rdg></app><note place="inline">十四</note>阿<note n="1296a0302" resp="CBETA" type="add">逝【CB】，遊【大】</note><app n="1296a0302"><lem wit="【CB】" resp="CBETA.maha">逝<note type="cf1">T20n1060_p0107c02</note><note type="cf2">T20n1064_p0116b24</note></lem><rdg wit="【大】">遊</rdg></app>孕<note place="inline">十五</note>薩婆薩哆那<note n="1296a0303" resp="CBETA" type="add">摩【CB】，薩【大】</note><app n="1296a0303"><lem wit="【CB】" resp="CBETA.maha">摩<note type="cf1">T20n1060_p0107c2</note><note type="cf2">T46n 1950_p0976b5</note></lem><rdg wit="【大】">薩</rdg></app>婆伽<note place="inline">十六</note>
 <lb n="1296a04" ed="T"/>摩罰特豆<note place="inline">十七</note>怛姪他<note place="inline">十八</note>唵<note place="inline">十九</note>阿婆盧醯
 <lb n="1296a05" ed="T"/>盧迦帝<note place="inline">二十</note>迦囉帝<note place="inline">二十一</note>夷醯唎摩訶菩提
 <lb n="1296a06" ed="T"/>薩埵<note place="inline">二十二</note>薩婆薩婆<note place="inline">二十三</note>摩囉摩囉<note place="inline">二十四弟子佛受持</note>
@@ -178,9 +178,9 @@ Added comment  for Emacs
 <lb n="1296a18" ed="T"/>訶悉陀夜<note place="inline">五十二</note>娑婆訶<note place="inline">五十三</note>悉陀喻藝<note place="inline">五十四</note>
 <lb n="1296a19" ed="T"/>室皤囉耶<note place="inline">五十五</note>娑婆訶<note place="inline">五十六</note>那囉謹墀<note place="inline">五十
 <lb n="1296a20" ed="T"/>七</note>娑婆訶<note place="inline">五十八</note>摩囉那囉<note place="inline">五十九</note>娑婆訶<note place="inline">六十</note>
-<lb n="1296a21" ed="T"/>悉囉僧阿穆佉耶<note place="inline">六十一</note>娑婆訶<note place="inline">六十二</note><choice cb:resp="CBETA.maha"><corr>娑婆<note type="cf1">T20n1060_p0107c19</note><note type="cf2">T20n1064_p0117a01-a02</note></corr><sic>婆波</sic></choice>摩
+<lb n="1296a21" ed="T"/>悉囉僧阿穆佉耶<note place="inline">六十一</note>娑婆訶<note place="inline">六十二</note><note n="1296a2101" resp="CBETA" type="add">娑婆【CB】，婆波【大】</note><app n="1296a2101"><lem wit="【CB】" resp="CBETA.maha">娑婆<note type="cf1">T20n1060_p0107c19</note><note type="cf2">T20n1064_p0117a01-a02</note></lem><rdg wit="【大】">婆波</rdg></app>摩
 <lb n="1296a22" ed="T"/>阿悉陀耶<note place="inline">六十三</note>娑婆訶<note place="inline">六十四</note>者吉囉阿悉陀
-<lb n="1296a23" ed="T"/>耶<note place="inline">六十五</note>娑婆訶<note place="inline">六十六</note>波<choice cb:resp="CBETA.maha"><corr>陀<note type="cf1">T20n1060_p0107c20</note><note type="cf2">T20n1064_p0117a04</note></corr><sic><space quantity="0"/></sic></choice>摩羯悉哆耶<note place="inline">六十七</note>娑
+<lb n="1296a23" ed="T"/>耶<note place="inline">六十五</note>娑婆訶<note place="inline">六十六</note>波<note n="1296a2301" resp="CBETA" type="add">陀【CB】，［－］【大】</note><app n="1296a2301"><lem wit="【CB】" resp="CBETA.maha">陀<note type="cf1">T20n1060_p0107c20</note><note type="cf2">T20n1064_p0117a04</note></lem><rdg wit="【大】"><space quantity="0"/></rdg></app>摩羯悉哆耶<note place="inline">六十七</note>娑
 <lb n="1296a24" ed="T"/>婆訶<note place="inline">六十八</note>那囉謹墀皤伽羅耶<note place="inline">六十九</note>娑婆訶
 <lb n="1296a25" ed="T"/><note place="inline">七十</note>摩婆唎勝羯囉夜<note place="inline">七十一</note>娑婆訶<note place="inline">七十二</note>南無
 <lb n="1296a26" ed="T"/>喝囉怛那哆囉夜耶<note place="inline">七十三</note>南無阿唎耶<note place="inline">七十四</note>

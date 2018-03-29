@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="T16n0718" xmlns:cb="http://www.cbeta.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 	<fileDesc>
@@ -115,8 +115,8 @@ Added comment  for Emacs
 <lb ed="T" n="0844a23"/><cb:docNumber>No. 718</cb:docNumber>
 <lb n="0844a24" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>佛說分別緣生經</title></cb:jhead></cb:juan>
 <lb n="0844a25" ed="T"/>
-<lb n="0844a26" ed="T"/><byline cb:type="Translator"><note n="0844003" type="orig" place="foot text" resp="Taisho">（宋）＋西【明】</note><app n="0844003"><lem wit="【大】">西</lem><rdg resp="Taisho" wit="【明】">宋西</rdg></app>天譯經三藏朝奉大夫試鴻臚卿
-<lb n="0844a27" ed="T"/>傳教大師<note type="orig" place="foot text" resp="Taisho" n="0844004">〔臣〕－【明】</note><app n="0844004"><lem wit="【大】">臣</lem><rdg wit="【明】" resp="Taisho"><space quantity="0"></space></rdg></app>法天奉　詔譯</byline>
+<lb n="0844a26" ed="T"/><byline cb:type="Translator"><note n="0844003" type="orig" place="foot text" resp="Taisho">（宋）＋西【明】</note><note n="0844003" type="mod" resp="CBETA">西【大】，宋西【明】</note><app n="0844003"><lem wit="【大】">西</lem><rdg resp="Taisho" wit="【明】">宋西</rdg></app>天譯經三藏朝奉大夫試鴻臚卿
+<lb n="0844a27" ed="T"/>傳教大師<note type="orig" place="foot text" resp="Taisho" n="0844004">〔臣〕－【明】</note><note type="mod" resp="CBETA" n="0844004">臣【大】，〔－〕【明】</note><app n="0844004"><lem wit="【大】">臣</lem><rdg wit="【明】" resp="Taisho"><space quantity="0"/></rdg></app>法天奉　詔譯</byline>
 <lb n="0844a28" ed="T"/><cb:div type="jing"><p xml:id="pT16p0844a2801">如是我聞：</p><p rend="inline" xml:id="pT16p0844a2805">一時佛在烏盧尾螺池邊，泥連河
 <lb ed="T" n="0844a29"/>側菩提樹下，成佛未久，獨止其中，心生思
 <pb n="0844b" xml:id="T16.0718.0844b" ed="T"/>
@@ -147,7 +147,7 @@ Added comment  for Emacs
 <lb ed="T" n="0844b25"/>之所覆閉，是為無明。從無明緣而生於行，行
 <lb n="0844b26" ed="T"/>有三種，謂身、口、意。復從行緣而生於識，識
 <lb n="0844b27" ed="T"/>有六種，謂眼識、耳識、鼻識、舌識、身識、意識。從
-<lb n="0844b28" ed="T"/>於識緣而生名、色，名者除色，<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">名<note type="cf1">K40n1409_p0038a05</note></lem><rdg wit="【大】">各</rdg></app>有四種，謂
+<lb n="0844b28" ed="T"/>於識緣而生名、色，名者除色，<note n="0844b2801" resp="CBETA" type="add">名【CB】【麗-CB】，各【大】</note><app n="0844b2801"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">名<note type="cf1">K40n1409_p0038a05</note></lem><rdg wit="【大】">各</rdg></app>有四種，謂
 <lb n="0844b29" ed="T"/>受、想、行、識；色者所謂四大，一切色法，由四
 <pb ed="T" xml:id="T16.0718.0844c" n="0844c"/>
 <lb ed="T" n="0844c01"/>大生。如是色蘊、名蘊二種，是為名、色。從名、

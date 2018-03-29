@@ -708,7 +708,7 @@ modified: modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="A" n="0805a07"/><item xml:id="itemA097p0805a0701">實相般若經一卷<note place="inline">蒲州八紙供城九紙</note></item></list>
 <lb ed="A" n="0805a08"/><list><item xml:id="itemA097p0805a0801">放光般若波羅蜜經一部三十卷<note place="inline">或二十卷五百四十六紙
 <lb ed="A" n="0805a09"/>亦云摩訶般若波羅蜜放光經初出亦云放光摩訶般若經第一譯凡九十品</note>
-<lb ed="A" n="0805a10"/><list><item xml:id="itemA097p0805a1001"><choice cb:resp="CBETA.maha"><corr>摩</corr><sic><unclear/></sic></choice>訶般若波羅蜜放光序品第一
+<lb ed="A" n="0805a10"/><list><item xml:id="itemA097p0805a1001"><note n="0805a1001" resp="CBETA" type="add">摩【CB】，<unclear/>【金藏】</note><app n="0805a1001"><lem wit="【CB】" resp="CBETA.maha">摩</lem><rdg wit="【金藏】"><unclear/></rdg></app>訶般若波羅蜜放光序品第一
 <lb ed="A" n="0805a11"/><note place="inline">放光經卷第一</note></item>
 <lb ed="A" n="0805a12"/><item xml:id="itemA097p0805a1201">摩訶般若波羅蜜無見品第二</item>
 <pb ed="A" xml:id="A097.1276.0805b" n="0805b"/>
@@ -1142,14 +1142,14 @@ modified: modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="A" n="0822b04"/>二十五</item>
 <lb ed="A" n="0822b05"/><item xml:id="itemA097p0822b0501">摩訶般若波羅蜜道行經不可盡品
 <lb ed="A" n="0822b06"/>第二十六
-<lb ed="A" n="0822b07"/><choice cb:resp="CBETA.maha"><corr><note place="inline">卷九</note></corr><sic>卷九</sic></choice></item>
+<lb ed="A" n="0822b07"/><note n="0822b0701" resp="CBETA" type="add"><note place="inline">卷九</note>【CB】，卷九【金藏】</note><app n="0822b0701"><lem wit="【CB】" resp="CBETA.maha"><note place="inline">卷九</note></lem><rdg wit="【金藏】">卷九</rdg></app></item>
 <lb ed="A" n="0822b08"/><item xml:id="itemA097p0822b0801">摩訶般若波羅蜜道行經隨品第二十七</item>
 <lb ed="A" n="0822b09"/><item xml:id="itemA097p0822b0901">摩訶般若波羅蜜道行經薩陀波崘
 <lb ed="A" n="0822b10"/>菩薩品第二十八</item>
 <lb ed="A" n="0822b11"/><item xml:id="itemA097p0822b1101">摩訶般若波羅蜜道行經曇無竭菩
 <pb ed="A" xml:id="A097.1276.0823a" n="0823a"/>
 <lb ed="A" n="0823a01"/>品第二十九
-<lb ed="A" n="0823a02"/><choice cb:resp="CBETA.maha"><corr><note place="inline">卷第十</note></corr><sic>卷第九十</sic></choice></item>
+<lb ed="A" n="0823a02"/><note n="0823a0201" resp="CBETA" type="add"><note place="inline">卷第十</note>【CB】，卷第九十【金藏】</note><app n="0823a0201"><lem wit="【CB】" resp="CBETA.maha"><note place="inline">卷第十</note></lem><rdg wit="【金藏】">卷第九十</rdg></app></item>
 <lb ed="A" n="0823a03"/><item xml:id="itemA097p0823a0301">摩訶般若波羅蜜道行經囑累品第
 <lb ed="A" n="0823a04"/>三十
 <lb ed="A" n="0823a05"/><list><item xml:id="itemA097p0823a0501">右後漢光和二年七月八日月氏國
@@ -1368,7 +1368,7 @@ modified: modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="A" n="0831b05"/>微宮譯見內典錄<note place="inline">沙門知仁筆受</note></item></list></item></list></item>
 <lb ed="A" n="0831b06"/><item xml:id="itemA097p0831b0601">實相般若經<note place="inline">九紙　第二譯　或有波羅蜜字</note>
 <lb ed="A" n="0831b07"/><list><item xml:id="itemA097p0831b0701">實相般若波羅蜜經<note place="inline">南天竺國沙門菩
-<lb ed="A" n="0831b08"/>提留<choice cb:resp="CBETA.maha"><corr>志</corr><sic>忐</sic></choice>等奉　制譯</note>
+<lb ed="A" n="0831b08"/>提留<note n="0831b0801" resp="CBETA" type="add">志【CB】，忐【金藏】</note><app n="0831b0801"><lem wit="【CB】" resp="CBETA.maha">志</lem><rdg wit="【金藏】">忐</rdg></app>等奉　制譯</note>
 <lb ed="A" n="0831b09"/><list><item xml:id="itemA097p0831b0901">右大周長壽二年南天竺三藏菩
 <lb ed="A" n="0831b10"/>提流志於神都大周東寺譯見大
 <lb ed="A" n="0831b11"/>周錄<note place="inline">沙門處一筆受</note><list><item xml:id="itemA097p0831b1109">上三經同卷

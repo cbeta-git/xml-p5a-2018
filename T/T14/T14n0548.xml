@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T14n0548">
 <teiHeader>
         <fileDesc>
@@ -136,7 +136,7 @@ Added comment  for Emacs
 <lb n="0853b08" ed="T"/>
 <lb n="0853b09" ed="T"/>
 <lb n="0853b10" ed="T"/><cb:docNumber>No. 548</cb:docNumber>
-<lb ed="T" n="0853b11"/><cb:juan fun="open" n="001"><cb:mulu n="001" type="卷"/><note resp="Taisho" place="foot text" type="orig" n="0853002">【三】不戴此經</note><note resp="CBETA" type="mod" n="0853002">【宋】【元】【明】不<choice cb:resp="CBETA.maha"><corr>載</corr><sic>戴</sic></choice>此經</note><cb:jhead>佛說金光王童子經</cb:jhead></cb:juan>
+<lb ed="T" n="0853b11"/><cb:juan fun="open" n="001"><cb:mulu n="001" type="卷"/><note resp="Taisho" place="foot text" type="orig" n="0853002">【三】不戴此經</note><note resp="CBETA" type="mod" n="0853002"><!--CBETA todo type: newmod-->【宋】【元】【明】不載此經</note><cb:jhead>佛說金光王童子經</cb:jhead></cb:juan>
 <lb n="0853b12" ed="T"/>
 <lb ed="T" n="0853b13"/><byline cb:type="Translator">西天譯經三藏朝散大夫試鴻臚
 <lb n="0853b14" ed="T"/>少卿明教大師臣法賢奉　詔譯</byline>
@@ -190,7 +190,7 @@ Added comment  for Emacs
 <lb n="0854a02" ed="T"/>印作佛像，且致如是造像果報。</p><p rend="inline" xml:id="pT14p0854a0213">「諸苾芻！若有
 <lb ed="T" n="0854a03"/>善男子、善女人，以所造像隨得一種，志心清
 <lb n="0854a04" ed="T"/>淨，以妙香水如法沐浴，所獲功德我今說之。
-<lb ed="T" n="0854a05"/>是善男子、善女人捨身受身，<app><lem resp="CBETA.maha" wit="【CBETA】【麗】">常<note type="cf1">K34n1174_p0169a17</note></lem><rdg wit="【大】">帝</rdg></app>於剎帝利、婆羅
+<lb ed="T" n="0854a05"/>是善男子、善女人捨身受身，<note n="0854a0501" resp="CBETA" type="add">常【CB】【麗-CB】，帝【大】</note><app n="0854a0501"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">常<note type="cf1">K34n1174_p0169a17</note></lem><rdg wit="【大】">帝</rdg></app>於剎帝利、婆羅
 <lb ed="T" n="0854a06"/>門、毘舍、首陀上族中生，福德圓滿人相具足，
 <lb n="0854a07" ed="T"/>得宿命智獲善眷屬。至於奴婢、車馬、珍寶、財
 <lb ed="T" n="0854a08"/>物，一切受用無不具足；一切眾生為依為主，

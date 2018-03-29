@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 2009 少室六門</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 2009 少室六門</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -204,9 +204,9 @@ Added comment  for Emacs
 <lb n="0365c05" ed="T"/><p xml:id="pT48p0365c0501">不增不減。</p>
 <lb n="0365c06" ed="T"/><lg xml:id="lgT48p0365c0601" type="abnormal"><l>如來體無相。</l><l>滿足十方空。</l><l>空上難立有。</l><l>有內
 <lb n="0365c07" ed="T"/>不見空。</l><l>看似水中月。</l><l>聞如耳畔風。</l><l>法身何增
-<lb n="0365c08" ed="T"/>減。</l><l>三界號真<note n="0365004" resp="Taisho" place="foot text" type="orig">容＝空？</note><app n="0365004"><lem resp="Taisho" wit="【大】">容</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">空</rdg></app>。</l></lg>
+<lb n="0365c08" ed="T"/>減。</l><l>三界號真<note n="0365004" resp="Taisho" place="foot text" type="orig">容＝空？</note><note n="0365004" resp="CBETA" type="mod">容【大】，空【考偽-大】</note><app n="0365004"><lem resp="Taisho" wit="【大】">容</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">空</rdg></app>。</l></lg>
 <lb n="0365c09" ed="T"/><p xml:id="pT48p0365c0901">是故空中。</p>
-<lb n="0365c10" ed="T"/><lg xml:id="lgT48p0365c1001" type="abnormal"><l>菩提不在外。</l><l>中<note n="0365005" resp="Taisho" place="foot text" type="orig">聞＝間？</note><app n="0365005"><lem resp="Taisho" wit="【大】">聞</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">間</rdg></app>覓也難。</l><l>非相非非相。</l><l>量
+<lb n="0365c10" ed="T"/><lg xml:id="lgT48p0365c1001" type="abnormal"><l>菩提不在外。</l><l>中<note n="0365005" resp="Taisho" place="foot text" type="orig">聞＝間？</note><note n="0365005" resp="CBETA" type="mod">聞【大】，間【考偽-大】</note><app n="0365005"><lem resp="Taisho" wit="【大】">聞</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">間</rdg></app>覓也難。</l><l>非相非非相。</l><l>量
 <lb n="0365c11" ed="T"/>測失機關。</l><l>世界非世界。</l><l>三光照四天。</l><l>本來無
 <lb n="0365c12" ed="T"/>障閡。</l><l>甚處有遮欄。</l></lg>
 <lb n="0365c13" ed="T"/><p xml:id="pT48p0365c1301">無色無受想行識。</p>
@@ -560,7 +560,7 @@ Added comment  for Emacs
 <lb n="0369c01" ed="T"/>密之義。皆是為諸大乘利根者說。非為少智
 <lb n="0369c02" ed="T"/>下劣凡夫。所以今人無能解悟。竊見今時淺
 <lb n="0369c03" ed="T"/>識。唯知事相為功。廣費財寶。多傷水陸。妄營
-<lb n="0369c04" ed="T"/>像塔。虛役人夫。積木疊泥。圖青畫<note n="0369001" resp="Taisho" place="foot text" type="orig">綠＝綠？</note><note n="0369001" resp="CBETA" type="mod"><choice cb:resp="CBETA.maha"><corr>緣</corr><sic>綠</sic></choice>＝綠？</note><app n="0369001"><lem resp="Taisho" wit="【大】">緣</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">綠</rdg></app>。傾心
+<lb n="0369c04" ed="T"/>像塔。虛役人夫。積木疊泥。圖青畫<note n="0369001" resp="Taisho" place="foot text" type="orig">綠＝綠？</note><note n="0369001" resp="CBETA" type="mod">緣【大】，綠【考偽-大】</note><app n="0369001"><lem resp="Taisho" wit="【大】">緣</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">綠</rdg></app>。傾心
 <lb n="0369c05" ed="T"/>盡力。損己迷他。未解慚愧。何曾覺悟。見有為
 <lb n="0369c06" ed="T"/>則勤勤愛著。說無為則兀兀如迷。且貪現世
 <lb n="0369c07" ed="T"/>之小慈。豈覺當來之大苦。此之修學。徒自疲
@@ -585,7 +585,7 @@ Added comment  for Emacs
 <lb n="0369c26" ed="T"/>行。其餘諸行悉入此中。何等四耶。一報冤行。
 <lb n="0369c27" ed="T"/>二隨緣行。三無所求行。四稱法行。云何報冤
 <lb n="0369c28" ed="T"/>行。謂修道行人若受苦時。當自念言我從往
-<lb n="0369c29" ed="T"/>昔無<choice cb:resp="CBETA.maha"><corr>數<note type="cf1">T49n2036_p0548a28</note></corr><sic>教</sic></choice>劫中。棄本從末流浪諸有。多起冤憎。
+<lb n="0369c29" ed="T"/>昔無<note n="0369c2901" resp="CBETA" type="add">數【CB】，教【大】</note><app n="0369c2901"><lem wit="【CB】" resp="CBETA.maha">數<note type="cf1">T49n2036_p0548a28</note></lem><rdg wit="【大】">教</rdg></app>劫中。棄本從末流浪諸有。多起冤憎。
 <pb n="0370a" xml:id="T48.2009.0370a" ed="T"/>
 <lb n="0370a01" ed="T"/>違害無限。今雖無犯。是皆宿殃。惡業果熟。非
 <lb n="0370a02" ed="T"/>天非人所能見與。甘心忍受。都無冤訴。經
@@ -677,7 +677,7 @@ Added comment  for Emacs
 <lb n="0370c28" ed="T"/>乃名為禪定。若了此言者。行住坐臥皆是禪
 <lb n="0370c29" ed="T"/>定。知心是空。名為見佛。何以故。十方諸佛皆
 <pb n="0371a" xml:id="T48.2009.0371a" ed="T"/>
-<lb n="0371a01" ed="T"/>以無心不見於心。名為見佛。捨<note n="0371001" resp="Taisho" place="foot text" type="orig">心＝身？</note><app n="0371001"><lem resp="Taisho" wit="【大】">心</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">身</rdg></app>不悋。名
+<lb n="0371a01" ed="T"/>以無心不見於心。名為見佛。捨<note n="0371001" resp="Taisho" place="foot text" type="orig">心＝身？</note><note n="0371001" resp="CBETA" type="mod">心【大】，身【考偽-大】</note><app n="0371001"><lem resp="Taisho" wit="【大】">心</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">身</rdg></app>不悋。名
 <lb n="0371a02" ed="T"/>大布施。離諸動定。名大坐禪。何以故。凡夫一
 <lb n="0371a03" ed="T"/>向動。小乘一向定。謂出過凡夫小乘之坐禪。
 <lb n="0371a04" ed="T"/>名大坐禪。若作此會者。一切諸相不離自解。
@@ -688,7 +688,7 @@ Added comment  for Emacs
 <lb n="0371a09" ed="T"/>明為大智慧。無煩惱處名般涅槃。無相處名
 <lb n="0371a10" ed="T"/>為彼岸。迷時有此岸。悟時無此岸。何以故。為
 <lb n="0371a11" ed="T"/>凡夫一向住此。若覺最上乘者。心不住此。亦
-<lb n="0371a12" ed="T"/>不住彼。故能離於此彼岸也。若見<choice cb:resp="CBETA"><corr>彼</corr><sic>波</sic></choice>岸異於
+<lb n="0371a12" ed="T"/>不住彼。故能離於此彼岸也。若見<note n="0371a1201" resp="CBETA" type="add">彼【CB】，波【大】</note><app n="0371a1201"><lem wit="【CB】" resp="CBETA">彼</lem><rdg wit="【大】">波</rdg></app>岸異於
 <lb n="0371a13" ed="T"/>此岸。此人之心已無禪定。煩惱名眾生。悟解
 <lb n="0371a14" ed="T"/>名菩提。亦不一不異。只隔其迷悟耳。迷時有
 <lb n="0371a15" ed="T"/>世間可出。悟時無世間可出。平等法中。不見
@@ -1121,7 +1121,7 @@ Added comment  for Emacs
 <lb n="0375c22" ed="T"/>性。婬慾本來空。寂不假斷除。亦不樂著。何以
 <lb n="0375c23" ed="T"/>故。性本清淨故。雖處在五蘊色身中。其性本
 <lb n="0375c24" ed="T"/>來清淨。染污不得。法身本來無受。無飢無渴。
-<lb n="0375c25" ed="T"/>無寒無熱無病。無<note n="0375001" resp="Taisho" place="foot text" type="orig">因＝恩？</note><app n="0375001"><lem resp="Taisho" wit="【大】">因</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">恩</rdg></app>愛。無眷屬。無苦樂。無
+<lb n="0375c25" ed="T"/>無寒無熱無病。無<note n="0375001" resp="Taisho" place="foot text" type="orig">因＝恩？</note><note n="0375001" resp="CBETA" type="mod">因【大】，恩【考偽-大】</note><app n="0375001"><lem resp="Taisho" wit="【大】">因</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">恩</rdg></app>愛。無眷屬。無苦樂。無
 <lb n="0375c26" ed="T"/>好惡。無短長。無強弱。本來無有一物可得。只
 <lb n="0375c27" ed="T"/>緣執有此色身因。即有飢渴寒熱瘴病等相。
 <lb n="0375c28" ed="T"/>若不執即一任作為。於生死中得大自在。轉

@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 2764B 大涅槃經義記卷第四</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 2764B 大涅槃經義記卷第四</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -173,7 +173,7 @@ Added comment  for Emacs
 <lb n="0294b19" ed="T"/>世攝正因不為世攝。初一段直就道理廣明
 <lb n="0294b20" ed="T"/>緣因為三世攝。正因不為世攝□□□□於
 <lb n="0294b21" ed="T"/>已下。第二引其成經明于緣正攝以不攝。須
-<lb n="0294b22" ed="T"/>陀<choice cb:resp="CBETA.maha"><corr>洹</corr><sic>恒</sic></choice>人已下。第三就人以明緣正攝以不攝。
+<lb n="0294b22" ed="T"/>陀<note n="0294b2201" resp="CBETA" type="add">洹【CB】，恒【大】</note><app n="0294b2201"><lem wit="【CB】" resp="CBETA.maha">洹</lem><rdg wit="【大】">恒</rdg></app>人已下。第三就人以明緣正攝以不攝。
 <lb n="0294b23" ed="T"/>聲聞如乳者。上如來為成增一明義故。是以
 <lb n="0294b24" ed="T"/>從佛向下而明。此中為成前微後著。是以從
 <lb n="0294b25" ed="T"/>下向上而明也。十住下品為辟支。上品為菩
@@ -340,7 +340,7 @@ Added comment  for Emacs
 <lb n="0296b06" ed="T"/>常則不可滅。即迷滅諦。道於性有無用即迷
 <lb n="0296b07" ed="T"/>道諦。是則四諦俱迷。今修行得在現忍以上
 <lb n="0296b08" ed="T"/>則見五陰生滅因緣體非自性則達。從因有
-<lb n="0296b09" ed="T"/>苦道能滅累故言亦緣四<note n="0296001" resp="Taisho" place="foot text" type="orig">帝＝諦？</note><app n="0296001"><lem resp="Taisho" wit="【大】">帝</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">諦</rdg></app>也。所以名為苦
+<lb n="0296b09" ed="T"/>苦道能滅累故言亦緣四<note n="0296001" resp="Taisho" place="foot text" type="orig">帝＝諦？</note><note n="0296001" resp="CBETA" type="mod">帝【大】，諦【考偽-大】</note><app n="0296001"><lem resp="Taisho" wit="【大】">帝</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">諦</rdg></app>也。所以名為苦
 <lb n="0296b10" ed="T"/>法忍者。解云凡天下斷結有其三種。一者從
 <lb n="0296b11" ed="T"/>厭伏斷不從理除外道是也。二從厭從理二
 <lb n="0296b12" ed="T"/>乘是也。三者從理不從厭。菩薩是也。以菩薩
@@ -504,7 +504,7 @@ Added comment  for Emacs
 <lb n="0298a20" ed="T"/>我生。已盡智涅槃名梵。阿羅漢果初空觀真
 <lb n="0298a21" ed="T"/>解道出三界名梵行已立。出盡智後生心緣
 <lb n="0298a22" ed="T"/>此梵行已立名梵行已立。智當道作訖名所
-<lb n="0298a23" ed="T"/>作已<choice cb:resp="CBETA.maha"><corr>辦</corr><sic>辨</sic></choice>。生心緣當所作已<choice cb:resp="CBETA.maha"><corr>辦</corr><sic>辨</sic></choice>道名所作<choice cb:resp="CBETA.maha"><corr>辦</corr><sic>辨</sic></choice>智
+<lb n="0298a23" ed="T"/>作已<note n="0298a2301" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0298a2301"><lem wit="【CB】" resp="CBETA.maha">辦</lem><rdg wit="【大】">辨</rdg></app>。生心緣當所作已<note n="0298a2302" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0298a2302"><lem wit="【CB】" resp="CBETA.maha">辦</lem><rdg wit="【大】">辨</rdg></app>道名所作<note n="0298a2303" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0298a2303"><lem wit="【CB】" resp="CBETA.maha">辦</lem><rdg wit="【大】">辨</rdg></app>智
 <lb n="0298a24" ed="T"/>當未生或畢竟更不復受後有之果。生心緣
 <lb n="0298a25" ed="T"/>彼不受後有名不受後有智。初後二智緣於滅
 <lb n="0298a26" ed="T"/>諦。中間二智緣於道諦。就昔教中二乘四智
@@ -904,8 +904,8 @@ Added comment  for Emacs
 <pb n="0302c" xml:id="T85.2764B.0302c" ed="T"/>
 <lb n="0302c01" ed="T"/>難五大是因緣竟。五大雖復已下解正義。目
 <lb n="0302c02" ed="T"/>前蘇臘胡膠於汝為地者。外人計此為香。香
-<lb n="0302c03" ed="T"/>是地之求那故也。白<choice cb:resp="CBETA.maha"><corr>鑞<note type="cf1">T12n0374_p0599c07</note></corr><sic>臘</sic></choice>等於我為火者。外人
-<lb n="0302c04" ed="T"/>計白<choice cb:resp="CBETA.maha"><corr>鑞<note type="cf1">T12n0374_p0599c07</note></corr><sic>臘</sic></choice>等有斯明色。色是火之求那故也。汝
+<lb n="0302c03" ed="T"/>是地之求那故也。白<note n="0302c0301" resp="CBETA" type="add">鑞【CB】，臘【大】</note><app n="0302c0301"><lem wit="【CB】" resp="CBETA.maha">鑞<note type="cf1">T12n0374_p0599c07</note></lem><rdg wit="【大】">臘</rdg></app>等於我為火者。外人
+<lb n="0302c04" ed="T"/>計白<note n="0302c0401" resp="CBETA" type="add">鑞【CB】，臘【大】</note><app n="0302c0401"><lem wit="【CB】" resp="CBETA.maha">鑞<note type="cf1">T12n0374_p0599c07</note></lem><rdg wit="【大】">臘</rdg></app>等有斯明色。色是火之求那故也。汝
 <lb n="0302c05" ed="T"/>以非大水不凍凍時猶漯故名大者。若爾汝
 <lb n="0302c06" ed="T"/>亦以非風不動水波。動時應名風。汝以雖後
 <lb n="0302c07" ed="T"/>波動濕多名水。若爾凍時堅多應名地也　弘

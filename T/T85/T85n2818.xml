@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 2818 大乘二十二問本</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 2818 大乘二十二問本</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -571,7 +571,7 @@ Added comment  for Emacs
 <lb n="1189a10" ed="T"/>是其實理。而有經中說一乘者。但為別攝不
 <lb n="1189a11" ed="T"/>定性人。令捨二乘向佛果故。就權方便假說
 <lb n="1189a12" ed="T"/>一乘。定性二乘若成佛者。則一乘法應是真
-<lb n="1189a13" ed="T"/>實。何故深<choice cb:resp="CBETA"><corr>密</corr><sic>蜜</sic></choice>及諸經中說一乘法是不了義。
+<lb n="1189a13" ed="T"/>實。何故深<note n="1189a1301" resp="CBETA" type="add">密【CB】，蜜【大】</note><app n="1189a1301"><lem wit="【CB】" resp="CBETA">密</lem><rdg wit="【大】">蜜</rdg></app>及諸經中說一乘法是不了義。
 <lb n="1189a14" ed="T"/>後約真如立一性者。即涅槃等諸經皆說一
 <lb n="1189a15" ed="T"/>切眾生皆有佛性。即是諸法真如一切眾生
 <lb n="1189a16" ed="T"/>平等共有。由有此性皆得成佛。故說眾生皆
@@ -758,13 +758,13 @@ Added comment  for Emacs
 <lb n="1191a17" ed="T"/>居名大眾部。此即是其第一重本。既結集
 <lb n="1191a18" ed="T"/>已於二法藏隨樂受持不相非序。至佛滅後
 <lb n="1191a19" ed="T"/>百有餘年。去聖時俺如日久沒。摩羯陀國俱
-<lb n="1191a20" ed="T"/>蘇摩城王號無憂。統攝<choice cb:resp="CBETA"><corr>贍</corr><sic>瞻</sic></choice>部。感一白蓋化冷
+<lb n="1191a20" ed="T"/>蘇摩城王號無憂。統攝<note n="1191a2001" resp="CBETA" type="add">贍【CB】，瞻【大】</note><app n="1191a2001"><lem wit="【CB】" resp="CBETA">贍</lem><rdg wit="【大】">瞻</rdg></app>部。感一白蓋化冷
 <lb n="1191a21" ed="T"/>人神。是時佛法大眾破。謂因四眾共議大
 <lb n="1191a22" ed="T"/>天五事不同分成兩部。言四眾者。一龍象眾。
 <lb n="1191a23" ed="T"/>二邊部眾。三多聞眾。四德眾。言大天者。末兔
 <lb n="1191a24" ed="T"/>羅國有一商人。婚娶幼妻生一兀子。顏貌端
 <lb n="1191a25" ed="T"/>正字曰大天。商人賀遷久滯他國。子既年
-<lb n="1191a26" ed="T"/>壯母逼行<note n="1191001" resp="Taisho" place="foot text" type="orig">亟＝淫【甲】</note><app n="1191001"><lem wit="【大】">亟</lem><rdg resp="Taisho" wit="【甲】">淫</rdg></app>。後聞父還心懷怖懼。與母設計
+<lb n="1191a26" ed="T"/>壯母逼行<note n="1191001" resp="Taisho" place="foot text" type="orig">亟＝淫【甲】</note><note n="1191001" resp="CBETA" type="mod">亟【大】，淫【甲】</note><app n="1191001"><lem wit="【大】">亟</lem><rdg resp="Taisho" wit="【甲】">淫</rdg></app>。後聞父還心懷怖懼。與母設計
 <lb n="1191a27" ed="T"/>遂鴆殺之。恐事漸彰共竄他國。逃難展轉
 <lb n="1191a28" ed="T"/>至波吒釐。彼城遇逢門師羅漢。恐泄家事矯
 <lb n="1191a29" ed="T"/>清殺之。母後他非其子遇見。悔恨交集遂又
@@ -891,7 +891,7 @@ Added comment  for Emacs
 <pb n="1192c" xml:id="T85.2818.1192c" ed="T"/>
 <lb n="1192c01" ed="T"/>正量部。五化地部。六法藏部。餘十四部兩
 <lb n="1192c02" ed="T"/>處不行　其化地部本出印度。印度已滅于闐
-<lb n="1192c03" ed="T"/>盛行。其法藏部本出西方。<choice cb:resp="CBETA.maha"><corr>西方<note type="cf1">方廣錩．評《大正新修大藏經〉（二）</note></corr><sic><space quantity="0"/></sic></choice>不行。東夏廣闡。化
+<lb n="1192c03" ed="T"/>盛行。其法藏部本出西方。<note n="1192c0301" resp="CBETA" type="add">西方【CB】，［－］【大】</note><app n="1192c0301"><lem wit="【CB】" resp="CBETA.maha">西方<note type="cf1">方廣錩．評《大正新修大藏經〉（二）</note></lem><rdg wit="【大】"><space quantity="0"/></rdg></app>不行。東夏廣闡。化
 <lb n="1192c04" ed="T"/>地有部漢地似行。上坐正量印度盛行。餘方
 <lb n="1192c05" ed="T"/>不見。初分部時二十具足。去聖漸遠法教
 <lb n="1192c06" ed="T"/>淪湒。住持人無部計即滅。住持人在部計乃

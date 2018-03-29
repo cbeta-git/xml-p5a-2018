@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xml:id="T16n0705" xmlns:cb="http://www.cbeta.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 	<fileDesc>
@@ -127,8 +127,8 @@ Added comment  for Emacs
 <lb ed="T" n="0812c08"/><cb:docNumber>No. 705</cb:docNumber>
 <lb n="0812c09" ed="T"/><cb:juan fun="open" n="001"><cb:mulu type="卷" n="001"/><cb:jhead><title>佛說布施經</title></cb:jhead></cb:juan>
 <lb n="0812c10" ed="T"/>
-<lb ed="T" n="0812c11"/><byline cb:type="Translator"><note n="0812009" place="foot text" type="orig" resp="Taisho">西天…師臣＝三藏法師【宋】【元】【宮】，宋西天三藏法師【明】</note><note n="0812009" type="mod" resp="CBETA">西天…師臣＝三藏法師【宋】【元】【宮】，＝宋西天三藏法師【明】</note><app n="0812009" cb:word-count="20"><lem wit="【大】">西天譯經三藏朝散大夫試鴻臚少卿
-<lb ed="T" n="0812c12"/>明教大師臣</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">三藏法師</rdg><rdg resp="Taisho" wit="【明】">宋西天三藏法師</rdg></app>法<note type="orig" resp="Taisho" n="0812010" place="foot text">賢＝天【明】</note><app n="0812010"><lem wit="【大】">賢</lem><rdg resp="Taisho" wit="【明】">天</rdg></app>奉　詔譯</byline>
+<lb ed="T" n="0812c11"/><byline cb:type="Translator"><note n="0812009" place="foot text" type="orig" resp="Taisho">西天…師臣＝三藏法師【宋】【元】【宮】，宋西天三藏法師【明】</note><note n="0812009" type="mod" resp="CBETA">西天…師臣【大】，三藏法師【宋】【元】【宮】，宋西天三藏法師【明】</note><app n="0812009" cb:word-count="20"><lem wit="【大】">西天譯經三藏朝散大夫試鴻臚少卿
+<lb ed="T" n="0812c12"/>明教大師臣</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">三藏法師</rdg><rdg resp="Taisho" wit="【明】">宋西天三藏法師</rdg></app>法<note type="orig" resp="Taisho" n="0812010" place="foot text">賢＝天【明】</note><note type="mod" resp="CBETA" n="0812010">賢【大】，天【明】</note><app n="0812010"><lem wit="【大】">賢</lem><rdg resp="Taisho" wit="【明】">天</rdg></app>奉　詔譯</byline>
 <lb n="0812c13" ed="T"/><cb:div type="jing"><p xml:id="pT16p0812c1301">如是我聞。</p><p xml:id="pT16p0812c1305" rend="inline">一時佛在舍衛國祇樹給孤獨園，
 <lb n="0812c14" ed="T"/>與大苾芻眾說布施法。有三十七種：</p><p rend="inline" xml:id="pT16p0812c1415">一、以信、
 <lb n="0812c15" ed="T"/>重心而行布施，當得離眾嫉妬，人所崇敬；</p><p rend="inline" xml:id="pT16p0812c1517">二、
@@ -137,14 +137,14 @@ Added comment  for Emacs
 <lb ed="T" n="0812c18"/>身相端正；</p><p rend="inline" xml:id="pT16p0812c1805">五、為他施，復得他人行大捨施；</p><p xml:id="pT16p0812c1817" rend="inline">六、
 <lb ed="T" n="0812c19"/>依教施，心離取相，得無為福；</p><p xml:id="pT16p0812c1912" rend="inline">七、以妙色具施，
 <lb ed="T" n="0812c20"/>得身色端嚴，眾所愛樂；</p><p xml:id="pT16p0812c2010" rend="inline">八、以上妙香具施，恒
-<lb ed="T" n="0812c21"/>得<note n="0812011" place="foot text" type="orig" resp="Taisho">旃＝栴【明】</note><app n="0812011"><lem wit="【大】">旃</lem><rdg wit="【明】" resp="Taisho">栴</rdg></app>檀之香，受用供養；</p><p rend="inline" xml:id="pT16p0812c2110">九、以上味施，得味中
-<lb n="0812c22" ed="T"/>上味，充益<note place="foot text" n="0812012" resp="Taisho" type="orig">肢＝支【明】</note><app n="0812012"><lem wit="【大】">肢</lem><rdg resp="Taisho" wit="【明】">支</rdg></app>體；</p><p rend="inline" xml:id="pT16p0812c2207">十、如法尊重施，得安隱快樂，
+<lb ed="T" n="0812c21"/>得<note n="0812011" place="foot text" type="orig" resp="Taisho">旃＝栴【明】</note><note n="0812011" type="mod" resp="CBETA">旃【大】，栴【明】</note><app n="0812011"><lem wit="【大】">旃</lem><rdg wit="【明】" resp="Taisho">栴</rdg></app>檀之香，受用供養；</p><p rend="inline" xml:id="pT16p0812c2110">九、以上味施，得味中
+<lb n="0812c22" ed="T"/>上味，充益<note place="foot text" n="0812012" resp="Taisho" type="orig">肢＝支【明】</note><note n="0812012" resp="CBETA" type="mod">肢【大】，支【明】</note><app n="0812012"><lem wit="【大】">肢</lem><rdg resp="Taisho" wit="【明】">支</rdg></app>體；</p><p rend="inline" xml:id="pT16p0812c2207">十、如法尊重施，得安隱快樂，
 <lb ed="T" n="0812c23"/>眾人喜見；</p><p xml:id="pT16p0812c2305" rend="inline">十一、以廣大心施，得無量廣大之
 <lb n="0812c24" ed="T"/>福；</p><p rend="inline" xml:id="pT16p0812c2402">十二、以美食施，得離飢饉，倉庫盈溢；</p><p rend="inline" xml:id="pT16p0812c2416">十三、
 <lb ed="T" n="0812c25"/>以漿飲施，得所往之處無諸飢渴；</p><p xml:id="pT16p0812c2514" rend="inline">十四、以衣
 <lb ed="T" n="0812c26"/>服施，得上妙衣，莊嚴身相；</p><p rend="inline" xml:id="pT16p0812c2611">十五、以住處施，得
 <lb n="0812c27" ed="T"/>田宅寬廣，樓閣莊嚴；</p><p rend="inline" xml:id="pT16p0812c2709">十六、以臥具施，得生貴
-<lb ed="T" n="0812c28"/>族，資具光潔；</p><p xml:id="pT16p0812c2806" rend="inline">十七、以象、馬車輦施，得四<note type="orig" resp="Taisho" n="0812013" place="foot text">神＝禪【三】【宮】</note><note resp="CBETA" type="mod" n="0812013">神＝禪【宋】【元】【明】【宮】</note><app n="0812013"><lem wit="【大】">神</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">禪</rdg></app>足，
+<lb ed="T" n="0812c28"/>族，資具光潔；</p><p xml:id="pT16p0812c2806" rend="inline">十七、以象、馬車輦施，得四<note type="orig" resp="Taisho" n="0812013" place="foot text">神＝禪【三】【宮】</note><note resp="CBETA" type="mod" n="0812013">神【大】，禪【宋】【元】【明】【宮】</note><app n="0812013"><lem wit="【大】">神</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">禪</rdg></app>足，
 <lb n="0812c29" ed="T"/>無擁妙用；</p><p xml:id="pT16p0812c2905" rend="inline">十八、以湯藥施，得安隱快樂，無諸疾
 <pb n="0813a" ed="T" xml:id="T16.0705.0813a"/>
 <lb n="0813a01" ed="T"/>病；</p><p rend="inline" xml:id="pT16p0813a0102">十九、以經法施，得宿命等通；</p><p rend="inline" xml:id="pT16p0813a0113">二十、以花
@@ -171,18 +171,18 @@ Added comment  for Emacs
 <lb n="0813a22" ed="T"/>利他，其心平等。若如是施，是真布施，是大
 <lb n="0813a23" ed="T"/>福田。復次行施，隨自心願，獲其報應。或以
 <lb n="0813a24" ed="T"/>妙色、名香、珍味、軟觸親手布施，得眾人尊重、
-<lb ed="T" n="0813a25"/>眷屬圓滿、富貴安樂之報；或以<note n="0813001" place="foot text" type="orig" resp="Taisho">飲＝飯【宮】</note><app n="0813001"><lem wit="【大】">飲</lem><rdg wit="【宮】" resp="Taisho">飯</rdg></app>食布施，而
+<lb ed="T" n="0813a25"/>眷屬圓滿、富貴安樂之報；或以<note n="0813001" place="foot text" type="orig" resp="Taisho">飲＝飯【宮】</note><note n="0813001" type="mod" resp="CBETA">飲【大】，飯【宮】</note><app n="0813001"><lem wit="【大】">飲</lem><rdg wit="【宮】" resp="Taisho">飯</rdg></app>食布施，而
 <lb n="0813a26" ed="T"/>得大力；或以酥油之燈布施，而得天眼；或
 <lb ed="T" n="0813a27"/>以音樂布施，而得天耳；或以湯藥布施，而
 <lb ed="T" n="0813a28"/>得長壽；或以住處布施，而得樓閣、田園；或以
-<lb ed="T" n="0813a29"/>法說布施，<note resp="Taisho" type="orig" place="foot text" n="0813002">而＝若【宋】【宮】</note><app n="0813002"><lem wit="【大】">而</lem><rdg wit="【宋】【宮】" resp="Taisho">若</rdg></app>得甘露。」</p><p rend="inline" xml:id="pT16p0813a2909">佛言：「大王！若以十善
+<lb ed="T" n="0813a29"/>法說布施，<note resp="Taisho" type="orig" place="foot text" n="0813002">而＝若【宋】【宮】</note><note resp="CBETA" type="mod" n="0813002">而【大】，若【宋】【宮】</note><app n="0813002"><lem wit="【大】">而</lem><rdg wit="【宋】【宮】" resp="Taisho">若</rdg></app>得甘露。」</p><p rend="inline" xml:id="pT16p0813a2909">佛言：「大王！若以十善
 <pb xml:id="T16.0705.0813b" ed="T" n="0813b"/>
 <lb ed="T" n="0813b01"/>行施，復得十種報應：十善者，不殺生、不偷
 <lb ed="T" n="0813b02"/>盜、不婬欲、不妄語、不綺語、不惡口、不兩
 <lb n="0813b03" ed="T"/>舌、不貪、不瞋、不癡，而得命不中夭、財無散
 <lb ed="T" n="0813b04"/>失、眷屬清潔、所言誠諦、離諸嫉妬、人所喜
 <lb ed="T" n="0813b05"/>見、親友和睦、不墮貧賤、顏貌端正、智慧相
-<lb ed="T" n="0813b06"/>應。獲報如是。」</p><p xml:id="pT16p0813b0606" rend="inline">佛言：「大王！若以上<note n="0813003" place="foot text" type="orig" resp="Taisho">妙＋（樂）【三】【宮】</note><note n="0813003" resp="CBETA" type="mod">妙＋（樂）【宋】【元】【明】【宮】</note><app n="0813003"><lem wit="【大】">妙</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">妙樂</rdg></app>飲食
+<lb ed="T" n="0813b06"/>應。獲報如是。」</p><p xml:id="pT16p0813b0606" rend="inline">佛言：「大王！若以上<note n="0813003" place="foot text" type="orig" resp="Taisho">妙＋（樂）【三】【宮】</note><note n="0813003" resp="CBETA" type="mod">妙【大】，妙樂【宋】【元】【明】【宮】</note><app n="0813003"><lem wit="【大】">妙</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">妙樂</rdg></app>飲食
 <lb n="0813b07" ed="T"/>供養三寶，得五種利益：身相端嚴、氣力增
 <lb n="0813b08" ed="T"/>盛、壽命延長、快樂安隱、成就辯才。如是南
 <lb ed="T" n="0813b09"/>贍部洲一切眾生——父母、妻子、男女眷屬——如上

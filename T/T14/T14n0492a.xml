@@ -122,7 +122,7 @@ Added comment  for Emacs
 <lb n="0753a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0753a02" ed="T"/><cb:docNumber>No. 492</cb:docNumber>
-<lb n="0753a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0753001" resp="Taisho" type="orig" place="foot text">此經與【三】【宮】大異，今以【明】對校，【宋】【元】【宮】別附卷末。cf. p. 754</note><note n="0753001" resp="CBETA" type="mod">此經與【宋】【元】【明】【宮】大異，今以【明】對校，【宋】【元】【宮】別附卷末。cf. p. 754</note><cb:jhead>佛說阿難問事佛吉凶經</cb:jhead></cb:juan>
+<lb n="0753a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0753001" resp="Taisho" type="orig" place="foot text">此經與【三】【宮】大異，今以【明】對校，【宋】【元】【宮】別附卷末。cf. p. 754</note><note n="0753001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->此經與【宋】【元】【明】【宮】大異，今以【明】對校，【宋】【元】【宮】別附卷末。cf. p. 754</note><cb:jhead>佛說阿難問事佛吉凶經</cb:jhead></cb:juan>
 <lb n="0753a04" ed="T"/>
 <lb n="0753a05" ed="T"/><byline cb:type="Translator">後漢安息國三藏安世高譯</byline>
 <lb n="0753a06" ed="T"/><cb:div type="jing"><p xml:id="pT14p0753a0601">阿難說：「聞如是。」</p><p xml:id="pT14p0753a0607" rend="inline">阿難白佛言：「有人事佛得
@@ -241,7 +241,7 @@ Added comment  for Emacs
 <lb n="0754a29" ed="T"/><l>死入無擇獄，</l><l>頭上戴鐵輪。</l>
 <pb n="0754b" ed="T" xml:id="T14.0492a.0754b"/>
 <lb n="0754b01" ed="T"/><l>求死不得死，</l><l>須臾已變形，</l>
-<lb n="0754b02" ed="T"/><l>矛戟相貫<choice cb:resp="CBETA"><corr>刺</corr><sic>剌</sic></choice>，</l><l>軀體相殘截。</l>
+<lb n="0754b02" ed="T"/><l>矛戟相貫<note n="0754b0201" resp="CBETA" type="add">刺【CB】，剌【大】</note><app n="0754b0201"><lem wit="【CB】" resp="CBETA">刺</lem><rdg wit="【大】">剌</rdg></app>，</l><l>軀體相殘截。</l>
 <lb n="0754b03" ed="T"/><l>曚曚不達事，</l><l>惡惡相牽拘，</l>
 <lb n="0754b04" ed="T"/><l>展轉眾徒趣，</l><l>禽獸六畜形，</l>
 <lb n="0754b05" ed="T"/><l>為人所屠割，</l><l>以肉償宿怨，</l>

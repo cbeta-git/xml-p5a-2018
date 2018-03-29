@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="T14n0438" xmlns:cb="http://www.cbeta.org/ns/1.0">
 <teiHeader>
         <fileDesc>
@@ -138,8 +138,8 @@ Added comment  for Emacs
 <lb n="0110a11" ed="T"/><cb:docNumber>No. 438</cb:docNumber>
 <lb ed="T" n="0110a12"/><cb:juan n="001" fun="open"><cb:mulu type="卷" n="001"/><cb:jhead><title>佛說大乘大方廣佛冠經</title>卷上</cb:jhead></cb:juan>
 <lb ed="T" n="0110a13"/>
-<lb ed="T" n="0110a14"/><byline cb:type="Translator"><note resp="Taisho" place="foot text" n="0110001" type="orig">西天譯經＝宋西天【明】</note><note type="mod" n="0110001" resp="CBETA">西天譯經＝宋西天【明】<choice cb:resp="CBETA.march"><corr>＊</corr><sic><space quantity="0"></space></sic></choice></note><app n="0110001"><lem wit="【大】">西天譯經</lem><rdg resp="Taisho" wit="【明】">宋西天</rdg></app>三藏朝散大夫試鴻臚卿傳梵
-<lb n="0110a15" ed="T"/>大師<note resp="Taisho" place="foot text" n="0110002" type="orig">〔賜紫沙門臣〕－【明】</note><note resp="CBETA" type="mod" n="0110002">〔賜紫沙門臣〕－【明】<choice cb:resp="CBETA.march"><corr>＊</corr><sic><space quantity="0"></space></sic></choice></note><app n="0110002"><lem wit="【大】">賜紫沙門臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"></space></rdg></app>法護等奉　詔譯</byline>
+<lb ed="T" n="0110a14"/><byline cb:type="Translator"><note resp="Taisho" place="foot text" n="0110001" type="orig">西天譯經＝宋西天【明】</note><note type="mod" n="0110001" resp="CBETA">西天譯經【大】＊，宋西天【明】＊</note><app n="0110001"><lem wit="【大】">西天譯經</lem><rdg resp="Taisho" wit="【明】">宋西天</rdg></app>三藏朝散大夫試鴻臚卿傳梵
+<lb n="0110a15" ed="T"/>大師<note resp="Taisho" place="foot text" n="0110002" type="orig">〔賜紫沙門臣〕－【明】</note><note resp="CBETA" type="mod" n="0110002">賜紫沙門臣【大】＊，〔－〕【明】＊</note><app n="0110002"><lem wit="【大】">賜紫沙門臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>法護等奉　詔譯</byline>
 <lb ed="T" n="0110a16"/><cb:div type="jing"><p xml:id="pT14p0110a1601">如是我聞：</p><p xml:id="pT14p0110a1605" rend="inline">一時，世尊在王舍城鷲峯山中，與
 <lb ed="T" n="0110a17"/>大苾芻眾千二百五十人俱，皆是阿羅漢，諸
 <lb n="0110a18" ed="T"/>漏已盡。</p>
@@ -189,7 +189,7 @@ Added comment  for Emacs
 <lb n="0110c02" ed="T"/>是日輪光明最勝吉祥如來、應供、正等正覺名
 <lb n="0110c03" ed="T"/>號，及日光明菩薩摩訶薩名號，能稱念受持
 <lb n="0110c04" ed="T"/>者，是人轉生得宿命智，乘日輪光照諸善法，
-<lb n="0110c05" ed="T"/>不復更生墮三惡趣，疑惑<note place="foot text" resp="Taisho" type="orig" n="0110003">怖＝佈【明】</note><app n="0110003"><lem wit="【大】">怖</lem><rdg resp="Taisho" wit="【明】">佈</rdg></app>畏，當得不退轉
+<lb n="0110c05" ed="T"/>不復更生墮三惡趣，疑惑<note place="foot text" resp="Taisho" type="orig" n="0110003">怖＝佈【明】</note><note resp="CBETA" type="mod" n="0110003">怖【大】，佈【明】</note><app n="0110003"><lem wit="【大】">怖</lem><rdg resp="Taisho" wit="【明】">佈</rdg></app>畏，當得不退轉
 <lb n="0110c06" ed="T"/>於阿耨多羅三藐三菩提，千劫之中背於生
 <lb n="0110c07" ed="T"/>死，近證阿耨多羅三藐三菩提果。</p>
 <lb n="0110c08" ed="T"/><p xml:id="pT14p0110c0801">「復次，迦葉！東方去此佛剎過四殑伽沙數等
@@ -225,7 +225,7 @@ Added comment  for Emacs
 <lb n="0111a08" ed="T"/>稱念受持者，是人於彼如是行相所求皆得。</p>
 <lb n="0111a09" ed="T"/><p xml:id="pT14p0111a0901">「復次，迦葉！東方去此佛剎過六殑伽沙數等
 <lb n="0111a10" ed="T"/>世界，有世界名寶莊嚴，其土有佛，號寶輪光
-<lb n="0111a11" ed="T"/>明高勝吉祥王如來、應供、正等正覺，今現<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">住<note type="cf1">K41n1479_p0022c23</note></lem><rdg wit="【大】">在</rdg></app>
+<lb n="0111a11" ed="T"/>明高勝吉祥王如來、應供、正等正覺，今現<note n="0111a1101" resp="CBETA" type="add">住【CB】【麗-CB】，在【大】</note><app n="0111a1101"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">住<note type="cf1">K41n1479_p0022c23</note></lem><rdg wit="【大】">在</rdg></app>
 <lb ed="T" n="0111a12"/>彼教化利益。</p>
 <lb ed="T" n="0111a13"/><p xml:id="pT14p0111a1301">「迦葉！若有住菩薩乘諸善男子及善女人，聞
 <lb ed="T" n="0111a14"/>是寶輪光明高勝吉祥王如來、應供、正等正覺
@@ -355,17 +355,17 @@ Added comment  for Emacs
 <lb ed="T" n="0112b19"/><lg rend="margin-left:1em;text-indent:-1em" xml:id="lgT14p0112b1901"><l>「所有東方諸佛剎，</l><l>南方、西方及北方，</l>
 <lb ed="T" n="0112b20"/><l>諸方現住諸世尊，</l><l>光照眾生作利益。</l>
 <lb n="0112b21" ed="T"/><l>若時非時悉應知，</l><l>晝夜常起尊重想，</l>
-<lb n="0112b22" ed="T"/><l>合掌虔恭發<note type="orig" n="0112001" place="foot text" resp="Taisho">志＝至【元】【明】</note><app n="0112001"><lem wit="【大】">志</lem><rdg resp="Taisho" wit="【元】【明】">至</rdg></app>誠，</l><l>信禮最上人中勝。</l>
+<lb n="0112b22" ed="T"/><l>合掌虔恭發<note type="orig" n="0112001" place="foot text" resp="Taisho">志＝至【元】【明】</note><note type="mod" n="0112001" resp="CBETA">志【大】，至【元】【明】</note><app n="0112001"><lem wit="【大】">志</lem><rdg resp="Taisho" wit="【元】【明】">至</rdg></app>誠，</l><l>信禮最上人中勝。</l>
 <lb n="0112b23" ed="T"/><l>何能知名而表了，</l><l>意想禮奉人中尊，</l>
 <lb n="0112b24" ed="T"/><l>所謂於其千劫中，</l><l>極難得值佛出世。</l>
 <lb ed="T" n="0112b25"/><l>若欲恭敬於諸佛，</l><l>為求無上菩提者，</l>
-<lb n="0112b26" ed="T"/><l>聞佛所說諸佛名，</l><l>應當於彼<note resp="Taisho" place="foot text" n="0112002" type="orig">常＝當【明】</note><app n="0112002"><lem wit="【大】">常</lem><rdg wit="【明】" resp="Taisho">當</rdg></app>歸命。</l>
+<lb n="0112b26" ed="T"/><l>聞佛所說諸佛名，</l><l>應當於彼<note resp="Taisho" place="foot text" n="0112002" type="orig">常＝當【明】</note><note resp="CBETA" n="0112002" type="mod">常【大】，當【明】</note><app n="0112002"><lem wit="【大】">常</lem><rdg wit="【明】" resp="Taisho">當</rdg></app>歸命。</l>
 <lb n="0112b27" ed="T"/><l>我今無復諸所求，</l><l>唯求佛智中出生，</l>
 <lb n="0112b28" ed="T"/><l>於彼所得眾善根，</l><l>迴向佛智不思議。</l>
 <lb ed="T" n="0112b29"/><l>若人欲供於諸佛，</l><l>佛不思議常作意，</l>
 <pb ed="T" xml:id="T14.0438.0112c" n="0112c"/>
 <lb ed="T" n="0112c01"/><l>彼諸佛名得聞已，</l><l>當為他人廣宣說。</l>
-<lb ed="T" n="0112c02"/><l>欲令俱胝眾生類，</l><l>出離<note n="0112003" type="orig" resp="Taisho" place="foot text">二＝三【三】</note><note type="mod" n="0112003" resp="CBETA">二＝三【宋】【元】【明】</note><app n="0112003"><lem wit="【大】">二</lem><rdg wit="【宋】【元】【明】" resp="Taisho">三</rdg></app>有得解脫，</l>
+<lb ed="T" n="0112c02"/><l>欲令俱胝眾生類，</l><l>出離<note n="0112003" type="orig" resp="Taisho" place="foot text">二＝三【三】</note><note type="mod" n="0112003" resp="CBETA">二【大】，三【宋】【元】【明】</note><app n="0112003"><lem wit="【大】">二</lem><rdg wit="【宋】【元】【明】" resp="Taisho">三</rdg></app>有得解脫，</l>
 <lb ed="T" n="0112c03"/><l>彼諸佛名得聞已，</l><l>受持不復生人間。</l>
 <lb ed="T" n="0112c04"/><l>欲令俱胝諸佛剎，</l><l>能以足指而震動，</l>
 <lb n="0112c05" ed="T"/><l>彼諸佛名得聞已，</l><l>受持廣為多人說。</l>
@@ -374,7 +374,7 @@ Added comment  for Emacs
 <lb n="0112c08" ed="T"/><l>若聞佛名能受持，</l><l>若以河沙金寶施，</l>
 <lb n="0112c09" ed="T"/><l>較量受持佛名人，</l><l>福蘊百分不及一。</l>
 <lb ed="T" n="0112c10"/><l>若聞佛名受持者，</l><l>當得最上人身相，</l>
-<lb ed="T" n="0112c11"/><l>妙色<note n="0112004" type="orig" resp="Taisho" place="foot text">端＝莊【明】</note><app n="0112004"><lem wit="【大】">端</lem><rdg resp="Taisho" wit="【明】">莊</rdg></app>嚴處世間，</l><l>出家堪受人天供。」</l></lg>
+<lb ed="T" n="0112c11"/><l>妙色<note n="0112004" type="orig" resp="Taisho" place="foot text">端＝莊【明】</note><note n="0112004" type="mod" resp="CBETA">端【大】，莊【明】</note><app n="0112004"><lem wit="【大】">端</lem><rdg resp="Taisho" wit="【明】">莊</rdg></app>嚴處世間，</l><l>出家堪受人天供。」</l></lg>
 <lb ed="T" n="0112c12"/><p xml:id="pT14p0112c1201">佛說此經已，彼諸苾芻、諸大菩薩摩訶薩眾，
 <lb n="0112c13" ed="T"/>尊者大迦葉，并諸世間天、人、阿修羅、乾闥婆
 <lb ed="T" n="0112c14"/>等，聞佛所說，皆大歡喜，信受奉行。</p>

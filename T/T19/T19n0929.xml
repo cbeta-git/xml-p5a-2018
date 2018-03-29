@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 929 淨瑠璃淨土摽</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 929 淨瑠璃淨土摽</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -203,5 +203,5 @@ Added comment  for Emacs
 <lb n="0067b16" ed="T"/>瑠璃土可作消息已也。</p></cb:div>
 <lb n="0067b17" ed="T"/><cb:div type="w"><p xml:id="pT19p0067b1701">端題下云　元睿山本<note place="inline">云云</note></p>
 <lb n="0067b18" ed="T"/><p xml:id="pT19p0067b1801">　　　　　　　　二校了</p>
-<lb n="0067b19" ed="T"/><p xml:id="pT19p0067b1901">　　長治二<choice cb:resp="CBETA.maha"><corr>秊</corr><sic>季</sic></choice>六月二十五日奉寫畢</p></cb:div>
+<lb n="0067b19" ed="T"/><p xml:id="pT19p0067b1901">　　長治二<note n="0067b1901" resp="CBETA" type="add">秊【CB】，季【大】</note><app n="0067b1901"><lem wit="【CB】" resp="CBETA.maha">秊</lem><rdg wit="【大】">季</rdg></app>六月二十五日奉寫畢</p></cb:div>
 </body></text></TEI>

@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 2855 禮懺文</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 2855 禮懺文</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -134,7 +134,7 @@ Added comment  for Emacs
 <lb n="1304c01" ed="T"/>心歸命十方三世盡虛空界諸佛世尊大慈悲
 <lb n="1304c02" ed="T"/>父怜念眾生不捨本願不捨慈悲。如是諸佛以
 <lb n="1304c03" ed="T"/>於無量無數大劫廣行一切難自利利他難行
-<lb n="1304c04" ed="T"/>苦行。為我等輩捨頭目髓<choice cb:resp="CBETA.maha CBETA.say"><corr>腦<note type="cf1">T47n1967_p0144a03</note><note type="cf2">T50n2058_p0297a08</note></corr><sic>惱</sic></choice>血肉身分國城妻
+<lb n="1304c04" ed="T"/>苦行。為我等輩捨頭目髓<note n="1304c0401" resp="CBETA" type="add">腦【CB】，惱【大】</note><app n="1304c0401"><lem wit="【CB】" resp="CBETA.maha CBETA.say">腦<note type="cf1">T47n1967_p0144a03</note><note type="cf2">T50n2058_p0297a08</note></lem><rdg wit="【大】">惱</rdg></app>血肉身分國城妻
 <lb n="1304c05" ed="T"/>子象馬車乘金銀七寶衣被飲食臥具醫藥。
 <lb n="1304c06" ed="T"/>來求索者悉皆施與。無有悋惜心生歡喜。勇
 <lb n="1304c07" ed="T"/>猛精進修行六度。布施持戒忍辱精進禪定
@@ -186,7 +186,7 @@ Added comment  for Emacs
 <lb n="1305a23" ed="T"/>順不行孝義。或於鄉閭朋友智識四隣並舍。
 <lb n="1305a24" ed="T"/>常相侵欺常相說道常相謗譏。或盜用三寶
 <lb n="1305a25" ed="T"/>一切財物。借貸不還。渧叵債負。十惡五逆無
-<lb n="1305a26" ed="T"/>間重罪。起大邪見撥無因<note n="1305001" resp="Taisho" place="foot text" type="orig">過＝果？</note><app n="1305001"><lem resp="Taisho" wit="【大】">過</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">果</rdg></app>。破塔壞寺焚燒
+<lb n="1305a26" ed="T"/>間重罪。起大邪見撥無因<note n="1305001" resp="Taisho" place="foot text" type="orig">過＝果？</note><note n="1305001" resp="CBETA" type="mod">過【大】，果【考偽-大】</note><app n="1305001"><lem resp="Taisho" wit="【大】">過</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">果</rdg></app>。破塔壞寺焚燒
 <lb n="1305a27" ed="T"/>經像。謗三乘法言非佛說。障蔽依難凌蔑上
 <lb n="1305a28" ed="T"/>下。打罵大小因公約私。造諸罪障破齋破戒。
 <lb n="1305a29" ed="T"/>罵辱師僧謗譏賢聖。輕凌道俗身三口四意
@@ -200,7 +200,7 @@ Added comment  for Emacs
 <lb n="1305b07" ed="T"/>快。見弟安樂見有勝己不生隨喜。乃至嫉妬
 <lb n="1305b08" ed="T"/>心行不忍。無慈無悲無慚無愧。心懷慘毒由
 <lb n="1305b09" ed="T"/>如虎狼。由如羅剎寺舍往來。踐踏污泥飲酒
-<lb n="1305b10" ed="T"/>食肉無厭無足。及食五辛<note n="1305002" resp="Taisho" place="foot text" type="orig">〔及食五辛〕－？</note><app n="1305002"><lem resp="Taisho" wit="【大】">及食五辛</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>韮蒜薰
+<lb n="1305b10" ed="T"/>食肉無厭無足。及食五辛<note n="1305002" resp="Taisho" place="foot text" type="orig">〔及食五辛〕－？</note><note n="1305002" resp="CBETA" type="mod">及食五辛【大】，〔－〕【考偽-大】</note><app n="1305002"><lem resp="Taisho" wit="【大】">及食五辛</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>韮蒜薰
 <lb n="1305b11" ed="T"/>穢凡聖。或於市彊貪心求利。輕秤小計種種
 <lb n="1305b12" ed="T"/>方便劫奪眾生。損於平人。惡求多求取人財
 <lb n="1305b13" ed="T"/>物不自覺知。殺生無量斷大慈悲。偷盜無量

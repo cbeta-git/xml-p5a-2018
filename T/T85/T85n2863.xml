@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 2863 王梵志詩集</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 2863 王梵志詩集</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -140,7 +140,7 @@ Added comment  for Emacs
 <lb n="1323a28" ed="T"/>絹筐悉皆咸臻。知罪福懃耕懇苦足口糧。一
 <lb n="1323a29" ed="T"/>志五情不改易。東州西郡並稱揚。但令讀此
 <pb n="1323b" xml:id="T85.2863.1323b" ed="T"/>
-<lb n="1323b01" ed="T"/>篇章熟。頑愚暗<choice cb:resp="CBETA"><corr>憃</corr><sic>惷</sic></choice>悉賢良。</p>
+<lb n="1323b01" ed="T"/>篇章熟。頑愚暗<note n="1323b0101" resp="CBETA" type="add">憃【CB】，惷【大】</note><app n="1323b0101"><lem wit="【CB】" resp="CBETA">憃</lem><rdg wit="【大】">惷</rdg></app>悉賢良。</p>
 <lb n="1323b02" ed="T"/><p xml:id="pT85p1323b0201">遙看世間人。村坊安社邑。一家有死生。合村
 <lb n="1323b03" ed="T"/>相就泣。張口哭他屍。不知身去急。本是長眠
 <lb n="1323b04" ed="T"/>鬼。暫來地上立。欲似養兒氈。迴乾且就濕。
@@ -163,7 +163,7 @@ Added comment  for Emacs
 <lb n="1323b21" ed="T"/>苦煩惱。夜眠遊鬼界。天曉歸人道。忽起相羅
 <lb n="1323b22" ed="T"/>拽啾唧索祖調。貧苦無處得。相接彼鞭拷。生
 <lb n="1323b23" ed="T"/>時有苦痛。不如早死好。</p>
-<lb n="1323b24" ed="T"/><p xml:id="pT85p1323b2401">他家咲吾貧<note n="1323002" resp="Taisho" place="foot text" type="orig">〔吾貧〕－？</note><app n="1323002"><lem resp="Taisho" wit="【大】">吾貧</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>。吾貧極快樂。無牛亦無
+<lb n="1323b24" ed="T"/><p xml:id="pT85p1323b2401">他家咲吾貧<note n="1323002" resp="Taisho" place="foot text" type="orig">〔吾貧〕－？</note><note n="1323002" resp="CBETA" type="mod">吾貧【大】，〔－〕【考偽-大】</note><app n="1323002"><lem resp="Taisho" wit="【大】">吾貧</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>。吾貧極快樂。無牛亦無
 <lb n="1323b25" ed="T"/>馬。不愁賤抄掠。儞富戶役高。羞利並用却。吾
 <lb n="1323b26" ed="T"/>無呼喚處。飽喫長展脚。</p>
 <lb n="1323b27" ed="T"/><p xml:id="pT85p1323b2701">儞富披錦袍。尋常被纏縛。窮苦無煩惱。草衣

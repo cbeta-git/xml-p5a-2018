@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 2798 本業瓔珞經疏</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 2798 本業瓔珞經疏</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -146,7 +146,7 @@ Added comment  for Emacs
 <pb n="0745b" xml:id="T85.2798.0745b" ed="T"/>
 <lb n="0745b01" ed="T"/>非無想天住法。是為梵住。諸佛辟支佛阿羅
 <lb n="0745b02" ed="T"/>漢住法。是名聖住。於是三住法中。住聖住
-<lb n="0745b03" ed="T"/>法。<choice cb:resp="CBETA.maha"><corr>憐</corr><sic>隣</sic></choice>愍眾生故。住洴沙王國。復次布施持戒
+<lb n="0745b03" ed="T"/>法。<note n="0745b0301" resp="CBETA" type="add">憐【CB】，隣【大】</note><app n="0745b0301"><lem wit="【CB】" resp="CBETA.maha">憐</lem><rdg wit="【大】">隣</rdg></app>愍眾生故。住洴沙王國。復次布施持戒
 <lb n="0745b04" ed="T"/>善心三事故名天住。慈悲喜捨四無量心名
 <lb n="0745b05" ed="T"/>為梵住。空無相無作是三三昧。名為聖住法。
 <lb n="0745b06" ed="T"/>復次四種住。天住梵住聖住佛住。三住如前
@@ -354,7 +354,7 @@ Added comment  for Emacs
 <lb n="0747b28" ed="T"/>想天已下訖大靜天。此九是四禪天。善臂菩
 <lb n="0747b29" ed="T"/>薩經中。果實天。少果。廣果。無想。無煩。無熱。
 <pb n="0747c" xml:id="T85.2798.0747c" ed="T"/>
-<lb n="0747c01" ed="T"/>善見。好善見天。阿迦<choice cb:resp="CBETA.maha"><corr>膩</corr><sic>貳</sic></choice>吒天。此是四禪天也。
+<lb n="0747c01" ed="T"/>善見。好善見天。阿迦<note n="0747c0101" resp="CBETA" type="add">膩【CB】，貳【大】</note><app n="0747c0101"><lem wit="【CB】" resp="CBETA.maha">膩</lem><rdg wit="【大】">貳</rdg></app>吒天。此是四禪天也。
 <lb n="0747c02" ed="T"/>五輪際者。地水風空金剛是也。大忍法界者。
 <lb n="0747c03" ed="T"/>應佛分身遍十方國土。為說真實莊嚴之行
 <lb n="0747c04" ed="T"/>也。</p></cb:div>
@@ -660,7 +660,7 @@ Added comment  for Emacs
 <lb n="0751a04" ed="T"/>照滅邪見心者。眾生邪見故。訪無二諦因果。
 <lb n="0751a05" ed="T"/>今悟二諦故。滅除邪見也。以金剛刀者。以佛
 <lb n="0751a06" ed="T"/>金剛智刀也。悟十二緣滅疑見者。若不達十
-<lb n="0751a07" ed="T"/>二因緣者。則於三世因果不能了<choice cb:resp="CBETA.maha"><corr>知<note type="cf1">X73n1452_p0249a24</note></corr><sic>名</sic></choice>。名之為
+<lb n="0751a07" ed="T"/>二因緣者。則於三世因果不能了<note n="0751a0701" resp="CBETA" type="add">知【CB】，名【大】</note><app n="0751a0701"><lem wit="【CB】" resp="CBETA.maha">知<note type="cf1">X73n1452_p0249a24</note></lem><rdg wit="【大】">名</rdg></app>。名之為
 <lb n="0751a08" ed="T"/>疑。今解因緣因果句樓三世故。能滅疑見也。
 <lb n="0751a09" ed="T"/>獨照無方者。無方而不照也。識法無常滅貪
 <lb n="0751a10" ed="T"/>慳心者。若不達身是無常者。則貪惜財物以
@@ -1089,7 +1089,7 @@ Added comment  for Emacs
 <lb n="0755c13" ed="T"/>提無人與而自取以為盜。今得無所得為不
 <lb n="0755c14" ed="T"/>盜。智慧者求法不用欲故欲。如是名邪行。今
 <lb n="0755c15" ed="T"/>明無求可求名不邪婬也。一切語妄名妄語。
-<lb n="0755c16" ed="T"/>今妄無妄相<note n="0755001" resp="Taisho" place="foot text" type="orig">（名不妄）＋語？</note><app n="0755001"><lem resp="Taisho" wit="【大】">語</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">名不妄語</rdg></app>。破壞諸外道名兩舌。今破無
+<lb n="0755c16" ed="T"/>今妄無妄相<note n="0755001" resp="Taisho" place="foot text" type="orig">（名不妄）＋語？</note><note n="0755001" resp="CBETA" type="mod">語【大】，名不妄語【考偽-大】</note><app n="0755001"><lem resp="Taisho" wit="【大】">語</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">名不妄語</rdg></app>。破壞諸外道名兩舌。今破無
 <lb n="0755c17" ed="T"/>所破名不兩舌。說麁惡語教化眾生名惡口。
 <lb n="0755c18" ed="T"/>今化無所化名不惡口。隨因緣而說。是名為
 <lb n="0755c19" ed="T"/>綺語。今明因緣空故名不綺語。施一切眾生

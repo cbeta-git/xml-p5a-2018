@@ -129,7 +129,7 @@ Added comment  for Emacs
 <lb n="0773a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0773a02" ed="T"/><cb:docNumber>No. 505</cb:docNumber>
-<lb n="0773a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0773001" resp="Taisho" type="orig" place="foot text">【三】不戴此經</note><note n="0773001" resp="CBETA" type="mod">【宋】【元】【明】不<choice cb:resp="CBETA.maha"><corr>載</corr><sic>戴</sic></choice>此經</note><cb:jhead>佛說隨勇尊者經</cb:jhead></cb:juan>
+<lb n="0773a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0773001" resp="Taisho" type="orig" place="foot text">【三】不戴此經</note><note n="0773001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->【宋】【元】【明】不載此經</note><cb:jhead>佛說隨勇尊者經</cb:jhead></cb:juan>
 <lb n="0773a04" ed="T"/>
 <lb n="0773a05" ed="T"/><byline cb:type="Translator">西天譯經三藏朝奉大夫試
 <lb n="0773a06" ed="T"/>光祿卿傳法大師賜紫沙門
@@ -201,7 +201,7 @@ Added comment  for Emacs
 <lb n="0773c12" ed="T"/><l>世尊正法毒不侵，</l><l>法真實力能破毒；</l>
 <lb n="0773c13" ed="T"/><l>所有貪瞋及癡法，</l><l>此三世間為大毒，</l>
 <lb n="0773c14" ed="T"/><l>世尊淨眾毒不侵，</l><l>僧真實力能破毒，</l>
-<lb n="0773c15" ed="T"/><l>世間所有諸毒中，</l><l>而<app><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">彼貪<note type="cf1">K40n1472_p0844c20</note></lem><rdg wit="【大】">貪彼</rdg></app>毒最為上，</l>
+<lb n="0773c15" ed="T"/><l>世間所有諸毒中，</l><l>而<note n="0773c1501" resp="CBETA" type="add">彼貪【CB】【麗-CB】，貪彼【大】</note><app n="0773c1501"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】">彼貪<note type="cf1">K40n1472_p0844c20</note></lem><rdg wit="【大】">貪彼</rdg></app>毒最為上，</l>
 <lb n="0773c16" ed="T"/><l>唯佛能破能攝持，</l><l>由斯諸毒皆息滅。」</l></lg>
 <lb n="0773c17" ed="T"/><p xml:id="pT14p0773c1701">爾時，世尊說大明曰：</p>
 <lb n="0773c18" ed="T"/><p xml:id="pT14p0773c1801" cb:type="dharani">「怛<g ref="#CB00853"/><note place="inline">切身</note>佗<note place="inline">一句</note>　唵<note place="inline">引</note>凍蜜里<note place="inline">引</note><note place="inline">二</note>　凍蜜里<note place="inline">引</note><note place="inline">三</note>　凍彌<note place="inline">引</note><note place="inline">四</note>

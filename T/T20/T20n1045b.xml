@@ -118,7 +118,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0041c02" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note n="0041001" resp="Taisho" place="foot text" type="orig">【原】明本，此經與麗本異同甚繁故別載</note>六字神呪王經</cb:jhead></cb:juan>
 <lb n="0041c03" ed="T"/>
-<lb n="0041c04" ed="T"/><byline cb:type="Translator"><note n="0041002" resp="Taisho" place="foot text" type="orig">（開元…名）八字＝（失譯拾遺編入第二譯今）十字【宋】</note><app cb:word-count="8" n="0041002"><lem wit="【大】">開元拾遺失譯人名</lem><rdg resp="Taisho" wit="【宋】">失譯拾遺編入第二譯今</rdg></app>附梁錄</byline>
+<lb n="0041c04" ed="T"/><byline cb:type="Translator"><note n="0041002" resp="Taisho" place="foot text" type="orig">（開元…名）八字＝（失譯拾遺編入第二譯今）十字【宋】</note><note n="0041002" resp="CBETA" type="mod">（開元…名）八字【大】，失譯拾遺編入第二譯今【宋】</note><app cb:word-count="8" n="0041002"><lem wit="【大】">開元拾遺失譯人名</lem><rdg resp="Taisho" wit="【宋】">失譯拾遺編入第二譯今</rdg></app>附梁錄</byline>
 <lb n="0041c05" ed="T"/><cb:div type="jing"><p xml:id="pT20p0041c0501">如是我聞。一時佛在舍衛國祇陀林中。爾時
 <lb n="0041c06" ed="T"/>有一外道旃陀羅女。專行眾惡符書厭禱。或
 <lb n="0041c07" ed="T"/>事山神樹神樹下鬼神。日月五星南斗北辰。
@@ -134,14 +134,14 @@ Added comment  for Emacs
 <lb n="0041c17" ed="T"/>　帝闇婆帝　頻頭摩帝　阿羅婆伽帝　毘咤
 <lb n="0041c18" ed="T"/>毘提膩　質吒毘提膩　質吒毘提膩　莎婆
 <lb n="0041c19" ed="T"/>呵</p>
-<lb n="0041c20" ed="T"/><p xml:id="pT20p0041c2001">若有為某甲作惡呪<note n="0041003" resp="Taisho" place="foot text" type="orig">詛＝咀【宋】【元】＊</note><app n="0041003"><lem wit="【大】">詛</lem><rdg resp="Taisho" wit="【宋】【元】">咀</rdg></app>。若作已若當作。若天
-<lb n="0041c21" ed="T"/>若魔若龍。若<note n="0041004" resp="Taisho" place="foot text" type="orig">夜＝藥【宋】【元】</note><app n="0041004"><lem wit="【大】">夜</lem><rdg resp="Taisho" wit="【宋】【元】">藥</rdg></app>叉若羅剎。若餓鬼若鳩槃
-<lb n="0041c22" ed="T"/><note n="0041005" resp="Taisho" place="foot text" type="orig">茶＝荼【宋】【元】</note><app n="0041005"><lem wit="【大】">茶</lem><rdg resp="Taisho" wit="【宋】【元】">荼</rdg></app>。若富單那若毘舍闍。若阿波摩羅若優波
+<lb n="0041c20" ed="T"/><p xml:id="pT20p0041c2001">若有為某甲作惡呪<note n="0041003" resp="Taisho" place="foot text" type="orig">詛＝咀【宋】【元】＊</note><note n="0041003" resp="CBETA" type="mod">詛【大】＊，咀【宋】【元】＊</note><app n="0041003"><lem wit="【大】">詛</lem><rdg resp="Taisho" wit="【宋】【元】">咀</rdg></app>。若作已若當作。若天
+<lb n="0041c21" ed="T"/>若魔若龍。若<note n="0041004" resp="Taisho" place="foot text" type="orig">夜＝藥【宋】【元】</note><note n="0041004" resp="CBETA" type="mod">夜【大】，藥【宋】【元】</note><app n="0041004"><lem wit="【大】">夜</lem><rdg resp="Taisho" wit="【宋】【元】">藥</rdg></app>叉若羅剎。若餓鬼若鳩槃
+<lb n="0041c22" ed="T"/><note n="0041005" resp="Taisho" place="foot text" type="orig">茶＝荼【宋】【元】</note><note n="0041005" resp="CBETA" type="mod">茶【大】，荼【宋】【元】</note><app n="0041005"><lem wit="【大】">茶</lem><rdg resp="Taisho" wit="【宋】【元】">荼</rdg></app>。若富單那若毘舍闍。若阿波摩羅若優波
 <lb n="0041c23" ed="T"/>摩羅。若吉遮若佉傴陀。若毘陀羅若半毘陀
 <lb n="0041c24" ed="T"/>羅。若沙門若婆羅門。若剎利若毘舍若首陀。
 <lb n="0041c25" ed="T"/>若摩蹬伽若摩蹬伽女若旃陀羅若旃陀羅
 <lb n="0041c26" ed="T"/>女。若奴若婢。若男若女。若外道尼乾陀若外
-<lb n="0041c27" ed="T"/>道出家男女。如是等種種若能呪<app type="star" corresp="#0041003"><lem wit="【大】">詛</lem><rdg resp="Taisho" wit="【宋】【元】">咀</rdg></app>厭<note n="0041006" resp="Taisho" place="foot text" type="orig">蠱＝詛【元】</note><app n="0041006"><lem wit="【大】">蠱</lem><rdg resp="Taisho" wit="【元】">詛</rdg></app>。
+<lb n="0041c27" ed="T"/>道出家男女。如是等種種若能呪<app type="star" corresp="#0041003"><lem wit="【大】">詛</lem><rdg resp="Taisho" wit="【宋】【元】">咀</rdg></app>厭<note n="0041006" resp="Taisho" place="foot text" type="orig">蠱＝詛【元】</note><note n="0041006" resp="CBETA" type="mod">蠱【大】，詛【元】</note><app n="0041006"><lem wit="【大】">蠱</lem><rdg resp="Taisho" wit="【元】">詛</rdg></app>。
 <lb n="0041c28" ed="T"/>我今以此六字神呪王經。若天上作天上滅
 <lb n="0041c29" ed="T"/>之。若天下作天下滅之。若上向作上向滅之。
 <pb n="0042a" xml:id="T20.1045b.0042a" ed="T"/>
@@ -152,7 +152,7 @@ Added comment  for Emacs
 <lb n="0042a05" ed="T"/>滅之。若六合內作六合內滅之。若隨風飄
 <lb n="0042a06" ed="T"/>中作隨風飄中滅之。若四海大水中邊作四
 <lb n="0042a07" ed="T"/>海大水中邊滅之。若江河淮濟中邊作江河
-<lb n="0042a08" ed="T"/>淮濟中邊滅之。若陂塘中邊作<note n="0042001" resp="Taisho" place="foot text" type="orig">坡＝陂【宋】【元】</note><app n="0042001"><lem wit="【大】">坡</lem><rdg resp="Taisho" wit="【宋】【元】">陂</rdg></app>塘中邊滅
+<lb n="0042a08" ed="T"/>淮濟中邊滅之。若陂塘中邊作<note n="0042001" resp="Taisho" place="foot text" type="orig">坡＝陂【宋】【元】</note><note n="0042001" resp="CBETA" type="mod">坡【大】，陂【宋】【元】</note><app n="0042001"><lem wit="【大】">坡</lem><rdg resp="Taisho" wit="【宋】【元】">陂</rdg></app>塘中邊滅
 <lb n="0042a09" ed="T"/>之。若雜水中邊作雜水中邊滅之。若山川
 <lb n="0042a10" ed="T"/>溪谷堆阜坑中邊作山川溪谷堆阜坑中邊滅
 <lb n="0042a11" ed="T"/>之。若五嶽中邊作五嶽中邊滅之。若大澤林
@@ -166,7 +166,7 @@ Added comment  for Emacs
 <lb n="0042a19" ed="T"/>外內門邊滅之。若宮門中作宮門中滅之。若
 <lb n="0042a20" ed="T"/>於塚墓中邊作塚墓中邊滅之。若家舍宅垣
 <lb n="0042a21" ed="T"/>牆中邊作悉皆滅之。若屋宕作屋宕滅之。若
-<lb n="0042a22" ed="T"/>柱邊作柱邊滅之。若柱<note n="0042002" resp="Taisho" place="foot text" type="orig">礎＝趺【宋】＊</note><app n="0042002"><lem wit="【大】">礎</lem><rdg resp="Taisho" wit="【宋】">趺</rdg></app>邊下作柱<app type="star" corresp="#0042002"><lem wit="【大】">礎</lem><rdg resp="Taisho" wit="【宋】">趺</rdg></app>邊
+<lb n="0042a22" ed="T"/>柱邊作柱邊滅之。若柱<note n="0042002" resp="Taisho" place="foot text" type="orig">礎＝趺【宋】＊</note><note n="0042002" resp="CBETA" type="mod">礎【大】＊，趺【宋】＊</note><app n="0042002"><lem wit="【大】">礎</lem><rdg resp="Taisho" wit="【宋】">趺</rdg></app>邊下作柱<app type="star" corresp="#0042002"><lem wit="【大】">礎</lem><rdg resp="Taisho" wit="【宋】">趺</rdg></app>邊
 <lb n="0042a23" ed="T"/>下滅之。若糞土中邊作糞土中邊滅之。若井
 <lb n="0042a24" ed="T"/>竈碓磨中邊作井竈碓磨中邊滅之。若火爐
 <lb n="0042a25" ed="T"/>中邊作火爐中邊滅之。若廁溷中邊作廁溷
@@ -181,7 +181,7 @@ Added comment  for Emacs
 <lb n="0042b04" ed="T"/>之。此呪能斷絕帝釋呪道。能斷絕梵天呪道。
 <lb n="0042b05" ed="T"/>能斷絕四天王呪道。及與一切所有邪鬼呪
 <lb n="0042b06" ed="T"/>道方術悉皆能斷。若有為某甲作惡厭蠱呪
-<lb n="0042b07" ed="T"/><note n="0042003" resp="Taisho" place="foot text" type="orig">詛＝咀【宋】＊</note><app n="0042003"><lem wit="【大】">詛</lem><rdg resp="Taisho" wit="【宋】">咀</rdg></app>。及與毒藥悉皆滅之。若佉傴陀若毘陀
+<lb n="0042b07" ed="T"/><note n="0042003" resp="Taisho" place="foot text" type="orig">詛＝咀【宋】＊</note><note n="0042003" resp="CBETA" type="mod">詛【大】＊，咀【宋】＊</note><app n="0042003"><lem wit="【大】">詛</lem><rdg resp="Taisho" wit="【宋】">咀</rdg></app>。及與毒藥悉皆滅之。若佉傴陀若毘陀
 <lb n="0042b08" ed="T"/>羅。若吉遮若富單那所為悉皆滅之。眾惡都
 <lb n="0042b09" ed="T"/>盡眾善補處。願此呪常吉。以此真實章句。使
 <lb n="0042b10" ed="T"/>某甲晝安夜安晝夜常安。得壽百歲得見百
@@ -190,8 +190,8 @@ Added comment  for Emacs
 <lb n="0042b13" ed="T"/>間作若成就若未成就悉皆滅之。及與一切
 <lb n="0042b14" ed="T"/>眾毒能害人者。此六字神呪王經所在之處。
 <lb n="0042b15" ed="T"/>若讀若誦受持憶念者。所有惡業重障皆消
-<lb n="0042b16" ed="T"/>滅之。即說<note n="0042004" resp="Taisho" place="foot text" type="orig">呪＝光【宋】</note><app n="0042004"><lem wit="【大】">呪</lem><rdg resp="Taisho" wit="【宋】">光</rdg></app>曰。</p>
-<lb n="0042b17" ed="T"/><p xml:id="pT20p0042b1701" cb:type="dharani">佉<note n="0042005" resp="Taisho" place="foot text" type="orig">𦙆＝胝【宋】【元】＊</note><app n="0042005"><lem wit="【大】">𦙆</lem><rdg resp="Taisho" wit="【宋】【元】">胝</rdg></app>佉住佉毘<app type="star" corresp="#0042005"><lem wit="【大】">𦙆</lem><rdg resp="Taisho" wit="【宋】【元】">胝</rdg></app>　緘壽　緘壽　多胝
+<lb n="0042b16" ed="T"/>滅之。即說<note n="0042004" resp="Taisho" place="foot text" type="orig">呪＝光【宋】</note><note n="0042004" resp="CBETA" type="mod">呪【大】，光【宋】</note><app n="0042004"><lem wit="【大】">呪</lem><rdg resp="Taisho" wit="【宋】">光</rdg></app>曰。</p>
+<lb n="0042b17" ed="T"/><p xml:id="pT20p0042b1701" cb:type="dharani">佉<note n="0042005" resp="Taisho" place="foot text" type="orig">𦙆＝胝【宋】【元】＊</note><note n="0042005" resp="CBETA" type="mod">𦙆【大】＊，胝【宋】【元】＊</note><app n="0042005"><lem wit="【大】">𦙆</lem><rdg resp="Taisho" wit="【宋】【元】">胝</rdg></app>佉住佉毘<app type="star" corresp="#0042005"><lem wit="【大】">𦙆</lem><rdg resp="Taisho" wit="【宋】【元】">胝</rdg></app>　緘壽　緘壽　多胝
 <lb n="0042b18" ed="T"/>　婆胝　莎婆訶</p>
 <lb n="0042b19" ed="T"/><p xml:id="pT20p0042b1901">若有為某甲作惡呪<app type="star" corresp="#0042003"><lem wit="【大】">詛</lem><rdg resp="Taisho" wit="【宋】">咀</rdg></app>。若作已若當作。若天
 <lb n="0042b20" ed="T"/>若龍若藥叉若羅剎。及與一切能作惡呪<app type="star" corresp="#0042003"><lem wit="【大】">詛</lem><rdg resp="Taisho" wit="【宋】">咀</rdg></app>
@@ -202,7 +202,7 @@ Added comment  for Emacs
 <lb n="0042b25" ed="T"/>無過於法。天人所敬眾魔奉受離欲無著。即
 <lb n="0042b26" ed="T"/>說呪曰。</p>
 <lb n="0042b27" ed="T"/><p xml:id="pT20p0042b2701" cb:type="dharani">佉胝佉住佉毘胝　緘壽　緘壽　多胝　婆
-<lb n="0042b28" ed="T"/>胝　莎婆<note n="0042006" resp="Taisho" place="foot text" type="orig">訶＝呵【宋】【元】＊</note><app n="0042006"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【宋】【元】">呵</rdg></app></p>
+<lb n="0042b28" ed="T"/>胝　莎婆<note n="0042006" resp="Taisho" place="foot text" type="orig">訶＝呵【宋】【元】＊</note><note n="0042006" resp="CBETA" type="mod">訶【大】＊，呵【宋】【元】＊</note><app n="0042006"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【宋】【元】">呵</rdg></app></p>
 <lb n="0042b29" ed="T"/><p xml:id="pT20p0042b2901">何以故世間最上無過於僧。良善福田賢聖
 <pb n="0042c" xml:id="T20.1045b.0042c" ed="T"/>
 <lb n="0042c01" ed="T"/>所敬眾善擁護。即說呪曰。</p>
@@ -211,9 +211,9 @@ Added comment  for Emacs
 <lb n="0042c04" ed="T"/><p xml:id="pT20p0042c0401">若有為某甲作惡呪<app type="star" corresp="#0042003"><lem wit="【大】">詛</lem><rdg resp="Taisho" wit="【宋】">咀</rdg></app>。若和合毒藥若真若
 <lb n="0042c05" ed="T"/>偽所作非法。若前身若今身行業眾惡。一切
 <lb n="0042c06" ed="T"/>重罪悉皆滅之。即說呪曰。</p>
-<lb n="0042c07" ed="T"/><p xml:id="pT20p0042c0701" cb:type="dharani">摩休婆烏摩帝　烏摩陀<note n="0042007" resp="Taisho" place="foot text" type="orig">徙＝蓰【宋】＊</note><app n="0042007"><lem wit="【大】">徙</lem><rdg resp="Taisho" wit="【宋】">蓰</rdg></app>陀禰　佉傴陀
+<lb n="0042c07" ed="T"/><p xml:id="pT20p0042c0701" cb:type="dharani">摩休婆烏摩帝　烏摩陀<note n="0042007" resp="Taisho" place="foot text" type="orig">徙＝蓰【宋】＊</note><note n="0042007" resp="CBETA" type="mod">徙【大】＊，蓰【宋】＊</note><app n="0042007"><lem wit="【大】">徙</lem><rdg resp="Taisho" wit="【宋】">蓰</rdg></app>陀禰　佉傴陀
 <lb n="0042c08" ed="T"/>婆提<app type="star" corresp="#0042007"><lem wit="【大】">徙</lem><rdg resp="Taisho" wit="【宋】">蓰</rdg></app>陀禰　頻頭摩提　質帝質多提婆
-<lb n="0042c09" ed="T"/><app type="star" corresp="#0042007"><lem wit="【大】">徙</lem><rdg resp="Taisho" wit="【宋】">蓰</rdg></app>陀禰　阿鞞旃<note n="0042008" resp="Taisho" place="foot text" type="orig">阿＝陀【宋】【元】</note><app n="0042008"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【宋】【元】">陀</rdg></app>鞞　莎婆<app type="star" corresp="#0042006"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【宋】【元】">呵</rdg></app></p>
+<lb n="0042c09" ed="T"/><app type="star" corresp="#0042007"><lem wit="【大】">徙</lem><rdg resp="Taisho" wit="【宋】">蓰</rdg></app>陀禰　阿鞞旃<note n="0042008" resp="Taisho" place="foot text" type="orig">阿＝陀【宋】【元】</note><note n="0042008" resp="CBETA" type="mod">阿【大】，陀【宋】【元】</note><app n="0042008"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【宋】【元】">陀</rdg></app>鞞　莎婆<app type="star" corresp="#0042006"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【宋】【元】">呵</rdg></app></p>
 <lb n="0042c10" ed="T"/><p xml:id="pT20p0042c1001">若有人能誦持是六字神呪王經。假令呪枯
 <lb n="0042c11" ed="T"/>樹可得還生枝葉。何況人身。使某甲得壽百
 <lb n="0042c12" ed="T"/>歲得見百秋。諸佛所說阿難所傳。若人讀誦
@@ -237,10 +237,10 @@ Added comment  for Emacs
 <pb n="0043a" xml:id="T20.1045b.0043a" ed="T"/>
 <lb n="0043a01" ed="T"/>貿遮提　盧樓質吒那陀死　盧樓盧漏質吒
 <lb n="0043a02" ed="T"/>鉢陀死　莎婆<app type="star" corresp="#0042006"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【宋】【元】">呵</rdg></app></p>
-<lb n="0043a03" ed="T"/><p xml:id="pT20p0043a0301">此呪能護一切厄難。鮮<note n="0043001" resp="Taisho" place="foot text" type="orig">潔＝淨【宋】【元】</note><app n="0043001"><lem wit="【大】">潔</lem><rdg resp="Taisho" wit="【宋】【元】">淨</rdg></app>無垢解脫光明觀
+<lb n="0043a03" ed="T"/><p xml:id="pT20p0043a0301">此呪能護一切厄難。鮮<note n="0043001" resp="Taisho" place="foot text" type="orig">潔＝淨【宋】【元】</note><note n="0043001" resp="CBETA" type="mod">潔【大】，淨【宋】【元】</note><app n="0043001"><lem wit="【大】">潔</lem><rdg resp="Taisho" wit="【宋】【元】">淨</rdg></app>無垢解脫光明觀
 <lb n="0043a04" ed="T"/>照縛一切賊行惡者無復迷荒念善者濟度眾
 <lb n="0043a05" ed="T"/>難一切惡魔。現世護我身師子狂象虎狼犲
-<lb n="0043a06" ed="T"/>犬猨<note n="0043002" resp="Taisho" place="foot text" type="orig">猿＝猴【宋】【元】</note><app n="0043002"><lem wit="【大】">猿</lem><rdg resp="Taisho" wit="【宋】【元】">猴</rdg></app>。及諸惡獸欲害人者悉令被縛。我今
+<lb n="0043a06" ed="T"/>犬猨<note n="0043002" resp="Taisho" place="foot text" type="orig">猿＝猴【宋】【元】</note><note n="0043002" resp="CBETA" type="mod">猿【大】，猴【宋】【元】</note><app n="0043002"><lem wit="【大】">猿</lem><rdg resp="Taisho" wit="【宋】【元】">猴</rdg></app>。及諸惡獸欲害人者悉令被縛。我今
 <lb n="0043a07" ed="T"/>為某甲及共行同伴。一切呪力所向之處行
 <lb n="0043a08" ed="T"/>住坐臥願悉平吉。即說呪曰。</p>
 <lb n="0043a09" ed="T"/><p xml:id="pT20p0043a0901" cb:type="dharani">知醯唎　知唎　牧唎　摩蹬耆　旃陀唎叉
@@ -263,7 +263,7 @@ Added comment  for Emacs
 <lb n="0043a26" ed="T"/>等覺。敬禮聖阿縛盧枳低濕伐羅消伏毒害
 <lb n="0043a27" ed="T"/>救苦大悲者。敬禮曼殊室利菩薩三曼多跋
 <lb n="0043a28" ed="T"/>達羅菩薩。慈氏菩薩棄陰蓋菩薩。寂根菩薩。
-<lb n="0043a29" ed="T"/>慧尚菩薩。常不離世菩薩。<note n="0043003" resp="Taisho" place="foot text" type="orig">〔首〕－【宋】</note><app n="0043003"><lem wit="【大】">首</lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app>楞嚴三昧虛空
+<lb n="0043a29" ed="T"/>慧尚菩薩。常不離世菩薩。<note n="0043003" resp="Taisho" place="foot text" type="orig">〔首〕－【宋】</note><note n="0043003" resp="CBETA" type="mod">首【大】，〔－〕【宋】</note><app n="0043003"><lem wit="【大】">首</lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app>楞嚴三昧虛空
 <pb n="0043b" xml:id="T20.1045b.0043b" ed="T"/>
 <lb n="0043b01" ed="T"/>藏。寶幢。孔雀王陀羅尼。六字章句。藥王。藥
 <lb n="0043b02" ed="T"/>上。堅意。不污行等菩薩摩訶薩。各稱其號。歸
@@ -276,7 +276,7 @@ Added comment  for Emacs
 <lb n="0043b09" ed="T"/>㝹珊帝毘珊帝　知帝　阿知帝　湯那伽帝
 <lb n="0043b10" ed="T"/>　阿湯那伽帝　阿婆娑唎　阿舍娑囉禰
 <lb n="0043b11" ed="T"/>　婆羅禰目隷　牟囉牟囉婆陀隷　舍尼婆囉
-<lb n="0043b12" ed="T"/><note n="0043004" resp="Taisho" place="foot text" type="orig">陸＋（囉陸）【宋】</note><app n="0043004"><lem wit="【大】">陸</lem><rdg resp="Taisho" wit="【宋】">陸囉陸</rdg></app>　須梨婆帝殊帝婆羅陸　須毘摩隷菴
+<lb n="0043b12" ed="T"/><note n="0043004" resp="Taisho" place="foot text" type="orig">陸＋（囉陸）【宋】</note><note n="0043004" resp="CBETA" type="mod">陸【大】，陸囉陸【宋】</note><app n="0043004"><lem wit="【大】">陸</lem><rdg resp="Taisho" wit="【宋】">陸囉陸</rdg></app>　須梨婆帝殊帝婆羅陸　須毘摩隷菴
 <lb n="0043b13" ed="T"/>摩隷　莎<app type="star" corresp="#0042006"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【宋】【元】">呵</rdg></app></p>
 <lb n="0043b14" ed="T"/><p xml:id="pT20p0043b1401">此呪能除一切闇冥。如來所持諸天敬受。善
 <lb n="0043b15" ed="T"/>神護念梵天所解。帝釋敬事護世所護。決了
@@ -290,7 +290,7 @@ Added comment  for Emacs
 <lb n="0043b23" ed="T"/>使人書乃至以香華供養經卷者。得三十二
 <lb n="0043b24" ed="T"/>無疑畏難。用此呪法者晨朝澡身漱口燒香
 <lb n="0043b25" ed="T"/>深心頂禮。讀誦三遍如是作訖所行之處言
-<lb n="0043b26" ed="T"/>語談說。四眾瞻仰所向至方未<note n="0043005" resp="Taisho" place="foot text" type="orig">嘗＝常【宋】【元】</note><app n="0043005"><lem wit="【大】">嘗</lem><rdg resp="Taisho" wit="【宋】【元】">常</rdg></app>不吉。眾人
+<lb n="0043b26" ed="T"/>語談說。四眾瞻仰所向至方未<note n="0043005" resp="Taisho" place="foot text" type="orig">嘗＝常【宋】【元】</note><note n="0043005" resp="CBETA" type="mod">嘗【大】，常【宋】【元】</note><app n="0043005"><lem wit="【大】">嘗</lem><rdg resp="Taisho" wit="【宋】【元】">常</rdg></app>不吉。眾人
 <lb n="0043b27" ed="T"/>貴敬見者歡喜。怨家降諾阿難陀汝等。應當
 <lb n="0043b28" ed="T"/>一心奉持此陀羅尼章句。說是法時一切天
 <lb n="0043b29" ed="T"/>龍八部鬼神聞佛所說皆大歡喜作禮而去。</p>

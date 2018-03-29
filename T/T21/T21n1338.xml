@@ -113,8 +113,8 @@ Added comment  for Emacs
 <lb n="0640a12" ed="T"/><cb:docNumber>No. 1338</cb:docNumber><cb:div type="other">
 <lb n="0640a13" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note n="0640003" resp="Taisho" place="foot text" type="orig">【原】明本，此經麗本缺增上寺宋本缺</note>呪三首經</cb:jhead></cb:juan>
 <lb n="0640a14" ed="T"/>
-<lb n="0640a15" ed="T"/><byline cb:type="Translator"><note n="0640004" resp="Taisho" place="foot text" type="orig">（大）＋唐【元】</note><app n="0640004"><lem wit="【大】">唐</lem><rdg resp="Taisho" wit="【元】">大唐</rdg></app>三藏地婆訶羅奉　詔譯</byline>
-<lb n="0640a16" ed="T"/><cb:mulu level="1" n="1" type="其他">1 大輪金剛陀羅尼</cb:mulu><head>大輪金剛陀羅尼<note n="0640005" resp="Taisho" place="foot text" type="orig">〔一〕－【元】</note><app n="0640005"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【元】"><space quantity="0"/></rdg></app></head>
+<lb n="0640a15" ed="T"/><byline cb:type="Translator"><note n="0640004" resp="Taisho" place="foot text" type="orig">（大）＋唐【元】</note><note n="0640004" resp="CBETA" type="mod">唐【大】，大唐【元】</note><app n="0640004"><lem wit="【大】">唐</lem><rdg resp="Taisho" wit="【元】">大唐</rdg></app>三藏地婆訶羅奉　詔譯</byline>
+<lb n="0640a16" ed="T"/><cb:mulu level="1" n="1" type="其他">1 大輪金剛陀羅尼</cb:mulu><head>大輪金剛陀羅尼<note n="0640005" resp="Taisho" place="foot text" type="orig">〔一〕－【元】</note><note n="0640005" resp="CBETA" type="mod">一【大】，〔－〕【元】</note><app n="0640005"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【元】"><space quantity="0"/></rdg></app></head>
 <lb n="0640a17" ed="T"/><p xml:id="pT21p0640a1701" cb:type="dharani">訥謨薩怛唎耶　地毘迦喃　怛他揭多喃
 <lb n="0640a18" ed="T"/>　唵毘囉　時毘囉時　摩訶斫迦囉　跋闍唎
 <lb n="0640a19" ed="T"/>薩多薩多娑囉帝娑囉帝　怛唎曳怛唎曳毘
@@ -124,9 +124,9 @@ Added comment  for Emacs
 <lb n="0640a23" ed="T"/>所作皆成<note place="inline">誦呪。有身印手印。作印誦呪法即易成。若未入壇。不得輙作。今令誦此呪。即當入壇
 <lb n="0640a24" ed="T"/>作印行不成盜法也</note>。</p></cb:div>
 <lb n="0640a25" ed="T"/><cb:div type="other"><cb:mulu level="1" n="2" type="其他">2 日光菩薩咒</cb:mulu><head>日光菩薩呪二</head>
-<lb n="0640a26" ed="T"/><p xml:id="pT21p0640a2601" cb:type="dharani">南謨勃陀瞿<note place="inline">上<note n="0640006" resp="Taisho" place="foot text" type="orig">〔聲〕－【元】下同</note><app n="0640006"><lem wit="【大】">聲</lem><rdg resp="Taisho" wit="【元】"><space quantity="0"/></rdg></app></note>那<note place="inline">上聲</note>迷　南摩達摩　莫
-<lb n="0640a27" ed="T"/>訶南謨僧伽多也泥底<note place="inline">丁以<note n="0640007" resp="Taisho" place="foot text" type="orig">切＝反【元】＊</note><app n="0640007"><lem wit="【大】">切</lem><rdg resp="Taisho" wit="【元】">反</rdg></app></note>哩部卑薩<note place="inline">僧沒<app type="star" corresp="#0640007"><lem wit="【大】">切</lem><rdg resp="Taisho" wit="【元】">反</rdg></app></note>咄
-<lb n="0640a28" ed="T"/><note place="inline"><note n="0640008" resp="Taisho" place="foot text" type="orig">（下）＋登【元】</note><app n="0640008"><lem wit="【大】">登</lem><rdg resp="Taisho" wit="【元】">下登</rdg></app>沒<anchor xml:id="fxT21p0640a02"/>反</note>擔<note place="inline">平聲</note>納摩</p>
+<lb n="0640a26" ed="T"/><p xml:id="pT21p0640a2601" cb:type="dharani">南謨勃陀瞿<note place="inline">上<note n="0640006" resp="Taisho" place="foot text" type="orig">〔聲〕－【元】下同</note><note n="0640006" resp="CBETA" type="mod">聲【大】下同，〔－〕【元】下同</note><app n="0640006"><lem wit="【大】">聲</lem><rdg resp="Taisho" wit="【元】"><space quantity="0"/></rdg></app></note>那<note place="inline">上聲</note>迷　南摩達摩　莫
+<lb n="0640a27" ed="T"/>訶南謨僧伽多也泥底<note place="inline">丁以<note n="0640007" resp="Taisho" place="foot text" type="orig">切＝反【元】＊</note><note n="0640007" resp="CBETA" type="mod">切【大】＊，反【元】＊</note><app n="0640007"><lem wit="【大】">切</lem><rdg resp="Taisho" wit="【元】">反</rdg></app></note>哩部卑薩<note place="inline">僧沒<app type="star" corresp="#0640007"><lem wit="【大】">切</lem><rdg resp="Taisho" wit="【元】">反</rdg></app></note>咄
+<lb n="0640a28" ed="T"/><note place="inline"><note n="0640008" resp="Taisho" place="foot text" type="orig">（下）＋登【元】</note><note n="0640008" resp="CBETA" type="mod">登【大】，下登【元】</note><app n="0640008"><lem wit="【大】">登</lem><rdg resp="Taisho" wit="【元】">下登</rdg></app>沒<anchor xml:id="fxT21p0640a02"/>反</note>擔<note place="inline">平聲</note>納摩</p>
 <lb n="0640a29" ed="T"/><p xml:id="pT21p0640a2901"><note place="inline">誦此呪滅一切障亦能辟魔及除天災。又若誦一遍禮佛一拜。如此日別三時誦呪禮佛。未來當得二相端正具足果
 <pb n="0640b" xml:id="T21.1338.0640b" ed="T"/>
 <lb n="0640b01" ed="T"/>報</note>。</p></cb:div>

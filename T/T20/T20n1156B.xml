@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 1156B 宗叡僧正於唐國師所口受</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 1156B 宗叡僧正於唐國師所口受</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -114,7 +114,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0650c19" ed="T"/>
 <lb n="0650c20" ed="T"/><cb:docNumber>No. 1156B</cb:docNumber>
-<lb n="0650c21" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0650024" resp="Taisho" place="foot text" type="orig">【原】享保年間刊豐山大學藏本，【甲】寬治七年寫高山寺藏寺</note><cb:jhead>宗<note n="0650025" resp="Taisho" place="foot text" type="orig">叡＝眷【甲】</note><note n="0650025" resp="CBETA" type="mod"><choice cb:resp="CBETA.maha"><corr><g ref="#CB02327"/></corr><sic>叡</sic></choice>＝眷【甲】</note><app n="0650025"><lem wit="【大】"><g ref="#CB02327"/></lem><rdg resp="Taisho" wit="【甲】">眷</rdg></app>僧正於唐國師所口受</cb:jhead></cb:juan>
+<lb n="0650c21" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0650024" resp="Taisho" place="foot text" type="orig">【原】享保年間刊豐山大學藏本，【甲】寬治七年寫高山寺藏寺</note><cb:jhead>宗<note n="0650025" resp="Taisho" place="foot text" type="orig">叡＝眷【甲】</note><note n="0650025" resp="CBETA" type="mod"><g ref="#CB02327"/>【大】，眷【甲】</note><app n="0650025"><lem wit="【大】"><g ref="#CB02327"/></lem><rdg resp="Taisho" wit="【甲】">眷</rdg></app>僧正於唐國師所口受</cb:jhead></cb:juan>
 <lb n="0650c22" ed="T"/>
 <lb n="0650c23" ed="T"/><cb:div type="other"><cb:mulu level="1" n="1" type="其他">1 大隨求根本印</cb:mulu><head>大隨求根本印第一</head>
 <lb n="0650c24" ed="T"/><p xml:id="pT20p0650c2401">二手內相叉。二中指合竪。二頭指於中指後
@@ -131,25 +131,25 @@ Added comment  for Emacs
 <lb n="0651a05" ed="T"/><cb:div type="other"><cb:mulu level="1" n="4" type="其他">4 一切如來金剛被甲真言印</cb:mulu><head>一切如來金剛被甲真言印第四</head>
 <lb n="0651a06" ed="T"/><p xml:id="pT20p0651a0601">二手合掌。二頭指屈中節令平偃。頭相跓即
 <lb n="0651a07" ed="T"/>成。</p>
-<lb n="0651a08" ed="T"/><p xml:id="pT20p0651a0801">梵云渴誐　唐云<note n="0651001" resp="Taisho" place="foot text" type="orig">劍＝鉤【甲】</note><app n="0651001"><lem wit="【大】">劍</lem><rdg resp="Taisho" wit="【甲】">鉤</rdg></app></p></cb:div>
-<lb n="0651a09" ed="T"/><cb:div type="other"><cb:mulu level="1" n="5" type="其他">5 一切如來灌頂真言印</cb:mulu><head>一切如來灌頂真言印<note n="0651002" resp="Taisho" place="foot text" type="orig">〔第五歟〕－【甲】</note><app n="0651002"><lem wit="【大】"><note place="inline">第五歟</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></head>
+<lb n="0651a08" ed="T"/><p xml:id="pT20p0651a0801">梵云渴誐　唐云<note n="0651001" resp="Taisho" place="foot text" type="orig">劍＝鉤【甲】</note><note n="0651001" resp="CBETA" type="mod">劍【大】，鉤【甲】</note><app n="0651001"><lem wit="【大】">劍</lem><rdg resp="Taisho" wit="【甲】">鉤</rdg></app></p></cb:div>
+<lb n="0651a09" ed="T"/><cb:div type="other"><cb:mulu level="1" n="5" type="其他">5 一切如來灌頂真言印</cb:mulu><head>一切如來灌頂真言印<note n="0651002" resp="Taisho" place="foot text" type="orig">〔第五歟〕－【甲】</note><note n="0651002" resp="CBETA" type="mod">第五歟【大】，〔－〕【甲】</note><app n="0651002"><lem wit="【大】"><note place="inline">第五歟</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></head>
 <lb n="0651a10" ed="T"/><p xml:id="pT20p0651a1001">二手外相叉。二無名指合竪。二小指竪交即
 <lb n="0651a11" ed="T"/>成。</p>
 <lb n="0651a12" ed="T"/><p xml:id="pT20p0651a1201">梵云斫羯羅<note place="inline">引</note>　唐云輪</p></cb:div>
-<lb n="0651a13" ed="T"/><cb:div type="other"><cb:mulu level="1" n="6" type="其他">6 一切如來結界真言印</cb:mulu><head>一切如來結界真言印<note n="0651003" resp="Taisho" place="foot text" type="orig">〔第六歟〕－【甲】</note><app n="0651003"><lem wit="【大】"><note place="inline">第六歟</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></head>
+<lb n="0651a13" ed="T"/><cb:div type="other"><cb:mulu level="1" n="6" type="其他">6 一切如來結界真言印</cb:mulu><head>一切如來結界真言印<note n="0651003" resp="Taisho" place="foot text" type="orig">〔第六歟〕－【甲】</note><note n="0651003" resp="CBETA" type="mod">第六歟【大】，〔－〕【甲】</note><app n="0651003"><lem wit="【大】"><note place="inline">第六歟</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></head>
 <lb n="0651a14" ed="T"/><p xml:id="pT20p0651a1401">二大指捻二小指甲上。餘指竪合如三戟叉
 <lb n="0651a15" ed="T"/>形即成。</p>
-<lb n="0651a16" ed="T"/><p xml:id="pT20p0651a1601">梵云底哩戌<note n="0651004" resp="Taisho" place="foot text" type="orig">羅＝攞【甲】</note><app n="0651004"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】">攞</rdg></app>　唐云三股叉</p></cb:div>
-<lb n="0651a17" ed="T"/><cb:div type="other"><cb:mulu level="1" n="7" type="其他">7 一切如來心中心真言印</cb:mulu><head>一切如來心中心真言印<note n="0651005" resp="Taisho" place="foot text" type="orig">〔第七歟〕－【甲】</note><app n="0651005"><lem wit="【大】"><note place="inline">第七歟</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></head>
+<lb n="0651a16" ed="T"/><p xml:id="pT20p0651a1601">梵云底哩戌<note n="0651004" resp="Taisho" place="foot text" type="orig">羅＝攞【甲】</note><note n="0651004" resp="CBETA" type="mod">羅【大】，攞【甲】</note><app n="0651004"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【甲】">攞</rdg></app>　唐云三股叉</p></cb:div>
+<lb n="0651a17" ed="T"/><cb:div type="other"><cb:mulu level="1" n="7" type="其他">7 一切如來心中心真言印</cb:mulu><head>一切如來心中心真言印<note n="0651005" resp="Taisho" place="foot text" type="orig">〔第七歟〕－【甲】</note><note n="0651005" resp="CBETA" type="mod">第七歟【大】，〔－〕【甲】</note><app n="0651005"><lem wit="【大】"><note place="inline">第七歟</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></head>
 <lb n="0651a18" ed="T"/><p xml:id="pT20p0651a1801">二手外相叉。二頭指相跓蹴如寶形。二大指
 <lb n="0651a19" ed="T"/>並竪即成。</p>
 <lb n="0651a20" ed="T"/><p xml:id="pT20p0651a2001">梵云進跢<note place="inline">引</note>麼尼　唐云寶</p></cb:div>
-<lb n="0651a21" ed="T"/><cb:div type="other"><cb:mulu level="1" n="8" type="其他">8 一切如來隨心真言印</cb:mulu><head>一切如來隨心真言印<note n="0651006" resp="Taisho" place="foot text" type="orig">〔第八歟〕－【甲】</note><app n="0651006"><lem wit="【大】"><note place="inline">第八歟</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></head>
+<lb n="0651a21" ed="T"/><cb:div type="other"><cb:mulu level="1" n="8" type="其他">8 一切如來隨心真言印</cb:mulu><head>一切如來隨心真言印<note n="0651006" resp="Taisho" place="foot text" type="orig">〔第八歟〕－【甲】</note><note n="0651006" resp="CBETA" type="mod">第八歟【大】，〔－〕【甲】</note><app n="0651006"><lem wit="【大】"><note place="inline">第八歟</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></head>
 <lb n="0651a22" ed="T"/><p xml:id="pT20p0651a2201">以左手仰於當心展五指。以右手覆於左上
 <lb n="0651a23" ed="T"/>相合令平即成。</p>
-<lb n="0651a24" ed="T"/><p xml:id="pT20p0651a2401">梵云摩訶尾儞也<note place="inline">二合</note>馱羅抳<note n="0651007" resp="Taisho" place="foot text" type="orig">（異唐…持）七字＝（以上八印記文從□尾得）十字【甲】</note><app cb:word-count="7" n="0651007"><lem wit="【大】"><note place="inline">異</note>　唐云大明
+<lb n="0651a24" ed="T"/><p xml:id="pT20p0651a2401">梵云摩訶尾儞也<note place="inline">二合</note>馱羅抳<note n="0651007" resp="Taisho" place="foot text" type="orig">（異唐…持）七字＝（以上八印記文從□尾得）十字【甲】</note><note n="0651007" resp="CBETA" type="mod">（異唐…持）七字【大】，以上八印記文從□尾得【甲】</note><app cb:word-count="7" n="0651007"><lem wit="【大】"><note place="inline">異</note>　唐云大明
 <lb n="0651a25" ed="T"/>總持</lem><rdg resp="Taisho" wit="【甲】">以上八印記文從□尾得</rdg></app></p></cb:div>
-<lb n="0651a26" ed="T"/><cb:div type="other"><cb:mulu level="1" n="9" type="其他">慈覺大師大隨求印</cb:mulu><head>慈覺大師大隨求<note n="0651008" resp="Taisho" place="foot text" type="orig">印＋（讚岐守傳安然）夾註【甲】</note><app n="0651008"><lem wit="【大】">印</lem><rdg resp="Taisho" wit="【甲】">印<note place="inline">讚岐守傳安然</note></rdg></app></head>
+<lb n="0651a26" ed="T"/><cb:div type="other"><cb:mulu level="1" n="9" type="其他">慈覺大師大隨求印</cb:mulu><head>慈覺大師大隨求<note n="0651008" resp="Taisho" place="foot text" type="orig">印＋（讚岐守傳安然）夾註【甲】</note><note n="0651008" resp="CBETA" type="mod">印【大】，印(讚岐守傳安然)【甲】</note><app n="0651008"><lem wit="【大】">印</lem><rdg resp="Taisho" wit="【甲】">印<note place="inline">讚岐守傳安然</note></rdg></app></head>
 <lb n="0651a27" ed="T"/><p xml:id="pT20p0651a2701">內縛五股印是也。</p></cb:div>
 <lb n="0651a28" ed="T"/><cb:div type="other"><cb:mulu level="1" n="10" type="其他">尊勝佛頂印</cb:mulu><head>尊勝佛頂印</head>
 <lb n="0651a29" ed="T"/><p xml:id="pT20p0651a2901">虛心合掌。屈二風甲相對。以二空捻二風側
@@ -161,7 +161,7 @@ Added comment  for Emacs
 <lb n="0651b05" ed="T"/>二空上。</p></cb:div>
 <lb n="0651b06" ed="T"/><cb:div type="other"><cb:mulu level="1" n="12" type="其他">滿足句印</cb:mulu><head>滿足句印</head>
 <lb n="0651b07" ed="T"/><p xml:id="pT20p0651b0701">二地合針。二水內鉤。二火如寶。二風屈捻二
-<lb n="0651b08" ed="T"/>空上。真<note n="0651009" resp="Taisho" place="foot text" type="orig">〔言〕－【甲】</note><app n="0651009"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>曰。</p>
+<lb n="0651b08" ed="T"/>空上。真<note n="0651009" resp="Taisho" place="foot text" type="orig">〔言〕－【甲】</note><note n="0651009" resp="CBETA" type="mod">言【大】，〔－〕【甲】</note><app n="0651009"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>曰。</p>
 <lb n="0651b09" ed="T"/><p xml:id="pT20p0651b0901" cb:type="dharani">阿尾羅吽欠</p></cb:div>
-<lb n="0651b10" ed="T"/><cb:div type="w"><p xml:id="pT20p0651b1001">　貞觀十九年三月二十二日<note n="0651010" resp="Taisho" place="foot text" type="orig">傳＋（大悲三昧真言是觀音明納莽糝滿哆<g ref="#CB03866"/>駄引腩一遏<g ref="#CB14334"/>單<g ref="#CB14290"/>耶二薩羅𨀻二合薩怛𨀻二合捨也弩薩跢薩𨀻引賀四）四十七字【甲】，甲本奧書曰寬治七年五月十二日以觀音堂本書寫畢</note><app n="0651010"><lem wit="【大】">傳</lem><rdg resp="Taisho" wit="【甲】">傳大悲三昧真言是觀音明納莽糝滿哆<g ref="#CB03866"/>駄引腩一遏<g ref="#CB14334"/>單<g ref="#CB14290"/>耶二薩羅𨀻二合薩怛𨀻二合捨也弩薩跢薩𨀻引賀四</rdg></app><note n="0651010" type="rest" place="foot">甲本奧書曰寬治七年五月十二日以觀音堂本書寫畢</note></p></cb:div>
+<lb n="0651b10" ed="T"/><cb:div type="w"><p xml:id="pT20p0651b1001">　貞觀十九年三月二十二日<note n="0651010" resp="Taisho" place="foot text" type="orig">傳＋（大悲三昧真言是觀音明納莽糝滿哆<g ref="#CB03866"/>駄引腩一遏<g ref="#CB14334"/>單<g ref="#CB14290"/>耶二薩羅𨀻二合薩怛𨀻二合捨也弩薩跢薩𨀻引賀四）四十七字【甲】，甲本奧書曰寬治七年五月十二日以觀音堂本書寫畢</note><note n="0651010" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->傳＋（大悲三昧真言是觀音明納莽糝滿哆<g ref="#CB03866"/>駄引腩一遏<g ref="#CB14334"/>單<g ref="#CB14290"/>耶二薩羅𨀻二合薩怛𨀻二合捨也弩薩跢薩𨀻引賀四）四十七字【甲】，甲本奧書曰寬治七年五月十二日以觀音堂本書寫畢</note><app n="0651010"><lem wit="【大】">傳</lem><rdg resp="Taisho" wit="【甲】">傳大悲三昧真言是觀音明納莽糝滿哆<g ref="#CB03866"/>駄引腩一遏<g ref="#CB14334"/>單<g ref="#CB14290"/>耶二薩羅𨀻二合薩怛𨀻二合捨也弩薩跢薩𨀻引賀四</rdg></app><note n="0651010" type="rest" place="foot">甲本奧書曰寬治七年五月十二日以觀音堂本書寫畢</note></p></cb:div>
 </body></text></TEI>

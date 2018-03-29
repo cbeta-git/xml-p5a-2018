@@ -140,7 +140,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0829c03" ed="T"/>
 <lb n="0829c04" ed="T"/><cb:docNumber>No. 543</cb:docNumber>
-<lb n="0829c05" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0829013" resp="Taisho" type="orig" place="foot text">依【明】採錄此經，【麗】【宋】【元】不戴此經故</note><note n="0829013" resp="CBETA" type="mod">依【明】採錄此經，【麗】【宋】【元】不<choice cb:resp="CBETA.maha"><corr>載</corr><sic>戴</sic></choice>此經故</note><cb:jhead><title>佛說巨力長者所問大乘經</title>卷上</cb:jhead></cb:juan>
+<lb n="0829c05" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0829013" resp="Taisho" type="orig" place="foot text">依【明】採錄此經，【麗】【宋】【元】不戴此經故</note><note n="0829013" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->依【明】採錄此經，【麗】【宋】【元】不載此經故</note><cb:jhead><title>佛說巨力長者所問大乘經</title>卷上</cb:jhead></cb:juan>
 <lb n="0829c06" ed="T"/>
 <lb n="0829c07" ed="T"/><byline cb:type="Translator">宋西天同譯經寶法大師賜紫
 <lb n="0829c08" ed="T"/>沙門智吉祥等奉　詔譯</byline>
@@ -352,7 +352,7 @@ Added comment  for Emacs
 <lb n="0832a04" ed="T"/>充滿，一身九竅常流不淨，亦如穢井滿中臭
 <lb n="0832a05" ed="T"/>惡，深可厭惡，又如冤賊亦如毒蛇，甚不可
 <lb n="0832a06" ed="T"/>愛，五欲煩惱由若瀑流，漂溺有情入生死海，
-<lb n="0832a07" ed="T"/><choice cb:resp="CBETA.march"><corr>汩</corr><sic>汨</sic></choice>沒流轉難有出期。</p><p xml:id="pT14p0832a0709" rend="inline">「汝等今者，親近如來學
+<lb n="0832a07" ed="T"/><note n="0832a0701" resp="CBETA" type="add">汩【CB】，汨【大】</note><app n="0832a0701"><lem wit="【CB】" resp="CBETA.march">汩</lem><rdg wit="【大】">汨</rdg></app>沒流轉難有出期。</p><p xml:id="pT14p0832a0709" rend="inline">「汝等今者，親近如來學
 <lb n="0832a08" ed="T"/>菩薩行，厭離世間五欲塵勞，色身敗壞一切
 <lb n="0832a09" ed="T"/>不堅，求於無上最勝大乘，漸次修習諸波羅
 <lb n="0832a10" ed="T"/>蜜，欲證解脫甚為難得。」</p>
@@ -410,7 +410,7 @@ Added comment  for Emacs
 <lb n="0832c01" ed="T"/>染輕微智慧明了，雖發大願往諸趣中受種
 <lb n="0832c02" ed="T"/>種身，為化眾生心無顛倒，如是乃至遍十方
 <lb n="0832c03" ed="T"/>剎，隨順眾生作諸事業，布施軟語利行同事，
-<lb n="0832c04" ed="T"/>方便攝受饒益有情，捨邪見家<choice cb:resp="CBETA.maha"><corr>入</corr><sic>人</sic></choice>於正道，修
+<lb n="0832c04" ed="T"/>方便攝受饒益有情，捨邪見家<note n="0832c0401" resp="CBETA" type="add">入【CB】，人【大】</note><app n="0832c0401"><lem wit="【CB】" resp="CBETA.maha">入</lem><rdg wit="【大】">人</rdg></app>於正道，修
 <lb n="0832c05" ed="T"/>諸善行同趣大乘，遠至菩提誓無退屈。</p><p xml:id="pT14p0832c0516" rend="inline">「善男
 <lb n="0832c06" ed="T"/>子！菩薩摩訶薩為求阿耨多羅三藐三菩提，
 <lb n="0832c07" ed="T"/>身心清淨得四總持，於名句義印忍不忘諦
@@ -492,10 +492,10 @@ Added comment  for Emacs
 <lb n="0833b23" ed="T"/><l>由因感果，</l><l>果復造因，</l><l>智不現前。</l>
 <lb n="0833b24" ed="T"/><l>心常癡暗，</l><l>唯貪飲食，</l><l>資益四大，</l>
 <lb n="0833b25" ed="T"/><l>常處夢中，</l><l>而無醒覺，</l><l>於佛教法，</l>
-<lb n="0833b26" ed="T"/><l>心無修習，</l><l>猶<choice cb:resp="CBETA"><corr>如</corr><sic>知</sic></choice>醉人，</l><l>言無義味。</l>
+<lb n="0833b26" ed="T"/><l>心無修習，</l><l>猶<note n="0833b2601" resp="CBETA" type="add">如【CB】，知【大】</note><app n="0833b2601"><lem wit="【CB】" resp="CBETA">如</lem><rdg wit="【大】">知</rdg></app>醉人，</l><l>言無義味。</l>
 <lb n="0833b27" ed="T"/><l>於五欲境，</l><l>未甞遠離，</l><l>晝夜邪思，</l>
 <lb n="0833b28" ed="T"/><l>唯增苦惱，</l><l>愁憂積集，</l><l>身心放逸，</l>
-<lb n="0833b29" ed="T"/><l>縱無明流，</l><l>入生死海，</l><l>漂沈<choice cb:resp="CBETA.march"><corr>汩</corr><sic>汨</sic></choice>沒，</l>
+<lb n="0833b29" ed="T"/><l>縱無明流，</l><l>入生死海，</l><l>漂沈<note n="0833b2901" resp="CBETA" type="add">汩【CB】，汨【大】</note><app n="0833b2901"><lem wit="【CB】" resp="CBETA.march">汩</lem><rdg wit="【大】">汨</rdg></app>沒，</l>
 <pb n="0833c" ed="T" xml:id="T14.0543.0833c"/>
 <lb n="0833c01" ed="T"/><l>受諸業報，</l><l>飢寒困苦，</l><l>羸瘦憔悴，</l>
 <lb n="0833c02" ed="T"/><l>遠於彼岸，</l><l>不能解脫。</l><l>此諸眾生，</l>

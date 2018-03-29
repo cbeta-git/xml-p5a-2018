@@ -154,8 +154,8 @@ Added comment  for Emacs
 <lb n="0704b02" ed="T"/><cb:docNumber>No. 489</cb:docNumber>
 <lb n="0704b03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第一</cb:jhead></cb:juan>
 <lb n="0704b04" ed="T"/>
-<lb n="0704b05" ed="T"/><byline cb:type="Translator"><note n="0704001" resp="Taisho" type="orig" place="foot text">西天譯經＝宋西天【明】＊</note><app n="0704001"><lem wit="【大】">西天譯經</lem><rdg resp="Taisho" wit="【明】">宋西天</rdg></app>三藏朝散大夫試鴻臚少
-<lb n="0704b06" ed="T"/>卿傳梵大師<note n="0704002" resp="Taisho" type="orig" place="foot text">〔賜紫沙門臣〕－【明】＊</note><app n="0704002"><lem wit="【大】">賜紫沙門臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>法護等
+<lb n="0704b05" ed="T"/><byline cb:type="Translator"><note n="0704001" resp="Taisho" type="orig" place="foot text">西天譯經＝宋西天【明】＊</note><note n="0704001" resp="CBETA" type="mod">西天譯經【大】＊，宋西天【明】＊</note><app n="0704001"><lem wit="【大】">西天譯經</lem><rdg resp="Taisho" wit="【明】">宋西天</rdg></app>三藏朝散大夫試鴻臚少
+<lb n="0704b06" ed="T"/>卿傳梵大師<note n="0704002" resp="Taisho" type="orig" place="foot text">〔賜紫沙門臣〕－【明】＊</note><note n="0704002" resp="CBETA" type="mod">賜紫沙門臣【大】＊，〔－〕【明】＊</note><app n="0704002"><lem wit="【大】">賜紫沙門臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>法護等
 <lb n="0704b07" ed="T"/>奉　詔譯</byline>
 <lb n="0704b08" ed="T"/><cb:div type="jing"><p xml:id="pT14p0704b0801">如是我聞：</p><p xml:id="pT14p0704b0805" rend="inline">一時，佛在象頭山中，與大苾芻眾
 <lb n="0704b09" ed="T"/>七萬二千人俱，皆是阿羅漢——諸漏已盡無復
@@ -208,10 +208,10 @@ Added comment  for Emacs
 <lb n="0704c26" ed="T"/><p xml:id="pT14p0704c2601">四大王天主等四大王天諸天子眾、帝釋天
 <lb n="0704c27" ed="T"/>主等忉利天中諸天子眾、須夜摩天主等夜
 <lb n="0704c28" ed="T"/>摩天中諸天子眾、兜率陀天主等兜率陀天
-<lb n="0704c29" ed="T"/>諸天子眾、善變化天主等化樂天中諸天子<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">眾<note type="cf1">K40n1476_p0892a08</note></lem><rdg wit="【大】"><space quantity="0"/></rdg></app>、
+<lb n="0704c29" ed="T"/>諸天子眾、善變化天主等化樂天中諸天子<note n="0704c2901" resp="CBETA" type="add">眾【CB】【麗-CB】，［－］【大】</note><app n="0704c2901"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">眾<note type="cf1">K40n1476_p0892a08</note></lem><rdg wit="【大】"><space quantity="0"/></rdg></app>、
 <pb n="0705a" ed="T" xml:id="T14.0489.0705a"/>
-<lb n="0705a01" ed="T"/><note n="0705001" resp="Taisho" type="orig" place="foot text">陀＝他【三】【宮】＊</note><note n="0705001" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->陀＝他【宋】【元】【明】【宮】＊【磧砂-CB】【CB】</note><app n="0705001"><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">他<note type="cf1">Q34_p0247b03</note></lem><rdg wit="【大】">陀</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">他</rdg></app>化自在天主等<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">他<note type="cf1">K40n1476_p0892a09</note></lem><rdg wit="【大】">陀</rdg></app>化自在天中諸天子眾、
-<lb n="0705a02" ed="T"/>導師等善分魔王<note n="0705002" resp="Taisho" type="orig" place="foot text">子＝天【明】</note><app n="0705002"><lem wit="【大】">子</lem><rdg resp="Taisho" wit="【明】">天</rdg></app>眾、大梵天主等梵眾
+<lb n="0705a01" ed="T"/><note n="0705001" resp="Taisho" type="orig" place="foot text">陀＝他【三】【宮】＊</note><note n="0705001" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->他【CB】【磧-CB】【宋】【元】【明】【宮】＊，陀【大】＊</note><app n="0705001"><lem wit="【CB】【磧-CB】" resp="CBETA.maha">他<note type="cf1">Q34_p0247b03</note></lem><rdg wit="【大】">陀</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">他</rdg></app>化自在天主等<note n="0705a0101" resp="CBETA" type="add">他【CB】【麗-CB】，陀【大】</note><app n="0705a0101"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">他<note type="cf1">K40n1476_p0892a09</note></lem><rdg wit="【大】">陀</rdg></app>化自在天中諸天子眾、
+<lb n="0705a02" ed="T"/>導師等善分魔王<note n="0705002" resp="Taisho" type="orig" place="foot text">子＝天【明】</note><note n="0705002" resp="CBETA" type="mod">子【大】，天【明】</note><app n="0705002"><lem wit="【大】">子</lem><rdg resp="Taisho" wit="【明】">天</rdg></app>眾、大梵天主等梵眾
 <lb n="0705a03" ed="T"/>天中諸天子眾、大自在天主等五淨居天諸
 <lb n="0705a04" ed="T"/>天子眾，毘摩質多羅阿修羅王、大力阿修羅
 <lb n="0705a05" ed="T"/>王、羅睺阿修羅王等無數百千阿修羅眾，阿
@@ -229,7 +229,7 @@ Added comment  for Emacs
 <lb n="0705a17" ed="T"/>設無數百千天妙寶衣，寶鈴寶網張設幰蓋
 <lb n="0705a18" ed="T"/>彌覆其上。復有無數百千天妙繒帛，周匝垂
 <lb n="0705a19" ed="T"/>掛，散真珠華及諸妙華。</p><p xml:id="pT14p0705a1910" rend="inline">又師子座周匝地方
-<lb n="0705a20" ed="T"/>皆是金剛所成，嚴飾殊妙<note n="0705003" resp="Taisho" type="orig" place="foot text">〔地〕－【三】</note><note n="0705003" resp="CBETA" type="mod">〔地〕－【宋】【元】【明】</note><app n="0705003"><lem wit="【大】">地</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>平<note n="0705004" resp="Taisho" type="orig" place="foot text">如掌＝堂【宮】</note><app n="0705004"><lem wit="【大】">如掌</lem><rdg resp="Taisho" wit="【宮】">堂</rdg></app>，柔軟
+<lb n="0705a20" ed="T"/>皆是金剛所成，嚴飾殊妙<note n="0705003" resp="Taisho" type="orig" place="foot text">〔地〕－【三】</note><note n="0705003" resp="CBETA" type="mod">地【大】，〔－〕【宋】【元】【明】</note><app n="0705003"><lem wit="【大】">地</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>平<note n="0705004" resp="Taisho" type="orig" place="foot text">如掌＝堂【宮】</note><note n="0705004" resp="CBETA" type="mod">如掌【大】，堂【宮】</note><app n="0705004"><lem wit="【大】">如掌</lem><rdg resp="Taisho" wit="【宮】">堂</rdg></app>，柔軟
 <lb n="0705a21" ed="T"/>清淨妙香芬馥，無數百千天妙寶華散布其
 <lb n="0705a22" ed="T"/>地。復有蓮華大若車輪，無數百千黃金為葉，
 <lb n="0705a23" ed="T"/>瑠璃為莖，帝青為臺，馬腦為鬚，妙香可愛適
@@ -253,7 +253,7 @@ Added comment  for Emacs
 <lb n="0705b11" ed="T"/>而入。而佛世尊口門之相悉無動靜，譬如日
 <lb n="0705b12" ed="T"/>月光明悉從虛空界入，而虛空界亦無動靜；
 <lb n="0705b13" ed="T"/>佛之光明口門入時，無動靜相亦復如是。又
-<lb n="0705b14" ed="T"/>如積以乾沙投之<note n="0705005" resp="Taisho" type="orig" place="foot text">酥＝蘇【宮】</note><app n="0705005"><lem wit="【大】">酥</lem><rdg resp="Taisho" wit="【宮】">蘇</rdg></app>油，或投以水，彼等入時
+<lb n="0705b14" ed="T"/>如積以乾沙投之<note n="0705005" resp="Taisho" type="orig" place="foot text">酥＝蘇【宮】</note><note n="0705005" resp="CBETA" type="mod">酥【大】，蘇【宮】</note><app n="0705005"><lem wit="【大】">酥</lem><rdg resp="Taisho" wit="【宮】">蘇</rdg></app>油，或投以水，彼等入時
 <lb n="0705b15" ed="T"/>悉無動靜；佛之光明口門入時，無動靜相亦
 <lb n="0705b16" ed="T"/>復如是。</p>
 <lb n="0705b17" ed="T"/><p xml:id="pT14p0705b1701">爾時，東方去此佛剎過殑伽沙數等世界，有
@@ -306,7 +306,7 @@ Added comment  for Emacs
 <lb n="0706a04" ed="T"/>子者，我說斯等有情得不退轉；非是得聞如
 <lb n="0706a05" ed="T"/>來名字，俱時皆得不退轉地。</p><p xml:id="pT14p0706a0512" rend="inline">「善男子！我今復
 <lb n="0706a06" ed="T"/>說譬喻以成斯義。譬如有樹初植種子，而其
-<lb n="0706a07" ed="T"/>種子離諸過失，後以諸緣得生<note n="0706001" resp="Taisho" type="orig" place="foot text">牙＝芽【明】</note><app n="0706001"><lem wit="【大】">牙</lem><rdg resp="Taisho" wit="【明】">芽</rdg></app>莖，乃至滋
+<lb n="0706a07" ed="T"/>種子離諸過失，後以諸緣得生<note n="0706001" resp="Taisho" type="orig" place="foot text">牙＝芽【明】</note><note n="0706001" resp="CBETA" type="mod">牙【大】，芽【明】</note><app n="0706001"><lem wit="【大】">牙</lem><rdg resp="Taisho" wit="【明】">芽</rdg></app>莖，乃至滋
 <lb n="0706a08" ed="T"/>長果實成結。善男子！彼樹何故但說種子？」</p><p xml:id="pT14p0706a0817" rend="inline">除
 <lb n="0706a09" ed="T"/>蓋障菩薩言：「世尊！由其種子離諸過失，乃至
 <lb n="0706a10" ed="T"/>果實成辦，故說種子。」</p><p xml:id="pT14p0706a1009" rend="inline">佛言：「善男子！得不退轉
@@ -324,7 +324,7 @@ Added comment  for Emacs
 <lb n="0706a22" ed="T"/>汝等可往，今正是時。然汝往彼世界，勿生放
 <lb n="0706a23" ed="T"/>逸。何以故？彼世界中諸有情類極貪瞋癡，無
 <lb n="0706a24" ed="T"/>沙門婆羅門父母之想，非法欲行，暴惡麁獷，
-<lb n="0706a25" ed="T"/>口出惡言，高倨輕慢，染著<note n="0706002" resp="Taisho" type="orig" place="foot text">懈怠＝想恚【三】</note><note n="0706002" resp="CBETA" type="mod">懈怠＝想恚【宋】【元】【明】</note><app n="0706002"><lem wit="【大】">懈怠</lem><rdg resp="Taisho" wit="【宋】【元】【明】">想恚</rdg></app>，破戒造惡，
+<lb n="0706a25" ed="T"/>口出惡言，高倨輕慢，染著<note n="0706002" resp="Taisho" type="orig" place="foot text">懈怠＝想恚【三】</note><note n="0706002" resp="CBETA" type="mod">懈怠【大】，想恚【宋】【元】【明】</note><app n="0706002"><lem wit="【大】">懈怠</lem><rdg resp="Taisho" wit="【宋】【元】【明】">想恚</rdg></app>，破戒造惡，
 <lb n="0706a26" ed="T"/>慳嫉增盛，如是多種煩惱隨煩惱等。彼佛世
 <lb n="0706a27" ed="T"/>尊，於如是等惡有情中而為說法。」</p><p xml:id="pT14p0706a2714" rend="inline">彼諸菩薩
 <lb n="0706a28" ed="T"/>白其佛言：「世尊！彼佛如來難行能行，於如是
@@ -374,7 +374,7 @@ Added comment  for Emacs
 <lb n="0706c12" ed="T"/>照處。</p>
 <lb n="0706c13" ed="T"/><p xml:id="pT14p0706c1301">爾時，諸菩薩眾隨彼色相如其所應，亦以神
 <lb n="0706c14" ed="T"/>力作諸化事，令諸有情須食者得食，須飲者
-<lb n="0706c15" ed="T"/>得飲，須衣者得衣，須<app><lem resp="CBETA.maha" wit="【CBETA】【麗】">輦<note type="cf1">K40n1476_p0894c16</note></lem><rdg wit="【大】">輩</rdg></app>輿者得輦輿，須財者
+<lb n="0706c15" ed="T"/>得飲，須衣者得衣，須<note n="0706c1501" resp="CBETA" type="add">輦【CB】【麗-CB】，輩【大】</note><app n="0706c1501"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">輦<note type="cf1">K40n1476_p0894c16</note></lem><rdg wit="【大】">輩</rdg></app>輿者得輦輿，須財者
 <lb n="0706c16" ed="T"/>得財，盲者能視，聾者能聽，裸者得覆，迷亂之
 <lb n="0706c17" ed="T"/>者還得正念，苦者得樂，諸懷妊者產生無難。</p>
 <lb n="0706c18" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第一</cb:jhead></cb:juan>
@@ -386,7 +386,7 @@ Added comment  for Emacs
 <lb n="0706c23" ed="T"/><byline cb:type="Translator"><anchor xml:id="fxT14p0706c01"/>西天譯經三藏朝散大夫試鴻臚少
 <lb n="0706c24" ed="T"/>卿傳梵大師<anchor xml:id="fxT14p0706c02"/>賜紫沙門臣法護等
 <lb n="0706c25" ed="T"/>奉　詔譯</byline>
-<lb n="0706c26" ed="T"/><p xml:id="pT14p0706c2601">爾時，除蓋障菩薩摩訶薩等<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">諸<note type="cf1">K40n1476_p0895a03</note></lem><rdg wit="【大】">　</rdg></app>菩薩眾，來詣
+<lb n="0706c26" ed="T"/><p xml:id="pT14p0706c2601">爾時，除蓋障菩薩摩訶薩等<note n="0706c2601" resp="CBETA" type="add">諸【CB】【麗-CB】，【大】</note><app n="0706c2601"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">諸<note type="cf1">K40n1476_p0895a03</note></lem><rdg wit="【大】">　</rdg></app>菩薩眾，來詣
 <lb n="0706c27" ed="T"/>於此象頭之山去山不遠。彼諸大士俱時化
 <lb n="0706c28" ed="T"/>現殊妙寶網，遍覆三千大千世界。又於空中
 <lb n="0706c29" ed="T"/>雨眾天華，及天果雲、天寶鬘雲、天塗香雲、天
@@ -398,7 +398,7 @@ Added comment  for Emacs
 <lb n="0707a05" ed="T"/>樹華樹果樹、栴檀香樹、沈水香樹，彼等皆是
 <lb n="0707a06" ed="T"/>神力所化。又於空中，自然出妙天鼓音聲。於
 <lb n="0707a07" ed="T"/>鼓音中，說伽陀曰：</p>
-<lb n="0707a08" ed="T"/><lg xml:id="lgT14p0707a0801" rend="margin-left:1em;text-indent:-1em"><l>「龍彌尼園最勝生，</l><l>不以煩惱<note n="0707001" resp="Taisho" type="orig" place="foot text">種＝眾【明】</note><app n="0707001"><lem wit="【大】">種</lem><rdg resp="Taisho" wit="【明】">眾</rdg></app>等比，</l>
+<lb n="0707a08" ed="T"/><lg xml:id="lgT14p0707a0801" rend="margin-left:1em;text-indent:-1em"><l>「龍彌尼園最勝生，</l><l>不以煩惱<note n="0707001" resp="Taisho" type="orig" place="foot text">種＝眾【明】</note><note n="0707001" resp="CBETA" type="mod">種【大】，眾【明】</note><app n="0707001"><lem wit="【大】">種</lem><rdg resp="Taisho" wit="【明】">眾</rdg></app>等比，</l>
 <lb n="0707a09" ed="T"/><l>稽首無等如虛空，</l><l>故我來此最勝山。</l>
 <lb n="0707a10" ed="T"/><l>坐勝道樹成菩提，</l><l>警覺摧伏魔力軍，</l>
 <lb n="0707a11" ed="T"/><l>稽首持勝無垢光，</l><l>故我來此最勝山。</l>
@@ -406,17 +406,17 @@ Added comment  for Emacs
 <lb n="0707a13" ed="T"/><l>稽首最上大福樹，</l><l>故我來此最勝山。</l>
 <lb n="0707a14" ed="T"/><l>覺了世法如戲劇，</l><l>巧現眾法如帝弓，</l>
 <lb n="0707a15" ed="T"/><l>稽首無動勝福藏，</l><l>故我來此最勝山。</l>
-<lb n="0707a16" ed="T"/><l>久遠歷於多百劫，</l><l>為欲圓滿悲心<note n="0707002" resp="Taisho" type="orig" place="foot text">故＝欲【三】</note><note n="0707002" resp="CBETA" type="mod">故＝欲【宋】【元】【明】</note><app n="0707002"><lem wit="【大】">故</lem><rdg resp="Taisho" wit="【宋】【元】【明】">欲</rdg></app>，</l>
+<lb n="0707a16" ed="T"/><l>久遠歷於多百劫，</l><l>為欲圓滿悲心<note n="0707002" resp="Taisho" type="orig" place="foot text">故＝欲【三】</note><note n="0707002" resp="CBETA" type="mod">故【大】，欲【宋】【元】【明】</note><app n="0707002"><lem wit="【大】">故</lem><rdg resp="Taisho" wit="【宋】【元】【明】">欲</rdg></app>，</l>
 <lb n="0707a17" ed="T"/><l>稽首無垢月面尊，</l><l>故我來此最勝山。</l>
 <lb n="0707a18" ed="T"/><l>多百俱胝菩薩眾，</l><l>諸天供養亦復然，</l>
-<lb n="0707a19" ed="T"/><l>稽首已離<note n="0707003" resp="Taisho" type="orig" place="foot text">癡＝諸【明】</note><app n="0707003"><lem wit="【大】">癡</lem><rdg resp="Taisho" wit="【明】">諸</rdg></app>暗瞑，</l><l>故我來此最勝山。</l>
+<lb n="0707a19" ed="T"/><l>稽首已離<note n="0707003" resp="Taisho" type="orig" place="foot text">癡＝諸【明】</note><note n="0707003" resp="CBETA" type="mod">癡【大】，諸【明】</note><app n="0707003"><lem wit="【大】">癡</lem><rdg resp="Taisho" wit="【明】">諸</rdg></app>暗瞑，</l><l>故我來此最勝山。</l>
 <lb n="0707a20" ed="T"/><l>已得最上聖法藏，</l><l>悲所成身棄世財，</l>
 <lb n="0707a21" ed="T"/><l>稽首無等作大利，</l><l>故我來此最勝山。</l>
 <lb n="0707a22" ed="T"/><l>住寂靜心常慈意，</l><l>如蓮在水離諸染，</l>
 <lb n="0707a23" ed="T"/><l>稽首勝上持功德，</l><l>故我來此最勝山。</l>
 <lb n="0707a24" ed="T"/><l>妙相開華清淨身，</l><l>隨形眾好世資養，</l>
 <lb n="0707a25" ed="T"/><l>稽首寶樹無邊枝，</l><l>來此供養願攝受。」</l></lg>
-<lb n="0707a26" ed="T"/><p xml:id="pT14p0707a2601">其鼓音中說是伽陀已，尊者大目<note n="0707004" resp="Taisho" type="orig" place="foot text">乾＝犍【明】＊</note><app n="0707004"><lem wit="【大】">乾</lem><rdg resp="Taisho" wit="【明】">犍</rdg></app>連即從
+<lb n="0707a26" ed="T"/><p xml:id="pT14p0707a2601">其鼓音中說是伽陀已，尊者大目<note n="0707004" resp="Taisho" type="orig" place="foot text">乾＝犍【明】＊</note><note n="0707004" resp="CBETA" type="mod">乾【大】＊，犍【明】＊</note><app n="0707004"><lem wit="【大】">乾</lem><rdg resp="Taisho" wit="【明】">犍</rdg></app>連即從
 <lb n="0707a27" ed="T"/>座起，偏袒右肩右膝著地，合掌向佛，而白佛
 <lb n="0707a28" ed="T"/>言：「世尊！何故今時現是瑞相？昔所未聞，昔所
 <lb n="0707a29" ed="T"/>未見。」</p><p xml:id="pT14p0707a2903" rend="inline">佛告尊者大目<app type="star" corresp="#0707004"><lem wit="【大】">乾</lem><rdg resp="Taisho" wit="【明】">犍</rdg></app>連言：「東方去此佛剎
@@ -436,7 +436,7 @@ Added comment  for Emacs
 <lb n="0707b13" ed="T"/><l>汝得一切解脫門，</l><l>稽首歸命無等等。</l>
 <lb n="0707b14" ed="T"/><l>堅固不動如山王，</l><l>深廣無底如大海，</l>
 <lb n="0707b15" ed="T"/><l>一切邪外不能破，</l><l>稽首稱讚大法王。</l>
-<lb n="0707b16" ed="T"/><l>本來寂靜法無生，</l><l>自性如是<note n="0707005" resp="Taisho" type="orig" place="foot text">常＝當【明】</note><app n="0707005"><lem wit="【大】">常</lem><rdg resp="Taisho" wit="【明】">當</rdg></app>寂滅，</l>
+<lb n="0707b16" ed="T"/><l>本來寂靜法無生，</l><l>自性如是<note n="0707005" resp="Taisho" type="orig" place="foot text">常＝當【明】</note><note n="0707005" resp="CBETA" type="mod">常【大】，當【明】</note><app n="0707005"><lem wit="【大】">常</lem><rdg resp="Taisho" wit="【明】">當</rdg></app>寂滅，</l>
 <lb n="0707b17" ed="T"/><l>我法聖尊善開明，</l><l>稽首轉大法輪者。</l>
 <lb n="0707b18" ed="T"/><l>或有宣說諸正道，</l><l>或說趣入真實理，</l>
 <lb n="0707b19" ed="T"/><l>或說涅槃正妙門，</l><l>或說授記成覺果，</l>
@@ -448,7 +448,7 @@ Added comment  for Emacs
 <lb n="0707b25" ed="T"/><l>汝於世間善所求，</l><l>永破生死諸險難。</l>
 <lb n="0707b26" ed="T"/><l>無智久沈於睡眠，</l><l>有情流轉生死輪，</l>
 <lb n="0707b27" ed="T"/><l>善為開覺汝聖尊，</l><l>稽首等視如親愛。</l>
-<lb n="0707b28" ed="T"/><l>汝觀此諸大士眾，</l><l>一切安<note n="0707006" resp="Taisho" type="orig" place="foot text">住＝信【三】</note><note n="0707006" resp="CBETA" type="mod">住＝信【宋】【元】【明】</note><app n="0707006"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【宋】【元】【明】">信</rdg></app>菩提道，</l>
+<lb n="0707b28" ed="T"/><l>汝觀此諸大士眾，</l><l>一切安<note n="0707006" resp="Taisho" type="orig" place="foot text">住＝信【三】</note><note n="0707006" resp="CBETA" type="mod">住【大】，信【宋】【元】【明】</note><app n="0707006"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【宋】【元】【明】">信</rdg></app>菩提道，</l>
 <lb n="0707b29" ed="T"/><l>皆欲聽聞妙法門，</l><l>唯願世尊隨為說。」</l></lg>
 <pb n="0707c" ed="T" xml:id="T14.0489.0707c"/>
 <lb n="0707c01" ed="T"/><p xml:id="pT14p0707c0101">爾時，除蓋障菩薩摩訶薩說是伽陀讚歎佛
@@ -530,7 +530,7 @@ Added comment  for Emacs
 <lb n="0708b17" ed="T"/>教示他人令棄。於彼一切有情，起如父想
 <lb n="0708b18" ed="T"/>如母想如子想，如眷屬想及餘親愛知友之
 <lb n="0708b19" ed="T"/>想。何以故？菩薩作是思惟：『如佛所說，彼彼生
-<lb n="0708b20" ed="T"/>中一切轉易，於諸有情聚中，未<app><lem wit="【CBETA】【麗】" resp="CBETA.maha"><space quantity="0"/><note type="cf1">K40n1476_p0897b03</note></lem><rdg wit="【大】">曾</rdg></app>有不是父
+<lb n="0708b20" ed="T"/>中一切轉易，於諸有情聚中，未<note n="0708b2001" resp="CBETA" type="add">［－］【CB】【麗-CB】，曾【大】</note><app n="0708b2001"><lem wit="【CB】【麗-CB】" resp="CBETA.maha"><space quantity="0"/><note type="cf1">K40n1476_p0897b03</note></lem><rdg wit="【大】">曾</rdg></app>有不是父
 <lb n="0708b21" ed="T"/>母及子并餘親愛知友，乃至於彼微細情命
 <lb n="0708b22" ed="T"/>之中，皆為發起利益，設自身肉尚亦與之。何
 <lb n="0708b23" ed="T"/>況餘諸大有情類？』善男子！如是名為菩薩無
@@ -607,7 +607,7 @@ Added comment  for Emacs
 <lb n="0709b04" ed="T"/>以故？或有有情，於如來所生不信心，為令彼
 <lb n="0709b05" ed="T"/>等生信解故，及彼有情隨為攝護故，菩薩自
 <lb n="0709b06" ed="T"/>能圓滿菩提勝行，善具威儀，柔軟容緩，不雜
-<lb n="0709b07" ed="T"/><note n="0709001" resp="Taisho" type="orig" place="foot text">闠＝憒【明】</note><app n="0709001"><lem wit="【大】">闠</lem><rdg resp="Taisho" wit="【明】">憒</rdg></app>閙，趣寂止門極清淨門，此是菩薩所行。</p>
+<lb n="0709b07" ed="T"/><note n="0709001" resp="Taisho" type="orig" place="foot text">闠＝憒【明】</note><note n="0709001" resp="CBETA" type="mod">闠【大】，憒【明】</note><app n="0709001"><lem wit="【大】">闠</lem><rdg resp="Taisho" wit="【明】">憒</rdg></app>閙，趣寂止門極清淨門，此是菩薩所行。</p>
 <lb n="0709b08" ed="T"/><p xml:id="pT14p0709b0801">「何等是菩薩學句？謂若如來於一一經中宣
 <lb n="0709b09" ed="T"/>示菩薩所學之法。菩薩於中而生信順不生
 <lb n="0709b10" ed="T"/>障難，此是菩薩學句。善男子！如是名為菩薩
@@ -618,7 +618,7 @@ Added comment  for Emacs
 <lb n="0709b14" ed="T"/>
 <lb n="0709b15" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="003" type="卷"/><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第三</cb:jhead></cb:juan>
 <lb n="0709b16" ed="T"/>
-<lb n="0709b17" ed="T"/><byline cb:type="Translator"><note n="0709002" resp="Taisho" type="orig" place="foot text">（宋）＋西天【明】</note><app n="0709002"><lem wit="【大】">西天</lem><rdg resp="Taisho" wit="【明】">宋西天</rdg></app>譯經三藏朝散大夫試鴻臚少
+<lb n="0709b17" ed="T"/><byline cb:type="Translator"><note n="0709002" resp="Taisho" type="orig" place="foot text">（宋）＋西天【明】</note><note n="0709002" resp="CBETA" type="mod">西天【大】，宋西天【明】</note><app n="0709002"><lem wit="【大】">西天</lem><rdg resp="Taisho" wit="【明】">宋西天</rdg></app>譯經三藏朝散大夫試鴻臚少
 <lb n="0709b18" ed="T"/>卿傳梵大師<anchor xml:id="fxT14p0709b01"/>賜紫沙門臣法護等
 <lb n="0709b19" ed="T"/>奉　詔譯</byline>
 <lb n="0709b20" ed="T"/><p xml:id="pT14p0709b2001">「復次，善男子！云何是離諸煩惱燒然戒行？謂
@@ -627,7 +627,7 @@ Added comment  for Emacs
 <lb n="0709b23" ed="T"/>燒然。若欲不燒然者，當起貪之對治，及應遠
 <lb n="0709b24" ed="T"/>離貪所起緣。何謂貪之對治？即不淨觀是貪
 <lb n="0709b25" ed="T"/>對治。不淨觀者，謂自身中諸不淨物，髮毛爪
-<lb n="0709b26" ed="T"/>齒涎淚涕唾，<note n="0709003" resp="Taisho" type="orig" place="foot text">淡＝痰【元】【明】【宮】</note><app n="0709003"><lem wit="【大】">淡</lem><rdg resp="Taisho" wit="【元】【明】【宮】">痰</rdg></app>廕垢汗大小便利，皮膚血肉
+<lb n="0709b26" ed="T"/>齒涎淚涕唾，<note n="0709003" resp="Taisho" type="orig" place="foot text">淡＝痰【元】【明】【宮】</note><note n="0709003" resp="CBETA" type="mod">淡【大】，痰【元】【明】【宮】</note><app n="0709003"><lem wit="【大】">淡</lem><rdg resp="Taisho" wit="【元】【明】【宮】">痰</rdg></app>廕垢汗大小便利，皮膚血肉
 <lb n="0709b27" ed="T"/>骨髓肪膏，腦膜筋脈脾腎心肺，肝膽腸胃胞
 <lb n="0709b28" ed="T"/>及肚胘，凡如是等諸不淨物，菩薩應當作此
 <lb n="0709b29" ed="T"/>觀想起是思惟：『世間所有彼愚癡者，不明解
@@ -643,7 +643,7 @@ Added comment  for Emacs
 <lb n="0709c09" ed="T"/>慈心，以此慈心及此因緣，而彼忿恚瞋怒有
 <lb n="0709c10" ed="T"/>情心意皆能攝伏，瞋恚因緣悉得遠離，是名
 <lb n="0709c11" ed="T"/>菩薩瞋之對治，及遠離彼瞋所起緣。當作如
-<lb n="0709c12" ed="T"/>是觀察之時即離癡法，<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">由離癡<note type="cf1">K40n1476_p0899b07</note></lem><rdg wit="【大】">離癡由</rdg></app>故，彼諸所欲及
+<lb n="0709c12" ed="T"/>是觀察之時即離癡法，<note n="0709c1201" resp="CBETA" type="add">由離癡【CB】【麗-CB】，離癡由【大】</note><app n="0709c1201"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">由離癡<note type="cf1">K40n1476_p0899b07</note></lem><rdg wit="【大】">離癡由</rdg></app>故，彼諸所欲及
 <lb n="0709c13" ed="T"/>諸受用，不為侵害之火燒然，此等是為菩薩
 <lb n="0709c14" ed="T"/>離諸煩惱燒然戒行。</p><p xml:id="pT14p0709c1409" rend="inline">「云何是離不深固作意
 <lb n="0709c15" ed="T"/>戒行？謂若菩薩獨處一方寂靜而住，不起是
@@ -657,8 +657,8 @@ Added comment  for Emacs
 <lb n="0709c23" ed="T"/>精光悅意果報。』如是信者而能遠離諸不善
 <lb n="0709c24" ed="T"/>業，是為菩薩攝善法戒行。</p><p xml:id="pT14p0709c2411" rend="inline">「云何是怖罪戒行？
 <lb n="0709c25" ed="T"/>謂若菩薩或有如微塵罪，見悉生怖不順所
-<lb n="0709c26" ed="T"/>作，乃至少罪亦不生輕，作是思惟：『<note n="0709004" resp="Taisho" type="orig" place="foot text">如佛＝如來【三】</note><note n="0709004" resp="CBETA" type="mod">如佛＝如來【宋】【元】【明】</note><app n="0709004"><lem wit="【大】">如佛</lem><rdg resp="Taisho" wit="【宋】【元】【明】">如來</rdg></app>所
-<lb n="0709c27" ed="T"/>說，諸苾芻譬如有人中於少<note n="0709005" resp="Taisho" type="orig" place="foot text">毒＝壽【宋】</note><app n="0709005"><lem wit="【大】">毒</lem><rdg resp="Taisho" wit="【宋】">壽</rdg></app>亦趣命終，
+<lb n="0709c26" ed="T"/>作，乃至少罪亦不生輕，作是思惟：『<note n="0709004" resp="Taisho" type="orig" place="foot text">如佛＝如來【三】</note><note n="0709004" resp="CBETA" type="mod">如佛【大】，如來【宋】【元】【明】</note><app n="0709004"><lem wit="【大】">如佛</lem><rdg resp="Taisho" wit="【宋】【元】【明】">如來</rdg></app>所
+<lb n="0709c27" ed="T"/>說，諸苾芻譬如有人中於少<note n="0709005" resp="Taisho" type="orig" place="foot text">毒＝壽【宋】</note><note n="0709005" resp="CBETA" type="mod">毒【大】，壽【宋】</note><app n="0709005"><lem wit="【大】">毒</lem><rdg resp="Taisho" wit="【宋】">壽</rdg></app>亦趣命終，
 <lb n="0709c28" ed="T"/>若中多毒亦趣命終，諸有罪者，若少若多皆
 <lb n="0709c29" ed="T"/>墮惡趣。』若作如是伺察之時，菩薩於罪乃生
 <pb n="0710a" ed="T" xml:id="T14.0489.0710a"/>
@@ -681,7 +681,7 @@ Added comment  for Emacs
 <lb n="0710a17" ed="T"/>之餘。』是為菩薩無依著戒行。</p><p xml:id="pT14p0710a1712" rend="inline">「云何是三輪清
 <lb n="0710a18" ed="T"/>淨戒行？謂若菩薩身業清淨、語業清淨、意業
 <lb n="0710a19" ed="T"/>清淨。身業清淨者，謂遠離身三不善業：一殺
-<lb n="0710a20" ed="T"/>生、二偷盜、<app><lem resp="CBETA.maha" wit="【CBETA】【麗】">三<note type="cf1">K40n1476_p0900a05</note></lem><rdg wit="【大】">二</rdg></app>邪染，如是名為身不善業。語業
+<lb n="0710a20" ed="T"/>生、二偷盜、<note n="0710a2001" resp="CBETA" type="add">三【CB】【麗-CB】，二【大】</note><app n="0710a2001"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">三<note type="cf1">K40n1476_p0900a05</note></lem><rdg wit="【大】">二</rdg></app>邪染，如是名為身不善業。語業
 <lb n="0710a21" ed="T"/>清淨者，謂遠離語四不善業：一妄言、二兩舌、
 <lb n="0710a22" ed="T"/>三惡口、四綺語，是名語不善業。意業清淨者，
 <lb n="0710a23" ed="T"/>謂遠離意三不善業：一貪、二瞋、三邪見，是名
@@ -736,7 +736,7 @@ Added comment  for Emacs
 <lb n="0710c12" ed="T"/>怨對皆是我之自業所感，業成熟已來相逼
 <lb n="0710c13" ed="T"/>惱，誠非父母眷屬親友所造，皆是自業造作
 <lb n="0710c14" ed="T"/>所成熟故，而亦非外地界水界火界風界之
-<lb n="0710c15" ed="T"/>所成熟，<note n="0710001" resp="Taisho" type="orig" place="foot text">又＝是【三】</note><note n="0710001" resp="CBETA" type="mod">又＝是【宋】【元】【明】</note><app n="0710001"><lem wit="【大】">又</lem><rdg resp="Taisho" wit="【宋】【元】【明】">是</rdg></app>亦非內四大成熟。』菩薩作是思惟
+<lb n="0710c15" ed="T"/>所成熟，<note n="0710001" resp="Taisho" type="orig" place="foot text">又＝是【三】</note><note n="0710001" resp="CBETA" type="mod">又【大】，是【宋】【元】【明】</note><app n="0710001"><lem wit="【大】">又</lem><rdg resp="Taisho" wit="【宋】【元】【明】">是</rdg></app>亦非內四大成熟。』菩薩作是思惟
 <lb n="0710c16" ed="T"/>時，由此因緣故，於有怨害及無怨害，平等其
 <lb n="0710c17" ed="T"/>心皆悉能忍受，是為菩薩耐怨害忍。</p><p xml:id="pT14p0710c1715" rend="inline">「云何是
 <lb n="0710c18" ed="T"/>悲心忍？謂若菩薩設得王位，或為臣佐，大富
@@ -778,7 +778,7 @@ Added comment  for Emacs
 <lb n="0711a24" ed="T"/>此精進。何以故？我亦曾發此之精進，普為一
 <lb n="0711a25" ed="T"/>切有情，未得涅槃者令得涅槃，未得度者悉
 <lb n="0711a26" ed="T"/>令得度，未解脫者普令解脫，未安隱者而令
-<lb n="0711a27" ed="T"/>安隱，未成正覺<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">者<note type="cf1">K40n1476_p0901c05</note></lem><rdg wit="【大】">著</rdg></app>當使成正覺；此等皆是不
+<lb n="0711a27" ed="T"/>安隱，未成正覺<note n="0711a2701" resp="CBETA" type="add">者【CB】【麗-CB】，著【大】</note><app n="0711a2701"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">者<note type="cf1">K40n1476_p0901c05</note></lem><rdg wit="【大】">著</rdg></app>當使成正覺；此等皆是不
 <lb n="0711a28" ed="T"/>實妄失之法，愚人諍論之語。善男子！我不曾
 <lb n="0711a29" ed="T"/>見有人發如是精進，能令一有情得阿耨多
 <pb n="0711b" ed="T" xml:id="T14.0489.0711b"/>
@@ -795,7 +795,7 @@ Added comment  for Emacs
 <lb n="0711b11" ed="T"/>還歸本處勿復嬈我，嬈亂我故使汝長夜於
 <lb n="0711b12" ed="T"/>諸有情苦惱逼迫作不饒益。』時彼惡魔潛伏
 <lb n="0711b13" ed="T"/>退屈，即於是處隱而不現。菩薩於是諸惡魔
-<lb n="0711b14" ed="T"/>眾，或魔天等來嬈亂時，而<note n="0711001" resp="Taisho" type="orig" place="foot text">菩菩＝菩薩【三】【宮】</note><note n="0711001" resp="CBETA" type="mod">菩菩＝菩薩【宋】【元】【明】【宮】【CB】</note><app n="0711001"><lem resp="CBETA.maha" wit="【CBETA】">菩薩</lem><rdg wit="【大】">菩菩</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">菩薩</rdg></app>心不驚不怖
+<lb n="0711b14" ed="T"/>眾，或魔天等來嬈亂時，而<note n="0711001" resp="Taisho" type="orig" place="foot text">菩菩＝菩薩【三】【宮】</note><note n="0711001" resp="CBETA" type="mod">菩薩【CB】【宋】【元】【明】【宮】，菩菩【大】</note><app n="0711001"><lem resp="CBETA.maha" wit="【CB】">菩薩</lem><rdg wit="【大】">菩菩</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">菩薩</rdg></app>心不驚不怖
 <lb n="0711b15" ed="T"/>亦不怯弱，是為菩薩被甲精進。</p><p xml:id="pT14p0711b1513" rend="inline">「云何是無能
 <lb n="0711b16" ed="T"/>勝精進？謂若菩薩隨其諸相發起精進，如所
 <lb n="0711b17" ed="T"/>起時而為最勝，正使餘諸久修道行菩薩，比
@@ -805,7 +805,7 @@ Added comment  for Emacs
 <lb n="0711b21" ed="T"/>切佛法，斷諸惡法故，是為菩薩無能勝精進。</p>
 <lb n="0711b22" ed="T"/><p xml:id="pT14p0711b2201">「云何是離二邊精進？謂若菩薩所起精進，不
 <lb n="0711b23" ed="T"/>應增劇不應沈下。何以故？若增劇時其心高
-<lb n="0711b24" ed="T"/><note n="0711002" resp="Taisho" type="orig" place="foot text">倨＝倍【宋】</note><app n="0711002"><lem wit="【大】">倨</lem><rdg resp="Taisho" wit="【宋】">倍</rdg></app>，若沈下時即生掉舉，離此二者，乃名菩
+<lb n="0711b24" ed="T"/><note n="0711002" resp="Taisho" type="orig" place="foot text">倨＝倍【宋】</note><note n="0711002" resp="CBETA" type="mod">倨【大】，倍【宋】</note><app n="0711002"><lem wit="【大】">倨</lem><rdg resp="Taisho" wit="【宋】">倍</rdg></app>，若沈下時即生掉舉，離此二者，乃名菩
 <lb n="0711b25" ed="T"/>薩精進勝行，是為菩薩離二邊精進。</p><p xml:id="pT14p0711b2515" rend="inline">「云何是
 <lb n="0711b26" ed="T"/>利樂精進？謂若菩薩發是精進，願我此身得
 <lb n="0711b27" ed="T"/>與佛身而相等比，願我得佛無見頂相，及佛
@@ -814,7 +814,7 @@ Added comment  for Emacs
 <pb n="0711c" ed="T" xml:id="T14.0489.0711c"/>
 <lb n="0711c01" ed="T"/>菩薩利樂精進。</p><p xml:id="pT14p0711c0107" rend="inline">「云何是加行精進？此加行者，
 <lb n="0711c02" ed="T"/>譬如有人取摩尼寶，或真金等，磨瑩治鍊去
-<lb n="0711c03" ed="T"/>諸瑕垢，悉使其寶明淨<note n="0711003" resp="Taisho" type="orig" place="foot text">精＝清【三】</note><note n="0711003" resp="CBETA" type="mod">精＝清【宋】【元】【明】</note><app n="0711003"><lem wit="【大】">精</lem><rdg resp="Taisho" wit="【宋】【元】【明】">清</rdg></app>潔光色赫奕。爾時，
+<lb n="0711c03" ed="T"/>諸瑕垢，悉使其寶明淨<note n="0711003" resp="Taisho" type="orig" place="foot text">精＝清【三】</note><note n="0711003" resp="CBETA" type="mod">精【大】，清【宋】【元】【明】</note><app n="0711003"><lem wit="【大】">精</lem><rdg resp="Taisho" wit="【宋】【元】【明】">清</rdg></app>潔光色赫奕。爾時，
 <lb n="0711c04" ed="T"/>方見摩尼真金煥然有異。菩薩亦復如是，於
 <lb n="0711c05" ed="T"/>諸精進中加行修治，使去垢染即離過失。精
 <lb n="0711c06" ed="T"/>進垢者，所謂懈怠是精進垢，沈下是精進垢，
@@ -822,7 +822,7 @@ Added comment  for Emacs
 <lb n="0711c08" ed="T"/>垢，不依正法是精進垢，不深固作意是精進
 <lb n="0711c09" ed="T"/>垢，諸精進中有是垢染乃名過失。是故菩薩
 <lb n="0711c10" ed="T"/>若離此者，即得潔白清淨自性明亮，是為菩
-<lb n="0711c11" ed="T"/>薩<note n="0711004" resp="Taisho" type="orig" place="foot text">加＝如【宋】</note><app n="0711004"><lem wit="【大】">加</lem><rdg resp="Taisho" wit="【宋】">如</rdg></app>行精進。</p><p xml:id="pT14p0711c1106" rend="inline">「云何是相續精進？謂若菩薩於
+<lb n="0711c11" ed="T"/>薩<note n="0711004" resp="Taisho" type="orig" place="foot text">加＝如【宋】</note><note n="0711004" resp="CBETA" type="mod">加【大】，如【宋】</note><app n="0711004"><lem wit="【大】">加</lem><rdg resp="Taisho" wit="【宋】">如</rdg></app>行精進。</p><p xml:id="pT14p0711c1106" rend="inline">「云何是相續精進？謂若菩薩於
 <lb n="0711c12" ed="T"/>諸威儀道中所起精進，隨所起時若身若心
 <lb n="0711c13" ed="T"/>而不懈倦相續無間，是為菩薩相續精進。</p><p xml:id="pT14p0711c1317" rend="inline">「云
 <lb n="0711c14" ed="T"/>何是清淨精進？謂若菩薩即彼所起相續精
@@ -845,14 +845,14 @@ Added comment  for Emacs
 <lb n="0712a01" ed="T"/>中求佛菩提極為難得，我所發精進而甚微
 <lb n="0712a02" ed="T"/>少懈怠劣弱。我若為求菩提，假使頂上然火
 <lb n="0712a03" ed="T"/>經多百千俱胝劫數，如是勤行亦不能成，故
-<lb n="0712a04" ed="T"/>我不能堪忍其苦，亦復不能荷斯重<note n="0712001" resp="Taisho" type="orig" place="foot text">檐＝擔【三】</note><note n="0712001" resp="CBETA" type="mod">檐＝擔【宋】【元】【明】</note><app n="0712001"><lem wit="【大】">檐</lem><rdg resp="Taisho" wit="【宋】【元】【明】">擔</rdg></app>。』菩
+<lb n="0712a04" ed="T"/>我不能堪忍其苦，亦復不能荷斯重<note n="0712001" resp="Taisho" type="orig" place="foot text">檐＝擔【三】</note><note n="0712001" resp="CBETA" type="mod">檐【大】，擔【宋】【元】【明】</note><app n="0712001"><lem wit="【大】">檐</lem><rdg resp="Taisho" wit="【宋】【元】【明】">擔</rdg></app>。』菩
 <lb n="0712a05" ed="T"/>薩應起是心：『所有過去諸佛已成正覺者，現
 <lb n="0712a06" ed="T"/>在諸佛現成正覺者，未來諸佛當成正覺者，
 <lb n="0712a07" ed="T"/>諸佛世尊皆為求菩提故勤行精進。彼彼如
 <lb n="0712a08" ed="T"/>是修諸勝行，而諸佛如來，亦不但為己故求
 <lb n="0712a09" ed="T"/>成正覺。今我亦然，勤行精進成諸勝行，亦不
 <lb n="0712a10" ed="T"/>但為己故，所有善根普與一切有情共之。為
-<lb n="0712a11" ed="T"/>有情故發起<note n="0712002" resp="Taisho" type="orig" place="foot text">情＝精【三】</note><note n="0712002" resp="CBETA" type="mod">情＝精【宋】【元】【明】</note><app n="0712002"><lem wit="【大】">情</lem><rdg resp="Taisho" wit="【宋】【元】【明】">精</rdg></app>進，我所求成阿耨多羅三藐
+<lb n="0712a11" ed="T"/>有情故發起<note n="0712002" resp="Taisho" type="orig" place="foot text">情＝精【三】</note><note n="0712002" resp="CBETA" type="mod">情【大】，精【宋】【元】【明】</note><app n="0712002"><lem wit="【大】">情</lem><rdg resp="Taisho" wit="【宋】【元】【明】">精</rdg></app>進，我所求成阿耨多羅三藐
 <lb n="0712a12" ed="T"/>三菩提果，普為利樂一切有情，亦不自利取
 <lb n="0712a13" ed="T"/>證涅槃，為有情故我寧常處大地獄中，乃為
 <lb n="0712a14" ed="T"/>勝上。』是為菩薩不隨他教精進。</p><p xml:id="pT14p0712a1413" rend="inline">「云何是不高
@@ -867,8 +867,8 @@ Added comment  for Emacs
 <milestone n="4" unit="juan"/>
 <lb n="0712a23" ed="T"/>
 <lb n="0712a24" ed="T"/><cb:juan n="004" fun="open"><cb:mulu n="004" type="卷"/><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第四</cb:jhead></cb:juan>
-<lb n="0712a25" ed="T"/><byline cb:type="Translator"><note n="0712003" resp="Taisho" type="orig" place="foot text">（西天）＋譯經【宋】【元】【宮】，（宋西天）＋譯經【明】</note><app n="0712003"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">西天譯經</rdg><rdg resp="Taisho" wit="【明】">宋西天譯經</rdg></app>三藏朝散大夫試鴻臚少卿
-<lb n="0712a26" ed="T"/><note n="0712004" resp="Taisho" type="orig" place="foot text">光梵＝傳梵【明】＊</note><app n="0712004"><lem wit="【大】">光梵</lem><rdg resp="Taisho" wit="【明】">傳梵</rdg></app>大師賜<anchor xml:id="fxT14p0712a01"/>紫沙門臣惟淨<note n="0712005" resp="Taisho" type="orig" place="foot text">〔等〕－【明】</note><app n="0712005"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>
+<lb n="0712a25" ed="T"/><byline cb:type="Translator"><note n="0712003" resp="Taisho" type="orig" place="foot text">（西天）＋譯經【宋】【元】【宮】，（宋西天）＋譯經【明】</note><note n="0712003" resp="CBETA" type="mod">譯經【大】，西天譯經【宋】【元】【宮】，宋西天譯經【明】</note><app n="0712003"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">西天譯經</rdg><rdg resp="Taisho" wit="【明】">宋西天譯經</rdg></app>三藏朝散大夫試鴻臚少卿
+<lb n="0712a26" ed="T"/><note n="0712004" resp="Taisho" type="orig" place="foot text">光梵＝傳梵【明】＊</note><note n="0712004" resp="CBETA" type="mod">光梵【大】＊，傳梵【明】＊</note><app n="0712004"><lem wit="【大】">光梵</lem><rdg resp="Taisho" wit="【明】">傳梵</rdg></app>大師賜<anchor xml:id="fxT14p0712a01"/>紫沙門臣惟淨<note n="0712005" resp="Taisho" type="orig" place="foot text">〔等〕－【明】</note><note n="0712005" resp="CBETA" type="mod">等【大】，〔－〕【明】</note><app n="0712005"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>
 <lb n="0712a27" ed="T"/>奉　詔譯</byline>
 <lb n="0712a28" ed="T"/><p xml:id="pT14p0712a2801">「復次，善男子！菩薩若修十種法者，即得禪定
 <lb n="0712a29" ed="T"/>具足。何等為十？一者、廣集福德；二者、多生厭
@@ -887,7 +887,7 @@ Added comment  for Emacs
 <lb n="0712b12" ed="T"/>癡暗所覆，彼等皆由貪欲為因、貪欲為緣。』了
 <lb n="0712b13" ed="T"/>此因緣，是為菩薩廣集福德。</p><p xml:id="pT14p0712b1312" rend="inline">「云何是多生厭
 <lb n="0712b14" ed="T"/>患？謂若菩薩以是緣故，乃起思惟：『我今不應
-<lb n="0712b15" ed="T"/>於此世間合<app><lem resp="CBETA.maha" wit="【CBETA】【麗】">會<note type="cf1">K40n1476_p0903b22</note></lem><rdg wit="【大】">曾</rdg></app>相中，染著親近諸欲境界，而
+<lb n="0712b15" ed="T"/>於此世間合<note n="0712b1501" resp="CBETA" type="add">會【CB】【麗-CB】，曾【大】</note><app n="0712b1501"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">會<note type="cf1">K40n1476_p0903b22</note></lem><rdg wit="【大】">曾</rdg></app>相中，染著親近諸欲境界，而
 <lb n="0712b16" ed="T"/>諸欲者虛妄分別。如世尊言：「常以多種因緣
 <lb n="0712b17" ed="T"/>毀呰貪欲，所謂欲如利叉，欲如利戟，欲如
 <lb n="0712b18" ed="T"/>劍鋒，欲如刀鋒，欲如毒蛇，欲如聚沫，欲如
@@ -921,8 +921,8 @@ Added comment  for Emacs
 <lb n="0712c15" ed="T"/>心，由染著故於一切處不生慚愧。何者是無
 <lb n="0712c16" ed="T"/>慚？謂獨止一處作是思惟，而起尋求諸所欲
 <lb n="0712c17" ed="T"/>事，稱讚欲境自現有德，是為無慚。何者是
-<lb n="0712c18" ed="T"/>無愧？由彼貪欲因緣，於父母等前違背<note n="0712006" resp="Taisho" type="orig" place="foot text">很＝狠【明】</note><app n="0712006"><lem wit="【大】">很</lem><rdg resp="Taisho" wit="【明】">狠</rdg></app>
-<lb n="0712c19" ed="T"/>戾及生惱害，於餘師尊之所亦無恥<note n="0712007" resp="Taisho" type="orig" place="foot text">忸＝愧【宋】</note><app n="0712007"><lem wit="【大】">忸</lem><rdg resp="Taisho" wit="【宋】">愧</rdg></app>，自
+<lb n="0712c18" ed="T"/>無愧？由彼貪欲因緣，於父母等前違背<note n="0712006" resp="Taisho" type="orig" place="foot text">很＝狠【明】</note><note n="0712006" resp="CBETA" type="mod">很【大】，狠【明】</note><app n="0712006"><lem wit="【大】">很</lem><rdg resp="Taisho" wit="【明】">狠</rdg></app>
+<lb n="0712c19" ed="T"/>戾及生惱害，於餘師尊之所亦無恥<note n="0712007" resp="Taisho" type="orig" place="foot text">忸＝愧【宋】</note><note n="0712007" resp="CBETA" type="mod">忸【大】，愧【宋】</note><app n="0712007"><lem wit="【大】">忸</lem><rdg resp="Taisho" wit="【宋】">愧</rdg></app>，自
 <lb n="0712c20" ed="T"/>現有德，是為無愧。以是因緣，命終之後墮惡
 <lb n="0712c21" ed="T"/>趣中，此名上品貪。中品貪者，謂若親近諸欲
 <lb n="0712c22" ed="T"/>境時，自初至末雖復暫有所成，旋起離貪
@@ -974,8 +974,8 @@ Added comment  for Emacs
 <lb n="0713b08" ed="T"/>伺有所著心，即能成就無尋無伺定生喜樂
 <lb n="0713b09" ed="T"/>二禪定法。次復於樂觀苦，作苦觀已，即得捨
 <lb n="0713b10" ed="T"/>行捨念行成，如聖所觀，能正覺了妙樂現前，
-<lb n="0713b11" ed="T"/>即能成就離喜妙樂<note n="0713001" resp="Taisho" type="orig" place="foot text">三禪＝二禪【宋】</note><app n="0713001"><lem wit="【大】">三禪</lem><rdg resp="Taisho" wit="【宋】">二禪</rdg></app>定法。次復於三禪
-<lb n="0713b12" ed="T"/>定中，作<note n="0713002" resp="Taisho" type="orig" place="foot text">空觀＝觀空【明】</note><app n="0713002"><lem wit="【大】">空觀</lem><rdg resp="Taisho" wit="【明】">觀空</rdg></app>已引四禪心。彼四禪中除去我
+<lb n="0713b11" ed="T"/>即能成就離喜妙樂<note n="0713001" resp="Taisho" type="orig" place="foot text">三禪＝二禪【宋】</note><note n="0713001" resp="CBETA" type="mod">三禪【大】，二禪【宋】</note><app n="0713001"><lem wit="【大】">三禪</lem><rdg resp="Taisho" wit="【宋】">二禪</rdg></app>定法。次復於三禪
+<lb n="0713b12" ed="T"/>定中，作<note n="0713002" resp="Taisho" type="orig" place="foot text">空觀＝觀空【明】</note><note n="0713002" resp="CBETA" type="mod">空觀【大】，觀空【明】</note><app n="0713002"><lem wit="【大】">空觀</lem><rdg resp="Taisho" wit="【明】">觀空</rdg></app>已引四禪心。彼四禪中除去我
 <lb n="0713b13" ed="T"/>執，我執離故苦樂悉斷，苦樂斷故如先所起
 <lb n="0713b14" ed="T"/>悅意惱意亦悉捨離，即能成就捨念清淨四
 <lb n="0713b15" ed="T"/>禪定法。</p><p xml:id="pT14p0713b1504" rend="inline">「次復於自身相與虛空相等作一解
@@ -1034,7 +1034,7 @@ Added comment  for Emacs
 <lb n="0714a08" ed="T"/>作是伺察：『今此世間合會之相，無明暗蔽輪
 <lb n="0714a09" ed="T"/>迴相續，皆由愛繩所繫縛故。愛故生取，由取
 <lb n="0714a10" ed="T"/>因故，善不善業諸行造作，以彼善不善業行
-<lb n="0714a11" ed="T"/>起作故，有有相續，有故有生，生故<note n="0714001" resp="Taisho" type="orig" place="foot text">老＝者【宮】</note><app n="0714001"><lem wit="【大】">老</lem><rdg resp="Taisho" wit="【宮】">者</rdg></app>死，由
+<lb n="0714a11" ed="T"/>起作故，有有相續，有故有生，生故<note n="0714001" resp="Taisho" type="orig" place="foot text">老＝者【宮】</note><note n="0714001" resp="CBETA" type="mod">老【大】，者【宮】</note><app n="0714001"><lem wit="【大】">老</lem><rdg resp="Taisho" wit="【宮】">者</rdg></app>死，由
 <lb n="0714a12" ed="T"/>死法故，憂悲苦惱隨起纏縛，如是即一大苦蘊
 <lb n="0714a13" ed="T"/>集。而生死輪相續流轉，猶汲水輪宛轉上下。』
 <lb n="0714a14" ed="T"/>菩薩以其正慧於此等法如實了知，是為菩
@@ -1125,7 +1125,7 @@ Added comment  for Emacs
 <lb n="0715a08" ed="T"/>
 <lb n="0715a09" ed="T"/><cb:juan n="005" fun="open"><cb:mulu n="005" type="卷"/><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第五</cb:jhead></cb:juan>
 <lb n="0715a10" ed="T"/>
-<lb n="0715a11" ed="T"/><byline cb:type="Translator"><note n="0715001" resp="Taisho" type="orig" place="foot text">譯經＝宋【明】＊</note><note n="0715001" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->譯經＝宋【明】＊</note><app n="0715001"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【明】">宋</rdg></app>三藏朝散大夫試鴻臚少卿
+<lb n="0715a11" ed="T"/><byline cb:type="Translator"><note n="0715001" resp="Taisho" type="orig" place="foot text">譯經＝宋【明】＊</note><note n="0715001" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->譯經【大】＊，宋【明】＊</note><app n="0715001"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【明】">宋</rdg></app>三藏朝散大夫試鴻臚少卿
 <lb n="0715a12" ed="T"/><anchor xml:id="fxT14p0715a01"/>光梵大師<anchor xml:id="fxT14p0715a02"/>賜紫沙門臣惟淨等
 <lb n="0715a13" ed="T"/>奉　詔譯</byline>
 <lb n="0715a14" ed="T"/><p xml:id="pT14p0715a1401">「復次，善男子！云何是善迴外道諸見方便？謂
@@ -1134,12 +1134,12 @@ Added comment  for Emacs
 <lb n="0715a17" ed="T"/>緣故。菩薩作是思惟：『此等外道我慢貢高，我
 <lb n="0715a18" ed="T"/>今不應先行師教，要先恭事現為弟子，然後
 <lb n="0715a19" ed="T"/>使其調伏。』於彼法中而求出家，如其所行策
-<lb n="0715a20" ed="T"/>勤修學，隨諸外道種種法式，多聞<note n="0715002" resp="Taisho" type="orig" place="foot text">苦＝若【明】</note><app n="0715002"><lem wit="【大】">苦</lem><rdg resp="Taisho" wit="【明】">若</rdg></app>行咸悉
+<lb n="0715a20" ed="T"/>勤修學，隨諸外道種種法式，多聞<note n="0715002" resp="Taisho" type="orig" place="foot text">苦＝若【明】</note><note n="0715002" resp="CBETA" type="mod">苦【大】，若【明】</note><app n="0715002"><lem wit="【大】">苦</lem><rdg resp="Taisho" wit="【明】">若</rdg></app>行咸悉
 <lb n="0715a21" ed="T"/>究盡而復過勝。彼眾推許，有所言說悉皆聽
 <lb n="0715a22" ed="T"/>受，如奉師尊不相違戾。由得親近諸外道故，
 <lb n="0715a23" ed="T"/>乃呵毀言：『諸仁者！汝此所修非出離道，亦非
 <lb n="0715a24" ed="T"/>離欲，又非寂滅。』由是漸能使彼調伏，而令安
-<lb n="0715a25" ed="T"/>住如來法中。<choice cb:resp="CBETA.maha"><corr>又</corr><sic>文</sic></choice>復於彼具五神通諸外道所
+<lb n="0715a25" ed="T"/>住如來法中。<note n="0715a2501" resp="CBETA" type="add">又【CB】，文【大】</note><app n="0715a2501"><lem wit="【CB】" resp="CBETA.maha">又</lem><rdg wit="【大】">文</rdg></app>復於彼具五神通諸外道所
 <lb n="0715a26" ed="T"/>學修梵行，隨其所修而復勤行，令得彼法隨
 <lb n="0715a27" ed="T"/>能成辦，外道所修禪定之法，即能勝過彼諸
 <lb n="0715a28" ed="T"/>外道，勤勇進修難行之行，於外道中智者共
@@ -1159,16 +1159,16 @@ Added comment  for Emacs
 <lb n="0715b12" ed="T"/>何是善除疑悔方便？謂若菩薩或見有人造
 <lb n="0715b13" ed="T"/>五無間業，或諸不善業，即詣其所而語之言：
 <lb n="0715b14" ed="T"/>『汝今何故愁不悅意？』是人答言：『善男子！我造
-<lb n="0715b15" ed="T"/>五無間業，以<note n="0715003" resp="Taisho" type="orig" place="foot text">是＝因【三】</note><note n="0715003" resp="CBETA" type="mod">是＝因【宋】【元】【明】</note><app n="0715003"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【宋】【元】【明】">因</rdg></app>緣故，愁不<note n="0715004" resp="Taisho" type="orig" place="foot text">悅＝說【宮】</note><app n="0715004"><lem wit="【大】">悅</lem><rdg resp="Taisho" wit="【宮】">說</rdg></app>意，將非我於
-<lb n="0715b16" ed="T"/>長夜之中，無有<note n="0715005" resp="Taisho" type="orig" place="foot text">利＝快【三】</note><note n="0715005" resp="CBETA" type="mod">利＝快【宋】【元】【明】</note><app n="0715005"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【宋】【元】【明】">快</rdg></app>樂極大苦惱。』菩薩乃為其
+<lb n="0715b15" ed="T"/>五無間業，以<note n="0715003" resp="Taisho" type="orig" place="foot text">是＝因【三】</note><note n="0715003" resp="CBETA" type="mod">是【大】，因【宋】【元】【明】</note><app n="0715003"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【宋】【元】【明】">因</rdg></app>緣故，愁不<note n="0715004" resp="Taisho" type="orig" place="foot text">悅＝說【宮】</note><note n="0715004" resp="CBETA" type="mod">悅【大】，說【宮】</note><app n="0715004"><lem wit="【大】">悅</lem><rdg resp="Taisho" wit="【宮】">說</rdg></app>意，將非我於
+<lb n="0715b16" ed="T"/>長夜之中，無有<note n="0715005" resp="Taisho" type="orig" place="foot text">利＝快【三】</note><note n="0715005" resp="CBETA" type="mod">利【大】，快【宋】【元】【明】</note><app n="0715005"><lem wit="【大】">利</lem><rdg resp="Taisho" wit="【宋】【元】【明】">快</rdg></app>樂極大苦惱。』菩薩乃為其
 <lb n="0715b17" ed="T"/>人說戒懺悔，又復如應說甚深法。是人未能
-<lb n="0715b18" ed="T"/>捨疑悔<note n="0715006" resp="Taisho" type="orig" place="foot text">心＝罪【三】</note><note n="0715006" resp="CBETA" type="mod">心＝罪【宋】【元】【明】</note><app n="0715006"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【宋】【元】【明】">罪</rdg></app>，菩薩<note n="0715007" resp="Taisho" type="orig" place="foot text">即＝若【三】</note><note n="0715007" resp="CBETA" type="mod">即＝若【宋】【元】【明】</note><app n="0715007"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【宋】【元】【明】">若</rdg></app>現神通，適其心念使令
+<lb n="0715b18" ed="T"/>捨疑悔<note n="0715006" resp="Taisho" type="orig" place="foot text">心＝罪【三】</note><note n="0715006" resp="CBETA" type="mod">心【大】，罪【宋】【元】【明】</note><app n="0715006"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【宋】【元】【明】">罪</rdg></app>，菩薩<note n="0715007" resp="Taisho" type="orig" place="foot text">即＝若【三】</note><note n="0715007" resp="CBETA" type="mod">即【大】，若【宋】【元】【明】</note><app n="0715007"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【宋】【元】【明】">若</rdg></app>現神通，適其心念使令
 <lb n="0715b19" ed="T"/>生信。是人即時於菩薩所，乃起信心清淨歡
 <lb n="0715b20" ed="T"/>喜，由喜心故堪任受法，菩薩引之令入正道。
 <lb n="0715b21" ed="T"/>於其人前，化現父母而加殺害，謂其人言：『我
 <lb n="0715b22" ed="T"/>今與汝同造斯罪，勿生疑悔。』作是語已，復現
-<lb n="0715b23" ed="T"/>神通。是人念言：『菩薩<note n="0715008" resp="Taisho" type="orig" place="foot text">具＝所【三】</note><note n="0715008" resp="CBETA" type="mod">具＝所【宋】【元】【明】</note><app n="0715008"><lem wit="【大】">具</lem><rdg resp="Taisho" wit="【宋】【元】【明】">所</rdg></app>有神通智慧，猶害父
-<lb n="0715b24" ed="T"/>母，況復我邪？』爾時，<note n="0715009" resp="Taisho" type="orig" place="foot text">乃為＝乃如【宋】【元】，為如【明】</note><note n="0715009" resp="CBETA" type="mod">乃為＝乃如【宋】【元】，＝為如【明】</note><app n="0715009"><lem wit="【大】">乃為</lem><rdg resp="Taisho" wit="【宋】【元】">乃如</rdg><rdg resp="Taisho" wit="【明】">為如</rdg></app>是人說種種法，使
+<lb n="0715b23" ed="T"/>神通。是人念言：『菩薩<note n="0715008" resp="Taisho" type="orig" place="foot text">具＝所【三】</note><note n="0715008" resp="CBETA" type="mod">具【大】，所【宋】【元】【明】</note><app n="0715008"><lem wit="【大】">具</lem><rdg resp="Taisho" wit="【宋】【元】【明】">所</rdg></app>有神通智慧，猶害父
+<lb n="0715b24" ed="T"/>母，況復我邪？』爾時，<note n="0715009" resp="Taisho" type="orig" place="foot text">乃為＝乃如【宋】【元】，為如【明】</note><note n="0715009" resp="CBETA" type="mod">乃為【大】，乃如【宋】【元】，為如【明】</note><app n="0715009"><lem wit="【大】">乃為</lem><rdg resp="Taisho" wit="【宋】【元】">乃如</rdg><rdg resp="Taisho" wit="【明】">為如</rdg></app>是人說種種法，使
 <lb n="0715b25" ed="T"/>其罪業而得輕微猶如蚊翅，是為菩薩善除
 <lb n="0715b26" ed="T"/>疑悔方便。</p><p xml:id="pT14p0715b2605" rend="inline">「云何是善知救度有情方便？謂若
 <lb n="0715b27" ed="T"/>菩薩或見有人堪任受法，然以是人造極惡
@@ -1186,7 +1186,7 @@ Added comment  for Emacs
 <lb n="0715c09" ed="T"/>等，後於其前作諸化現，乃至或現地獄等相。
 <lb n="0715c10" ed="T"/>又復諸有未得神通菩薩壽量色相，菩薩悉
 <lb n="0715c11" ed="T"/>知，又諸有情欲成欲壞，菩薩起大悲心悉能
-<lb n="0715c12" ed="T"/>思念。此有情欲壞，此有情已壞，菩薩一<note n="0715010" resp="Taisho" type="orig" place="foot text">心＝一【三】【宮】</note><note n="0715010" resp="CBETA" type="mod">心＝一【宋】【元】【明】【宮】</note><app n="0715010"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">一</rdg></app>
+<lb n="0715c12" ed="T"/>思念。此有情欲壞，此有情已壞，菩薩一<note n="0715010" resp="Taisho" type="orig" place="foot text">心＝一【三】【宮】</note><note n="0715010" resp="CBETA" type="mod">心【大】，一【宋】【元】【明】【宮】</note><app n="0715010"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">一</rdg></app>
 <lb n="0715c13" ed="T"/>如實了知，如觀掌中菴摩勒果。菩薩起厭離
 <lb n="0715c14" ed="T"/>心，作是思惟：『若一有情造惡業已，將墮阿鼻
 <lb n="0715c15" ed="T"/>大地獄中。彼之定業，我復無異方便能為救
@@ -1266,7 +1266,7 @@ Added comment  for Emacs
 <lb n="0716b29" ed="T"/>言：『普觀十方一切世界，諸菩薩眾現修苦行
 <pb n="0716c" ed="T" xml:id="T14.0489.0716c"/>
 <lb n="0716c01" ed="T"/>者，現坐菩提場成等正覺轉法輪者，願諸菩
-<lb n="0716c02" ed="T"/>薩觀照我心乃至說法度脫，<note n="0716001" resp="Taisho" type="orig" place="foot text">得＝戈【宋】</note><app n="0716001"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【宋】">戈</rdg></app>度脫已我悉
+<lb n="0716c02" ed="T"/>薩觀照我心乃至說法度脫，<note n="0716001" resp="Taisho" type="orig" place="foot text">得＝戈【宋】</note><note n="0716001" resp="CBETA" type="mod">得【大】，戈【宋】</note><app n="0716001"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【宋】">戈</rdg></app>度脫已我悉
 <lb n="0716c03" ed="T"/>隨喜。以是隨喜善根，迴向阿耨多羅三藐三
 <lb n="0716c04" ed="T"/>菩提。』是為菩薩無邊發願。</p><p xml:id="pT14p0716c0411" rend="inline">「云何是不恐怖發
 <lb n="0716c05" ed="T"/>願？謂若菩薩從初發心聞甚深法，或聞諸佛
@@ -1280,7 +1280,7 @@ Added comment  for Emacs
 <lb n="0716c13" ed="T"/>捨心欲生淨土：『我不願聞此等有情諸惡名
 <lb n="0716c14" ed="T"/>字。』菩薩雖以此緣，不應棄捨利有情事。何以
 <lb n="0716c15" ed="T"/>故？菩薩具悲智故，起如是心：『遍有情界中，諸
-<lb n="0716c16" ed="T"/>有少智起劣精進，癡盲<note n="0716002" resp="Taisho" type="orig" place="foot text">瘖＝瘂【宮】</note><app n="0716002"><lem wit="【大】">瘖</lem><rdg resp="Taisho" wit="【宮】">瘂</rdg></app>啞無涅槃分者，悉
+<lb n="0716c16" ed="T"/>有少智起劣精進，癡盲<note n="0716002" resp="Taisho" type="orig" place="foot text">瘖＝瘂【宮】</note><note n="0716002" resp="CBETA" type="mod">瘖【大】，瘂【宮】</note><app n="0716002"><lem wit="【大】">瘖</lem><rdg resp="Taisho" wit="【宮】">瘂</rdg></app>啞無涅槃分者，悉
 <lb n="0716c17" ed="T"/>為諸佛菩薩呵毀棄捨，斯等有情普願於我
 <lb n="0716c18" ed="T"/>剎中，悉令發起阿耨多羅三藐三菩提心，乃
 <lb n="0716c19" ed="T"/>至坐菩提場成等正覺。』菩薩發是心時，一切
@@ -1420,7 +1420,7 @@ Added comment  for Emacs
 <lb n="0718b02" ed="T"/>饒益無忻，平等利樂，於一切處不生忻戚，是
 <lb n="0718b03" ed="T"/>為菩薩遠離損惱饒益等育有情。</p><p xml:id="pT14p0718b0314" rend="inline">「云何是普
 <lb n="0718b04" ed="T"/>能容受大法雲雨？譬如大地大雲含潤一切
-<lb n="0718b05" ed="T"/>悉能容受<note n="0718001" resp="Taisho" type="orig" place="foot text">任＝住【宋】</note><app n="0718001"><lem wit="【大】">任</lem><rdg resp="Taisho" wit="【宋】">住</rdg></app>持，菩薩亦復如是，如來興大
+<lb n="0718b05" ed="T"/>悉能容受<note n="0718001" resp="Taisho" type="orig" place="foot text">任＝住【宋】</note><note n="0718001" resp="CBETA" type="mod">任【大】，住【宋】</note><app n="0718001"><lem wit="【大】">任</lem><rdg resp="Taisho" wit="【宋】">住</rdg></app>持，菩薩亦復如是，如來興大
 <lb n="0718b06" ed="T"/>密雲注大法雨，如其所說悉能容受亦悉任
 <lb n="0718b07" ed="T"/>持，是為菩薩普能容受大法雲雨。</p><p xml:id="pT14p0718b0714" rend="inline">「云何是為
 <lb n="0718b08" ed="T"/>諸有情共所依止？譬如大地一切有情，若行
@@ -1496,7 +1496,7 @@ Added comment  for Emacs
 <lb n="0719a18" ed="T"/>是，普為一切麁惡心者，悉令發起柔軟之心，
 <lb n="0719a19" ed="T"/>乃以勝慧所依定愛之水，流潤一切有情息
 <lb n="0719a20" ed="T"/>諸塵坌，是為菩薩息諸煩惱塵坌。善男子！菩
-<lb n="0719a21" ed="T"/>薩若修如是十種法者，即得<note n="0719001" resp="Taisho" type="orig" place="foot text">如＝法【明】</note><app n="0719001"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【明】">法</rdg></app>水。</p><p xml:id="pT14p0719a2114" rend="inline">「又，善男子！
+<lb n="0719a21" ed="T"/>薩若修如是十種法者，即得<note n="0719001" resp="Taisho" type="orig" place="foot text">如＝法【明】</note><note n="0719001" resp="CBETA" type="mod">如【大】，法【明】</note><app n="0719001"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【明】">法</rdg></app>水。</p><p xml:id="pT14p0719a2114" rend="inline">「又，善男子！
 <lb n="0719a22" ed="T"/>菩薩若修十種法者，即得如火。何等為十？一
 <lb n="0719a23" ed="T"/>者、能燒煩惱之薪；二者、成熟佛法；三者、能乾
 <lb n="0719a24" ed="T"/>一切煩惱淤泥；四者、如大火聚；五者、作光明
@@ -1546,7 +1546,7 @@ Added comment  for Emacs
 <lb n="0719c08" ed="T"/>想，是為菩薩人所供養。</p><p xml:id="pT14p0719c0810" rend="inline">「云何是人不輕慢？如
 <lb n="0719c09" ed="T"/>微小火人不敢輕。何以故？以能燒故。菩薩亦
 <lb n="0719c10" ed="T"/>復如是，若信解行住，菩薩於大乘中，初始發
-<lb n="0719c11" ed="T"/>心雖未具力，<note n="0719002" resp="Taisho" type="orig" place="foot text">能＋（令）【元】【明】【宮】</note><app n="0719002"><lem wit="【大】">能</lem><rdg resp="Taisho" wit="【元】【明】【宮】">能令</rdg></app>世間天人、阿修羅等不敢輕
+<lb n="0719c11" ed="T"/>心雖未具力，<note n="0719002" resp="Taisho" type="orig" place="foot text">能＋（令）【元】【明】【宮】</note><note n="0719002" resp="CBETA" type="mod">能【大】，能令【元】【明】【宮】</note><app n="0719002"><lem wit="【大】">能</lem><rdg resp="Taisho" wit="【元】【明】【宮】">能令</rdg></app>世間天人、阿修羅等不敢輕
 <lb n="0719c12" ed="T"/>慢。何以故？是諸天、人、阿修羅等，知彼菩薩
 <lb n="0719c13" ed="T"/>不久當坐道場證阿耨多羅三藐三菩提果，
 <lb n="0719c14" ed="T"/>是為菩薩人不輕慢。善男子！菩薩若修如是
@@ -1570,8 +1570,8 @@ Added comment  for Emacs
 <milestone n="7" unit="juan"/>
 <lb n="0720a02" ed="T"/>
 <lb n="0720a03" ed="T"/><cb:juan n="007" fun="open"><cb:mulu n="007" type="卷"/><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第七</cb:jhead></cb:juan>
-<lb n="0720a04" ed="T"/><byline cb:type="Translator"><note n="0720001" resp="Taisho" type="orig" place="foot text">西天譯經＝宋西天【明】＊</note><app n="0720001"><lem wit="【大】">西天譯經</lem><rdg resp="Taisho" wit="【明】">宋西天</rdg></app>三藏朝散大夫試鴻臚
-<lb n="0720a05" ed="T"/><note n="0720002" resp="Taisho" type="orig" place="foot text">（少）＋卿【明】＊</note><app n="0720002"><lem wit="【大】">卿</lem><rdg resp="Taisho" wit="【明】">少卿</rdg></app>傳梵大師<anchor xml:id="fxT14p0720a01"/>賜紫沙門臣法護
+<lb n="0720a04" ed="T"/><byline cb:type="Translator"><note n="0720001" resp="Taisho" type="orig" place="foot text">西天譯經＝宋西天【明】＊</note><note n="0720001" resp="CBETA" type="mod">西天譯經【大】＊，宋西天【明】＊</note><app n="0720001"><lem wit="【大】">西天譯經</lem><rdg resp="Taisho" wit="【明】">宋西天</rdg></app>三藏朝散大夫試鴻臚
+<lb n="0720a05" ed="T"/><note n="0720002" resp="Taisho" type="orig" place="foot text">（少）＋卿【明】＊</note><note n="0720002" resp="CBETA" type="mod">卿【大】＊，少卿【明】＊</note><app n="0720002"><lem wit="【大】">卿</lem><rdg resp="Taisho" wit="【明】">少卿</rdg></app>傳梵大師<anchor xml:id="fxT14p0720a01"/>賜紫沙門臣法護
 <lb n="0720a06" ed="T"/>等奉　詔譯</byline>
 <lb n="0720a07" ed="T"/><p xml:id="pT14p0720a0701">「復次，善男子！云何是菩薩如風無礙而行？善
 <lb n="0720a08" ed="T"/>男子！如世間風於一切處無依無著，亦無色
@@ -1589,7 +1589,7 @@ Added comment  for Emacs
 <lb n="0720a20" ed="T"/>住著故，若有性若無性，若一性若異性，真如
 <lb n="0720a21" ed="T"/>性等，雖無數心意而無種異，及無造作復無
 <lb n="0720a22" ed="T"/>所緣，悉是無障解脫境界。是故梵王帝釋護
-<lb n="0720a23" ed="T"/>世天等如理而作，十方<note n="0720003" resp="Taisho" type="orig" place="foot text">〔無〕－【三】【宮】</note><note n="0720003" resp="CBETA" type="mod">〔無〕－【宋】【元】【明】【宮】</note><app n="0720003"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>邊際諸世界中，一
+<lb n="0720a23" ed="T"/>世天等如理而作，十方<note n="0720003" resp="Taisho" type="orig" place="foot text">〔無〕－【三】【宮】</note><note n="0720003" resp="CBETA" type="mod">無【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0720003"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>邊際諸世界中，一
 <lb n="0720a24" ed="T"/>切有情及有情事悉令獲得，於一切處皆成
 <lb n="0720a25" ed="T"/>辦已，乃至最後邊際劫中隱而不現，而法身
 <lb n="0720a26" ed="T"/>者不可分別非不可分別，是為菩薩如風無
@@ -1625,7 +1625,7 @@ Added comment  for Emacs
 <lb n="0720b26" ed="T"/>有情悉成正行壞滅邪行，雨大法雨眾莊嚴
 <lb n="0720b27" ed="T"/>具而為莊嚴，建立一切世界最上喜悅，令諸
 <lb n="0720b28" ed="T"/>天人悉置最上喜樂之處，所有一切世出世
-<lb n="0720b29" ed="T"/>間善法種子藥草叢林而悉種<note n="0720004" resp="Taisho" type="orig" place="foot text">殖＝植【明】</note><app n="0720004"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【明】">植</rdg></app>，一切吉祥
+<lb n="0720b29" ed="T"/>間善法種子藥草叢林而悉種<note n="0720004" resp="Taisho" type="orig" place="foot text">殖＝植【明】</note><note n="0720004" resp="CBETA" type="mod">殖【大】，植【明】</note><app n="0720004"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【明】">植</rdg></app>，一切吉祥
 <pb n="0720c" ed="T" xml:id="T14.0489.0720c"/>
 <lb n="0720c01" ed="T"/>時分授法灌頂，是為菩薩吹布大法雲雨。</p><p xml:id="pT14p0720c0117" rend="inline">「云
 <lb n="0720c02" ed="T"/>何是菩薩息除一切世間煩惱炎熾？如世間
@@ -1802,7 +1802,7 @@ Added comment  for Emacs
 <lb n="0722b23" ed="T"/>攝諸有情；八者、善了諸迴向法；九者、善巧方
 <lb n="0722b24" ed="T"/>便成諸有情增上所行；十者、開示上乘出離
 <lb n="0722b25" ed="T"/>之道；十一者、於大乘法而不退轉；十二者、表
-<lb n="0722b26" ed="T"/>示生死及涅槃門；十三者、於諸典章不<note n="0722001" resp="Taisho" type="orig" place="foot text">減＝滅【三】【宮】</note><note n="0722001" resp="CBETA" type="mod">減＝滅【宋】【元】【明】【宮】</note><app n="0722001"><lem wit="【大】">減</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">滅</rdg></app>文
+<lb n="0722b26" ed="T"/>示生死及涅槃門；十三者、於諸典章不<note n="0722001" resp="Taisho" type="orig" place="foot text">減＝滅【三】【宮】</note><note n="0722001" resp="CBETA" type="mod">減【大】，滅【宋】【元】【明】【宮】</note><app n="0722001"><lem wit="【大】">減</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">滅</rdg></app>文
 <lb n="0722b27" ed="T"/>句；十四者、所作行中智為先導；十五者、於諸
 <lb n="0722b28" ed="T"/>生中離眾過失；十六者、於身口意具十善業；
 <lb n="0722b29" ed="T"/>十七者、堪忍諸苦不捨一切有情；十八者、一
@@ -1848,7 +1848,7 @@ Added comment  for Emacs
 <lb n="0723a08" ed="T"/>轉。何等三十二相？所謂一者、一切法無我，而
 <lb n="0723a09" ed="T"/>諸有情於無我理不能信解，是故如來為諸
 <lb n="0723a10" ed="T"/>有情發起大悲；二者、一切法無有情，而諸有
-<lb n="0723a11" ed="T"/>情執以為有，<note n="0723001" resp="Taisho" type="orig" place="foot text">〔是故如來…如來發起〕三百二十二字－【三】【宮】</note><note n="0723001" resp="CBETA" type="mod">〔是故如來…如來發起〕三百二十二字－【宋】【元】【明】【宮】</note><app n="0723001" cb:word-count="322"><lem wit="【大】">是故如來發起大悲；三者、一切
+<lb n="0723a11" ed="T"/>情執以為有，<note n="0723001" resp="Taisho" type="orig" place="foot text">〔是故如來…如來發起〕三百二十二字－【三】【宮】</note><note n="0723001" resp="CBETA" type="mod">（是故如來…如來發起）三百二十二字【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0723001" cb:word-count="322"><lem wit="【大】">是故如來發起大悲；三者、一切
 <lb n="0723a12" ed="T"/>法無壽者，而諸有情執以為有，是故如來發
 <lb n="0723a13" ed="T"/>起大悲；四者、一切法無補特伽羅，而諸有情
 <lb n="0723a14" ed="T"/>生其取著，是故如來發起大悲；五者、一切
@@ -1868,7 +1868,7 @@ Added comment  for Emacs
 <lb n="0723a28" ed="T"/>貪，而諸有情生其貪愛，是故如來發起大悲；
 <lb n="0723a29" ed="T"/>十五者、一切法離瞋。而諸有情生其瞋恚，是
 <pb n="0723b" ed="T" xml:id="T14.0489.0723b"/>
-<lb n="0723b01" ed="T"/>故如來發起</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app><note n="0723002" resp="Taisho" type="orig" place="foot text">大悲＋（元少十三法）夾註【三】</note><note n="0723002" resp="CBETA" type="mod">大悲＋（元少十三法）夾註【宋】【元】【明】</note><app n="0723002"><lem wit="【大】">大悲</lem><rdg resp="Taisho" wit="【宋】【元】【明】">大悲<note place="inline">元少十三法</note></rdg></app>；十六者、一切法離癡，而諸
+<lb n="0723b01" ed="T"/>故如來發起</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app><note n="0723002" resp="Taisho" type="orig" place="foot text">大悲＋（元少十三法）夾註【三】</note><note n="0723002" resp="CBETA" type="mod">大悲【大】，大悲(元少十三法)【宋】【元】【明】</note><app n="0723002"><lem wit="【大】">大悲</lem><rdg resp="Taisho" wit="【宋】【元】【明】">大悲<note place="inline">元少十三法</note></rdg></app>；十六者、一切法離癡，而諸
 <lb n="0723b02" ed="T"/>有情起於愚癡，是故如來發起大悲；十七者、
 <lb n="0723b03" ed="T"/>一切法無來，而諸有情取著諸趣，是故如來
 <lb n="0723b04" ed="T"/>發起大悲；十八者、一切法無去，而諸有情著
@@ -1926,13 +1926,13 @@ Added comment  for Emacs
 <lb n="0723c26" ed="T"/>邊陀羅尼風輪亦復如是，悉能任持一切正
 <lb n="0723c27" ed="T"/>等正覺之雲，流注廣大無礙法雨，於一切世
 <lb n="0723c28" ed="T"/>界悉能成辦佛功德法，如其所說須彌山等
-<lb n="0723c29" ed="T"/>世<note n="0723003" resp="Taisho" type="orig" place="foot text">〔間差別…聲聞果〕三百二十三字－【三】【宮】</note><note n="0723003a" resp="CBETA" type="mod">〔間差別…法雨〕九十七字－【宋】【元】【明】【宮】</note><app n="0723003a" cb:word-count="97"><lem wit="【大】">間差別之相，即是百福勝相、十地、十波羅
+<lb n="0723c29" ed="T"/>世<note n="0723003" resp="Taisho" type="orig" place="foot text">〔間差別…聲聞果〕三百二十三字－【三】【宮】</note><note n="0723003a" resp="CBETA" type="mod">（間差別…法雨）九十七字【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0723003a" cb:word-count="97"><lem wit="【大】">間差別之相，即是百福勝相、十地、十波羅
 <pb n="0724a" ed="T" xml:id="T14.0489.0724a"/>
 <lb n="0724a01" ed="T"/>蜜多、十三摩地、十二陀羅尼、六通、十自在、十
 <lb n="0724a02" ed="T"/>力、四無所畏、四無礙解、十八不共法，大悲心
 <lb n="0724a03" ed="T"/>等一切佛菩薩法，悉能任持具足。又復常持
 <lb n="0724a04" ed="T"/>一切世出世間百千法蘊而悉成就，是為菩
-<lb n="0724a05" ed="T"/>薩無量法雲含潤任持廣大法雨。</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app></p><p xml:id="pT14p0724a0514" rend="inline">「<note n="0723003b" resp="CBETA" type="mod">〔善男子…聲聞果〕二百二十六字－【宋】【元】【明】【宮】</note><app n="0723003b" cb:word-count="226"><lem wit="【大】">善男子！云
+<lb n="0724a05" ed="T"/>薩無量法雲含潤任持廣大法雨。</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app></p><p xml:id="pT14p0724a0514" rend="inline">「<note n="0723003b" resp="CBETA" type="mod">（善男子…聲聞果）二百二十六字【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0723003b" cb:word-count="226"><lem wit="【大】">善男子！云
 <lb n="0724a06" ed="T"/>何是菩薩大法種種莊嚴樓閣布飾妙好？如
 <lb n="0724a07" ed="T"/>世間風悉能普遍吹布一切莊嚴樓閣，種種
 <lb n="0724a08" ed="T"/>安置殊妙可愛，及一切樹林枝葉牙莖華果
@@ -1953,7 +1953,7 @@ Added comment  for Emacs
 <lb n="0724a23" ed="T"/>力、四無所畏、四無礙解、十八不共法。</p><p xml:id="pT14p0724a2315" rend="inline">「善男子！
 <lb n="0724a24" ed="T"/>菩薩善能施設此如是等無量種法，蓮華莊
 <lb n="0724a25" ed="T"/>嚴等陀羅尼門，為法莊嚴妙巧安布，是為菩
-<lb n="0724a26" ed="T"/>薩大法種種莊嚴樓閣布<note n="0724001" resp="Taisho" type="orig" place="foot text">飾＝餘【三】【宮】</note><note n="0724001" resp="CBETA" type="mod">飾＝餘【宋】【元】【明】【宮】</note><app n="0724001"><lem wit="【大】">飾</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">餘</rdg></app>妙好。</p><p xml:id="pT14p0724a2614" rend="inline">「善男子！云
+<lb n="0724a26" ed="T"/>薩大法種種莊嚴樓閣布<note n="0724001" resp="Taisho" type="orig" place="foot text">飾＝餘【三】【宮】</note><note n="0724001" resp="CBETA" type="mod">飾【大】，餘【宋】【元】【明】【宮】</note><app n="0724001"><lem wit="【大】">飾</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">餘</rdg></app>妙好。</p><p xml:id="pT14p0724a2614" rend="inline">「善男子！云
 <lb n="0724a27" ed="T"/>何是菩薩一切眾會劫樹莊嚴，決定常出正妙
 <lb n="0724a28" ed="T"/>法音雨華悅意？如劫樹林為風吹擊，常雨種
 <lb n="0724a29" ed="T"/>種香華、妙寶、衣服、鼓樂等莊嚴具而悉具足。
@@ -1963,12 +1963,12 @@ Added comment  for Emacs
 <lb n="0724b03" ed="T"/>勤勇悅樂無減。菩薩智風亦復如是，菩薩常
 <lb n="0724b04" ed="T"/>於如來清淨世界大法會中，為諸有情宣說
 <lb n="0724b05" ed="T"/>契經、應頌、記別、諷頌、譬喻、緣起、自說、本事、本生、
-<lb n="0724b06" ed="T"/>方廣、希<note n="0724002" resp="Taisho" type="orig" place="foot text">法＝有【三】</note><note n="0724002" resp="CBETA" type="mod">法＝有【宋】【元】【明】</note><app n="0724002"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宋】【元】【明】">有</rdg></app>、論義十二分教，常雨如是正法寶
+<lb n="0724b06" ed="T"/>方廣、希<note n="0724002" resp="Taisho" type="orig" place="foot text">法＝有【三】</note><note n="0724002" resp="CBETA" type="mod">法【大】，有【宋】【元】【明】</note><app n="0724002"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宋】【元】【明】">有</rdg></app>、論義十二分教，常雨如是正法寶
 <lb n="0724b07" ed="T"/>華，為諸有情，於其順違慣習事中，從初次第
 <lb n="0724b08" ed="T"/>宣說教授，及一切世間諸所緣事，引發示誨
 <lb n="0724b09" ed="T"/>無我寂滅清淨法性，開示普遍一切法門，總
 <lb n="0724b10" ed="T"/>攝法性，引示令入不可思議如幻法中，顯發
-<lb n="0724b11" ed="T"/>大智如幻法門。復令有情增長<note n="0724003" resp="Taisho" type="orig" place="foot text">游戲＝遊戲【三】【宮】＊</note><note n="0724003" resp="CBETA" type="mod">游戲＝遊戲【宋】【元】【明】【宮】＊</note><app n="0724003"><lem wit="【大】">游戲</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">遊戲</rdg></app>一切法
+<lb n="0724b11" ed="T"/>大智如幻法門。復令有情增長<note n="0724003" resp="Taisho" type="orig" place="foot text">游戲＝遊戲【三】【宮】＊</note><note n="0724003" resp="CBETA" type="mod">游戲【大】＊，遊戲【宋】【元】【明】【宮】＊</note><app n="0724003"><lem wit="【大】">游戲</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">遊戲</rdg></app>一切法
 <lb n="0724b12" ed="T"/>樂，諸有問答無中無邊，能善起發普使歡喜，
 <lb n="0724b13" ed="T"/>常令於其正法園林，以無過身語意業，適悅
 <lb n="0724b14" ed="T"/>戲樂不生懈退，令諸天人受用具足，善法無
@@ -1984,7 +1984,7 @@ Added comment  for Emacs
 <lb n="0724b24" ed="T"/>大海等，皆悉破散磨滅無餘同太虛空。菩薩
 <lb n="0724b25" ed="T"/>之風亦復如是，於多百千劫中，積集種種福
 <lb n="0724b26" ed="T"/>智莊嚴，菩薩以廣大力勢，能現種種神通變
-<lb n="0724b27" ed="T"/>化，善轉無礙清淨法輪，出妙<note n="0724004" resp="Taisho" type="orig" place="foot text">〔音聲…護世天等所〕三百十字－【三】【宮】</note><note n="0724004" resp="CBETA" type="mod">〔音聲…護世天等所〕三百十字－【宋】【元】【明】【宮】</note>音聲，普遍調
+<lb n="0724b27" ed="T"/>化，善轉無礙清淨法輪，出妙<note n="0724004" resp="Taisho" type="orig" place="foot text">〔音聲…護世天等所〕三百十字－【三】【宮】</note><note n="0724004" resp="CBETA" type="mod">（音聲…護世天等所）三百十字【大】，〔－〕【宋】【元】【明】【宮】</note>音聲，普遍調
 <lb n="0724b28" ed="T"/>伏一切眾會。由如是故，從智風輪出諸法蘊，
 <lb n="0724b29" ed="T"/>彼所調伏觀察最上妙法光明無著諸行，勝
 <pb n="0724c" ed="T" xml:id="T14.0489.0724c"/>
@@ -2022,7 +2022,7 @@ Added comment  for Emacs
 <lb n="0725a02" ed="T"/>薩若修即如虛空。何等為十？所謂一者、於可意
 <lb n="0725a03" ed="T"/>不可意一切色中不愛不惡；二者、於可意不
 <lb n="0725a04" ed="T"/>可意一切聲中不愛不惡；三者、於可意不可
-<lb n="0725a05" ed="T"/>意一切<note n="0725001" resp="Taisho" type="orig" place="foot text">香＝智【宋】</note><app n="0725001"><lem wit="【大】">香</lem><rdg resp="Taisho" wit="【宋】">智</rdg></app>中不愛不惡；四者、於可意不可意
+<lb n="0725a05" ed="T"/>意一切<note n="0725001" resp="Taisho" type="orig" place="foot text">香＝智【宋】</note><note n="0725001" resp="CBETA" type="mod">香【大】，智【宋】</note><app n="0725001"><lem wit="【大】">香</lem><rdg resp="Taisho" wit="【宋】">智</rdg></app>中不愛不惡；四者、於可意不可意
 <lb n="0725a06" ed="T"/>一切味中不愛不惡；五者、於可意不可意一
 <lb n="0725a07" ed="T"/>切觸中不愛不惡；六者、於可意不可意一切
 <lb n="0725a08" ed="T"/>法中不愛不惡；七者、於利衰法中不愛不惡；
@@ -2082,7 +2082,7 @@ Added comment  for Emacs
 <milestone n="9" unit="juan"/>
 <lb n="0725c02" ed="T"/>
 <lb n="0725c03" ed="T"/><cb:juan n="009" fun="open"><cb:mulu n="009" type="卷"/><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第九</cb:jhead></cb:juan>
-<lb n="0725c04" ed="T"/><byline cb:type="Translator"><note n="0725002" resp="Taisho" type="orig" place="foot text">西天譯經＝宋【明】</note><app n="0725002"><lem wit="【大】">西天譯經</lem><rdg resp="Taisho" wit="【明】">宋</rdg></app>三藏朝散大夫試鴻臚
+<lb n="0725c04" ed="T"/><byline cb:type="Translator"><note n="0725002" resp="Taisho" type="orig" place="foot text">西天譯經＝宋【明】</note><note n="0725002" resp="CBETA" type="mod">西天譯經【大】，宋【明】</note><app n="0725002"><lem wit="【大】">西天譯經</lem><rdg resp="Taisho" wit="【明】">宋</rdg></app>三藏朝散大夫試鴻臚
 <lb n="0725c05" ed="T"/><anchor xml:id="fxT14p0725c01"/>卿傳梵大師<anchor xml:id="fxT14p0725c02"/>賜紫沙門臣法護等
 <lb n="0725c06" ed="T"/>奉　詔譯</byline>
 <lb n="0725c07" ed="T"/><p xml:id="pT14p0725c0701">「復次，善男子！菩薩若修十種法者，即得如日。
@@ -2127,7 +2127,7 @@ Added comment  for Emacs
 <lb n="0726a16" ed="T"/>亦復如是，有情一切善法事業而悉成辦，是
 <lb n="0726a17" ed="T"/>為菩薩成諸事業。</p><p xml:id="pT14p0726a1708" rend="inline">「云何是菩薩善人樂欲？如
 <lb n="0726a18" ed="T"/>日初出，善人愛樂惡人嫌惡，菩薩日出亦復
-<lb n="0726a19" ed="T"/>如是，<note n="0726001" resp="Taisho" type="orig" place="foot text">其＝具【三】【宮】</note><note n="0726001" resp="CBETA" type="mod">其＝具【宋】【元】【明】【宮】</note><app n="0726001"><lem wit="【大】">其</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">具</rdg></app>智慧者悉生愛樂，趣向邪道姦惡之
+<lb n="0726a19" ed="T"/>如是，<note n="0726001" resp="Taisho" type="orig" place="foot text">其＝具【三】【宮】</note><note n="0726001" resp="CBETA" type="mod">其【大】，具【宋】【元】【明】【宮】</note><app n="0726001"><lem wit="【大】">其</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">具</rdg></app>智慧者悉生愛樂，趣向邪道姦惡之
 <lb n="0726a20" ed="T"/>類、愚蒙無智樂著生死背涅槃者，悉生嫌惡，
 <lb n="0726a21" ed="T"/>是為菩薩善人樂欲。善男子！菩薩若修如是
 <lb n="0726a22" ed="T"/>十種法者，即得如日。</p><p xml:id="pT14p0726a2209" rend="inline">「又，善男子！菩薩若修十
@@ -2162,7 +2162,7 @@ Added comment  for Emacs
 <lb n="0726b21" ed="T"/>菩薩樂居山巖？如彼師子樂居山巖，菩薩亦
 <lb n="0726b22" ed="T"/>復如是，樂居智慧禪定山巖，是為菩薩樂居
 <lb n="0726b23" ed="T"/>山巖。</p><p xml:id="pT14p0726b2303" rend="inline">「云何是菩薩無所結縛？如彼師子無所
-<lb n="0726b24" ed="T"/>結縛，菩薩亦復如是，去<note n="0726002" resp="Taisho" type="orig" place="foot text">除＝脫【元】【明】</note><app n="0726002"><lem wit="【大】">除</lem><rdg resp="Taisho" wit="【元】【明】">脫</rdg></app>一切煩惱重擔離
+<lb n="0726b24" ed="T"/>結縛，菩薩亦復如是，去<note n="0726002" resp="Taisho" type="orig" place="foot text">除＝脫【元】【明】</note><note n="0726002" resp="CBETA" type="mod">除【大】，脫【元】【明】</note><app n="0726002"><lem wit="【大】">除</lem><rdg resp="Taisho" wit="【元】【明】">脫</rdg></app>一切煩惱重擔離
 <lb n="0726b25" ed="T"/>諸結縛，是為菩薩無所結縛。</p><p xml:id="pT14p0726b2512" rend="inline">「云何是菩薩自
 <lb n="0726b26" ed="T"/>具力能摧伏他軍？如彼師子獨無伴侶能摧
 <lb n="0726b27" ed="T"/>他眾，菩薩亦復如是，獨無伴侶坐道場時，以
@@ -2215,17 +2215,17 @@ Added comment  for Emacs
 <lb n="0727a14" ed="T"/>讚，諸佛菩薩之所攝受，是為菩薩本體清淨。</p>
 <lb n="0727a15" ed="T"/><p xml:id="pT14p0727a1501">「云何是菩薩面相熙怡？譬如蓮華當開敷時，
 <lb n="0727a16" ed="T"/>令諸見者心意快然生適悅故，菩薩亦復如
-<lb n="0727a17" ed="T"/>是，面相熙怡離諸顰<note n="0727001" resp="Taisho" type="orig" place="foot text">蹙＝慼【明】</note><app n="0727001"><lem wit="【大】">蹙</lem><rdg resp="Taisho" wit="【明】">慼</rdg></app>，諸根清淨見者歡
+<lb n="0727a17" ed="T"/>是，面相熙怡離諸顰<note n="0727001" resp="Taisho" type="orig" place="foot text">蹙＝慼【明】</note><note n="0727001" resp="CBETA" type="mod">蹙【大】，慼【明】</note><app n="0727001"><lem wit="【大】">蹙</lem><rdg resp="Taisho" wit="【明】">慼</rdg></app>，諸根清淨見者歡
 <lb n="0727a18" ed="T"/>喜，是為菩薩面相熙怡。</p><p xml:id="pT14p0727a1810" rend="inline">「云何是菩薩柔軟不
 <lb n="0727a19" ed="T"/>澁？譬如蓮華體性柔軟，菩薩亦復如是，自體
 <lb n="0727a20" ed="T"/>清淨柔軟細妙，是為菩薩柔軟不澁。</p><p xml:id="pT14p0727a2015" rend="inline">「云何是
 <lb n="0727a21" ed="T"/>菩薩見者皆吉？譬如蓮華乃至夢中於須臾
-<lb n="0727a22" ed="T"/>頃見亦善吉。何以故？一切<note n="0727002" resp="Taisho" type="orig" place="foot text">義＝善【宮】</note><app n="0727002"><lem wit="【大】">義</lem><rdg resp="Taisho" wit="【宮】">善</rdg></app>成故。菩薩亦
+<lb n="0727a22" ed="T"/>頃見亦善吉。何以故？一切<note n="0727002" resp="Taisho" type="orig" place="foot text">義＝善【宮】</note><note n="0727002" resp="CBETA" type="mod">義【大】，善【宮】</note><app n="0727002"><lem wit="【大】">義</lem><rdg resp="Taisho" wit="【宮】">善</rdg></app>成故。菩薩亦
 <lb n="0727a23" ed="T"/>復如是，若於一切分位之中，見者咸得最上
 <lb n="0727a24" ed="T"/>吉祥，是為菩薩見者皆吉。</p><p xml:id="pT14p0727a2411" rend="inline">「云何是菩薩開敷
 <lb n="0727a25" ed="T"/>具足？譬如蓮華若開敷已即名具足，菩薩亦
 <lb n="0727a26" ed="T"/>復如是，若慧覺華開敷之時，即名具足，是為
-<lb n="0727a27" ed="T"/>菩薩開敷具足。</p><p xml:id="pT14p0727a2707" rend="inline">「云何是成<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">熟<note type="cf1">K40n1476_p0926b08</note></lem><rdg wit="【大】">熱</rdg></app>清淨？譬如蓮華
+<lb n="0727a27" ed="T"/>菩薩開敷具足。</p><p xml:id="pT14p0727a2707" rend="inline">「云何是成<note n="0727a2701" resp="CBETA" type="add">熟【CB】【麗-CB】，熱【大】</note><app n="0727a2701"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">熟<note type="cf1">K40n1476_p0926b08</note></lem><rdg wit="【大】">熱</rdg></app>清淨？譬如蓮華
 <lb n="0727a28" ed="T"/>若成熟已，眼所觀時眼根清淨，鼻所嗅時鼻
 <lb n="0727a29" ed="T"/>根清淨，身覺觸時身根清淨，心歡喜時意根
 <pb n="0727b" ed="T" xml:id="T14.0489.0727b"/>
@@ -2249,7 +2249,7 @@ Added comment  for Emacs
 <lb n="0727b18" ed="T"/>者、謂以智慧之船渡諸有情，越生死岸故；八
 <lb n="0727b19" ed="T"/>者、世間一切無依無救無歸無趣無親屬者，
 <lb n="0727b20" ed="T"/>為作依歸親屬故；九者、為令顯示佛、大牛王、
-<lb n="0727b21" ed="T"/>妙師子吼，<note n="0727003" resp="Taisho" type="orig" place="foot text">游戲＝遊戲【三】【宮】</note><note n="0727003" resp="CBETA" type="mod">游戲＝遊戲【宋】【元】【明】【宮】</note><app n="0727003"><lem wit="【大】">游戲</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">遊戲</rdg></app>諸佛神通法門，如大龍王
+<lb n="0727b21" ed="T"/>妙師子吼，<note n="0727003" resp="Taisho" type="orig" place="foot text">游戲＝遊戲【三】【宮】</note><note n="0727003" resp="CBETA" type="mod">游戲【大】，遊戲【宋】【元】【明】【宮】</note><app n="0727003"><lem wit="【大】">游戲</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">遊戲</rdg></app>諸佛神通法門，如大龍王
 <lb n="0727b22" ed="T"/>審諦瞻視，普遍觀察沙門、婆羅門、天人魔梵、
 <lb n="0727b23" ed="T"/>一切世間，普令同獲佛功德故；十者、為令化
 <lb n="0727b24" ed="T"/>度有情，具佛威德無麁澁行，無難行行，無劣
@@ -2321,7 +2321,7 @@ Added comment  for Emacs
 <pb n="0728b" ed="T" xml:id="T14.0489.0728b"/>
 <lb n="0728b01" ed="T"/>怖畏，荷負重擔，堅固志行，堅固精進，滿足諸
 <lb n="0728b02" ed="T"/>波羅蜜多，次第成辦一切佛法。以無礙慧，無
-<lb n="0728b03" ed="T"/>邊慧，無等慧，不共慧等，<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">被<note type="cf1">K40n1476_p0928a05</note></lem><rdg wit="【大】">彼</rdg></app>堅固鎧，堅固精
+<lb n="0728b03" ed="T"/>邊慧，無等慧，不共慧等，<note n="0728b0301" resp="CBETA" type="add">被【CB】【麗-CB】，彼【大】</note><app n="0728b0301"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">被<note type="cf1">K40n1476_p0928a05</note></lem><rdg wit="【大】">彼</rdg></app>堅固鎧，堅固精
 <lb n="0728b04" ed="T"/>進，堅固誓願，不動誓願，不共誓願，所謂菩提
 <lb n="0728b05" ed="T"/>因、菩提相、菩提緣等，如是次第圓滿廣大神
 <lb n="0728b06" ed="T"/>通事業，如是真實無有虛妄，我於是處信無
@@ -2379,8 +2379,8 @@ Added comment  for Emacs
 <milestone n="10" unit="juan"/>
 <lb n="0729a02" ed="T"/>
 <lb n="0729a03" ed="T"/><cb:juan n="010" fun="open"><cb:mulu n="010" type="卷"/><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第十</cb:jhead></cb:juan>
-<lb n="0729a04" ed="T"/><byline cb:type="Translator"><note n="0729001" resp="Taisho" type="orig" place="foot text">譯經＝宋【明】</note><app n="0729001"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【明】">宋</rdg></app>三藏朝散大夫試鴻臚<anchor xml:id="fxT14p0729a01"/>卿
-<lb n="0729a05" ed="T"/><note n="0729002" resp="Taisho" type="orig" place="foot text">光梵＝傳梵【明】</note><app n="0729002"><lem wit="【大】">光梵</lem><rdg resp="Taisho" wit="【明】">傳梵</rdg></app>大師<anchor xml:id="fxT14p0729a02"/>賜紫沙門臣惟淨等
+<lb n="0729a04" ed="T"/><byline cb:type="Translator"><note n="0729001" resp="Taisho" type="orig" place="foot text">譯經＝宋【明】</note><note n="0729001" resp="CBETA" type="mod">譯經【大】，宋【明】</note><app n="0729001"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【明】">宋</rdg></app>三藏朝散大夫試鴻臚<anchor xml:id="fxT14p0729a01"/>卿
+<lb n="0729a05" ed="T"/><note n="0729002" resp="Taisho" type="orig" place="foot text">光梵＝傳梵【明】</note><note n="0729002" resp="CBETA" type="mod">光梵【大】，傳梵【明】</note><app n="0729002"><lem wit="【大】">光梵</lem><rdg resp="Taisho" wit="【明】">傳梵</rdg></app>大師<anchor xml:id="fxT14p0729a02"/>賜紫沙門臣惟淨等
 <lb n="0729a06" ed="T"/>奉　詔譯</byline>
 <lb n="0729a07" ed="T"/><p xml:id="pT14p0729a0701">「復次，善男子！菩薩若修十種法者，即如大海。
 <lb n="0729a08" ed="T"/>何等為十？一者、為大寶聚；二者、深難徹底；三
@@ -2421,7 +2421,7 @@ Added comment  for Emacs
 <lb n="0729b13" ed="T"/>者善觀真實智。</p><p xml:id="pT14p0729b1307" rend="inline">「善男子！云何是菩薩善求出
 <lb n="0729b14" ed="T"/>離，乃至善觀真實智？謂若菩薩作是思惟：『我
 <lb n="0729b15" ed="T"/>應觀察諸世間相。』觀見世間貪火熾然瞋煙
-<lb n="0729b16" ed="T"/><note n="0729003" resp="Taisho" type="orig" place="foot text">蓬＝𤑫【元】【明】</note><app n="0729003"><lem wit="【大】">蓬</lem><rdg resp="Taisho" wit="【元】【明】">𤑫</rdg></app>㶿，癡暗覆蔽瞑然無託，菩薩乃起是念：
+<lb n="0729b16" ed="T"/><note n="0729003" resp="Taisho" type="orig" place="foot text">蓬＝𤑫【元】【明】</note><note n="0729003" resp="CBETA" type="mod">蓬【大】，𤑫【元】【明】</note><app n="0729003"><lem wit="【大】">蓬</lem><rdg resp="Taisho" wit="【元】【明】">𤑫</rdg></app>㶿，癡暗覆蔽瞑然無託，菩薩乃起是念：
 <lb n="0729b17" ed="T"/>『此諸有情，云何能得出離？』菩薩即為勤求出
 <lb n="0729b18" ed="T"/>離及出離法，由得出離法故，即能隨知諸法
 <lb n="0729b19" ed="T"/>平等。由知諸法平等故，即能如實知諸法如
@@ -2489,7 +2489,7 @@ Added comment  for Emacs
 <lb n="0730a21" ed="T"/>法語；五者、平等語；六者、不自高；七者、不輕
 <lb n="0730a22" ed="T"/>他；八者、無染著；九者、無觸惱；十者、具種種辯
 <lb n="0730a23" ed="T"/>才。善男子！菩薩能以愛語令諸有情咸生歡
-<lb n="0730a24" ed="T"/>喜。</p><p xml:id="pT14p0730a2402" rend="inline">「又菩薩者，常現熙怡善相遠<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">離<note type="cf1">K40n1476_p0930c15</note></lem><rdg wit="【大】">雖</rdg></app>顰蹙，令諸
+<lb n="0730a24" ed="T"/>喜。</p><p xml:id="pT14p0730a2402" rend="inline">「又菩薩者，常現熙怡善相遠<note n="0730a2401" resp="CBETA" type="add">離【CB】【麗-CB】，雖【大】</note><app n="0730a2401"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">離<note type="cf1">K40n1476_p0930c15</note></lem><rdg wit="【大】">雖</rdg></app>顰蹙，令諸
 <lb n="0730a25" ed="T"/>有情咸生歡喜。</p><p xml:id="pT14p0730a2507" rend="inline">「又菩薩者，常出如義語及美
 <lb n="0730a26" ed="T"/>妙語，令諸有情咸生歡喜。</p><p xml:id="pT14p0730a2611" rend="inline">「又菩薩者，常出
 <lb n="0730a27" ed="T"/>法語及利益語，令諸有情咸生歡喜。</p><p xml:id="pT14p0730a2715" rend="inline">「又菩薩
@@ -2513,7 +2513,7 @@ Added comment  for Emacs
 <lb n="0730b15" ed="T"/>不為說法；十者、盲聾瘖瘂者不為說法。</p><p xml:id="pT14p0730b1516" rend="inline">「何以
 <lb n="0730b16" ed="T"/>故？善男子！菩薩不作法慳亦不祕法，於諸有
 <lb n="0730b17" ed="T"/>情無不憐愍，為利有情而不棄背。所以者何？
-<lb n="0730b18" ed="T"/>若有有情<note n="0730001" resp="Taisho" type="orig" place="foot text">非＝能【宮】</note><app n="0730001"><lem wit="【大】">非</lem><rdg resp="Taisho" wit="【宮】">能</rdg></app>法器者，菩薩乃起是念：『此等
+<lb n="0730b18" ed="T"/>若有有情<note n="0730001" resp="Taisho" type="orig" place="foot text">非＝能【宮】</note><note n="0730001" resp="CBETA" type="mod">非【大】，能【宮】</note><app n="0730001"><lem wit="【大】">非</lem><rdg resp="Taisho" wit="【宮】">能</rdg></app>法器者，菩薩乃起是念：『此等
 <lb n="0730b19" ed="T"/>有情，而於如來法律之中起於捨行。』」</p><p xml:id="pT14p0730b1915" rend="inline">除蓋障
 <lb n="0730b20" ed="T"/>菩薩白佛言：「世尊！若然者，諸佛菩薩當為何
 <lb n="0730b21" ed="T"/>等有情說法？」</p><p xml:id="pT14p0730b2106" rend="inline">佛言：「善男子！具信有情，諸佛菩
@@ -2539,7 +2539,7 @@ Added comment  for Emacs
 <lb n="0730c11" ed="T"/>果故說法，不見有阿羅漢可得，亦不見果；八
 <lb n="0730c12" ed="T"/>者、為得緣覺果故說法，不見有緣覺可得，亦
 <lb n="0730c13" ed="T"/>不見果；九者、斷我執取著故說法，不見有我
-<lb n="0730c14" ed="T"/>可得，亦不見執<note n="0730002" resp="Taisho" type="orig" place="foot text">著＝者【元】【明】</note><app n="0730002"><lem wit="【大】">著</lem><rdg resp="Taisho" wit="【元】【明】">者</rdg></app>；十者、顯示業報故說法，
+<lb n="0730c14" ed="T"/>可得，亦不見執<note n="0730002" resp="Taisho" type="orig" place="foot text">著＝者【元】【明】</note><note n="0730002" resp="CBETA" type="mod">著【大】，者【元】【明】</note><app n="0730002"><lem wit="【大】">著</lem><rdg resp="Taisho" wit="【元】【明】">者</rdg></app>；十者、顯示業報故說法，
 <lb n="0730c15" ed="T"/>不見有業可得，亦不見報。</p><p xml:id="pT14p0730c1511" rend="inline">「何以故？如是等一
 <lb n="0730c16" ed="T"/>切法皆無實體，但以假名宣說，名亦無所有。
 <lb n="0730c17" ed="T"/>所以者何？文字無自性，法離文字故，但以世
@@ -2575,7 +2575,7 @@ Added comment  for Emacs
 <lb n="0731a17" ed="T"/><p xml:id="pT14p0731a1701">除蓋障菩薩白佛言：「世尊！何名真實？」</p><p xml:id="pT14p0731a1715" rend="inline">佛言：「善
 <lb n="0731a18" ed="T"/>男子！如實之義，乃名真實。」</p><p xml:id="pT14p0731a1811" rend="inline">除蓋障菩薩白佛
 <lb n="0731a19" ed="T"/>言：「何名如實？」</p><p xml:id="pT14p0731a1906" rend="inline">佛言：「不虛妄故，名為如實。」</p><p xml:id="pT14p0731a1916" rend="inline">除蓋
-<lb n="0731a20" ed="T"/>障菩薩白佛言：「何名不虛妄？」</p><p xml:id="pT14p0731a2012" rend="inline">佛言：「所<note n="0731001" resp="Taisho" type="orig" place="foot text">謂＝請【明】</note><app n="0731001"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【明】">請</rdg></app>真
+<lb n="0731a20" ed="T"/>障菩薩白佛言：「何名不虛妄？」</p><p xml:id="pT14p0731a2012" rend="inline">佛言：「所<note n="0731001" resp="Taisho" type="orig" place="foot text">謂＝請【明】</note><note n="0731001" resp="CBETA" type="mod">謂【大】，請【明】</note><app n="0731001"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【明】">請</rdg></app>真
 <lb n="0731a21" ed="T"/>如，無不真如、無異真如。」</p><p xml:id="pT14p0731a2110" rend="inline">除蓋障菩薩白佛言：
 <lb n="0731a22" ed="T"/>「何名真如？」</p><p xml:id="pT14p0731a2205" rend="inline">佛言：「善男子！此法唯內所證，非文
 <lb n="0731a23" ed="T"/>字語言而能表示。何以故？此法出過諸文字
@@ -2600,8 +2600,8 @@ Added comment  for Emacs
 <lb n="0731b11" ed="T"/><cb:juan n="011" fun="open"><cb:mulu n="011" type="卷"/><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第十
 <lb n="0731b12" ed="T"/>一</cb:jhead></cb:juan>
 <lb n="0731b13" ed="T"/>
-<lb n="0731b14" ed="T"/><byline cb:type="Translator"><note n="0731002" resp="Taisho" type="orig" place="foot text">譯經＝宋【明】＊</note><app n="0731002"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【明】">宋</rdg></app>三藏朝散大夫試鴻臚<note n="0731003" resp="Taisho" type="orig" place="foot text">（少）＋卿【明】＊</note><app n="0731003"><lem wit="【大】">卿</lem><rdg resp="Taisho" wit="【明】">少卿</rdg></app>
-<lb n="0731b15" ed="T"/><note n="0731004" resp="Taisho" type="orig" place="foot text">光梵＝傳梵【明】＊</note><app n="0731004"><lem wit="【大】">光梵</lem><rdg resp="Taisho" wit="【明】">傳梵</rdg></app>大師<note n="0731005" resp="Taisho" type="orig" place="foot text">〔賜紫沙門臣〕－【明】＊</note><app n="0731005"><lem wit="【大】">賜紫沙門臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>惟淨等
+<lb n="0731b14" ed="T"/><byline cb:type="Translator"><note n="0731002" resp="Taisho" type="orig" place="foot text">譯經＝宋【明】＊</note><note n="0731002" resp="CBETA" type="mod">譯經【大】＊，宋【明】＊</note><app n="0731002"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【明】">宋</rdg></app>三藏朝散大夫試鴻臚<note n="0731003" resp="Taisho" type="orig" place="foot text">（少）＋卿【明】＊</note><note n="0731003" resp="CBETA" type="mod">卿【大】＊，少卿【明】＊</note><app n="0731003"><lem wit="【大】">卿</lem><rdg resp="Taisho" wit="【明】">少卿</rdg></app>
+<lb n="0731b15" ed="T"/><note n="0731004" resp="Taisho" type="orig" place="foot text">光梵＝傳梵【明】＊</note><note n="0731004" resp="CBETA" type="mod">光梵【大】＊，傳梵【明】＊</note><app n="0731004"><lem wit="【大】">光梵</lem><rdg resp="Taisho" wit="【明】">傳梵</rdg></app>大師<note n="0731005" resp="Taisho" type="orig" place="foot text">〔賜紫沙門臣〕－【明】＊</note><note n="0731005" resp="CBETA" type="mod">賜紫沙門臣【大】＊，〔－〕【明】＊</note><app n="0731005"><lem wit="【大】">賜紫沙門臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>惟淨等
 <lb n="0731b16" ed="T"/>奉　詔譯</byline>
 <lb n="0731b17" ed="T"/><p xml:id="pT14p0731b1701">爾時，除蓋障菩薩白佛言：「世尊！此法云何能
 <lb n="0731b18" ed="T"/>證？云何能解？」</p><p xml:id="pT14p0731b1806" rend="inline">佛言：「善男子！出世間慧，乃能證
@@ -2698,7 +2698,7 @@ Added comment  for Emacs
 <lb n="0732b19" ed="T"/>有情發生淨信，能成如來諸勝功德。</p><p xml:id="pT14p0732b1915" rend="inline">「善男子！
 <lb n="0732b20" ed="T"/>譬如有人為大醫師，善療眾病，國中第一無有
 <lb n="0732b21" ed="T"/>倫比，然其國中不知是人，明善方藥具醫勝
-<lb n="0732b22" ed="T"/><app><lem wit="【CBETA】【麗】" resp="CBETA.maha">德<note type="cf1">K40n1476_p0934a24</note></lem><rdg wit="【大】">得</rdg></app>。時彼醫師，見有疾苦所逼惱者即起是念：
+<lb n="0732b22" ed="T"/><note n="0732b2201" resp="CBETA" type="add">德【CB】【麗-CB】，得【大】</note><app n="0732b2201"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">德<note type="cf1">K40n1476_p0934a24</note></lem><rdg wit="【大】">得</rdg></app>。時彼醫師，見有疾苦所逼惱者即起是念：
 <lb n="0732b23" ed="T"/>『是人疾苦不善方藥，我今應當為其治療。』是
 <lb n="0732b24" ed="T"/>時，醫師詣病人所語其人言：『我是醫師，明練方
 <lb n="0732b25" ed="T"/>術，善知眾病及病所因，汝之病惱善為治療。』
@@ -2778,7 +2778,7 @@ Added comment  for Emacs
 <lb n="0733b09" ed="T"/>彼生歡喜心，乃起是念：『我欲度彼，彼已自度。』
 <lb n="0733b10" ed="T"/>故修捨行。善男子！菩薩若修如是十種法者，
 <lb n="0733b11" ed="T"/>即善修捨行。</p><p xml:id="pT14p0733b1106" rend="inline">「復次，善男子！菩薩若修十種法
-<lb n="0733b12" ed="T"/>者，即得神通<note n="0733001" resp="Taisho" type="orig" place="foot text">游戲＝遊戲【三】下同</note><note n="0733001" resp="CBETA" type="mod">游戲＝遊戲【宋】下同【元】下同【明】下同</note><app n="0733001"><lem wit="【大】">游戲</lem><rdg resp="Taisho" wit="【宋】【元】【明】">遊戲</rdg></app>。何等為十？一者、示現捨
+<lb n="0733b12" ed="T"/>者，即得神通<note n="0733001" resp="Taisho" type="orig" place="foot text">游戲＝遊戲【三】下同</note><note n="0733001" resp="CBETA" type="mod">游戲【大】下同，遊戲【宋】下同【元】下同【明】下同</note><app n="0733001"><lem wit="【大】">游戲</lem><rdg resp="Taisho" wit="【宋】【元】【明】">遊戲</rdg></app>。何等為十？一者、示現捨
 <lb n="0733b13" ed="T"/>壽；二者、入胎受生；三者、現童子相宮中游戲；
 <lb n="0733b14" ed="T"/>四者、出家；五者、苦行；六者、詣菩提場；七者、成
 <lb n="0733b15" ed="T"/>等正覺降伏魔軍；八者、現寂靜相；九者、轉妙
@@ -2885,7 +2885,7 @@ Added comment  for Emacs
 <lb n="0734b25" ed="T"/>以故？菩薩纔聞是事，即起厭患之心，生厭患
 <lb n="0734b26" ed="T"/>已發勤精進，修諸善法斷諸惡法。善男子！菩
 <lb n="0734b27" ed="T"/>薩若修如是十種法者，即能遠離八難。</p><p xml:id="pT14p0734b2716" rend="inline">「復次，
-<lb n="0734b28" ed="T"/>善男子！菩薩若修十種法者，得不<choice cb:resp="CBETA"><corr>忘</corr><sic>妄</sic></choice>失菩提
+<lb n="0734b28" ed="T"/>善男子！菩薩若修十種法者，得不<note n="0734b2801" resp="CBETA" type="add">忘【CB】，妄【大】</note><app n="0734b2801"><lem wit="【CB】" resp="CBETA">忘</lem><rdg wit="【大】">妄</rdg></app>失菩提
 <lb n="0734b29" ed="T"/>心。何等為十？一者、遠離諂誑；二者、正而無曲
 <pb n="0734c" ed="T" xml:id="T14.0489.0734c"/>
 <lb n="0734c01" ed="T"/>清淨潔白，遠離追求猶豫分別；三者、受持佛
@@ -2895,7 +2895,7 @@ Added comment  for Emacs
 <lb n="0734c05" ed="T"/>重心；九者、於彼受持大乘人所，為漸入大乘
 <lb n="0734c06" ed="T"/>故起親近想；十者、深入大乘故，於說法人起
 <lb n="0734c07" ed="T"/>師尊想。善男子！菩薩若修如是十種法者，即
-<lb n="0734c08" ed="T"/>得不<choice cb:resp="CBETA"><corr>忘</corr><sic>妄</sic></choice>失菩提心。</p><p xml:id="pT14p0734c0808" rend="inline">「復次，善男子！菩薩若修十
+<lb n="0734c08" ed="T"/>得不<note n="0734c0801" resp="CBETA" type="add">忘【CB】，妄【大】</note><app n="0734c0801"><lem wit="【CB】" resp="CBETA">忘</lem><rdg wit="【大】">妄</rdg></app>失菩提心。</p><p xml:id="pT14p0734c0808" rend="inline">「復次，善男子！菩薩若修十
 <lb n="0734c09" ed="T"/>種法者，得宿命通。何等為十？一者、供養諸佛；
 <lb n="0734c10" ed="T"/>二者、攝持正法；三者、修持淨戒；四者、除疑離
 <lb n="0734c11" ed="T"/>障；五者、多生歡喜；六者、多作觀想；七者、常住
@@ -3063,10 +3063,10 @@ Added comment  for Emacs
 <lb n="0736b22" ed="T"/><cb:juan n="013" fun="open"><cb:mulu n="013" type="卷"/><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第十
 <lb n="0736b23" ed="T"/>三</cb:jhead></cb:juan>
 <lb n="0736b24" ed="T"/>
-<lb n="0736b25" ed="T"/><byline cb:type="Translator"><note n="0736001" resp="Taisho" type="orig" place="foot text">西天譯經＝宋西天【明】＊</note><app n="0736001"><lem wit="【大】">西天譯經</lem><rdg resp="Taisho" wit="【明】">宋西天</rdg></app>三藏朝散大夫試鴻臚
+<lb n="0736b25" ed="T"/><byline cb:type="Translator"><note n="0736001" resp="Taisho" type="orig" place="foot text">西天譯經＝宋西天【明】＊</note><note n="0736001" resp="CBETA" type="mod">西天譯經【大】＊，宋西天【明】＊</note><app n="0736001"><lem wit="【大】">西天譯經</lem><rdg resp="Taisho" wit="【明】">宋西天</rdg></app>三藏朝散大夫試鴻臚
 <lb n="0736b26" ed="T"/><anchor xml:id="fxT14p0736b01"/>卿傳梵大師<anchor xml:id="fxT14p0736b02"/>賜紫沙門臣法護等
 <lb n="0736b27" ed="T"/>奉　詔譯</byline>
-<lb n="0736b28" ed="T"/><p xml:id="pT14p0736b2801">「復次，善男子！菩薩若修十種法者，即得常<note n="0736002" resp="Taisho" type="orig" place="foot text">住＝任【宋】</note><app n="0736002"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【宋】">任</rdg></app>
+<lb n="0736b28" ed="T"/><p xml:id="pT14p0736b2801">「復次，善男子！菩薩若修十種法者，即得常<note n="0736002" resp="Taisho" type="orig" place="foot text">住＝任【宋】</note><note n="0736002" resp="CBETA" type="mod">住【大】，任【宋】</note><app n="0736002"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【宋】">任</rdg></app>
 <lb n="0736b29" ed="T"/>妙等引心。何等為十？一者、善行身念處；二者、
 <pb n="0736c" ed="T" xml:id="T14.0489.0736c"/>
 <lb n="0736c01" ed="T"/>善行受念處；三者、善行心念處；四者、善行法
@@ -3075,7 +3075,7 @@ Added comment  for Emacs
 <lb n="0736c04" ed="T"/>行名聞利養等事念處；九者、善行如來施設
 <lb n="0736c05" ed="T"/>學門念處；十者、善斷煩惱及隨煩惱雜染念
 <lb n="0736c06" ed="T"/>處。</p><p xml:id="pT14p0736c0602" rend="inline">「善男子！云何是菩薩善行身念處？謂若菩
-<lb n="0736c07" ed="T"/>薩所有身中從我所起罪不善法，以其<note n="0736003" resp="Taisho" type="orig" place="foot text">勝＝脈【元】【明】</note><app n="0736003"><lem wit="【大】">勝</lem><rdg resp="Taisho" wit="【元】【明】">脈</rdg></app>慧
+<lb n="0736c07" ed="T"/>薩所有身中從我所起罪不善法，以其<note n="0736003" resp="Taisho" type="orig" place="foot text">勝＝脈【元】【明】</note><note n="0736003" resp="CBETA" type="mod">勝【大】，脈【元】【明】</note><app n="0736003"><lem wit="【大】">勝</lem><rdg resp="Taisho" wit="【元】【明】">脈</rdg></app>慧
 <lb n="0736c08" ed="T"/>審細思擇，皆悉遠離。又復觀察身諸過失，下
 <lb n="0736c09" ed="T"/>從足心上至頂門，筋脈纏縛，遍觀其身，而悉
 <lb n="0736c10" ed="T"/>無我，不得暫停敗壞之法，是身不淨，諸不成
@@ -3133,7 +3133,7 @@ Added comment  for Emacs
 <lb n="0737b02" ed="T"/>聚落念處？謂若菩薩入於王都國城聚落之
 <lb n="0737b03" ed="T"/>時，當起菩薩所行之行，於諸非處皆悉捨離，
 <lb n="0737b04" ed="T"/>非出家人所應行處，亦悉捨離。何等是非出
-<lb n="0737b05" ed="T"/>家人所應行處？所謂王官之舍、博<choice cb:resp="CBETA"><corr>弈</corr><sic>奕</sic></choice>之會、酒
+<lb n="0737b05" ed="T"/>家人所應行處？所謂王官之舍、博<note n="0737b0501" resp="CBETA" type="add">弈【CB】，奕【大】</note><app n="0737b0501"><lem wit="【CB】" resp="CBETA">弈</lem><rdg wit="【大】">奕</rdg></app>之會、酒
 <lb n="0737b06" ed="T"/>肆歡宴、歌舞倡伎所住之處，及餘一切非出
 <lb n="0737b07" ed="T"/>家人所應行處，當遠離之而悉不往。如是名
 <lb n="0737b08" ed="T"/>為善行王都國城聚落念處。</p><p xml:id="pT14p0737b0812" rend="inline">「云何是菩薩善
@@ -3183,7 +3183,7 @@ Added comment  for Emacs
 <lb n="0737c22" ed="T"/>佛讚吉祥，佛所稱歎。以是緣故，不自讚譽不
 <lb n="0737c23" ed="T"/>毀謗他，由離自讚不謗他故，即得戒行具足。
 <lb n="0737c24" ed="T"/>清淨戒具足故，一切聖賢之所親近，諸佛稱
-<lb n="0737c25" ed="T"/>讚，及諸菩薩之所守護，人、非人等而共<note n="0737001" resp="Taisho" type="orig" place="foot text">佑＝佐【三】</note><note n="0737001" resp="CBETA" type="mod">佑＝佐【宋】【元】【明】</note><app n="0737001"><lem wit="【大】">佑</lem><rdg resp="Taisho" wit="【宋】【元】【明】">佐</rdg></app>
+<lb n="0737c25" ed="T"/>讚，及諸菩薩之所守護，人、非人等而共<note n="0737001" resp="Taisho" type="orig" place="foot text">佑＝佐【三】</note><note n="0737001" resp="CBETA" type="mod">佑【大】，佐【宋】【元】【明】</note><app n="0737001"><lem wit="【大】">佑</lem><rdg resp="Taisho" wit="【宋】【元】【明】">佐</rdg></app>
 <lb n="0737c26" ed="T"/>助，諸婆羅門及剎帝利，一切人民咸來禮敬，
 <lb n="0737c27" ed="T"/>同梵行者而悉咨嗟。善男子！菩薩若修如是
 <lb n="0737c28" ed="T"/>十種法者，常著糞掃衣。」</p>
@@ -3289,7 +3289,7 @@ Added comment  for Emacs
 <lb n="0739a07" ed="T"/>子！菩薩若修十種法者，常受一食。何等為十？
 <lb n="0739a08" ed="T"/>一者、不生貪恣；二者、不起染著，所謂一受食
 <lb n="0739a09" ed="T"/>已，若時非時餘諸所有資身之食，不應受者
-<lb n="0739a10" ed="T"/>不復受之，謂<note n="0739001" resp="Taisho" type="orig" place="foot text">蘇＝酥【元】【明】＊</note><app n="0739001"><lem wit="【大】">蘇</lem><rdg resp="Taisho" wit="【元】【明】">酥</rdg></app>油、石蜜、根莖華果，種種美味
+<lb n="0739a10" ed="T"/>不復受之，謂<note n="0739001" resp="Taisho" type="orig" place="foot text">蘇＝酥【元】【明】＊</note><note n="0739001" resp="CBETA" type="mod">蘇【大】＊，酥【元】【明】＊</note><app n="0739001"><lem wit="【大】">蘇</lem><rdg resp="Taisho" wit="【元】【明】">酥</rdg></app>油、石蜜、根莖華果，種種美味
 <lb n="0739a11" ed="T"/>而悉不受；三者、若見他人受<app type="star" corresp="#0739001"><lem wit="【大】">蘇</lem><rdg resp="Taisho" wit="【元】【明】">酥</rdg></app>油等諸美味
 <lb n="0739a12" ed="T"/>時，不生恚害之心；四者、不生嫉妬之心；五者、
 <lb n="0739a13" ed="T"/>菩薩若於非時嬰纏重病，所應食者為療治
@@ -3361,7 +3361,7 @@ Added comment  for Emacs
 <lb n="0739c19" ed="T"/>下而坐；四者、不於藤蔓纏縛樹下而坐；五者、
 <lb n="0739c20" ed="T"/>不於枯葉樹下而坐；六者、不於有獼猴處樹
 <lb n="0739c21" ed="T"/>下而坐；七者、不於有飛鳥處樹下而坐；八者、
-<lb n="0739c22" ed="T"/>不於惡<note n="0739002" resp="Taisho" type="orig" place="foot text">犬＝大【明】</note><app n="0739002"><lem wit="【大】">犬</lem><rdg resp="Taisho" wit="【明】">大</rdg></app>住處樹下而坐；九者、不於近道路
+<lb n="0739c22" ed="T"/>不於惡<note n="0739002" resp="Taisho" type="orig" place="foot text">犬＝大【明】</note><note n="0739002" resp="CBETA" type="mod">犬【大】，大【明】</note><app n="0739002"><lem wit="【大】">犬</lem><rdg resp="Taisho" wit="【明】">大</rdg></app>住處樹下而坐；九者、不於近道路
 <lb n="0739c23" ed="T"/>處樹下而坐；十者、不於惡人住處樹下而坐。
 <lb n="0739c24" ed="T"/>何以故？菩薩若能離如是處依樹下坐，即身
 <lb n="0739c25" ed="T"/>得輕安心生適悅。善男子！菩薩若修如是十
@@ -3462,7 +3462,7 @@ Added comment  for Emacs
 <lb n="0741a07" ed="T"/>奉　詔譯</byline>
 <lb n="0741a08" ed="T"/><p xml:id="pT14p0741a0801">「復次，善男子！云何是菩薩於諸過患善能除
 <lb n="0741a09" ed="T"/>斷？謂若菩薩於自身中所有過患勤行除斷，
-<lb n="0741a10" ed="T"/>若他身中<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">有諸<note type="cf1">K40n1476_p0947c05</note></lem><rdg wit="【大】">諸有</rdg></app>過患教令斷滅，不堪任者即當
+<lb n="0741a10" ed="T"/>若他身中<note n="0741a1001" resp="CBETA" type="add">有諸【CB】【麗-CB】，諸有【大】</note><app n="0741a1001"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">有諸<note type="cf1">K40n1476_p0947c05</note></lem><rdg wit="【大】">諸有</rdg></app>過患教令斷滅，不堪任者即當
 <lb n="0741a11" ed="T"/>捨離。何等是過患？所謂於佛法僧不生尊重，
 <lb n="0741a12" ed="T"/>及於戒學并諸聖人，同梵行者上中下位，於
 <lb n="0741a13" ed="T"/>是等處不生尊重，自生我慢輕易於他，順諸
@@ -3486,7 +3486,7 @@ Added comment  for Emacs
 <lb n="0741b01" ed="T"/>寂靜，於其高勝利根之者，倨傲而行起諸邪
 <lb n="0741b02" ed="T"/>執，常出惡言。於諸可愛及不可愛色相之中
 <lb n="0741b03" ed="T"/>隨順執著，見瞋恚者不起慈心，見苦惱者不
-<lb n="0741b04" ed="T"/>生悲<note n="0741001" resp="Taisho" type="orig" place="foot text">慜＝愍【明】</note><app n="0741001"><lem wit="【大】">慜</lem><rdg resp="Taisho" wit="【明】">愍</rdg></app>，見疾病者不起厭離，見彼死者不懷
+<lb n="0741b04" ed="T"/>生悲<note n="0741001" resp="Taisho" type="orig" place="foot text">慜＝愍【明】</note><note n="0741001" resp="CBETA" type="mod">慜【大】，愍【明】</note><app n="0741001"><lem wit="【大】">慜</lem><rdg resp="Taisho" wit="【明】">愍</rdg></app>，見疾病者不起厭離，見彼死者不懷
 <lb n="0741b05" ed="T"/>驚怖。於火宅中不求出離，不能審細伺察其
 <lb n="0741b06" ed="T"/>身，不觀戒行。何者已作？何者當作？何者現
 <lb n="0741b07" ed="T"/>作？而悉不能審細伺察。不應思惟而起思惟，
@@ -3510,7 +3510,7 @@ Added comment  for Emacs
 <lb n="0741b25" ed="T"/>念住亦不可得，亦不繫心於身亦無外相可
 <lb n="0741b26" ed="T"/>得，亦無外相念住可得，心不繫著，外相離故
 <lb n="0741b27" ed="T"/>身相亦離。</p><p xml:id="pT14p0741b2705" rend="inline">「由內諸相得斷滅已，勤行發起修
-<lb n="0741b28" ed="T"/>習意樂，由多修習諸觀行故，<note n="0741002" resp="Taisho" type="orig" place="foot text">能＝非【元】【明】</note><app n="0741002"><lem wit="【大】">能</lem><rdg resp="Taisho" wit="【元】【明】">非</rdg></app>常勤修於奢
+<lb n="0741b28" ed="T"/>習意樂，由多修習諸觀行故，<note n="0741002" resp="Taisho" type="orig" place="foot text">能＝非【元】【明】</note><note n="0741002" resp="CBETA" type="mod">能【大】，非【元】【明】</note><app n="0741002"><lem wit="【大】">能</lem><rdg resp="Taisho" wit="【元】【明】">非</rdg></app>常勤修於奢
 <lb n="0741b29" ed="T"/>摩他毘鉢舍那，所修之行中無間斷。所謂心
 <pb n="0741c" ed="T" xml:id="T14.0489.0741c"/>
 <lb n="0741c01" ed="T"/>一境性是奢摩他，如實觀察諸法自性是毘
@@ -3574,7 +3574,7 @@ Added comment  for Emacs
 <lb n="0742a29" ed="T"/>切證得法性，菩薩自能出離大火宅已，復令
 <pb n="0742b" ed="T" xml:id="T14.0489.0742b"/>
 <lb n="0742b01" ed="T"/>他人亦悉出離，以其安住平等心故心無高
-<lb n="0742b02" ed="T"/>下。</p><p xml:id="pT14p0742b0202" rend="inline">「善男子！譬如長者有其六<note n="0742001" resp="Taisho" type="orig" place="foot text">子＝二【明】</note><app n="0742001"><lem wit="【大】">子</lem><rdg resp="Taisho" wit="【明】">二</rdg></app>，而一一子
+<lb n="0742b02" ed="T"/>下。</p><p xml:id="pT14p0742b0202" rend="inline">「善男子！譬如長者有其六<note n="0742001" resp="Taisho" type="orig" place="foot text">子＝二【明】</note><note n="0742001" resp="CBETA" type="mod">子【大】，二【明】</note><app n="0742001"><lem wit="【大】">子</lem><rdg resp="Taisho" wit="【明】">二</rdg></app>，而一一子
 <lb n="0742b03" ed="T"/>稱可父意，慈愛怜惜而悉同等，是等諸子幼
 <lb n="0742b04" ed="T"/>無所識復不明了，其父同以方便訓育。一時
 <lb n="0742b05" ed="T"/>父舍欻然火起，而彼諸子各各異處。善男子！
@@ -3627,7 +3627,7 @@ Added comment  for Emacs
 <lb n="0742c22" ed="T"/>忿恚惱害諸有情中，我當常行忍辱之行故
 <lb n="0742c23" ed="T"/>摧我慢。善男子！菩薩若修如是十種法者，能
 <lb n="0742c24" ed="T"/>摧我慢。</p><p xml:id="pT14p0742c2404" rend="inline">「又，善男子！菩薩若修十種法者，能生
-<lb n="0742c25" ed="T"/>淨信。何等為十？一者、福行成<app><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">辦<note type="cf1">Q34_p0285a16</note></lem><rdg wit="【大】">辨</rdg></app>；二者、具正因
+<lb n="0742c25" ed="T"/>淨信。何等為十？一者、福行成<note n="0742c2501" resp="CBETA" type="add">辦【CB】【磧-CB】，辨【大】</note><app n="0742c2501"><lem wit="【CB】【磧-CB】" resp="CBETA.maha">辦<note type="cf1">Q34_p0285a16</note></lem><rdg wit="【大】">辨</rdg></app>；二者、具正因
 <lb n="0742c26" ed="T"/>故得宿世善根圓滿；三者、不起邪信故而具
 <lb n="0742c27" ed="T"/>正見；四者、不依邪師故得意樂具足；五者、離
 <lb n="0742c28" ed="T"/>諂誑故得正行無曲；六者、根性利故而得勝
@@ -3683,7 +3683,7 @@ Added comment  for Emacs
 <lb n="0743b17" ed="T"/><p xml:id="pT14p0743b1701">「又，善男子！如來成就無量天眼境界。若有有
 <lb n="0743b18" ed="T"/>情具天眼光明非肉眼者盡有情界，彼如是
 <lb n="0743b19" ed="T"/>等諸有情類，超過算數思惟較計。是等世界，
-<lb n="0743b20" ed="T"/>如來悉能一一觀見，如觀掌中菴摩<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">勒<note type="cf1">K40n1476_p0951b23</note></lem><rdg wit="【大】">勤</rdg></app>果。</p>
+<lb n="0743b20" ed="T"/>如來悉能一一觀見，如觀掌中菴摩<note n="0743b2001" resp="CBETA" type="add">勒【CB】【麗-CB】，勤【大】</note><app n="0743b2001"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">勒<note type="cf1">K40n1476_p0951b23</note></lem><rdg wit="【大】">勤</rdg></app>果。</p>
 <lb n="0743b21" ed="T"/><p xml:id="pT14p0743b2101">「又，善男子！如來成就無量天耳境界。若無邊
 <lb n="0743b22" ed="T"/>世界充滿其中，如前所說一切有情，彼如是
 <lb n="0743b23" ed="T"/>等諸有情類，同於一剎那中俱時發聲，音韻
@@ -3752,7 +3752,7 @@ Added comment  for Emacs
 <lb n="0744a26" ed="T"/>如是舌相，表佛如來言無虛妄，汝等應當各
 <lb n="0744a27" ed="T"/>起增上清淨信心，當令汝等於長夜中得大
 <lb n="0744a28" ed="T"/>利樂。」</p>
-<lb n="0744a29" ed="T"/><p xml:id="pT14p0744a2901">說是法時，會中八萬四千菩薩得無生<note n="0744001" resp="Taisho" type="orig" place="foot text">〔法〕－【元】【明】【宮】</note><app n="0744001"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【元】【明】【宮】"><space quantity="0"/></rdg></app>
+<lb n="0744a29" ed="T"/><p xml:id="pT14p0744a2901">說是法時，會中八萬四千菩薩得無生<note n="0744001" resp="Taisho" type="orig" place="foot text">〔法〕－【元】【明】【宮】</note><note n="0744001" resp="CBETA" type="mod">法【大】，〔－〕【元】【明】【宮】</note><app n="0744001"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【元】【明】【宮】"><space quantity="0"/></rdg></app>
 <pb n="0744b" ed="T" xml:id="T14.0489.0744b"/>
 <lb n="0744b01" ed="T"/>忍，無數百千有情，遠塵離垢得法眼淨。復有
 <lb n="0744b02" ed="T"/>無數有情，先未曾發菩提心者，皆發阿耨多
@@ -3779,7 +3779,7 @@ Added comment  for Emacs
 <lb n="0744b23" ed="T"/>義諦中菩提不可得亦無取著，復無得菩提
 <lb n="0744b24" ed="T"/>者。</p><p xml:id="pT14p0744b2402" rend="inline">「善男子！名相施設此說是為世俗之法，而
 <lb n="0744b25" ed="T"/>勝義諦亦不離世俗法有。若無世俗之法，即
-<lb n="0744b26" ed="T"/>不能得<note n="0744002" resp="Taisho" type="orig" place="foot text">從＝彼【元】【明】【宮】</note><app n="0744002"><lem wit="【大】">從</lem><rdg resp="Taisho" wit="【元】【明】【宮】">彼</rdg></app>勝義諦。若菩薩於如是處了知世
+<lb n="0744b26" ed="T"/>不能得<note n="0744002" resp="Taisho" type="orig" place="foot text">從＝彼【元】【明】【宮】</note><note n="0744002" resp="CBETA" type="mod">從【大】，彼【元】【明】【宮】</note><app n="0744002"><lem wit="【大】">從</lem><rdg resp="Taisho" wit="【元】【明】【宮】">彼</rdg></app>勝義諦。若菩薩於如是處了知世
 <lb n="0744b27" ed="T"/>俗，是即名為善解世俗之法。善男子！菩薩若
 <lb n="0744b28" ed="T"/>修如是十種法者，善知世俗。</p>
 <lb n="0744b29" ed="T"/><cb:juan n="016" fun="close"><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第十六</cb:jhead></cb:juan>
@@ -3790,7 +3790,7 @@ Added comment  for Emacs
 <lb n="0744c03" ed="T"/><cb:juan n="017" fun="open"><cb:mulu n="017" type="卷"/><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第十
 <lb n="0744c04" ed="T"/>七</cb:jhead></cb:juan>
 <lb n="0744c05" ed="T"/><byline cb:type="Translator"><anchor xml:id="fxT14p0744c01"/>西天譯經三藏朝散大夫試鴻臚
-<lb n="0744c06" ed="T"/><anchor xml:id="fxT14p0744c02"/>卿傳梵大師<note n="0744003" resp="Taisho" type="orig" place="foot text">〔賜紫沙門〕－【元】，〔賜紫沙門臣〕－【明】</note><note n="0744003" resp="CBETA" type="mod">〔賜紫沙門臣〕－【明】，〔賜紫沙門〕－【元】</note><app n="0744003"><lem wit="【大】">賜紫沙門臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【元】">臣</rdg></app>法護等
+<lb n="0744c06" ed="T"/><anchor xml:id="fxT14p0744c02"/>卿傳梵大師<note n="0744003" resp="Taisho" type="orig" place="foot text">〔賜紫沙門〕－【元】，〔賜紫沙門臣〕－【明】</note><note n="0744003" resp="CBETA" type="mod">賜紫沙門臣【大】，〔－〕【明】，臣【元】</note><app n="0744003"><lem wit="【大】">賜紫沙門臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【元】">臣</rdg></app>法護等
 <lb n="0744c07" ed="T"/>奉　詔譯</byline>
 <lb n="0744c08" ed="T"/><p xml:id="pT14p0744c0801">「復次，善男子！菩薩若修十種法者，善知勝義
 <lb n="0744c09" ed="T"/>諦。何等為十？一者、成就不生法故；二者、成就
@@ -3833,7 +3833,7 @@ Added comment  for Emacs
 <lb n="0745a16" ed="T"/>如是乃得一大苦蘊集。</p><p xml:id="pT14p0745a1610" rend="inline">「是故智者應當勤力
 <lb n="0745a17" ed="T"/>斷除無明，破壞無明，拔無明根滅無明法，由
 <lb n="0745a18" ed="T"/>無明滅故，即能除滅無智之者所依止法。譬
-<lb n="0745a19" ed="T"/>如命根滅已<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">餘<note type="cf1">K40n1476_p0954a06</note></lem><rdg wit="【大】">除</rdg></app>根皆滅，無明滅已，無智所依
+<lb n="0745a19" ed="T"/>如命根滅已<note n="0745a1901" resp="CBETA" type="add">餘【CB】【麗-CB】，除【大】</note><app n="0745a1901"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">餘<note type="cf1">K40n1476_p0954a06</note></lem><rdg wit="【大】">除</rdg></app>根皆滅，無明滅已，無智所依
 <lb n="0745a20" ed="T"/>諸法皆滅，亦復如是。何以故？無無智故乃無
 <lb n="0745a21" ed="T"/>積集，一切煩惱不轉諸趣，以無煩惱轉諸趣
 <lb n="0745a22" ed="T"/>故，即能斷滅生死之因，近於涅槃。善男子！菩
@@ -3842,7 +3842,7 @@ Added comment  for Emacs
 <lb n="0745a25" ed="T"/>等為十？一者、菩薩善自觀察：『今我此身何族
 <lb n="0745a26" ed="T"/>中生？婆羅門族邪？剎帝利族邪？長者族邪？而
 <lb n="0745a27" ed="T"/>或高尚富貴族邪？其或卑賤下種族邪？若在
-<lb n="0745a28" ed="T"/>高尚富貴族生，我當不恃此緣而生憍倨，<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">設<note type="cf1">K40n1476_p0954a19</note></lem><rdg wit="【大】">記</rdg></app>
+<lb n="0745a28" ed="T"/>高尚富貴族生，我當不恃此緣而生憍倨，<note n="0745a2801" resp="CBETA" type="add">設【CB】【麗-CB】，記【大】</note><app n="0745a2801"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">設<note type="cf1">K40n1476_p0954a19</note></lem><rdg wit="【大】">記</rdg></app>
 <lb n="0745a29" ed="T"/>使於其卑賤族生。』當起是念：『由我宿昔造雜
 <pb n="0745b" ed="T" xml:id="T14.0489.0745b"/>
 <lb n="0745b01" ed="T"/>業故生如是族。』即以此緣厭離於世，生厭離
@@ -3902,7 +3902,7 @@ Added comment  for Emacs
 <lb n="0745c25" ed="T"/>施。善男子！菩薩若修如是十種法者，善知世
 <lb n="0745c26" ed="T"/>間。</p>
 <lb n="0745c27" ed="T"/><p xml:id="pT14p0745c2701">「又，善男子！菩薩若修十種法者，得生清淨諸
-<lb n="0745c28" ed="T"/>佛剎土。何等為十？一者、具戒<app><lem resp="CBETA.maha" wit="【CBETA】【麗】">清<note type="cf1">K40n1476_p0955a20</note></lem><rdg wit="【大】">淨</rdg></app>淨不斷不雜，
+<lb n="0745c28" ed="T"/>佛剎土。何等為十？一者、具戒<note n="0745c2801" resp="CBETA" type="add">清【CB】【麗-CB】，淨【大】</note><app n="0745c2801"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">清<note type="cf1">K40n1476_p0955a20</note></lem><rdg wit="【大】">淨</rdg></app>淨不斷不雜，
 <lb n="0745c29" ed="T"/>復無染污戒行成就；二者、行平等心，為一切
 <pb n="0746a" ed="T" xml:id="T14.0489.0746a"/>
 <lb n="0746a01" ed="T"/>有情設平等方便；三者、成就廣大善根非尠
@@ -3913,7 +3913,7 @@ Added comment  for Emacs
 <lb n="0746a06" ed="T"/>十者、廣行慈行無損害心。善男子！菩薩若修
 <lb n="0746a07" ed="T"/>如是十種法者，即生清淨諸佛剎土。」</p>
 <lb n="0746a08" ed="T"/><p xml:id="pT14p0746a0801">爾時，除蓋障菩薩白佛言：「云何？世尊！為具修
-<lb n="0746a09" ed="T"/>十法乃<note n="0746001" resp="Taisho" type="orig" place="foot text">得＝能【明】</note><app n="0746001"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【明】">能</rdg></app>生邪？為隨修一法無所缺壞亦得
+<lb n="0746a09" ed="T"/>十法乃<note n="0746001" resp="Taisho" type="orig" place="foot text">得＝能【明】</note><note n="0746001" resp="CBETA" type="mod">得【大】，能【明】</note><app n="0746001"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【明】">能</rdg></app>生邪？為隨修一法無所缺壞亦得
 <lb n="0746a10" ed="T"/>生邪？」</p><p xml:id="pT14p0746a1003" rend="inline">佛言：「善男子！若隨修一法不斷不壞，無
 <lb n="0746a11" ed="T"/>雜無染清淨潔白，即能成就餘諸法行。善男
 <lb n="0746a12" ed="T"/>子！此中意者，若能具修諸法無所缺減，生淨
@@ -3946,7 +3946,7 @@ Added comment  for Emacs
 <lb n="0746b08" ed="T"/><cb:juan n="018" fun="open"><cb:mulu n="018" type="卷"/><cb:jhead><title>佛說除蓋障菩薩所問經</title>卷第十
 <lb n="0746b09" ed="T"/>八</cb:jhead></cb:juan>
 <lb n="0746b10" ed="T"/><byline cb:type="Translator"><anchor xml:id="fxT14p0746b01"/>西天譯經三藏朝散大夫試鴻臚
-<lb n="0746b11" ed="T"/><anchor xml:id="fxT14p0746b02"/>卿傳梵大師<note n="0746002" resp="Taisho" type="orig" place="foot text">〔賜紫沙門臣〕－【明】＊</note><app n="0746002"><lem wit="【大】">賜紫沙門臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>法護等
+<lb n="0746b11" ed="T"/><anchor xml:id="fxT14p0746b02"/>卿傳梵大師<note n="0746002" resp="Taisho" type="orig" place="foot text">〔賜紫沙門臣〕－【明】＊</note><note n="0746002" resp="CBETA" type="mod">賜紫沙門臣【大】＊，〔－〕【明】＊</note><app n="0746002"><lem wit="【大】">賜紫沙門臣</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>法護等
 <lb n="0746b12" ed="T"/>奉　詔譯</byline>
 <lb n="0746b13" ed="T"/><p xml:id="pT14p0746b1301">「復次，善男子！菩薩若修十種法者，即得淨命。
 <lb n="0746b14" ed="T"/>何等為十？一者、遠離諂求利養；二者、遠離為
@@ -3964,7 +3964,7 @@ Added comment  for Emacs
 <lb n="0746b26" ed="T"/>發徐緩語，及柔軟語，愛樂之語，或隨順語，此
 <lb n="0746b27" ed="T"/>即名為語不行諂。心不行諂者，菩薩若見施
 <lb n="0746b28" ed="T"/>主及助施者，以其利養召命之時，而不語現
-<lb n="0746b29" ed="T"/>少欲，心起貪愛內<note n="0746003" resp="Taisho" type="orig" place="foot text">懷＝壞【元】【明】</note><app n="0746003"><lem wit="【大】">懷</lem><rdg resp="Taisho" wit="【元】【明】">壞</rdg></app>熱惱，此即名為心不行
+<lb n="0746b29" ed="T"/>少欲，心起貪愛內<note n="0746003" resp="Taisho" type="orig" place="foot text">懷＝壞【元】【明】</note><note n="0746003" resp="CBETA" type="mod">懷【大】，壞【元】【明】</note><app n="0746003"><lem wit="【大】">懷</lem><rdg resp="Taisho" wit="【元】【明】">壞</rdg></app>熱惱，此即名為心不行
 <pb n="0746c" ed="T" xml:id="T14.0489.0746c"/>
 <lb n="0746c01" ed="T"/>諂。如是等名為菩薩善能遠離諂求利養。</p><p xml:id="pT14p0746c0117" rend="inline">「云
 <lb n="0746c02" ed="T"/>何是善能遠離為利養故矯現其相？謂若菩
@@ -4028,17 +4028,17 @@ Added comment  for Emacs
 <pb n="0747b" ed="T" xml:id="T14.0489.0747b"/>
 <lb n="0747b01" ed="T"/>故。善男子！菩薩若修如是十種法者，能行一
 <lb n="0747b02" ed="T"/>切如來教勅。</p><p xml:id="pT14p0747b0206" rend="inline">「又，善男子！菩薩若修十種法者，
-<lb n="0747b03" ed="T"/>得面相<g ref="#CB02885"/>怡離諸顰<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">蹙<note type="cf1">K40n1476_p0957b06</note></lem><rdg wit="【大】">躄</rdg></app>。何等為十？一者、諸根
+<lb n="0747b03" ed="T"/>得面相<g ref="#CB02885"/>怡離諸顰<note n="0747b0301" resp="CBETA" type="add">蹙【CB】【麗-CB】，躄【大】</note><app n="0747b0301"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">蹙<note type="cf1">K40n1476_p0957b06</note></lem><rdg wit="【大】">躄</rdg></app>。何等為十？一者、諸根
 <lb n="0747b04" ed="T"/>勝妙；二者、諸根清淨；三者、諸根無缺；四者、諸
 <lb n="0747b05" ed="T"/>根無垢；五者、諸根潔白；六者、遠離瞋恚；七者、
 <lb n="0747b06" ed="T"/>遠離隨眠；八者、遠離纏縛；九者、遠離結恨；十
 <lb n="0747b07" ed="T"/>者、遠離忿怒。善男子！菩薩若修如是十種法
-<lb n="0747b08" ed="T"/>者，得面相熙怡離諸顰<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">蹙<note type="cf1">K40n1476_p0957b12</note></lem><rdg wit="【大】">躄</rdg></app>。」</p>
+<lb n="0747b08" ed="T"/>者，得面相熙怡離諸顰<note n="0747b0801" resp="CBETA" type="add">蹙【CB】【麗-CB】，躄【大】</note><app n="0747b0801"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">蹙<note type="cf1">K40n1476_p0957b12</note></lem><rdg wit="【大】">躄</rdg></app>。」</p>
 <lb n="0747b09" ed="T"/><p xml:id="pT14p0747b0901">爾時，除蓋障菩薩白佛言：「世尊！如我解佛所
 <lb n="0747b10" ed="T"/>說之義，由諸根清淨故，菩薩即得面相熙怡，
-<lb n="0747b11" ed="T"/>由斷諸煩惱故，得離顰<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">蹙<note type="cf1">K40n1476_p0957b16</note></lem><rdg wit="【大】">躄</rdg></app>。」</p><p xml:id="pT14p0747b1111" rend="inline">佛言：「如是，如是。善
+<lb n="0747b11" ed="T"/>由斷諸煩惱故，得離顰<note n="0747b1101" resp="CBETA" type="add">蹙【CB】【麗-CB】，躄【大】</note><app n="0747b1101"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">蹙<note type="cf1">K40n1476_p0957b16</note></lem><rdg wit="【大】">躄</rdg></app>。」</p><p xml:id="pT14p0747b1111" rend="inline">佛言：「如是，如是。善
 <lb n="0747b12" ed="T"/>男子！由諸根清淨故，菩薩即得面相熙怡，由
-<lb n="0747b13" ed="T"/>斷諸煩惱故得離顰<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">蹙<note type="cf1">K40n1476_p0957b18</note></lem><rdg wit="【大】">躄</rdg></app>。</p><p xml:id="pT14p0747b1310" rend="inline">「又，善男子！菩薩若修
+<lb n="0747b13" ed="T"/>斷諸煩惱故得離顰<note n="0747b1301" resp="CBETA" type="add">蹙【CB】【麗-CB】，躄【大】</note><app n="0747b1301"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">蹙<note type="cf1">K40n1476_p0957b18</note></lem><rdg wit="【大】">躄</rdg></app>。</p><p xml:id="pT14p0747b1310" rend="inline">「又，善男子！菩薩若修
 <lb n="0747b14" ed="T"/>十種法者，即得多聞。何等為十？一者、如實了
 <lb n="0747b15" ed="T"/>知於生死中貪火熾然；二者、如實了知瞋火
 <lb n="0747b16" ed="T"/>增盛；三者、如實了知癡火昏亂；四者、如實了
@@ -4143,7 +4143,7 @@ Added comment  for Emacs
 <lb n="0748b24" ed="T"/>理語者，所謂不壞真實之義。利益行者，謂令
 <lb n="0748b25" ed="T"/>有情不善不起、善法安立。同財利益者，謂同
 <lb n="0748b26" ed="T"/>飲食財物平等受用，同其濟命受用等事。行利
-<lb n="0748b27" ed="T"/>益者，所謂金銀摩尼真珠瑠璃，螺貝<app><lem wit="【CBETA】【麗】" resp="CBETA.maha">璧<note type="cf1">K40n1476_p0959a19</note></lem><rdg wit="【大】">壁</rdg></app>玉象
+<lb n="0748b27" ed="T"/>益者，所謂金銀摩尼真珠瑠璃，螺貝<note n="0748b2701" resp="CBETA" type="add">璧【CB】【麗-CB】，壁【大】</note><app n="0748b2701"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">璧<note type="cf1">K40n1476_p0959a19</note></lem><rdg wit="【大】">壁</rdg></app>玉象
 <lb n="0748b28" ed="T"/>馬車乘等，同其受用而行利益。善男子！菩薩
 <lb n="0748b29" ed="T"/>若修如是十種法者，即能善知四攝法行。</p><p xml:id="pT14p0748b2917" rend="inline">「又，
 <pb n="0748c" ed="T" xml:id="T14.0489.0748c"/>
@@ -4171,7 +4171,7 @@ Added comment  for Emacs
 <lb n="0748c22" ed="T"/>何等為十？一者、受用其根；二者、受用其莖；三
 <lb n="0748c23" ed="T"/>者、受用其枝；四者、受用其葉；五者、受用其花；
 <lb n="0748c24" ed="T"/>六者、受用其果；七者、見時受用其色；八者、嗅
-<lb n="0748c25" ed="T"/>時受用其香；九者、<note n="0748001" resp="Taisho" type="orig" place="foot text">當＝甞【元】【明】【宮】</note><note n="0748001" resp="CBETA" type="mod">當＝甞【元】【明】【宮】【CB】</note><app n="0748001"><lem resp="CBETA.maha" wit="【CBETA】">甞</lem><rdg wit="【大】">當</rdg><rdg resp="Taisho" wit="【元】【明】【宮】">甞</rdg></app>時受用其味；十者、舉動
+<lb n="0748c25" ed="T"/>時受用其香；九者、<note n="0748001" resp="Taisho" type="orig" place="foot text">當＝甞【元】【明】【宮】</note><note n="0748001" resp="CBETA" type="mod">甞【CB】【元】【明】【宮】，當【大】</note><app n="0748001"><lem resp="CBETA.maha" wit="【CB】">甞</lem><rdg wit="【大】">當</rdg><rdg resp="Taisho" wit="【元】【明】【宮】">甞</rdg></app>時受用其味；十者、舉動
 <lb n="0748c26" ed="T"/>受用其觸。</p><p xml:id="pT14p0748c2605" rend="inline">「善男子！菩薩亦復如是，從初發心
 <lb n="0748c27" ed="T"/>已來，善能治療一切有情諸煩惱病，而諸有
 <lb n="0748c28" ed="T"/>情隨所修作悉愈其疾。一者、受用菩薩布施
@@ -4300,7 +4300,7 @@ Added comment  for Emacs
 <pb n="0750b" ed="T" xml:id="T14.0489.0750b"/>
 <lb n="0750b01" ed="T"/>尊重恭敬，專諦一心獻諸供養。如是至誠作
 <lb n="0750b02" ed="T"/>供養已。前白佛言：「世尊！我知過去久久生中，
-<lb n="0750b03" ed="T"/>有<note n="0750001" resp="Taisho" type="orig" place="foot text">七＝十【元】【明】</note><app n="0750001"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【元】【明】">十</rdg></app>萬二千諸佛、如來。悉曾於此象頭山中
+<lb n="0750b03" ed="T"/>有<note n="0750001" resp="Taisho" type="orig" place="foot text">七＝十【元】【明】</note><note n="0750001" resp="CBETA" type="mod">七【大】，十【元】【明】</note><app n="0750001"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【元】【明】">十</rdg></app>萬二千諸佛、如來。悉曾於此象頭山中
 <lb n="0750b04" ed="T"/>說此正法。亦如是義、亦如是理、亦如是文。」</p><p xml:id="pT14p0750b0417" rend="inline">佛
 <lb n="0750b05" ed="T"/>言：「長壽天女！汝快得善利，值遇如是法寶出
 <lb n="0750b06" ed="T"/>世，一一親聞。」</p>
@@ -4391,7 +4391,7 @@ Added comment  for Emacs
 <lb n="0751b01" ed="T"/>高心，不現我相不生慢執，不自稱譽不凌毀
 <lb n="0751b02" ed="T"/>他，亦復不生染著之心，應當恭敬尊重說
 <lb n="0751b03" ed="T"/>法。」</p>
-<lb n="0751b04" ed="T"/><p xml:id="pT14p0751b0401">爾時，帝釋天主前白佛言：「世尊！若諸<note n="0751001" resp="Taisho" type="orig" place="foot text">地方＝他方【三】【宮】</note><note n="0751001" resp="CBETA" type="mod">地方＝他方【宋】【元】【明】【宮】</note><app n="0751001"><lem wit="【大】">地方</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">他方</rdg></app>有
+<lb n="0751b04" ed="T"/><p xml:id="pT14p0751b0401">爾時，帝釋天主前白佛言：「世尊！若諸<note n="0751001" resp="Taisho" type="orig" place="foot text">地方＝他方【三】【宮】</note><note n="0751001" resp="CBETA" type="mod">地方【大】，他方【宋】【元】【明】【宮】</note><app n="0751001"><lem wit="【大】">地方</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">他方</rdg></app>有
 <lb n="0751b05" ed="T"/>說如是正法之處，我當率諸宮屬往詣彼所，
 <lb n="0751b06" ed="T"/>聽受如是甚深正法，及為護助彼說法師。」</p><p xml:id="pT14p0751b0617" rend="inline">佛
 <lb n="0751b07" ed="T"/>言：「善哉！善哉！憍尸迦！汝善守護如來正法，如

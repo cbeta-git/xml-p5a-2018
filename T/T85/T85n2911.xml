@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 2911 讚僧功德經</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 2911 讚僧功德經</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -112,11 +112,11 @@ Added comment  for Emacs
 <lb n="1456c13" ed="T"/><cb:docNumber>No. 2911</cb:docNumber>
 <lb n="1456c14" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="1456001" resp="Taisho" type="orig" place="foot text">【原】大英博物館藏燉煌本, S. 652</note>讚僧功德經</cb:jhead></cb:juan>
 <lb n="1456c15" ed="T"/>
-<lb n="1456c16" ed="T"/><cb:div type="jing"><lg xml:id="lgT85p1456c1601"><l>阿含經中略集出，</l><l>歎大<choice cb:resp="CBETA.maha"><corr>福田諸僧寶</corr><sic>□□□□□</sic></choice>，</l>
-<lb n="1456c17" ed="T"/><l><choice cb:resp="CBETA.maha"><corr>大梵天王及帝釋</corr><sic>□□□□□□□</sic></choice>，</l><l>以大梵音讚僧寶。</l>
-<lb n="1456c18" ed="T"/><l>如地堅牢<choice cb:resp="CBETA.maha"><corr>諸神等</corr><sic>□□□</sic></choice>，</l><l><choice cb:resp="CBETA.maha"><corr>讚歎一切僧寶眾</corr><sic>□□□□□□□</sic></choice>，</l>
-<lb n="1456c19" ed="T"/><l>我末法中出家人，</l><l>常住僧<choice cb:resp="CBETA.maha"><corr>寶常住僧</corr><sic>讚□□□</sic></choice>。</l>
-<lb n="1456c20" ed="T"/><l><choice cb:resp="CBETA.maha"><corr>僧寶僧共興佛法</corr><sic>□□□□□□□</sic></choice>，</l><l>志求菩提微妙果，</l>
+<lb n="1456c16" ed="T"/><cb:div type="jing"><lg xml:id="lgT85p1456c1601"><l>阿含經中略集出，</l><l>歎大<note n="1456c1601" resp="CBETA" type="add">福田諸僧寶【CB】，□□□□□【大】</note><app n="1456c1601"><lem wit="【CB】" resp="CBETA.maha">福田諸僧寶</lem><rdg wit="【大】">□□□□□</rdg></app>，</l>
+<lb n="1456c17" ed="T"/><l><note n="1456c1701" resp="CBETA" type="add">大梵天王及帝釋【CB】，□□□□□□□【大】</note><app n="1456c1701"><lem wit="【CB】" resp="CBETA.maha">大梵天王及帝釋</lem><rdg wit="【大】">□□□□□□□</rdg></app>，</l><l>以大梵音讚僧寶。</l>
+<lb n="1456c18" ed="T"/><l>如地堅牢<note n="1456c1801" resp="CBETA" type="add">諸神等【CB】，□□□【大】</note><app n="1456c1801"><lem wit="【CB】" resp="CBETA.maha">諸神等</lem><rdg wit="【大】">□□□</rdg></app>，</l><l><note n="1456c1802" resp="CBETA" type="add">讚歎一切僧寶眾【CB】，□□□□□□□【大】</note><app n="1456c1802"><lem wit="【CB】" resp="CBETA.maha">讚歎一切僧寶眾</lem><rdg wit="【大】">□□□□□□□</rdg></app>，</l>
+<lb n="1456c19" ed="T"/><l>我末法中出家人，</l><l>常住僧<note n="1456c1901" resp="CBETA" type="add">寶常住僧【CB】，讚□□□【大】</note><app n="1456c1901"><lem wit="【CB】" resp="CBETA.maha">寶常住僧</lem><rdg wit="【大】">讚□□□</rdg></app>。</l>
+<lb n="1456c20" ed="T"/><l><note n="1456c2001" resp="CBETA" type="add">僧寶僧共興佛法【CB】，□□□□□□□【大】</note><app n="1456c2001"><lem wit="【CB】" resp="CBETA.maha">僧寶僧共興佛法</lem><rdg wit="【大】">□□□□□□□</rdg></app>，</l><l>志求菩提微妙果，</l>
 <lb n="1456c21" ed="T"/><l>於濁苦惡世界中，</l><l>常在如來清淨眾。</l>
 <lb n="1456c22" ed="T"/><l>僧中或有求四果，</l><l>或以證果在僧中，</l>
 <lb n="1456c23" ed="T"/><l>此等八輩諸上人，</l><l>和合僧中常不斷。</l>
@@ -132,11 +132,11 @@ Added comment  for Emacs
 <lb n="1457a03" ed="T"/><l>若人當來求遠離，</l><l>越於生死貧窮河，</l>
 <lb n="1457a04" ed="T"/><l>應當速疾志誠心，</l><l>於僧寶中樹因果。</l>
 <lb n="1457a05" ed="T"/><l>於此最妙良福田，</l><l>若有種植功德子，</l>
-<lb n="1457a06" ed="T"/><l>當來收獲無邊畔，</l><l><choice cb:resp="CBETA.maha"><corr>猶</corr><sic>由</sic></choice>如雲中含大雨。</l>
+<lb n="1457a06" ed="T"/><l>當來收獲無邊畔，</l><l><note n="1457a0601" resp="CBETA" type="add">猶【CB】，由【大】</note><app n="1457a0601"><lem wit="【CB】" resp="CBETA.maha">猶</lem><rdg wit="【大】">由</rdg></app>如雲中含大雨。</l>
 <lb n="1457a07" ed="T"/><l>施者不籌量度者，</l><l>平等奉施無二心，</l>
 <lb n="1457a08" ed="T"/><l>是人方可能堪任，</l><l>受人天中勝如果。</l>
 <lb n="1457a09" ed="T"/><l>無量功德具莊嚴，</l><l>大悲世尊弟子眾，</l>
-<lb n="1457a10" ed="T"/><l>凡人肉眼難分別，</l><l><choice cb:resp="CBETA.maha"><corr>猶</corr><sic>由</sic></choice>如灰覆於火上。</l>
+<lb n="1457a10" ed="T"/><l>凡人肉眼難分別，</l><l><note n="1457a1001" resp="CBETA" type="add">猶【CB】，由【大】</note><app n="1457a1001"><lem wit="【CB】" resp="CBETA.maha">猶</lem><rdg wit="【大】">由</rdg></app>如灰覆於火上。</l>
 <lb n="1457a11" ed="T"/><l>或有外現犯戒相，</l><l>內祕無量諸功德，</l>
 <lb n="1457a12" ed="T"/><l>應當信順崇重之，</l><l>賢聖愚凡不可測。</l>
 <lb n="1457a13" ed="T"/><l>或有外現具威儀，</l><l>或示未能捨其欲，</l>
@@ -145,7 +145,7 @@ Added comment  for Emacs
 <lb n="1457a16" ed="T"/><l>如來弟子亦如是，</l><l>有戒無戒亦難辨。</l>
 <lb n="1457a17" ed="T"/><l>是故殷勤勸諸人，</l><l>不聽毀罵僧寶眾，</l>
 <lb n="1457a18" ed="T"/><l>若欲不沈淪苦海，</l><l>常當敬重植良田。</l>
-<lb n="1457a19" ed="T"/><l>常欲<choice cb:resp="CBETA.maha"><corr>人</corr><sic>□</sic></choice>中受樂者，</l><l>亦當供養苾芻僧，</l>
+<lb n="1457a19" ed="T"/><l>常欲<note n="1457a1901" resp="CBETA" type="add">人【CB】，□【大】</note><app n="1457a1901"><lem wit="【CB】" resp="CBETA.maha">人</lem><rdg wit="【大】">□</rdg></app>中受樂者，</l><l>亦當供養苾芻僧，</l>
 <lb n="1457a20" ed="T"/><l>勿以凡夫下劣心，</l><l>分別如來弟子眾。</l>
 <lb n="1457a21" ed="T"/><l>若有清信士女等，</l><l>能於十念生信心，</l>
 <lb n="1457a22" ed="T"/><l>平等供養苾芻僧，</l><l>是人獲得無量報。</l>
@@ -223,7 +223,7 @@ Added comment  for Emacs
 <lb n="1458a04" ed="T"/><l>是以世尊制諸人，</l><l>不聽毀謗沙門眾，</l>
 <lb n="1458a05" ed="T"/><l>唯當尊重生敬心，</l><l>同此受勝諸天報。</l>
 <lb n="1458a06" ed="T"/><l>佛日滅沒雖久遠，</l><l>僧寶連暉傳法燈，</l>
-<lb n="1458a07" ed="T"/><l><choice cb:resp="CBETA.maha"><corr>猶</corr><sic>由</sic></choice>如龍王降甘雨，</l><l>大地萠芽普洽潤。</l>
+<lb n="1458a07" ed="T"/><l><note n="1458a0701" resp="CBETA" type="add">猶【CB】，由【大】</note><app n="1458a0701"><lem wit="【CB】" resp="CBETA.maha">猶</lem><rdg wit="【大】">由</rdg></app>如龍王降甘雨，</l><l>大地萠芽普洽潤。</l>
 <lb n="1458a08" ed="T"/><l>和合僧寶亦如是，</l><l>雨於如來妙法雨，</l>
 <lb n="1458a09" ed="T"/><l>滋潤枯渴諸群生，</l><l>長養善牙功德種。</l>
 <lb n="1458a10" ed="T"/><l>於多劫中宿植田，</l><l>得為如來弟子眾，</l>
@@ -231,11 +231,11 @@ Added comment  for Emacs
 <lb n="1458a12" ed="T"/><l>傳持世尊末代教，</l><l>流化十方諸國土，</l>
 <lb n="1458a13" ed="T"/><l>利益一切諸眾生，</l><l>令佛法輪恒不絕。</l>
 <lb n="1458a14" ed="T"/><l>佛法久後滅沒時，</l><l>伽藍精舍毀成聚，</l>
-<lb n="1458a15" ed="T"/><l>龕塔尊像併荒<choice cb:resp="CBETA.maha"><corr>涼</corr><sic>良</sic></choice>，</l><l>設欲供養難可得。</l>
+<lb n="1458a15" ed="T"/><l>龕塔尊像併荒<note n="1458a1501" resp="CBETA" type="add">涼【CB】，良【大】</note><app n="1458a1501"><lem wit="【CB】" resp="CBETA.maha">涼</lem><rdg wit="【大】">良</rdg></app>，</l><l>設欲供養難可得。</l>
 <lb n="1458a16" ed="T"/><l>壁畫僧形不可見，</l><l>何況得聞於正法？</l>
 <lb n="1458a17" ed="T"/><l>人身難得生人中，</l><l>佛法難逢今已遇。</l>
 <lb n="1458a18" ed="T"/><l>如何於妙良福田，</l><l>不種當來功德種？</l>
-<lb n="1458a19" ed="T"/><l>冥路懸遠不可達，</l><l>當<choice cb:resp="CBETA"><corr>辦</corr><sic>辨</sic></choice>資糧備前所。</l>
+<lb n="1458a19" ed="T"/><l>冥路懸遠不可達，</l><l>當<note n="1458a1901" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="1458a1901"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>資糧備前所。</l>
 <lb n="1458a20" ed="T"/><l>善福田中不種植，</l><l>當來嶮路之資糧，</l>
 <lb n="1458a21" ed="T"/><l>是故諸人應善思，</l><l>聞經僧中應惠施。</l>
 <lb n="1458a22" ed="T"/><l>依經我略讚僧寶，</l><l>功德無量遍虛空，</l>

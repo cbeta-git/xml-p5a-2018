@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="T14n0539" xmlns:cb="http://www.cbeta.org/ns/1.0">
 <teiHeader>
         <fileDesc>
@@ -134,14 +134,14 @@ Added comment  for Emacs
 <lb ed="T" n="0821c11"/><cb:docNumber>No. 539</cb:docNumber>
 <lb ed="T" n="0821c12"/><cb:juan fun="open" n="001"><cb:mulu n="001" type="卷"/><cb:jhead>盧至長者因緣經</cb:jhead></cb:juan>
 <lb ed="T" n="0821c13"/>
-<lb ed="T" n="0821c14"/><byline cb:type="Translator">失譯<note resp="Taisho" type="orig" n="0821027" place="foot text">〔人〕－【宋】【元】【宮】，人＋（名）【明】</note><app n="0821027"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【宋】【元】【宮】"><space quantity="0"></space></rdg><rdg wit="【明】" resp="Taisho">人名</rdg></app>今附東晉錄</byline>
-<lb n="0821c15" ed="T"/><cb:div type="jing"><p xml:id="pT14p0821c1501">「<note place="foot text" n="0821028" type="orig" resp="Taisho">（佛言）＋若【元】【明】</note><app n="0821028"><lem wit="【大】">若</lem><rdg wit="【元】【明】" resp="Taisho">佛言若</rdg></app>著慳貪，人天所賤，是以智者應當布施。
-<lb n="0821c16" ed="T"/>所以者何？我昔曾<note type="orig" resp="Taisho" place="foot text" n="0821029">聞＋（舍衛城中）【元】【宮】</note><app n="0821029"><lem wit="【大】">聞</lem><rdg wit="【元】【宮】" resp="Taisho">聞舍衛城中</rdg></app>，有大長者，名曰盧至，
+<lb ed="T" n="0821c14"/><byline cb:type="Translator">失譯<note resp="Taisho" type="orig" n="0821027" place="foot text">〔人〕－【宋】【元】【宮】，人＋（名）【明】</note><note resp="CBETA" type="mod" n="0821027">人【大】，〔－〕【宋】【元】【宮】，人名【明】</note><app n="0821027"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【宋】【元】【宮】"><space quantity="0"/></rdg><rdg wit="【明】" resp="Taisho">人名</rdg></app>今附東晉錄</byline>
+<lb n="0821c15" ed="T"/><cb:div type="jing"><p xml:id="pT14p0821c1501">「<note place="foot text" n="0821028" type="orig" resp="Taisho">（佛言）＋若【元】【明】</note><note n="0821028" type="mod" resp="CBETA">若【大】，佛言若【元】【明】</note><app n="0821028"><lem wit="【大】">若</lem><rdg wit="【元】【明】" resp="Taisho">佛言若</rdg></app>著慳貪，人天所賤，是以智者應當布施。
+<lb n="0821c16" ed="T"/>所以者何？我昔曾<note type="orig" resp="Taisho" place="foot text" n="0821029">聞＋（舍衛城中）【元】【宮】</note><note type="mod" resp="CBETA" n="0821029">聞【大】，聞舍衛城中【元】【宮】</note><app n="0821029"><lem wit="【大】">聞</lem><rdg wit="【元】【宮】" resp="Taisho">聞舍衛城中</rdg></app>，有大長者，名曰盧至，
 <lb n="0821c17" ed="T"/>其家巨富財產無量，倉庫盈溢如毘沙門，由
 <lb n="0821c18" ed="T"/>其往昔於勝福田修布施因，故獲其報。然其
 <lb ed="T" n="0821c19"/>施時不能至心，以是之故，雖復富有，意常
 <lb ed="T" n="0821c20"/>下劣；所著衣裳，垢膩不淨；所可食者，雜穀、
-<lb ed="T" n="0821c21"/>稗、莠、<note type="orig" resp="Taisho" place="foot text" n="0821030">黎＝蔾【宮】</note><note resp="CBETA" type="mod" n="0821030">黎＝蔾【宮】【麗-CB】【CB】</note><app n="0821030"><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">藜<note type="cf1">K20n0859_p1218a10</note><note type="cf2">T54n2128_p0926c04</note></lem><rdg wit="【大】">黎</rdg><rdg wit="【宮】" resp="Taisho">蔾</rdg></app>、藿、草、菜，以充其飢；<note place="foot text" n="0821031" type="orig" resp="Taisho">酢＝醋【宮】</note><app n="0821031"><lem wit="【大】">酢</lem><rdg resp="Taisho" wit="【宮】">醋</rdg></app>漿空水，用療
+<lb ed="T" n="0821c21"/>稗、莠、<note type="orig" resp="Taisho" place="foot text" n="0821030">黎＝蔾【宮】</note><note resp="CBETA" type="mod" n="0821030">蔾【CB】【麗-CB】【宮】，黎【大】</note><app n="0821030"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】">藜<note type="cf1">K20n0859_p1218a10</note><note type="cf2">T54n2128_p0926c04</note></lem><rdg wit="【大】">黎</rdg><rdg wit="【宮】" resp="Taisho">蔾</rdg></app>、藿、草、菜，以充其飢；<note place="foot text" n="0821031" type="orig" resp="Taisho">酢＝醋【宮】</note><note n="0821031" type="mod" resp="CBETA">酢【大】，醋【宮】</note><app n="0821031"><lem wit="【大】">酢</lem><rdg resp="Taisho" wit="【宮】">醋</rdg></app>漿空水，用療
 <lb ed="T" n="0821c22"/>其渴；乘朽故車，編草草葉，用以為蓋；於己
 <lb ed="T" n="0821c23"/>財物，皆生慳悋，勞神役思，勤加守護，營理
 <lb ed="T" n="0821c24"/>疲苦，猶如奴僕，為一切人之所嗤笑。」</p><p rend="inline" xml:id="pT14p0821c2415">爾時，
@@ -151,9 +151,9 @@ Added comment  for Emacs
 <lb n="0821c28" ed="T"/><l>若不懷殷重，</l><l>徒施無淨報，</l>
 <lb n="0821c29" ed="T"/><l>盧至雖巨富，</l><l>輕賤致嗤笑。」</l></lg>
 <pb xml:id="T14.0539.0822a" n="0822a" ed="T"/>
-<lb ed="T" n="0822a01"/><p xml:id="pT14p0822a0101">「又於一時城中節會，莊嚴屋宅，<note n="0822001" place="foot text" resp="Taisho" type="orig">塗＝堊【三】【宮】</note><note n="0822001" type="mod" resp="CBETA">塗＝堊【宋】【元】【明】【宮】</note><app n="0822001"><lem wit="【大】">塗</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">堊</rdg></app>飾彩畫，
-<lb ed="T" n="0822a02"/>懸繒幡蓋，琉璃<note type="orig" resp="Taisho" place="foot text" n="0822002">裝＝莊【三】，拂【宮】</note><note type="mod" resp="CBETA" n="0822002">裝＝莊【宋】【元】【明】，＝拂【宮】</note><app n="0822002"><lem wit="【大】">裝</lem><rdg wit="【宋】【元】【明】" resp="Taisho">莊</rdg><rdg wit="【宮】" resp="Taisho">拂</rdg></app>飾處處周遍，懸諸華冠，
-<lb ed="T" n="0822a03"/>香水灑<app><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">地<note type="cf1">K20n0859_p1218a21</note><note type="cf2">T14n0539_p0822a06</note></lem><rdg wit="【大】">池</rdg></app>，<note type="orig" resp="Taisho" place="foot text" n="0822003">嚴＝散【三】【宮】</note><note type="mod" resp="CBETA" n="0822003">嚴＝散【宋】【元】【明】【宮】</note><app n="0822003"><lem wit="【大】">嚴</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">散</rdg></app>眾名華，窓牖門戶以華<note type="orig" resp="Taisho" place="foot text" n="0822004">裝＝莊【三】【宮】</note><note n="0822004" type="mod" resp="CBETA">裝＝莊【宋】【元】【明】【宮】</note><app n="0822004"><lem wit="【大】">裝</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">莊</rdg></app>校，
+<lb ed="T" n="0822a01"/><p xml:id="pT14p0822a0101">「又於一時城中節會，莊嚴屋宅，<note n="0822001" place="foot text" resp="Taisho" type="orig">塗＝堊【三】【宮】</note><note n="0822001" type="mod" resp="CBETA">塗【大】，堊【宋】【元】【明】【宮】</note><app n="0822001"><lem wit="【大】">塗</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">堊</rdg></app>飾彩畫，
+<lb ed="T" n="0822a02"/>懸繒幡蓋，琉璃<note type="orig" resp="Taisho" place="foot text" n="0822002">裝＝莊【三】，拂【宮】</note><note type="mod" resp="CBETA" n="0822002">裝【大】，莊【宋】【元】【明】，拂【宮】</note><app n="0822002"><lem wit="【大】">裝</lem><rdg wit="【宋】【元】【明】" resp="Taisho">莊</rdg><rdg wit="【宮】" resp="Taisho">拂</rdg></app>飾處處周遍，懸諸華冠，
+<lb ed="T" n="0822a03"/>香水灑<note n="0822a0301" resp="CBETA" type="add">地【CB】【麗-CB】，池【大】</note><app n="0822a0301"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】">地<note type="cf1">K20n0859_p1218a21</note><note type="cf2">T14n0539_p0822a06</note></lem><rdg wit="【大】">池</rdg></app>，<note type="orig" resp="Taisho" place="foot text" n="0822003">嚴＝散【三】【宮】</note><note type="mod" resp="CBETA" n="0822003">嚴【大】，散【宋】【元】【明】【宮】</note><app n="0822003"><lem wit="【大】">嚴</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">散</rdg></app>眾名華，窓牖門戶以華<note type="orig" resp="Taisho" place="foot text" n="0822004">裝＝莊【三】【宮】</note><note n="0822004" type="mod" resp="CBETA">裝【大】，莊【宋】【元】【明】【宮】</note><app n="0822004"><lem wit="【大】">裝</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">莊</rdg></app>校，
 <lb ed="T" n="0822a04"/>各各皆有種種伎樂、歌舞、嬉戲，歡娛受樂如
 <lb ed="T" n="0822a05"/>諸天宮。諸門之中，皆以金瓶盛滿香水，諸
 <lb n="0822a06" ed="T"/>里巷中懸繒幡蓋，散眾名華，香水灑地。</p><p rend="inline" xml:id="pT14p0822a0616">「盧
@@ -164,18 +164,18 @@ Added comment  for Emacs
 <lb ed="T" n="0822a11"/>取五錢已，還閉鎖門，即自思念：『我今若於
 <lb n="0822a12" ed="T"/>家中食者，母妻眷屬不可周遍；若至他家，
 <lb n="0822a13" ed="T"/>或有主人及以乞者來從我索。』於是即用兩
-<lb n="0822a14" ed="T"/>錢買<g ref="#CB00595"></g>，兩錢酤酒，一錢買葱，從自家中，衣
+<lb n="0822a14" ed="T"/>錢買<g ref="#CB00595"/>，兩錢酤酒，一錢買葱，從自家中，衣
 <lb n="0822a15" ed="T"/>衿裹鹽，齎出城外，趣於樹下。既至樹下，見
 <lb n="0822a16" ed="T"/>有多烏，若此停止，烏來摶撮，即詣塚間，見
 <lb ed="T" n="0822a17"/>有諸狗，復更逃避至空靜處。酒中著鹽，和
-<lb n="0822a18" ed="T"/><g ref="#CB00595"></g>食葱。先不飲酒，即時大醉。既大醉已，而
+<lb n="0822a18" ed="T"/><g ref="#CB00595"/>食葱。先不飲酒，即時大醉。既大醉已，而
 <lb ed="T" n="0822a19"/>作是言：『舉國即時大作歡樂，我今何為獨不
 <lb n="0822a20" ed="T"/>歡樂？』即便起舞、揚聲而歌，其歌辭曰：</p>
 <lb ed="T" n="0822a21"/><lg rend="margin-left:2em;text-indent:-2em" xml:id="lgT14p0822a2101"><l>「『縱令帝釋，</l><l>今日歡樂，</l><l>尚不及我，</l>
 <lb n="0822a22" ed="T"/><l>況毘沙門？』</l></lg>
 <lb n="0822a23" ed="T"/><p xml:id="pT14p0822a2301">「復作是言：『我今節慶際，縱酒大歡樂，踰過毘
 <lb ed="T" n="0822a24"/>沙門，亦勝天帝釋。』</p><p rend="inline" xml:id="pT14p0822a2408">「釋提桓因與無數天眾欲
-<lb ed="T" n="0822a25"/>至<note place="foot text" n="0822005" type="orig" resp="Taisho">祇桓＝祇洹【三】【宮】</note><note type="mod" resp="CBETA" n="0822005">祇桓＝祇洹【宋】【元】【明】【宮】</note><app n="0822005"><lem wit="【大】">祇桓</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">祇洹</rdg></app>，於其道邊，見此盧至既醉且舞，<note n="0822006" place="foot text" resp="Taisho" type="orig">而＋（並）【三】【宮】</note><note n="0822006" resp="CBETA" type="mod">而＋（並）【宋】【元】【明】【宮】</note><app n="0822006"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">而並</rdg></app>
+<lb ed="T" n="0822a25"/>至<note place="foot text" n="0822005" type="orig" resp="Taisho">祇桓＝祇洹【三】【宮】</note><note type="mod" resp="CBETA" n="0822005">祇桓【大】，祇洹【宋】【元】【明】【宮】</note><app n="0822005"><lem wit="【大】">祇桓</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">祇洹</rdg></app>，於其道邊，見此盧至既醉且舞，<note n="0822006" place="foot text" resp="Taisho" type="orig">而＋（並）【三】【宮】</note><note n="0822006" resp="CBETA" type="mod">而【大】，而並【宋】【元】【明】【宮】</note><app n="0822006"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">而並</rdg></app>
 <lb ed="T" n="0822a26"/>歌言勝於帝釋。帝釋默念：『此慳貪人屏處
 <lb ed="T" n="0822a27"/>飲酒，罵辱於我。』復作是念：『我於今者，莫至
 <lb ed="T" n="0822a28"/>佛所，先惱於彼。』</p><p xml:id="pT14p0822a2807" rend="inline">「釋提桓因即變己身猶如
@@ -205,14 +205,14 @@ Added comment  for Emacs
 <lb n="0822b22" ed="T"/>入我家？為是諸天欲增益我，來至我家，作
 <lb n="0822b23" ed="T"/>斯伎樂？為是家人破我庫藏，而自噉食？』思
 <lb n="0822b24" ed="T"/>惟是已，疾走衝門，高聲大呌，喚其家人。時
-<lb n="0822b25" ed="T"/>其家人音樂聲亂，都無聞者。</p><p xml:id="pT14p0822b2512" rend="inline">「<note place="foot text" n="0822007" type="orig" resp="Taisho">〔帝〕－【三】【宮】</note><note resp="CBETA" type="mod" n="0822007">〔帝〕－【宋】【元】【明】【宮】</note><app n="0822007"><lem wit="【大】">帝</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho"><space quantity="0"></space></rdg></app>釋聞喚聲，
+<lb n="0822b25" ed="T"/>其家人音樂聲亂，都無聞者。</p><p xml:id="pT14p0822b2512" rend="inline">「<note place="foot text" n="0822007" type="orig" resp="Taisho">〔帝〕－【三】【宮】</note><note resp="CBETA" type="mod" n="0822007">帝【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0822007"><lem wit="【大】">帝</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho"><space quantity="0"/></rdg></app>釋聞喚聲，
 <lb n="0822b26" ed="T"/>語眾人言：『誰打門喚？汝等且止音樂，或能
 <lb ed="T" n="0822b27"/>是彼慳鬼還來。』人聞有鬼，即大開門，一切
 <lb ed="T" n="0822b28"/>走避。時彼盧至走來入屋，見於帝釋眷屬
 <lb ed="T" n="0822b29"/>圍遶，正處中坐，母處其右，婦處其左，莊嚴
 <pb ed="T" n="0822c" xml:id="T14.0539.0822c"/>
 <lb ed="T" n="0822c01"/>衣服，著好瓔珞，鼓樂絃歌，飲酒慶會，容色
-<lb ed="T" n="0822c02"/>熙怡，羅列而坐。盧至愕然，驚問<note type="orig" resp="Taisho" place="foot text" n="0822008">（帝）＋釋【三】【宮】</note><note n="0822008" resp="CBETA" type="mod">（帝）＋釋【宋】【元】【明】【宮】</note><app n="0822008"><lem wit="【大】">釋</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">帝釋</rdg></app>言：『汝是
+<lb ed="T" n="0822c02"/>熙怡，羅列而坐。盧至愕然，驚問<note type="orig" resp="Taisho" place="foot text" n="0822008">（帝）＋釋【三】【宮】</note><note n="0822008" resp="CBETA" type="mod">釋【大】，帝釋【宋】【元】【明】【宮】</note><app n="0822008"><lem wit="【大】">釋</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">帝釋</rdg></app>言：『汝是
 <lb ed="T" n="0822c03"/>誰耶？來我家中放逸如是。』釋微笑言：『今日
 <lb ed="T" n="0822c04"/>家人，自識於我。』</p><p xml:id="pT14p0822c0407" rend="inline">「其家眷屬即問盧至：『汝為
 <lb ed="T" n="0822c05"/>是誰？』盧至答曰：『我是盧至。』舉家盡皆同聲，
@@ -230,7 +230,7 @@ Added comment  for Emacs
 <lb ed="T" n="0822c17"/>順，奉事於我，真實知汝，我所生子，彼實是
 <lb ed="T" n="0822c18"/>鬼。若汝二人俱孝順我，我不能別。以汝孝
 <lb n="0822c19" ed="T"/>順，彼人悖逆，故我定知汝是我子。』迴語婦言：
-<lb n="0822c20" ed="T"/>『彼是汝夫，汝今何為不相鳴捉？』其<app><lem wit="【CBETA】【麗】" resp="CBETA.maha CBETA.say">婦<note type="cf1">K20n0859_p1219b19</note><note type="cf2">T14n0539_p0822c19-c22</note></lem><rdg wit="【大】">妻</rdg></app>羞赧而
+<lb n="0822c20" ed="T"/>『彼是汝夫，汝今何為不相鳴捉？』其<note n="0822c2001" resp="CBETA" type="add">婦【CB】【麗-CB】，妻【大】</note><app n="0822c2001"><lem wit="【CB】【麗-CB】" resp="CBETA.maha CBETA.say">婦<note type="cf1">K20n0859_p1219b19</note><note type="cf2">T14n0539_p0822c19-c22</note></lem><rdg wit="【大】">妻</rdg></app>羞赧而
 <lb n="0822c21" ed="T"/>作是言：『怪哉！何不滅去？終不為其而作婦也。』
 <lb n="0822c22" ed="T"/>婦語釋言：『大家！我今寧在爾邊而死，終不
 <lb ed="T" n="0822c23"/>在彼鬼邊而生。』</p><p rend="inline" xml:id="pT14p0822c2307">「釋語家人：『爾定知我是盧至
@@ -264,8 +264,8 @@ Added comment  for Emacs
 <lb ed="T" n="0823a21"/><l rend="text-indent:2em">城中諸人等，</l><l>各各生疑怪，</l>
 <lb ed="T" n="0823a22"/><l rend="text-indent:2em">皆作如是言：</l><l>「此事當云何？」</l>
 <lb n="0823a23" ed="T"/><l rend="text-indent:2em">中有明智者，</l><l>而作如是言：</l>
-<lb n="0823a24" ed="T"/><l rend="text-indent:1em">「此間<note place="foot text" n="0823001" type="orig" resp="Taisho">淫狡＝淫校【宮】</note><app n="0823001"><lem wit="【大】">淫狡</lem><rdg resp="Taisho" wit="【宮】">淫校</rdg></app>人，</l><l>形貌似盧至，</l>
-<lb n="0823a25" ed="T"/><l rend="text-indent:2em">知其<note type="orig" resp="Taisho" place="foot text" n="0823002">大＝天【元】</note><app n="0823002"><lem wit="【大】">大</lem><rdg wit="【元】" resp="Taisho">天</rdg></app>慳貪，</l><l>故來惱亂之；</l>
+<lb n="0823a24" ed="T"/><l rend="text-indent:1em">「此間<note place="foot text" n="0823001" type="orig" resp="Taisho">淫狡＝淫校【宮】</note><note n="0823001" type="mod" resp="CBETA">淫狡【大】，淫校【宮】</note><app n="0823001"><lem wit="【大】">淫狡</lem><rdg resp="Taisho" wit="【宮】">淫校</rdg></app>人，</l><l>形貌似盧至，</l>
+<lb n="0823a25" ed="T"/><l rend="text-indent:2em">知其<note type="orig" resp="Taisho" place="foot text" n="0823002">大＝天【元】</note><note type="mod" resp="CBETA" n="0823002">大【大】，天【元】</note><app n="0823002"><lem wit="【大】">大</lem><rdg wit="【元】" resp="Taisho">天</rdg></app>慳貪，</l><l>故來惱亂之；</l>
 <lb ed="T" n="0823a26"/><l rend="text-indent:2em">我等共證拔，</l><l>不宜便棄捨。」』</l></lg>
 <lb n="0823a27" ed="T"/><p xml:id="pT14p0823a2701">「爾時，諸人聞是語已，皆悉同心，咸言：『盧至！
 <lb ed="T" n="0823a28"/>汝今云何？欲何所為？』盧至即時，而作是言：
@@ -278,7 +278,7 @@ Added comment  for Emacs
 <lb ed="T" n="0823b05"/>所須欲，當給於汝。』又問：『欲須何物？』爾時，盧
 <lb ed="T" n="0823b06"/>至長者而言：『今汝與我二張㲲來，使直四銖
 <lb ed="T" n="0823b07"/>金，當上於王。』諸人皆笑，作是念言：『盧至先
-<lb n="0823b08" ed="T"/>來不曾有是，<note type="orig" resp="Taisho" place="foot text" n="0823003">念＝今【三】【宮】</note><note n="0823003" resp="CBETA" type="mod">念＝今【宋】【元】【明】【宮】</note><app n="0823003"><lem wit="【大】">念</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">今</rdg></app>言四銖，乃是大施。』</p><p rend="inline" xml:id="pT14p0823b0814">「盧至爾
+<lb n="0823b08" ed="T"/>來不曾有是，<note type="orig" resp="Taisho" place="foot text" n="0823003">念＝今【三】【宮】</note><note n="0823003" resp="CBETA" type="mod">念【大】，今【宋】【元】【明】【宮】</note><app n="0823003"><lem wit="【大】">念</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">今</rdg></app>言四銖，乃是大施。』</p><p rend="inline" xml:id="pT14p0823b0814">「盧至爾
 <lb ed="T" n="0823b09"/>時即挾二張㲲，到於王門，語通門者言：『我
 <lb n="0823b10" ed="T"/>於今者欲有貢獻。』時守門人極驚笑言：『我
 <lb n="0823b11" ed="T"/>於三十年中，未曾聞彼來至門中有所貢獻，
@@ -299,32 +299,32 @@ Added comment  for Emacs
 <lb n="0823b26" ed="T"/>束，亦無所苦，欲有所說隨汝意道。』盧至悲噎
 <lb n="0823b27" ed="T"/>歔欷而言：『我見此草羞慚之盛，不能以身陷
 <lb ed="T" n="0823b28"/>入于地。不知今者為有此身，為無此身？知
-<lb n="0823b29" ed="T"/>何所云？』</p><p xml:id="pT14p0823b2904" rend="inline">「王聞其言，<note resp="Taisho" type="orig" n="0823004" place="foot text">持＝將【三】【宮】</note><note type="mod" resp="CBETA" n="0823004">持＝將【宋】【元】【明】【宮】，＝特【麗-CB】【CB】</note><app n="0823004"><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">特<note type="cf1">K20n0859_p1220b21</note></lem><rdg wit="【大】">持</rdg><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">將</rdg></app>生哀愍，問傍人言：『彼
+<lb n="0823b29" ed="T"/>何所云？』</p><p xml:id="pT14p0823b2904" rend="inline">「王聞其言，<note resp="Taisho" type="orig" n="0823004" place="foot text">持＝將【三】【宮】</note><note type="mod" resp="CBETA" n="0823004">特【CB】【麗-CB】，持【大】，將【宋】【元】【明】【宮】</note><app n="0823004"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】">特<note type="cf1">K20n0859_p1220b21</note></lem><rdg wit="【大】">持</rdg><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">將</rdg></app>生哀愍，問傍人言：『彼
 <pb ed="T" n="0823c" xml:id="T14.0539.0823c"/>
 <lb ed="T" n="0823c01"/>今哀塞，不能得言。汝等若知其意，當代道
 <lb ed="T" n="0823c02"/>之。』傍人答王：『盧至今來仰白王者，不知何
 <lb ed="T" n="0823c03"/>人形貌相似，至於其家中，詐稱盧至，能使
 <lb ed="T" n="0823c04"/>家人生其愛著；散用財物，一切蕩盡，使其
-<lb ed="T" n="0823c05"/>家人都不識別，驅其令出，<note resp="Taisho" type="orig" n="0823005" place="foot text">返＝反【三】【宮】</note><note n="0823005" resp="CBETA" type="mod">返＝反【宋】【元】【明】【宮】</note><app n="0823005"><lem wit="【大】">返</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">反</rdg></app>如路人，以是
+<lb ed="T" n="0823c05"/>家人都不識別，驅其令出，<note resp="Taisho" type="orig" n="0823005" place="foot text">返＝反【三】【宮】</note><note n="0823005" resp="CBETA" type="mod">返【大】，反【宋】【元】【明】【宮】</note><app n="0823005"><lem wit="【大】">返</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">反</rdg></app>如路人，以是
 <lb n="0823c06" ed="T"/>之故，其心懊惱，不能出言。』</p><p rend="inline" xml:id="pT14p0823c0611">「王言：『若如此者，
 <lb ed="T" n="0823c07"/>實應苦惱。何以故？自己財物為他所用。雖
-<lb n="0823c08" ed="T"/>復如是，我當斷理，使其還得<note place="foot text" n="0823006" type="orig" resp="Taisho">室＝居【三】【宮】</note><note n="0823006" resp="CBETA" type="mod">室＝居【宋】【元】【明】【宮】</note><app n="0823006"><lem wit="【大】">室</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">居</rdg></app>家財物。』王
+<lb n="0823c08" ed="T"/>復如是，我當斷理，使其還得<note place="foot text" n="0823006" type="orig" resp="Taisho">室＝居【三】【宮】</note><note n="0823006" resp="CBETA" type="mod">室【大】，居【宋】【元】【明】【宮】</note><app n="0823006"><lem wit="【大】">室</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">居</rdg></app>家財物。』王
 <lb n="0823c09" ed="T"/>復言曰：『世間之人雖形相似，然其心意未
 <lb ed="T" n="0823c10"/>必一等；雖心相似，然其形體隱屏之處，有
 <lb n="0823c11" ed="T"/>諸密事可不相知，必有小異。汝莫愁憂，我
-<lb n="0823c12" ed="T"/>今為汝，當細<note place="foot text" n="0823007" type="orig" resp="Taisho">撿＝檢【三】【宮】＊</note><note n="0823007" type="mod" resp="CBETA">撿＝檢【宋】【元】【明】【宮】＊</note><app n="0823007"><lem wit="【大】">撿</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">檢</rdg></app>校。』</p><p xml:id="pT14p0823c1208" rend="inline">「時有一臣，名曰宿舊，即
+<lb n="0823c12" ed="T"/>今為汝，當細<note place="foot text" n="0823007" type="orig" resp="Taisho">撿＝檢【三】【宮】＊</note><note n="0823007" type="mod" resp="CBETA">撿【大】＊，檢【宋】【元】【明】【宮】＊</note><app n="0823007"><lem wit="【大】">撿</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">檢</rdg></app>校。』</p><p xml:id="pT14p0823c1208" rend="inline">「時有一臣，名曰宿舊，即
 <lb ed="T" n="0823c13"/>起合掌而白王言：『善哉，大王！王之智慧慈
-<lb ed="T" n="0823c14"/><note type="orig" resp="Taisho" place="foot text" n="0823008">惻＝測【宋】【元】【宮】</note><app n="0823008"><lem wit="【大】">惻</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">測</rdg></app><note n="0823009" place="foot text" resp="Taisho" type="orig">阿＝何【宮】</note><app n="0823009"><lem wit="【大】">阿</lem><rdg wit="【宮】" resp="Taisho">何</rdg></app>枉，正應如是。』</p><p rend="inline" xml:id="pT14p0823c1408">「爾時，宿舊即說偈言：</p>
+<lb ed="T" n="0823c14"/><note type="orig" resp="Taisho" place="foot text" n="0823008">惻＝測【宋】【元】【宮】</note><note type="mod" resp="CBETA" n="0823008">惻【大】，測【宋】【元】【宮】</note><app n="0823008"><lem wit="【大】">惻</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">測</rdg></app><note n="0823009" place="foot text" resp="Taisho" type="orig">阿＝何【宮】</note><note n="0823009" resp="CBETA" type="mod">阿【大】，何【宮】</note><app n="0823009"><lem wit="【大】">阿</lem><rdg wit="【宮】" resp="Taisho">何</rdg></app>枉，正應如是。』</p><p rend="inline" xml:id="pT14p0823c1408">「爾時，宿舊即說偈言：</p>
 <lb n="0823c15" ed="T"/><lg xml:id="lgT14p0823c1501" rend="margin-left:2em;text-indent:-2em"><l>「『憂苦怖畏者，</l><l>王為作救護，</l>
 <lb ed="T" n="0823c16"/><l>貧窮困厄者，</l><l>王當作親友。</l>
-<lb ed="T" n="0823c17"/><l>正真修善者，</l><l><note type="orig" resp="Taisho" place="foot text" n="0823010">王＝主【元】</note><app n="0823010"><lem wit="【大】">王</lem><rdg wit="【元】" resp="Taisho">主</rdg></app>共為法朋，</l>
+<lb ed="T" n="0823c17"/><l>正真修善者，</l><l><note type="orig" resp="Taisho" place="foot text" n="0823010">王＝主【元】</note><note type="mod" resp="CBETA" n="0823010">王【大】，主【元】</note><app n="0823010"><lem wit="【大】">王</lem><rdg wit="【元】" resp="Taisho">主</rdg></app>共為法朋，</l>
 <lb n="0823c18" ed="T"/><l>於諸惡行者，</l><l>王為作象鈎。』</l></lg>
-<lb ed="T" n="0823c19"/><p xml:id="pT14p0823c1901">「爾時，盧至五體投地，而白王言：『我家密<note place="foot text" n="0823011" type="orig" resp="Taisho">弆＝舉【宮】</note><app n="0823011"><lem wit="【大】">弆</lem><rdg wit="【宮】" resp="Taisho">舉</rdg></app>
-<lb ed="T" n="0823c20"/><note n="0823012" place="foot text" resp="Taisho" type="orig">起舉＋（反）【宋】，〔起舉〕－【元】【明】【宮】</note><app n="0823012"><lem wit="【大】"><note place="inline">起舉</note></lem><rdg wit="【宋】" resp="Taisho"><note place="inline">起舉反</note></rdg><rdg resp="Taisho" wit="【元】【明】【宮】"><space quantity="0"></space></rdg></app>財寶之處，彼終不能而得知處；我身有密
+<lb ed="T" n="0823c19"/><p xml:id="pT14p0823c1901">「爾時，盧至五體投地，而白王言：『我家密<note place="foot text" n="0823011" type="orig" resp="Taisho">弆＝舉【宮】</note><note n="0823011" type="mod" resp="CBETA">弆【大】，舉【宮】</note><app n="0823011"><lem wit="【大】">弆</lem><rdg wit="【宮】" resp="Taisho">舉</rdg></app>
+<lb ed="T" n="0823c20"/><note n="0823012" place="foot text" resp="Taisho" type="orig">起舉＋（反）【宋】，〔起舉〕－【元】【明】【宮】</note><note n="0823012" resp="CBETA" type="mod">起舉【大】，起舉反【宋】，〔－〕【元】【明】【宮】</note><app n="0823012"><lem wit="【大】"><note place="inline">起舉</note></lem><rdg wit="【宋】" resp="Taisho"><note place="inline">起舉反</note></rdg><rdg resp="Taisho" wit="【元】【明】【宮】"><space quantity="0"/></rdg></app>財寶之處，彼終不能而得知處；我身有密
 <lb ed="T" n="0823c21"/>事，何必能知？唯願大王為我<app corresp="#0823007" type="star"><lem wit="【大】">撿</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">檢</rdg></app>校！』</p><p rend="inline" xml:id="pT14p0823c2114">「王即
 <lb n="0823c22" ed="T"/>遣使往喚彼人似盧至者，語令疾來。即便
 <lb n="0823c23" ed="T"/>喚來，即至王所，在一面立。王形相二人，不
-<lb ed="T" n="0823c24"/>能分別。王諦觀之，生未曾有想：『年<note resp="Taisho" type="orig" n="0823013" place="foot text">紀＝幾【三】【宮】＊</note><note n="0823013" type="mod" resp="CBETA">紀＝幾【宋】【元】【明】【宮】＊</note><app n="0823013"><lem wit="【大】">紀</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">幾</rdg></app>相貌、
+<lb ed="T" n="0823c24"/>能分別。王諦觀之，生未曾有想：『年<note resp="Taisho" type="orig" n="0823013" place="foot text">紀＝幾【三】【宮】＊</note><note n="0823013" type="mod" resp="CBETA">紀【大】＊，幾【宋】【元】【明】【宮】＊</note><app n="0823013"><lem wit="【大】">紀</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">幾</rdg></app>相貌、
 <lb n="0823c25" ed="T"/>形體大小、面目語笑、顏色皆同，如幻化所
 <lb n="0823c26" ed="T"/>作，等無有異。今此二人在我前立，不可分
 <lb n="0823c27" ed="T"/>別，使我驚疑。』</p><p rend="inline" xml:id="pT14p0823c2706">「王問喚來者言：『汝為是誰？』便
@@ -341,19 +341,19 @@ Added comment  for Emacs
 <lb ed="T" n="0824a08"/>貪，汝好惠施，其性各異，汝今云何言是盧
 <lb n="0824a09" ed="T"/>至？』帝釋答言：『王今應作如是細問。實如王
 <lb n="0824a10" ed="T"/>言，雖爾，我親自從佛教：慳貪之者，墮餓鬼
-<lb n="0824a11" ed="T"/>中，百千萬歲受飢渴苦，求索膿血、<note resp="Taisho" type="orig" n="0824001" place="foot text">𡱁＝屎【宮】</note><app n="0824001"><lem wit="【大】">𡱁</lem><rdg resp="Taisho" wit="【宮】">屎</rdg></app>尿不
+<lb n="0824a11" ed="T"/>中，百千萬歲受飢渴苦，求索膿血、<note resp="Taisho" type="orig" n="0824001" place="foot text">𡱁＝屎【宮】</note><note resp="CBETA" type="mod" n="0824001">𡱁【大】，屎【宮】</note><app n="0824001"><lem wit="【大】">𡱁</lem><rdg resp="Taisho" wit="【宮】">屎</rdg></app>尿不
 <lb ed="T" n="0824a12"/>淨，終不能得如毛髮許；清冷河泉，變成流
 <lb n="0824a13" ed="T"/>火。我聞慳貪有如是過，畏怖因緣，欲捨是
 <lb ed="T" n="0824a14"/>惡，以是事故，即便捨慳，施心即生。』</p><p rend="inline" xml:id="pT14p0824a1414">「王言：『實
 <lb n="0824a15" ed="T"/>有是理，如似垢衣灰浣即淨，煩惱垢心聞
 <lb n="0824a16" ed="T"/>法即除。』王語諸臣：『如是二人云何得知，一
 <lb ed="T" n="0824a17"/>是盧至？一非盧至？』宿舊答言：『問其家中所
-<lb ed="T" n="0824a18"/>有密事，若有<note place="foot text" n="0824002" type="orig" resp="Taisho">同異＝異同【三】【宮】</note><note type="mod" resp="CBETA" n="0824002">同異＝異同【宋】【元】【明】【宮】</note><app n="0824002"><lem wit="【大】">同異</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">異同</rdg></app>，然後可知。』王言：『我事
+<lb ed="T" n="0824a18"/>有密事，若有<note place="foot text" n="0824002" type="orig" resp="Taisho">同異＝異同【三】【宮】</note><note type="mod" resp="CBETA" n="0824002">同異【大】，異同【宋】【元】【明】【宮】</note><app n="0824002"><lem wit="【大】">同異</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">異同</rdg></app>，然後可知。』王言：『我事
 <lb n="0824a19" ed="T"/>猥多，不得細問。如汝所言，應如是問。』即分
 <lb n="0824a20" ed="T"/>二人，各置異處，而便問言：『汝今內外親屬
 <lb ed="T" n="0824a21"/>年<app corresp="#0823013" type="star"><lem wit="【大】">紀</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">幾</rdg></app>大小、頭數、名字，家中所有屋舍門戶
 <lb ed="T" n="0824a22"/>及以財物、一切庫藏，地上地中種種諸物，
-<lb ed="T" n="0824a23"/>各自記之，明<note place="foot text" n="0824003" type="orig" resp="Taisho">作＝明【三】</note><note n="0824003" resp="CBETA" type="mod">作＝明【宋】【元】【明】</note><app n="0824003"><lem wit="【大】">作</lem><rdg resp="Taisho" wit="【宋】【元】【明】">明</rdg></app>書疏，時速持來。』而此二人
+<lb ed="T" n="0824a23"/>各自記之，明<note place="foot text" n="0824003" type="orig" resp="Taisho">作＝明【三】</note><note n="0824003" resp="CBETA" type="mod">作【大】，明【宋】【元】【明】</note><app n="0824003"><lem wit="【大】">作</lem><rdg resp="Taisho" wit="【宋】【元】【明】">明</rdg></app>書疏，時速持來。』而此二人
 <lb ed="T" n="0824a24"/>各持書至，一切所有隱密之事及以書迹，
 <lb ed="T" n="0824a25"/>悉皆一種。</p><p rend="inline" xml:id="pT14p0824a2505">「王見是事，生未曾有想：『如我今
 <lb ed="T" n="0824a26"/>者，盡其神思，種種籌量，不能分別。此非人
@@ -367,20 +367,20 @@ Added comment  for Emacs
 <lb n="0824b04" ed="T"/>『莫復更使見苦如前。』母言：『子汝莫愁也。』</p><p xml:id="pT14p0824b0416" rend="inline">「老
 <lb n="0824b05" ed="T"/>母敬白王言：『此兒慈孝，種種供養孝順於
 <lb ed="T" n="0824b06"/>我，此是我子；彼不恭孝，常於我所無親愛
-<lb ed="T" n="0824b07"/>心，知非我子。而此二人<note place="foot text" n="0824004" type="orig" resp="Taisho">雖知＝長短【三】【宮】</note><note type="mod" resp="CBETA" n="0824004">雖知＝長短【宋】【元】【明】【宮】</note><app n="0824004"><lem wit="【大】">雖知</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">長短</rdg></app>好醜，言音相
-<lb n="0824b08" ed="T"/>似，我亦不能<note place="foot text" n="0824005" type="orig" resp="Taisho">別＝為【宋】</note><app n="0824005"><lem wit="【大】">別</lem><rdg resp="Taisho" wit="【宋】">為</rdg></app>。』</p><p rend="inline" xml:id="pT14p0824b0807">「王復問言：『我欲更問餘事。
+<lb ed="T" n="0824b07"/>心，知非我子。而此二人<note place="foot text" n="0824004" type="orig" resp="Taisho">雖知＝長短【三】【宮】</note><note type="mod" resp="CBETA" n="0824004">雖知【大】，長短【宋】【元】【明】【宮】</note><app n="0824004"><lem wit="【大】">雖知</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">長短</rdg></app>好醜，言音相
+<lb n="0824b08" ed="T"/>似，我亦不能<note place="foot text" n="0824005" type="orig" resp="Taisho">別＝為【宋】</note><note n="0824005" type="mod" resp="CBETA">別【大】，為【宋】</note><app n="0824005"><lem wit="【大】">別</lem><rdg resp="Taisho" wit="【宋】">為</rdg></app>。』</p><p rend="inline" xml:id="pT14p0824b0807">「王復問言：『我欲更問餘事。
 <lb n="0824b09" ed="T"/>汝養此兒，自小之時，及以洗浴，頗見身上
-<lb n="0824b10" ed="T"/>隱屏之處，瘡瘢黑子私密之事，記識<note place="foot text" n="0824006" type="orig" resp="Taisho">以＝已【三】【宮】</note><note n="0824006" type="mod" resp="CBETA">以＝已【宋】【元】【明】【宮】</note><app n="0824006"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">已</rdg></app>不？』
+<lb n="0824b10" ed="T"/>隱屏之處，瘡瘢黑子私密之事，記識<note place="foot text" n="0824006" type="orig" resp="Taisho">以＝已【三】【宮】</note><note n="0824006" type="mod" resp="CBETA">以【大】，已【宋】【元】【明】【宮】</note><app n="0824006"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">已</rdg></app>不？』
 <lb n="0824b11" ed="T"/>母言：『有之。』帝釋思惟：『我今所作當同老母。』帝
-<lb ed="T" n="0824b12"/>釋于時諦聽母<note type="orig" resp="Taisho" place="foot text" n="0824007">語＝說【三】</note><note resp="CBETA" type="mod" n="0824007">語＝說【宋】【元】【明】</note><app n="0824007"><lem wit="【大】">語</lem><rdg wit="【宋】【元】【明】" resp="Taisho">說</rdg></app>。</p><p rend="inline" xml:id="pT14p0824b1208">「母語王言：『我兒左脇下
-<lb ed="T" n="0824b13"/>有小豆許<note place="foot text" n="0824008" type="orig" resp="Taisho">瘢＝𤻧【宮】下同</note><app n="0824008"><lem wit="【大】">瘢</lem><rdg resp="Taisho" wit="【宮】">𤻧</rdg></app>。』帝釋念言：『假使有瘢如須彌
+<lb ed="T" n="0824b12"/>釋于時諦聽母<note type="orig" resp="Taisho" place="foot text" n="0824007">語＝說【三】</note><note resp="CBETA" type="mod" n="0824007">語【大】，說【宋】【元】【明】</note><app n="0824007"><lem wit="【大】">語</lem><rdg wit="【宋】【元】【明】" resp="Taisho">說</rdg></app>。</p><p rend="inline" xml:id="pT14p0824b1208">「母語王言：『我兒左脇下
+<lb ed="T" n="0824b13"/>有小豆許<note place="foot text" n="0824008" type="orig" resp="Taisho">瘢＝𤻧【宮】下同</note><note n="0824008" type="mod" resp="CBETA">瘢【大】下同，𤻧【宮】下同</note><app n="0824008"><lem wit="【大】">瘢</lem><rdg resp="Taisho" wit="【宮】">𤻧</rdg></app>。』帝釋念言：『假使有瘢如須彌
 <lb n="0824b14" ed="T"/>山，我亦能作，況復小瘢？』即便化作。</p><p rend="inline" xml:id="pT14p0824b1414">「王即念
 <lb ed="T" n="0824b15"/>言：『我今斷事，必得決定。』王言：『汝等各脫左
 <lb ed="T" n="0824b16"/>腋，高舉其臂。』既舉臂已，見兩瘢不異。王及
 <lb n="0824b17" ed="T"/>群臣大聲而笑，而作是言：『如此之事未曾
 <lb n="0824b18" ed="T"/>聞見，能使人笑，能使人怖，能使人疑，此為
 <lb n="0824b19" ed="T"/>奇事，甚可怖畏。』</p><p xml:id="pT14p0824b1907" rend="inline">「王語群臣：『如此之事，非我
-<lb ed="T" n="0824b20"/>所了。當將此二人往到祇洹，至于佛所<note place="foot text" n="0824009" type="orig" resp="Taisho">必＝乃【三】</note><note n="0824009" type="mod" resp="CBETA">必＝乃【宋】【元】【明】</note><app n="0824009"><lem wit="【大】">必</lem><rdg resp="Taisho" wit="【宋】【元】【明】">乃</rdg></app>
+<lb ed="T" n="0824b20"/>所了。當將此二人往到祇洹，至于佛所<note place="foot text" n="0824009" type="orig" resp="Taisho">必＝乃【三】</note><note n="0824009" type="mod" resp="CBETA">必【大】，乃【宋】【元】【明】</note><app n="0824009"><lem wit="【大】">必</lem><rdg resp="Taisho" wit="【宋】【元】【明】">乃</rdg></app>
 <lb n="0824b21" ed="T"/>得決了。廢我此間慶會之樂。』</p><p xml:id="pT14p0824b2112" rend="inline">「王時即說偈
 <lb ed="T" n="0824b22"/>言：</p>
 <lb ed="T" n="0824b23"/><lg rend="margin-left:2em;text-indent:-2em" xml:id="lgT14p0824b2301"><l>「『佛日久已出，</l><l>能救濟世間，</l>
@@ -392,7 +392,7 @@ Added comment  for Emacs
 <lb ed="T" n="0824b29"/><p xml:id="pT14p0824b2901">「說是偈已，王及群臣各自嚴飾天冠上服，珠
 <pb n="0824c" ed="T" xml:id="T14.0539.0824c"/>
 <lb ed="T" n="0824c01"/>璣瓔珞莊校其身，執持香華，各隨王後，以
-<lb ed="T" n="0824c02"/>二盧至置<note place="foot text" n="0824010" type="orig" resp="Taisho">二＝一【三】</note><note resp="CBETA" type="mod" n="0824010">二＝一【宋】【元】【明】</note><app n="0824010"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宋】【元】【明】">一</rdg></app>象上，種種莊嚴。</p><p rend="inline" xml:id="pT14p0824c0212">「時，王自乘羽
+<lb ed="T" n="0824c02"/>二盧至置<note place="foot text" n="0824010" type="orig" resp="Taisho">二＝一【三】</note><note resp="CBETA" type="mod" n="0824010">二【大】，一【宋】【元】【明】</note><app n="0824010"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【宋】【元】【明】">一</rdg></app>象上，種種莊嚴。</p><p rend="inline" xml:id="pT14p0824c0212">「時，王自乘羽
 <lb ed="T" n="0824c03"/>葆之車，作倡伎樂百千萬種，隨從王後往
 <lb n="0824c04" ed="T"/>到祇洹，捨王五種天冠、寶蓋、刀劍、革屣及摩
 <lb n="0824c05" ed="T"/>尼珠，整其儀容，往至佛所。</p><p xml:id="pT14p0824c0511" rend="inline">「爾時世尊，天龍
@@ -415,13 +415,13 @@ Added comment  for Emacs
 <lb ed="T" n="0824c22"/>者；能施一切眾生無畏，亦施一切眾生善根
 <lb ed="T" n="0824c23"/>之財，摧滅結使，故名大仙。善哉！世尊！願以
 <lb n="0824c24" ed="T"/>智火燒我煩惱疑網稠林。唯願世尊斷我
-<lb n="0824c25" ed="T"/>等疑：<note resp="Taisho" type="orig" n="0824011" place="foot text">今＝令【宮】</note><app n="0824011"><lem wit="【大】">今</lem><rdg wit="【宮】" resp="Taisho">令</rdg></app>此二人，誰是誰非？』</p><p xml:id="pT14p0824c2511" rend="inline">「爾時世尊，舉相
+<lb n="0824c25" ed="T"/>等疑：<note resp="Taisho" type="orig" n="0824011" place="foot text">今＝令【宮】</note><note resp="CBETA" type="mod" n="0824011">今【大】，令【宮】</note><app n="0824011"><lem wit="【大】">今</lem><rdg wit="【宮】" resp="Taisho">令</rdg></app>此二人，誰是誰非？』</p><p xml:id="pT14p0824c2511" rend="inline">「爾時世尊，舉相
 <lb n="0824c26" ed="T"/>好臂莊嚴之手，語帝釋言：『汝作何事？』</p><p xml:id="pT14p0824c2615" rend="inline">「帝釋
 <lb n="0824c27" ed="T"/>即滅盧至身相，還復本形種種光明，以如
 <lb ed="T" n="0824c28"/>意珠、瓔珞其身，合掌向佛而說偈言：</p>
 <lb ed="T" n="0824c29"/><lg rend="margin-left:3em;text-indent:-3em" xml:id="lgT14p0824c2901"><l>「『常為慳所伏，</l><l>不肯自衣食，</l>
 <pb xml:id="T14.0539.0825a" ed="T" n="0825a"/>
-<lb n="0825a01" ed="T"/><l>以五錢酒<g ref="#CB00595"></g>，</l><l>著鹽而飲之；</l>
+<lb n="0825a01" ed="T"/><l>以五錢酒<g ref="#CB00595"/>，</l><l>著鹽而飲之；</l>
 <lb n="0825a02" ed="T"/><l>飲已即大醉，</l><l>戲笑而歌舞，</l>
 <lb n="0825a03" ed="T"/><l>輕罵我諸天。</l><l>以是因緣故，</l>
 <lb ed="T" n="0825a04"/><l>我故苦惱之。』」</l></lg>
@@ -429,11 +429,11 @@ Added comment  for Emacs
 <lb n="0825a06" ed="T"/><p xml:id="pT14p0825a0601">「爾時，盧至語帝釋言：『我辛苦所集一切錢
 <lb ed="T" n="0825a07"/>財，汝不用我財物儩耶？』</p><p rend="inline" xml:id="pT14p0825a0710">「帝釋言：『我不損汝
 <lb ed="T" n="0825a08"/>一毫財物。』</p><p rend="inline" xml:id="pT14p0825a0805">「佛語盧至：『還歸汝家，看其財物。』</p>
-<lb ed="T" n="0825a09"/><p xml:id="pT14p0825a0901">「盧至言：『我所有財物皆<note resp="Taisho" type="orig" n="0825001" place="foot text">已＝以【三】【宮】</note><note resp="CBETA" type="mod" n="0825001">已＝以【宋】【元】【明】【宮】</note><app n="0825001"><lem wit="【大】">已</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">以</rdg></app>用盡，用還家為？』</p>
-<lb n="0825a10" ed="T"/><p xml:id="pT14p0825a1001">「帝釋言：『我實不損汝財毫<note place="foot text" n="0825002" type="orig" resp="Taisho">氂＝𪏭【宋】，釐【明】</note><note n="0825002" resp="CBETA" type="mod">氂＝𪏭【宋】，＝釐【明】</note><app n="0825002"><lem wit="【大】">氂</lem><rdg wit="【宋】" resp="Taisho">𪏭</rdg><rdg wit="【明】" resp="Taisho">釐</rdg></app>之許。』</p><p xml:id="pT14p0825a1014" rend="inline">「盧至言：
+<lb ed="T" n="0825a09"/><p xml:id="pT14p0825a0901">「盧至言：『我所有財物皆<note resp="Taisho" type="orig" n="0825001" place="foot text">已＝以【三】【宮】</note><note resp="CBETA" type="mod" n="0825001">已【大】，以【宋】【元】【明】【宮】</note><app n="0825001"><lem wit="【大】">已</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">以</rdg></app>用盡，用還家為？』</p>
+<lb n="0825a10" ed="T"/><p xml:id="pT14p0825a1001">「帝釋言：『我實不損汝財毫<note place="foot text" n="0825002" type="orig" resp="Taisho">氂＝𪏭【宋】，釐【明】</note><note n="0825002" resp="CBETA" type="mod">氂【大】，𪏭【宋】，釐【明】</note><app n="0825002"><lem wit="【大】">氂</lem><rdg wit="【宋】" resp="Taisho">𪏭</rdg><rdg wit="【明】" resp="Taisho">釐</rdg></app>之許。』</p><p xml:id="pT14p0825a1014" rend="inline">「盧至言：
 <lb n="0825a11" ed="T"/>『我不信汝，正信佛語。』以信佛語故，即得須陀
 <lb n="0825a12" ed="T"/>洹果。」</p><p xml:id="pT14p0825a1203" rend="inline">時，天龍八部及以四眾，見聞是已，得
 <lb n="0825a13" ed="T"/>四道果，種三業因緣。諸天四眾聞佛所說，
 <lb n="0825a14" ed="T"/>歡喜而去。</p></cb:div>
-<lb n="0825a15" ed="T"/><cb:juan fun="close" n="001"><cb:jhead>盧至長者因緣<note type="orig" resp="Taisho" place="foot text" n="0825003">經＋（終）【明】</note><app n="0825003"><lem wit="【大】">經</lem><rdg wit="【明】" resp="Taisho">經終</rdg></app></cb:jhead></cb:juan>
+<lb n="0825a15" ed="T"/><cb:juan fun="close" n="001"><cb:jhead>盧至長者因緣<note type="orig" resp="Taisho" place="foot text" n="0825003">經＋（終）【明】</note><note type="mod" resp="CBETA" n="0825003">經【大】，經終【明】</note><app n="0825003"><lem wit="【大】">經</lem><rdg wit="【明】" resp="Taisho">經終</rdg></app></cb:jhead></cb:juan>
 </body></text></TEI>

@@ -54,7 +54,7 @@ $Log:$
 </teiHeader>
 <text><body>
 <pb ed="GA" xml:id="GA015.0014.b001a" n="b001a"/>
-<lb ed="GA" n="b001a01"/><milestone unit="juan" n="1"/><cb:mulu type="卷" n="1"/><cb:div type="other"><cb:mulu type="其他" level="1">賜額</cb:mulu><p xml:id="pGA015pb001a0101" rend="margin-left:0em;text-indent:2em"><choice cb:resp="CBETA.maha"><corr>敕</corr><sic>敇</sic></choice>賜大中岳林禪寺</p></cb:div>
+<lb ed="GA" n="b001a01"/><milestone unit="juan" n="1"/><cb:mulu type="卷" n="1"/><cb:div type="other"><cb:mulu type="其他" level="1">賜額</cb:mulu><p xml:id="pGA015pb001a0101" rend="margin-left:0em;text-indent:2em"><note n="b001a0101" resp="CBETA" type="add">敕【CB】，敇【志彙】</note><app n="b001a0101"><lem wit="【CB】" resp="CBETA.maha">敕</lem><rdg wit="【志彙】">敇</rdg></app>賜大中岳林禪寺</p></cb:div>
 <pb ed="GA" xml:id="GA015.0014.b003a" n="b003a"/>
 <lb ed="GA" n="b003a01"/><cb:div type="other"><cb:mulu type="其他" level="1">卷首</cb:mulu><cb:div type="xu"><cb:mulu type="序" level="2">序</cb:mulu><head>序</head>
 <lb ed="GA" n="b003a02"/><p xml:id="pGA015pb003a0201" rend="margin-left:0em;text-indent:2em">按浙省志書，明州著三佛地，其一<reg>為</reg>彌勒道塲。
@@ -142,7 +142,7 @@ $Log:$
 <lb ed="GA" n="b013a08"/><item xml:id="itemGA015pb013a0801">卷六<list rendition="simple"><item xml:id="itemGA015pb013a0803">名釋</item><item xml:id="itemGA015pb013a0805">塔銘</item></list></item></list></cb:div>
 <pb ed="GA" xml:id="GA015.0014.b015a" n="b015a"/>
 <lb ed="GA" n="b015a01"/><cb:div type="other"><cb:mulu type="其他" level="2">寺圖</cb:mulu>
-<lb ed="GA" n="b015a02"/><p xml:id="pGA015pb015a0201" rend="margin-left:0em;text-indent:2em"><choice cb:resp="CBETA.maha"><corr>敕</corr><sic>敇</sic></choice>賜大中岳林禪寺</p>
+<lb ed="GA" n="b015a02"/><p xml:id="pGA015pb015a0201" rend="margin-left:0em;text-indent:2em"><note n="b015a0201" resp="CBETA" type="add">敕【CB】，敇【志彙】</note><app n="b015a0201"><lem wit="【CB】" resp="CBETA.maha">敕</lem><rdg wit="【志彙】">敇</rdg></app>賜大中岳林禪寺</p>
 <pb ed="GA" xml:id="GA015.0014.b016a" n="b016a"/>
 <lb ed="GA" n="b016a01"/><p xml:id="pGA015pb016a0101" rend="margin-left:2em"><figure><graphic url="../figures/GA/GA015pb016_01.gif"/></figure><note n="b016001" resp="DILA" place="foot text" type="orig">佛塔亭、天下名山、鳳山、奉化縣、惠政橋。</note></p>
 <pb ed="GA" xml:id="GA015.0014.b017a" n="b017a"/>
@@ -180,7 +180,7 @@ $Log:$
 <lb ed="GA" n="b022a05"/>正統時修復。萬曆間又火，南禪師同僧萬金等重建
 <lb ed="GA" n="b022a06"/>大殿崇寧閣。
 <lb ed="GA" n="b022a07"/>皇清順治間，自閒、天伊、解齊諸禪師相繼主持寺事。後
-<lb ed="GA" n="b022a08"/>寺僧因官逋他徙，寺<choice cb:resp="CBETA.maha"><corr>圮</corr><sic>圯</sic></choice><note n="b022002" resp="DILA" place="foot text" type="orig">本志五處「圯」字，皆宜作「圮」。今改之，後不一一標示。</note>。康熙十二年癸丑，<reg>眾</reg>檀護敦
+<lb ed="GA" n="b022a08"/>寺僧因官逋他徙，寺<note n="b022a0801" resp="CBETA" type="add">圮【CB】，圯【志彙】</note><app n="b022a0801"><lem wit="【CB】" resp="CBETA.maha">圮</lem><rdg wit="【志彙】">圯</rdg></app><note n="b022002" resp="DILA" place="foot text" type="orig">本志五處「圯」字，皆宜作「圮」。今改之，後不一一標示。</note>。康熙十二年癸丑，<reg>眾</reg>檀護敦
 <lb ed="GA" n="b022a09"/>請楷菴和尚入院，大暢宗風，皈依雲集；創天王殿、方
 <pb ed="GA" xml:id="GA015.0014.b023a" n="b023a"/>
 <lb ed="GA" n="b023a01"/>丈、大殿兩廂，又造普同塔，百廢具舉。臬司印周王公
@@ -197,7 +197,7 @@ $Log:$
 <lb ed="GA" n="b024a02"/>上供千佛，下供彌勒大像；左閣為祖堂，餘為首事寮。
 <lb ed="GA" n="b024a03"/>中有「大光明藏」、「古崇寧閣」、「彈指門開」等額。</p></cb:div>
 <lb ed="GA" n="b024a04"/><cb:div type="other"><cb:mulu type="其他" level="2">兠率宮</cb:mulu><head>兠率宮</head>
-<lb ed="GA" n="b024a05"/><p xml:id="pGA015pb024a0501" rend="margin-left:0em;text-indent:2em">址遺千佛閣後。剙自定應大師，今<choice cb:resp="CBETA.maha"><corr>圮</corr><sic>圯</sic></choice>。</p></cb:div>
+<lb ed="GA" n="b024a05"/><p xml:id="pGA015pb024a0501" rend="margin-left:0em;text-indent:2em">址遺千佛閣後。剙自定應大師，今<note n="b024a0501" resp="CBETA" type="add">圮【CB】，圯【志彙】</note><app n="b024a0501"><lem wit="【CB】" resp="CBETA.maha">圮</lem><rdg wit="【志彙】">圯</rdg></app>。</p></cb:div>
 <lb ed="GA" n="b024a06"/><cb:div type="other"><cb:mulu type="其他" level="2">天王殿</cb:mulu><head>天王殿</head>
 <lb ed="GA" n="b024a07"/><p xml:id="pGA015pb024a0701" rend="margin-left:0em;text-indent:2em">七楹。高五十二尺，縱六十三尺，廣一百二十四尺。中
 <lb ed="GA" n="b024a08"/>三間供天王，東為雜務寮，西為雲水堂。康熙十五年
@@ -245,9 +245,9 @@ $Log:$
 <pb ed="GA" xml:id="GA015.0014.b029a" n="b029a"/>
 <lb ed="GA" n="b029a01"/>和尚建，順治間毀。</p></cb:div>
 <lb ed="GA" n="b029a02"/><cb:div type="other"><cb:mulu type="其他" level="2">山門</cb:mulu><head>山門</head>
-<lb ed="GA" n="b029a03"/><p xml:id="pGA015pb029a0301" rend="margin-left:0em;text-indent:2em">在天王殿前，五楹。今<choice cb:resp="CBETA.maha"><corr>圮</corr><sic>圯</sic></choice>。</p></cb:div>
+<lb ed="GA" n="b029a03"/><p xml:id="pGA015pb029a0301" rend="margin-left:0em;text-indent:2em">在天王殿前，五楹。今<note n="b029a0301" resp="CBETA" type="add">圮【CB】，圯【志彙】</note><app n="b029a0301"><lem wit="【CB】" resp="CBETA.maha">圮</lem><rdg wit="【志彙】">圯</rdg></app>。</p></cb:div>
 <lb ed="GA" n="b029a04"/><cb:div type="other"><cb:mulu type="其他" level="2">幻住經堂</cb:mulu><head>幻住經堂</head>
-<lb ed="GA" n="b029a05"/><p xml:id="pGA015pb029a0501" rend="margin-left:0em;text-indent:2em">本寺之左。水南湘禪師所建，今<choice cb:resp="CBETA.maha"><corr>圮</corr><sic>圯</sic></choice>。</p></cb:div>
+<lb ed="GA" n="b029a05"/><p xml:id="pGA015pb029a0501" rend="margin-left:0em;text-indent:2em">本寺之左。水南湘禪師所建，今<note n="b029a0501" resp="CBETA" type="add">圮【CB】，圯【志彙】</note><app n="b029a0501"><lem wit="【CB】" resp="CBETA.maha">圮</lem><rdg wit="【志彙】">圯</rdg></app>。</p></cb:div>
 <lb ed="GA" n="b029a06"/><cb:div type="other"><cb:mulu type="其他" level="2">鐘樓經堂</cb:mulu><head>鐘樓經堂</head>
 <lb ed="GA" n="b029a07"/><p xml:id="pGA015pb029a0701" rend="margin-left:0em;text-indent:2em">寺左數十武，即鐘樓下。三楹兩廂，今存。</p></cb:div>
 <lb ed="GA" n="b029a08"/><cb:div type="other"><cb:mulu type="其他" level="2">塔院</cb:mulu><head>塔院</head>
@@ -281,7 +281,7 @@ $Log:$
 <lb ed="GA" n="b032a06"/>現相」。</p></cb:div>
 <lb ed="GA" n="b032a07"/><cb:div type="other"><cb:mulu type="其他" level="2">定應塔院</cb:mulu><head>定應塔院</head>
 <lb ed="GA" n="b032a08"/><p xml:id="pGA015pb032a0801" rend="margin-left:0em;text-indent:2em">封山之麓。順治五年，僧三笋重建大殿，邑令王奐書
-<lb ed="GA" n="b032a09"/>疏。左廂五楹，供伽藍祖師，今<choice cb:resp="CBETA.maha"><corr>圮</corr><sic>圯</sic></choice>。右廂為齋堂；後二十
+<lb ed="GA" n="b032a09"/>疏。左廂五楹，供伽藍祖師，今<note n="b032a0901" resp="CBETA" type="add">圮【CB】，圯【志彙】</note><app n="b032a0901"><lem wit="【CB】" resp="CBETA.maha">圮</lem><rdg wit="【志彙】">圯</rdg></app>。右廂為齋堂；後二十
 <pb ed="GA" xml:id="GA015.0014.b033a" n="b033a"/>
 <lb ed="GA" n="b033a01"/>餘楹，客堂、廚房并各寮。康熙丁卯，如暢、性聞建山門。</p></cb:div>
 <lb ed="GA" n="b033a02"/><cb:div type="other"><cb:mulu type="其他" level="2">奉師塔</cb:mulu><head>奉師塔</head>
@@ -848,7 +848,7 @@ $Log:$
 <lb ed="GA" n="b090a03"/><byline cb:type="other">正議大夫．開元路總管．兼管內勸農事．王元恭書丹
 <lb ed="GA" n="b090a04"/>資德大夫．浙東道宣慰使都元帥．張完澤篆額</byline>
 <lb ed="GA" n="b090a05"/><p xml:id="pGA015pb090a0501" rend="margin-left:0em;text-indent:2em">幻住經堂者，岳林水南和尚之所作也。和尚以逹摩氏
-<lb ed="GA" n="b090a06"/>心宗為世師表，是宜<choice cb:resp="DILA"><corr>扞</corr><sic>厈</sic></choice>絕文字、直見性元以倡後學；而
+<lb ed="GA" n="b090a06"/>心宗為世師表，是宜<note n="b090a0601" resp="CBETA" type="add">扞【CB】，厈【志彙】</note><app n="b090a0601"><lem wit="【CB】" resp="DILA">扞</lem><rdg wit="【志彙】">厈</rdg></app>絕文字、直見性元以倡後學；而
 <lb ed="GA" n="b090a07"/>猶尋章討句，蔽義理、滯知解，匪徒加諸己，且將淑諸人，
 <lb ed="GA" n="b090a08"/>何哉？蓋時有弗同而然也。時弗同而心同，則達摩氏之
 <lb ed="GA" n="b090a09"/>紓急救獘？抑亦和尚之紓急救弊歟？方今風俗媮薄，叢
@@ -870,7 +870,7 @@ $Log:$
 <lb ed="GA" n="b092a05"/>有他故哉？則誠以統緒而迪似續也。祖意、教意，或莫能
 <lb ed="GA" n="b092a06"/>辨契，此翁在，盍赴諸邑中而問焉？</p>
 <lb ed="GA" n="b092a07"/><p xml:id="pGA015pb092a0701" rend="margin-left:2em">至正三年四月望日吉旦，徒弟淨滿、如玉、子愿、淨慈，禪
-<lb ed="GA" n="b092a08"/>寺住持如<choice cb:resp="CBETA.maha"><corr>玘</corr><sic><g ref="#CB00215"/></sic></choice>仝立石</p></cb:div>
+<lb ed="GA" n="b092a08"/>寺住持如<note n="b092a0801" resp="CBETA" type="add">玘【CB】，<g ref="#CB00215"/>【志彙】</note><app n="b092a0801"><lem wit="【CB】" resp="CBETA.maha">玘</lem><rdg wit="【志彙】"><g ref="#CB00215"/></rdg></app>仝立石</p></cb:div>
 <lb ed="GA" n="b092a09"/><cb:div type="other"><cb:mulu type="其他" level="2">千佛閣記</cb:mulu><head>千佛閣記</head><byline cb:type="author">戴洵<note place="inline">大司成，號愚齋</note></byline>
 <pb ed="GA" xml:id="GA015.0014.b093a" n="b093a"/>
 <lb ed="GA" n="b093a01"/><p xml:id="pGA015pb093a0101" rend="margin-left:0em;text-indent:2em">佛，假名也。一佛本無，況千乎？雖然，佛者覺也，覺者心也。
@@ -889,7 +889,7 @@ $Log:$
 <lb ed="GA" n="b094a04"/>滿是心以全是覺，而不可合其全覺以名人。是故覺仁
 <lb ed="GA" n="b094a05"/>以行仁，因名為仁人，而非不義也；覺義以行義，因名為
 <lb ed="GA" n="b094a06"/>義人，而非不禮也；覺禮以行禮，因名為禮人，而非不智
-<lb ed="GA" n="b094a07"/>也；覺智以行智，因名為智人，而非不信也；覺信以行信，<choice cb:resp="DILA"><corr>因名為信人，</corr><sic><space quantity="0"/></sic></choice><note n="b094001" resp="DILA" place="foot text" type="orig">底本缺文，此依上下文法、文義補。</note>
+<lb ed="GA" n="b094a07"/>也；覺智以行智，因名為智人，而非不信也；覺信以行信，<note n="b094a0701" resp="CBETA" type="add">因名為信人【CB】，［－］【志彙】</note><app n="b094a0701"><lem wit="【CB】" resp="DILA">因名為信人，</lem><rdg wit="【志彙】"><space quantity="0"/></rdg></app><note n="b094001" resp="DILA" place="foot text" type="orig">底本缺文，此依上下文法、文義補。</note>
 <lb ed="GA" n="b094a08"/>而非不仁也。是故謂千佛非實有是人，似又不可也。雖
 <lb ed="GA" n="b094a09"/>然，過去千佛可知也；見在千佛可知也；未來千佛，釋迦
 <pb ed="GA" xml:id="GA015.0014.b095a" n="b095a"/>
@@ -897,7 +897,7 @@ $Log:$
 <lb ed="GA" n="b095a02"/>也。雖然，佛者覺也，覺者法也，法一而已。法身一立，則必
 <lb ed="GA" n="b095a03"/>有報身、有化身，而為三矣。三而曰化，則必化十、化百、化
 <lb ed="GA" n="b095a04"/>千、化萬億、而化無量矣。故過去雖千佛，而總一法身也；
-<lb ed="GA" n="b095a05"/>見在<choice cb:resp="DILA"><corr>雖</corr><sic><space quantity="0"/></sic></choice><note n="b095001" resp="DILA" place="foot text" type="orig">底本缺字，此依上下文法補。</note>千佛，而總一報身也；後來雖千佛，而總一化身也。
+<lb ed="GA" n="b095a05"/>見在<note n="b095a0501" resp="CBETA" type="add">雖【CB】，［－］【志彙】</note><app n="b095a0501"><lem wit="【CB】" resp="DILA">雖</lem><rdg wit="【志彙】"><space quantity="0"/></rdg></app><note n="b095001" resp="DILA" place="foot text" type="orig">底本缺字，此依上下文法補。</note>千佛，而總一報身也；後來雖千佛，而總一化身也。
 <lb ed="GA" n="b095a06"/>故報身者，法身之所報也；化身者，法身之所化也。謂已
 <lb ed="GA" n="b095a07"/>能化之而又不能知之乎？謂後來千佛必不可知其實
 <lb ed="GA" n="b095a08"/>有是人，又似未可也。雖然，佛一而已；三佛者，一佛之所
@@ -945,7 +945,7 @@ $Log:$
 <pb ed="GA" xml:id="GA015.0014.b100a" n="b100a"/>
 <lb ed="GA" n="b100a01"/>巔末，與余所前聞者悉相符合。然興言及此，輒以廢興、
 <lb ed="GA" n="b100a02"/>成毀相尋無窮為感。余固知楷公早有南音之隱思也。
-<lb ed="GA" n="b100a03"/>後余宦遊四方，楷公應奉邑士民敦請入院，諸凡傾<choice cb:resp="CBETA.maha"><corr>圮</corr><sic>圯</sic></choice>
+<lb ed="GA" n="b100a03"/>後余宦遊四方，楷公應奉邑士民敦請入院，諸凡傾<note n="b100a0301" resp="CBETA" type="add">圮【CB】，圯【志彙】</note><app n="b100a0301"><lem wit="【CB】" resp="CBETA.maha">圮</lem><rdg wit="【志彙】">圯</rdg></app>
 <lb ed="GA" n="b100a04"/>者修葺，舊毀者重光。且另搆天王殿，裝塑四天王，創造
 <lb ed="GA" n="b100a05"/>方丈兩楹、大殿左右廊屋，及廚房、齋堂、寮舍，計六十間
 <lb ed="GA" n="b100a06"/>餘，約費數千兩。拮据勞神，安排次第，其神輸鬼運乎？抑
@@ -1001,7 +1001,7 @@ $Log:$
 <lb ed="GA" n="b105a06"/>無問慧業文人、頑冥鈍漢，皆足以開其錮而引其萌。則
 <lb ed="GA" n="b105a07"/>謂之當機一棒可也，謂之頂門一針可也，金繩寶筏洵
 <lb ed="GA" n="b105a08"/>無以過之矣！蓋楷公之悲願普度、深切為人之意已概
-<lb ed="GA" n="b105a09"/>見於斯也。且輪奐者，<reg>頹</reg><choice cb:resp="CBETA.maha"><corr>圮</corr><sic>圯</sic></choice>之藉也；瓦礫者，金碧之媒也。
+<lb ed="GA" n="b105a09"/>見於斯也。且輪奐者，<reg>頹</reg><note n="b105a0901" resp="CBETA" type="add">圮【CB】，圯【志彙】</note><app n="b105a0901"><lem wit="【CB】" resp="CBETA.maha">圮</lem><rdg wit="【志彙】">圯</rdg></app>之藉也；瓦礫者，金碧之媒也。
 <pb ed="GA" xml:id="GA015.0014.b106a" n="b106a"/>
 <lb ed="GA" n="b106a01"/>千百年來，廢興何數？千百年後，成毀何期？後之於今，亦
 <lb ed="GA" n="b106a02"/>猶今之於昔。佛蹟不磨，道傳常繼。將起而新之者又何
@@ -1084,14 +1084,14 @@ $Log:$
 <lb ed="GA" n="b113a09"/>葺。功竣，謝院事去。遺僧鐵機、積勤盜鬻宗器，拆毀藏殿
 <pb ed="GA" xml:id="GA015.0014.b114a" n="b114a"/>
 <lb ed="GA" n="b114a01"/>巨木，而寺益敗壞。癸丑季春，本邑諸壇護請靈祐楷和
-<lb ed="GA" n="b114a02"/>尚，慨然飛錫。時香積塵埋，僧舍<reg>頹</reg><choice cb:resp="CBETA.maha"><corr>圮</corr><sic>𡉏</sic></choice>，饔飱且不繼；遂甘
+<lb ed="GA" n="b114a02"/>尚，慨然飛錫。時香積塵埋，僧舍<reg>頹</reg><note n="b114a0201" resp="CBETA" type="add">圮【CB】，𡉏【志彙】</note><app n="b114a0201"><lem wit="【CB】" resp="CBETA.maha">圮</lem><rdg wit="【志彙】">𡉏</rdg></app>，饔飱且不繼；遂甘
 <lb ed="GA" n="b114a03"/>清苦，與眾操作。未幾而佛像改觀。越歲而天王殿成。次
 <lb ed="GA" n="b114a04"/>年建左廊房寮舍二十六間，右亦如之。又次年創方丈
 <lb ed="GA" n="b114a05"/>及兩楹十餘間，周匝垣牆，約費數千金。不重擾檀那，已
 <lb ed="GA" n="b114a06"/>經營大備矣。昔慈氏募木於閩，世稱靈異。師不從天降
 <lb ed="GA" n="b114a07"/>地出，似有神運鬼輸。則今之所有，又安必昔之所無哉？
 <lb ed="GA" n="b114a08"/>師在超果時，學憲印周王公締交最善。適陞浙臬，師擕
-<lb ed="GA" n="b114a09"/>杖渡江<choice cb:resp="CBETA.maha"><corr>抵</corr><sic>扺</sic></choice>署，談寺中顛末。公乃手書碑文，發檄行縣。一
+<lb ed="GA" n="b114a09"/>杖渡江<note n="b114a0901" resp="CBETA" type="add">抵【CB】，扺【志彙】</note><app n="b114a0901"><lem wit="【CB】" resp="CBETA.maha">抵</lem><rdg wit="【志彙】">扺</rdg></app>署，談寺中顛末。公乃手書碑文，發檄行縣。一
 <pb ed="GA" xml:id="GA015.0014.b115a" n="b115a"/>
 <lb ed="GA" n="b115a01"/>齋蔡君勒石於天王殿之東。勝因快事，亦豈偶然哉？<note place="inline">琮</note>
 <lb ed="GA" n="b115a02"/>鈍根下慧，濫厠宗門，不辭搦管之譏，爰述其始終云爾。</p></cb:div></cb:div>
@@ -1281,7 +1281,7 @@ $Log:$
 <lb ed="GA" n="b134a06"/><cb:div type="other"><cb:mulu type="其他" level="3">同周玉光至岳林</cb:mulu><head>同周玉光至岳林</head><byline cb:type="author">鄭愫<note place="inline">邑令，號蒼巖</note></byline>
 <lb ed="GA" n="b134a07"/><lg xml:id="lgGA015pb134a0701" type="abnormal"><l rend="text-indent:2em">白業高僧得　青蓮法雨遙</l><l rend="text-indent:1em">官閒能話舊　寺古記前朝</l><l rend="text-indent:1em">花
 <lb ed="GA" n="b134a08"/>氣流雙袂　鐘聲到一瓢</l><l rend="text-indent:1em">重來磐石上　趺坐萬緣消</l></lg></cb:div>
-<lb ed="GA" n="b134a09"/><cb:div type="other"><cb:mulu type="其他" level="3">題指南軒茶話</cb:mulu><head>題指南軒茶話</head><byline cb:type="author">趙玉涵<note place="inline">藍田，<choice cb:resp="CBETA.maha"><corr>錫</corr><sic>鍚</sic></choice>山</note></byline>
+<lb ed="GA" n="b134a09"/><cb:div type="other"><cb:mulu type="其他" level="3">題指南軒茶話</cb:mulu><head>題指南軒茶話</head><byline cb:type="author">趙玉涵<note place="inline">藍田，<note n="b134a0901" resp="CBETA" type="add">錫【CB】，鍚【志彙】</note><app n="b134a0901"><lem wit="【CB】" resp="CBETA.maha">錫</lem><rdg wit="【志彙】">鍚</rdg></app>山</note></byline>
 <pb ed="GA" xml:id="GA015.0014.b135a" n="b135a"/>
 <lb ed="GA" n="b135a01"/><lg xml:id="lgGA015pb135a0101" type="abnormal"><l rend="text-indent:2em">山色秋光影動搖　幽窗開處草蕭蕭</l><l rend="text-indent:1em">蒲團日照禪心靜
 <lb ed="GA" n="b135a02"/>　香案花飛法界遙</l><l rend="text-indent:1em">四壁澷題摩詰句　一牀猶掛虎丘瓢</l>
@@ -1480,7 +1480,7 @@ $Log:$
 <lb ed="GA" n="b154a05"/><l rend="text-indent:1em">支公多少栽培意　獨許征人一寄吟<note place="inline">時余將北行，<unclear/>以志別。</note></l></lg>
 <lb ed="GA" n="b154a06"/><lg xml:id="lgGA015pb154a0601" type="abnormal"><l rend="text-indent:2em">錫飛茂艸看重新　太白燈傳第一人</l><l rend="text-indent:1em">共仰慈雲成佛國
 <lb ed="GA" n="b154a07"/>　欲從寶筏渡迷津</l><l rend="text-indent:1em">經營梵宇留真素　卜築幽栖遠俗塵</l>
-<lb ed="GA" n="b154a08"/><l rend="text-indent:1em">偷得浮生唯此地　乘閒時擬趁芳辰<note place="inline">楷公重建殿宇，不施丹<choice cb:resp="DILA"><corr>雘</corr><sic>矱</sic></choice>，故語及之。</note></l></lg></cb:div>
+<lb ed="GA" n="b154a08"/><l rend="text-indent:1em">偷得浮生唯此地　乘閒時擬趁芳辰<note place="inline">楷公重建殿宇，不施丹<note n="b154a0801" resp="CBETA" type="add">雘【CB】，矱【志彙】</note><app n="b154a0801"><lem wit="【CB】" resp="DILA">雘</lem><rdg wit="【志彙】">矱</rdg></app>，故語及之。</note></l></lg></cb:div>
 <lb ed="GA" n="b154a09"/><cb:div type="other"><cb:mulu type="其他" level="3">遊楷公塔院賦贈二章并屬題壁</cb:mulu><head>遊楷公塔院賦贈二章并屬題壁</head>
 <pb ed="GA" xml:id="GA015.0014.b155a" n="b155a"/>
 <lb ed="GA" n="b155a01"/><lg xml:id="lgGA015pb155a0101" type="abnormal"><l rend="text-indent:2em">從遊塔院當雲亭　遙對封山攬翠屏</l><l rend="text-indent:1em">秀色早應瞻五嶽
@@ -1668,10 +1668,10 @@ $Log:$
 <lb ed="GA" n="b174a06"/>枯囊<reg>暨</reg>徒天機助資外，并募諸賢，建普同塔於寺之東
 <lb ed="GA" n="b174a07"/>園。時康熙乙丑十月望日吉辰也。蓋至是而余之心乃
 <lb ed="GA" n="b174a08"/>大安。今日者，骨安有口？以無口之口念無字經，適凖西
-<lb ed="GA" n="b174a09"/>來不立文字之程。骨安有手？以無<choice cb:resp="DILA"><corr>手</corr><sic>字</sic></choice>之手輪如意珠，堪
+<lb ed="GA" n="b174a09"/>來不立文字之程。骨安有手？以無<note n="b174a0901" resp="CBETA" type="add">手【CB】，字【志彙】</note><app n="b174a0901"><lem wit="【CB】" resp="DILA">手</lem><rdg wit="【志彙】">字</rdg></app>之手輪如意珠，堪
 <pb ed="GA" xml:id="GA015.0014.b175a" n="b175a"/>
 <lb ed="GA" n="b175a01"/>嘲象罔求珠之誤。骨安有足？以無足之足朅來如飛，竊
-<lb ed="GA" n="b175a02"/>比赤白乘雲之致。骨安有眼？以無<choice cb:resp="DILA"><corr>眼</corr><sic>字</sic></choice>之眼視於無形，有
+<lb ed="GA" n="b175a02"/>比赤白乘雲之致。骨安有眼？以無<note n="b175a0201" resp="CBETA" type="add">眼【CB】，字【志彙】</note><app n="b175a0201"><lem wit="【CB】" resp="DILA">眼</lem><rdg wit="【志彙】">字</rdg></app>之眼視於無形，有
 <lb ed="GA" n="b175a03"/>何露柱燈籠之憾？骨安有耳？以無耳之耳聽於無聲，自
 <lb ed="GA" n="b175a04"/>恰太音正希之旨。總之，骨已無身，以無身之身，逍遙於
 <lb ed="GA" n="b175a05"/>廣漠之野，出入於無何有之鄉，永脫有身是苦之患。序

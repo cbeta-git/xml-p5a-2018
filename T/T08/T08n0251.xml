@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T08n0251" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc>
 <titleStmt>
 <title>Taishō Tripiṭaka, Electronic version, No. 251 般若波羅蜜多心經</title>
@@ -132,7 +132,7 @@ add cvs log
 <lb ed="T" n="0848c03"/>
 <lb ed="T" n="0848c04"/><cb:juan fun="open" n="001"><cb:mulu type="卷" n="1"/><cb:jhead><note type="orig" place="foot text" n="0848001" resp="Taisho">Prajñāpāramitā hṛdaya（A.小）.</note>般若波羅蜜多心經</cb:jhead></cb:juan>
 <lb ed="T" n="0848c05"/>
-<lb ed="T" n="0848c06"/><byline><note place="foot text" n="0848002" resp="Taisho" type="orig">〔唐〕－【宋】</note><app n="0848002"><lem wit="【大】">唐</lem><rdg wit="【宋】" resp="Taisho"><space quantity="0"></space></rdg></app>三藏法師玄<note type="orig" n="0848003" resp="Taisho" place="foot text">奘＋（奉詔）【三】</note><note resp="CBETA" n="0848003" type="mod">奘＋（奉詔）【宋】【元】【明】</note><app n="0848003"><lem wit="【大】">奘</lem><rdg wit="【宋】【元】【明】" resp="Taisho">奘奉詔</rdg></app>譯</byline>
+<lb ed="T" n="0848c06"/><byline><note place="foot text" n="0848002" resp="Taisho" type="orig">〔唐〕－【宋】</note><note n="0848002" resp="CBETA" type="mod">唐【大】，〔－〕【宋】</note><app n="0848002"><lem wit="【大】">唐</lem><rdg wit="【宋】" resp="Taisho"><space quantity="0"/></rdg></app>三藏法師玄<note type="orig" n="0848003" resp="Taisho" place="foot text">奘＋（奉詔）【三】</note><note resp="CBETA" n="0848003" type="mod">奘【大】，奘奉詔【宋】【元】【明】</note><app n="0848003"><lem wit="【大】">奘</lem><rdg wit="【宋】【元】【明】" resp="Taisho">奘奉詔</rdg></app>譯</byline>
 <lb n="0848c07" ed="T"/><cb:div type="jing"><p xml:id="pT08p0848c0701">觀自在菩薩行深般若波羅蜜多時，照見五
 <lb n="0848c08" ed="T"/>蘊皆空，度一切苦厄。</p><p xml:id="pT08p0848c0809" rend="inline">「舍利子！色不異空，空不
 <lb n="0848c09" ed="T"/>異色，色即是空，空即是色；受、想、行、識，亦復如
@@ -148,9 +148,9 @@ add cvs log
 <lb ed="T" n="0848c19"/>大神咒，是大明咒，是無上咒，是無等等咒，能
 <lb ed="T" n="0848c20"/>除一切苦，真實不虛，故說般若波羅蜜多咒。」</p>
 <lb n="0848c21" ed="T"/><p xml:id="pT08p0848c2101">即說咒曰：</p>
-<lb n="0848c22" ed="T"/><p xml:id="pT08p0848c2201" cb:type="dharani">「揭<note type="orig" resp="Taisho" n="0848004" place="foot text">呪文 Gate gate pāragate pārasaṃgate bodhi Svāhā.</note>帝　揭<note type="orig" place="foot text" resp="Taisho" n="0848005">帝＝諦【三】＊</note><note resp="CBETA" n="0848005" type="mod">帝＝諦【宋】＊【元】＊【明】＊</note><app n="0848005"><lem wit="【大】">帝</lem><rdg resp="Taisho" wit="【宋】【元】【明】">諦</rdg></app>　
-<note type="orig" n="0848006" resp="Taisho" place="foot text">般＝波【三】＊</note><note type="mod" n="0848006" resp="CBETA">般＝波【宋】＊【元】＊【明】＊</note><app n="0848006"><lem wit="【大】">般</lem><rdg resp="Taisho" wit="【宋】【元】【明】">波</rdg></app>羅揭<app corresp="#0848005" type="star"><lem wit="【大】">帝</lem><rdg wit="【宋】【元】【明】" resp="Taisho">諦</rdg></app>　
+<lb n="0848c22" ed="T"/><p xml:id="pT08p0848c2201" cb:type="dharani">「揭<note type="orig" resp="Taisho" n="0848004" place="foot text">呪文 Gate gate pāragate pārasaṃgate bodhi Svāhā.</note>帝　揭<note type="orig" place="foot text" resp="Taisho" n="0848005">帝＝諦【三】＊</note><note resp="CBETA" n="0848005" type="mod">帝【大】＊，諦【宋】＊【元】＊【明】＊</note><app n="0848005"><lem wit="【大】">帝</lem><rdg resp="Taisho" wit="【宋】【元】【明】">諦</rdg></app>　
+<note type="orig" n="0848006" resp="Taisho" place="foot text">般＝波【三】＊</note><note type="mod" n="0848006" resp="CBETA">般【大】＊，波【宋】＊【元】＊【明】＊</note><app n="0848006"><lem wit="【大】">般</lem><rdg resp="Taisho" wit="【宋】【元】【明】">波</rdg></app>羅揭<app corresp="#0848005" type="star"><lem wit="【大】">帝</lem><rdg wit="【宋】【元】【明】" resp="Taisho">諦</rdg></app>　
 <app corresp="#0848006" type="star"><lem wit="【大】">般</lem><rdg wit="【宋】【元】【明】" resp="Taisho">波</rdg></app>羅僧揭<app corresp="#0848005" type="star"><lem wit="【大】">帝</lem><rdg resp="Taisho" wit="【宋】【元】【明】">諦</rdg></app>
-<lb ed="T" n="0848c23"/>　菩提　<note type="orig" resp="Taisho" n="0848007" place="foot text">僧莎＝薩婆【三】</note><note type="mod" n="0848007" resp="CBETA">僧莎＝薩婆【宋】【元】【明】</note><app n="0848007"><lem wit="【大】">僧莎</lem><rdg wit="【宋】【元】【明】" resp="Taisho">薩婆</rdg></app>訶」</p></cb:div>
+<lb ed="T" n="0848c23"/>　菩提　<note type="orig" resp="Taisho" n="0848007" place="foot text">僧莎＝薩婆【三】</note><note type="mod" n="0848007" resp="CBETA">僧莎【大】，薩婆【宋】【元】【明】</note><app n="0848007"><lem wit="【大】">僧莎</lem><rdg wit="【宋】【元】【明】" resp="Taisho">薩婆</rdg></app>訶」</p></cb:div>
 <lb n="0848c24" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>般若波羅蜜多心經</title></cb:jhead></cb:juan>
 </body></text></TEI>

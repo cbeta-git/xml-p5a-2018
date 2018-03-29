@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 2830A 道安法師念佛讚</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 2830A 道安法師念佛讚</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -115,7 +115,7 @@ Added comment  for Emacs
 <lb n="1268b23" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="1268b24" ed="T"/><cb:docNumber>No. 2830A</cb:docNumber>
-<lb n="1268b25" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="1268002" resp="Taisho" place="foot text" type="orig">【原】大英博物館藏燉煌本, S. 2985, 【甲】佛蘭西國民圖書館藏燉煌本</note>道安法師念佛讚</cb:jhead></cb:juan>
+<lb n="1268b25" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="1268002" resp="Taisho" place="foot text" type="orig">【原】大英博物館藏燉煌本, S. 2985, 【甲】佛蘭西國民圖書館藏燉煌本</note><note n="1268002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->【原】大英博物館藏燉煌本, S. 2985, 【甲】佛蘭西國民圖書館藏燉煌本</note>道安法師念佛讚</cb:jhead></cb:juan>
 <lb n="1268b26" ed="T"/>
 <lb n="1268b27" ed="T"/><cb:div type="other"><lg xml:id="lgT85p1268b2701"><l>□十三天佛最尊</l><l>萬物中貴不過人</l>
 <lb n="1268b28" ed="T"/><l>一世眼□□□□</l><l>妙□相勸入善門</l>
@@ -135,15 +135,15 @@ Added comment  for Emacs
 <lb n="1268c12" ed="T"/><l>富貴前生希施得</l><l>貧是慳貪宿業因</l>
 <lb n="1268c13" ed="T"/><l>世人無慈好酒肉</l><l>百味調和勸六親</l>
 <lb n="1268c14" ed="T"/><l>但著猪羊被宰殺</l><l>苦痛之聲上帝聞</l>
-<lb n="1268c15" ed="T"/><l>眼光早已隨<note n="1268003" resp="Taisho" place="foot text" type="orig">身＝刀【甲】</note><app n="1268003"><lem wit="【大】">身</lem><rdg resp="Taisho" wit="【甲】">刀</rdg></app>落</l><l>四脚高低就血盆</l>
+<lb n="1268c15" ed="T"/><l>眼光早已隨<note n="1268003" resp="Taisho" place="foot text" type="orig">身＝刀【甲】</note><note n="1268003" resp="CBETA" type="mod">身【大】，刀【甲】</note><app n="1268003"><lem wit="【大】">身</lem><rdg resp="Taisho" wit="【甲】">刀</rdg></app>落</l><l>四脚高低就血盆</l>
 <lb n="1268c16" ed="T"/><l>將知食肉屠他命</l><l>地獄恐讐不可論</l>
 <lb n="1268c17" ed="T"/><l>累月不曾得一類</l><l>終日虛霑喫肉人</l>
 <lb n="1268c18" ed="T"/><l>死生猶來美生處</l><l>若箇不覓命長存</l>
 <lb n="1268c19" ed="T"/><l>輪迴六道受諸類</l><l>改頭換面不相知</l>
 <lb n="1268c20" ed="T"/><l>但取眾生血肉喫</l><l>誰知父母及妻兒</l>
-<lb n="1268c21" ed="T"/><l>一切猪羊<choice cb:resp="CBETA.maha"><corr>皆<note type="cf1">T85n2830Ap1268c09</note></corr><sic>背</sic></choice>惜命</l><l>惜命叫喚口中悲</l>
+<lb n="1268c21" ed="T"/><l>一切猪羊<note n="1268c2101" resp="CBETA" type="add">皆【CB】，背【大】</note><app n="1268c2101"><lem wit="【CB】" resp="CBETA.maha">皆<note type="cf1">T85n2830Ap1268c09</note></lem><rdg wit="【大】">背</rdg></app>惜命</l><l>惜命叫喚口中悲</l>
 <lb n="1268c22" ed="T"/><l>緣業力劣負他命</l><l>百劫千生不放衣</l>
 <lb n="1268c23" ed="T"/><l>善惡皆將業鏡照</l><l>寸步驅逐入阿鼻</l>
 <lb n="1268c24" ed="T"/><l>普勸眾生修萬行</l><l>今逢法教莫生疑</l>
-<lb n="1268c25" ed="T"/><l>決定至心聞妙法</l><l>當來極樂佛<note n="1268004" resp="Taisho" place="foot text" type="orig">為＝邊【甲】</note><app n="1268004"><lem wit="【大】">為</lem><rdg resp="Taisho" wit="【甲】">邊</rdg></app>期</l></lg></cb:div>
+<lb n="1268c25" ed="T"/><l>決定至心聞妙法</l><l>當來極樂佛<note n="1268004" resp="Taisho" place="foot text" type="orig">為＝邊【甲】</note><note n="1268004" resp="CBETA" type="mod">為【大】，邊【甲】</note><app n="1268004"><lem wit="【大】">為</lem><rdg resp="Taisho" wit="【甲】">邊</rdg></app>期</l></lg></cb:div>
 </body></text></TEI>

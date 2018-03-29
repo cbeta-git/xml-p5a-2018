@@ -5,7 +5,7 @@
 		<titleStmt>
 			<title>Taishō Tripiṭaka, Electronic version, No. 2881 善惡因果經</title>
 			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 2881 善惡因果經</title>
-			<author></author>
+			<author/>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -164,7 +164,7 @@ Added comment  for Emacs
 <lb n="1380c11" ed="T"/>寬而得眾、有為他所棄。</p><p xml:id="pT85p1380c1110" rend="inline">「有婦姑相憎、有妯娌
 <lb n="1380c12" ed="T"/>歡戲，有喜聽法語、有聞經眠睡，有武夫無禮、
 <lb n="1380c13" ed="T"/>有好學文義，有作畜生之形種種異類。</p><p xml:id="pT85p1380c1316" rend="inline">「唯願
-<lb n="1380c14" ed="T"/>世尊廣說因果，大眾<choice cb:resp="CBETA.maha"><corr>若</corr><sic>死</sic></choice>聞一心從善。」</p>
+<lb n="1380c14" ed="T"/>世尊廣說因果，大眾<note n="1380c1401" resp="CBETA" type="add">若【CB】，死【大】</note><app n="1380c1401"><lem wit="【CB】" resp="CBETA.maha">若</lem><rdg wit="【大】">死</rdg></app>聞一心從善。」</p>
 <lb n="1380c15" ed="T"/><p xml:id="pT85p1380c1501">佛告阿難：「如汝所問受報不同者，皆由先世
 <lb n="1380c16" ed="T"/>用心不等，是以所受千差萬別。今身端政者
 <lb n="1380c17" ed="T"/>從忍辱中來，為人醜陋者從瞋恚中來，為人
@@ -186,12 +186,12 @@ Added comment  for Emacs
 <lb n="1381a03" ed="T"/>中來，為人短項從見尊長縮頭走避中來，為
 <lb n="1381a04" ed="T"/>人心痛病者從斫刺眾生身體中來，為人癩
 <lb n="1381a05" ed="T"/>病從枉取他物中來，為人氣嗽從冬月與人
-<lb n="1381a06" ed="T"/>冷食<note n="1381001" resp="Taisho" type="orig" place="foot text">中＋（來）ヵ【原】</note><note n="1381001" resp="CBETA" type="mod">中＋（來）ヵ【原】，中＋（來）【CB】</note><app><lem resp="CBETA.maha" wit="【CBETA】">中來</lem><rdg wit="【大】">中</rdg><rdg resp="Taisho" wit="【原】">中來</rdg><rdg resp="Taisho" wit="【原】" type="correctionRemark">中來</rdg></app>。</p><p xml:id="pT85p1381a0605" rend="inline">「為人無男女者從殺他諸鳥子中來，
+<lb n="1381a06" ed="T"/>冷食<note n="1381001" resp="Taisho" type="orig" place="foot text">中＋（來）ヵ【原】</note><note n="1381001" resp="CBETA" type="mod">中來【CB】，中【大】，中來【考偽-原】</note><note n="1381a0601" resp="CBETA" type="add">中來【CB】【原】【原】，中【大】</note><app n="1381a0601"><lem resp="CBETA.maha" wit="【CB】">中來</lem><rdg wit="【大】">中</rdg><rdg resp="Taisho" wit="【原】">中來</rdg><rdg resp="Taisho" wit="【原】" type="correctionRemark">中來</rdg></app>。</p><p xml:id="pT85p1381a0605" rend="inline">「為人無男女者從殺他諸鳥子中來，
 <lb n="1381a07" ed="T"/>為人饒兒息者從喜養生物命中來，為人長
 <lb n="1381a08" ed="T"/>命者從慈心中來，為人短命者從殺生中來，為
 <lb n="1381a09" ed="T"/>人大富者從布施中來，為人有車馬者從施
 <lb n="1381a10" ed="T"/>三寶車馬中來，為人聰明從學問誦經中來，
-<lb n="1381a11" ed="T"/>為人闇鈍從畜生中來，為人奴婢從<choice cb:resp="CBETA.maha"><corr>負債</corr><sic>貧責</sic></choice>中
+<lb n="1381a11" ed="T"/>為人闇鈍從畜生中來，為人奴婢從<note n="1381a1101" resp="CBETA" type="add">負債【CB】，貧責【大】</note><app n="1381a1101"><lem wit="【CB】" resp="CBETA.maha">負債</lem><rdg wit="【大】">貧責</rdg></app>中
 <lb n="1381a12" ed="T"/>來，為人躁狂從獼猴中來，為人病癩者從破
 <lb n="1381a13" ed="T"/>壞三寶中來，為人手脚不隨者從縛勅眾生
 <lb n="1381a14" ed="T"/>手脚中來，為人惡性從蛇蠍中來，為人六根
@@ -285,46 +285,46 @@ Added comment  for Emacs
 <lb n="1382a12" ed="T"/>高聲無愧，多所愛念，不別是非者，從驢中來。為
 <lb n="1382a13" ed="T"/>人恒貪肉食，所作無畏者，從師子中來。為人
 <lb n="1382a14" ed="T"/>身長眼圓，多遊曠野，憎嫉妻子者，從虎中來。為
-<lb n="1382a15" ed="T"/>人毛長眼小，不樂一處者，從<note n="1382002" resp="Taisho" type="orig" place="foot text">〔飛〕－【甲】</note><app n="1382002"><lem wit="【大】">飛</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>鳥中來。為人
+<lb n="1382a15" ed="T"/>人毛長眼小，不樂一處者，從<note n="1382002" resp="Taisho" type="orig" place="foot text">〔飛〕－【甲】</note><note n="1382002" resp="CBETA" type="mod">飛【大】，〔－〕【甲】</note><app n="1382002"><lem wit="【大】">飛</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>鳥中來。為人
 <lb n="1382a16" ed="T"/>性無返復，喜殺害虫者，從野狐中來。為人勇
 <lb n="1382a17" ed="T"/>健，少於婬慾，不愛妻子者，從狼中來。為人不
-<lb n="1382a18" ed="T"/>好妙服，伺捕奸非，<note n="1382003" resp="Taisho" type="orig" place="foot text">小時眼惡＝少眠【甲】</note><app n="1382003"><lem wit="【大】">小時眼惡</lem><rdg resp="Taisho" wit="【甲】">少眠</rdg></app>多怒者，從狗中
+<lb n="1382a18" ed="T"/>好妙服，伺捕奸非，<note n="1382003" resp="Taisho" type="orig" place="foot text">小時眼惡＝少眠【甲】</note><note n="1382003" resp="CBETA" type="mod">小時眼惡【大】，少眠【甲】</note><app n="1382003"><lem wit="【大】">小時眼惡</lem><rdg resp="Taisho" wit="【甲】">少眠</rdg></app>多怒者，從狗中
 <lb n="1382a19" ed="T"/>來。為人好婬憙，談眾人所愛者，從鸚鵡中來。
-<lb n="1382a20" ed="T"/>為人樂<note n="1382004" resp="Taisho" type="orig" place="foot text">〔人〕－【甲】</note><app n="1382004"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>，眾中言語多煩者，鸚鵅中來。</p><p xml:id="pT85p1382a2016" rend="inline">「為人
+<lb n="1382a20" ed="T"/>為人樂<note n="1382004" resp="Taisho" type="orig" place="foot text">〔人〕－【甲】</note><note n="1382004" resp="CBETA" type="mod">人【大】，〔－〕【甲】</note><app n="1382004"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>，眾中言語多煩者，鸚鵅中來。</p><p xml:id="pT85p1382a2016" rend="inline">「為人
 <lb n="1382a21" ed="T"/>體小好婬意，不專定見色心惑者，從雀中來。為
-<lb n="1382a22" ed="T"/>人眼赤齒短，語便吐<choice cb:resp="CBETA"><corr>沫</corr><sic>沬</sic></choice>，臥則纏身者，從蛇蚖
+<lb n="1382a22" ed="T"/>人眼赤齒短，語便吐<note n="1382a2201" resp="CBETA" type="add">沫【CB】，沬【大】</note><app n="1382a2201"><lem wit="【CB】" resp="CBETA">沫</lem><rdg wit="【大】">沬</rdg></app>，臥則纏身者，從蛇蚖
 <lb n="1382a23" ed="T"/>中來。為人語則瞋恚不察來義，口出火毒者，
 <lb n="1382a24" ed="T"/>從蝎中來。為人獨處貪食，夜則少睡者，從狸
 <lb n="1382a25" ed="T"/>中來。為人穿牆竊盜，貪財健怨，無有親疎者，
 <lb n="1382a26" ed="T"/>從鼠中來。」</p>
 <lb n="1382a27" ed="T"/><p xml:id="pT85p1382a2701">佛言：「為人破塔壞寺，隱藏三寶物作己用者，
-<lb n="1382a28" ed="T"/>死墮阿鼻<note n="1382005" resp="Taisho" type="orig" place="foot text">〔大〕－【甲】</note><app n="1382005"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>地獄中，從地獄出受畜生身，所
-<lb n="1382a29" ed="T"/>謂鴿、雀、鴛、鴦、鸚鵡、青雀、魚、鱉、獼猴、<note n="1382006" resp="Taisho" type="orig" place="foot text">獐＝麞【甲】</note><app n="1382006"><lem wit="【大】">獐</lem><rdg resp="Taisho" wit="【甲】">麞</rdg></app>、鹿；若得
+<lb n="1382a28" ed="T"/>死墮阿鼻<note n="1382005" resp="Taisho" type="orig" place="foot text">〔大〕－【甲】</note><note n="1382005" resp="CBETA" type="mod">大【大】，〔－〕【甲】</note><app n="1382005"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>地獄中，從地獄出受畜生身，所
+<lb n="1382a29" ed="T"/>謂鴿、雀、鴛、鴦、鸚鵡、青雀、魚、鱉、獼猴、<note n="1382006" resp="Taisho" type="orig" place="foot text">獐＝麞【甲】</note><note n="1382006" resp="CBETA" type="mod">獐【大】，麞【甲】</note><app n="1382006"><lem wit="【大】">獐</lem><rdg resp="Taisho" wit="【甲】">麞</rdg></app>、鹿；若得
 <pb n="1382b" ed="T" xml:id="T85.2881.1382b"/>
-<lb n="1382b01" ed="T"/>人身，受黃門形，女人二根<note n="1382007" resp="Taisho" type="orig" place="foot text">〔無根〕－【甲】</note><app n="1382007"><lem wit="【大】">無根</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>婬女。為人喜
-<lb n="1382b02" ed="T"/>瞋恚者，死墮毒蛇、師子、虎、狼、熊、羆、<note n="1382008" resp="Taisho" type="orig" place="foot text">猫＝㹨【甲】</note><app n="1382008"><lem wit="【大】">猫</lem><rdg resp="Taisho" wit="【甲】">㹨</rdg></app>狸、鷹、雞
+<lb n="1382b01" ed="T"/>人身，受黃門形，女人二根<note n="1382007" resp="Taisho" type="orig" place="foot text">〔無根〕－【甲】</note><note n="1382007" resp="CBETA" type="mod">無根【大】，〔－〕【甲】</note><app n="1382007"><lem wit="【大】">無根</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>婬女。為人喜
+<lb n="1382b02" ed="T"/>瞋恚者，死墮毒蛇、師子、虎、狼、熊、羆、<note n="1382008" resp="Taisho" type="orig" place="foot text">猫＝㹨【甲】</note><note n="1382008" resp="CBETA" type="mod">猫【大】，㹨【甲】</note><app n="1382008"><lem wit="【大】">猫</lem><rdg resp="Taisho" wit="【甲】">㹨</rdg></app>狸、鷹、雞
 <lb n="1382b03" ed="T"/>之屬；若得人身，喜養雞猪，屠兒獵師網捕獄
-<lb n="1382b04" ed="T"/>卒。為人<choice cb:resp="CBETA.maha"><corr>愚</corr><sic>遇</sic></choice>癡不解道理者，死墮象、猪、牛、羊、水
+<lb n="1382b04" ed="T"/>卒。為人<note n="1382b0401" resp="CBETA" type="add">愚【CB】，遇【大】</note><app n="1382b0401"><lem wit="【CB】" resp="CBETA.maha">愚</lem><rdg wit="【大】">遇</rdg></app>癡不解道理者，死墮象、猪、牛、羊、水
 <lb n="1382b05" ed="T"/>牛、蚤、虱、蚊、蝱、蟻子等形；若得人身，聾盲瘖瘂、
-<lb n="1382b06" ed="T"/>癃殘背瘻，諸根不具<note n="1382009" resp="Taisho" type="orig" place="foot text">〔足〕－【甲】</note><app n="1382009"><lem wit="【大】">足</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>，不能受法。為人憍慢
-<lb n="1382b07" ed="T"/>者，死墮糞虫、<choice cb:resp="CBETA.maha"><corr>駞</corr><sic>馳</sic></choice>驢、犬、馬；若生人中，受奴婢
-<lb n="1382b08" ed="T"/>身<choice cb:resp="CBETA.maha"><corr>貧</corr><sic>貪</sic></choice>窮乞丐，眾所輕賤。為人因官形勢貪取
+<lb n="1382b06" ed="T"/>癃殘背瘻，諸根不具<note n="1382009" resp="Taisho" type="orig" place="foot text">〔足〕－【甲】</note><note n="1382009" resp="CBETA" type="mod">足【大】，〔－〕【甲】</note><app n="1382009"><lem wit="【大】">足</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>，不能受法。為人憍慢
+<lb n="1382b07" ed="T"/>者，死墮糞虫、<note n="1382b0701" resp="CBETA" type="add">駞【CB】，馳【大】</note><app n="1382b0701"><lem wit="【CB】" resp="CBETA.maha">駞</lem><rdg wit="【大】">馳</rdg></app>驢、犬、馬；若生人中，受奴婢
+<lb n="1382b08" ed="T"/>身<note n="1382b0801" resp="CBETA" type="add">貧【CB】，貪【大】</note><app n="1382b0801"><lem wit="【CB】" resp="CBETA.maha">貧</lem><rdg wit="【大】">貪</rdg></app>窮乞丐，眾所輕賤。為人因官形勢貪取
 <lb n="1382b09" ed="T"/>民物者，死墮肉山地獄中，百千萬人割肉而
 <lb n="1382b10" ed="T"/>噉。</p><p xml:id="pT85p1382b1002" rend="inline">「今身喜立他人者，死墮白象中，脚直不得
-<lb n="1382b11" ed="T"/>眼臥。今身破齋夜食者，死墮餓鬼中，百<note n="1382010" resp="Taisho" type="orig" place="foot text">萬＝千【甲】</note><app n="1382010"><lem wit="【大】">萬</lem><rdg resp="Taisho" wit="【甲】">千</rdg></app>
+<lb n="1382b11" ed="T"/>眼臥。今身破齋夜食者，死墮餓鬼中，百<note n="1382010" resp="Taisho" type="orig" place="foot text">萬＝千【甲】</note><note n="1382010" resp="CBETA" type="mod">萬【大】，千【甲】</note><app n="1382010"><lem wit="【大】">萬</lem><rdg resp="Taisho" wit="【甲】">千</rdg></app>
 <lb n="1382b12" ed="T"/>萬歲不得飲食，若行之時節頭火出。今身喜
-<lb n="1382b13" ed="T"/>露形坐者，<note n="1382011" resp="Taisho" type="orig" place="foot text">〔死〕－【甲】</note><app n="1382011"><lem wit="【大】">死</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>作寒鴞虫。今身懷<note n="1382012" resp="Taisho" type="orig" place="foot text">〔挾〕－【甲】</note><app n="1382012"><lem wit="【大】">挾</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>齋殘飲
+<lb n="1382b13" ed="T"/>露形坐者，<note n="1382011" resp="Taisho" type="orig" place="foot text">〔死〕－【甲】</note><note n="1382011" resp="CBETA" type="mod">死【大】，〔－〕【甲】</note><app n="1382011"><lem wit="【大】">死</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>作寒鴞虫。今身懷<note n="1382012" resp="Taisho" type="orig" place="foot text">〔挾〕－【甲】</note><note n="1382012" resp="CBETA" type="mod">挾【大】，〔－〕【甲】</note><app n="1382012"><lem wit="【大】">挾</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>齋殘飲
 <lb n="1382b14" ed="T"/>食者，死墮熱鐵地獄中，又生人間著咽塞病
 <lb n="1382b15" ed="T"/>短命而死。今身禮佛頭不至地者，死墮倒懸
 <lb n="1382b16" ed="T"/>地獄，又生人間多為欺誑。今身禮佛不合掌
 <lb n="1382b17" ed="T"/>者，死墮邊地，多用功力無所收獲。今身聞鐘
 <lb n="1382b18" ed="T"/>聲不起者，死墮蟒蛇中，其身長大為諸小虫
-<lb n="1382b19" ed="T"/>之所唼食。今身拱<note n="1382013" resp="Taisho" type="orig" place="foot text">手＝首【甲】</note><app n="1382013"><lem wit="【大】">手</lem><rdg resp="Taisho" wit="【甲】">首</rdg></app>禮佛者，死墮反縛地
+<lb n="1382b19" ed="T"/>之所唼食。今身拱<note n="1382013" resp="Taisho" type="orig" place="foot text">手＝首【甲】</note><note n="1382013" resp="CBETA" type="mod">手【大】，首【甲】</note><app n="1382013"><lem wit="【大】">手</lem><rdg resp="Taisho" wit="【甲】">首</rdg></app>禮佛者，死墮反縛地
 <lb n="1382b20" ed="T"/>獄，又生人中橫遭惡事。今身合掌、五體投地
 <lb n="1382b21" ed="T"/>至心禮佛者，常處尊貴恒受快樂。</p><p xml:id="pT85p1382b2114" rend="inline">「今身健瞋
 <lb n="1382b22" ed="T"/>懊食者，從顛狂中來。今身眼目<g ref="#CB06988"/>睞者，從
-<lb n="1382b23" ed="T"/><note n="1382014" resp="Taisho" type="orig" place="foot text">邪＋（見）【甲】</note><app n="1382014"><lem wit="【大】">邪</lem><rdg resp="Taisho" wit="【甲】">邪見</rdg></app>看他婦女中來。今身護婦罵父母者，死
-<lb n="1382b24" ed="T"/>墮斬舌地獄中。今身如水著酒中，<note n="1382015" resp="Taisho" type="orig" place="foot text">沽＝酤【甲】</note><app n="1382015"><lem wit="【大】">沽</lem><rdg resp="Taisho" wit="【甲】">酤</rdg></app>與人
+<lb n="1382b23" ed="T"/><note n="1382014" resp="Taisho" type="orig" place="foot text">邪＋（見）【甲】</note><note n="1382014" resp="CBETA" type="mod">邪【大】，邪見【甲】</note><app n="1382014"><lem wit="【大】">邪</lem><rdg resp="Taisho" wit="【甲】">邪見</rdg></app>看他婦女中來。今身護婦罵父母者，死
+<lb n="1382b24" ed="T"/>墮斬舌地獄中。今身如水著酒中，<note n="1382015" resp="Taisho" type="orig" place="foot text">沽＝酤【甲】</note><note n="1382015" resp="CBETA" type="mod">沽【大】，酤【甲】</note><app n="1382015"><lem wit="【大】">沽</lem><rdg resp="Taisho" wit="【甲】">酤</rdg></app>與人
 <lb n="1382b25" ed="T"/>者，死作水中虫，又生人間水腫斷氣而死。」</p>
 <lb n="1382b26" ed="T"/><p xml:id="pT85p1382b2601">佛告阿難：「如向所說種種眾苦，皆由十惡之
 <lb n="1382b27" ed="T"/>業，上者地獄因緣，中者畜生因緣，下者餓
@@ -344,8 +344,8 @@ Added comment  for Emacs
 <lb n="1382c11" ed="T"/>獄、畜生、餓鬼；若生人間得二種果報：一者、
 <lb n="1382c12" ed="T"/>常聞惡聲；二者、所有言說恒有諍訟。綺語
 <lb n="1382c13" ed="T"/>之罪，亦令眾生墮於地獄、畜生、餓鬼；若生人
-<lb n="1382c14" ed="T"/>間有二種果報：一者、說<note n="1382016" resp="Taisho" type="orig" place="foot text">正＋（語）【甲】</note><app n="1382016"><lem wit="【大】">正</lem><rdg resp="Taisho" wit="【甲】">正語</rdg></app>人不言受；二者、
-<lb n="1382c15" ed="T"/>所有<note n="1382017" resp="Taisho" type="orig" place="foot text">（口）＋言【甲】</note><app n="1382017"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【甲】">口言</rdg></app>說不能辯了。貪慾之罪，亦令眾生墮
+<lb n="1382c14" ed="T"/>間有二種果報：一者、說<note n="1382016" resp="Taisho" type="orig" place="foot text">正＋（語）【甲】</note><note n="1382016" resp="CBETA" type="mod">正【大】，正語【甲】</note><app n="1382016"><lem wit="【大】">正</lem><rdg resp="Taisho" wit="【甲】">正語</rdg></app>人不言受；二者、
+<lb n="1382c15" ed="T"/>所有<note n="1382017" resp="Taisho" type="orig" place="foot text">（口）＋言【甲】</note><note n="1382017" resp="CBETA" type="mod">言【大】，口言【甲】</note><app n="1382017"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【甲】">口言</rdg></app>說不能辯了。貪慾之罪，亦令眾生墮
 <lb n="1382c16" ed="T"/>於地獄、畜生、餓鬼；若生人中得二種果報：一
 <lb n="1382c17" ed="T"/>者、貪財無有厭足；二者、多求恒無從意。瞋恚
 <lb n="1382c18" ed="T"/>之罪，亦令眾生墮於地獄、畜生、餓鬼；若生人
@@ -361,27 +361,27 @@ Added comment  for Emacs
 <lb n="1382c28" ed="T"/>主，造立浮圖寺舍者，未來必作國王，統領萬
 <lb n="1382c29" ed="T"/>民無往不伏。今身作邑王中正維那輪主者，
 <pb n="1383a" ed="T" xml:id="T85.2881.1383a"/>
-<lb n="1383a01" ed="T"/>未來<note n="1383001" resp="Taisho" type="orig" place="foot text">〔之世〕－【甲】</note><app n="1383001"><lem wit="【大】">之世</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>，必作王臣、輔相、州郡令長，衣馬具
+<lb n="1383a01" ed="T"/>未來<note n="1383001" resp="Taisho" type="orig" place="foot text">〔之世〕－【甲】</note><note n="1383001" resp="CBETA" type="mod">之世【大】，〔－〕【甲】</note><app n="1383001"><lem wit="【大】">之世</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>，必作王臣、輔相、州郡令長，衣馬具
 <lb n="1383a02" ed="T"/>足所須自恣。今身率化諸人作諸功德者，未
 <lb n="1383a03" ed="T"/>來世中，必作豪富、長者，眾人敬仰四道開通所
-<lb n="1383a04" ed="T"/>向<note n="1383002" resp="Taisho" type="orig" place="foot text">對＝諧【甲】</note><app n="1383002"><lem wit="【大】">對</lem><rdg resp="Taisho" wit="【甲】">諧</rdg></app>偶。今身好喜燃燈續明者，生在日月天
+<lb n="1383a04" ed="T"/>向<note n="1383002" resp="Taisho" type="orig" place="foot text">對＝諧【甲】</note><note n="1383002" resp="CBETA" type="mod">對【大】，諧【甲】</note><app n="1383002"><lem wit="【大】">對</lem><rdg resp="Taisho" wit="【甲】">諧</rdg></app>偶。今身好喜燃燈續明者，生在日月天
 <lb n="1383a05" ed="T"/>中光明自照。今身喜布施慈心養命者，生處
 <lb n="1383a06" ed="T"/>大富，衣食自然。今身好施人飲食者，所生之
-<lb n="1383a07" ed="T"/>處天厨自至，色力具足聰<note n="1383003" resp="Taisho" type="orig" place="foot text">慧＝明【甲】</note><app n="1383003"><lem wit="【大】">慧</lem><rdg resp="Taisho" wit="【甲】">明</rdg></app>辯才，壽命長遠。</p>
+<lb n="1383a07" ed="T"/>處天厨自至，色力具足聰<note n="1383003" resp="Taisho" type="orig" place="foot text">慧＝明【甲】</note><note n="1383003" resp="CBETA" type="mod">慧【大】，明【甲】</note><app n="1383003"><lem wit="【大】">慧</lem><rdg resp="Taisho" wit="【甲】">明</rdg></app>辯才，壽命長遠。</p>
 <lb n="1383a08" ed="T"/><p xml:id="pT85p1383a0801">「若施畜生，得百倍報。施一闡提，得千倍報。施
 <lb n="1383a09" ed="T"/>持戒比丘，得萬倍報。若施法師流通大乘講
 <lb n="1383a10" ed="T"/>宣如來祕密之藏，令使大眾開其心眼者，得
 <lb n="1383a11" ed="T"/>無量報。若施菩薩諸佛，受報無窮。又復施三
-<lb n="1383a12" ed="T"/>種人果報無盡：一者、<note n="1383004" resp="Taisho" type="orig" place="foot text">〔諸〕－【甲】</note><app n="1383004"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>佛；二者、父母；三者、病
-<lb n="1383a13" ed="T"/>人。一食之施，尚獲無量<note n="1383005" resp="Taisho" type="orig" place="foot text">〔之報〕－【甲】</note><app n="1383005"><lem wit="【大】">之報</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>，<note n="1383006" resp="Taisho" type="orig" place="foot text">況＋（佛）【甲】</note><app n="1383006"><lem wit="【大】">況</lem><rdg resp="Taisho" wit="【甲】">況佛</rdg></app>能常施，何
-<lb n="1383a14" ed="T"/>可窮<note n="1383007" resp="Taisho" type="orig" place="foot text">〔盡〕－【甲】</note><app n="1383007"><lem wit="【大】">盡</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>！</p><p xml:id="pT85p1383a1404" rend="inline">「今身洗浴眾僧者，所生之處面目
+<lb n="1383a12" ed="T"/>種人果報無盡：一者、<note n="1383004" resp="Taisho" type="orig" place="foot text">〔諸〕－【甲】</note><note n="1383004" resp="CBETA" type="mod">諸【大】，〔－〕【甲】</note><app n="1383004"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>佛；二者、父母；三者、病
+<lb n="1383a13" ed="T"/>人。一食之施，尚獲無量<note n="1383005" resp="Taisho" type="orig" place="foot text">〔之報〕－【甲】</note><note n="1383005" resp="CBETA" type="mod">之報【大】，〔－〕【甲】</note><app n="1383005"><lem wit="【大】">之報</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>，<note n="1383006" resp="Taisho" type="orig" place="foot text">況＋（佛）【甲】</note><note n="1383006" resp="CBETA" type="mod">況【大】，況佛【甲】</note><app n="1383006"><lem wit="【大】">況</lem><rdg resp="Taisho" wit="【甲】">況佛</rdg></app>能常施，何
+<lb n="1383a14" ed="T"/>可窮<note n="1383007" resp="Taisho" type="orig" place="foot text">〔盡〕－【甲】</note><note n="1383007" resp="CBETA" type="mod">盡【大】，〔－〕【甲】</note><app n="1383007"><lem wit="【大】">盡</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>！</p><p xml:id="pT85p1383a1404" rend="inline">「今身洗浴眾僧者，所生之處面目
 <lb n="1383a15" ed="T"/>端正，自然衣裳，眾人敬仰。今身喜讚歎讀誦
 <lb n="1383a16" ed="T"/>經法者，所生之處音聲雅妙聞者歡欣。今身
 <lb n="1383a17" ed="T"/>喜持戒者，所生端正人中最勝。今身好喜
 <lb n="1383a18" ed="T"/>造作義井獎瓮，在道種樹蔭蓋諸人者，所生
 <lb n="1383a19" ed="T"/>之處常作人王，百味飲食隨念即至。今身喜
 <lb n="1383a20" ed="T"/>抄寫經法施人讀者，所生之處口辯多才，所
-<lb n="1383a21" ed="T"/>學之法一聞領悟，諸佛、菩薩常加<note n="1383008" resp="Taisho" type="orig" place="foot text">擁護＝護之【甲】</note><app n="1383008"><lem wit="【大】">擁護</lem><rdg resp="Taisho" wit="【甲】">護之</rdg></app>，人中
+<lb n="1383a21" ed="T"/>學之法一聞領悟，諸佛、菩薩常加<note n="1383008" resp="Taisho" type="orig" place="foot text">擁護＝護之【甲】</note><note n="1383008" resp="CBETA" type="mod">擁護【大】，護之【甲】</note><app n="1383008"><lem wit="【大】">擁護</lem><rdg resp="Taisho" wit="【甲】">護之</rdg></app>，人中
 <lb n="1383a22" ed="T"/>最勝恒為上首。今身喜造橋船濟渡人者，所
 <lb n="1383a23" ed="T"/>生之處七寶具足，眾人敬歎莫不瞻仰，行來入
 <lb n="1383a24" ed="T"/>出為人扶接。」</p>
@@ -390,12 +390,12 @@ Added comment  for Emacs
 <lb n="1383a27" ed="T"/>其人現世舌則墮落。」</p>
 <lb n="1383a28" ed="T"/><p xml:id="pT85p1383a2801">爾時，阿難白佛言：「世尊！當何名斯經，以何勸
 <lb n="1383a29" ed="T"/>發之？」</p><p xml:id="pT85p1383a2903" rend="inline">佛告阿難：「此經名為『善惡因果』，亦名『菩
-<lb n="1383a30" ed="T"/>薩發願修行經』，如<note n="1383009" resp="Taisho" type="orig" place="foot text">是受＝此【甲】</note><app n="1383009"><lem wit="【大】">是受</lem><rdg resp="Taisho" wit="【甲】">此</rdg></app>持。」</p><p xml:id="pT85p1383a3011" rend="inline">佛說是經時，眾
+<lb n="1383a30" ed="T"/>薩發願修行經』，如<note n="1383009" resp="Taisho" type="orig" place="foot text">是受＝此【甲】</note><note n="1383009" resp="CBETA" type="mod">是受【大】，此【甲】</note><app n="1383009"><lem wit="【大】">是受</lem><rdg resp="Taisho" wit="【甲】">此</rdg></app>持。」</p><p xml:id="pT85p1383a3011" rend="inline">佛說是經時，眾
 <pb n="1383b" ed="T" xml:id="T85.2881.1383b"/>
 <lb n="1383b01" ed="T"/>中八萬天人發阿耨多羅三藐三菩提心，百
 <lb n="1383b02" ed="T"/>千女人現轉女身得成男子，千二百惡人捨
 <lb n="1383b03" ed="T"/>其毒意自知宿命，無量善人得無生忍恒受
-<lb n="1383b04" ed="T"/>快樂，無量<note n="1383010" resp="Taisho" type="orig" place="foot text">正＝亡【甲】</note><app n="1383010"><lem wit="【大】">正</lem><rdg resp="Taisho" wit="【甲】">亡</rdg></app>者<note n="1383011" resp="Taisho" type="orig" place="foot text">生諸淨土＝神生淨度【甲】</note><app n="1383011"><lem wit="【大】">生諸淨土</lem><rdg resp="Taisho" wit="【甲】">神生淨度</rdg></app>、共諸佛菩薩以
-<lb n="1383b05" ed="T"/>為等侶，一切大<note n="1383012" resp="Taisho" type="orig" place="foot text">眾歸＝師【甲】</note><app n="1383012"><lem wit="【大】">眾歸</lem><rdg resp="Taisho" wit="【甲】">師</rdg></app>家作福，歡喜奉行。</p>
-<lb n="1383b06" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛說善惡因果經一卷<note n="1383013" resp="Taisho" type="orig" place="foot text">〔終〕－【甲】，甲本奧書曰先天二年六月二日寫了唯願合家大小無諸本掌早見家鄉願一切眾早得利苦地脫，書人遮芝了</note><app n="1383013"><lem wit="【大】"><note place="inline">終</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="1383013" place="foot" type="rest">甲本奧書曰先天二年六月二日寫了唯願合家大小無諸本掌早見家鄉願一切眾早得利苦地脫，書人遮芝了</note></cb:jhead></cb:juan></cb:div>
+<lb n="1383b04" ed="T"/>快樂，無量<note n="1383010" resp="Taisho" type="orig" place="foot text">正＝亡【甲】</note><note n="1383010" resp="CBETA" type="mod">正【大】，亡【甲】</note><app n="1383010"><lem wit="【大】">正</lem><rdg resp="Taisho" wit="【甲】">亡</rdg></app>者<note n="1383011" resp="Taisho" type="orig" place="foot text">生諸淨土＝神生淨度【甲】</note><note n="1383011" resp="CBETA" type="mod">生諸淨土【大】，神生淨度【甲】</note><app n="1383011"><lem wit="【大】">生諸淨土</lem><rdg resp="Taisho" wit="【甲】">神生淨度</rdg></app>、共諸佛菩薩以
+<lb n="1383b05" ed="T"/>為等侶，一切大<note n="1383012" resp="Taisho" type="orig" place="foot text">眾歸＝師【甲】</note><note n="1383012" resp="CBETA" type="mod">眾歸【大】，師【甲】</note><app n="1383012"><lem wit="【大】">眾歸</lem><rdg resp="Taisho" wit="【甲】">師</rdg></app>家作福，歡喜奉行。</p>
+<lb n="1383b06" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛說善惡因果經一卷<note n="1383013" resp="Taisho" type="orig" place="foot text">〔終〕－【甲】，甲本奧書曰先天二年六月二日寫了唯願合家大小無諸本掌早見家鄉願一切眾早得利苦地脫，書人遮芝了</note><note n="1383013" resp="CBETA" type="mod">終【大】，〔－〕【甲】，甲本奧書曰先天二年六月二日寫了唯願合家大小無諸本掌早見家鄉願一切眾早得利苦地脫，書人遮芝了</note><app n="1383013"><lem wit="【大】"><note place="inline">終</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="1383013" place="foot" type="rest">甲本奧書曰先天二年六月二日寫了唯願合家大小無諸本掌早見家鄉願一切眾早得利苦地脫，書人遮芝了</note></cb:jhead></cb:juan></cb:div>
 </body></text></TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T32n1630">
 <teiHeader>
 	<fileDesc>
@@ -128,16 +128,16 @@ Added comment  for Emacs
 <milestone unit="juan" n="1"/>
 <lb n="0011a22" ed="T"/>
 <lb n="0011a23" ed="T"/><cb:docNumber>No. 1630</cb:docNumber><cb:div type="jing">
-<lb n="0011a24" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>因明入正理論</title><note resp="Taisho" n="0011002" place="foot text" type="orig">〔一卷〕－【三】【宮】</note><note resp="CBETA" n="0011002" type="mod">〔一卷〕－【宋】【元】【明】【宮】</note><app n="0011002"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
+<lb n="0011a24" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>因明入正理論</title><note resp="Taisho" n="0011002" place="foot text" type="orig">〔一卷〕－【三】【宮】</note><note resp="CBETA" n="0011002" type="mod">一卷【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0011002"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0011a25" ed="T"/>
-<lb n="0011a26" ed="T"/><byline cb:type="author">商羯羅<note resp="Taisho" n="0011003" place="foot text" type="orig">主＝王【宮】</note><app n="0011003"><lem wit="【大】">主</lem><rdg resp="Taisho" wit="【宮】">王</rdg></app>菩薩造</byline>
-<lb n="0011a27" ed="T"/><byline cb:type="Translator"><note resp="Taisho" n="0011004" place="foot text" type="orig">（唐）＋三藏【明】</note><app n="0011004"><lem wit="【大】">三藏</lem><rdg resp="Taisho" wit="【明】">唐三藏</rdg></app>法師玄奘<note resp="Taisho" n="0011005" place="foot text" type="orig">〔奉詔〕－【三】【宮】</note><note resp="CBETA" n="0011005" type="mod">〔奉詔〕－【宋】【元】【明】【宮】</note><app n="0011005"><lem wit="【大】">奉　詔</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>譯</byline>
-<lb n="0011a28" ed="T"/><lg xml:id="lgT32p0011a2801"><l>能立與能破，</l><l>及似<note resp="Taisho" n="0011006" place="foot text" type="orig">唯＝惟【宋】【元】【宮】＊</note><app n="0011006"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">惟</rdg></app>悟他，</l>
+<lb n="0011a26" ed="T"/><byline cb:type="author">商羯羅<note resp="Taisho" n="0011003" place="foot text" type="orig">主＝王【宮】</note><note resp="CBETA" n="0011003" type="mod">主【大】，王【宮】</note><app n="0011003"><lem wit="【大】">主</lem><rdg resp="Taisho" wit="【宮】">王</rdg></app>菩薩造</byline>
+<lb n="0011a27" ed="T"/><byline cb:type="Translator"><note resp="Taisho" n="0011004" place="foot text" type="orig">（唐）＋三藏【明】</note><note resp="CBETA" n="0011004" type="mod">三藏【大】，唐三藏【明】</note><app n="0011004"><lem wit="【大】">三藏</lem><rdg resp="Taisho" wit="【明】">唐三藏</rdg></app>法師玄奘<note resp="Taisho" n="0011005" place="foot text" type="orig">〔奉詔〕－【三】【宮】</note><note resp="CBETA" n="0011005" type="mod">奉詔【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0011005"><lem wit="【大】">奉　詔</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>譯</byline>
+<lb n="0011a28" ed="T"/><lg xml:id="lgT32p0011a2801"><l>能立與能破，</l><l>及似<note resp="Taisho" n="0011006" place="foot text" type="orig">唯＝惟【宋】【元】【宮】＊</note><note resp="CBETA" n="0011006" type="mod">唯【大】＊，惟【宋】【元】【宮】＊</note><app n="0011006"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">惟</rdg></app>悟他，</l>
 <lb n="0011a29" ed="T"/><l>現量與比量，</l><l>及似<app corresp="#0011006" type="star"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">惟</rdg></app>自悟。</l></lg>
 <pb n="0011b" ed="T" xml:id="T32.1630.0011b"/>
 <lb n="0011b01" ed="T"/><p xml:id="pT32p0011b0101">如是總攝諸論要義。此中宗等多言，名為能
 <lb n="0011b02" ed="T"/>立。由宗、因、喻多言，開示諸有問者未了義
-<lb n="0011b03" ed="T"/>故。此中宗者，謂極成有法，極成能別差別<note resp="Taisho" n="0011007" place="foot text" type="orig">為性＝性故【三】【宮】</note><note resp="CBETA" n="0011007" type="mod">為性＝性故【宋】【元】【明】【宮】</note><app n="0011007"><lem wit="【大】">為
+<lb n="0011b03" ed="T"/>故。此中宗者，謂極成有法，極成能別差別<note resp="Taisho" n="0011007" place="foot text" type="orig">為性＝性故【三】【宮】</note><note resp="CBETA" n="0011007" type="mod">為性【大】，性故【宋】【元】【明】【宮】</note><app n="0011007"><lem wit="【大】">為
 <lb n="0011b04" ed="T"/>性</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">性故</rdg></app>，隨自樂為所成立性，是名為宗。如有
 <lb n="0011b05" ed="T"/>成立「聲是無常」。</p>
 <lb n="0011b06" ed="T"/><p xml:id="pT32p0011b0601">因有三相。何等為三？謂遍是宗法性、同品
@@ -145,15 +145,15 @@ Added comment  for Emacs
 <lb n="0011b08" ed="T"/>所立法均等義品，說名同品。如立「無常」，瓶
 <lb n="0011b09" ed="T"/>等無常，是名同品。異品者，謂於是處無其
 <lb n="0011b10" ed="T"/>所立，「若有是常，見非所作，如虛空等」。此中
-<lb n="0011b11" ed="T"/>所作性或勤勇無間所發性，遍是宗法<note resp="Taisho" n="0011008" place="foot text" type="orig">性＝於【三】【宮】</note><note resp="CBETA" n="0011008" type="mod">性＝於【宋】【元】【明】【宮】</note><app n="0011008"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">於</rdg></app>。同
-<lb n="0011b12" ed="T"/>品定有<note resp="Taisho" n="0011009" place="foot text" type="orig">性＝於【宮】</note><app n="0011009"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【宮】">於</rdg></app>、異品遍無性，是無常等因。</p>
+<lb n="0011b11" ed="T"/>所作性或勤勇無間所發性，遍是宗法<note resp="Taisho" n="0011008" place="foot text" type="orig">性＝於【三】【宮】</note><note resp="CBETA" n="0011008" type="mod">性【大】，於【宋】【元】【明】【宮】</note><app n="0011008"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">於</rdg></app>。同
+<lb n="0011b12" ed="T"/>品定有<note resp="Taisho" n="0011009" place="foot text" type="orig">性＝於【宮】</note><note resp="CBETA" n="0011009" type="mod">性【大】，於【宮】</note><app n="0011009"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【宮】">於</rdg></app>、異品遍無性，是無常等因。</p>
 <lb n="0011b13" ed="T"/><p xml:id="pT32p0011b1301">喻有二種：一者同法；二者異法。同法者，若
 <lb n="0011b14" ed="T"/>於是處顯因同品決定有性，謂「若所作見，
 <lb n="0011b15" ed="T"/>彼無常，譬如瓶等」。異法者，若於是處說所
 <lb n="0011b16" ed="T"/>立無，因遍非有，謂「若是常見，非所作，如虛
 <lb n="0011b17" ed="T"/>空等」。此中「常」言表「非無常」，「非所作」言表「無
 <lb n="0011b18" ed="T"/>所作」，如有非有，說名「非有」。</p>
-<lb n="0011b19" ed="T"/><p xml:id="pT32p0011b1901">已說<note resp="Taisho" n="0011010" place="foot text" type="orig">宗＋（因）【三】【宮】</note><note resp="CBETA" n="0011010" type="mod">宗＋（因）【宋】【元】【明】【宮】</note><app n="0011010"><lem wit="【大】">宗</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">宗因</rdg></app>等如是多言開悟他時，說名「能
+<lb n="0011b19" ed="T"/><p xml:id="pT32p0011b1901">已說<note resp="Taisho" n="0011010" place="foot text" type="orig">宗＋（因）【三】【宮】</note><note resp="CBETA" n="0011010" type="mod">宗【大】，宗因【宋】【元】【明】【宮】</note><app n="0011010"><lem wit="【大】">宗</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">宗因</rdg></app>等如是多言開悟他時，說名「能
 <lb n="0011b20" ed="T"/>立」。如說「聲無常」者，是立宗言。「所作性故」者，
 <lb n="0011b21" ed="T"/>是宗法言。「若是所作，見彼無常，如瓶等」者，
 <lb n="0011b22" ed="T"/>是隨同品言。「若是其常，見非所作，如虛空」
@@ -193,7 +193,7 @@ Added comment  for Emacs
 <lb n="0011c26" ed="T"/>無常性故」。此中非勤勇無間所發宗，以電空
 <lb n="0011c27" ed="T"/>等為其同品。此無常性，於電等有、於空等
 <lb n="0011c28" ed="T"/>無。非勤勇無間所發宗，以瓶等為異品，於
-<lb n="0011c29" ed="T"/>彼遍有。此因以電、<note resp="Taisho" n="0011011" place="foot text" type="orig">瓶等＝以瓶【三】，瓶【宮】</note><note resp="CBETA" n="0011011" type="mod">瓶等＝以瓶【宋】【元】【明】，＝瓶【宮】</note><app n="0011011"><lem wit="【大】">瓶等</lem><rdg resp="Taisho" wit="【宋】【元】【明】">以瓶</rdg><rdg resp="Taisho" wit="【宮】">瓶</rdg></app>為同法故，亦是
+<lb n="0011c29" ed="T"/>彼遍有。此因以電、<note resp="Taisho" n="0011011" place="foot text" type="orig">瓶等＝以瓶【三】，瓶【宮】</note><note resp="CBETA" n="0011011" type="mod">瓶等【大】，以瓶【宋】【元】【明】，瓶【宮】</note><app n="0011011"><lem wit="【大】">瓶等</lem><rdg resp="Taisho" wit="【宋】【元】【明】">以瓶</rdg><rdg resp="Taisho" wit="【宮】">瓶</rdg></app>為同法故，亦是
 <pb n="0012a" ed="T" xml:id="T32.1630.0012a"/>
 <lb n="0012a01" ed="T"/>不定。為如瓶等無常性故，彼是勤勇無間所
 <lb n="0012a02" ed="T"/>發？為如電等無常性故，彼非勤勇無間所
@@ -209,10 +209,10 @@ Added comment  for Emacs
 <lb n="0012a12" ed="T"/>名不定。相違決定者，如立宗言「聲是無常，
 <lb n="0012a13" ed="T"/>所作性故，譬如瓶等」；有立「聲常，所聞性故，
 <lb n="0012a14" ed="T"/>譬如聲性」。此二皆是猶豫因故，俱名不定。</p>
-<lb n="0012a15" ed="T"/><p xml:id="pT32p0012a1501">相違有四：謂法自<note resp="Taisho" n="0012001" place="foot text" type="orig">性＝相【三】【宮】</note><note resp="CBETA" n="0012001" type="mod">性＝相【宋】【元】【明】【宮】</note><app n="0012001"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">相</rdg></app>相違因、法差別相違
+<lb n="0012a15" ed="T"/><p xml:id="pT32p0012a1501">相違有四：謂法自<note resp="Taisho" n="0012001" place="foot text" type="orig">性＝相【三】【宮】</note><note resp="CBETA" n="0012001" type="mod">性【大】，相【宋】【元】【明】【宮】</note><app n="0012001"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">相</rdg></app>相違因、法差別相違
 <lb n="0012a16" ed="T"/>因、有法自相相違因、有法差別相違因等。此
 <lb n="0012a17" ed="T"/>中，法自相相違因者，如說「聲常，所作性故，或
-<lb n="0012a18" ed="T"/>勤勇無間所發性故」。此因<note resp="Taisho" n="0012002" place="foot text" type="orig">唯＝惟【三】【宮】＊</note><note resp="CBETA" n="0012002" type="mod"><!--CBETA todo type: ＊-->唯＝惟【宋】【元】【明】【宮】＊</note><app n="0012002"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">惟</rdg></app>於異品中有，
+<lb n="0012a18" ed="T"/>勤勇無間所發性故」。此因<note resp="Taisho" n="0012002" place="foot text" type="orig">唯＝惟【三】【宮】＊</note><note resp="CBETA" n="0012002" type="mod"><!--CBETA todo type: ＊-->唯【大】＊，惟【宋】【元】【明】【宮】＊</note><app n="0012002"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">惟</rdg></app>於異品中有，
 <lb n="0012a19" ed="T"/>是故相違。法差別相違因者，如說「眼等必為
 <lb n="0012a20" ed="T"/>他用，積聚性故，如臥具等」。此因如能成立眼
 <lb n="0012a21" ed="T"/>等必為他用，如是亦能成立所立法差別相
@@ -235,7 +235,7 @@ Added comment  for Emacs
 <lb n="0012b08" ed="T"/>者，謂說「如覺」。然一切覺，能成立法無質礙
 <lb n="0012b09" ed="T"/>有，所成立法常住性無，以一切覺皆無常故。
 <lb n="0012b10" ed="T"/>俱不成者，復有二種：有及非有。若言「如瓶」，
-<lb n="0012b11" ed="T"/>有俱不成。若說「如空」，對<note resp="Taisho" n="0012003" place="foot text" type="orig">無空＝非有【三】【宮】</note><note resp="CBETA" n="0012003" type="mod">無空＝非有【宋】【元】【明】【宮】</note><app n="0012003"><lem wit="【大】">無空</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">非有</rdg></app>論，無俱不成。
+<lb n="0012b11" ed="T"/>有俱不成。若說「如空」，對<note resp="Taisho" n="0012003" place="foot text" type="orig">無空＝非有【三】【宮】</note><note resp="CBETA" n="0012003" type="mod">無空【大】，非有【宋】【元】【明】【宮】</note><app n="0012003"><lem wit="【大】">無空</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">非有</rdg></app>論，無俱不成。
 <lb n="0012b12" ed="T"/>無合者，謂於是處無有配合，但於瓶等
 <lb n="0012b13" ed="T"/>雙現能立、所立二法。如言「於瓶，見所作性
 <lb n="0012b14" ed="T"/>及無常性」。倒合者，謂應說言「諸所作者皆是
@@ -243,7 +243,7 @@ Added comment  for Emacs
 <lb n="0012b16" ed="T"/>名似同法喻品。</p>
 <lb n="0012b17" ed="T"/><p xml:id="pT32p0012b1701">似異法中，所立不遣者，且如有言「諸無常者，
 <lb n="0012b18" ed="T"/>見彼質礙，譬如極微」。由於極微所成立法
-<lb n="0012b19" ed="T"/>常性不<note resp="Taisho" n="0012004" place="foot text" type="orig">遣＝違【三】【宮】</note><note resp="CBETA" n="0012004" type="mod">遣＝違【宋】【元】【明】【宮】</note><app n="0012004"><lem wit="【大】">遣</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">違</rdg></app>，彼立極微是常性故，能成立法
+<lb n="0012b19" ed="T"/>常性不<note resp="Taisho" n="0012004" place="foot text" type="orig">遣＝違【三】【宮】</note><note resp="CBETA" n="0012004" type="mod">遣【大】，違【宋】【元】【明】【宮】</note><app n="0012004"><lem wit="【大】">遣</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">違</rdg></app>，彼立極微是常性故，能成立法
 <lb n="0012b20" ed="T"/>無質礙無。能立不遣者，謂說「如業」。但遣所
 <lb n="0012b21" ed="T"/>立，不遣能立，彼說諸業無質礙故。俱不遣
 <lb n="0012b22" ed="T"/>者，對彼有論，說「如虛空」。由彼虛空不遣
@@ -277,15 +277,15 @@ Added comment  for Emacs
 <lb n="0012c20" ed="T"/>顯他宗過失，彼無過故。且止斯事。</p>
 <lb n="0012c21" ed="T"/><lg xml:id="lgT32p0012c2101"><l>已宣少句義，</l><l>為始立方隅；</l>
 <lb n="0012c22" ed="T"/><l>其間理非理，</l><l>妙辯於餘處。</l></lg>
-<lb n="0012c23" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>因明入正理論</title><note resp="Taisho" n="0012005" place="foot text" type="orig">〔一卷〕－【明】</note><app n="0012005"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan></cb:div>
-<lb n="0012c24" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">後序</cb:mulu><head><title><anchor type="circle"/><note resp="Taisho" n="0012006" place="foot text" type="orig">麗本缺此後序，今依明本採錄與宋本元本宮本對校，〔因明入正理論〕－【宋】【元】【宮】</note><app n="0012006"><lem wit="【大】">因明入正理論</lem><rdg resp="Taisho" wit="【宋】【元】【宮】"><space quantity="0"/></rdg></app><note n="0012006" place="foot" type="rest">麗本缺此後序，今依明本採錄與宋本元本宮本對校</note></title>後序</head>
+<lb n="0012c23" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>因明入正理論</title><note resp="Taisho" n="0012005" place="foot text" type="orig">〔一卷〕－【明】</note><note resp="CBETA" n="0012005" type="mod">一卷【大】，〔－〕【明】</note><app n="0012005"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan></cb:div>
+<lb n="0012c24" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">後序</cb:mulu><head><title><anchor type="circle"/><note resp="Taisho" n="0012006" place="foot text" type="orig">麗本缺此後序，今依明本採錄與宋本元本宮本對校，〔因明入正理論〕－【宋】【元】【宮】</note><note resp="CBETA" n="0012006" type="mod">因明入正理論【大】，〔－〕【宋】【元】【宮】，麗本缺此後序，今依明本採錄與宋本元本宮本對校</note><app n="0012006"><lem wit="【大】">因明入正理論</lem><rdg resp="Taisho" wit="【宋】【元】【宮】"><space quantity="0"/></rdg></app><note n="0012006" place="foot" type="rest">麗本缺此後序，今依明本採錄與宋本元本宮本對校</note></title>後序</head>
 <lb n="0012c25" ed="T"/><p xml:id="pT32p0012c2501">因明入正理論者，蓋乃抗辯標宗、摧邪顯正之
 <lb n="0012c26" ed="T"/>悶閾也。因談照實；明彰顯理；入言趣本；正以
 <lb n="0012c27" ed="T"/>離邪；論之者，較言旨歸、審明要會也。昔應符
 <lb n="0012c28" ed="T"/>道樹茲義備焉，登庸鹿林斯風扇矣。六師稽
 <pb n="0013a" ed="T" xml:id="T32.1630.0013a"/>
-<lb n="0013a01" ed="T"/>顙而卷舌，十仙請命以知歸。非<note resp="Taisho" n="0013001" place="foot text" type="orig">天＝夫【宋】【宮】</note><note resp="CBETA" n="0013001" type="mod">天＝夫【宋】【宮】，＝天【磧砂-CB】</note><app n="0013001"><lem wit="【大】">天</lem><rdg resp="Taisho" wit="【宋】【宮】">夫</rdg>
-<rdg resp="CBETA.maha" wit="【磧砂】">天<note type="cf1">Q17_p0065c01</note></rdg></app>靈曜寢
+<lb n="0013a01" ed="T"/>顙而卷舌，十仙請命以知歸。非<note resp="Taisho" n="0013001" place="foot text" type="orig">天＝夫【宋】【宮】</note><note resp="CBETA" n="0013001" type="mod">天【大】，夫【宋】【宮】，天【磧-CB】</note><app n="0013001"><lem wit="【大】">天</lem><rdg resp="Taisho" wit="【宋】【宮】">夫</rdg>
+<rdg resp="CBETA.maha" wit="【磧-CB】">天<note type="cf1">Q17_p0065c01</note></rdg></app>靈曜寢
 <lb n="0013a02" ed="T"/>光、邪津鼓浪，同惡孔熾寔繁有徒，所以世親
 <lb n="0013a03" ed="T"/>弘盛烈於前，陳那纂遺芳於後，揚真殄謬、夷
 <lb n="0013a04" ed="T"/>難解紛，至矣神功備詳餘論。粵有天主菩薩
@@ -294,18 +294,18 @@ Added comment  for Emacs
 <lb n="0013a07" ed="T"/>三支，其義簡而彰，其文約而顯。西方時彥鑽
 <lb n="0013a08" ed="T"/>仰彌深，自非履此通規，未足預其高論。大唐
 <lb n="0013a09" ed="T"/>皇帝乘時啟聖，闡金鏡而運金輪，納錄嗣明，
-<lb n="0013a10" ed="T"/>振玉鼓而調玉燭，洞敷玄化、載緝彝章，<note resp="Taisho" n="0013002" place="foot text" type="orig">爇＝藝【宋】【元】【宮】</note><app n="0013002"><lem wit="【大】">爇</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">藝</rdg></app>
+<lb n="0013a10" ed="T"/>振玉鼓而調玉燭，洞敷玄化、載緝彝章，<note resp="Taisho" n="0013002" place="foot text" type="orig">爇＝藝【宋】【元】【宮】</note><note resp="CBETA" n="0013002" type="mod">爇【大】，藝【宋】【元】【宮】</note><app n="0013002"><lem wit="【大】">爇</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">藝</rdg></app>
 <lb n="0013a11" ed="T"/>慧炬而鑒昏城，艤智舟而濟苦海。我三藏法
-<lb n="0013a12" ed="T"/>師玄奘，神悟爽<note resp="Taisho" n="0013003" place="foot text" type="orig">𢪛＝拔【宋】【元】【宮】</note><app n="0013003"><lem wit="【大】">𢪛</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">拔</rdg></app>峻節冠群，行四勤如不及、
+<lb n="0013a12" ed="T"/>師玄奘，神悟爽<note resp="Taisho" n="0013003" place="foot text" type="orig">𢪛＝拔【宋】【元】【宮】</note><note resp="CBETA" n="0013003" type="mod">𢪛【大】，拔【宋】【元】【宮】</note><app n="0013003"><lem wit="【大】">𢪛</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">拔</rdg></app>峻節冠群，行四勤如不及、
 <lb n="0013a13" ed="T"/>瞻三宗而好問，漢地先達各擅專門，寓目必
 <lb n="0013a14" ed="T"/>察其微、納心並殫其妙。嗟乎聖迹緜遠、像教
-<lb n="0013a15" ed="T"/>陵夷，未嘗不臨訛文以喟然、撫疑義而<note resp="Taisho" n="0013004" place="foot text" type="orig">太＝大【宋】【元】【宮】</note><app n="0013004"><lem wit="【大】">太</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">大</rdg></app>
-<lb n="0013a16" ed="T"/>息。望葱山而高視，期鷲峯而遠遊。既而<choice cb:resp="CBETA"><corr>冒</corr><sic>冐</sic></choice>險
+<lb n="0013a15" ed="T"/>陵夷，未嘗不臨訛文以喟然、撫疑義而<note resp="Taisho" n="0013004" place="foot text" type="orig">太＝大【宋】【元】【宮】</note><note resp="CBETA" n="0013004" type="mod">太【大】，大【宋】【元】【宮】</note><app n="0013004"><lem wit="【大】">太</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">大</rdg></app>
+<lb n="0013a16" ed="T"/>息。望葱山而高視，期鷲峯而遠遊。既而<note n="0013a1601" resp="CBETA" type="add">冒【CB】，冐【大】</note><app n="0013a1601"><lem wit="【CB】" resp="CBETA">冒</lem><rdg wit="【大】">冐</rdg></app>險
 <lb n="0013a17" ed="T"/>乘危詢師訪道，行達北印度迦濕彌羅國，屬
-<lb n="0013a18" ed="T"/>大論師僧伽耶舍，稽疑八藏、考決五<note resp="Taisho" n="0013005" place="foot text" type="orig">乘＝未【宮】</note><app n="0013005"><lem wit="【大】">乘</lem><rdg resp="Taisho" wit="【宮】">未</rdg></app>。論師
-<lb n="0013a19" ed="T"/>以大義磐根嘉其素蓄，<note resp="Taisho" n="0013006" place="foot text" type="orig">唯＝惟【宋】【元】【宮】</note><app n="0013006"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">惟</rdg></app>因明妙術誨其未
+<lb n="0013a18" ed="T"/>大論師僧伽耶舍，稽疑八藏、考決五<note resp="Taisho" n="0013005" place="foot text" type="orig">乘＝未【宮】</note><note resp="CBETA" n="0013005" type="mod">乘【大】，未【宮】</note><app n="0013005"><lem wit="【大】">乘</lem><rdg resp="Taisho" wit="【宮】">未</rdg></app>。論師
+<lb n="0013a19" ed="T"/>以大義磐根嘉其素蓄，<note resp="Taisho" n="0013006" place="foot text" type="orig">唯＝惟【宋】【元】【宮】</note><note resp="CBETA" n="0013006" type="mod">唯【大】，惟【宋】【元】【宮】</note><app n="0013006"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">惟</rdg></app>因明妙術誨其未
 <lb n="0013a20" ed="T"/>喻，梵音覯止氷釋于懷。後於中印度摩竭陀
-<lb n="0013a21" ed="T"/>國，遇尸羅跋陀羅菩薩，更廣其<note resp="Taisho" n="0013007" place="foot text" type="orig">例＝似【宮】</note><app n="0013007"><lem wit="【大】">例</lem><rdg resp="Taisho" wit="【宮】">似</rdg></app>，觸類而
+<lb n="0013a21" ed="T"/>國，遇尸羅跋陀羅菩薩，更廣其<note resp="Taisho" n="0013007" place="foot text" type="orig">例＝似【宮】</note><note resp="CBETA" n="0013007" type="mod">例【大】，似【宮】</note><app n="0013007"><lem wit="【大】">例</lem><rdg resp="Taisho" wit="【宮】">似</rdg></app>，觸類而
 <lb n="0013a22" ed="T"/>長、優而柔之。於是遍謁遺靈、備訊餘烈，雖遇
 <lb n="0013a23" ed="T"/>鍱腹，縱辯無前，風偃邪徒；抑兼茲論，旋弘周
 <lb n="0013a24" ed="T"/>化，景福會昌。粵以貞觀二十一年秋八月六
