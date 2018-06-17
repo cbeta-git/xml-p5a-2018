@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T32n1665">
+<teiHeader>
+        <fileDesc>
+                <titleStmt>
+                        <title>Taishō Tripiṭaka, Electronic version, No. 1665 金剛頂瑜伽中發阿耨多羅三藐三菩提心論</title>
+                        <title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 1665 金剛頂瑜伽中發阿耨多羅三藐三菩提心論</title>
+                        <author>唐 不空譯</author>
+                        <respStmt>
+                                <resp>Electronic Version by</resp>
+                                <name>CBETA</name>
+                        </respStmt>
+                </titleStmt>
+        <editionStmt>
+                <edition>$Revision: 1.9 $<date>$Date: 2009/04/23 08:08:31 $</date>新式標點版</edition>
+        </editionStmt>
+        <extent>1卷</extent>
+        <publicationStmt>
+                <distributor>
+                        <name>中華電子佛典協會 (CBETA)</name>
+                        <address>
+                                <addrLine>service@cbeta.org</addrLine>
+                        </address>
+                </distributor>
+                <availability>
+                        <p>Available for non-commercial use when distributed with this header intact.</p>
+                </availability>
+                <date>$Date: 2009/04/23 08:08:31 $</date>
+        </publicationStmt>
+        <sourceDesc>
+                <bibl>Taishō Tripiṭaka Vol. 32, No. 1665</bibl>
+        </sourceDesc>
+</fileDesc>
+<encodingDesc>
+        <projectDesc>
+                <p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by SAT, Japan, Text as provided by Anonymous from USA, Punctuated text as provided by Mr. Li Ming-Fang</p>
+                <p xml:lang="zh-Hant" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，日本 SAT 組織提供，北美某大德提供，李明芳大德提供新式標點</p>
+        </projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+        <change when="1999-10-12T10:25:20">CW (ed.) Created initial TEI XML version with BASICX.BAT (99/10/12)</change>
+<!--
+$Log: T32n1665.xml,v $
+Revision 1.9  2009/04/23 08:08:31  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.8  2006/04/12 21:57:19  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2004/10/27 05:10:18  saywhat
+段落前加入圈點
+
+Revision 1.5  2004/04/20 08:40:58  maha
+「版本日期」標記修訂
+
+Revision 1.4  2003/06/19 03:46:01  eva
+modified: 插入星號校勘
+
+Revision 1.3  2003/05/07 09:05:07  moved
+movestar
+
+Revision 1.2  2003/05/05 06:28:14  eva
+modified
+
+Revision 1.17  2002/12/05 12:34:20  eva
+modified
+
+Revision 1.16  2002/11/04 10:52:11  ray
+tei.2 => TEI.2
+
+Revision 1.15  2002/10/07 13:19:39  moved
+modified
+
+Revision 1.14  2002/09/11 07:55:03  eva
+modified
+
+Revision 1.12  2002/07/29 10:09:10  vinking
+modified lang
+
+Revision 1.11  2002/04/08 09:25:36  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.10  2001/11/05 06:16:55  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.9  2001/07/24 06:57:05  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.8  2001/03/30 06:15:46  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.7  2001/03/25 10:09:18  ray
+add <milestone>
+
+Revision 1.6  2001/02/07 07:06:44  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.5  2001/02/03 07:57:28  chris
+Added keywords $Revision: 1.9 $, $Date: 2009/04/23 08:08:31 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0572b17" ed="T"/>
+<milestone unit="juan" n="1"/>
+<lb n="0572b18" ed="T"/>
+<lb n="0572b19" ed="T"/><cb:docNumber>No. 1665</cb:docNumber>
+<lb n="0572b20" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note resp="Taisho" n="0572004" place="foot text" type="orig">此論宋本元本缺</note>金剛頂<note resp="Taisho" n="0572005" place="foot text" type="orig">瑜伽＝踰伽【和】＊</note><note resp="CBETA" n="0572005" type="mod">瑜伽【大】＊，踰伽【和】＊</note><app n="0572005"><lem wit="【大】">瑜伽</lem><rdg resp="Taisho" wit="【和】">踰伽</rdg></app>中發阿耨多羅三
+<lb n="0572b21" ed="T"/>藐三菩提心<note resp="Taisho" n="0572006" place="foot text" type="orig">論＋（一卷）【和】</note><note resp="CBETA" n="0572006" type="mod">論【大】，論一卷【和】</note><app n="0572006"><lem wit="【大】">論</lem><rdg resp="Taisho" wit="【和】">論一卷</rdg></app><note place="inline">亦名瑜伽總持<note resp="Taisho" n="0572007" place="foot text" type="orig">釋＝教【明】【和】【內】</note><note resp="CBETA" n="0572007" type="mod">釋【大】，教【明】【和】【內】</note><app n="0572007"><lem wit="【大】">釋</lem><rdg resp="Taisho" wit="【明】【和】【內】">教</rdg></app>門說菩提心觀行<note resp="Taisho" n="0572008" place="foot text" type="orig">修行＝修持【明】【和】【內】</note><note resp="CBETA" n="0572008" type="mod">修行【大】，修持【明】【和】【內】</note><app n="0572008"><lem wit="【大】">修行</lem><rdg resp="Taisho" wit="【明】【和】【內】">修持</rdg></app>義</note></cb:jhead></cb:juan>
+<lb n="0572b22" ed="T"/>
+<lb n="0572b23" ed="T"/><byline cb:type="Translator"><note resp="Taisho" n="0572009" place="foot text" type="orig">（（開府…智））三十三字＝（（唐））一字【明】，〔開府…智〕三十三字－【和】【內】</note><note resp="CBETA" n="0572009" type="mod">（開府…智）三十三字【大】，唐【明】，<!--CBETA todo type: newmod-->〔開府…智〕三十三字－【和】【內】</note><app n="0572009" cb:word-count="33"><lem wit="【大】">開府儀同三司特進試鴻臚卿
+<lb n="0572b24" ed="T"/>肅國公食邑三千戶賜紫贈司空
+<lb n="0572b25" ed="T"/>諡大鑑正號大廣智</lem><rdg resp="Taisho" wit="【明】">唐</rdg><rdg resp="Taisho" wit="【和】【內】"><space quantity="0"/></rdg></app>大興善寺
+<lb n="0572b26" ed="T"/>三藏沙門<note resp="Taisho" n="0572010" place="foot text" type="orig">不空＋（阿闍梨）【和】</note><note resp="CBETA" n="0572010" type="mod">不空【大】，不空阿闍梨【和】</note><app n="0572010"><lem wit="【大】">不空</lem><rdg resp="Taisho" wit="【和】">不空阿闍梨</rdg></app>奉　詔譯</byline>
+<lb n="0572b27" ed="T"/><cb:div type="jing"><p xml:id="pT32p0572b2701">大<note resp="Taisho" n="0572011" place="foot text" type="orig">〔廣智〕－【和】【內】</note><note resp="CBETA" n="0572011" type="mod">廣智【大】，〔－〕【和】【內】</note><app n="0572011"><lem wit="【大】">廣智</lem><rdg resp="Taisho" wit="【和】【內】"><space quantity="0"/></rdg></app>阿闍<note resp="Taisho" n="0572012" place="foot text" type="orig">梨＝黎【明】【內】</note><note resp="CBETA" n="0572012" type="mod">梨【大】，黎【明】【內】</note><app n="0572012"><lem wit="【大】">梨</lem><rdg resp="Taisho" wit="【明】【內】">黎</rdg></app>云：若有上根上智之人，不
+<lb n="0572b28" ed="T"/>樂外道二乘法，有大度量、勇銳無惑者，宜
+<lb n="0572b29" ed="T"/>修佛乘。當發如是心：我今志求阿耨多
+<pb n="0572c" ed="T" xml:id="T32.1665.0572c"/>
+<lb n="0572c01" ed="T"/>羅三藐三菩提，不求餘果。誓心決定故，魔
+<lb n="0572c02" ed="T"/>宮震動，十方諸佛皆悉證知，常在人天受
+<lb n="0572c03" ed="T"/>勝快樂，所生之處憶持不忘。若願成<app corresp="#0572005" type="star"><lem wit="【大】">瑜伽</lem><rdg resp="Taisho" wit="【和】">踰伽</rdg></app>
+<lb n="0572c04" ed="T"/>中諸菩薩身者，亦名發菩提心。何者？<note resp="Taisho" n="0572013" place="foot text" type="orig">謂此＝謂次【明】，為次【和】【內】</note><note resp="CBETA" n="0572013" type="mod">謂此【大】，謂次【明】，為次【和】【內】</note><app n="0572013"><lem wit="【大】">謂此</lem><rdg resp="Taisho" wit="【明】">謂次</rdg><rdg resp="Taisho" wit="【和】【內】">為次</rdg></app>
+<lb n="0572c05" ed="T"/>諸尊皆同大毘盧遮那佛身。如人貪名<note resp="Taisho" n="0572014" place="foot text" type="orig">官＝宦【明】【和】下同</note><note resp="CBETA" n="0572014" type="mod">官【大】下同，宦【明】【和】下同</note><app n="0572014"><lem wit="【大】">官</lem><rdg resp="Taisho" wit="【明】【和】">宦</rdg></app>
+<lb n="0572c06" ed="T"/>者，發求名官心，修理名官<note resp="Taisho" n="0572015" place="foot text" type="orig">行若＝若行【和】</note><note resp="CBETA" n="0572015" type="mod">行若【大】，若行【和】</note><app n="0572015"><lem wit="【大】">行。若</lem><rdg resp="Taisho" wit="【和】">若行</rdg></app>貪財寶
+<lb n="0572c07" ed="T"/>者，發求財寶心，作經營財物行。凡人欲
+<lb n="0572c08" ed="T"/><note resp="Taisho" n="0572016" place="foot text" type="orig">求＝為【和】【內】</note><note resp="CBETA" n="0572016" type="mod">求【大】，為【和】【內】</note><app n="0572016"><lem wit="【大】">求</lem><rdg resp="Taisho" wit="【和】【內】">為</rdg></app>善之與惡，皆先標其心，而後成其
+<lb n="0572c09" ed="T"/>志。所以求菩提者，發菩提心，修菩提行。
+<lb n="0572c10" ed="T"/>既發如是心已，須知菩提心之行相。其行
+<lb n="0572c11" ed="T"/>相者，三門分別。諸佛菩薩昔在因地發是
+<lb n="0572c12" ed="T"/>心已，勝義、行願、三摩地為戒，乃至成佛無
+<lb n="0572c13" ed="T"/>時暫忘。<note resp="Taisho" n="0572017" place="foot text" type="orig">唯＝惟【和】</note><note resp="CBETA" n="0572017" type="mod">唯【大】，惟【和】</note><app n="0572017"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【和】">惟</rdg></app>真言法中即身成佛故，是故說
+<lb n="0572c14" ed="T"/>三摩地，於諸教中闕而不<note resp="Taisho" n="0572018" place="foot text" type="orig">言＝書【和】【內】</note><note resp="CBETA" n="0572018" type="mod">言【大】，書【和】【內】</note><app n="0572018"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【和】【內】">書</rdg></app>。一者行願、
+<lb n="0572c15" ed="T"/>二者勝義、三者三摩<note resp="Taisho" n="0572019" place="foot text" type="orig">地＋（法）【內】</note><note resp="CBETA" n="0572019" type="mod">地【大】，地法【內】</note><app n="0572019"><lem wit="【大】">地</lem><rdg resp="Taisho" wit="【內】">地法</rdg></app>。</p>
+<lb n="0572c16" ed="T"/><p xml:id="pT32p0572c1601">初行願者，<note resp="Taisho" n="0572020" place="foot text" type="orig">謂＝為【明】【和】</note><note resp="CBETA" n="0572020" type="mod">謂【大】，為【明】【和】</note><app n="0572020"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【明】【和】">為</rdg></app>修習之人常懷如是心：我當
+<lb n="0572c17" ed="T"/>利益安樂無餘有情界，觀十方含識猶如
+<lb n="0572c18" ed="T"/>己身。所言利益者，<note resp="Taisho" n="0572021" place="foot text" type="orig">謂＝為【明】【和】【內】＊</note><note resp="CBETA" n="0572021" type="mod"><!--CBETA todo type: ＊-->謂【大】＊，為【明】【和】【內】＊</note><app n="0572021"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【明】【和】【內】">為</rdg></app>勸發一切有情，悉令
+<lb n="0572c19" ed="T"/>安住無上菩提，終不以二乘之法而令
+<lb n="0572c20" ed="T"/>得度。<note resp="Taisho" n="0572022" place="foot text" type="orig">（今）＋真【內】</note><note resp="CBETA" n="0572022" type="mod">真【大】，今真【內】</note><app n="0572022"><lem wit="【大】">真</lem><rdg resp="Taisho" wit="【內】">今真</rdg></app>言行人，<note resp="Taisho" n="0572023" place="foot text" type="orig">（應）＋知【內】</note><note resp="CBETA" n="0572023" type="mod">知【大】，應知【內】</note><app n="0572023"><lem wit="【大】">知</lem><rdg resp="Taisho" wit="【內】">應知</rdg></app>一切有情皆含如來
+<lb n="0572c21" ed="T"/>藏性，皆<note resp="Taisho" n="0572024" place="foot text" type="orig">堪＋（任）【明】【和】【內】</note><note resp="CBETA" n="0572024" type="mod">堪【大】，堪任【明】【和】【內】</note><app n="0572024"><lem wit="【大】">堪</lem><rdg resp="Taisho" wit="【明】【和】【內】">堪任</rdg></app>安住無上菩提，是故不以二乘
+<lb n="0572c22" ed="T"/>之法而令得度。故《華嚴經》云：無一眾生而
+<lb n="0572c23" ed="T"/>不具<note resp="Taisho" n="0572025" place="foot text" type="orig">〔有〕－【和】，有＝足【內】</note><note resp="CBETA" n="0572025" type="mod">有【大】，〔－〕【和】，足【內】</note><app n="0572025"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【和】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【內】">足</rdg></app><note resp="Taisho" n="0572026" place="foot text" type="orig">如來＝真如【和】【內】</note><note resp="CBETA" n="0572026" type="mod">如來【大】，真如【和】【內】</note><app n="0572026"><lem wit="【大】">如來</lem><rdg resp="Taisho" wit="【和】【內】">真如</rdg></app>智慧，但以妄想顛倒執著
+<lb n="0572c24" ed="T"/>而不證得。若離妄想，一切智、自然智、無礙
+<lb n="0572c25" ed="T"/>智則得現前。所言安樂者，謂行人<note resp="Taisho" n="0572027" place="foot text" type="orig">即＝既【明】【和】【內】</note><note resp="CBETA" n="0572027" type="mod">即【大】，既【明】【和】【內】</note><app n="0572027"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【明】【和】【內】">既</rdg></app>知
+<lb n="0572c26" ed="T"/>一切眾生畢竟成佛，故不敢輕慢。又於大
+<lb n="0572c27" ed="T"/>悲門中尤宜拯救，<note resp="Taisho" n="0572028" place="foot text" type="orig">（隨）＋眾生【明】【和】【內】</note><note resp="CBETA" n="0572028" type="mod">眾生【大】，隨眾生【明】【和】【內】</note><app n="0572028"><lem wit="【大】">眾生</lem><rdg resp="Taisho" wit="【明】【和】【內】">隨眾生</rdg></app><note resp="Taisho" n="0572029" place="foot text" type="orig">〔所求皆〕－【明】【和】，所求皆與＝願【內】</note><note resp="CBETA" n="0572029" type="mod">所求皆與【大】，願【內】，與【明】【和】</note><app n="0572029"><lem wit="【大】">所求皆與</lem><rdg resp="Taisho" wit="【內】">願</rdg><rdg resp="Taisho" wit="【明】【和】">與</rdg></app>而給付
+<lb n="0572c28" ed="T"/>之，乃至身命而不悋惜<note resp="Taisho" n="0572030" place="foot text" type="orig">其命＝令其【明】【和】【內】</note><note resp="CBETA" n="0572030" type="mod">其命【大】，令其【明】【和】【內】</note><app n="0572030"><lem wit="【大】">其命</lem><rdg resp="Taisho" wit="【明】【和】【內】">令其</rdg></app>安存，使令悅
+<lb n="0572c29" ed="T"/>樂。既親近已，信任師言，因其相親亦可教
+<pb n="0573a" ed="T" xml:id="T32.1665.0573a"/>
+<lb n="0573a01" ed="T"/>導。眾生愚矇不可強度，真言行者方便引
+<lb n="0573a02" ed="T"/><anchor xml:id="fxT32p0573a01"/>進。</p>
+<lb n="0573a03" ed="T"/><p xml:id="pT32p0573a0301">二勝義者，觀一切法無自性。云何無自性？
+<lb n="0573a04" ed="T"/>謂凡夫執著名聞利養資生之具務以安身，
+<lb n="0573a05" ed="T"/>恣行三毒五欲。真言行人，誠可厭患、誠可
+<lb n="0573a06" ed="T"/>棄捨。又諸外道等戀其身命，或助以藥物
+<lb n="0573a07" ed="T"/>得仙宮住壽，或復生天以為究竟。真言行
+<lb n="0573a08" ed="T"/>人，應觀彼等業力若盡，未離三界煩惱尚
+<lb n="0573a09" ed="T"/>存，宿殃未殄惡念旋起。當<note resp="Taisho" n="0573001" place="foot text" type="orig">後＝彼【明】【和】【內】</note><note resp="CBETA" n="0573001" type="mod">後【大】，彼【明】【和】【內】</note><app n="0573001"><lem wit="【大】">後</lem><rdg resp="Taisho" wit="【明】【和】【內】">彼</rdg></app>之時，沈淪
+<lb n="0573a10" ed="T"/>苦海難可出離。當知外道之法，亦同幻夢
+<lb n="0573a11" ed="T"/>陽焰也。又二乘之人，聲聞執四諦法，緣覺
+<lb n="0573a12" ed="T"/>執十二因緣。知四大五<note resp="Taisho" n="0573002" place="foot text" type="orig">陰＝蔭【和】</note><note resp="CBETA" n="0573002" type="mod">陰【大】，蔭【和】</note><app n="0573002"><lem wit="【大】">陰</lem><rdg resp="Taisho" wit="【和】">蔭</rdg></app>畢竟磨滅，深起
+<lb n="0573a13" ed="T"/>厭離，破眾生執，勤修本法剋證其果，趣
+<lb n="0573a14" ed="T"/><note resp="Taisho" n="0573003" place="foot text" type="orig">大＝本【明】【和】【內】</note><note resp="CBETA" n="0573003" type="mod">大【大】，本【明】【和】【內】</note><app n="0573003"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【明】【和】【內】">本</rdg></app><note resp="Taisho" n="0573004" place="foot text" type="orig">涅槃＝涅盤【和】</note><note resp="CBETA" n="0573004" type="mod">涅槃【大】，涅盤【和】</note><app n="0573004"><lem wit="【大】">涅槃</lem><rdg resp="Taisho" wit="【和】">涅盤</rdg></app><note resp="Taisho" n="0573005" place="foot text" type="orig">以＝已【明】【和】【內】</note><note resp="CBETA" n="0573005" type="mod">以【大】，已【明】【和】【內】</note><app n="0573005"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【明】【和】【內】">已</rdg></app>為究竟。真言行者，當觀二
+<lb n="0573a15" ed="T"/>乘之人，雖破人執猶有法執，但<note resp="Taisho" n="0573006" place="foot text" type="orig">靜＝淨【和】【內】</note><note resp="CBETA" n="0573006" type="mod">靜【大】，淨【和】【內】</note><app n="0573006"><lem wit="【大】">靜</lem><rdg resp="Taisho" wit="【和】【內】">淨</rdg></app>意
+<lb n="0573a16" ed="T"/>識不知其他。<note resp="Taisho" n="0573007" place="foot text" type="orig">又＝久久【明】【和】【內】</note><note resp="CBETA" n="0573007" type="mod">又【大】，久久【明】【和】【內】</note><app n="0573007"><lem wit="【大】">又</lem><rdg resp="Taisho" wit="【明】【和】【內】">久久</rdg></app>成果位，<note resp="Taisho" n="0573008" place="foot text" type="orig">已＝以【和】【內】</note><note resp="CBETA" n="0573008" type="mod">已【大】，以【和】【內】</note><app n="0573008"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【和】【內】">以</rdg></app>灰身滅智
+<lb n="0573a17" ed="T"/>趣其涅槃，如<note resp="Taisho" n="0573009" place="foot text" type="orig">大＝太【和】【內】</note><note resp="CBETA" n="0573009" type="mod">大【大】，太【和】【內】</note><app n="0573009"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【和】【內】">太</rdg></app>虛空湛然常寂，有定性
+<lb n="0573a18" ed="T"/>者難可發生，要待劫限等滿方乃發生。若
+<lb n="0573a19" ed="T"/>不定性者，無論劫限，遇緣便迴心向大，從
+<lb n="0573a20" ed="T"/>化城起<note resp="Taisho" n="0573010" place="foot text" type="orig">為已＝以為【內】</note><note resp="CBETA" n="0573010" type="mod">為已【大】，以為【內】</note><app n="0573010"><lem wit="【大】">為。<note resp="Taisho" n="0573011" place="foot text" type="orig">已＝以【明】【和】＊</note><note resp="CBETA" n="0573011" type="mod"><!--CBETA todo type: ＊-->已【大】＊，以【明】【和】＊</note><app n="0573011"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【明】【和】">以</rdg></app></lem><rdg resp="Taisho" wit="【內】">以為</rdg></app>超三界，謂宿信佛故，乃蒙
+<lb n="0573a21" ed="T"/>諸佛<note resp="Taisho" n="0573012" place="foot text" type="orig">菩薩＋（加持力）【內】</note><note resp="CBETA" n="0573012" type="mod">菩薩【大】，菩薩加持力【內】</note><app n="0573012"><lem wit="【大】">菩薩</lem><rdg resp="Taisho" wit="【內】">菩薩加持力</rdg></app>而以方便遂發大心，乃從初十
+<lb n="0573a22" ed="T"/>信下遍歷諸位，經三無數劫難行苦行，然
+<lb n="0573a23" ed="T"/>得成佛。既知聲聞緣覺智慧狹劣，亦不可
+<lb n="0573a24" ed="T"/>樂。又有眾生發大乘心、行菩薩行，於諸
+<lb n="0573a25" ed="T"/>法門無不遍修，復經三阿僧祇劫，修六度
+<lb n="0573a26" ed="T"/>萬行皆悉具足，然證佛果久遠而成，斯由
+<lb n="0573a27" ed="T"/>所習法<note resp="Taisho" n="0573013" place="foot text" type="orig">散＝教【內】</note><note resp="CBETA" n="0573013" type="mod">散【大】，教【內】</note><app n="0573013"><lem wit="【大】">散</lem><rdg resp="Taisho" wit="【內】">教</rdg></app>致有次第。今真言行人，如前觀
+<lb n="0573a28" ed="T"/>已，復發利益安樂無餘眾生界一切眾生
+<lb n="0573a29" ed="T"/>心，以大悲決定，永超外道、二乘境界，復修
+<pb n="0573b" ed="T" xml:id="T32.1665.0573b"/>
+<lb n="0573b01" ed="T"/><app corresp="#0572005" type="star"><lem wit="【大】">瑜伽</lem><rdg resp="Taisho" wit="【和】">踰伽</rdg></app>勝上<note resp="Taisho" n="0573014" place="foot text" type="orig">法＋（人）【內】</note><note resp="CBETA" n="0573014" type="mod">法【大】，法人【內】</note><app n="0573014"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【內】">法人</rdg></app>，能從凡入佛位者，亦超十
+<lb n="0573b02" ed="T"/>地菩薩境界。又深知一切法無自性。云何
+<lb n="0573b03" ed="T"/>無自性？前<note resp="Taisho" n="0573015" place="foot text" type="orig">已＝以【明】【內】＊</note><note resp="CBETA" n="0573015" type="mod"><!--CBETA todo type: ＊-->已【大】＊，以【明】【內】＊</note><app n="0573015"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【明】【內】">以</rdg></app><note resp="Taisho" n="0573016" place="foot text" type="orig">（相說今以）＋旨陳【明】【和】【內】</note><note resp="CBETA" n="0573016" type="mod">旨陳【大】，相說今以旨陳【明】【和】【內】</note><app n="0573016"><lem wit="【大】">旨陳</lem><rdg resp="Taisho" wit="【明】【和】【內】">相說今以旨陳</rdg></app>。夫迷途之法從妄想
+<lb n="0573b04" ed="T"/>生，乃至展轉成無量無邊煩惱，輪迴<note resp="Taisho" n="0573017" place="foot text" type="orig">六趣者＝六趣【和】【內】</note><note resp="CBETA" n="0573017" type="mod">六趣者【大】，六趣【和】【內】</note><app n="0573017"><lem wit="【大】">六趣
+<lb n="0573b05" ed="T"/>者</lem><rdg resp="Taisho" wit="【和】【內】">六趣</rdg></app>。若覺悟已，妄想止除、種種法滅，故無自
+<lb n="0573b06" ed="T"/>性。復次諸佛慈悲，從真起用救攝眾生，應
+<lb n="0573b07" ed="T"/>病與藥施諸法門，隨其煩惱對治，<note resp="Taisho" n="0573018" place="foot text" type="orig">（（迷津遇栰達於彼岸法亦應捨無自性故））十六字＝（（故無））二字【明】</note><note resp="CBETA" n="0573018" type="mod">迷津遇栰達於彼岸法亦應捨無自性故【大】，故無【明】</note><app n="0573018"><lem wit="【大】">迷津
+<lb n="0573b08" ed="T"/>遇栰達於彼岸，法<note resp="Taisho" n="0573019" place="foot text" type="orig">亦＝已【和】</note><note resp="CBETA" n="0573019" type="mod">亦【大】，已【和】</note><app n="0573019"><lem wit="【大】">亦</lem><rdg resp="Taisho" wit="【和】">已</rdg></app>應捨，<note resp="Taisho" n="0573020" place="foot text" type="orig">無自性故＝自性故無【和】</note><note resp="CBETA" n="0573020" type="mod">無自性故【大】，自性故無【和】</note><app n="0573020"><lem wit="【大】">無自性故</lem><rdg resp="Taisho" wit="【和】">自性故無</rdg></app></lem><rdg resp="Taisho" wit="【明】">故無</rdg></app>。
+<lb n="0573b09" ed="T"/>如《大毘盧遮那成佛經》云：諸法無相謂虛
+<lb n="0573b10" ed="T"/>空相，作是觀已名勝義菩提心。當知一切
+<lb n="0573b11" ed="T"/>法空。<note resp="Taisho" n="0573021" place="foot text" type="orig">已＝以【明】</note><note resp="CBETA" n="0573021" type="mod">已【大】，以【明】</note><app n="0573021"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【明】">以</rdg></app>悟法本無生，心體自如不見身
+<lb n="0573b12" ed="T"/>心，住於寂滅平等究竟真實之智，令無退
+<lb n="0573b13" ed="T"/>失。妄心若起，知而勿隨。妄若息時，心源空
+<lb n="0573b14" ed="T"/>寂，萬德斯具，妙用無窮。所以十方諸佛以勝
+<lb n="0573b15" ed="T"/>義、行願為戒。但具此心者，能轉法輪，自他
+<lb n="0573b16" ed="T"/>俱利。如《華嚴經》云：</p>
+<lb n="0573b17" ed="T"/><lg xml:id="lgT32p0573b1701" rend="margin-left:1em;text-indent:-1em"><l>「悲<note resp="Taisho" n="0573022" place="foot text" type="orig">光＝先【明】【內】</note><note resp="CBETA" n="0573022" type="mod">光【大】，先【明】【內】</note><app n="0573022"><lem wit="【大】">光</lem><rdg resp="Taisho" wit="【明】【內】">先</rdg></app>慧為主，</l><l>方便共相應，</l>
+<lb n="0573b18" ed="T"/><l>信解清淨心，</l><l>如來無量力。</l>
+<lb n="0573b19" ed="T"/><l>無礙智現前，</l><l>自悟不由他，</l>
+<lb n="0573b20" ed="T"/><l>具足同如來，</l><l>發此最勝心。</l>
+<lb n="0573b21" ed="T"/><l>佛子始發生，</l><l>如是妙寶心，</l>
+<lb n="0573b22" ed="T"/><l>則超凡夫位，</l><l>入佛所行處。</l>
+<lb n="0573b23" ed="T"/><l>生在如來家，</l><l>種族無<note resp="Taisho" n="0573023" place="foot text" type="orig">瑕＝暇【和】</note><note resp="CBETA" n="0573023" type="mod">瑕【大】，暇【和】</note><app n="0573023"><lem wit="【大】">瑕</lem><rdg resp="Taisho" wit="【和】">暇</rdg></app>玷，</l>
+<lb n="0573b24" ed="T"/><l>與佛共平等，</l><l>決成無上覺。</l>
+<lb n="0573b25" ed="T"/><l>纔生如是心，</l><l>即得入初地，</l>
+<lb n="0573b26" ed="T"/><l>心樂不可動，</l><l>譬如大山王。」</l></lg>
+<lb n="0573b27" ed="T"/><p xml:id="pT32p0573b2701">又准《華嚴經》云：從初地乃至十地，於地
+<lb n="0573b28" ed="T"/>地中皆以大悲為主。如《無量壽觀經》<note resp="Taisho" n="0573024" place="foot text" type="orig">〔云〕－【和】</note><note resp="CBETA" n="0573024" type="mod">云【大】，〔－〕【和】</note><app n="0573024"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【和】"><space quantity="0"/></rdg></app>：
+<lb n="0573b29" ed="T"/>佛心者，大慈悲是。又《涅槃經》云：南無純陀，身
+<pb n="0573c" ed="T" xml:id="T32.1665.0573c"/>
+<lb n="0573c01" ed="T"/>雖人身，心同佛心。又云：</p>
+<lb n="0573c02" ed="T"/><lg xml:id="lgT32p0573c0201" rend="margin-left:1em;text-indent:-1em"><l>「憐愍世間大醫王，</l><l>身及智慧俱寂靜，</l>
+<lb n="0573c03" ed="T"/><l>無我法中有真我，</l><l>是故敬禮無上尊。</l>
+<lb n="0573c04" ed="T"/><l>發心畢竟二無別，</l><l>如是二心先心難，</l>
+<lb n="0573c05" ed="T"/><l>自未得度先度他，</l><l>是故我禮初發心。</l>
+<lb n="0573c06" ed="T"/><l><note resp="Taisho" n="0573025" place="foot text" type="orig">（初）＋發【明】【和】【內】</note><note resp="CBETA" n="0573025" type="mod">發【大】，初發【明】【和】【內】</note><app n="0573025"><lem wit="【大】">發</lem><rdg resp="Taisho" wit="【明】【和】【內】">初發</rdg></app><note resp="Taisho" n="0573026" place="foot text" type="orig">〔心〕－【和】</note><note resp="CBETA" n="0573026" type="mod">心【大】，〔－〕【和】</note><app n="0573026"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【和】"><space quantity="0"/></rdg></app><note resp="Taisho" n="0573027" place="foot text" type="orig">〔已〕－【明】</note><note resp="CBETA" n="0573027" type="mod">已【大】，〔－〕【明】</note><app n="0573027"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>為人天師，</l><l>勝出聲聞及緣覺，</l>
+<lb n="0573c07" ed="T"/><l>如是發心過三界，</l><l>是故得名最無上。」</l></lg>
+<lb n="0573c08" ed="T"/><p xml:id="pT32p0573c0801">如《大毘盧遮那經》云：菩提為因，大悲為根，
+<lb n="0573c09" ed="T"/>方便為究竟。</p>
+<lb n="0573c10" ed="T"/><p xml:id="pT32p0573c1001">第三言三摩地者，真言行人如是觀已，云
+<lb n="0573c11" ed="T"/>何能證無上菩提？當知法爾應住普賢大
+<lb n="0573c12" ed="T"/>菩提心。一切眾生本有薩埵，為貪瞋癡煩惱
+<lb n="0573c13" ed="T"/>之所縛故。諸佛大悲，以善巧智說此甚深
+<lb n="0573c14" ed="T"/>祕密<app corresp="#0572005" type="star"><lem wit="【大】">瑜伽</lem><rdg resp="Taisho" wit="【和】">踰伽</rdg></app>，令修行<note resp="Taisho" n="0573028" place="foot text" type="orig">〔者〕－【和】</note><note resp="CBETA" n="0573028" type="mod">者【大】，〔－〕【和】</note><app n="0573028"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【和】"><space quantity="0"/></rdg></app>於內心中觀<note resp="Taisho" n="0573029" place="foot text" type="orig">白＝日【明】【和】【內】</note><note resp="CBETA" n="0573029" type="mod">白【大】，日【明】【和】【內】</note><app n="0573029"><lem wit="【大】">白</lem><rdg resp="Taisho" wit="【明】【和】【內】">日</rdg></app>月
+<lb n="0573c15" ed="T"/>輪。由作此觀，照見本心湛然清淨，猶如滿
+<lb n="0573c16" ed="T"/>月光遍虛空無所分別，亦名<note resp="Taisho" n="0573030" place="foot text" type="orig">（無）＋覺【明】【和】【內】</note><note resp="CBETA" n="0573030" type="mod">覺【大】，無覺【明】【和】【內】</note><app n="0573030"><lem wit="【大】">覺</lem><rdg resp="Taisho" wit="【明】【和】【內】">無覺</rdg></app>了，亦名
+<lb n="0573c17" ed="T"/>淨法界，亦名實相般若波羅蜜海，能含種種
+<lb n="0573c18" ed="T"/>無量珍寶三摩地，猶如滿月潔白分明。何者？
+<lb n="0573c19" ed="T"/>為一切有情悉含普賢之心，我見自心形
+<lb n="0573c20" ed="T"/>如月輪。何故以月輪為喻？<note resp="Taisho" n="0573031" place="foot text" type="orig">謂＝為【和】</note><note resp="CBETA" n="0573031" type="mod">謂【大】，為【和】</note><app n="0573031"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【和】">為</rdg></app>滿月圓明
+<lb n="0573c21" ed="T"/>體，則與菩提心相類。凡月輪有一十六分，
+<lb n="0573c22" ed="T"/>喻瑜伽中金剛薩埵至金剛拳有十六大
+<lb n="0573c23" ed="T"/>菩薩者。於三十七尊中，五方佛位各表一
+<lb n="0573c24" ed="T"/><note resp="Taisho" n="0573032" place="foot text" type="orig">智＋（也）【明】【和】【內】</note><note resp="CBETA" n="0573032" type="mod">智【大】，智也【明】【和】【內】</note><app n="0573032"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【明】【和】【內】">智也</rdg></app>。東方阿閦佛，因<note resp="Taisho" n="0573033" place="foot text" type="orig">成大＝大成【和】</note><note resp="CBETA" n="0573033" type="mod">成大【大】，大成【和】</note><app n="0573033"><lem wit="【大】">成大</lem><rdg resp="Taisho" wit="【和】">大成</rdg></app>圓鏡智，亦名金
+<lb n="0573c25" ed="T"/>剛智也。南方寶生佛，由成平等性智，亦名
+<lb n="0573c26" ed="T"/>灌頂智也。西方阿彌陀佛，由成妙觀察智，
+<lb n="0573c27" ed="T"/>亦名蓮華智，亦名轉法<note resp="Taisho" n="0573034" place="foot text" type="orig">〔輪〕－【和】</note><note resp="CBETA" n="0573034" type="mod">輪【大】，〔－〕【和】</note><app n="0573034"><lem wit="【大】">輪</lem><rdg resp="Taisho" wit="【和】"><space quantity="0"/></rdg></app>智<note resp="Taisho" n="0573035" place="foot text" type="orig">〔也〕－【和】</note><note resp="CBETA" n="0573035" type="mod">也【大】，〔－〕【和】</note><app n="0573035"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【和】"><space quantity="0"/></rdg></app>。北方不
+<lb n="0573c28" ed="T"/>空成就佛，由成成所作智，亦名羯磨智也。
+<lb n="0573c29" ed="T"/>中方毘盧遮那佛，由成法界智為本。已上
+<pb n="0574a" ed="T" xml:id="T32.1665.0574a"/>
+<lb n="0574a01" ed="T"/>四佛智，出生四波羅蜜菩薩焉。四菩薩，即
+<lb n="0574a02" ed="T"/><note resp="Taisho" n="0574001" place="foot text" type="orig">金寶法＝寶法金【和】</note><note resp="CBETA" n="0574001" type="mod">金寶法【大】，寶法金【和】</note><app n="0574001"><lem wit="【大】">金寶法</lem><rdg resp="Taisho" wit="【和】">寶法金</rdg></app>業也，三世一切諸<note resp="Taisho" n="0574002" place="foot text" type="orig">聖賢＝賢聖【明】</note><note resp="CBETA" n="0574002" type="mod">聖賢【大】，賢聖【明】</note><app n="0574002"><lem wit="【大】">聖賢</lem><rdg resp="Taisho" wit="【明】">賢聖</rdg></app>生成養育
+<lb n="0574a03" ed="T"/>之母。於是印成，法界體性中流出四佛也。
+<lb n="0574a04" ed="T"/>四方如來各攝四菩薩。東方阿閦佛攝四菩
+<lb n="0574a05" ed="T"/>薩，<note resp="Taisho" n="0574003" place="foot text" type="orig">〔金剛〕－【和】</note><note resp="CBETA" n="0574003" type="mod">金剛【大】，〔－〕【和】</note><app n="0574003"><lem wit="【大】">金剛</lem><rdg resp="Taisho" wit="【和】"><space quantity="0"/></rdg></app>薩埵、金剛王、金剛愛、<note resp="Taisho" n="0574004" place="foot text" type="orig">（金剛）＋善哉【明】【內】</note><note resp="CBETA" n="0574004" type="mod">善哉【大】，金剛善哉【明】【內】</note><app n="0574004"><lem wit="【大】">善哉</lem><rdg resp="Taisho" wit="【明】【內】">金剛善哉</rdg></app>為四
+<lb n="0574a06" ed="T"/>菩薩也。南方寶生佛攝四菩薩，金剛寶、金
+<lb n="0574a07" ed="T"/>剛光、金剛幢、金剛<note resp="Taisho" n="0574005" place="foot text" type="orig">笑＝㗛【和】</note><note resp="CBETA" n="0574005" type="mod">笑【大】，㗛【和】</note><app n="0574005"><lem wit="【大】">笑</lem><rdg resp="Taisho" wit="【和】">㗛</rdg></app>為四菩薩也。西方阿
+<lb n="0574a08" ed="T"/>彌陀佛攝四菩薩，金剛法、金剛利、金剛因、
+<lb n="0574a09" ed="T"/>金剛語為四菩薩也。北方不空成就佛攝
+<lb n="0574a10" ed="T"/>四菩薩，金剛業、金剛護、金剛<note resp="Taisho" n="0574006" place="foot text" type="orig">牙＝才【明】</note><note resp="CBETA" n="0574006" type="mod">牙【大】，才【明】</note><app n="0574006"><lem wit="【大】">牙</lem><rdg resp="Taisho" wit="【明】">才</rdg></app>、金剛拳為
+<lb n="0574a11" ed="T"/>四菩薩也。四方佛各四菩薩，為十六大菩
+<lb n="0574a12" ed="T"/>薩也。於三十七尊中，除五佛四波羅蜜及
+<lb n="0574a13" ed="T"/>後四攝八供養，但取十六大菩薩為四方佛
+<lb n="0574a14" ed="T"/>所攝也。又《摩訶般若經》中，內空至無性<note resp="Taisho" n="0574007" place="foot text" type="orig">自性空＝有性【和】</note><note resp="CBETA" n="0574007" type="mod">自性空【大】，有性【和】</note><app n="0574007"><lem wit="【大】">自
+<lb n="0574a15" ed="T"/>性空</lem><rdg resp="Taisho" wit="【和】">有性</rdg></app>，亦有十六義。一切有情於心質中有
+<lb n="0574a16" ed="T"/>一分淨性，眾行皆備，其體極微妙皎然明白，
+<lb n="0574a17" ed="T"/>乃至輪迴六趣<note resp="Taisho" n="0574008" place="foot text" type="orig">變＝亦【明】【和】【內】</note><note resp="CBETA" n="0574008" type="mod">變【大】，亦【明】【和】【內】</note><app n="0574008"><lem wit="【大】">變</lem><rdg resp="Taisho" wit="【明】【和】【內】">亦</rdg></app>不變易，如月十六分之
+<lb n="0574a18" ed="T"/>一。凡月其一分明相若當合宿之際，但為日
+<lb n="0574a19" ed="T"/>光奪其明性，所以不現。後起月初，日日漸
+<lb n="0574a20" ed="T"/>加，至十五日圓滿無礙。所以觀行者初以
+<lb n="0574a21" ed="T"/>阿字發起本心<note resp="Taisho" n="0574009" place="foot text" type="orig">（之）＋中【明】【和】【內】</note><note resp="CBETA" n="0574009" type="mod">中【大】，之中【明】【和】【內】</note><app n="0574009"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【明】【和】【內】">之中</rdg></app>分明，<note resp="Taisho" n="0574010" place="foot text" type="orig">即＝只【明】【和】【內】</note><note resp="CBETA" n="0574010" type="mod">即【大】，只【明】【和】【內】</note><app n="0574010"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【明】【和】【內】">只</rdg></app>漸令潔白分
+<lb n="0574a22" ed="T"/>明，證無生智。夫阿字者，一切<note resp="Taisho" n="0574011" place="foot text" type="orig">（諸）＋法【和】【內】</note><note resp="CBETA" n="0574011" type="mod">法【大】，諸法【和】【內】</note><app n="0574011"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【和】【內】">諸法</rdg></app>本不生義。</p>
+<lb n="0574a23" ed="T"/><p xml:id="pT32p0574a2301">准《毘盧遮那經》疏釋阿字，具有五義：一者阿
+<lb n="0574a24" ed="T"/>字<note place="inline">短聲</note>是菩提心，二阿字<note place="inline">引聲</note>是菩提<note resp="Taisho" n="0574012" place="foot text" type="orig">行＋（義）【內】</note><note resp="CBETA" n="0574012" type="mod">行【大】，行義【內】</note><app n="0574012"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【內】">行義</rdg></app>，三暗
+<lb n="0574a25" ed="T"/>字<note place="inline"><note resp="Taisho" n="0574013" place="foot text" type="orig">長＝短【和】【內】</note><note resp="CBETA" n="0574013" type="mod">長【大】，短【和】【內】</note><app n="0574013"><lem wit="【大】">長</lem><rdg resp="Taisho" wit="【和】【內】">短</rdg></app>聲</note>是證菩提義，四惡字<note place="inline">短聲</note>是般涅槃義，五
+<lb n="0574a26" ed="T"/>惡字<note place="inline">引聲</note>是具足方便智義。又將阿字配解《法
+<lb n="0574a27" ed="T"/>華經》中開示悟入四字<note resp="Taisho" n="0574014" place="foot text" type="orig">也＋（開字者）【明】【和】【內】</note><note resp="CBETA" n="0574014" type="mod">也【大】，也開字者【明】【和】【內】</note><app n="0574014"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【明】【和】【內】">也開字者</rdg></app>。開佛知見，<note resp="Taisho" n="0574015" place="foot text" type="orig">（即）＋雙【明】【和】【內】</note><note resp="CBETA" n="0574015" type="mod">雙【大】，即雙【明】【和】【內】</note><app n="0574015"><lem wit="【大】">雙</lem><rdg resp="Taisho" wit="【明】【和】【內】">即雙</rdg></app>
+<lb n="0574a28" ed="T"/>開菩提<note resp="Taisho" n="0574016" place="foot text" type="orig">〔涅槃〕－【和】，涅槃＝心【內】</note><note resp="CBETA" n="0574016" type="mod">涅槃【大】，〔－〕【和】，心【內】</note><app n="0574016"><lem wit="【大】">涅槃</lem><rdg resp="Taisho" wit="【和】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【內】">心</rdg></app>，如初阿字，是菩提心義也。示
+<lb n="0574a29" ed="T"/>字者，示佛知見，如第二阿字，是菩提行義
+<pb n="0574b" ed="T" xml:id="T32.1665.0574b"/>
+<lb n="0574b01" ed="T"/>也。悟字者，悟佛知見，如第三暗字，是證菩
+<lb n="0574b02" ed="T"/>提義也。入字者，入佛知見，如第四惡字，是
+<lb n="0574b03" ed="T"/>般涅槃<note resp="Taisho" n="0574017" place="foot text" type="orig">義＋（也）【內】</note><note resp="CBETA" n="0574017" type="mod">義【大】，義也【內】</note><app n="0574017"><lem wit="【大】">義</lem><rdg resp="Taisho" wit="【內】">義也</rdg></app>。總而言之具足成就，第五惡字，
+<lb n="0574b04" ed="T"/>是方便善巧智圓滿義也。</p>
+<lb n="0574b05" ed="T"/><p xml:id="pT32p0574b0501">即讚阿字是菩提心義。頌曰：</p>
+<lb n="0574b06" ed="T"/><lg xml:id="lgT32p0574b0601" rend="margin-left:1em;text-indent:-1em"><l>「八葉白蓮一肘<note resp="Taisho" n="0574018" place="foot text" type="orig">門＝間【明】【和】【內】</note><note resp="CBETA" n="0574018" type="mod">門【大】，間【明】【和】【內】</note><app n="0574018"><lem wit="【大】">門</lem><rdg resp="Taisho" wit="【明】【和】【內】">間</rdg></app>，</l><l>炳現阿字素光色，</l>
+<lb n="0574b07" ed="T"/><l>禪智俱入金剛縛，</l><l>召入如來寂靜智。」</l></lg>
+<lb n="0574b08" ed="T"/><p xml:id="pT32p0574b0801"><note resp="Taisho" n="0574019" place="foot text" type="orig">扶＝夫【明】</note><note resp="CBETA" n="0574019" type="mod">扶【大】，夫【明】</note><app n="0574019"><lem wit="【大】">扶</lem><rdg resp="Taisho" wit="【明】">夫</rdg></app>會阿字者，揩<note resp="Taisho" n="0574020" place="foot text" type="orig">實＝寔【和】【內】</note><note resp="CBETA" n="0574020" type="mod">實【大】，寔【和】【內】</note><app n="0574020"><lem wit="【大】">實</lem><rdg resp="Taisho" wit="【和】【內】">寔</rdg></app>決定觀之，當觀圓明
+<lb n="0574b09" ed="T"/>淨識。若纔見者，則名見真勝義諦。若常見
+<lb n="0574b10" ed="T"/>者，則入菩薩初地。若轉漸增長，則廓周法
+<lb n="0574b11" ed="T"/>界、量等虛空、卷舒自在，當具一切智。凡修
+<lb n="0574b12" ed="T"/>習<app corresp="#0572005" type="star"><lem wit="【大】">瑜伽</lem><rdg resp="Taisho" wit="【和】">踰伽</rdg></app>觀行人，當須具修三密行，證悟五
+<lb n="0574b13" ed="T"/>相成身義也。所言三密者，一身密者，如結
+<lb n="0574b14" ed="T"/>契印召請聖眾是也。二語密者，如密誦真
+<lb n="0574b15" ed="T"/>言<note resp="Taisho" n="0574021" place="foot text" type="orig">（令）＋文【明】【和】【內】</note><note resp="CBETA" n="0574021" type="mod">文【大】，令文【明】【和】【內】</note><app n="0574021"><lem wit="【大】">文</lem><rdg resp="Taisho" wit="【明】【和】【內】">令文</rdg></app><note resp="Taisho" n="0574022" place="foot text" type="orig">句＝字【明】</note><note resp="CBETA" n="0574022" type="mod">句【大】，字【明】</note><app n="0574022"><lem wit="【大】">句</lem><rdg resp="Taisho" wit="【明】">字</rdg></app>了了分明無<note resp="Taisho" n="0574023" place="foot text" type="orig">（一）＋謬【明】【內】</note><note resp="CBETA" n="0574023" type="mod">謬【大】，一謬【明】【內】</note><app n="0574023"><lem wit="【大】">謬</lem><rdg resp="Taisho" wit="【明】【內】">一謬</rdg></app><note resp="Taisho" n="0574024" place="foot text" type="orig">誤＝悞【和】，〔誤〕－【內】</note><note resp="CBETA" n="0574024" type="mod">誤【大】，悞【和】，〔－〕【內】</note><app n="0574024"><lem wit="【大】">誤</lem><rdg resp="Taisho" wit="【和】">悞</rdg><rdg resp="Taisho" wit="【內】"><space quantity="0"/></rdg></app>也。三意密
+<lb n="0574b16" ed="T"/>者，如住瑜伽相應白淨月<note resp="Taisho" n="0574025" place="foot text" type="orig">圓＋（滿）【和】【內】</note><note resp="CBETA" n="0574025" type="mod">圓【大】，圓滿【和】【內】</note><app n="0574025"><lem wit="【大】">圓</lem><rdg resp="Taisho" wit="【和】【內】">圓滿</rdg></app>觀菩提<note resp="Taisho" n="0574026" place="foot text" type="orig">心＋（也）【明】【和】【內】</note><note resp="CBETA" n="0574026" type="mod">心【大】，心也【明】【和】【內】</note><app n="0574026"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【明】【和】【內】">心也</rdg></app>。</p>
+<lb n="0574b17" ed="T"/><p xml:id="pT32p0574b1701">次明五相成身者，一是通達心、二是菩提
+<lb n="0574b18" ed="T"/>心、三是金剛心、四是金剛身、五是證無上菩
+<lb n="0574b19" ed="T"/>提獲金剛堅固身也。然此五相具備，方成本
+<lb n="0574b20" ed="T"/>尊身也。其圓明則普賢身也，亦是普賢心也，
+<lb n="0574b21" ed="T"/>與十方諸佛同之，亦乃三世修行證有前
+<lb n="0574b22" ed="T"/>後，及達悟<note resp="Taisho" n="0574027" place="foot text" type="orig">也＝已【和】【內】</note><note resp="CBETA" n="0574027" type="mod">也【大】，已【和】【內】</note><app n="0574027"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【和】【內】">已</rdg></app>無去來今。凡人心如合蓮
+<lb n="0574b23" ed="T"/>華，佛心如滿月。此觀若成，十方國土若淨
+<lb n="0574b24" ed="T"/>若穢、六道含識、三乘行位，及三世國土成壞、
+<lb n="0574b25" ed="T"/>眾生業差別、菩薩因地行相、三世諸佛，悉於
+<lb n="0574b26" ed="T"/>中現證本尊身，滿足普賢一切行願故。《大
+<lb n="0574b27" ed="T"/>毘盧遮那經》云：如是真實心，故佛所宣說。
+<lb n="0574b28" ed="T"/>問：前言二乘之人，有法執故，不得成佛。今
+<lb n="0574b29" ed="T"/>復令修菩提心三摩地者，云何差別？答：二
+<pb n="0574c" ed="T" xml:id="T32.1665.0574c"/>
+<lb n="0574c01" ed="T"/>乘之人有法執故，久久證理沈空滯寂，限
+<lb n="0574c02" ed="T"/>以劫數然發大心。又乘散善門中，經無數
+<lb n="0574c03" ed="T"/>劫，是故足可厭離、不可依止。今真言行人，
+<lb n="0574c04" ed="T"/>既破人法<note resp="Taisho" n="0574028" place="foot text" type="orig">二＝上【和】【內】</note><note resp="CBETA" n="0574028" type="mod">二【大】，上【和】【內】</note><app n="0574028"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【和】【內】">上</rdg></app>執，雖能正見真實之智，或
+<lb n="0574c05" ed="T"/>為無始間隔，未能證於如來一切智<note resp="Taisho" n="0574029" place="foot text" type="orig">智＋（故）【和】【內】</note><note resp="CBETA" n="0574029" type="mod">智【大】，智故【和】【內】</note><app n="0574029"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【和】【內】">智故</rdg></app>。
+<lb n="0574c06" ed="T"/>欲求妙道，修持次第從凡入佛位者，即此
+<lb n="0574c07" ed="T"/>三摩地者，能達諸佛自性、悟諸佛法身、證
+<lb n="0574c08" ed="T"/>法界體性智，成大毘盧遮那佛自性身、受用
+<lb n="0574c09" ed="T"/>身、變化身、等流身。<note resp="Taisho" n="0574030" place="foot text" type="orig">〔等流身〕－【明】【和】【內】</note><note resp="CBETA" n="0574030" type="mod">等流身【大】，〔－〕【明】【和】【內】</note><app n="0574030"><lem wit="【大】">等流身</lem><rdg resp="Taisho" wit="【明】【和】【內】"><space quantity="0"/></rdg></app>，為行人未證
+<lb n="0574c10" ed="T"/>故，理宜修之。故《大毘盧遮那經》云：悉地從
+<lb n="0574c11" ed="T"/>心生。如《金剛頂瑜伽經》說：一切義成就菩
+<lb n="0574c12" ed="T"/>薩，初坐金剛座，取證無上道，遂蒙諸佛授
+<lb n="0574c13" ed="T"/>此心地，然能證果。凡今之人，若心決定，如
+<lb n="0574c14" ed="T"/>教修行，不起于座，三摩地現前，應是成就
+<lb n="0574c15" ed="T"/>本尊之身。故《大毘盧遮那經》<note resp="Taisho" n="0574031" place="foot text" type="orig">〔云〕－【和】</note><note resp="CBETA" n="0574031" type="mod">云【大】，〔－〕【和】</note><app n="0574031"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【和】"><space quantity="0"/></rdg></app>供養次第法
+<lb n="0574c16" ed="T"/>云：若無勢力廣增益住法，但觀菩提心。佛
+<lb n="0574c17" ed="T"/>說此中具萬行，漸足<note resp="Taisho" n="0574032" place="foot text" type="orig">清＝淨【和】</note><note resp="CBETA" n="0574032" type="mod">清【大】，淨【和】</note><app n="0574032"><lem wit="【大】">清</lem><rdg resp="Taisho" wit="【和】">淨</rdg></app>白純淨法也。此
+<lb n="0574c18" ed="T"/>菩提心，能包藏一切諸佛功德法故。若修證
+<lb n="0574c19" ed="T"/>出現，則為一切導師；若歸本則是密嚴國
+<lb n="0574c20" ed="T"/>土，不起于座能成一切<note resp="Taisho" n="0574033" place="foot text" type="orig">（佛）＋事【明】【和】【內】</note><note resp="CBETA" n="0574033" type="mod">事【大】，佛事【明】【和】【內】</note><app n="0574033"><lem wit="【大】">事</lem><rdg resp="Taisho" wit="【明】【和】【內】">佛事</rdg></app>。讚菩提心曰：</p>
+<lb n="0574c21" ed="T"/><lg xml:id="lgT32p0574c2101"><l>若人求佛慧，</l><l>通達菩提心，</l>
+<lb n="0574c22" ed="T"/><l>父母所生身，</l><l>速證大覺位。</l></lg>
+<lb n="0574c23" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>金剛頂瑜伽中發阿耨多羅三藐三菩提心論
+<lb n="0574c24" ed="T"/><note resp="Taisho" n="0574034" place="foot text" type="orig">〔一卷〕－【明】</note><note resp="CBETA" n="0574034" type="mod">一卷【大】，〔－〕【明】</note><app n="0574034"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan></cb:div>
+</body></text></TEI>
