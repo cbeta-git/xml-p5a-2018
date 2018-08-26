@@ -141,9 +141,9 @@ new from basic markup
 </revisionDesc>
 </teiHeader>
 <text><body>
+<milestone unit="juan" n="1"/>
 <pb ed="X" xml:id="X66.1296.0001a" n="0001a"/>
 <lb ed="X" n="0001a01"/>
-<milestone unit="juan" n="1"/>
 <lb ed="X" n="0001a02"/><cb:div type="xu"><cb:mulu type="序" level="1">No. 1296-A 宗門拈古彙集序</cb:mulu><head>No. 1296-A
 <lb ed="X" n="0001a03"/><lb ed="R115" n="0514a01"/> 宗門拈古彙集序</head>
 <lb ed="X" n="0001a04"/>
@@ -1051,7 +1051,8 @@ new from basic markup
 <lb ed="X" n="0013a06"/><lb ed="R115" n="0537b07"/>拄杖旋風打散。</p>
 <lb ed="X" n="0013a07"/><lb ed="R115" n="0537b08"/>
 <lb ed="X" n="0013a08"/><lb ed="R115" n="0537b09"/><cb:juan fun="close" n="001"><cb:jhead>宗門拈古彚集卷第一</cb:jhead></cb:juan>
-<lb ed="X" n="0013a09"/><milestone unit="juan" n="2"/>
+<milestone unit="juan" n="2"/>
+<lb ed="X" n="0013a09"/>
 <lb ed="X" n="0013a10"/>
 <lb ed="X" n="0013a11"/><lb ed="R115" n="0537b11"/><cb:juan fun="open" n="002"><cb:mulu type="卷" n="2"/><cb:jhead>宗門拈古彚集卷第二</cb:jhead></cb:juan>
 <lb ed="X" n="0013a12"/>
@@ -1465,8 +1466,9 @@ new from basic markup
 <lb ed="X" n="0018b20"/><lb ed="R115" n="0548b07"/><p xml:id="pX66p0018b2001" style="margin-left:1em">興善廣云。可惜者黃面漢話作兩橛。</p></cb:div>
 <lb ed="X" n="0018b21"/><lb ed="R115" n="0548b08"/>
 <lb ed="X" n="0018b22"/><lb ed="R115" n="0548b09"/><cb:juan fun="close" n="002"><cb:jhead>宗門拈古彚集卷第二</cb:jhead></cb:juan>
+<milestone unit="juan" n="3"/>
 <pb ed="X" xml:id="X66.1296.0018c" n="0018c"/>
-<lb ed="X" n="0018c01"/><lb ed="R115" n="0548b11"/><milestone unit="juan" n="3"/><cb:juan fun="open" n="003"><cb:mulu type="卷" n="3"/><cb:jhead>宗門拈古彚集卷第三</cb:jhead></cb:juan>
+<lb ed="X" n="0018c01"/><lb ed="R115" n="0548b11"/><cb:juan fun="open" n="003"><cb:mulu type="卷" n="3"/><cb:jhead>宗門拈古彚集卷第三</cb:jhead></cb:juan>
 <lb ed="X" n="0018c02"/><lb ed="R115" n="0548b12"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
 <lb ed="X" n="0018c03"/><lb ed="R115" n="0548b13"/><cb:div type="other"><cb:mulu type="其他" level="1">應化聖賢（西天）</cb:mulu><head>△應化聖賢<note place="inline">西天</note></head>
 <lb ed="X" n="0018c04"/><lb ed="R115" n="0548b14"/><p xml:id="pX66p0018c0401">文殊菩薩一日令善財採藥曰。是藥者採將來。善財
@@ -1840,8 +1842,9 @@ new from basic markup
 <lb ed="X" n="0023b22"/><lb ed="R115" n="0558b08"/>指東話西。</p></cb:div>
 <lb ed="X" n="0023b23"/><lb ed="R115" n="0558b09"/>
 <lb ed="X" n="0023b24"/><lb ed="R115" n="0558b10"/><cb:juan fun="close" n="003"><cb:jhead>宗門拈古彚集卷第三</cb:jhead></cb:juan>
+<milestone unit="juan" n="4"/>
 <pb ed="X" xml:id="X66.1296.0023c" n="0023c"/>
-<lb ed="X" n="0023c01"/><milestone unit="juan" n="4"/>
+<lb ed="X" n="0023c01"/>
 <lb ed="X" n="0023c02"/>
 <lb ed="X" n="0023c03"/><lb ed="R115" n="0558b12"/><cb:juan fun="open" n="004"><cb:mulu type="卷" n="4"/><cb:jhead>宗門拈古彚集卷第四</cb:jhead></cb:juan>
 <lb ed="X" n="0023c04"/>
@@ -2258,7 +2261,8 @@ new from basic markup
 <lb ed="X" n="0029a15"/><lb ed="R115" n="0569b11"/><p xml:id="pX66p0029a1501" style="margin-left:1em">古林如云。可恠。尊者大路不行。却向艸窠裏輥。</p></cb:div></cb:div>
 <lb ed="X" n="0029a16"/><lb ed="R115" n="0569b12"/>
 <lb ed="X" n="0029a17"/><lb ed="R115" n="0569b13"/><cb:juan fun="close" n="004"><cb:jhead>宗門拈古彚集卷第四</cb:jhead></cb:juan>
-<lb ed="X" n="0029a18"/><milestone unit="juan" n="5"/>
+<milestone unit="juan" n="5"/>
+<lb ed="X" n="0029a18"/>
 <lb ed="X" n="0029a19"/>
 <lb ed="X" n="0029a20"/><lb ed="R115" n="0570a01"/><cb:juan fun="open" n="005"><cb:mulu type="卷" n="5"/><cb:jhead>宗門拈古彚集卷第五</cb:jhead></cb:juan>
 <lb ed="X" n="0029a21"/>
@@ -2636,8 +2640,9 @@ new from basic markup
 <lb ed="X" n="0034a18"/><lb ed="R115" n="0579b16"/>開走開。莫來攔我毬門路。</p></cb:div>
 <lb ed="X" n="0034a19"/><lb ed="R115" n="0579b17"/>
 <lb ed="X" n="0034a20"/><lb ed="R115" n="0579b18"/><cb:juan fun="close" n="005"><cb:jhead>宗門拈古彚集卷第五</cb:jhead></cb:juan>
+<milestone unit="juan" n="6"/>
 <pb ed="X" xml:id="X66.1296.0034b" n="0034b"/>
-<lb ed="X" n="0034b01"/><lb ed="R115" n="0580a01"/><milestone unit="juan" n="6"/><cb:juan fun="open" n="006"><cb:mulu type="卷" n="6"/><cb:jhead>宗門拈古彚集卷第六</cb:jhead></cb:juan>
+<lb ed="X" n="0034b01"/><lb ed="R115" n="0580a01"/><cb:juan fun="open" n="006"><cb:mulu type="卷" n="6"/><cb:jhead>宗門拈古彚集卷第六</cb:jhead></cb:juan>
 <lb ed="X" n="0034b02"/><lb ed="R115" n="0580a02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
 <lb ed="X" n="0034b03"/><lb ed="R115" n="0580a03"/><p xml:id="pX66p0034b0301" cb:type="head1">△旁出祖師<note place="inline">二</note></p>
 <lb ed="X" n="0034b04"/><lb ed="R115" n="0580a04"/><p xml:id="pX66p0034b0401" cb:type="head2">六祖旁出</p>
@@ -3030,8 +3035,9 @@ new from basic markup
 <lb ed="X" n="0039b16"/><lb ed="R115" n="0590a16"/>護身符子作什麼。對道某甲今日悔出此問。</p></cb:div></cb:div></cb:div>
 <lb ed="X" n="0039b17"/><lb ed="R115" n="0590a17"/>
 <lb ed="X" n="0039b18"/><lb ed="R115" n="0590a18"/><cb:juan fun="close" n="006"><cb:jhead>宗門拈古彚集卷第六</cb:jhead></cb:juan>
+<milestone unit="juan" n="7"/>
 <pb ed="X" xml:id="X66.1296.0039c" n="0039c"/>
-<lb ed="X" n="0039c01"/><lb ed="R115" n="0590b01"/><milestone unit="juan" n="7"/><cb:juan fun="open" n="007"><cb:mulu type="卷" n="7"/><cb:jhead>宗門拈古彚集卷第七</cb:jhead></cb:juan>
+<lb ed="X" n="0039c01"/><lb ed="R115" n="0590b01"/><cb:juan fun="open" n="007"><cb:mulu type="卷" n="7"/><cb:jhead>宗門拈古彚集卷第七</cb:jhead></cb:juan>
 <lb ed="X" n="0039c02"/><lb ed="R115" n="0590b02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
 <lb ed="X" n="0039c03"/><lb ed="R115" n="0590b03"/><cb:div type="other"><cb:mulu type="其他" level="1">未詳法嗣</cb:mulu><head>△未詳法嗣</head>
 <lb ed="X" n="0039c04"/><lb ed="R115" n="0590b04"/><p xml:id="pX66p0039c0401">先淨照禪師問楞嚴大師。經中道若能轉物即同如
@@ -3488,7 +3494,8 @@ new from basic markup
 <lb ed="X" n="0045c05"/><lb ed="R115" n="0602b05"/>云。莫將閒學解。埋沒祖師心。出去。</p></cb:div></cb:div>
 <lb ed="X" n="0045c06"/><lb ed="R115" n="0602b06"/>
 <lb ed="X" n="0045c07"/><lb ed="R115" n="0602b07"/><cb:juan fun="close" n="007"><cb:jhead>宗門拈古彚集卷第七</cb:jhead></cb:juan>
-<lb ed="X" n="0045c08"/><milestone unit="juan" n="8"/>
+<milestone unit="juan" n="8"/>
+<lb ed="X" n="0045c08"/>
 <lb ed="X" n="0045c09"/>
 <lb ed="X" n="0045c10"/><lb ed="R115" n="0602b09"/><cb:juan fun="open" n="008"><cb:mulu type="卷" n="8"/><cb:jhead>宗門拈古彚集卷第八</cb:jhead></cb:juan>
 <lb ed="X" n="0045c11"/>
@@ -3904,8 +3911,9 @@ new from basic markup
 <lb ed="X" n="0051a21"/><lb ed="R115" n="0613b07"/>道。獅子咬人。弁山恁麼道。諸人切忌鑽龜打瓦。</p></cb:div>
 <lb ed="X" n="0051a22"/><lb ed="R115" n="0613b08"/>
 <lb ed="X" n="0051a23"/><lb ed="R115" n="0613b09"/><cb:juan fun="close" n="008"><cb:jhead>宗門拈古彚集卷第八</cb:jhead></cb:juan>
+<milestone unit="juan" n="9"/>
 <pb ed="X" xml:id="X66.1296.0051b" n="0051b"/>
-<lb ed="X" n="0051b01"/><milestone unit="juan" n="9"/>
+<lb ed="X" n="0051b01"/>
 <lb ed="X" n="0051b02"/>
 <lb ed="X" n="0051b03"/><lb ed="R115" n="0615a01"/><cb:juan fun="open" n="009"><cb:mulu type="卷" n="9"/><cb:jhead>宗門拈古彚集卷第九</cb:jhead></cb:juan>
 <lb ed="X" n="0051b04"/>
@@ -4321,7 +4329,8 @@ new from basic markup
 <lb ed="X" n="0056c14"/><lb ed="R115" n="0625b17"/><p xml:id="pX66p0056c1401" style="margin-left:1em">青龍操云。南泉雖嚼飯餵嬰孩。切忌作道理會。</p>
 <lb ed="X" n="0056c15"/>
 <lb ed="X" n="0056c16"/><lb ed="R115" n="0625b18"/><cb:juan fun="close" n="009"><cb:jhead>宗門拈古彚集卷第九</cb:jhead></cb:juan>
-<lb ed="X" n="0056c17"/><milestone unit="juan" n="10"/>
+<milestone unit="juan" n="10"/>
+<lb ed="X" n="0056c17"/>
 <lb ed="X" n="0056c18"/><lb ed="R115" n="0626a01"/><cb:juan fun="open" n="010"><cb:mulu type="卷" n="10"/><cb:jhead>宗門拈古彚集卷第十</cb:jhead></cb:juan>
 <lb ed="X" n="0056c19"/>
 <lb ed="X" n="0056c20"/><lb ed="R115" n="0626a02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
@@ -4737,7 +4746,8 @@ new from basic markup
 <lb ed="X" n="0062b05"/><lb ed="R115" n="0636b17"/>他物。瞞頇不少。咄。</p></cb:div>
 <lb ed="X" n="0062b06"/>
 <lb ed="X" n="0062b07"/><lb ed="R115" n="0636b18"/><cb:juan fun="close" n="010"><cb:jhead>宗門拈古彚集卷第十</cb:jhead></cb:juan>
-<lb ed="X" n="0062b08"/><milestone unit="juan" n="11"/>
+<milestone unit="juan" n="11"/>
+<lb ed="X" n="0062b08"/>
 <lb ed="X" n="0062b09"/><lb ed="R115" n="0637a01"/><cb:juan fun="open" n="011"><cb:mulu type="卷" n="11"/><cb:jhead>宗門拈古彚集卷第十一</cb:jhead></cb:juan>
 <lb ed="X" n="0062b10"/>
 <lb ed="X" n="0062b11"/><lb ed="R115" n="0637a02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
@@ -5154,8 +5164,9 @@ new from basic markup
 <lb ed="X" n="0067c22"/><lb ed="R115" n="0648a01"/>獅兒。又且如何收拾。遂以手作格勢云。且道者邊
 <lb ed="X" n="0067c23"/><lb ed="R115" n="0648a02"/>著。</p></cb:div>
 <lb ed="X" n="0067c24"/><lb ed="R115" n="0648a04"/><cb:juan fun="close" n="011"><cb:jhead>宗門拈古彚集卷第十一</cb:jhead></cb:juan>
+<milestone unit="juan" n="12"/>
 <pb ed="X" xml:id="X66.1296.0068a" n="0068a"/>
-<lb ed="X" n="0068a01"/><milestone unit="juan" n="12"/>
+<lb ed="X" n="0068a01"/>
 <lb ed="X" n="0068a02"/>
 <lb ed="X" n="0068a03"/><lb ed="R115" n="0648a06"/><cb:juan fun="open" n="012"><cb:mulu type="卷" n="12"/><cb:jhead>宗門拈古彚集卷第十二</cb:jhead></cb:juan>
 <lb ed="X" n="0068a04"/>
@@ -5632,7 +5643,8 @@ new from basic markup
 <pb ed="X" xml:id="X66.1296.0074b" n="0074b"/>
 <lb ed="X" n="0074b01"/><lb ed="R115" n="0660b09"/>
 <lb ed="X" n="0074b02"/><lb ed="R115" n="0660b10"/><cb:juan fun="close" n="012"><cb:jhead>宗門拈古彚集卷第十二</cb:jhead></cb:juan>
-<lb ed="X" n="0074b03"/><milestone unit="juan" n="13"/>
+<milestone unit="juan" n="13"/>
+<lb ed="X" n="0074b03"/>
 <lb ed="X" n="0074b04"/><lb ed="R115" n="0660b12"/><cb:juan fun="open" n="013"><cb:mulu type="卷" n="13"/><cb:jhead>宗門拈古彚集卷第十三</cb:jhead></cb:juan>
 <lb ed="X" n="0074b05"/>
 <lb ed="X" n="0074b06"/><lb ed="R115" n="0660b13"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
@@ -6010,7 +6022,8 @@ new from basic markup
 <lb ed="X" n="0079b03"/><lb ed="R115" n="0670b10"/>通身是眼八面四方。未免一時穿却。</p></cb:div>
 <lb ed="X" n="0079b04"/><lb ed="R115" n="0670b11"/>
 <lb ed="X" n="0079b05"/><lb ed="R115" n="0670b12"/><cb:juan fun="close" n="013"><cb:jhead>宗門拈古彚集卷第十三</cb:jhead></cb:juan>
-<lb ed="X" n="0079b06"/><milestone unit="juan" n="14"/>
+<milestone unit="juan" n="14"/>
+<lb ed="X" n="0079b06"/>
 <lb ed="X" n="0079b07"/>
 <lb ed="X" n="0079b08"/><lb ed="R115" n="0671a01"/><cb:juan fun="open" n="014"><cb:mulu type="卷" n="14"/><cb:jhead>宗門拈古彚集卷第十四</cb:jhead></cb:juan>
 <lb ed="X" n="0079b09"/>
@@ -6484,7 +6497,8 @@ new from basic markup
 <lb ed="X" n="0085c02"/><lb ed="R115" n="0683a18"/>符靈。幾被兩箇擔板漢純置一上。</p></cb:div>
 <lb ed="X" n="0085c03"/>
 <lb ed="X" n="0085c04"/><lb ed="R115" n="0683a18"/><cb:juan fun="close" n="014"><cb:jhead>宗門拈古彚集卷第十四</cb:jhead></cb:juan>
-<lb ed="X" n="0085c05"/><milestone unit="juan" n="15"/>
+<milestone unit="juan" n="15"/>
+<lb ed="X" n="0085c05"/>
 <lb ed="X" n="0085c06"/><lb ed="R115" n="0683b01"/><cb:juan fun="open" n="015"><cb:mulu type="卷" n="15"/><cb:jhead>宗門拈古彚集卷第十五</cb:jhead></cb:juan>
 <lb ed="X" n="0085c07"/>
 <lb ed="X" n="0085c08"/><lb ed="R115" n="0683b02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
@@ -6941,7 +6955,8 @@ new from basic markup
 <lb ed="X" n="0091c09"/><lb ed="R115" n="0695b03"/><p xml:id="pX66p0091c0901" style="margin-left:1em">青龍操云。趙州塞者僧口則得。塞天下人口則難。</p></cb:div>
 <lb ed="X" n="0091c10"/><lb ed="R115" n="0695b04"/>
 <lb ed="X" n="0091c11"/><lb ed="R115" n="0695b05"/><cb:juan fun="close" n="015"><cb:jhead>宗門拈古彚集卷第十五</cb:jhead></cb:juan>
-<lb ed="X" n="0091c12"/><milestone unit="juan" n="16"/>
+<milestone unit="juan" n="16"/>
+<lb ed="X" n="0091c12"/>
 <lb ed="X" n="0091c13"/>
 <lb ed="X" n="0091c14"/><lb ed="R115" n="0695b07"/><cb:juan fun="open" n="016"><cb:mulu type="卷" n="16"/><cb:jhead>宗門拈古彚集卷第十六</cb:jhead></cb:juan>
 <lb ed="X" n="0091c15"/>
@@ -7377,8 +7392,9 @@ new from basic markup
 <lb ed="X" n="0097b20"/><lb ed="R115" n="0707a06"/>賓主行隊。</p>
 <lb ed="X" n="0097b21"/><lb ed="R115" n="0707a07"/>
 <lb ed="X" n="0097b22"/><lb ed="R115" n="0707a08"/><cb:juan fun="close" n="016"><cb:jhead>宗門拈古彚集卷第十六</cb:jhead></cb:juan>
+<milestone unit="juan" n="17"/>
 <pb ed="X" xml:id="X66.1296.0097c" n="0097c"/>
-<lb ed="X" n="0097c01"/><milestone unit="juan" n="17"/>
+<lb ed="X" n="0097c01"/>
 <lb ed="X" n="0097c02"/>
 <lb ed="X" n="0097c03"/><lb ed="R115" n="0707a10"/><cb:juan fun="open" n="017"><cb:mulu type="卷" n="17"/><cb:jhead>宗門拈古彚集卷第十七</cb:jhead></cb:juan>
 <lb ed="X" n="0097c04"/>
@@ -7777,8 +7793,9 @@ new from basic markup
 <lb ed="X" n="0102c22"/><lb ed="R115" n="0717b10"/>蛇尾。諸禪德。且道那裏是他龍頭蛇尾。試檢點看。</p></cb:div>
 <lb ed="X" n="0102c23"/><lb ed="R115" n="0717b11"/>
 <lb ed="X" n="0102c24"/><lb ed="R115" n="0717b12"/><cb:juan fun="close" n="017"><cb:jhead>宗門拈古彚集卷第十七</cb:jhead></cb:juan>
+<milestone unit="juan" n="18"/>
 <pb ed="X" xml:id="X66.1296.0103a" n="0103a"/>
-<lb ed="X" n="0103a01"/><milestone unit="juan" n="18"/>
+<lb ed="X" n="0103a01"/>
 <lb ed="X" n="0103a02"/>
 <lb ed="X" n="0103a03"/><lb ed="R115" n="0718a01"/><cb:juan fun="open" n="018"><cb:mulu type="卷" n="18"/><cb:jhead>宗門拈古彚集卷第十八</cb:jhead></cb:juan>
 <lb ed="X" n="0103a04"/>
@@ -8235,7 +8252,8 @@ new from basic markup
 <lb ed="X" n="0109a05"/><lb ed="R115" n="0730a02"/>有分。</p></cb:div>
 <lb ed="X" n="0109a06"/><lb ed="R115" n="0730a03"/>
 <lb ed="X" n="0109a07"/><lb ed="R115" n="0730a04"/><cb:juan fun="close" n="018"><cb:jhead>宗門拈古彚集卷第十八</cb:jhead></cb:juan>
-<lb ed="X" n="0109a08"/><milestone unit="juan" n="19"/>
+<milestone unit="juan" n="19"/>
+<lb ed="X" n="0109a08"/>
 <lb ed="X" n="0109a09"/>
 <lb ed="X" n="0109a10"/><lb ed="R115" n="0730a06"/><cb:juan fun="open" n="019"><cb:mulu type="卷" n="19"/><cb:jhead>宗門拈古彚集卷第十九</cb:jhead></cb:juan>
 <lb ed="X" n="0109a11"/>
@@ -8632,7 +8650,8 @@ new from basic markup
 <lb ed="X" n="0114b02"/><lb ed="R115" n="0740b03"/>斷魂。</p></cb:div>
 <lb ed="X" n="0114b03"/><lb ed="R115" n="0740b04"/>
 <lb ed="X" n="0114b04"/><lb ed="R115" n="0740b05"/><cb:juan fun="close" n="019"><cb:jhead>宗門拈古彚集卷第十九</cb:jhead></cb:juan>
-<lb ed="X" n="0114b05"/><milestone unit="juan" n="20"/>
+<milestone unit="juan" n="20"/>
+<lb ed="X" n="0114b05"/>
 <lb ed="X" n="0114b06"/>
 <lb ed="X" n="0114b07"/><lb ed="R115" n="0740b07"/><cb:juan fun="open" n="020"><cb:mulu type="卷" n="20"/><cb:jhead>宗門拈古彚集卷第二十</cb:jhead></cb:juan>
 <lb ed="X" n="0114b08"/>
@@ -9108,7 +9127,8 @@ new from basic markup
 <lb ed="X" n="0120c03"/><lb ed="R115" n="0753a08"/>指三下。不惟築斷者漢咽喉。亦且自有出路。</p></cb:div>
 <lb ed="X" n="0120c04"/><lb ed="R115" n="0753a09"/>
 <lb ed="X" n="0120c05"/><lb ed="R115" n="0753a10"/><cb:juan fun="close" n="020"><cb:jhead>宗門拈古彚集卷第二十</cb:jhead></cb:juan>
-<lb ed="X" n="0120c06"/><milestone unit="juan" n="21"/>
+<milestone unit="juan" n="21"/>
+<lb ed="X" n="0120c06"/>
 <lb ed="X" n="0120c07"/>
 <lb ed="X" n="0120c08"/><lb ed="R115" n="0753a12"/><cb:juan fun="open" n="021"><cb:mulu type="卷" n="21"/><cb:jhead>宗門拈古彚集卷第二十一</cb:jhead></cb:juan>
 <lb ed="X" n="0120c09"/>
@@ -9627,8 +9647,9 @@ new from basic markup
 <lb ed="X" n="0127b22"/><lb ed="R115" n="0767a01"/>僧一拶。幾乎屈辱大溈。</p></cb:div>
 <lb ed="X" n="0127b23"/><lb ed="R115" n="0767a02"/>
 <lb ed="X" n="0127b24"/><lb ed="R115" n="0767a03"/><cb:juan fun="close" n="021"><cb:jhead>宗門拈古彚集卷第二十一</cb:jhead></cb:juan>
+<milestone unit="juan" n="22"/>
 <pb ed="X" xml:id="X66.1296.0127c" n="0127c"/>
-<lb ed="X" n="0127c01"/><milestone unit="juan" n="22"/>
+<lb ed="X" n="0127c01"/>
 <lb ed="X" n="0127c02"/>
 <lb ed="X" n="0127c03"/><lb ed="R115" n="0767a05"/><cb:juan fun="open" n="022"><cb:mulu type="卷" n="22"/><cb:jhead>宗門拈古彚集卷第二十二</cb:jhead></cb:juan>
 <lb ed="X" n="0127c04"/>
@@ -9985,7 +10006,8 @@ new from basic markup
 <lb ed="X" n="0132b05"/><lb ed="R115" n="0776a18"/>多人到者裏。一似遇著鐵壁。</p></cb:div>
 <lb ed="X" n="0132b06"/>
 <lb ed="X" n="0132b07"/><lb ed="R115" n="0776a18"/><cb:juan fun="close" n="022"><cb:jhead>宗門拈古彚集卷第二十二</cb:jhead></cb:juan>
-<lb ed="X" n="0132b08"/><milestone unit="juan" n="23"/>
+<milestone unit="juan" n="23"/>
+<lb ed="X" n="0132b08"/>
 <lb ed="X" n="0132b09"/><lb ed="R115" n="0776b01"/><cb:juan fun="open" n="023"><cb:mulu type="卷" n="23"/><cb:jhead>宗門拈古彚集卷第二十三</cb:jhead></cb:juan>
 <lb ed="X" n="0132b10"/>
 <lb ed="X" n="0132b11"/><lb ed="R115" n="0776b02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
@@ -10396,8 +10418,9 @@ new from basic markup
 <lb ed="X" n="0137c16"/><lb ed="R115" n="0787a13"/>還他德山父子。雖然。燕山猶有石。須勒幾人名。</p></cb:div>
 <lb ed="X" n="0137c17"/><lb ed="R115" n="0787a14"/>
 <lb ed="X" n="0137c18"/><lb ed="R115" n="0787a15"/><cb:juan fun="close" n="023"><cb:jhead>宗門拈古彚集卷第二十三</cb:jhead></cb:juan>
+<milestone unit="juan" n="24"/>
 <pb ed="X" xml:id="X66.1296.0138a" n="0138a"/>
-<lb ed="X" n="0138a01"/><lb ed="R115" n="0787b01"/><milestone unit="juan" n="24"/><cb:juan fun="open" n="024"><cb:mulu type="卷" n="24"/><cb:jhead>宗門拈古彚集卷第二十四</cb:jhead></cb:juan>
+<lb ed="X" n="0138a01"/><lb ed="R115" n="0787b01"/><cb:juan fun="open" n="024"><cb:mulu type="卷" n="24"/><cb:jhead>宗門拈古彚集卷第二十四</cb:jhead></cb:juan>
 <lb ed="X" n="0138a02"/><lb ed="R115" n="0787b02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
 <lb ed="X" n="0138a03"/><lb ed="R115" n="0787b03"/><p xml:id="pX66p0138a0301" cb:type="head1">△青四</p>
 <lb ed="X" n="0138a04"/><lb ed="R115" n="0787b04"/><cb:div type="other"><cb:mulu type="其他" level="2">舒州投子大同禪師</cb:mulu><head>舒州投子大同禪師<note place="inline">青四翠微學嗣</note></head><p xml:id="pX66p0138a0415" cb:place="inline">一日指菴前一片石向
@@ -10750,7 +10773,8 @@ new from basic markup
 <lb ed="X" n="0142c01"/><lb ed="R115" n="0796b13"/>山此語只好信他一半。</p></cb:div>
 <lb ed="X" n="0142c02"/><lb ed="R115" n="0796b14"/>
 <lb ed="X" n="0142c03"/><lb ed="R115" n="0796b15"/><cb:juan fun="close" n="024"><cb:jhead>宗門拈古彚集卷第二十四</cb:jhead></cb:juan>
-<lb ed="X" n="0142c04"/><milestone unit="juan" n="25"/>
+<milestone unit="juan" n="25"/>
+<lb ed="X" n="0142c04"/>
 <lb ed="X" n="0142c05"/>
 <lb ed="X" n="0142c06"/><lb ed="R115" n="0797a01"/><cb:juan fun="open" n="025"><cb:mulu type="卷" n="25"/><cb:jhead>宗門拈古彚集卷第二十五</cb:jhead></cb:juan>
 <lb ed="X" n="0142c07"/>
@@ -11188,7 +11212,8 @@ new from basic markup
 <lb ed="X" n="0148b14"/><lb ed="R115" n="0808b02"/>老漢一釣便上。管教幽溪死在手裏。</p></cb:div></cb:div>
 <lb ed="X" n="0148b15"/><lb ed="R115" n="0808b03"/>
 <lb ed="X" n="0148b16"/><lb ed="R115" n="0808b04"/><cb:juan fun="close" n="025"><cb:jhead>宗門拈古彚集卷第二十五</cb:jhead></cb:juan>
-<lb ed="X" n="0148b17"/><milestone unit="juan" n="26"/>
+<milestone unit="juan" n="26"/>
+<lb ed="X" n="0148b17"/>
 <lb ed="X" n="0148b18"/>
 <lb ed="X" n="0148b19"/><lb ed="R115" n="0808b06"/><cb:juan fun="open" n="026"><cb:mulu type="卷" n="26"/><cb:jhead>宗門拈古彚集卷第二十六</cb:jhead></cb:juan>
 <lb ed="X" n="0148b20"/>
@@ -11671,8 +11696,9 @@ new from basic markup
 <lb ed="X" n="0154c22"/><lb ed="R115" n="0821a14"/>惡。好與二十笤帚。</p></cb:div>
 <lb ed="X" n="0154c23"/><lb ed="R115" n="0821a15"/>
 <lb ed="X" n="0154c24"/><lb ed="R115" n="0821a16"/><cb:juan fun="close" n="026"><cb:jhead>宗門拈古彚集卷第二十六</cb:jhead></cb:juan>
+<milestone unit="juan" n="27"/>
 <pb ed="X" xml:id="X66.1296.0155a" n="0155a"/>
-<lb ed="X" n="0155a01"/><milestone unit="juan" n="27"/>
+<lb ed="X" n="0155a01"/>
 <lb ed="X" n="0155a02"/>
 <lb ed="X" n="0155a03"/><lb ed="R115" n="0823a01"/><cb:juan fun="open" n="027"><cb:mulu type="卷" n="27"/><cb:jhead>宗門拈古彚集卷第二十七</cb:jhead></cb:juan>
 <lb ed="X" n="0155a04"/>
@@ -12051,7 +12077,8 @@ new from basic markup
 <lb ed="X" n="0160a02"/><lb ed="R115" n="0832b17"/>以言句取則。若迹解求之。未免諳圖索馬也。</p></cb:div>
 <lb ed="X" n="0160a03"/>
 <lb ed="X" n="0160a04"/><lb ed="R115" n="0832b18"/><cb:juan fun="close" n="027"><cb:jhead>宗門拈古彚集卷第二十七</cb:jhead></cb:juan>
-<lb ed="X" n="0160a05"/><milestone unit="juan" n="28"/>
+<milestone unit="juan" n="28"/>
+<lb ed="X" n="0160a05"/>
 <lb ed="X" n="0160a06"/><lb ed="R115" n="0833a01"/><cb:juan fun="open" n="028"><cb:mulu type="卷" n="28"/><cb:jhead>宗門拈古彚集卷第二十八</cb:jhead></cb:juan>
 <lb ed="X" n="0160a07"/>
 <lb ed="X" n="0160a08"/><lb ed="R115" n="0833a02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
@@ -12528,7 +12555,8 @@ new from basic markup
 <lb ed="X" n="0166b04"/><lb ed="R115" n="0845b04"/>新豐老人。便見氷消瓦解。</p></cb:div>
 <lb ed="X" n="0166b05"/><lb ed="R115" n="0845b05"/>
 <lb ed="X" n="0166b06"/><lb ed="R115" n="0845b06"/><cb:juan fun="close" n="028"><cb:jhead>宗門拈古彚集卷第二十八</cb:jhead></cb:juan>
-<lb ed="X" n="0166b07"/><milestone unit="juan" n="29"/>
+<milestone unit="juan" n="29"/>
+<lb ed="X" n="0166b07"/>
 <lb ed="X" n="0166b08"/>
 <lb ed="X" n="0166b09"/><lb ed="R115" n="0845b08"/><cb:juan fun="open" n="029"><cb:mulu type="卷" n="29"/><cb:jhead>宗門拈古彚集卷第二十九</cb:jhead></cb:juan>
 <lb ed="X" n="0166b10"/>
@@ -12967,8 +12995,9 @@ new from basic markup
 <lb ed="X" n="0172a18"/><lb ed="R115" n="0857a10"/>用其中於民。</p></cb:div>
 <lb ed="X" n="0172a19"/><lb ed="R115" n="0857a11"/>
 <lb ed="X" n="0172a20"/><lb ed="R115" n="0857a12"/><cb:juan fun="close" n="029"><cb:jhead>宗門拈古彚集卷第二十九</cb:jhead></cb:juan>
+<milestone unit="juan" n="30"/>
 <pb ed="X" xml:id="X66.1296.0172b" n="0172b"/>
-<lb ed="X" n="0172b01"/><lb ed="R115" n="0857b01"/><milestone unit="juan" n="30"/><cb:juan fun="open" n="030"><cb:mulu type="卷" n="30"/><cb:jhead>宗門拈古彚集卷第三十</cb:jhead></cb:juan>
+<lb ed="X" n="0172b01"/><lb ed="R115" n="0857b01"/><cb:juan fun="open" n="030"><cb:mulu type="卷" n="30"/><cb:jhead>宗門拈古彚集卷第三十</cb:jhead></cb:juan>
 <lb ed="X" n="0172b02"/><lb ed="R115" n="0857b02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
 <lb ed="X" n="0172b03"/><lb ed="R115" n="0857b03"/><p xml:id="pX66p0172b0301" cb:type="head1">△青五</p>
 <lb ed="X" n="0172b04"/><lb ed="R115" n="0857b04"/><cb:div type="other"><cb:mulu type="其他" level="2">撫州曹山本寂禪師</cb:mulu><head>撫州曹山本寂禪師<note place="inline">青五洞山价嗣</note></head><p xml:id="pX66p0172b0415" cb:place="inline">僧問世間什麼物最貴。
@@ -13357,7 +13386,8 @@ new from basic markup
 <lb ed="X" n="0177b12"/><lb ed="R115" n="0867b12"/>蔡州。</p></cb:div>
 <lb ed="X" n="0177b13"/><lb ed="R115" n="0867b13"/>
 <lb ed="X" n="0177b14"/><lb ed="R115" n="0867b14"/><cb:juan fun="close" n="030"><cb:jhead>宗門拈古彚集卷第三十</cb:jhead></cb:juan>
-<lb ed="X" n="0177b15"/><milestone unit="juan" n="31"/>
+<milestone unit="juan" n="31"/>
+<lb ed="X" n="0177b15"/>
 <lb ed="X" n="0177b16"/>
 <lb ed="X" n="0177b17"/><lb ed="R115" n="0868a01"/><cb:juan fun="open" n="031"><cb:mulu type="卷" n="31"/><cb:jhead>宗門拈古彚集卷第三十一</cb:jhead></cb:juan>
 <lb ed="X" n="0177b18"/>
@@ -13790,8 +13820,9 @@ new from basic markup
 <lb ed="X" n="0183a20"/><lb ed="R115" n="0879a15"/>管放火燒山。<note n="0183a2001" resp="CBETA" type="add">卻【CB】，郤【卍續】</note><app n="0183a2001"><lem wit="【CB】" resp="CBETA.maha">卻</lem><rdg wit="【卍續】">郤</rdg></app>不許人點燈喫飯。</p></cb:div></cb:div>
 <lb ed="X" n="0183a21"/><lb ed="R115" n="0879a16"/>
 <lb ed="X" n="0183a22"/><lb ed="R115" n="0879a17"/><cb:juan fun="close" n="031"><cb:jhead>宗門拈古彚集卷第三十一</cb:jhead></cb:juan>
+<milestone unit="juan" n="32"/>
 <pb ed="X" xml:id="X66.1296.0183b" n="0183b"/>
-<lb ed="X" n="0183b01"/><lb ed="R115" n="0879b01"/><milestone unit="juan" n="32"/><cb:juan fun="open" n="032"><cb:mulu type="卷" n="32"/><cb:jhead>宗門拈古彚集卷第三十二</cb:jhead></cb:juan>
+<lb ed="X" n="0183b01"/><lb ed="R115" n="0879b01"/><cb:juan fun="open" n="032"><cb:mulu type="卷" n="32"/><cb:jhead>宗門拈古彚集卷第三十二</cb:jhead></cb:juan>
 <lb ed="X" n="0183b02"/><lb ed="R115" n="0879b02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
 <lb ed="X" n="0183b03"/><lb ed="R115" n="0879b03"/><cb:div type="other"><cb:mulu type="其他" level="1">南六</cb:mulu><head>△南六</head>
 <lb ed="X" n="0183b04"/><lb ed="R115" n="0879b04"/><cb:div type="other"><cb:mulu type="其他" level="2">汝州南院寶應慧顒禪師</cb:mulu><head>汝州南院寶應慧顒禪師<note place="inline">南六興化獎嗣</note></head><p xml:id="pX66p0183b0417" cb:place="inline">上堂。赤肉團上壁
@@ -14309,8 +14340,9 @@ new from basic markup
 <lb ed="X" n="0190a16"/><lb ed="R115" n="0893a10"/>時如。何但向道你是作家。</p></cb:div></cb:div>
 <lb ed="X" n="0190a17"/><lb ed="R115" n="0893a11"/>
 <lb ed="X" n="0190a18"/><lb ed="R115" n="0893a12"/><cb:juan fun="close" n="032"><cb:jhead>宗門拈古彚集卷第三十二</cb:jhead></cb:juan>
+<milestone unit="juan" n="33"/>
 <pb ed="X" xml:id="X66.1296.0190b" n="0190b"/>
-<lb ed="X" n="0190b01"/><lb ed="R115" n="0893b01"/><milestone unit="juan" n="33"/><cb:juan fun="open" n="033"><cb:mulu type="卷" n="33"/><cb:jhead>宗門拈古彚集卷第三十三</cb:jhead></cb:juan>
+<lb ed="X" n="0190b01"/><lb ed="R115" n="0893b01"/><cb:juan fun="open" n="033"><cb:mulu type="卷" n="33"/><cb:jhead>宗門拈古彚集卷第三十三</cb:jhead></cb:juan>
 <lb ed="X" n="0190b02"/><lb ed="R115" n="0893b02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
 <lb ed="X" n="0190b03"/><lb ed="R115" n="0893b03"/><cb:div type="other"><cb:mulu type="其他" level="1">青六</cb:mulu><head>△青六</head>
 <lb ed="X" n="0190b04"/><lb ed="R115" n="0893b04"/><cb:div type="other"><cb:mulu type="其他" level="2">洪州同安常察禪師</cb:mulu><head>洪州同安常察禪師<note place="inline">青六九峰䖍嗣</note></head><p xml:id="pX66p0190b0415" cb:place="inline">僧新到。遶禪牀三帀振
@@ -14781,8 +14813,9 @@ new from basic markup
 <lb ed="X" n="0196b19"/><lb ed="R115" n="0906a01"/>喜。然望他堂奧總未在。</p></cb:div>
 <lb ed="X" n="0196b20"/><lb ed="R115" n="0906a02"/>
 <lb ed="X" n="0196b21"/><lb ed="R115" n="0906a03"/><cb:juan fun="close" n="033"><cb:jhead>宗門拈古彚集卷第三十三</cb:jhead></cb:juan>
+<milestone unit="juan" n="34"/>
 <pb ed="X" xml:id="X66.1296.0196c" n="0196c"/>
-<lb ed="X" n="0196c01"/><lb ed="R115" n="0906a05"/><milestone unit="juan" n="34"/><cb:juan fun="open" n="034"><cb:mulu type="卷" n="34"/><cb:jhead>宗門拈古彚集卷第三十四</cb:jhead></cb:juan>
+<lb ed="X" n="0196c01"/><lb ed="R115" n="0906a05"/><cb:juan fun="open" n="034"><cb:mulu type="卷" n="34"/><cb:jhead>宗門拈古彚集卷第三十四</cb:jhead></cb:juan>
 <lb ed="X" n="0196c02"/><lb ed="R115" n="0906a06"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
 <lb ed="X" n="0196c03"/><lb ed="R115" n="0906a07"/><p xml:id="pX66p0196c0301" cb:type="head1">△青六</p>
 <lb ed="X" n="0196c04"/><lb ed="R115" n="0906a08"/><cb:div type="other"><cb:mulu type="其他" level="2">福州長慶慧稜禪師</cb:mulu><head>福州長慶慧稜禪師<note place="inline">青六雪峰存嗣</note></head><p xml:id="pX66p0196c0415" cb:place="inline">因僧問。眾手淘金誰是
@@ -15171,7 +15204,8 @@ new from basic markup
 <lb ed="X" n="0201c12"/><lb ed="R115" n="0916a16"/>未夢見在。</p></cb:div>
 <lb ed="X" n="0201c13"/><lb ed="R115" n="0916a17"/>
 <lb ed="X" n="0201c14"/><lb ed="R115" n="0916a18"/><cb:juan fun="close" n="034"><cb:jhead>宗門拈古彚集卷第三十四</cb:jhead></cb:juan>
-<lb ed="X" n="0201c15"/><milestone unit="juan" n="35"/>
+<milestone unit="juan" n="35"/>
+<lb ed="X" n="0201c15"/>
 <lb ed="X" n="0201c16"/>
 <lb ed="X" n="0201c17"/><lb ed="R115" n="0916b01"/><cb:juan fun="open" n="035"><cb:mulu type="卷" n="35"/><cb:jhead>宗門拈古彚集卷第三十五</cb:jhead></cb:juan>
 <lb ed="X" n="0201c18"/>
@@ -15613,7 +15647,8 @@ new from basic markup
 <lb ed="X" n="0207c04"/><lb ed="R115" n="0928a05"/>處也。劈頭便打云。汝為什麼又深入者一重。</p></cb:div>
 <lb ed="X" n="0207c05"/><lb ed="R115" n="0928a06"/>
 <lb ed="X" n="0207c06"/><lb ed="R115" n="0928a07"/><cb:juan fun="close" n="035"><cb:jhead>宗門拈古彚集卷第三十五</cb:jhead></cb:juan>
-<lb ed="X" n="0207c07"/><milestone unit="juan" n="36"/>
+<milestone unit="juan" n="36"/>
+<lb ed="X" n="0207c07"/>
 <lb ed="X" n="0207c08"/>
 <lb ed="X" n="0207c09"/><lb ed="R115" n="0928a09"/><cb:juan fun="open" n="036"><cb:mulu type="卷" n="36"/><cb:jhead>宗門拈古彚集卷第三十六</cb:jhead></cb:juan>
 <lb ed="X" n="0207c10"/>
@@ -16013,7 +16048,8 @@ new from basic markup
 <lb ed="X" n="0213a04"/><lb ed="R115" n="0938b09"/>麼處。只劈口便掌。</p></cb:div>
 <lb ed="X" n="0213a05"/><lb ed="R115" n="0938b10"/>
 <lb ed="X" n="0213a06"/><lb ed="R115" n="0938b11"/><cb:juan fun="close" n="036"><cb:jhead>宗門拈古彚集卷第三十六</cb:jhead></cb:juan>
-<lb ed="X" n="0213a07"/><milestone unit="juan" n="37"/>
+<milestone unit="juan" n="37"/>
+<lb ed="X" n="0213a07"/>
 <lb ed="X" n="0213a08"/>
 <lb ed="X" n="0213a09"/><lb ed="R115" n="0938b13"/><cb:juan fun="open" n="037"><cb:mulu type="卷" n="37"/><cb:jhead>宗門拈古彚集卷第三十七</cb:jhead></cb:juan>
 <lb ed="X" n="0213a10"/>
@@ -16442,7 +16478,8 @@ new from basic markup
 <lb ed="X" n="0218c08"/><lb ed="R115" n="0950a05"/>麼。良久乃曰。倚天長劍用無痕。</p></cb:div></cb:div>
 <lb ed="X" n="0218c09"/><lb ed="R115" n="0950a06"/>
 <lb ed="X" n="0218c10"/><lb ed="R115" n="0950a07"/><cb:juan fun="close" n="037"><cb:jhead>宗門拈古彚集卷第三十七</cb:jhead></cb:juan>
-<lb ed="X" n="0218c11"/><milestone unit="juan" n="38"/>
+<milestone unit="juan" n="38"/>
+<lb ed="X" n="0218c11"/>
 <lb ed="X" n="0218c12"/>
 <lb ed="X" n="0218c13"/><lb ed="R115" n="0950a09"/><cb:juan fun="open" n="038"><cb:mulu type="卷" n="38"/><cb:jhead>宗門拈古彚集卷第三十八</cb:jhead></cb:juan>
 <lb ed="X" n="0218c14"/>
@@ -16904,8 +16941,9 @@ new from basic markup
 <lb ed="X" n="0224c20"/><lb ed="R115" n="0962a15"/>更須勘道始得。</p></cb:div></cb:div>
 <lb ed="X" n="0224c21"/><lb ed="R115" n="0962a16"/>
 <lb ed="X" n="0224c22"/><lb ed="R115" n="0962a17"/><cb:juan fun="close" n="038"><cb:jhead>宗門拈古彚集卷第三十八</cb:jhead></cb:juan>
+<milestone unit="juan" n="39"/>
 <pb ed="X" xml:id="X66.1296.0225a" n="0225a"/>
-<lb ed="X" n="0225a01"/><lb ed="R115" n="0962b01"/><milestone unit="juan" n="39"/><cb:juan fun="open" n="039"><cb:mulu type="卷" n="39"/><cb:jhead>宗門拈古彚集卷第三十九</cb:jhead></cb:juan>
+<lb ed="X" n="0225a01"/><lb ed="R115" n="0962b01"/><cb:juan fun="open" n="039"><cb:mulu type="卷" n="39"/><cb:jhead>宗門拈古彚集卷第三十九</cb:jhead></cb:juan>
 <lb ed="X" n="0225a02"/><lb ed="R115" n="0962b02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
 <lb ed="X" n="0225a03"/><lb ed="R115" n="0962b03"/><cb:div type="other"><cb:mulu type="其他" level="1">南八</cb:mulu><head>△南八</head>
 <lb ed="X" n="0225a04"/><lb ed="R115" n="0962b04"/><cb:div type="other"><cb:mulu type="其他" level="2">汝州首山省念禪師</cb:mulu><head>汝州首山省念禪師<note place="inline">南八風穴沼嗣</note></head><p xml:id="pX66p0225a0415" cb:place="inline">示眾。拈竹篦曰。喚作竹
@@ -17316,7 +17354,8 @@ new from basic markup
 <lb ed="X" n="0230b09"/><lb ed="R115" n="0973a15"/>山僧者裏。并須喫棒趁出。</p></cb:div></cb:div>
 <lb ed="X" n="0230b10"/><lb ed="R115" n="0973a16"/>
 <lb ed="X" n="0230b11"/><lb ed="R115" n="0973a17"/><cb:juan fun="close" n="039"><cb:jhead>宗門拈古彚集卷第三十九</cb:jhead></cb:juan>
-<lb ed="X" n="0230b12"/><milestone unit="juan" n="40"/>
+<milestone unit="juan" n="40"/>
+<lb ed="X" n="0230b12"/>
 <lb ed="X" n="0230b13"/>
 <lb ed="X" n="0230b14"/><lb ed="R115" n="0973b01"/><cb:juan fun="open" n="040"><cb:mulu type="卷" n="40"/><cb:jhead>宗門拈古彚集卷第四十</cb:jhead></cb:juan>
 <lb ed="X" n="0230b15"/>
@@ -17819,7 +17858,8 @@ new from basic markup
 <lb ed="X" n="0237a12"/><lb ed="R115" n="0986b10"/>免見後來費却許多唇舌。至今遭人撿點。</p></cb:div></cb:div>
 <lb ed="X" n="0237a13"/><lb ed="R115" n="0986b11"/>
 <lb ed="X" n="0237a14"/><lb ed="R115" n="0986b12"/><cb:juan fun="close" n="040"><cb:jhead>宗門拈古彚集卷第四十</cb:jhead></cb:juan>
-<lb ed="X" n="0237a15"/><milestone unit="juan" n="41"/>
+<milestone unit="juan" n="41"/>
+<lb ed="X" n="0237a15"/>
 <lb ed="X" n="0237a16"/>
 <lb ed="X" n="0237a17"/><lb ed="R115" n="0987a01"/><cb:juan fun="open" n="041"><cb:mulu type="卷" n="41"/><cb:jhead>宗門拈古彚集卷第四十一</cb:jhead></cb:juan>
 <lb ed="X" n="0237a18"/>
@@ -18249,8 +18289,9 @@ new from basic markup
 <lb ed="X" n="0242c17"/><lb ed="R115" n="0998a12"/>也是心斜不覺口歪。</p></cb:div></cb:div>
 <lb ed="X" n="0242c18"/><lb ed="R115" n="0998a13"/>
 <lb ed="X" n="0242c19"/><lb ed="R115" n="0998a14"/><cb:juan fun="close" n="041"><cb:jhead>宗門拈古彚集卷第四十一</cb:jhead></cb:juan>
+<milestone unit="juan" n="42"/>
 <pb ed="X" xml:id="X66.1296.0243a" n="0243a"/>
-<lb ed="X" n="0243a01"/><lb ed="R115" n="0998b01"/><milestone unit="juan" n="42"/><cb:juan fun="open" n="042"><cb:mulu type="卷" n="42"/><cb:jhead>宗門拈古彚集卷第四十二</cb:jhead></cb:juan>
+<lb ed="X" n="0243a01"/><lb ed="R115" n="0998b01"/><cb:juan fun="open" n="042"><cb:mulu type="卷" n="42"/><cb:jhead>宗門拈古彚集卷第四十二</cb:jhead></cb:juan>
 <lb ed="X" n="0243a02"/><lb ed="R115" n="0998b02"/><byline cb:type="Collector">古杭白巖嗣祖沙門　淨符　彚集</byline>
 <lb ed="X" n="0243a03"/><lb ed="R115" n="0998b03"/><cb:div type="other"><cb:mulu type="其他" level="1">南十一</cb:mulu><head>△南十一</head>
 <lb ed="X" n="0243a04"/><lb ed="R115" n="0998b04"/><cb:div type="other"><cb:mulu type="其他" level="2">洪州黃龍慧南禪師</cb:mulu><head>洪州黃龍慧南禪師<note place="inline">南十一慈明圓嗣</note></head><p xml:id="pX66p0243a0416" cb:place="inline">因化主歸上堂。世間
@@ -18724,8 +18765,9 @@ new from basic markup
 <lb ed="X" n="0249a22"/><lb ed="R115" n="1011a04"/>乃擊案一下云。天意高難問。人情老易悲。</p></cb:div></cb:div>
 <lb ed="X" n="0249a23"/><lb ed="R115" n="1011a05"/>
 <lb ed="X" n="0249a24"/><lb ed="R115" n="1011a06"/><cb:juan fun="close" n="042"><cb:jhead>宗門拈古彚集卷第四十二</cb:jhead></cb:juan>
+<milestone unit="juan" n="43"/>
 <pb ed="X" xml:id="X66.1296.0249b" n="0249b"/>
-<lb ed="X" n="0249b01"/><milestone unit="juan" n="43"/>
+<lb ed="X" n="0249b01"/>
 <lb ed="X" n="0249b02"/>
 <lb ed="X" n="0249b03"/><lb ed="R115" n="1011a08"/><cb:juan fun="open" n="043"><cb:mulu type="卷" n="43"/><cb:jhead>宗門拈古彚集卷第四十三</cb:jhead></cb:juan>
 <lb ed="X" n="0249b04"/>
@@ -19098,8 +19140,9 @@ new from basic markup
 <lb ed="X" n="0254a21"/><lb ed="R115" n="1021a01"/><p xml:id="pX66p0254a2101" style="margin-left:1em">青龍操云。自口裏水漉漉地。要人勦截恐難在。</p></cb:div></cb:div>
 <lb ed="X" n="0254a22"/><lb ed="R115" n="1021a02"/>
 <lb ed="X" n="0254a23"/><lb ed="R115" n="1021a03"/><cb:juan fun="close" n="043"><cb:jhead>宗門拈古彚集卷第四十三</cb:jhead></cb:juan>
+<milestone unit="juan" n="44"/>
 <pb ed="X" xml:id="X66.1296.0254b" n="0254b"/>
-<lb ed="X" n="0254b01"/><milestone unit="juan" n="44"/>
+<lb ed="X" n="0254b01"/>
 <lb ed="X" n="0254b02"/>
 <lb ed="X" n="0254b03"/><lb ed="R115" n="1021a05"/><cb:juan fun="open" n="044"><cb:mulu type="卷" n="44"/><cb:jhead>宗門拈古彚集卷第四十四</cb:jhead></cb:juan>
 <lb ed="X" n="0254b04"/>
@@ -19514,7 +19557,8 @@ new from basic markup
 <lb ed="X" n="0259c13"/><lb ed="R115" n="1032a02"/>瓶山者裏。好各與三十笤<g ref="#CB00416"/>。</p></cb:div></cb:div>
 <lb ed="X" n="0259c14"/><lb ed="R115" n="1032a03"/>
 <lb ed="X" n="0259c15"/><lb ed="R115" n="1032a04"/><cb:juan fun="close" n="044"><cb:jhead>宗門拈古彚集卷第四十四</cb:jhead></cb:juan>
-<lb ed="X" n="0259c16"/><milestone unit="juan" n="45"/>
+<milestone unit="juan" n="45"/>
+<lb ed="X" n="0259c16"/>
 <lb ed="X" n="0259c17"/>
 <lb ed="X" n="0259c18"/><lb ed="R115" n="1032a06"/><cb:juan fun="open" n="045"><cb:mulu type="卷" n="45"/><cb:jhead>宗門拈古彚集卷第四十五</cb:jhead></cb:juan>
 <lb ed="X" n="0259c19"/>

@@ -84,9 +84,9 @@ new from basic markup
 </revisionDesc>
 </teiHeader>
 <text><body>
+<milestone unit="juan" n="1"/>
 <pb ed="X" xml:id="X71.1412.0206a" n="0206a"/>
 <lb ed="X" n="0206a01"/>
-<milestone unit="juan" n="1"/>
 <lb ed="X" n="0206a02"/><cb:div type="xu"><cb:mulu type="序" level="1">No. 1412-A 古林和尚語錄序</cb:mulu><head>No. 1412-A
 <lb ed="X" n="0206a03"/><lb ed="R123" n="0407a01"/> 古林和尚語錄序</head>
 <lb ed="X" n="0206a04"/>
@@ -918,7 +918,8 @@ new from basic markup
 <lb ed="X" n="0217a05"/><lb ed="R123" n="0429a01"/>云。無人過價。打與三百。下座。</p></cb:div>
 <lb ed="X" n="0217a06"/><lb ed="R123" n="0429a02"/>
 <lb ed="X" n="0217a07"/><lb ed="R123" n="0429a03"/><cb:juan fun="close" n="001"><cb:jhead>古林和尚語錄卷第一</cb:jhead></cb:juan>
-<lb ed="X" n="0217a08"/><milestone unit="juan" n="2"/>
+<milestone unit="juan" n="2"/>
+<lb ed="X" n="0217a08"/>
 <lb ed="X" n="0217a09"/>
 <lb ed="X" n="0217a10"/>
 <lb ed="X" n="0217a11"/><lb ed="R123" n="0429a05"/><cb:juan fun="open" n="002"><cb:mulu type="卷" n="2"/><cb:jhead>古林和尚語錄卷第二</cb:jhead></cb:juan>
@@ -1779,8 +1780,9 @@ new from basic markup
 <lb ed="X" n="0228b16"/><lb ed="R123" n="0451b16"/>膽瀝。葵藿向陽傾。</p></cb:div>
 <lb ed="X" n="0228b17"/><lb ed="R123" n="0451b17"/>
 <lb ed="X" n="0228b18"/><lb ed="R123" n="0451b18"/><cb:juan fun="close" n="002"><cb:jhead>古林和尚語錄卷第二</cb:jhead></cb:juan>
+<milestone unit="juan" n="3"/>
 <pb ed="X" xml:id="X71.1412.0228c" n="0228c"/>
-<lb ed="X" n="0228c01"/><lb ed="R123" n="0452a01"/><milestone unit="juan" n="3"/><cb:juan fun="open" n="003"><cb:mulu type="卷" n="3"/><cb:jhead>古林和尚語錄卷第三</cb:jhead></cb:juan>
+<lb ed="X" n="0228c01"/><lb ed="R123" n="0452a01"/><cb:juan fun="open" n="003"><cb:mulu type="卷" n="3"/><cb:jhead>古林和尚語錄卷第三</cb:jhead></cb:juan>
 <lb ed="X" n="0228c02"/><lb ed="R123" n="0452a02"/>
 <lb ed="X" n="0228c03"/><lb ed="R123" n="0452a03"/><cb:div type="other"><cb:mulu type="其他" level="1">重拈雪竇舉古一百則</cb:mulu><head>重拈雪竇舉古一百則</head>
 <lb ed="X" n="0228c04"/><lb ed="R123" n="0452a04"/><byline cb:type="Author">溫陵比丘　承宣　集序</byline>
@@ -2992,7 +2994,8 @@ new from basic markup
 <lb ed="X" n="0244c10"/><lb ed="R123" n="0484a10"/>相呈。直截根源。壁立萬仞。豈不綽綽然有餘裕哉。</p></cb:div></cb:div>
 <lb ed="X" n="0244c11"/><lb ed="R123" n="0484a11"/>
 <lb ed="X" n="0244c12"/><lb ed="R123" n="0484a12"/><cb:juan fun="close" n="003"><cb:jhead>古林和尚語錄卷第三</cb:jhead></cb:juan>
-<lb ed="X" n="0244c13"/><milestone unit="juan" n="4"/>
+<milestone unit="juan" n="4"/>
+<lb ed="X" n="0244c13"/>
 <lb ed="X" n="0244c14"/>
 <lb ed="X" n="0244c15"/>
 <lb ed="X" n="0244c16"/><lb ed="R123" n="0484b01"/><cb:juan fun="open" n="004"><cb:mulu type="卷" n="4"/><cb:jhead>古林和尚語錄卷第四</cb:jhead></cb:juan>
@@ -3773,8 +3776,9 @@ new from basic markup
 <lb ed="X" n="0255a16"/><lb ed="R123" n="0505a07"/>座。</p></cb:div>
 <lb ed="X" n="0255a17"/><lb ed="R123" n="0505a08"/>
 <lb ed="X" n="0255a18"/><lb ed="R123" n="0505a09"/><cb:juan fun="close" n="004"><cb:jhead>古林和尚語錄卷第四</cb:jhead></cb:juan>
+<milestone unit="juan" n="5"/>
 <pb ed="X" xml:id="X71.1412.0255b" n="0255b"/>
-<lb ed="X" n="0255b01"/><lb ed="R123" n="0505a11"/><milestone unit="juan" n="5"/><cb:juan fun="open" n="005"><cb:mulu type="卷" n="5"/><cb:jhead>古林和尚語錄卷第五</cb:jhead></cb:juan>
+<lb ed="X" n="0255b01"/><lb ed="R123" n="0505a11"/><cb:juan fun="open" n="005"><cb:mulu type="卷" n="5"/><cb:jhead>古林和尚語錄卷第五</cb:jhead></cb:juan>
 <lb ed="X" n="0255b02"/><lb ed="R123" n="0505a12"/>
 <lb ed="X" n="0255b03"/><lb ed="R123" n="0505a13"/><cb:div type="other"><cb:mulu type="其他" level="1">真讚</cb:mulu><head>真讚</head>
 <lb ed="X" n="0255b04"/><lb ed="R123" n="0505a14"/><cb:div type="other"><cb:mulu type="其他" level="2">釋迦文佛出山相讚</cb:mulu><head>釋迦文佛出山相讚</head>

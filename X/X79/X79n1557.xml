@@ -237,9 +237,9 @@ no message
 </revisionDesc>
 </teiHeader>
 <text><body>
+<milestone unit="juan" n="1"/>
 <pb ed="X" xml:id="X79.1557.0001a" n="0001a"/>
 <lb ed="X" n="0001a01"/>
-<milestone unit="juan" n="1"/>
 <lb ed="X" n="0001a02"/>
 <lb ed="X" n="0001a03"/>
 <lb ed="X" n="0001a04"/><lb ed="R136" n="0415a01"/><cb:div type="other"><cb:mulu type="其他" level="1">聯燈會要目次</cb:mulu><head><note n="0001001" resp="Xuzangjing" place="foot text" type="orig">改每卷頭目次作總目而置于卷首</note>聯燈會要目次</head>
@@ -1606,7 +1606,8 @@ no message
 <lb ed="X" n="0019a15"/><lb ed="R136" n="0451a09"/>行亦無止。</p></cb:div>
 <lb ed="X" n="0019a16"/><lb ed="R136" n="0451a10"/>
 <lb ed="X" n="0019a17"/><lb ed="R136" n="0451a11"/><cb:juan fun="close" n="001"><cb:jhead>聯燈會要卷第一</cb:jhead></cb:juan>
-<lb ed="X" n="0019a18"/><milestone unit="juan" n="2"/>
+<milestone unit="juan" n="2"/>
+<lb ed="X" n="0019a18"/>
 <lb ed="X" n="0019a19"/><lb ed="R136" n="0451a12"/>
 <lb ed="X" n="0019a20"/><lb ed="R136" n="0451a13"/><cb:juan fun="open" n="002"><cb:mulu type="卷" n="2"/><cb:jhead>聯燈會要卷第二</cb:jhead></cb:juan>
 <lb ed="X" n="0019a21"/>
@@ -2233,8 +2234,9 @@ no message
 <lb ed="X" n="0027b17"/><lb ed="R136" n="0467b15"/>遂作禮而謝。</p></cb:div></cb:div></cb:div></cb:div>
 <lb ed="X" n="0027b18"/><lb ed="R136" n="0467b16"/>
 <lb ed="X" n="0027b19"/><lb ed="R136" n="0467b17"/><cb:juan fun="close" n="002"><cb:jhead>聯燈會要卷第二</cb:jhead></cb:juan>
+<milestone unit="juan" n="3"/>
 <pb ed="X" xml:id="X79.1557.0027c" n="0027c"/>
-<lb ed="X" n="0027c01"/><lb ed="R136" n="0468a01"/><milestone unit="juan" n="3"/><cb:juan fun="open" n="003"><cb:mulu type="卷" n="3"/><cb:jhead>聯燈會要卷第三</cb:jhead></cb:juan>
+<lb ed="X" n="0027c01"/><lb ed="R136" n="0468a01"/><cb:juan fun="open" n="003"><cb:mulu type="卷" n="3"/><cb:jhead>聯燈會要卷第三</cb:jhead></cb:juan>
 <lb ed="X" n="0027c02"/><lb ed="R136" n="0468a02"/><byline cb:type="Collector">住泉州崇福禪寺嗣祖比丘　悟明　集</byline>
 <lb ed="X" n="0027c03"/><lb ed="R136" n="0468a03"/><cb:div type="other"><cb:mulu type="其他" level="2">五祖弘忍大師旁出法嗣</cb:mulu><head>五祖弘忍大師旁出法嗣</head>
 <lb ed="X" n="0027c04"/><lb ed="R136" n="0468a04"/><cb:div type="other"><cb:mulu type="其他" level="3">北宗神秀大師</cb:mulu><head>北宗神秀大師<note place="inline">凡一</note></head><p xml:id="pX79p0027c0435" cb:place="inline">開封尉氏子。</p><p xml:id="pX79p0027c0479" cb:place="inline">示眾云。一切佛法。
@@ -2878,8 +2880,9 @@ no message
 <lb ed="X" n="0036a17"/><lb ed="R136" n="0485a05"/>甲。國師休去。</p></cb:div></cb:div></cb:div></cb:div>
 <lb ed="X" n="0036a18"/><lb ed="R136" n="0485a06"/>
 <lb ed="X" n="0036a19"/><lb ed="R136" n="0485a07"/><cb:juan fun="close" n="003"><cb:jhead>聯燈會要卷第三</cb:jhead></cb:juan>
+<milestone unit="juan" n="4"/>
 <pb ed="X" xml:id="X79.1557.0036b" n="0036b"/>
-<lb ed="X" n="0036b01"/><lb ed="R136" n="0485a09"/><milestone unit="juan" n="4"/><cb:juan fun="open" n="004"><cb:mulu type="卷" n="4"/><cb:jhead>聯燈會要卷第四</cb:jhead></cb:juan>
+<lb ed="X" n="0036b01"/><lb ed="R136" n="0485a09"/><cb:juan fun="open" n="004"><cb:mulu type="卷" n="4"/><cb:jhead>聯燈會要卷第四</cb:jhead></cb:juan>
 <lb ed="X" n="0036b02"/><lb ed="R136" n="0485a10"/><byline cb:type="Collector">住泉州崇福禪寺嗣祖比丘　悟明　集</byline>
 <lb ed="X" n="0036b03"/><lb ed="R136" n="0485a11"/><cb:div type="other"><cb:mulu type="其他" level="2">六祖慧能大師法嗣（南嶽）</cb:mulu><head>六祖慧能大師法嗣</head>
 <lb ed="X" n="0036b04"/><lb ed="R136" n="0485a12"/><cb:div type="other"><cb:mulu type="其他" level="3">潭州南嶽懷讓禪師</cb:mulu><head>潭州南嶽懷讓禪師<note place="inline">凡四</note></head><p xml:id="pX79p0036b0437" cb:place="inline">金州杜氏子。少習毗尼藏。
@@ -3611,7 +3614,8 @@ no message
 <lb ed="X" n="0046a05"/><lb ed="R136" n="0504b07"/><p xml:id="pX79p0046a0501" style="margin-left:2em">石鞏云。語即是。理即未是。</p></cb:div></cb:div></cb:div>
 <lb ed="X" n="0046a06"/><lb ed="R136" n="0504b08"/>
 <lb ed="X" n="0046a07"/><lb ed="R136" n="0504b09"/><cb:juan fun="close" n="004"><cb:jhead>聯燈會要卷第四</cb:jhead></cb:juan>
-<lb ed="X" n="0046a08"/><milestone unit="juan" n="5"/>
+<milestone unit="juan" n="5"/>
+<lb ed="X" n="0046a08"/>
 <lb ed="X" n="0046a09"/><lb ed="R136" n="0504b10"/>
 <lb ed="X" n="0046a10"/><lb ed="R136" n="0504b11"/><cb:juan fun="open" n="005"><cb:mulu type="卷" n="5"/><cb:jhead>聯燈會要卷第五</cb:jhead></cb:juan>
 <lb ed="X" n="0046a11"/>
@@ -4314,7 +4318,8 @@ no message
 <lb ed="X" n="0055b08"/><lb ed="R136" n="0523a14"/>恰與阿師相似。師大笑而<note n="0055b0801" resp="CBETA" type="add">已【CB】，巳【卍續】</note><app n="0055b0801"><lem wit="【CB】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。</p></cb:div></cb:div></cb:div>
 <lb ed="X" n="0055b09"/><lb ed="R136" n="0523a15"/>
 <lb ed="X" n="0055b10"/><lb ed="R136" n="0523a16"/><cb:juan fun="close" n="005"><cb:jhead>聯燈會要卷第五</cb:jhead></cb:juan>
-<lb ed="X" n="0055b11"/><lb ed="R136" n="0523a17"/><milestone unit="juan" n="6"/>
+<milestone unit="juan" n="6"/>
+<lb ed="X" n="0055b11"/><lb ed="R136" n="0523a17"/>
 <lb ed="X" n="0055b12"/><lb ed="R136" n="0523a18"/>
 <lb ed="X" n="0055b13"/><lb ed="R136" n="0523b01"/><cb:juan fun="open" n="006"><cb:mulu type="卷" n="6"/><cb:jhead>聯燈會要卷第六</cb:jhead></cb:juan>
 <lb ed="X" n="0055b14"/>
@@ -4959,7 +4964,8 @@ no message
 <lb ed="X" n="0064a03"/><lb ed="R136" n="0540b02"/>物顯理。甘云。上座且歸溈山好。</p></cb:div></cb:div>
 <lb ed="X" n="0064a04"/><lb ed="R136" n="0540b03"/>
 <lb ed="X" n="0064a05"/><lb ed="R136" n="0540b04"/><cb:juan fun="close" n="006"><cb:jhead>聯燈會要卷第六</cb:jhead></cb:juan>
-<lb ed="X" n="0064a06"/><milestone unit="juan" n="7"/>
+<milestone unit="juan" n="7"/>
+<lb ed="X" n="0064a06"/>
 <lb ed="X" n="0064a07"/><lb ed="R136" n="0540b05"/>
 <lb ed="X" n="0064a08"/><lb ed="R136" n="0540b06"/><cb:juan fun="open" n="007"><cb:mulu type="卷" n="7"/><cb:jhead>聯燈會要卷第七</cb:jhead></cb:juan>
 <lb ed="X" n="0064a09"/>
@@ -5632,7 +5638,8 @@ no message
 <lb ed="X" n="0073a01"/><lb ed="R136" n="0558a16"/>行。請師直道。師云。金木水火土。</p></cb:div></cb:div>
 <lb ed="X" n="0073a02"/><lb ed="R136" n="0558a17"/>
 <lb ed="X" n="0073a03"/><lb ed="R136" n="0558a18"/><cb:juan fun="close" n="007"><cb:jhead>聯燈會要卷第七</cb:jhead></cb:juan>
-<lb ed="X" n="0073a04"/><milestone unit="juan" n="8"/>
+<milestone unit="juan" n="8"/>
+<lb ed="X" n="0073a04"/>
 <lb ed="X" n="0073a05"/>
 <lb ed="X" n="0073a06"/><lb ed="R136" n="0558b01"/><cb:juan fun="open" n="008"><cb:mulu type="卷" n="8"/><cb:jhead>聯燈會要卷第八</cb:jhead></cb:juan>
 <lb ed="X" n="0073a07"/>
@@ -6222,8 +6229,9 @@ no message
 <lb ed="X" n="0080c16"/><lb ed="R136" n="0574a04"/>不容。三乘外法。歷劫希逢。若能如是。是出世雄。</p></cb:div>
 <lb ed="X" n="0080c17"/><lb ed="R136" n="0574a05"/>
 <lb ed="X" n="0080c18"/><lb ed="R136" n="0574a06"/><cb:juan fun="close" n="008"><cb:jhead>聯燈會要卷第八</cb:jhead></cb:juan>
+<milestone unit="juan" n="9"/>
 <pb ed="X" xml:id="X79.1557.0081a" n="0081a"/>
-<lb ed="X" n="0081a01"/><lb ed="R136" n="0574a08"/><milestone unit="juan" n="9"/><cb:juan fun="open" n="009"><cb:mulu type="卷" n="9"/><cb:jhead>聯燈會要卷第九</cb:jhead></cb:juan>
+<lb ed="X" n="0081a01"/><lb ed="R136" n="0574a08"/><cb:juan fun="open" n="009"><cb:mulu type="卷" n="9"/><cb:jhead>聯燈會要卷第九</cb:jhead></cb:juan>
 <lb ed="X" n="0081a02"/><lb ed="R136" n="0574a09"/><byline cb:type="Collector">住泉州崇福禪寺嗣祖比丘　悟明　集</byline>
 <lb ed="X" n="0081a03"/><lb ed="R136" n="0574a10"/><p xml:id="pX79p0081a0301" cb:type="head3">南嶽下第五世</p>
 <lb ed="X" n="0081a04"/><lb ed="R136" n="0574a11"/><p xml:id="pX79p0081a0401" cb:type="head4">筠州黃蘗希運禪師法嗣下</p>
@@ -6920,8 +6928,9 @@ no message
 <lb ed="X" n="0090a20"/><lb ed="R136" n="0592b10"/>遠。先住吳之徑山。後住越之阿育王。可謂吳越
 <lb ed="X" n="0090a21"/><lb ed="R136" n="0592b11"/>令行也。</p><p xml:id="pX79p0090a2104" cb:place="inline">然賢聖讖記。故不可得而知。宗門既無
 <lb ed="X" n="0090a22"/><lb ed="R136" n="0592b12"/>利害。聞諸羣議。謾筆卷末。智者審其疑似焉。</p></cb:div>
+<milestone unit="juan" n="10"/>
 <pb ed="X" xml:id="X79.1557.0090b" n="0090b"/>
-<lb ed="X" n="0090b01"/><lb ed="R136" n="0593a01"/><milestone unit="juan" n="10"/><cb:juan fun="open" n="010"><cb:mulu type="卷" n="10"/><cb:jhead>聯燈會要卷第十</cb:jhead></cb:juan>
+<lb ed="X" n="0090b01"/><lb ed="R136" n="0593a01"/><cb:juan fun="open" n="010"><cb:mulu type="卷" n="10"/><cb:jhead>聯燈會要卷第十</cb:jhead></cb:juan>
 <lb ed="X" n="0090b02"/><lb ed="R136" n="0593a02"/><byline cb:type="Collector">住泉州崇福禪寺嗣祖比丘　悟明　集</byline>
 <lb ed="X" n="0090b03"/><lb ed="R136" n="0593a03"/><p xml:id="pX79p0090b03" cb:type="head3">南嶽下第五世</p>
 <lb ed="X" n="0090b04"/><lb ed="R136" n="0593a04"/><cb:div type="other"><cb:mulu type="其他" level="4">福州長慶大安禪師法嗣</cb:mulu><head>福州長慶大安禪師法嗣</head>
@@ -7490,8 +7499,9 @@ no message
 <lb ed="X" n="0097c17"/><lb ed="R136" n="0608a05"/>收為臨濟嗣。據興化拈香云。我於三聖處。會得
 <lb ed="X" n="0097c18"/><lb ed="R136" n="0608a06"/>賓主句。若不遇大覺師兄。洎乎誤却我平生。故
 <lb ed="X" n="0097c19"/><lb ed="R136" n="0608a07"/>知大覺與興化。同出師門。今依統要為正。</p></cb:div>
+<milestone unit="juan" n="11"/>
 <pb ed="X" xml:id="X79.1557.0098a" n="0098a"/>
-<lb ed="X" n="0098a01"/><lb ed="R136" n="0608a09"/><milestone unit="juan" n="11"/><cb:juan fun="open" n="011"><cb:mulu type="卷" n="11"/><cb:jhead>聯燈會要卷第十一</cb:jhead></cb:juan>
+<lb ed="X" n="0098a01"/><lb ed="R136" n="0608a09"/><cb:juan fun="open" n="011"><cb:mulu type="卷" n="11"/><cb:jhead>聯燈會要卷第十一</cb:jhead></cb:juan>
 <lb ed="X" n="0098a02"/><lb ed="R136" n="0608a10"/><byline cb:type="Collector">住泉州崇福禪寺嗣祖比丘　悟明　集</byline>
 <lb ed="X" n="0098a03"/><lb ed="R136" n="0608a11"/><cb:div type="other"><cb:mulu type="其他" level="3">南嶽下第七世</cb:mulu><head>南嶽下第七世</head>
 <lb ed="X" n="0098a04"/><lb ed="R136" n="0608a12"/><cb:div type="other"><cb:mulu type="其他" level="4">袁州仰山西塔穆禪師法嗣</cb:mulu><head>袁州仰山西塔穆禪師法嗣</head>
@@ -8026,7 +8036,8 @@ no message
 <lb ed="X" n="0105a08"/><lb ed="R136" n="0622a16"/>師云。青絹扇子足風凉。</p></cb:div>
 <lb ed="X" n="0105a09"/><lb ed="R136" n="0622a17"/>
 <lb ed="X" n="0105a10"/><lb ed="R136" n="0622a18"/><cb:juan fun="close" n="011"><cb:jhead>聯燈會要卷第十一</cb:jhead></cb:juan>
-<lb ed="X" n="0105a11"/><milestone unit="juan" n="12"/>
+<milestone unit="juan" n="12"/>
+<lb ed="X" n="0105a11"/>
 <lb ed="X" n="0105a12"/>
 <lb ed="X" n="0105a13"/><lb ed="R136" n="0622b01"/><cb:juan fun="open" n="012"><cb:mulu type="卷" n="12"/><cb:jhead>聯燈會要卷第十二</cb:jhead></cb:juan>
 <lb ed="X" n="0105a14"/>
@@ -8586,8 +8597,9 @@ no message
 <lb ed="X" n="0112b18"/><lb ed="R136" n="0637a11"/>寒。</p></cb:div>
 <lb ed="X" n="0112b19"/><lb ed="R136" n="0637a12"/>
 <lb ed="X" n="0112b20"/><lb ed="R136" n="0637a13"/><cb:juan fun="close" n="012"><cb:jhead>聯燈會要卷第十二</cb:jhead></cb:juan>
+<milestone unit="juan" n="13"/>
 <pb ed="X" xml:id="X79.1557.0112c" n="0112c"/>
-<lb ed="X" n="0112c01"/><lb ed="R136" n="0637b01"/><milestone unit="juan" n="13"/><cb:juan fun="open" n="013"><cb:mulu type="卷" n="13"/><cb:jhead>聯燈會要卷第十三</cb:jhead></cb:juan>
+<lb ed="X" n="0112c01"/><lb ed="R136" n="0637b01"/><cb:juan fun="open" n="013"><cb:mulu type="卷" n="13"/><cb:jhead>聯燈會要卷第十三</cb:jhead></cb:juan>
 <lb ed="X" n="0112c02"/><lb ed="R136" n="0637b02"/><byline cb:type="Collector">住泉州崇福禪寺嗣祖比丘　悟明　集</byline>
 <lb ed="X" n="0112c03"/><lb ed="R136" n="0637b03"/><p xml:id="pX79p0112c0301" cb:type="head3">南嶽下第十一世</p>
 <lb ed="X" n="0112c04"/><lb ed="R136" n="0637b04"/><p xml:id="pX79p0112c0401" cb:type="head4">汾陽善昭禪師法嗣</p>
@@ -9127,7 +9139,8 @@ no message
 <lb ed="X" n="0119c13"/><lb ed="R136" n="0651b13"/>慈明禪師問答。有云。我見八十餘員知識。只有
 <lb ed="X" n="0119c14"/><lb ed="R136" n="0651b14"/>儞較些子。後人見有此語。宗派圖盡列為慈明
 <lb ed="X" n="0119c15"/><lb ed="R136" n="0651b15"/>嗣。非也。今収汾陽下。</p></cb:div>
-<lb ed="X" n="0119c16"/><milestone unit="juan" n="14"/>
+<milestone unit="juan" n="14"/>
+<lb ed="X" n="0119c16"/>
 <lb ed="X" n="0119c17"/>
 <lb ed="X" n="0119c18"/><lb ed="R136" n="0652a01"/><cb:juan fun="open" n="014"><cb:mulu type="卷" n="14"/><cb:jhead>聯燈會要卷第十四</cb:jhead></cb:juan>
 <lb ed="X" n="0119c19"/>
@@ -9711,8 +9724,9 @@ no message
 <lb ed="X" n="0127b22"/><lb ed="R136" n="0667a16"/>云果然。</p></cb:div>
 <lb ed="X" n="0127b23"/><lb ed="R136" n="0667a17"/>
 <lb ed="X" n="0127b24"/><lb ed="R136" n="0667a18"/><cb:juan fun="close" n="014"><cb:jhead>聯燈會要卷第十四</cb:jhead></cb:juan>
+<milestone unit="juan" n="15"/>
 <pb ed="X" xml:id="X79.1557.0127c" n="0127c"/>
-<lb ed="X" n="0127c01"/><milestone unit="juan" n="15"/>
+<lb ed="X" n="0127c01"/>
 <lb ed="X" n="0127c02"/>
 <lb ed="X" n="0127c03"/><lb ed="R136" n="0667b01"/><cb:juan fun="open" n="015"><cb:mulu type="卷" n="15"/><cb:jhead>聯燈會要卷第十五</cb:jhead></cb:juan>
 <lb ed="X" n="0127c04"/>
@@ -10276,7 +10290,8 @@ no message
 <lb ed="X" n="0135a12"/><lb ed="R136" n="0682a15"/>勢。不比尋常曲<g ref="#CB15165"/>枝。</p></cb:div></cb:div>
 <lb ed="X" n="0135a13"/><lb ed="R136" n="0682a16"/>
 <lb ed="X" n="0135a14"/><lb ed="R136" n="0682a17"/><cb:juan fun="close" n="015"><cb:jhead>聯燈會要卷第十五</cb:jhead></cb:juan>
-<lb ed="X" n="0135a15"/><lb ed="R136" n="0682a18"/><milestone unit="juan" n="16"/>
+<milestone unit="juan" n="16"/>
+<lb ed="X" n="0135a15"/><lb ed="R136" n="0682a18"/>
 <lb ed="X" n="0135a16"/>
 <lb ed="X" n="0135a17"/><lb ed="R136" n="0682b01"/><cb:juan fun="open" n="016"><cb:mulu type="卷" n="16"/><cb:jhead>聯燈會要卷第十六</cb:jhead></cb:juan>
 <lb ed="X" n="0135a18"/>
@@ -10965,7 +10980,8 @@ no message
 <lb ed="X" n="0144b01"/><lb ed="R136" n="0700b08"/>眼前過。不覺老從頭上來。</p></cb:div>
 <lb ed="X" n="0144b02"/><lb ed="R136" n="0700b09"/>
 <lb ed="X" n="0144b03"/><lb ed="R136" n="0700b10"/><cb:juan fun="close" n="016"><cb:jhead>聯燈會要卷第十六</cb:jhead></cb:juan>
-<lb ed="X" n="0144b04"/><milestone unit="juan" n="17"/>
+<milestone unit="juan" n="17"/>
+<lb ed="X" n="0144b04"/>
 <lb ed="X" n="0144b05"/><lb ed="R136" n="0700b11"/>
 <lb ed="X" n="0144b06"/><lb ed="R136" n="0700b12"/><cb:juan fun="open" n="017"><cb:mulu type="卷" n="17"/><cb:jhead>聯燈會要卷第十七</cb:jhead></cb:juan>
 <lb ed="X" n="0144b07"/>
@@ -11660,8 +11676,9 @@ no message
 <lb ed="X" n="0153b21"/><lb ed="R136" n="0719a08"/>向上事。欲言言不及。林下好商量。</p></cb:div>
 <lb ed="X" n="0153b22"/><lb ed="R136" n="0719a09"/>
 <lb ed="X" n="0153b23"/><lb ed="R136" n="0719a10"/><cb:juan fun="close" n="017"><cb:jhead>聯燈會要卷第十七</cb:jhead></cb:juan>
+<milestone unit="juan" n="18"/>
 <pb ed="X" xml:id="X79.1557.0153c" n="0153c"/>
-<lb ed="X" n="0153c01"/><milestone unit="juan" n="18"/>
+<lb ed="X" n="0153c01"/>
 <lb ed="X" n="0153c02"/><lb ed="R136" n="0719a11"/>
 <lb ed="X" n="0153c03"/><lb ed="R136" n="0719a12"/><cb:juan fun="open" n="018"><cb:mulu type="卷" n="18"/><cb:jhead>聯燈會要卷第十八</cb:jhead></cb:juan>
 <lb ed="X" n="0153c04"/>
@@ -12297,7 +12314,8 @@ no message
 <lb ed="X" n="0162a09"/><lb ed="R136" n="0736a05"/>知有全提底時節。大小雲門。劒去久矣。方乃刻舟。</p></cb:div></cb:div></cb:div></cb:div>
 <lb ed="X" n="0162a10"/><lb ed="R136" n="0736a06"/>
 <lb ed="X" n="0162a11"/><lb ed="R136" n="0736a07"/><cb:juan fun="close" n="018"><cb:jhead>聯燈會要卷第十八</cb:jhead></cb:juan>
-<lb ed="X" n="0162a12"/><milestone unit="juan" n="19"/>
+<milestone unit="juan" n="19"/>
+<lb ed="X" n="0162a12"/>
 <lb ed="X" n="0162a13"/><lb ed="R136" n="0736a08"/>
 <lb ed="X" n="0162a14"/><lb ed="R136" n="0736a09"/><cb:juan fun="open" n="019"><cb:mulu type="卷" n="19"/><cb:jhead>聯燈會要卷第十九</cb:jhead></cb:juan>
 <lb ed="X" n="0162a15"/>
@@ -12950,7 +12968,8 @@ no message
 <lb ed="X" n="0170c12"/><lb ed="R136" n="0753a18"/>隨與不隨。即且置。請和尚。指出東西南北。師便打。</p></cb:div></cb:div>
 <lb ed="X" n="0170c13"/>
 <lb ed="X" n="0170c14"/><cb:juan fun="close" n="019"><cb:jhead><note n="0170c1401" resp="CBETA" type="add">聯燈會要卷第十九【CB】，［－］【卍續】</note><app n="0170c1401"><lem wit="【CB】" resp="CBETA.maha">聯燈會要卷第十九</lem><rdg wit="【卍續】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
-<lb ed="X" n="0170c15"/><milestone unit="juan" n="20"/>
+<milestone unit="juan" n="20"/>
+<lb ed="X" n="0170c15"/>
 <lb ed="X" n="0170c16"/><lb ed="R136" n="0753b01"/><cb:juan fun="open" n="020"><cb:mulu type="卷" n="20"/><cb:jhead>聯燈會要卷第二十</cb:jhead></cb:juan>
 <lb ed="X" n="0170c17"/>
 <lb ed="X" n="0170c18"/><lb ed="R136" n="0753b02"/><byline cb:type="Collector">住泉州崇福禪寺嗣祖比丘　悟明　集</byline>
@@ -13548,7 +13567,8 @@ no message
 <lb ed="X" n="0178c10"/><lb ed="R136" n="0769a12"/>語。師又與一踏云。三十年後。吾道大行。</p></cb:div></cb:div>
 <lb ed="X" n="0178c11"/><lb ed="R136" n="0769a13"/>
 <lb ed="X" n="0178c12"/><lb ed="R136" n="0769a14"/><cb:juan fun="close" n="020"><cb:jhead>聯燈會要卷第二十</cb:jhead></cb:juan>
-<lb ed="X" n="0178c13"/><milestone unit="juan" n="21"/>
+<milestone unit="juan" n="21"/>
+<lb ed="X" n="0178c13"/>
 <lb ed="X" n="0178c14"/>
 <lb ed="X" n="0178c15"/><lb ed="R136" n="0771a01"/><cb:juan fun="open" n="021"><cb:mulu type="卷" n="21"/><cb:jhead>聯燈會要卷第二十一</cb:jhead></cb:juan>
 <lb ed="X" n="0178c16"/>
@@ -14268,7 +14288,8 @@ no message
 <lb ed="X" n="0188b05"/><lb ed="R136" n="0790a02"/>閧也。今明招錄中。作打野榸。後來圓悟碧巖集
 <lb ed="X" n="0188b06"/><lb ed="R136" n="0790a03"/>中解云。野榸乃山上燒不過底火柴頭。可與老
 <lb ed="X" n="0188b07"/><lb ed="R136" n="0790a04"/>婆。一狀領過也。</p></cb:div>
-<lb ed="X" n="0188b08"/><milestone unit="juan" n="22"/>
+<milestone unit="juan" n="22"/>
+<lb ed="X" n="0188b08"/>
 <lb ed="X" n="0188b09"/><lb ed="R136" n="0790a05"/>
 <lb ed="X" n="0188b10"/><lb ed="R136" n="0790a06"/><cb:juan fun="open" n="022"><cb:mulu type="卷" n="22"/><cb:jhead>聯燈會要卷第二十二</cb:jhead></cb:juan>
 <lb ed="X" n="0188b11"/>
@@ -14907,8 +14928,9 @@ no message
 <lb ed="X" n="0196c19"/><lb ed="R136" n="0807a02"/>曾伏這畜生。師云喫茶去。</p></cb:div>
 <lb ed="X" n="0196c20"/><lb ed="R136" n="0807a03"/>
 <lb ed="X" n="0196c21"/><lb ed="R136" n="0807a04"/><cb:juan fun="close" n="022"><cb:jhead>聯燈會要卷第二十二</cb:jhead></cb:juan>
+<milestone unit="juan" n="23"/>
 <pb ed="X" xml:id="X79.1557.0197a" n="0197a"/>
-<lb ed="X" n="0197a01"/><lb ed="R136" n="0807a06"/><milestone unit="juan" n="23"/><cb:juan fun="open" n="023"><cb:mulu type="卷" n="23"/><cb:jhead>聯燈會要卷第二十三</cb:jhead></cb:juan>
+<lb ed="X" n="0197a01"/><lb ed="R136" n="0807a06"/><cb:juan fun="open" n="023"><cb:mulu type="卷" n="23"/><cb:jhead>聯燈會要卷第二十三</cb:jhead></cb:juan>
 <lb ed="X" n="0197a02"/><lb ed="R136" n="0807a07"/><byline cb:type="Collector">住泉州崇福禪寺嗣祖比丘　悟明　集</byline>
 <lb ed="X" n="0197a03"/><lb ed="R136" n="0807a08"/><p xml:id="pX79p0197a0301" cb:type="head3">青原下第六世</p>
 <lb ed="X" n="0197a04"/><lb ed="R136" n="0807a09"/><p xml:id="pX79p0197a0401" cb:type="head4">筠州洞山良价禪師法嗣下</p>
@@ -15617,7 +15639,8 @@ no message
 <lb ed="X" n="0206b07"/><lb ed="R136" n="0825b18"/>禁。通身是飯。通身是水。那裏得這消息來。</p></cb:div>
 <lb ed="X" n="0206b08"/>
 <lb ed="X" n="0206b09"/><cb:juan fun="close" n="023"><cb:jhead><note n="0206b0901" resp="CBETA" type="add">聯燈會要卷第二十三【CB】，［－］【卍續】</note><app n="0206b0901"><lem wit="【CB】" resp="CBETA.maha">聯燈會要卷第二十三</lem><rdg wit="【卍續】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
-<lb ed="X" n="0206b10"/><milestone unit="juan" n="24"/>
+<milestone unit="juan" n="24"/>
+<lb ed="X" n="0206b10"/>
 <lb ed="X" n="0206b11"/><lb ed="R136" n="0826a01"/><cb:juan fun="open" n="024"><cb:mulu type="卷" n="24"/><cb:jhead>聯燈會要卷第二十四</cb:jhead></cb:juan>
 <lb ed="X" n="0206b12"/>
 <lb ed="X" n="0206b13"/><lb ed="R136" n="0826a02"/><byline cb:type="Collector">住泉州崇福禪師嗣祖比丘　悟明　集</byline>
@@ -16348,7 +16371,8 @@ no message
 <lb ed="X" n="0216a13"/><lb ed="R136" n="0845a14"/>我聞。乃召尚書。書應諾。師云。一時佛在。乃脫去。</p></cb:div></cb:div>
 <lb ed="X" n="0216a14"/><lb ed="R136" n="0845a15"/>
 <lb ed="X" n="0216a15"/><lb ed="R136" n="0845a16"/><cb:juan fun="close" n="024"><cb:jhead>聯燈會要卷第二十四</cb:jhead></cb:juan>
-<lb ed="X" n="0216a16"/><lb ed="R136" n="0845a17"/><milestone unit="juan" n="25"/>
+<milestone unit="juan" n="25"/>
+<lb ed="X" n="0216a16"/><lb ed="R136" n="0845a17"/>
 <lb ed="X" n="0216a17"/><lb ed="R136" n="0845a18"/>
 <lb ed="X" n="0216a18"/><lb ed="R136" n="0845b01"/><cb:juan fun="open" n="025"><cb:mulu type="卷" n="25"/><cb:jhead>聯燈會要卷第二十五</cb:jhead></cb:juan>
 <lb ed="X" n="0216a19"/>
@@ -16926,8 +16950,9 @@ no message
 <lb ed="X" n="0223c16"/><lb ed="R136" n="0860b10"/>竿頭五兩垂。</p></cb:div></cb:div>
 <lb ed="X" n="0223c17"/><lb ed="R136" n="0860b11"/>
 <lb ed="X" n="0223c18"/><lb ed="R136" n="0860b12"/><cb:juan fun="close" n="025"><cb:jhead>聯燈會要卷第二十五</cb:jhead></cb:juan>
+<milestone unit="juan" n="26"/>
 <pb ed="X" xml:id="X79.1557.0224a" n="0224a"/>
-<lb ed="X" n="0224a01"/><lb ed="R136" n="0860b14"/><milestone unit="juan" n="26"/><cb:juan fun="open" n="026"><cb:mulu type="卷" n="26"/><cb:jhead>聯燈會要卷第二十六</cb:jhead></cb:juan>
+<lb ed="X" n="0224a01"/><lb ed="R136" n="0860b14"/><cb:juan fun="open" n="026"><cb:mulu type="卷" n="26"/><cb:jhead>聯燈會要卷第二十六</cb:jhead></cb:juan>
 <lb ed="X" n="0224a02"/><lb ed="R136" n="0860b15"/><byline cb:type="Collector">住泉州崇福禪寺嗣祖比丘　悟明　集</byline>
 <lb ed="X" n="0224a03"/><lb ed="R136" n="0860b16"/><p xml:id="pX79p0224a0301" cb:type="head3">青原下第八世</p>
 <lb ed="X" n="0224a04"/><lb ed="R136" n="0860b17"/><cb:div type="other"><cb:mulu type="其他" level="4">福州玄沙師備禪師法嗣</cb:mulu><head>福州玄沙師備禪師法嗣</head>
@@ -17658,7 +17683,8 @@ no message
 <lb ed="X" n="0233c04"/><lb ed="R136" n="0880a11"/>若見。與他一拶。令渠別有生涯。</p></cb:div></cb:div>
 <lb ed="X" n="0233c05"/><lb ed="R136" n="0880a12"/>
 <lb ed="X" n="0233c06"/><lb ed="R136" n="0880a13"/><cb:juan fun="close" n="026"><cb:jhead>聯燈會要卷第二十六</cb:jhead></cb:juan>
-<lb ed="X" n="0233c07"/><milestone unit="juan" n="27"/>
+<milestone unit="juan" n="27"/>
+<lb ed="X" n="0233c07"/>
 <lb ed="X" n="0233c08"/>
 <lb ed="X" n="0233c09"/><lb ed="R136" n="0880b01"/><cb:juan fun="open" n="027"><cb:mulu type="卷" n="27"/><cb:jhead>聯燈會要卷第二十七</cb:jhead></cb:juan>
 <lb ed="X" n="0233c10"/>
@@ -18372,8 +18398,9 @@ no message
 <lb ed="X" n="0243a18"/><lb ed="R136" n="0899a15"/>云深承和尚指示。師云。更不再撥。</p></cb:div></cb:div></cb:div>
 <lb ed="X" n="0243a19"/><lb ed="R136" n="0899a16"/>
 <lb ed="X" n="0243a20"/><lb ed="R136" n="0899a17"/><cb:juan fun="close" n="027"><cb:jhead>聯燈會要卷第二十七</cb:jhead></cb:juan>
+<milestone unit="juan" n="28"/>
 <pb ed="X" xml:id="X79.1557.0243b" n="0243b"/>
-<lb ed="X" n="0243b01"/><lb ed="R136" n="0899b01"/><milestone unit="juan" n="28"/><cb:juan fun="open" n="028"><cb:mulu type="卷" n="28"/><cb:jhead>聯燈會要卷第二十八</cb:jhead></cb:juan>
+<lb ed="X" n="0243b01"/><lb ed="R136" n="0899b01"/><cb:juan fun="open" n="028"><cb:mulu type="卷" n="28"/><cb:jhead>聯燈會要卷第二十八</cb:jhead></cb:juan>
 <lb ed="X" n="0243b02"/><lb ed="R136" n="0899b02"/><byline cb:type="Collector">住泉州崇福禪寺嗣祖比丘　悟明　集</byline>
 <lb ed="X" n="0243b03"/><lb ed="R136" n="0899b03"/><cb:div type="other"><cb:mulu type="其他" level="3">青原下第十一世</cb:mulu><head>青原下第十一世</head>
 <lb ed="X" n="0243b04"/><lb ed="R136" n="0899b04"/><cb:div type="other"><cb:mulu type="其他" level="4">天台德韶禪師法嗣</cb:mulu><head>天台德韶禪師法嗣</head>
@@ -19131,7 +19158,8 @@ no message
 <lb ed="X" n="0253b06"/><lb ed="R136" n="0919b06"/>流鶯過短籬。師云。白雲千里萬里。</p></cb:div></cb:div></cb:div>
 <lb ed="X" n="0253b07"/><lb ed="R136" n="0919b07"/>
 <lb ed="X" n="0253b08"/><lb ed="R136" n="0919b08"/><cb:juan fun="close" n="028"><cb:jhead>聯燈會要卷第二十八</cb:jhead></cb:juan>
-<lb ed="X" n="0253b09"/><milestone unit="juan" n="29"/>
+<milestone unit="juan" n="29"/>
+<lb ed="X" n="0253b09"/>
 <lb ed="X" n="0253b10"/><lb ed="R136" n="0919b09"/>
 <lb ed="X" n="0253b11"/><lb ed="R136" n="0919b10"/><cb:juan fun="open" n="029"><cb:mulu type="卷" n="29"/><cb:jhead>聯燈會要卷第二十九</cb:jhead></cb:juan>
 <lb ed="X" n="0253b12"/>
@@ -19622,8 +19650,9 @@ no message
 <lb ed="X" n="0259c22"/><lb ed="R136" n="0932b08"/>得。某甲纔喚。便惡發。</p></cb:div>
 <lb ed="X" n="0259c23"/><lb ed="R136" n="0932b09"/>
 <lb ed="X" n="0259c24"/><lb ed="R136" n="0932b10"/><cb:juan fun="close" n="029"><cb:jhead>聯燈會要卷第二十九</cb:jhead></cb:juan>
+<milestone unit="juan" n="30"/>
 <pb ed="X" xml:id="X79.1557.0260a" n="0260a"/>
-<lb ed="X" n="0260a01"/><milestone unit="juan" n="30"/>
+<lb ed="X" n="0260a01"/>
 <lb ed="X" n="0260a02"/><lb ed="R136" n="0932b11"/>
 <lb ed="X" n="0260a03"/><lb ed="R136" n="0932b12"/><cb:juan fun="open" n="030"><cb:mulu type="卷" n="30"/><cb:jhead>聯燈會要卷第三十</cb:jhead></cb:juan>
 <lb ed="X" n="0260a04"/>

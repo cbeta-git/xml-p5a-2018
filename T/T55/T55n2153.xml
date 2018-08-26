@@ -227,7 +227,8 @@ Added comment  for Emacs
  </revisionDesc>
 </teiHeader>
 <text><body>
-<lb n="0372c10" ed="T"/><milestone n="1" unit="juan"/>
+<milestone n="1" unit="juan"/>
+<lb n="0372c10" ed="T"/>
 <lb n="0372c11" ed="T"/>
 <lb n="0372c12" ed="T"/><cb:docNumber>No. 2153</cb:docNumber>
 <lb n="0372c13" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">大周刊定眾經目錄序</cb:mulu><head><note n="0372014" resp="Taisho" place="foot text" type="orig">【原】麗本，大＝武【明】＊</note><note n="0372014" resp="CBETA" type="mod">大【大】＊，武【明】＊，【原】麗本</note><app n="0372014"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【明】">武</rdg></app><note n="0372014" type="rest" place="foot">【原】麗本</note>周刊定眾經目錄序</head>
@@ -906,8 +907,9 @@ Added comment  for Emacs
 <lb n="0380a27" ed="T"/><item xml:id="itemT55p0380a2701"><cb:jl_title>法<note n="0380002" resp="Taisho" place="foot text" type="orig">杜＝社【宋】【元】</note><note n="0380002" resp="CBETA" type="mod">杜【大】，社【宋】【元】</note><app n="0380002"><lem wit="【大】">杜</lem><rdg resp="Taisho" wit="【宋】【元】">社</rdg></app>經</cb:jl_title>一部<cb:jl_juan n="2">二卷</cb:jl_juan>
 <lb n="0380a28" ed="T"/><p xml:id="pT55p0380a2801" style="margin-left:1em">右<cb:jl_byline>西晉代沙門竺法護譯</cb:jl_byline>。</p></item></list></cb:div>
 <lb n="0380a29" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><note n="0380003" resp="Taisho" place="foot text" type="orig">大＝武【明】＊</note><note n="0380003" resp="CBETA" type="mod">大【大】＊，武【明】＊</note><app n="0380003"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【明】">武</rdg></app>周刊定眾經目錄卷第一<note n="0380004" resp="Taisho" place="foot text" type="orig">此下宋本元本俱有天冊萬歲元年十月二十六日，都檢校刊定經目錄及真偽佛授記寺大德明佺，都檢校刊定經目錄及真偽經大福先寺大德　道敻，祠部令　郭憬，主事　李思九，中大夫行祠部郎中　魏洵七十一字</note></cb:jhead></cb:juan>
+<milestone n="2" unit="juan"/>
 <pb n="0380b" xml:id="T55.2153.0380b" ed="T"/>
-<lb n="0380b01" ed="T"/><milestone n="2" unit="juan"/>
+<lb n="0380b01" ed="T"/>
 <lb n="0380b02" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="2" type="卷"/><cb:jhead><anchor xml:id="fxT55p0380b01"/>大周刊定眾經目錄卷第二</cb:jhead></cb:juan>
 <lb n="0380b03" ed="T"/>
 <lb n="0380b04" ed="T"/><byline cb:type="author"><note n="0380005" resp="Taisho" place="foot text" type="orig">天后勅＝唐【三】</note><note n="0380005" resp="CBETA" type="mod">天后勅【大】，唐【宋】【元】【明】</note><app n="0380005"><lem wit="【大】">天后勅</lem><rdg resp="Taisho" wit="【宋】【元】【明】">唐</rdg></app>佛<note n="0380006" resp="Taisho" place="foot text" type="orig">授＝受【宋】＊</note><note n="0380006" resp="CBETA" type="mod">授【大】＊，受【宋】＊</note><app n="0380006"><lem wit="【大】">授</lem><rdg resp="Taisho" wit="【宋】">受</rdg></app>記寺沙門明佺等撰</byline>
@@ -1413,8 +1415,9 @@ Added comment  for Emacs
 <lb n="0385c27" ed="T"/><p xml:id="pT55p0385c2701" style="margin-left:1em">右<cb:jl_byline>大唐永徽年三藏玄奘譯</cb:jl_byline>出靖邁譯經圖。</p>
 <lb n="0385c28" ed="T"/><p xml:id="pT55p0385c2801" style="margin-left:1em">以前十六經。六是全本十是從生合十六譯。</p></item></list></cb:div>
 <lb n="0385c29" ed="T"/><cb:juan n="002" fun="close"><cb:jhead><anchor xml:id="fxT55p0385c02"/>大周刊定眾經目錄卷第二</cb:jhead></cb:juan>
+<milestone n="3" unit="juan"/>
 <pb n="0386a" xml:id="T55.2153.0386a" ed="T"/>
-<lb n="0386a01" ed="T"/><milestone n="3" unit="juan"/>
+<lb n="0386a01" ed="T"/>
 <lb n="0386a02" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="3" type="卷"/><cb:jhead><anchor xml:id="fxT55p0386a01"/>大周刊定眾經目錄卷第三</cb:jhead></cb:juan>
 <lb n="0386a03" ed="T"/>
 <lb n="0386a04" ed="T"/><byline cb:type="author"><anchor xml:id="fxT55p0386a02"/>大唐天后勅佛<anchor xml:id="fxT55p0386a03"/>授記寺沙門明佺等撰</byline>
@@ -1951,8 +1954,9 @@ Added comment  for Emacs
 <lb n="0391c25" ed="T"/><p xml:id="pT55p0391c2501" style="margin-left:1em">右出悲華經。見真寂寺錄。</p>
 <lb n="0391c26" ed="T"/><p xml:id="pT55p0391c2601" style="margin-left:1em">以前悲華已下二十一經並悲華出。</p></item></list></cb:div>
 <lb n="0391c27" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><anchor xml:id="fxT55p0391c04"/>大周刊定眾經目錄卷第三</cb:jhead></cb:juan>
+<milestone n="4" unit="juan"/>
 <pb n="0392a" xml:id="T55.2153.0392a" ed="T"/>
-<lb n="0392a01" ed="T"/><milestone n="4" unit="juan"/>
+<lb n="0392a01" ed="T"/>
 <lb n="0392a02" ed="T"/>
 <lb n="0392a03" ed="T"/><cb:juan n="004" fun="open"><cb:mulu n="4" type="卷"/><cb:jhead><anchor xml:id="fxT55p0392a01"/>大周刊定眾經目錄卷第四</cb:jhead></cb:juan>
 <lb n="0392a04" ed="T"/>
@@ -2476,7 +2480,8 @@ Added comment  for Emacs
 <lb n="0397c12" ed="T"/>房錄。</p>
 <lb n="0397c13" ed="T"/><p xml:id="pT55p0397c1301" style="margin-left:1em"><app type="star" corresp="#0396023"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>上二經同本異譯。</p></item></list></cb:div>
 <lb n="0397c14" ed="T"/><cb:juan n="004" fun="close"><cb:jhead><anchor xml:id="fxT55p0397c13"/>大周刊定眾經目錄卷第四</cb:jhead></cb:juan>
-<lb n="0397c15" ed="T"/><milestone n="5" unit="juan"/>
+<milestone n="5" unit="juan"/>
+<lb n="0397c15" ed="T"/>
 <lb n="0397c16" ed="T"/>
 <lb n="0397c17" ed="T"/><cb:juan n="005" fun="open"><cb:mulu n="5" type="卷"/><cb:jhead><anchor xml:id="fxT55p0397c14"/>大周刊定眾經目錄卷第五</cb:jhead></cb:juan>
 <lb n="0397c18" ed="T"/>
@@ -3003,7 +3008,8 @@ Added comment  for Emacs
 <pb n="0403c" xml:id="T55.2153.0403c" ed="T"/>
 <lb n="0403c01" ed="T"/>講主校勘</lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app>。</p></item></list>
 <lb n="0403c02" ed="T"/><p xml:id="pT55p0403c0201"><note n="0403022" resp="Taisho" place="foot text" type="orig">武＝大【宋】【元】</note><note n="0403022" resp="CBETA" type="mod">武【大】，大【宋】【元】</note><app n="0403022"><lem wit="【大】">武</lem><rdg resp="Taisho" wit="【宋】【元】">大</rdg></app>周刊定眾經目錄卷第五<note n="0403023" resp="Taisho" place="foot text" type="orig">此下宋本元本俱有天冊萬歲元年十月二十六日，都檢校刊定經目及經真偽佛授記寺大德　僧明佺，都檢校刊定經目真偽大福先寺大德　僧道敻，太平寺刊定真偽經上座　僧福慶，刊定真偽經大德　僧思言，天宮寺真偽經　僧曇懿，大白馬寺檢校經目　僧明遠，祠部令史　郭憬，主事　李思九，中大夫行祠部郎中魏洵</note></p></cb:div></cb:div></cb:div>
-<lb n="0403c03" ed="T"/><milestone n="6" unit="juan"/>
+<milestone n="6" unit="juan"/>
+<lb n="0403c03" ed="T"/>
 <lb n="0403c04" ed="T"/>
 <lb n="0403c05" ed="T"/><cb:juan n="006" fun="open"><cb:mulu n="6" type="卷"/><cb:jhead><anchor xml:id="fxT55p0403c02"/>大周刊定眾經目錄卷第六</cb:jhead></cb:juan>
 <lb n="0403c06" ed="T"/>
@@ -3429,7 +3435,8 @@ Added comment  for Emacs
 <lb n="0408b10" ed="T"/>陀<note n="0408009" resp="Taisho" place="foot text" type="orig">〔羅〕－【三】</note><note n="0408009" resp="CBETA" type="mod">羅【大】，〔－〕【宋】【元】【明】</note><app n="0408009"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>共闍那耶舍</cb:jl_byline>。於長安舊城婆伽寺譯。
 <lb n="0408b11" ed="T"/>出長房錄。</p></item></list></cb:div></cb:div>
 <lb n="0408b12" ed="T"/><cb:juan n="006" fun="close"><cb:jhead><app type="star" corresp="#0407006"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>周刊定眾經目錄卷第<note n="0408010" resp="Taisho" place="foot text" type="orig">此下宋本元本俱有天冊萬歲元年十月二十六日，都撿校刊定經目及經真偽佛記寺大德明佺，都撿校刊定經目及經真偽大福寺大德　道敻，太平寺刊定真偽經僧上座　福慶，刊定真偽經大德僧　思言，天宮寺刊定真偽經僧　曇懿，大福先寺刊定真偽經僧　玄泰，佛壽記寺撿校經目僧　知方，祠部令史　郭思憬，主事　李思九，正議大夫祠部郎　魏詢百二十六字</note>六</cb:jhead></cb:juan>
-<lb n="0408b13" ed="T"/><milestone n="7" unit="juan"/>
+<milestone n="7" unit="juan"/>
+<lb n="0408b13" ed="T"/>
 <lb n="0408b14" ed="T"/><cb:juan n="007" fun="open"><cb:mulu n="7" type="卷"/><cb:jhead><anchor xml:id="fxT55p0408b03"/>大周刊定眾經目錄卷第七</cb:jhead></cb:juan>
 <lb n="0408b15" ed="T"/>
 <lb n="0408b16" ed="T"/><byline cb:type="author"><anchor xml:id="fxT55p0408b04"/>大唐天后勅佛<anchor xml:id="fxT55p0408b05"/>授記寺沙門明佺等撰</byline>
@@ -4117,7 +4124,8 @@ Added comment  for Emacs
 <lb n="0416a06" ed="T"/>音皆蒙願遂隨類化誦救苦眾生。</p>
 <lb n="0416a07" ed="T"/><p xml:id="pT55p0416a0701" style="margin-left:1em"><note n="0416003" resp="Taisho" place="foot text" type="orig">〔已上…卷〕十四字－【三】</note><note n="0416003" resp="CBETA" type="mod">（已上…卷）十四字【大】，〔－〕【宋】【元】【明】</note><app cb:word-count="14" n="0416003"><lem wit="【大】">已上<cb:jl_byline type="unknown">無譯主</cb:jl_byline>經九十三部一百七卷</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>。</p></item></list></cb:div>
 <lb n="0416a08" ed="T"/><cb:juan n="007" fun="close"><cb:jhead><anchor xml:id="fxT55p0416a01"/>大周刊定眾經目錄卷第<note n="0416004" resp="Taisho" place="foot text" type="orig">此下宋本元本俱有天冊萬歲元年十月二十六　，都撿校刊定經目及經真偽佛授記寺大德　明佺，祠部令史郭　思憬，主事　李思九，中行夫行祠部郎中　魏詢五十三字</note><note n="0416004" resp="CBETA" type="mod">此下宋本元本俱有天冊萬歲元年十月二十六<space quantity="1" unit="chars"/>，都撿校刊定經目及經真偽佛授記寺大德　明佺，祠部令史郭　思憬，主事　李思九，中行夫行祠部郎中　魏詢五十三字</note>七</cb:jhead></cb:juan>
-<lb n="0416a09" ed="T"/><milestone n="8" unit="juan"/>
+<milestone n="8" unit="juan"/>
+<lb n="0416a09" ed="T"/>
 <lb n="0416a10" ed="T"/>
 <lb n="0416a11" ed="T"/><cb:juan n="008" fun="open"><cb:mulu n="8" type="卷"/><cb:jhead><anchor xml:id="fxT55p0416a02"/>大周刊定眾經目錄卷第八</cb:jhead></cb:juan>
 <lb n="0416a12" ed="T"/>
@@ -4920,7 +4928,8 @@ Added comment  for Emacs
 <lb n="0425a10" ed="T"/><item xml:id="itemT55p0425a1001"><cb:jl_title>明宿願果報經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
 <lb n="0425a11" ed="T"/><p xml:id="pT55p0425a1101" style="margin-left:1em"><note n="0425002" resp="Taisho" place="foot text" type="orig">已＝以【宋】【元】</note><note n="0425002" resp="CBETA" type="mod">已【大】，以【宋】【元】</note><app n="0425002"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【宋】【元】">以</rdg></app>上四十九經出雜譬喻<note n="0425003" resp="Taisho" place="foot text" type="orig">〔經〕－【三】</note><note n="0425003" resp="CBETA" type="mod">經【大】，〔－〕【宋】【元】【明】</note><app n="0425003"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>。</p></item></list></cb:div>
 <lb n="0425a12" ed="T"/><cb:juan n="008" fun="close"><cb:jhead><anchor xml:id="fxT55p0425a01"/>大周刊定眾經目錄卷第八<note n="0425004" resp="Taisho" place="foot text" type="orig">此下宋本元本俱有天策萬歲元年十月二十六日，都檢校刊定經目及真偽佛授記寺大德明佺，都檢校刊定經目及真偽大福先寺大德道敻，太平寺刊定真偽經僧上座福慶，祠部令史郭憬，主事李思九七十二字</note></cb:jhead></cb:juan>
-<lb n="0425a13" ed="T"/><milestone n="9" unit="juan"/>
+<milestone n="9" unit="juan"/>
+<lb n="0425a13" ed="T"/>
 <lb n="0425a14" ed="T"/>
 <lb n="0425a15" ed="T"/><cb:juan n="009" fun="open"><cb:mulu n="9" type="卷"/><cb:jhead><anchor xml:id="fxT55p0425a02"/>大周刊定眾經目錄卷第九</cb:jhead></cb:juan>
 <lb n="0425a16" ed="T"/>
@@ -5540,7 +5549,8 @@ Added comment  for Emacs
 <lb n="0432a01" ed="T"/><p xml:id="pT55p0432a0101" style="margin-left:1em">右<cb:jl_byline>隋開皇年曇法智譯</cb:jl_byline>。出內典錄。</p>
 <lb n="0432a02" ed="T"/><p xml:id="pT55p0432a0201" style="margin-left:1em">上二經同本別譯。</p></item></list></cb:div></cb:div>
 <lb n="0432a03" ed="T"/><cb:juan n="009" fun="close"><cb:jhead><anchor xml:id="fxT55p0432a01"/>大周刊定眾經目錄卷第九<note n="0432001" resp="Taisho" place="foot text" type="orig">此下宋本元本俱有天策萬歲通天元年十月二十六日，都檢校刊定經目及經真偽佛授記寺大德　明佺，祠部令史　桓信，主事　李思九，中大夫行祠部郎中　魏洵五十四字</note></cb:jhead></cb:juan>
-<lb n="0432a04" ed="T"/><milestone n="10" unit="juan"/>
+<milestone n="10" unit="juan"/>
+<lb n="0432a04" ed="T"/>
 <lb n="0432a05" ed="T"/>
 <lb n="0432a06" ed="T"/><cb:juan n="010" fun="open"><cb:mulu n="10" type="卷"/><cb:jhead>大周刊定眾經目錄卷第十</cb:jhead></cb:juan>
 <lb n="0432a07" ed="T"/>
@@ -6000,7 +6010,8 @@ Added comment  for Emacs
 <lb n="0437a13" ed="T"/><item xml:id="itemT55p0437a1301"><cb:jl_title>十報法三統略</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan>
 <lb n="0437a14" ed="T"/><p xml:id="pT55p0437a1401" style="margin-left:1em">右<cb:jl_byline>宋文帝代求那跋陀羅譯</cb:jl_byline>。出長房錄。</p></item></list></cb:div>
 <lb n="0437a15" ed="T"/><cb:juan n="010" fun="close"><cb:jhead><anchor xml:id="fxT55p0437a03"/>大周刊定眾經目錄卷第十<note n="0437007" resp="Taisho" place="foot text" type="orig">此下宋元二本俱有天冊萬歲元年十月二十六日，都撿校刊定經目及經真偽佛授記寺大德僧明佺三十二字</note></cb:jhead></cb:juan>
-<lb n="0437a16" ed="T"/><milestone n="11" unit="juan"/>
+<milestone n="11" unit="juan"/>
+<lb n="0437a16" ed="T"/>
 <lb n="0437a17" ed="T"/>
 <lb n="0437a18" ed="T"/><cb:juan n="011" fun="open"><cb:mulu n="11" type="卷"/><cb:jhead>大周刊定眾經目錄卷第十一</cb:jhead></cb:juan>
 <lb n="0437a19" ed="T"/>
@@ -6470,7 +6481,8 @@ Added comment  for Emacs
 <lb n="0442b09" ed="T"/>真經。即宜編入目錄者。定經<note n="0442009" resp="Taisho" place="foot text" type="orig">目＋（錄）【明】</note><note n="0442009" resp="CBETA" type="mod">目【大】，目錄【明】</note><app n="0442009"><lem wit="【大】">目</lem><rdg resp="Taisho" wit="【明】">目錄</rdg></app>。僧等准
 <lb n="0442b10" ed="T"/>勅類會。並是實經編入錄訖。</p></item></list></cb:div></cb:div>
 <lb n="0442b11" ed="T"/><cb:juan n="011" fun="close"><cb:jhead><anchor xml:id="fxT55p0442b02"/>大周刊定眾經目錄卷第十<note n="0442010" resp="Taisho" place="foot text" type="orig">此下宋元二本俱有天策萬歲元年十月二十六日都撿校刊定經目及真偽佛授記寺大德　明佺三十字</note>一</cb:jhead></cb:juan>
-<lb n="0442b12" ed="T"/><milestone n="12" unit="juan"/>
+<milestone n="12" unit="juan"/>
+<lb n="0442b12" ed="T"/>
 <lb n="0442b13" ed="T"/>
 <lb n="0442b14" ed="T"/><cb:juan n="012" fun="open"><cb:mulu n="12" type="卷"/><anchor type="circle"/><note n="0442011" resp="Taisho" place="foot text" type="orig">此卷宋元明三本與麗本大異故別載卷末，cf. P. 448a [01].</note><cb:jhead>大周刊定眾經目錄卷第十二</cb:jhead></cb:juan>
 <lb n="0442b15" ed="T"/>
@@ -7899,7 +7911,8 @@ Added comment  for Emacs
 <lb n="0458b02" ed="T"/><item xml:id="itemT55p0458b0201"><cb:jl_title>阿毘曇五法論</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan></item>
 <lb n="0458b03" ed="T"/><item xml:id="itemT55p0458b0301"><cb:jl_title>阿毘曇九十八結經</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan></item></list>
 <lb n="0458b04" ed="T"/><p xml:id="pT55p0458b0401"><note n="0458003" resp="Taisho" place="foot text" type="orig">武＝大【宋】【元】</note><note n="0458003" resp="CBETA" type="mod">武【大】，大【宋】【元】</note><app n="0458003"><lem wit="【大】">武</lem><rdg resp="Taisho" wit="【宋】【元】">大</rdg></app>周刊定眾經目錄卷第十二<note n="0458004" resp="Taisho" place="foot text" type="orig">此下宋元二本俱有天冊萬歲元年十月二十六日，都維那檢校刊定目錄授記寺大德　明佺，都檢校刊定經目錄及經真偽大福寺大德通論敻　四十八字</note></p></cb:div></cb:div>
-<lb n="0458b05" ed="T"/><milestone n="13" unit="juan"/>
+<milestone n="13" unit="juan"/>
+<lb n="0458b05" ed="T"/>
 <lb n="0458b06" ed="T"/>
 <lb n="0458b07" ed="T"/>
 <lb n="0458b08" ed="T"/><cb:juan n="013" fun="open"><cb:mulu n="13" type="卷"/><cb:jhead><anchor xml:id="fxT55p0458b01"/>大周刊定眾經目錄卷第十三<note n="0458005" resp="Taisho" place="foot text" type="orig">見定乃至上九字三本俱在撰號次行</note><note place="inline">見定
@@ -8667,7 +8680,8 @@ Added comment  for Emacs
 <lb n="0467a16" ed="T"/><item xml:id="itemT55p0467a1601"><cb:jl_title>大乘法界無差別論</cb:jl_title><cb:jl_juan n="1">一卷</cb:jl_juan><note place="inline">七紙</note>
 <lb n="0467a17" ed="T"/><p xml:id="pT55p0467a1701" style="margin-left:1em">右決定藏等一十一論十卷同帙。</p></item></list></cb:div>
 <lb n="0467a18" ed="T"/><cb:juan n="013" fun="close"><cb:jhead><anchor xml:id="fxT55p0467a01"/>大周刊定眾經目錄卷第十<note n="0467003" resp="Taisho" place="foot text" type="orig">此下宋元二本俱有天冊萬歲元年十月二十六日　都檢校刊定經目及經真偽佛授記寺大德僧明佺，都檢校刊定經目錄及經真偽大福光寺大德僧　道敻，太平寺刊定真偽經僧上座　僧慶六十六字</note>三<note n="0467004" resp="Taisho" place="foot text" type="orig">〔見定…上〕九字－【三】</note><note n="0467004" resp="CBETA" type="mod">（見定…上）九字【大】，〔－〕【宋】【元】【明】</note><app cb:word-count="9" n="0467004"><lem wit="【大】"><note place="inline">見定流行入藏目卷上</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
-<lb n="0467a19" ed="T"/><milestone n="14" unit="juan"/>
+<milestone n="14" unit="juan"/>
+<lb n="0467a19" ed="T"/>
 <lb n="0467a20" ed="T"/>
 <lb n="0467a21" ed="T"/>
 <lb n="0467a22" ed="T"/><cb:juan n="014" fun="open"><cb:mulu n="14" type="卷"/><cb:jhead><anchor xml:id="fxT55p0467a02"/>大周刊定眾經目錄卷第十<note n="0467005" resp="Taisho" place="foot text" type="orig">四＋（偽經目錄一卷附）【明】</note><note n="0467005" resp="CBETA" type="mod">四【大】，四偽經目錄一卷附【明】</note><app n="0467005"><lem wit="【大】">四</lem><rdg resp="Taisho" wit="【明】">四偽經目錄一卷附</rdg></app><note n="0467006" resp="Taisho" place="foot text" type="orig">見定乃至下九字宋元二本俱在單譯經下，明本在撰號次行</note><note place="inline">見定
@@ -9101,7 +9115,8 @@ Added comment  for Emacs
 <lb n="0472a13" ed="T"/><p xml:id="pT55p0472a1301"><note n="0472004" resp="Taisho" place="foot text" type="orig">武＝大【宋】【元】</note><note n="0472004" resp="CBETA" type="mod">武【大】，大【宋】【元】</note><app n="0472004"><lem wit="【大】">武</lem><rdg resp="Taisho" wit="【宋】【元】">大</rdg></app>周刊定眾經目錄卷第十四<note place="inline">見定流行入藏目卷下</note></p>
 <lb n="0472a14" ed="T"/><p xml:id="pT55p0472a1401" style="margin-left:1em">天策萬歲元年十月二十六日。都檢校刊
 <lb n="0472a15" ed="T"/>定經目及經真偽佛授記寺大德僧明佺。</p></cb:div></cb:div>
-<lb n="0472a16" ed="T"/><milestone n="15" unit="juan"/>
+<milestone n="15" unit="juan"/>
+<lb n="0472a16" ed="T"/>
 <lb n="0472a17" ed="T"/>
 <lb n="0472a18" ed="T"/>
 <lb n="0472a19" ed="T"/><cb:juan n="015" fun="open"><cb:mulu n="15" type="卷"/><cb:jhead><anchor xml:id="fxT55p0472a01"/>大周刊定<note n="0472005" resp="Taisho" place="foot text" type="orig">眾＝偽【三】</note><note n="0472005" resp="CBETA" type="mod">眾【大】，偽【宋】【元】【明】</note><app n="0472005"><lem wit="【大】">眾</lem><rdg resp="Taisho" wit="【宋】【元】【明】">偽</rdg></app>經目錄<note n="0472006" resp="Taisho" place="foot text" type="orig">卷第十五＝一卷【宋】【元】，〔卷第十五〕－【明】</note><note n="0472006" resp="CBETA" type="mod">卷第十五【大】，一卷【宋】【元】，〔－〕【明】</note><app n="0472006"><lem wit="【大】">卷第十五</lem><rdg resp="Taisho" wit="【宋】【元】">一卷</rdg><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>

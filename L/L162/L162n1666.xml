@@ -4,7 +4,7 @@
 <fileDesc>
 		<titleStmt>
 			<title>Qianlong Edition of the Canon (Shinwenfeng Edition), Electronic version, No. 1666 重訂教乘法數（選錄序文）</title>
-			<title>Qianlong Edition of the Canon, Electronic version, No. 1666 重訂教乘法數（選錄序文）</title>
+			<title xml:lang="zh-Hant">乾隆大藏經（新文豐版）數位版, No. 1666 重訂教乘法數（選錄序文）</title>
 			<author>清 超海等重訂</author>
 			<respStmt>
 				<resp>Electronic Version by</resp>
@@ -66,8 +66,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 </revisionDesc>
 </teiHeader>
 <text><body>
+<milestone unit="juan" n="1"/>
 <pb ed="L" xml:id="L162.1666.0321a" n="0321a"/>
-<lb ed="L" n="0321a01"/><milestone unit="juan" n="1"/><cb:mulu type="卷" n="1"/><cb:div type="xu"><cb:mulu type="序" level="1">御製序</cb:mulu><head>御製重訂教乘法數序　　　　　　辱一</head>
+<lb ed="L" n="0321a01"/><cb:mulu type="卷" n="1"/><cb:div type="xu"><cb:mulu type="序" level="1">御製序</cb:mulu><head>御製重訂教乘法數序　　　　　　辱一</head>
 <lb ed="L" n="0321a02"/><p xml:id="pL162p0321a0201">佛法廣大如法界究竟如虛空不涉名言豈
 <lb ed="L" n="0321a03"/>存數量苐以病脉千源醫方萬品欲詳對治
 <lb ed="L" n="0321a04"/>之門湏設投症之藥所以乘分三五味辨異

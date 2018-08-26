@@ -99,9 +99,9 @@ basicx 程式 讀取 簡單標記版 產生 xml
 </revisionDesc>
 </teiHeader>
 <text><body>
+<milestone unit="juan" n="1"/>
 <pb ed="X" xml:id="X87.1626.0282a" n="0282a"/>
 <lb ed="X" n="0282a01"/>
-<milestone unit="juan" n="1"/>
 <lb ed="X" n="0282a02"/>
 <lb ed="X" n="0282a03"/>
 <lb ed="X" n="0282a04"/>
@@ -1392,7 +1392,8 @@ basicx 程式 讀取 簡單標記版 產生 xml
 <lb ed="X" n="0299a14"/><lb ed="R148" n="0692b16"/>拄杖者是誰。驀頭一棒。</p></cb:div>
 <lb ed="X" n="0299a15"/><lb ed="R148" n="0692b17"/>
 <lb ed="X" n="0299a16"/><lb ed="R148" n="0692b18"/><cb:juan fun="close" n="1"><cb:jhead>道高僧摘要卷一</cb:jhead></cb:juan>
-<lb ed="X" n="0299a17"/><milestone unit="juan" n="2"/>
+<milestone unit="juan" n="2"/>
+<lb ed="X" n="0299a17"/>
 <lb ed="X" n="0299a18"/><lb ed="R148" n="0693a01"/><cb:juan fun="open" n="002"><cb:mulu type="卷" n="2"/><cb:jhead>法高僧摘要卷二</cb:jhead></cb:juan>
 <lb ed="X" n="0299a19"/>
 <lb ed="X" n="0299a20"/><lb ed="R148" n="0693a02"/><byline cb:type="editor">武原居士　徐昌治覲周父　編輯</byline>
@@ -2821,8 +2822,9 @@ basicx 程式 讀取 簡單標記版 產生 xml
 <lb ed="X" n="0318a18"/><lb ed="R148" n="0730b18"/>度出松門。</p></cb:div>
 <lb ed="X" n="0318a19"/>
 <lb ed="X" n="0318a20"/><lb ed="R148" n="0730b19"/><cb:juan fun="close" n="002"><cb:jhead>法高僧摘要卷二</cb:jhead></cb:juan>
+<milestone unit="juan" n="3"/>
 <pb ed="X" xml:id="X87.1626.0318b" n="0318b"/>
-<lb ed="X" n="0318b01"/><lb ed="R148" n="0731a01"/><milestone unit="juan" n="3"/><cb:juan fun="open" n="003"><cb:mulu type="卷" n="3"/><cb:jhead>品高僧摘要卷三</cb:jhead></cb:juan>
+<lb ed="X" n="0318b01"/><lb ed="R148" n="0731a01"/><cb:juan fun="open" n="003"><cb:mulu type="卷" n="3"/><cb:jhead>品高僧摘要卷三</cb:jhead></cb:juan>
 <lb ed="X" n="0318b02"/><lb ed="R148" n="0731a02"/><byline cb:type="editor">武原居士　徐昌治覲周父　編輯</byline>
 <lb ed="X" n="0318b03"/><lb ed="R148" n="0731a03"/><cb:div type="other"><cb:mulu type="其他" level="1">釋曇霍</cb:mulu><head>釋曇霍</head><p xml:id="pX87p0318b0304" cb:place="inline">蔬食苦行。常居塚間樹下。專以神力化物。時
 <lb ed="X" n="0318b04"/><lb ed="R148" n="0731a04"/>河西鮮卑利鹿孤。<note n="0318b0401" resp="CBETA" type="add">僭【CB】，僣【卍續】</note><app n="0318b0401"><lem wit="【CB】" resp="CBETA.maha">僭</lem><rdg wit="【卍續】">僣</rdg></app>據西平。自稱為王。號年建和二
@@ -4040,8 +4042,9 @@ basicx 程式 讀取 簡單標記版 產生 xml
 <lb ed="X" n="0334b16"/><lb ed="R148" n="0763a16"/>句。如何話會。陣陣薰風來殿閣。炎威雖逼也清涼。</p></cb:div>
 <lb ed="X" n="0334b17"/><lb ed="R148" n="0763a17"/>
 <lb ed="X" n="0334b18"/><lb ed="R148" n="0763a18"/><cb:juan fun="close" n="003"><cb:jhead>品高僧摘要卷三</cb:jhead></cb:juan>
+<milestone unit="juan" n="4"/>
 <pb ed="X" xml:id="X87.1626.0334c" n="0334c"/>
-<lb ed="X" n="0334c01"/><lb ed="R148" n="0763b01"/><milestone unit="juan" n="4"/><cb:juan fun="open" n="004"><cb:mulu type="卷" n="4"/><cb:jhead>化高僧摘要卷四</cb:jhead></cb:juan>
+<lb ed="X" n="0334c01"/><lb ed="R148" n="0763b01"/><cb:juan fun="open" n="004"><cb:mulu type="卷" n="4"/><cb:jhead>化高僧摘要卷四</cb:jhead></cb:juan>
 <lb ed="X" n="0334c02"/><lb ed="R148" n="0763b02"/><byline cb:type="editor">武原居士　徐昌治覲周父　編輯</byline>
 <lb ed="X" n="0334c03"/><lb ed="R148" n="0763b03"/><cb:div type="other"><cb:mulu type="其他" level="1">釋安清</cb:mulu><head>釋安清</head><p xml:id="pX87p0334c0304" cb:place="inline">字世高。安息國王太子也。幼以孝行見稱。志
 <lb ed="X" n="0334c04"/><lb ed="R148" n="0763b04"/>業聰敏。尅意好學。外國典籍。及七曜五行。醫方異術。

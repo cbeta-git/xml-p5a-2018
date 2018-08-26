@@ -4,7 +4,7 @@
 <fileDesc>
 		<titleStmt>
 			<title>Qianlong Edition of the Canon (Shinwenfeng Edition), Electronic version, No. 1490 妙法蓮華經玄義釋籤(第1卷-第3卷)</title>
-			<title>Qianlong Edition of the Canon, Electronic version, No. 1490 妙法蓮華經玄義釋籤(第1卷-第3卷)</title>
+			<title xml:lang="zh-Hant">乾隆大藏經（新文豐版）數位版, No. 1490 妙法蓮華經玄義釋籤(第1卷-第3卷)</title>
 			<author>隋 智顗說、灌頂記　唐 湛然釋</author>
 			<respStmt>
 				<resp>Electronic Version by</resp>
@@ -63,8 +63,9 @@ modified: BM 轉 XML 作業
 </revisionDesc>
 </teiHeader>
 <text><body>
+<milestone unit="juan" n="1"/>
 <pb ed="L" xml:id="L115.1490.0741a" n="0741a"/>
-<lb ed="L" n="0741a01"/><milestone unit="juan" n="1"/><cb:div type="xu"><cb:mulu type="序" level="1">釋籤緣起序</cb:mulu><head>釋籤緣起序　　　　　　　　　　祿一</head>
+<lb ed="L" n="0741a01"/><cb:div type="xu"><cb:mulu type="序" level="1">釋籤緣起序</cb:mulu><head>釋籤緣起序　　　　　　　　　　祿一</head>
 <lb ed="L" n="0741a02"/><byline cb:type="author">君山除饉男普門子屬辭</byline>
 <lb ed="L" n="0741a03"/><p xml:id="pL115p0741a0301">四教成列開合之旨蘊乎其中十子既往
 <lb ed="L" n="0741a04"/>幽贊之功在人方絕惟三轉遂周一乘載
@@ -1178,8 +1179,9 @@ modified: BM 轉 XML 作業
 <lb ed="L" n="0775b08"/></cb:def></entry><entry><form>東漸</form><cb:def><p xml:id="pL115p0775b0803" style="margin-left:1em" cb:place="inline"><note place="inline">漸將廉切流入也</note>。</p></cb:def></entry><entry cb:place="inline"><form>顒</form><cb:def><p xml:id="pL115p0775b0811" style="margin-left:1em" cb:place="inline"><note place="inline">魚容切仰也</note>。</p></cb:def></entry><entry cb:place="inline"><form>聿</form><cb:def><p xml:id="pL115p0775b0817" style="margin-left:1em" cb:place="inline"><note place="inline">以律切惟也</note>。</p></cb:def></entry><entry cb:place="inline"><form>耽</form><cb:def><p xml:id="pL115p0775b0823" style="margin-left:1em" cb:place="inline"><note place="inline">都含
 <lb ed="L" n="0775b09"/>切過樂也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">襃</term></form><cb:def><p xml:id="pL115p0775b0906" style="margin-left:1em" cb:place="inline"><note place="inline">補刀切揚美也</note>。</p></cb:def></entry><entry cb:place="inline"><form>謗</form><cb:def><p xml:id="pL115p0775b0913" style="margin-left:1em" cb:place="inline"><note place="inline">補曠切毀也</note>。</p></cb:def></entry><entry cb:place="inline"><form>斥</form><cb:def><p xml:id="pL115p0775b0919" style="margin-left:1em" cb:place="inline"><note place="inline">昌石切黜也</note>。</p></cb:def></entry><entry cb:place="inline"><form>撙</form><cb:def><p xml:id="pL115p0775b0925" style="margin-left:1em" cb:place="inline"><note place="inline">祖本
 <lb ed="L" n="0775b10"/>切裁抑也</note>。</p></cb:def></entry><entry cb:place="inline"><form>豎</form><cb:def><p xml:id="pL115p0775b1006" style="margin-left:1em" cb:place="inline"><note place="inline">臣<term cb:behaviour="no-norm">𢈔</term>切立也</note>。</p></cb:def></entry><entry cb:place="inline"><form>研</form><cb:def><p xml:id="pL115p0775b1012" style="margin-left:1em" cb:place="inline"><note place="inline">倪堅切窮究也</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="2"/>
 <pb ed="L" xml:id="L115.1490.0776a" n="0776a"/>
-<lb ed="L" n="0776a01"/><milestone unit="juan" n="2"/><cb:mulu type="卷" n="2"/><cb:juan fun="open" n="2"><cb:jhead>妙法蓮華經玄義釋籤卷第二　　　祿二</cb:jhead></cb:juan>
+<lb ed="L" n="0776a01"/><cb:mulu type="卷" n="2"/><cb:juan fun="open" n="2"><cb:jhead>妙法蓮華經玄義釋籤卷第二　　　祿二</cb:jhead></cb:juan>
 <lb ed="L" n="0776a02"/><byline cb:type="other">隋天台智者大師說</byline>
 <lb ed="L" n="0776a03"/><byline cb:type="other">門人灌頂記</byline>
 <lb ed="L" n="0776a04"/><byline cb:type="author">唐天台沙門湛然釋</byline>
@@ -2258,8 +2260,9 @@ modified: BM 轉 XML 作業
 <lb ed="L" n="0809b05"/>無童子也</note>。</p></cb:def></entry><entry cb:place="inline"><form>跛</form><cb:def><p xml:id="pL115p0809b0506" style="margin-left:1em" cb:place="inline"><note place="inline">補火切足偏癈也</note>。</p></cb:def></entry><entry cb:place="inline"><form>殖</form><cb:def><p xml:id="pL115p0809b0514" style="margin-left:1em" cb:place="inline"><note place="inline">丞職切培<term cb:behaviour="no-norm">㙲</term>也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">瘂</term></form><cb:def><p xml:id="pL115p0809b0521" style="margin-left:1em" cb:place="inline"><note place="inline">於假切病不能言也</note>。</p>
 <lb ed="L" n="0809b06"/></cb:def></entry><entry><form>跢</form><cb:def><p xml:id="pL115p0809b0602" style="margin-left:1em" cb:place="inline"><note place="inline">丁佐切</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">襃</term>貶</form><cb:def><p xml:id="pL115p0809b0607" style="margin-left:1em" cb:place="inline"><note place="inline"><term cb:behaviour="no-norm">襃</term>博毛切揚美也貶悲撿切抑也</note>。</p></cb:def></entry><entry cb:place="inline"><form>捃</form><cb:def><p xml:id="pL115p0809b0621" style="margin-left:1em" cb:place="inline"><note place="inline">居運切拾取也</note>。</p>
 <lb ed="L" n="0809b07"/></cb:def></entry><entry><form>鹵</form><cb:def><p xml:id="pL115p0809b0702" style="margin-left:1em" cb:place="inline"><note place="inline">郎古切沙鹵謂确薄之地也</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="3"/>
 <pb ed="L" xml:id="L115.1490.0810a" n="0810a"/>
-<lb ed="L" n="0810a01"/><milestone unit="juan" n="3"/><cb:mulu type="卷" n="3"/><cb:juan fun="open" n="3"><cb:jhead>妙法蓮華經玄義釋籤卷第三　　　祿三</cb:jhead></cb:juan>
+<lb ed="L" n="0810a01"/><cb:mulu type="卷" n="3"/><cb:juan fun="open" n="3"><cb:jhead>妙法蓮華經玄義釋籤卷第三　　　祿三</cb:jhead></cb:juan>
 <lb ed="L" n="0810a02"/><byline cb:type="other">隋天台智者大師說</byline>
 <lb ed="L" n="0810a03"/><byline cb:type="other">門人灌頂記</byline>
 <lb ed="L" n="0810a04"/><byline cb:type="author">唐天台沙門湛然釋</byline>

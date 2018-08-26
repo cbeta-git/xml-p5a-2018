@@ -4,7 +4,7 @@
 <fileDesc>
 		<titleStmt>
 			<title>Qianlong Edition of the Canon (Shinwenfeng Edition), Electronic version, No. 1642 明道正覺森禪師語錄</title>
-			<title>Qianlong Edition of the Canon, Electronic version, No. 1642 明道正覺森禪師語錄</title>
+			<title xml:lang="zh-Hant">乾隆大藏經（新文豐版）數位版, No. 1642 明道正覺森禪師語錄</title>
 			<author>清 行森說 超德等編</author>
 			<respStmt>
 				<resp>Electronic Version by</resp>
@@ -63,8 +63,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 </revisionDesc>
 </teiHeader>
 <text><body>
+<milestone unit="juan" n="1"/>
 <pb ed="L" xml:id="L155.1642.0003a" n="0003a"/>
-<lb ed="L" n="0003a01"/><milestone unit="juan" n="1"/><cb:div type="other"><cb:mulu type="其他" level="1">目錄</cb:mulu><head>明道正覺䒢溪森禪師語錄目錄　幾八</head>
+<lb ed="L" n="0003a01"/><cb:div type="other"><cb:mulu type="其他" level="1">目錄</cb:mulu><head>明道正覺䒢溪森禪師語錄目錄　幾八</head>
 <lb ed="L" n="0003a02"/><list><item xml:id="itemL155p0003a0201">卷上
 <lb ed="L" n="0003a03"/><list><item xml:id="itemL155p0003a0301">上堂</item>
 <lb ed="L" n="0003a04"/><item xml:id="itemL155p0003a0401">小叅<note place="inline">上</note></item></list></item>
@@ -741,8 +742,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="L" n="0024a03"/>癡獃</note>。</p></cb:def></entry><entry cb:place="inline"><form>獰</form><cb:def><p xml:id="pL155p0024a0304" style="margin-left:1em" cb:place="inline"><note place="inline">奴登切</note>。</p></cb:def></entry><entry cb:place="inline"><form>蝸</form><cb:def><p xml:id="pL155p0024a0308" style="margin-left:1em" cb:place="inline"><note place="inline">古華切音瓜</note>。</p></cb:def></entry><entry cb:place="inline"><form>獦</form><cb:def><p xml:id="pL155p0024a0314" style="margin-left:1em" cb:place="inline"><note place="inline">居曷切音葛</note>。</p></cb:def></entry><entry cb:place="inline"><form>輶</form><cb:def><p xml:id="pL155p0024a0320" style="margin-left:1em" cb:place="inline"><note place="inline">于求切</note>。</p></cb:def></entry>
 <lb ed="L" n="0024a04"/><entry><form>确</form><cb:def><p xml:id="pL155p0024a0402" style="margin-left:1em" cb:place="inline"><note place="inline">轄覺切音學</note>。</p></cb:def></entry><entry cb:place="inline"><form>噯<term cb:behaviour="no-norm">㖿</term></form><cb:def><p xml:id="pL155p0024a0409" style="margin-left:1em" cb:place="inline"><note place="inline">上於<term cb:behaviour="no-norm">盖</term>切音愛下似嗟切音邪聲也</note>。</p></cb:def></entry><entry cb:place="inline"><form>蠛蠓</form>
 <lb ed="L" n="0024a05"/><cb:def><p xml:id="pL155p0024a0501" style="margin-left:1em"><note place="inline">上彌列切音滅下母總切蒙上聲蠛蠓小飛<term cb:behaviour="no-norm"><g ref="#CB08704"/></term></note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="2"/>
 <pb ed="L" xml:id="L155.1642.0024b" n="0024b"/>
-<lb ed="L" n="0024b01"/><milestone unit="juan" n="2"/><cb:mulu type="卷" n="2"/><cb:juan fun="open" n="2"><cb:jhead>明道正覺䒢溪森禪師語錄卷中　幾九</cb:jhead></cb:juan>
+<lb ed="L" n="0024b01"/><cb:mulu type="卷" n="2"/><cb:juan fun="open" n="2"><cb:jhead>明道正覺䒢溪森禪師語錄卷中　幾九</cb:jhead></cb:juan>
 <lb ed="L" n="0024b02"/><byline cb:type="editor">嗣法門人超德等編</byline>
 <lb ed="L" n="0024b03"/><cb:div type="other"><cb:mulu type="其他" level="1">小參下</cb:mulu><head>小叅<note place="inline">下</note></head>
 <lb ed="L" n="0024b04"/><p xml:id="pL155p0024b0401">晚叅師云萬法歸一一歸何處呵呵學人
@@ -1521,8 +1523,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="L" n="0048b09"/>音委下部比切皮上聲<term cb:behaviour="no-norm">骩</term>骳屈曲也</note>。</p></cb:def></entry><entry cb:place="inline"><form>舐</form><cb:def><p xml:id="pL155p0048b0916" style="margin-left:1em" cb:place="inline"><note place="inline">上<term cb:behaviour="no-norm">𥿄</term>切時上聲以舌取食物也</note>。</p></cb:def></entry><entry cb:place="inline"><form>蹠</form>
 <lb ed="L" n="0048b10"/><cb:def><p xml:id="pL155p0048b1001" style="margin-left:1em"><note place="inline">之石切音職</note>。</p></cb:def></entry><entry cb:place="inline"><form>騕</form><cb:def><p xml:id="pL155p0048b1007" style="margin-left:1em" cb:place="inline"><note place="inline">伊鳥切音杳</note>。</p></cb:def></entry><entry cb:place="inline"><form>蠋</form><cb:def><p xml:id="pL155p0048b1013" style="margin-left:1em" cb:place="inline"><note place="inline">神六切音孰</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">鳨</term></form><cb:def><p xml:id="pL155p0048b1019" style="margin-left:1em" cb:place="inline"><note place="inline">林直切音力鳥
 <lb ed="L" n="0048b11"/>似<term cb:behaviour="no-norm">鳬</term>而小</note>。</p></cb:def></entry><entry cb:place="inline"><form>喋</form><cb:def><p xml:id="pL155p0048b1106" style="margin-left:1em" cb:place="inline"><note place="inline">徒協切甜入聲</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="3"/>
 <pb ed="L" xml:id="L155.1642.0049a" n="0049a"/>
-<lb ed="L" n="0049a01"/><milestone unit="juan" n="3"/><cb:mulu type="卷" n="3"/><cb:juan fun="open" n="3"><cb:jhead>明道正覺䒢溪森禪師語錄卷下　幾十</cb:jhead></cb:juan>
+<lb ed="L" n="0049a01"/><cb:mulu type="卷" n="3"/><cb:juan fun="open" n="3"><cb:jhead>明道正覺䒢溪森禪師語錄卷下　幾十</cb:jhead></cb:juan>
 <lb ed="L" n="0049a02"/><byline cb:type="editor">嗣法門人超德等編</byline>
 <lb ed="L" n="0049a03"/><cb:div type="other"><cb:mulu type="其他" level="1">機緣</cb:mulu><head>機緣</head>
 <lb ed="L" n="0049a04"/><p xml:id="pL155p0049a0401">僧問如何是烏道玄路師云白雲飛起紅

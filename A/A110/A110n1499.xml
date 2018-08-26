@@ -54,8 +54,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 </revisionDesc>
 </teiHeader>
 <text><body>
+<milestone unit="juan" n="1"/>
 <pb ed="A" xml:id="A110.1499.0661b" n="0661b"/>
-<lb ed="A" n="0661b01"/><milestone unit="juan" n="1"/><cb:mulu type="卷" n="1"/>
+<lb ed="A" n="0661b01"/><cb:mulu type="卷" n="1"/>
 <lb ed="A" n="0661b02"/><cb:div type="other"><cb:mulu type="其他" level="1">舊入藏錄</cb:mulu><cb:div type="other"><cb:mulu type="其他" level="2">小乘重單合譯經</cb:mulu>
 <lb ed="A" n="0661b03"/><list><item xml:id="itemA110p0661b0301"><note n="0661b0301" resp="CBETA" type="add">四諦經一卷【CB】，［－］【金藏】</note><app n="0661b0301"><lem wit="【CB】" resp="CBETA.maha">四諦經一卷</lem><rdg wit="【金藏】"><space quantity="0"/></rdg></app>
 <lb ed="A" n="0661b04"/><list><item xml:id="itemA110p0661b0401">三藏安世高譯</item></list></item>
@@ -352,8 +353,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="A" n="0672b10"/><item xml:id="itemA110p0672b1001">五百弟子自說本起經一卷</item>
 <lb ed="A" n="0672b11"/><item xml:id="itemA110p0672b1101">大迦葉本經一卷</item>
 <lb ed="A" n="0672b12"/><item xml:id="itemA110p0672b1201">四自侵經<note n="0672b1201" resp="CBETA" type="add">一卷【CB】，［－］【金藏】</note><app n="0672b1201"><lem wit="【CB】" resp="CBETA.maha">一卷</lem><rdg wit="【金藏】"><space quantity="0"/></rdg></app></item></list></cb:div></cb:div>
+<milestone unit="juan" n="2"/>
 <pb ed="A" xml:id="A110.1499.0673b" n="0673b"/>
-<lb ed="A" n="0673b01"/><milestone unit="juan" n="2"/><cb:mulu type="卷" n="2"/><cb:div type="other"><cb:mulu type="其他" level="1">新入藏錄</cb:mulu><cb:div type="other"><cb:mulu type="其他" level="2">皇朝新翻藏乘統收錄上</cb:mulu><list><item xml:id="itemA110p0673b0101">廣品歷章三十卷三帙<note place="inline">亦名一<unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/>
+<lb ed="A" n="0673b01"/><cb:mulu type="卷" n="2"/><cb:div type="other"><cb:mulu type="其他" level="1">新入藏錄</cb:mulu><cb:div type="other"><cb:mulu type="其他" level="2">皇朝新翻藏乘統收錄上</cb:mulu><list><item xml:id="itemA110p0673b0101">廣品歷章三十卷三帙<note place="inline">亦名一<unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/>
 <lb ed="A" n="0673b02"/>入<unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/><unclear/></note>
 <lb ed="A" n="0673b03"/><list><item xml:id="itemA110p0673b0301">第一帙十卷高字号</item>
 <lb ed="A" n="0673b04"/><item xml:id="itemA110p0673b0401">第二帙十卷冠字号</item>

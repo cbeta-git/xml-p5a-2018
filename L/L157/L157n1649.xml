@@ -4,7 +4,7 @@
 <fileDesc>
 		<titleStmt>
 			<title>Qianlong Edition of the Canon (Shinwenfeng Edition), Electronic version, No. 1649 山茨際禪師語錄</title>
-			<title>Qianlong Edition of the Canon, Electronic version, No. 1649 山茨際禪師語錄</title>
+			<title xml:lang="zh-Hant">乾隆大藏經（新文豐版）數位版, No. 1649 山茨際禪師語錄</title>
 			<author>清 通際撰述 達尊．達謙等編次</author>
 			<respStmt>
 				<resp>Electronic Version by</resp>
@@ -60,8 +60,9 @@ BM 轉 XML 標記作業
 </revisionDesc>
 </teiHeader>
 <text><body>
+<milestone unit="juan" n="1"/>
 <pb ed="L" xml:id="L157.1649.0609a" n="0609a"/>
-<lb ed="L" n="0609a01"/><milestone unit="juan" n="1"/><cb:div type="xu"><cb:mulu type="序" level="1">序</cb:mulu><head>南嶽山茨際禪師語錄序　　　　　理七</head>
+<lb ed="L" n="0609a01"/><cb:div type="xu"><cb:mulu type="序" level="1">序</cb:mulu><head>南嶽山茨際禪師語錄序　　　　　理七</head>
 <lb ed="L" n="0609a02"/><byline cb:type="author">虎巖法弟道忞撰</byline>
 <lb ed="L" n="0609a03"/><p xml:id="pL157p0609a0301">孔子以詩書禮樂斆弟子葢三千焉身通六
 <lb ed="L" n="0609a04"/>藝者七十有二人至於默而識之其心三月
@@ -673,8 +674,9 @@ BM 轉 XML 標記作業
 <lb ed="L" n="0628a02"/><cb:div type="note"><entry><form><term cb:behaviour="no-norm">斆</term></form><cb:def><p xml:id="pL157p0628a0202" style="margin-left:1em" cb:place="inline"><note place="inline">胡孝切音效教也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">𦥝</term></form><cb:def><p xml:id="pL157p0628a0210" style="margin-left:1em" cb:place="inline"><note place="inline">伊鳥切遙上聲抒臼也</note>。</p></cb:def></entry><entry cb:place="inline"><form>糝</form><cb:def><p xml:id="pL157p0628a0220" style="margin-left:1em" cb:place="inline"><note place="inline">桑感切音<term cb:behaviour="no-norm">𢕕</term>雜也</note>。</p></cb:def></entry>
 <lb ed="L" n="0628a03"/><entry><form>喊</form><cb:def><p xml:id="pL157p0628a0302" style="margin-left:1em" cb:place="inline"><note place="inline">苦濫切音闞呵也</note>。</p></cb:def></entry><entry cb:place="inline"><form>逴</form><cb:def><p xml:id="pL157p0628a0310" style="margin-left:1em" cb:place="inline"><note place="inline">敕角切音踔綽略速行也</note>。</p></cb:def></entry><entry cb:place="inline"><form>膩</form><cb:def><p xml:id="pL157p0628a0321" style="margin-left:1em" cb:place="inline"><note place="inline">乃計切音殢肥也</note>。</p></cb:def></entry>
 <lb ed="L" n="0628a04"/><entry><form><g ref="#CB16333"/></form><cb:def><p xml:id="pL157p0628a0402" style="margin-left:1em" cb:place="inline"><note place="inline">狼敵切音<term cb:behaviour="no-norm">歴</term>病骨出也</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="2"/>
 <pb ed="L" xml:id="L157.1649.0628b" n="0628b"/>
-<lb ed="L" n="0628b01"/><milestone unit="juan" n="2"/><cb:mulu type="卷" n="2"/><cb:juan fun="open" n="2"><cb:jhead>南嶽山茨際禪師語錄卷二　　　　理八</cb:jhead></cb:juan>
+<lb ed="L" n="0628b01"/><cb:mulu type="卷" n="2"/><cb:juan fun="open" n="2"><cb:jhead>南嶽山茨際禪師語錄卷二　　　　理八</cb:jhead></cb:juan>
 <lb ed="L" n="0628b02"/><byline cb:type="editor">門人達尊達謙等編次</byline>
 <lb ed="L" n="0628b03"/><cb:div type="other"><cb:mulu type="其他" level="1">拈古</cb:mulu><head>拈古</head>
 <lb ed="L" n="0628b04"/><cb:div type="orig"><p xml:id="pL157p0628b0401">舉世尊纔生乃一手指天一手指地周行七
@@ -1222,8 +1224,9 @@ BM 轉 XML 標記作業
 <lb ed="L" n="0645b02"/><cb:div type="note"><entry><form>繩</form><cb:def><p xml:id="pL157p0645b0202" style="margin-left:1em" cb:place="inline"><note place="inline">神陵切音<term cb:behaviour="no-norm">乗</term>索也</note>。</p></cb:def></entry><entry cb:place="inline"><form>伺</form><cb:def><p xml:id="pL157p0645b0210" style="margin-left:1em" cb:place="inline"><note place="inline">息吏切音四偵候也</note>。</p></cb:def></entry><entry cb:place="inline"><form>屹</form><cb:def><p xml:id="pL157p0645b0219" style="margin-left:1em" cb:place="inline"><note place="inline">魚乞切音仡山獨立壯武
 <lb ed="L" n="0645b03"/>貌</note>。</p></cb:def></entry><entry cb:place="inline"><form>覿</form><cb:def><p xml:id="pL157p0645b0303" style="margin-left:1em" cb:place="inline"><note place="inline">杜歷切音狄見也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">竛</term></form><cb:def><p xml:id="pL157p0645b0311" style="margin-left:1em" cb:place="inline"><note place="inline">離呈切音靈</note>。</p></cb:def></entry><entry cb:place="inline"><form>竮</form><cb:def><p xml:id="pL157p0645b0317" style="margin-left:1em" cb:place="inline"><note place="inline">披經切聘平聲<term cb:behaviour="no-norm">竛</term>竮行不
 <lb ed="L" n="0645b04"/>正貌</note>。</p></cb:def></entry><entry cb:place="inline"><form>窩</form><cb:def><p xml:id="pL157p0645b0404" style="margin-left:1em" cb:place="inline"><note place="inline">烏禾切音倭藏也窟也穴居也</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="3"/>
 <pb ed="L" xml:id="L157.1649.0646a" n="0646a"/>
-<lb ed="L" n="0646a01"/><milestone unit="juan" n="3"/><cb:mulu type="卷" n="3"/><cb:juan fun="open" n="3"><cb:jhead>南嶽山茨際禪師語錄卷三　　　　理九</cb:jhead></cb:juan>
+<lb ed="L" n="0646a01"/><cb:mulu type="卷" n="3"/><cb:juan fun="open" n="3"><cb:jhead>南嶽山茨際禪師語錄卷三　　　　理九</cb:jhead></cb:juan>
 <lb ed="L" n="0646a02"/><byline cb:type="editor">門人達蒭等編次</byline>
 <lb ed="L" n="0646a03"/><cb:div type="other"><cb:mulu type="其他" level="1">機緣</cb:mulu><head>機緣</head>
 <lb ed="L" n="0646a04"/><p xml:id="pL157p0646a0401">師見金粟密雲和尚問客散堂空時如何密
@@ -1850,8 +1853,9 @@ BM 轉 XML 標記作業
 <lb ed="L" n="0665b01"/><cb:div type="w"><head>音釋</head>
 <lb ed="L" n="0665b02"/><cb:div type="note"><entry><form>搕</form><cb:def><p xml:id="pL157p0665b0202" style="margin-left:1em" cb:place="inline"><note place="inline">克盍切音榼取也又擊也</note>。</p></cb:def></entry><entry cb:place="inline"><form>癖</form><cb:def><p xml:id="pL157p0665b0213" style="margin-left:1em" cb:place="inline"><note place="inline">匹亦切音僻腹病也</note>。</p></cb:def></entry><entry cb:place="inline"><form>燹</form><cb:def><p xml:id="pL157p0665b0222" style="margin-left:1em" cb:place="inline"><note place="inline">蘇典切音銑火也</note>。</p></cb:def></entry>
 <lb ed="L" n="0665b03"/><entry><form>洽</form><cb:def><p xml:id="pL157p0665b0302" style="margin-left:1em" cb:place="inline"><note place="inline">胡夾切音狹合也</note>。</p></cb:def></entry><entry cb:place="inline"><form>桷</form><cb:def><p xml:id="pL157p0665b0310" style="margin-left:1em" cb:place="inline"><note place="inline">古岳切音角欀也椽方曰桷</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="4"/>
 <pb ed="L" xml:id="L157.1649.0666a" n="0666a"/>
-<lb ed="L" n="0666a01"/><milestone unit="juan" n="4"/><cb:mulu type="卷" n="4"/><cb:juan fun="open" n="4"><cb:jhead>南嶽山茨際禪師語錄卷四　　　　理十</cb:jhead></cb:juan>
+<lb ed="L" n="0666a01"/><cb:mulu type="卷" n="4"/><cb:juan fun="open" n="4"><cb:jhead>南嶽山茨際禪師語錄卷四　　　　理十</cb:jhead></cb:juan>
 <lb ed="L" n="0666a02"/><byline cb:type="editor">門人達剛達旨編次</byline>
 <lb ed="L" n="0666a03"/><cb:div type="other"><cb:mulu type="其他" level="1">詩偈</cb:mulu><head>詩偈</head>
 <lb ed="L" n="0666a04"/><cb:div type="other"><cb:mulu type="其他" level="2">擬寒山</cb:mulu><head>擬寒山</head>

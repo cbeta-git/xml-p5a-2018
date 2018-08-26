@@ -155,9 +155,9 @@ Added comment  for Emacs
  </revisionDesc>
 </teiHeader>
 <text><body>
+<milestone n="1" unit="juan"/>
 <pb n="0830a" ed="T" xml:id="T13.0415.0830a"/>
 <lb n="0830a01" ed="T"/>
-<milestone n="1" unit="juan"/>
 <lb n="0830a02" ed="T"/><cb:docNumber>No. 415 [No. 414]</cb:docNumber><cb:div type="pin">
 <lb n="0830a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title><note n="0830001" resp="Taisho" type="orig" place="foot text">（佛說）＋大【三】＊【宮】</note><note n="0830001" resp="CBETA" type="mod">大【大】＊，佛說大【宋】＊【元】＊【明】＊【宮】</note><app n="0830001"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">佛說大</rdg></app>方等大集<note n="0830002" resp="Taisho" type="orig" place="foot text">〔經〕－【三】＊【宮】</note><note n="0830002" resp="CBETA" type="mod">經【大】＊，〔－〕【宋】＊【元】＊【明】＊【宮】</note><app n="0830002"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>菩薩念佛三昧
 <lb n="0830a04" ed="T"/><note n="0830003" resp="Taisho" type="orig" place="foot text">分＝經【三】＊【宮】</note><note n="0830003" resp="CBETA" type="mod">分【大】＊，經【宋】＊【元】＊【明】＊【宮】</note><app n="0830003"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">經</rdg></app></title>卷第一</cb:jhead></cb:juan>
@@ -532,8 +532,8 @@ Added comment  for Emacs
 <lb n="0834a13" ed="T"/>見！彼王以福業故，天下豐饒，凡是百味恒滿
 <lb n="0834a14" ed="T"/>倉厨，繒錦、諸珍盈溢府庫。</p>
 <lb n="0834a15" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><app type="star" corresp="#0830001"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【宋】【元】【明】">佛說大</rdg></app>方等大集<app type="star" corresp="#0830002"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>菩薩念佛三昧<app type="star" corresp="#0830003"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【元】【明】">經</rdg></app></title>卷第一</cb:jhead></cb:juan>
-<lb n="0834a16" ed="T"/>
 <milestone n="2" unit="juan"/>
+<lb n="0834a16" ed="T"/>
 <lb n="0834a17" ed="T"/>
 <lb n="0834a18" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="002" type="卷"/><cb:mulu level="2">2</cb:mulu><cb:jhead><title><anchor xml:id="fxT13p0834a04"/>大方等大集<anchor xml:id="fxT13p0834a05"/>經菩薩念佛三昧
 <lb n="0834a19" ed="T"/><note n="0834003" resp="Taisho" type="orig" place="foot text">分＋（經）【宋】【宮】，經【元】【明】</note><note n="0834003" resp="CBETA" type="mod">分【大】，分經【宋】【宮】，經【元】【明】</note><app n="0834003"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【宮】">分經</rdg><rdg resp="Taisho" wit="【元】【明】">經</rdg></app></title>卷第二</cb:jhead>
@@ -882,8 +882,8 @@ Added comment  for Emacs
 <lb n="0838a02" ed="T"/><l style="text-indent:1em">為利世間天人故，</l><l>世尊宣說是事已，</l>
 <lb n="0838a03" ed="T"/><l style="text-indent:1em">遂下法座而徐行，</l><l>即還歸寂於本室。</l></lg>
 <lb n="0838a04" ed="T"/><cb:juan n="002" fun="close"><cb:jhead><title><anchor xml:id="fxT13p0838a01"/>大方等大集<anchor xml:id="fxT13p0838a02"/>經菩薩念佛三昧<note n="0838001" resp="Taisho" type="orig" place="foot text">分＝經【三】＊【宮】</note><note n="0838001" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->分【大】＊，經【宋】＊【元】＊【明】＊【宮】</note><app n="0838001"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">經</rdg></app></title>卷第二</cb:jhead></cb:juan></cb:div>
-<lb n="0838a05" ed="T"/>
 <milestone n="3" unit="juan"/>
+<lb n="0838a05" ed="T"/>
 <lb n="0838a06" ed="T"/><cb:div type="pin">
 <lb n="0838a07" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="003" type="卷"/><cb:jhead><title><anchor xml:id="fxT13p0838a03"/>大方等大集<anchor xml:id="fxT13p0838a04"/>經菩薩念佛三昧
 <lb n="0838a08" ed="T"/><note n="0838002" resp="Taisho" type="orig" place="foot text">分＋（經）【宋】【元】【宮】，經【明】</note><note n="0838002" resp="CBETA" type="mod">分【大】，分經【宋】【元】【宮】，經【明】</note><app n="0838002"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">分經</rdg><rdg resp="Taisho" wit="【明】">經</rdg></app></title>卷第三</cb:jhead></cb:juan>
@@ -1293,9 +1293,9 @@ Added comment  for Emacs
 <lb n="0842b22" ed="T"/>行大乘，已於諸法種眾善根，今能如是大師
 <lb n="0842b23" ed="T"/>子<note n="0842b2301" resp="CBETA" type="add">吼【CB】【麗-CB】，孔【大】</note><app n="0842b2301"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">吼<note type="cf1">K07n0065_p0844c20</note></lem><rdg wit="【大】">孔</rdg></app>。」</p>
 <lb n="0842b24" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title><anchor xml:id="fxT13p0842b01"/>大方等大集<anchor xml:id="fxT13p0842b02"/>經菩薩念佛三昧分</title>卷第三</cb:jhead></cb:juan>
+<milestone n="4" unit="juan"/>
 <pb n="0842c" ed="T" xml:id="T13.0415.0842c"/>
 <lb n="0842c01" ed="T"/>
-<milestone n="4" unit="juan"/>
 <lb n="0842c02" ed="T"/><cb:juan n="004" fun="open"><cb:mulu n="004" type="卷"/><cb:jhead><title><anchor xml:id="fxT13p0842c01"/>大方等大集<anchor xml:id="fxT13p0842c02"/>經菩薩念佛三昧
 <lb n="0842c03" ed="T"/><note n="0842008" resp="Taisho" type="orig" place="foot text">分＋（經）【宋】【宮】，經【元】【明】</note><note n="0842008" resp="CBETA" type="mod">分【大】，分經【宋】【宮】，經【元】【明】</note><app n="0842008"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【宮】">分經</rdg><rdg resp="Taisho" wit="【元】【明】">經</rdg></app></title>卷第四</cb:jhead>
 <lb n="0842c04" ed="T"/>
@@ -1676,8 +1676,8 @@ Added comment  for Emacs
 <lb n="0846c19" ed="T"/><l>虛空可盡邊，</l><l>須彌易稱量，</l>
 <lb n="0846c20" ed="T"/><l>無上天人師，</l><l>辯才深難測。」</l></lg>
 <lb n="0846c21" ed="T"/><cb:juan n="004" fun="close"><cb:jhead><title><anchor xml:id="fxT13p0846c01"/>大方等大集<anchor xml:id="fxT13p0846c02"/>經菩薩念佛三昧分</title>卷第四</cb:jhead></cb:juan>
-<lb n="0846c22" ed="T"/>
 <milestone n="5" unit="juan"/>
+<lb n="0846c22" ed="T"/>
 <lb n="0846c23" ed="T"/>
 <lb n="0846c24" ed="T"/><cb:juan n="005" fun="open"><cb:mulu n="005" type="卷"/><cb:jhead><title><anchor xml:id="fxT13p0846c03"/>大方等大集<anchor xml:id="fxT13p0846c04"/>經菩薩念佛三昧分</title>
 <lb n="0846c25" ed="T"/>卷第五</cb:jhead>
@@ -2050,8 +2050,8 @@ Added comment  for Emacs
 <lb n="0851a02" ed="T"/><l>世尊神變難窮盡，</l><l>如我今者<note n="0851001" resp="Taisho" type="orig" place="foot text">謂＝請【三】【宮】</note><note n="0851001" resp="CBETA" type="mod">謂【大】，請【宋】【元】【明】【宮】</note><app n="0851001"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">請</rdg></app>宣說，</l>
 <lb n="0851a03" ed="T"/><l>我以歎佛諸功德，</l><l>畢竟利益諸群生。」</l></lg>
 <lb n="0851a04" ed="T"/><cb:juan n="005" fun="close"><cb:jhead><title><anchor xml:id="fxT13p0851a01"/>大方等大集<anchor xml:id="fxT13p0851a02"/>經菩薩念佛三昧分</title>卷第五</cb:jhead></cb:juan></cb:div>
-<lb n="0851a05" ed="T"/>
 <milestone n="6" unit="juan"/>
+<lb n="0851a05" ed="T"/>
 <lb n="0851a06" ed="T"/><cb:div type="pin">
 <lb n="0851a07" ed="T"/><cb:juan n="006" fun="open"><cb:mulu n="006" type="卷"/><cb:jhead><title><note n="0851002" resp="Taisho" type="orig" place="foot text">（佛說）＋大【明】</note><note n="0851002" resp="CBETA" type="mod">大【大】，佛說大【明】</note><app n="0851002"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【明】">佛說大</rdg></app>方等大集<anchor xml:id="fxT13p0851a03"/>經菩薩念佛三昧
 <lb n="0851a08" ed="T"/><note n="0851003" resp="Taisho" type="orig" place="foot text">分＋（經）【宋】【宮】，經【元】【明】</note><note n="0851003" resp="CBETA" type="mod">分【大】，分經【宋】【宮】，經【元】【明】</note><app n="0851003"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【宮】">分經</rdg><rdg resp="Taisho" wit="【元】【明】">經</rdg></app></title>卷第六</cb:jhead></cb:juan>
@@ -2439,8 +2439,8 @@ Added comment  for Emacs
 <pb n="0855b" ed="T" xml:id="T13.0415.0855b"/>
 <lb n="0855b01" ed="T"/><l>藉此菩薩諸功德，</l><l>速<note n="0855003" resp="Taisho" type="orig" place="foot text">證＝登【明】</note><note n="0855003" resp="CBETA" type="mod">證【大】，登【明】</note><app n="0855003"><lem wit="【大】">證</lem><rdg resp="Taisho" wit="【明】">登</rdg></app>寂靜三昧王。」</l></lg>
 <lb n="0855b02" ed="T"/><cb:juan n="006" fun="close"><cb:jhead><title><anchor xml:id="fxT13p0855b01"/>大方等大集<anchor xml:id="fxT13p0855b02"/>經菩薩念佛三昧<note n="0855004" resp="Taisho" type="orig" place="foot text">分＝經【三】【宮】</note><note n="0855004" resp="CBETA" type="mod">分【大】，經【宋】【元】【明】【宮】</note><app n="0855004"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">經</rdg></app></title>卷第六</cb:jhead></cb:juan></cb:div>
-<lb n="0855b03" ed="T"/>
 <milestone n="7" unit="juan"/>
+<lb n="0855b03" ed="T"/>
 <lb n="0855b04" ed="T"/><cb:div type="pin">
 <lb n="0855b05" ed="T"/><cb:juan n="007" fun="open"><cb:mulu n="007" type="卷"/><cb:jhead><title><anchor xml:id="fxT13p0855b03"/>大方等大集<anchor xml:id="fxT13p0855b04"/>經菩薩念佛三昧
 <lb n="0855b06" ed="T"/><note n="0855005" resp="Taisho" type="orig" place="foot text">分＋（經）【宋】【宮】，經【元】【明】</note><note n="0855005" resp="CBETA" type="mod">分【大】，分經【宋】【宮】，經【元】【明】</note><app n="0855005"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【宮】">分經</rdg><rdg resp="Taisho" wit="【元】【明】">經</rdg></app></title>卷第七</cb:jhead></cb:juan>
@@ -2835,8 +2835,8 @@ Added comment  for Emacs
 <lb n="0859c05" ed="T"/><l>是為最勝寂靜地，</l><l>外道於中皆荒迷。</l>
 <lb n="0859c06" ed="T"/><l><note n="0859004" resp="Taisho" type="orig" place="foot text">若＝昔【宮】</note><note n="0859004" resp="CBETA" type="mod">若【大】，昔【宮】</note><app n="0859004"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【宮】">昔</rdg></app>於此法求正勤，</l><l>必當速得是三昧。」</l></lg>
 <lb n="0859c07" ed="T"/><cb:juan n="007" fun="close"><cb:jhead><title><anchor xml:id="fxT13p0859c01"/>大方等大集<anchor xml:id="fxT13p0859c02"/>經菩薩念佛三昧分</title>卷第七</cb:jhead></cb:juan>
-<lb n="0859c08" ed="T"/>
 <milestone n="8" unit="juan"/>
+<lb n="0859c08" ed="T"/>
 <lb n="0859c09" ed="T"/><cb:juan n="008" fun="open"><cb:mulu n="008" type="卷"/><cb:jhead><title><anchor xml:id="fxT13p0859c03"/>大方等大集<anchor xml:id="fxT13p0859c04"/>經菩薩念佛三昧
 <lb n="0859c10" ed="T"/><note n="0859005" resp="Taisho" type="orig" place="foot text">分＋（經）【宋】【宮】，經【元】【明】</note><note n="0859005" resp="CBETA" type="mod">分【大】，分經【宋】【宮】，經【元】【明】</note><app n="0859005"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【宮】">分經</rdg><rdg resp="Taisho" wit="【元】【明】">經</rdg></app></title>卷第八</cb:jhead>
 <lb n="0859c11" ed="T"/>
@@ -3164,8 +3164,8 @@ Added comment  for Emacs
 <lb n="0863b03" ed="T"/>生慚愧心、於諸辟支佛乘所生慚愧心、於諸
 <lb n="0863b04" ed="T"/>天人所生慚愧心。</p>
 <lb n="0863b05" ed="T"/><cb:juan n="008" fun="close"><cb:jhead><title><anchor xml:id="fxT13p0863b01"/>大方等大集<anchor xml:id="fxT13p0863b02"/>經菩薩念佛三昧<note n="0863001" resp="Taisho" type="orig" place="foot text">分＝經【三】【宮】</note><note n="0863001" resp="CBETA" type="mod">分【大】，經【宋】【元】【明】【宮】</note><app n="0863001"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">經</rdg></app></title>卷第八</cb:jhead></cb:juan>
-<lb n="0863b06" ed="T"/>
 <milestone n="9" unit="juan"/>
+<lb n="0863b06" ed="T"/>
 <lb n="0863b07" ed="T"/>
 <lb n="0863b08" ed="T"/><cb:juan n="009" fun="open"><cb:mulu n="009" type="卷"/><cb:jhead><title><anchor xml:id="fxT13p0863b03"/>大方等大集<anchor xml:id="fxT13p0863b04"/>經菩薩念佛三昧
 <lb n="0863b09" ed="T"/><note n="0863002" resp="Taisho" type="orig" place="foot text">分＋（經）【宋】【宮】，經【元】【明】</note><note n="0863002" resp="CBETA" type="mod">分【大】，分經【宋】【宮】，經【元】【明】</note><app n="0863002"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【宮】">分經</rdg><rdg resp="Taisho" wit="【元】【明】">經</rdg></app></title>卷第九</cb:jhead>
@@ -3575,9 +3575,9 @@ Added comment  for Emacs
 <lb n="0867c23" ed="T"/><l>誰求疾成大菩提？</l><l>應為世間常說法，</l>
 <lb n="0867c24" ed="T"/><l>而欲淨斯最勝地，</l><l>此三昧樂則能為。』</l></lg>
 <lb n="0867c25" ed="T"/><cb:juan n="009" fun="close"><cb:jhead><title><anchor xml:id="fxT13p0867c01"/>大方等大集<anchor xml:id="fxT13p0867c02"/>經菩薩念佛三昧<note n="0867008" resp="Taisho" type="orig" place="foot text">分＝經【三】【宮】</note><note n="0867008" resp="CBETA" type="mod">分【大】，經【宋】【元】【明】【宮】</note><app n="0867008"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">經</rdg></app></title>卷第九</cb:jhead></cb:juan>
+<milestone n="10" unit="juan"/>
 <pb n="0868a" ed="T" xml:id="T13.0415.0868a"/>
 <lb n="0868a01" ed="T"/>
-<milestone n="10" unit="juan"/>
 <lb n="0868a02" ed="T"/><cb:juan n="010" fun="open"><cb:mulu n="010" type="卷"/><cb:jhead><title><anchor xml:id="fxT13p0868a01"/>大方等大集<anchor xml:id="fxT13p0868a02"/>經菩薩念佛三昧
 <lb n="0868a03" ed="T"/><note n="0868001" resp="Taisho" type="orig" place="foot text">分＋（經）【宋】【宮】，經【元】【明】</note><note n="0868001" resp="CBETA" type="mod">分【大】，分經【宋】【宮】，經【元】【明】</note><app n="0868001"><lem wit="【大】">分</lem><rdg resp="Taisho" wit="【宋】【宮】">分經</rdg><rdg resp="Taisho" wit="【元】【明】">經</rdg></app></title>卷第十</cb:jhead>
 <lb n="0868a04" ed="T"/>

@@ -4,7 +4,7 @@
 <fileDesc>
 		<titleStmt>
 			<title>Qianlong Edition of the Canon (Shinwenfeng Edition), Electronic version, No. 1608 大藏聖教法寶標目</title>
-			<title>Qianlong Edition of the Canon, Electronic version, No. 1608 大藏聖教法寶標目</title>
+			<title xml:lang="zh-Hant">乾隆大藏經（新文豐版）數位版, No. 1608 大藏聖教法寶標目</title>
 			<author>元 王古撰</author>
 			<respStmt>
 				<resp>Electronic Version by</resp>
@@ -72,8 +72,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 </revisionDesc>
 </teiHeader>
 <text><body>
+<milestone unit="juan" n="1"/>
 <pb ed="L" xml:id="L143.1608.0507a" n="0507a"/>
-<lb ed="L" n="0507a01"/><milestone unit="juan" n="1"/><cb:div type="other"><cb:mulu type="其他" level="1">序偈</cb:mulu><head>大藏聖教法寶標目序偈　　　　　<g ref="#CB08887"/>一</head>
+<lb ed="L" n="0507a01"/><cb:div type="other"><cb:mulu type="其他" level="1">序偈</cb:mulu><head>大藏聖教法寶標目序偈　　　　　<g ref="#CB08887"/>一</head>
 <lb ed="L" n="0507a02"/><byline cb:type="author">元清源居士王古撰</byline>
 <lb ed="L" n="0507a03"/><lg xml:id="lgL143p0507a0301" type="abnormal"><l style="text-indent:0em">歸命正徧知</l><l style="text-indent:1em">如來妙法藏</l><l style="text-indent:1em">十方大菩薩</l>
 <lb ed="L" n="0507a04"/><l style="text-indent:0em">三尊真聖眾</l><l style="text-indent:1em">我今於法寶</l><l style="text-indent:1em">願作勝妙緣</l>
@@ -892,8 +893,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="L" n="0532a10"/>也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">檝</term></form><cb:def><p xml:id="pL143p0532a1003" style="margin-left:1em" cb:place="inline"><note place="inline">即涉切舟櫂也</note>。</p></cb:def></entry><entry cb:place="inline"><form>蹬</form><cb:def><p xml:id="pL143p0532a1010" style="margin-left:1em" cb:place="inline"><note place="inline">丁鄧切陛級也道也</note>。</p></cb:def></entry><entry cb:place="inline"><form>矛</form><cb:def><p xml:id="pL143p0532a1019" style="margin-left:1em" cb:place="inline"><note place="inline">莫侯切勾兵也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">韲</term></form><cb:def><p xml:id="pL143p0532a1026" style="margin-left:1em" cb:place="inline"><note place="inline">祖稽
 <lb ed="L" n="0532a11"/>切碎也</note>。</p></cb:def></entry><entry cb:place="inline"><form>覃</form><cb:def><p xml:id="pL143p0532a1105" style="margin-left:1em" cb:place="inline"><note place="inline">徒含切及也</note>。</p></cb:def></entry><entry cb:place="inline"><form>殫</form><cb:def><p xml:id="pL143p0532a1111" style="margin-left:1em" cb:place="inline"><note place="inline">都寒切極盡也</note>。</p></cb:def></entry><entry cb:place="inline"><form>捔</form><cb:def><p xml:id="pL143p0532a1118" style="margin-left:1em" cb:place="inline"><note place="inline">古岳切校也</note>。</p></cb:def></entry><entry cb:place="inline"><form>槍</form><cb:def><p xml:id="pL143p0532a1124" style="margin-left:1em" cb:place="inline"><note place="inline">七羊
 <lb ed="L" n="0532a12"/>切<term cb:behaviour="no-norm">矟</term>也</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="2"/>
 <pb ed="L" xml:id="L143.1608.0532b" n="0532b"/>
-<lb ed="L" n="0532b01"/><milestone unit="juan" n="2"/><cb:mulu type="卷" n="2"/><cb:juan fun="open" n="2"><cb:jhead>大藏聖教法寶標目卷第二　　　　<g ref="#CB08887"/>二</cb:jhead></cb:juan>
+<lb ed="L" n="0532b01"/><cb:mulu type="卷" n="2"/><cb:juan fun="open" n="2"><cb:jhead>大藏聖教法寶標目卷第二　　　　<g ref="#CB08887"/>二</cb:jhead></cb:juan>
 <lb ed="L" n="0532b02"/><byline cb:type="author">元清源居士王古撰</byline>
 <lb ed="L" n="0532b03"/><list><item><list><item xml:id="itemL143p0532b0301"><p xml:id="pL143p0532b0301">第三十四功德寶華敷菩薩會</p>
 <lb ed="L" n="0532b04"/><p xml:id="pL143p0532b0401" style="margin-left:1em">右當第一百一卷。從初至半。說持誦十方
@@ -1541,8 +1543,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="L" n="0552b06"/><cb:div type="w"><p cb:type="head3" xml:id="pL143p0552b0601">音釋</p>
 <lb ed="L" n="0552b07"/><cb:div type="note"><entry><form>鬘</form><cb:def><p xml:id="pL143p0552b0702" style="margin-left:1em" cb:place="inline"><note place="inline">莫班切</note>。</p></cb:def></entry><entry cb:place="inline"><form>眴</form><cb:def><p xml:id="pL143p0552b0706" style="margin-left:1em" cb:place="inline"><note place="inline">輸閏切</note>。</p></cb:def></entry><entry cb:place="inline"><form>坏</form><cb:def><p xml:id="pL143p0552b0710" style="margin-left:1em" cb:place="inline"><note place="inline">鋪杯切未燒瓦器也</note>。</p></cb:def></entry><entry cb:place="inline"><form>盲</form><cb:def><p xml:id="pL143p0552b0719" style="margin-left:1em" cb:place="inline"><note place="inline">莫耕切目不明也</note>。</p></cb:def></entry>
 <lb ed="L" n="0552b08"/><entry><form>盥</form><cb:def><p xml:id="pL143p0552b0802" style="margin-left:1em" cb:place="inline"><note place="inline">古玩切澡于也</note>。</p></cb:def></entry><entry cb:place="inline"><form>讖</form><cb:def><p xml:id="pL143p0552b0809" style="margin-left:1em" cb:place="inline"><note place="inline">楚讚切</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">壜</term></form><cb:def><p xml:id="pL143p0552b0813" style="margin-left:1em" cb:place="inline"><note place="inline">徒含切甒屬甒音武</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="3"/>
 <pb ed="L" xml:id="L143.1608.0553a" n="0553a"/>
-<lb ed="L" n="0553a01"/><milestone unit="juan" n="3"/><cb:mulu type="卷" n="3"/><cb:juan fun="open" n="3"><cb:jhead>大藏聖教法寶標目卷第三　　　　<g ref="#CB08887"/>三</cb:jhead></cb:juan>
+<lb ed="L" n="0553a01"/><cb:mulu type="卷" n="3"/><cb:juan fun="open" n="3"><cb:jhead>大藏聖教法寶標目卷第三　　　　<g ref="#CB08887"/>三</cb:jhead></cb:juan>
 <lb ed="L" n="0553a02"/><byline cb:type="author">元清源居士王古撰</byline>
 <lb ed="L" n="0553a03"/><list><item xml:id="itemL143p0553a0301"><p xml:id="pL143p0553a0301">妙法蓮華經七卷　【鳴】</p>
 <lb ed="L" n="0553a04"/><p xml:id="pL143p0553a0401" style="margin-left:1em">右佛為一大事因緣故出現於世。為欲令
@@ -2121,8 +2124,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="L" n="0571a01"/><cb:div type="w"><p cb:type="head3" xml:id="pL143p0571a0101">音釋</p>
 <lb ed="L" n="0571a02"/><cb:div type="note"><entry><form>詰</form><cb:def><p xml:id="pL143p0571a0202" style="margin-left:1em" cb:place="inline"><note place="inline">苦吉切</note>。</p></cb:def></entry><entry cb:place="inline"><form>瘖<term cb:behaviour="no-norm">瘂</term></form><cb:def><p xml:id="pL143p0571a0207" style="margin-left:1em" cb:place="inline"><note place="inline">瘖於金切<term cb:behaviour="no-norm">瘂</term>烏下切瘖<term cb:behaviour="no-norm">瘂</term>疾不能言也</note>。</p></cb:def></entry><entry cb:place="inline"><form>撾</form><cb:def><p xml:id="pL143p0571a0223" style="margin-left:1em" cb:place="inline"><note place="inline">陟<term cb:behaviour="no-norm">𤓰</term>切擊
 <lb ed="L" n="0571a03"/>也</note>。</p></cb:def></entry><entry cb:place="inline"><form>鍵</form><cb:def><p xml:id="pL143p0571a0303" style="margin-left:1em" cb:place="inline"><note place="inline">巨偃切戶鑰也</note>。</p></cb:def></entry><entry cb:place="inline"><form>睒</form><cb:def><p xml:id="pL143p0571a0310" style="margin-left:1em" cb:place="inline"><note place="inline">失冉切</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="4"/>
 <pb ed="L" xml:id="L143.1608.0571b" n="0571b"/>
-<lb ed="L" n="0571b01"/><milestone unit="juan" n="4"/><cb:mulu type="卷" n="4"/><cb:juan fun="open" n="4"><cb:jhead>大藏聖教法寶標目卷第四　　　　<g ref="#CB08887"/>四</cb:jhead></cb:juan>
+<lb ed="L" n="0571b01"/><cb:mulu type="卷" n="4"/><cb:juan fun="open" n="4"><cb:jhead>大藏聖教法寶標目卷第四　　　　<g ref="#CB08887"/>四</cb:jhead></cb:juan>
 <lb ed="L" n="0571b02"/><byline cb:type="author">元清源居士王古撰</byline>
 <lb ed="L" n="0571b03"/><list><item xml:id="itemL143p0571b0301"><p xml:id="pL143p0571b0301">無字寶篋經　【敢】</p></item>
 <lb ed="L" n="0571b04"/><item xml:id="itemL143p0571b0401"><p xml:id="pL143p0571b0401">離文字普光明藏經</p></item>
@@ -2855,8 +2859,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="L" n="0594a11"/><cb:div type="w"><p cb:type="head3" xml:id="pL143p0594a1101">音釋</p>
 <lb ed="L" n="0594a12"/><cb:div type="note"><entry><form>抗拒</form><cb:def><p xml:id="pL143p0594a1203" style="margin-left:1em" cb:place="inline"><note place="inline">抗苦浪切拒其<term cb:behaviour="no-norm">吕</term>切抗拒抵禦也</note>。</p></cb:def></entry><entry cb:place="inline"><form><note n="0594a1201" resp="CBETA" type="add">掐【CB】，搯【龍】</note><app n="0594a1201"><lem wit="【CB】" resp="CBETA.maha">掐</lem><rdg wit="【龍】">搯</rdg></app></form><cb:def><p xml:id="pL143p0594a1217" style="margin-left:1em" cb:place="inline"><note place="inline">苦洽切爪<note n="0594a1202" resp="CBETA" type="add">刺【CB】，剌【龍】</note><app n="0594a1202"><lem wit="【CB】" resp="CBETA.maha">刺</lem><rdg wit="【龍】">剌</rdg></app>也</note>。</p></cb:def></entry><entry cb:place="inline"><form>螫</form><cb:def><p xml:id="pL143p0594a1224" style="margin-left:1em" cb:place="inline"><note place="inline">施隻切蟲
 <lb ed="L" n="0594a13"/>行毒也</note>。</p></cb:def></entry><entry cb:place="inline"><form>顗</form><cb:def><p xml:id="pL143p0594a1305" style="margin-left:1em" cb:place="inline"><note place="inline">魚豈切</note>。</p></cb:def></entry><entry cb:place="inline"><form>悰</form><cb:def><p xml:id="pL143p0594a1309" style="margin-left:1em" cb:place="inline"><note place="inline">昨宗切</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">㮈</term></form><cb:def><p xml:id="pL143p0594a1313" style="margin-left:1em" cb:place="inline"><note place="inline">乃代切</note>。</p></cb:def></entry><entry cb:place="inline"><form>蠱</form><cb:def><p xml:id="pL143p0594a1317" style="margin-left:1em" cb:place="inline"><note place="inline">果五切毒也</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="5"/>
 <pb ed="L" xml:id="L143.1608.0594b" n="0594b"/>
-<lb ed="L" n="0594b01"/><milestone unit="juan" n="5"/><cb:mulu type="卷" n="5"/><cb:juan fun="open" n="5"><cb:jhead>大藏聖教法寶標目卷第五　　　　<g ref="#CB08887"/>五</cb:jhead></cb:juan>
+<lb ed="L" n="0594b01"/><cb:mulu type="卷" n="5"/><cb:juan fun="open" n="5"><cb:jhead>大藏聖教法寶標目卷第五　　　　<g ref="#CB08887"/>五</cb:jhead></cb:juan>
 <lb ed="L" n="0594b02"/><byline cb:type="author">元清源居士王古撰</byline>
 <lb ed="L" n="0594b03"/><list><item xml:id="itemL143p0594b0301"><p xml:id="pL143p0594b0301">大方便佛報恩經七卷　【覆】</p>
 <lb ed="L" n="0594b04"/><p xml:id="pL143p0594b0401" style="margin-left:1em">右佛於徃昔劫中。孝養父母。乃至捨身命
@@ -3530,8 +3535,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <pb ed="L" xml:id="L143.1608.0615b" n="0615b"/>
 <lb ed="L" n="0615b01"/><cb:div type="w"><p cb:type="head3" xml:id="pL143p0615b0101">音釋</p>
 <lb ed="L" n="0615b02"/><cb:div type="note"><entry><form>繢</form><cb:def><p xml:id="pL143p0615b0202" style="margin-left:1em" cb:place="inline"><note place="inline">胡對切與繪同<term cb:behaviour="no-norm">𦘚</term>也</note>。</p></cb:def></entry><entry cb:place="inline"><form>鉛</form><cb:def><p xml:id="pL143p0615b0211" style="margin-left:1em" cb:place="inline"><note place="inline">與專切黑錫也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm"><g ref="#CB22075"/></term></form><cb:def><p xml:id="pL143p0615b0218" style="margin-left:1em" cb:place="inline"><note place="inline">蒲撥切</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="6"/>
 <pb ed="L" xml:id="L143.1608.0616a" n="0616a"/>
-<lb ed="L" n="0616a01"/><milestone unit="juan" n="6"/><cb:mulu type="卷" n="6"/><cb:juan fun="open" n="6"><cb:jhead>大藏聖教法寶標目卷第六　　　　<g ref="#CB08887"/>六</cb:jhead></cb:juan>
+<lb ed="L" n="0616a01"/><cb:mulu type="卷" n="6"/><cb:juan fun="open" n="6"><cb:jhead>大藏聖教法寶標目卷第六　　　　<g ref="#CB08887"/>六</cb:jhead></cb:juan>
 <lb ed="L" n="0616a02"/><byline cb:type="author">元清源居士王古撰</byline>
 <lb ed="L" n="0616a03"/><list><item xml:id="itemL143p0616a0301"><p xml:id="pL143p0616a0301">瑜伽師地論一百卷　自【堂】字至【善】字</p>
 <lb ed="L" n="0616a04"/><p xml:id="pL143p0616a0401" style="margin-left:1em">右無著菩薩。咨問彌勒大乗經義。還閻浮
@@ -4243,8 +4249,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="L" n="0638a06"/><cb:div type="w"><p cb:type="head3" xml:id="pL143p0638a0601">音釋</p>
 <lb ed="L" n="0638a07"/><cb:div type="note"><entry><form>錯綜</form><cb:def><p xml:id="pL143p0638a0703" style="margin-left:1em" cb:place="inline"><note place="inline">錯七各切綜子宋切</note>。</p></cb:def></entry><entry cb:place="inline"><form>憤</form><cb:def><p xml:id="pL143p0638a0712" style="margin-left:1em" cb:place="inline"><note place="inline">房吻切懣也</note>。</p></cb:def></entry><entry cb:place="inline"><form>祛</form><cb:def><p xml:id="pL143p0638a0718" style="margin-left:1em" cb:place="inline"><note place="inline">去魚切開散也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">咤</term></form><cb:def><p xml:id="pL143p0638a0725" style="margin-left:1em" cb:place="inline"><note place="inline">陟駕
 <lb ed="L" n="0638a08"/>切</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">𢷤</term></form><cb:def><p xml:id="pL143p0638a0803" style="margin-left:1em" cb:place="inline"><note place="inline">必刃切斥也</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="7"/>
 <pb ed="L" xml:id="L143.1608.0638b" n="0638b"/>
-<lb ed="L" n="0638b01"/><milestone unit="juan" n="7"/><cb:mulu type="卷" n="7"/><cb:juan fun="open" n="7"><cb:jhead>大藏聖教法寶標目卷第七　　　　<g ref="#CB08887"/>七</cb:jhead></cb:juan>
+<lb ed="L" n="0638b01"/><cb:mulu type="卷" n="7"/><cb:juan fun="open" n="7"><cb:jhead>大藏聖教法寶標目卷第七　　　　<g ref="#CB08887"/>七</cb:jhead></cb:juan>
 <lb ed="L" n="0638b02"/><byline cb:type="author">元清源居士王古撰</byline>
 <lb ed="L" n="0638b03"/><list><item xml:id="itemL143p0638b0301"><p xml:id="pL143p0638b0301">鴦崛摩經</p></item>
 <lb ed="L" n="0638b04"/><item xml:id="itemL143p0638b0401"><p xml:id="pL143p0638b0401">鴦崛髻經　【若】</p>
@@ -4914,8 +4921,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="L" n="0659a12"/><cb:div type="note"><entry><form><note n="0659a1201" resp="CBETA" type="add">沫【CB】，沬【龍】</note><app n="0659a1201"><lem wit="【CB】" resp="CBETA.maha">沫</lem><rdg wit="【龍】">沬</rdg></app></form><cb:def><p xml:id="pL143p0659a1202" style="margin-left:1em" cb:place="inline"><note place="inline">莫割切</note>。</p></cb:def></entry><entry cb:place="inline"><form>耗</form><cb:def><p xml:id="pL143p0659a1206" style="margin-left:1em" cb:place="inline"><note place="inline">呼到切減也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm"><g ref="#CB08054"/></term></form><cb:def><p xml:id="pL143p0659a1212" style="margin-left:1em" cb:place="inline"><note place="inline">隳緣切小飛也</note>。</p></cb:def></entry><entry cb:place="inline"><form>蠕</form><cb:def><p xml:id="pL143p0659a1219" style="margin-left:1em" cb:place="inline"><note place="inline">乳充切蟲動也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm"><g ref="#CB00597"/></term></form>
 <lb ed="L" n="0659a13"/><cb:def><p xml:id="pL143p0659a1301" style="margin-left:1em"><note place="inline">古猛切麥也</note>。</p></cb:def></entry><entry cb:place="inline"><form>猘</form><cb:def><p xml:id="pL143p0659a1307" style="margin-left:1em" cb:place="inline"><note place="inline">居例切狂犬也</note>。</p></cb:def></entry><entry cb:place="inline"><form>鶖</form><cb:def><p xml:id="pL143p0659a1314" style="margin-left:1em" cb:place="inline"><note place="inline">七由切水鳥也</note>。</p></cb:def></entry><entry cb:place="inline"><form>觝</form><cb:def><p xml:id="pL143p0659a1321" style="margin-left:1em" cb:place="inline"><note place="inline">丁體切觸也</note>。</p></cb:def></entry><entry cb:place="inline"><form>痔
 <lb ed="L" n="0659a14"/><term cb:behaviour="no-norm">瘻</term></form><cb:def><p xml:id="pL143p0659a1402" style="margin-left:1em" cb:place="inline"><note place="inline">痔直里切<term cb:behaviour="no-norm">瘻</term>落<term cb:behaviour="no-norm">𠋫</term>切痔<term cb:behaviour="no-norm">瘻</term>後分病也</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="8"/>
 <pb ed="L" xml:id="L143.1608.0659b" n="0659b"/>
-<lb ed="L" n="0659b01"/><milestone unit="juan" n="8"/><cb:mulu type="卷" n="8"/><cb:juan fun="open" n="8"><cb:jhead>大藏聖教法寶標目卷第八　　　　<g ref="#CB08887"/>八</cb:jhead></cb:juan>
+<lb ed="L" n="0659b01"/><cb:mulu type="卷" n="8"/><cb:juan fun="open" n="8"><cb:jhead>大藏聖教法寶標目卷第八　　　　<g ref="#CB08887"/>八</cb:jhead></cb:juan>
 <lb ed="L" n="0659b02"/><byline cb:type="author">元清源居士王古撰</byline>
 <lb ed="L" n="0659b03"/><list><item xml:id="itemL143p0659b0301"><p xml:id="pL143p0659b0301">根本說一切有部戒經　【隨】</p></item>
 <lb ed="L" n="0659b04"/><item xml:id="itemL143p0659b0401"><p xml:id="pL143p0659b0401">十誦比丘戒本</p></item>
@@ -5547,8 +5555,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="L" n="0679a06"/><cb:div type="note"><entry><form><term cb:behaviour="no-norm">晣</term></form><cb:def><p xml:id="pL143p0679a0602" style="margin-left:1em" cb:place="inline"><note place="inline">之列切明也</note>。</p></cb:def></entry><entry cb:place="inline"><form>桴</form><cb:def><p xml:id="pL143p0679a0608" style="margin-left:1em" cb:place="inline"><note place="inline">縳謀切擊<term cb:behaviour="no-norm">皷</term>椎也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm"><g ref="#CB16949"/></term></form><cb:def><p xml:id="pL143p0679a0616" style="margin-left:1em" cb:place="inline"><note place="inline">於阮切玉名</note>。</p></cb:def></entry><entry cb:place="inline"><form>騖</form><cb:def><p xml:id="pL143p0679a0622" style="margin-left:1em" cb:place="inline"><note place="inline">亡遇切亂
 <lb ed="L" n="0679a07"/>馳也</note>。</p></cb:def></entry><entry cb:place="inline"><form>培塿</form><cb:def><p xml:id="pL143p0679a0705" style="margin-left:1em" cb:place="inline"><note place="inline">培薄口切塿郎斗切培塿小阜也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm"><g ref="#CB30232"/></term></form><cb:def><p xml:id="pL143p0679a0719" style="margin-left:1em" cb:place="inline"><note place="inline">烏交切地<term cb:behaviour="no-norm"><g ref="#CB30232"/></term>下不平也</note>。</p></cb:def></entry>
 <lb ed="L" n="0679a08"/><entry><form><term cb:behaviour="no-norm">絙</term></form><cb:def><p xml:id="pL143p0679a0802" style="margin-left:1em" cb:place="inline"><note place="inline">居登切大索也</note>。</p></cb:def></entry><entry cb:place="inline"><form>繖</form><cb:def><p xml:id="pL143p0679a0809" style="margin-left:1em" cb:place="inline"><note place="inline">蘇旰切</note>。</p></cb:def></entry><entry cb:place="inline"><form><term cb:behaviour="no-norm">毱</term></form><cb:def><p xml:id="pL143p0679a0813" style="margin-left:1em" cb:place="inline"><note place="inline">渠竹切</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="9"/>
 <pb ed="L" xml:id="L143.1608.0679b" n="0679b"/>
-<lb ed="L" n="0679b01"/><milestone unit="juan" n="9"/><cb:mulu type="卷" n="9"/><cb:juan fun="open" n="9"><cb:jhead>大藏聖教法寶標目卷第九　　　　<g ref="#CB08887"/>九</cb:jhead></cb:juan>
+<lb ed="L" n="0679b01"/><cb:mulu type="卷" n="9"/><cb:juan fun="open" n="9"><cb:jhead>大藏聖教法寶標目卷第九　　　　<g ref="#CB08887"/>九</cb:jhead></cb:juan>
 <lb ed="L" n="0679b02"/><byline cb:type="author">元清源居士王古撰</byline>
 <lb ed="L" n="0679b03"/><list><item xml:id="itemL143p0679b0301"><p xml:id="pL143p0679b0301">釋迦譜五卷　【綵】</p>
 <lb ed="L" n="0679b04"/><p xml:id="pL143p0679b0401" style="margin-left:1em">右梁僧祐撰。舊十卷。今合之。一釋迦始祖。
@@ -6170,8 +6179,9 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="L" n="0698b12"/><cb:div type="note"><entry><form>緇</form><cb:def><p xml:id="pL143p0698b1202" style="margin-left:1em" cb:place="inline"><note place="inline">莊持切黑也</note>。</p></cb:def></entry><entry cb:place="inline"><form>繪</form><cb:def><p xml:id="pL143p0698b1208" style="margin-left:1em" cb:place="inline"><note place="inline">黃外切畫也</note>。</p></cb:def></entry><entry cb:place="inline"><form>薿</form><cb:def><p xml:id="pL143p0698b1214" style="margin-left:1em" cb:place="inline"><note place="inline">言紀切</note>。</p></cb:def></entry><entry cb:place="inline"><form>稈</form><cb:def><p xml:id="pL143p0698b1218" style="margin-left:1em" cb:place="inline"><note place="inline">古旱切木莖也</note>。</p></cb:def></entry><entry cb:place="inline"><form><note n="0698b1201" resp="CBETA" type="add"><term cb:behaviour="no-norm">槵</term>【CB】，<term cb:behaviour="no-norm"><g ref="#CB22079"/></term>【龍】</note><app n="0698b1201"><lem wit="【CB】" resp="CBETA.maha"><term cb:behaviour="no-norm">槵</term></lem><rdg wit="【龍】"><term cb:behaviour="no-norm"><g ref="#CB22079"/></term></rdg></app></form>
 <lb ed="L" n="0698b13"/><cb:def><p xml:id="pL143p0698b1301" style="margin-left:1em"><note place="inline">胡慣切木名也</note>。</p></cb:def></entry><entry cb:place="inline"><form>痰<term cb:behaviour="no-norm">𤸌</term></form><cb:def><p xml:id="pL143p0698b1309" style="margin-left:1em" cb:place="inline"><note place="inline">痰徒甘切<term cb:behaviour="no-norm">𤸌</term>於禁切</note>。</p></cb:def></entry><entry cb:place="inline"><form>淋<term cb:behaviour="no-norm">𤁋</term></form><cb:def><p xml:id="pL143p0698b1319" style="margin-left:1em" cb:place="inline"><note place="inline">淋力尋切<term cb:behaviour="no-norm">𤁋</term>郎擊切</note>。</p></cb:def></entry><entry cb:place="inline"><form>穰
 <lb ed="L" n="0698b14"/>麌</form><cb:def><p xml:id="pL143p0698b1402" style="margin-left:1em" cb:place="inline"><note place="inline">穰汝陽切麌元俱切</note>。</p></cb:def></entry></cb:div></cb:div>
+<milestone unit="juan" n="10"/>
 <pb ed="L" xml:id="L143.1608.0699a" n="0699a"/>
-<lb ed="L" n="0699a01"/><milestone unit="juan" n="10"/><cb:mulu type="其他" level="1">宋代新譯經</cb:mulu><cb:mulu type="卷" n="10"/><cb:juan fun="open" n="10"><cb:jhead>大藏聖教法寶標目卷第十　　　　<g ref="#CB08887"/>十</cb:jhead></cb:juan>
+<lb ed="L" n="0699a01"/><cb:mulu type="其他" level="1">宋代新譯經</cb:mulu><cb:mulu type="卷" n="10"/><cb:juan fun="open" n="10"><cb:jhead>大藏聖教法寶標目卷第十　　　　<g ref="#CB08887"/>十</cb:jhead></cb:juan>
 <lb ed="L" n="0699a02"/><byline cb:type="author">元清源居士王古撰</byline>
 <lb ed="L" n="0699a03"/><list><item xml:id="itemL143p0699a0301"><p xml:id="pL143p0699a0301">莊嚴寶王經四卷　【千】</p>
 <lb ed="L" n="0699a04"/><p xml:id="pL143p0699a0401" style="margin-left:1em">右佛說觀自在菩薩。救阿毗地獄極苦眾
