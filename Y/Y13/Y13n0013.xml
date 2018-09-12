@@ -139,7 +139,7 @@
 <pb n="0001a" ed="Y" xml:id="Y13.0013.0001a.old" type="old"/>
 <pb n="0001a" ed="Y" xml:id="Y13.0013.0001a"/>
 <lb n="0001a01" ed="Y"/><lb n="0001a01" ed="Y" type="old"/><cb:div type="other"><cb:juan fun="open" n="1"><cb:jhead>太虛大師年譜</cb:jhead></cb:juan>
-<lb n="0001a02" ed="Y"/><lb n="0001a02" ed="Y" type="old"/><cb:mulu level="1" type="其他">名號、籍貫、年齡、眷屬</cb:mulu><head><seg style="border-style:solid;border-width:2px;padding:5px">名號</seg>、<seg style="border-style:solid;border-width:2px;padding:5px">籍貫</seg>、<seg style="border-style:solid;border-width:2px;padding:5px">年齡</seg>、<seg style="border-style:solid;border-width:2px;padding:5px">眷屬</seg></head>
+<lb n="0001a02" ed="Y"/><lb n="0001a02" ed="Y" type="old"/><cb:mulu level="1" type="其他">名號、籍貫、年齡、眷屬</cb:mulu><head><seg rend="border">名號</seg>、<seg rend="border">籍貫</seg>、<seg rend="border">年齡</seg>、<seg rend="border">眷屬</seg></head>
 <lb n="0001a03" ed="Y"/><lb n="0001a03" ed="Y" type="old"/><cb:div type="other"><cb:mulu level="2" type="其他">一　名號</cb:mulu><head>一　名號</head>
 <lb n="0001a04" ed="Y"/><lb n="0001a04" ed="Y" type="old"/><p style="text-indent:2em">大師之名號，有俗名，有法名，有筆名，今就所知者條理而敘述之。</p>
 <lb n="0001a05" ed="Y"/><lb n="0001a05" ed="Y" type="old"/><p cb:type="head3">(一)淦森</p>
@@ -368,7 +368,7 @@
 <lb n="0017a12" ed="Y"/><lb n="0018a02" ed="Y" type="old"/><p style="text-indent:2em">從大師學之緇素弟子，恕未能詳！</p></cb:div></cb:div>
 <pb n="0019a" ed="Y" xml:id="Y13.0013.0019a.old" type="old"/>
 <pb n="0019a" ed="Y" xml:id="Y13.0013.0019a"/>
-<lb n="0019a01" ed="Y"/><lb n="0019a01" ed="Y" type="old"/><cb:div type="other"><cb:mulu level="1" type="其他">年譜</cb:mulu><head><seg style="border-style:solid;border-width:2px;padding:5px">年譜</seg></head>
+<lb n="0019a01" ed="Y"/><lb n="0019a01" ed="Y" type="old"/><cb:div type="other"><cb:mulu level="1" type="其他">年譜</cb:mulu><head><seg rend="border">年譜</seg></head>
 <lb n="0019a02" ed="Y"/><lb n="0019a02" ed="Y" type="old"/><cb:div type="other"><cb:mulu level="2" type="其他">清光緒十五年，己丑（一八八九——一八九〇），大師生。</cb:mulu><head>清光緒十五年，己丑（一八八九——一八九〇），大師生。</head>
 <lb n="0019a03" ed="Y"/><lb n="0019a03" ed="Y" type="old"/><cb:mulu level="3" type="其他">十二月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">十二月</seg>十八日（一八九〇年一月八日），大師生於浙江省海寧州（民國改海寧
 <lb n="0019a04" ed="Y"/><lb n="0019a04" ed="Y" type="old"/>縣）長安鎮；乳名淦森。農工家世，初無異禀可資稱述（<title level="m">自傳</title>一）。</p>
@@ -403,8 +403,13 @@
 <pb n="0022a" ed="Y" xml:id="Y13.0013.0022a"/>
 <lb n="0022a01" ed="Y"/><lb n="0022a01" ed="Y" type="old"/>於寺僧生活，深致歆慕（<title level="m">自傳</title>一）。</p>
 <lb n="0022a02" ed="Y"/><lb n="0022a02" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<bibl>無言<title level="m">《太虛大師行略》</title></bibl>，作『十三歲又隨朝普陀』，誤。</p>
+<<<<<<< HEAD
 <lb n="0022a03" ed="Y"/><lb n="0022a03" ed="Y" type="old"/><cb:mulu level="3" type="其他">八月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">八月</seg>，戊戌政變。</p>
 <lb n="0022a04" ed="Y"/><lb n="0022a04" ed="Y" type="old"/><cb:mulu level="3" type="其他">冬</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">冬</seg>，外祖父張公其仁卒，年七十餘；舅家日趨衰落（<title level="m">自傳</title>一）。</p></cb:div>
+=======
+<lb n="0022a03" ed="Y"/><lb n="0022a03" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">八月</cb:mulu>八月，戊戌政變。</p>
+<lb n="0022a04" ed="Y"/><lb n="0022a04" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">冬</cb:mulu>冬，外祖父張公其仁卒，年七十餘；舅家日趨衰落（<title level="m">自傳</title>一）。</p></cb:div>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0022a05" ed="Y"/><lb n="0022a05" ed="Y" type="old"/><cb:div type="other"><cb:mulu level="2" type="其他">光緒二十五年，己亥（一八九九——一九〇〇），大師十一歲。</cb:mulu><head>光緒二十五年，己亥（一八九九——一九〇〇），大師十一歲。</head></cb:div>
 <lb n="0022a06" ed="Y"/><lb n="0022a06" ed="Y" type="old"/><cb:div type="other"><cb:mulu level="2" type="其他">光緒二十六年，庚子（一九〇〇——一九〇一），大師十二歲。</cb:mulu><head>光緒二十六年，庚子（一九〇〇——一九〇一），大師十二歲。</head>
 <lb n="0022a07" ed="Y"/><lb n="0022a07" ed="Y" type="old"/><cb:mulu level="3" type="其他">大師九歲以來</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">大師九歲以來</seg>，多病多遊散，未能致力讀書（<title level="m">自傳</title>一）。</p>
@@ -735,7 +740,11 @@
 <lb n="0046a09" ed="Y"/><lb n="0047a01" ed="Y" type="old"/>崗</title>詩，涉革命嫌疑。官方猶以大師為雙溪寺住持，發兵圍白雲山，索之不得
 <lb n="0046a10" ed="Y"/><lb n="0047a02" ed="Y" type="old"/>。大師得訊，匿居潘達微之平民報館（<title level="m">自傳</title>四；<title level="a">人物誌憶</title>九）。</p>
 <lb n="0046a11" ed="Y"/><lb n="0047a03" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：人物誌以此為「五月」事，殆誤。</p>
+<<<<<<< HEAD
 <lb n="0046a12" ed="Y"/><lb n="0047a04" ed="Y" type="old"/><p style="margin-left:2em">棲雲被逮，光復乃得釋。曾隸陳炯明部為團長；又為花縣清遠從化三屬清鄉
+=======
+<lb n="0046a12" ed="Y"/><lb n="0047a04" ed="Y" type="old"/><p style="text-indent:2em">棲雲被逮，光復乃得釋。曾隸陳炯明部為團長；又為花縣清遠從化三屬清鄉
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0046a13" ed="Y"/><lb n="0047a05" ed="Y" type="old"/>司令及兵站司令等（<title level="m">自傳</title>四）。後息影滬上；大師圓寂，猶來致哀悼。</p>
 <pb n="0047a" ed="Y" xml:id="Y13.0013.0047a"/>
 <lb n="0047a01" ed="Y"/><lb n="0047a06" ed="Y" type="old"/><p style="margin-left:2em">大師因事不安於粵，又窘於財，思歸故鄉而不得。<cit><bibl><title level="a">〈寄汪公篤甫〉</title>有云：</bibl><quote type="嚴謹引文">『
@@ -1320,7 +1329,11 @@
 <lb n="0088a10" ed="Y"/><lb n="0089a10" ed="Y" type="old"/><p style="margin-left:2em">大師過觀宗寺；時仁山任觀宗寺輔講，引常惺來見（<title level="m">自傳</title>九；常惺法師塔銘
 <lb n="0088a11" ed="Y"/><lb n="0089a11" ed="Y" type="old"/>并序；<title level="a">詩存續集</title>）。</p>
 <lb n="0088a12" ed="Y"/><lb n="0089a12" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以此為春間事。</p>
+<<<<<<< HEAD
 <lb n="0088a13" ed="Y"/><lb n="0089a13" ed="Y" type="old"/><p style="margin-left:2em">常惺，法名寂祥，江蘇如皋人。十二歲出家，使入學，十七歲卒業於邑之省
+=======
+<lb n="0088a13" ed="Y"/><lb n="0089a13" ed="Y" type="old"/><p style="text-indent:2em">常惺，法名寂祥，江蘇如皋人。十二歲出家，使入學，十七歲卒業於邑之省
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <pb n="0090a" ed="Y" xml:id="Y13.0013.0090a.old" type="old"/>
 <pb n="0089a" ed="Y" xml:id="Y13.0013.0089a"/>
 <lb n="0089a01" ed="Y"/><lb n="0090a01" ed="Y" type="old"/>立師範。民三年，入華嚴大學。五年，參禪於天寧。六年夏，來觀宗寺從諦
@@ -1381,8 +1394,13 @@
 <lb n="0092a12" ed="Y"/><lb n="0094a02" ed="Y" type="old"/>。浴雲嫌我帶龍氣，講學逢君隱鹿河。便好蒿萊同沒盡，不關臨去轉秋波
 <lb n="0092a13" ed="Y"/><lb n="0094a03" ed="Y" type="old"/>』。<note n="0092002" resp="周怡曄" type="add"><ref type="taixu" target="vol:32;page:p83">(ref taixu::vol:32;page:p83)</ref></note></l></lg></quote>
 <pb n="0093a" ed="Y" xml:id="Y13.0013.0093a"/>
+<<<<<<< HEAD
 <lb n="0093a01" ed="Y"/><lb n="0094a04" ed="Y" type="old"/><p style="margin-left:2em">大師對國內時政之失望，如此！</p>
 <lb n="0093a02" ed="Y"/><lb n="0094a05" ed="Y" type="old"/><cb:mulu level="3" type="其他">十二月二日</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">十二月二日</seg>，善慧陪大師作遊日之行。五日，抵門司。上岸行；九日抵神戶，
+=======
+<lb n="0093a01" ed="Y"/><lb n="0094a04" ed="Y" type="old"/><p style="text-indent:2em">大師對國內時政之失望，如此！</p>
+<lb n="0093a02" ed="Y"/><lb n="0094a05" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">十二月</cb:mulu>十二月二日，善慧陪大師作遊日之行。五日，抵門司。上岸行；九日抵神戶，
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0093a03" ed="Y"/><lb n="0094a06" ed="Y" type="old"/>寓莊櫻癡家。途經小郡湯田溫泉，三尻驛，宮島郡，岡山，並略事遊覽（東
 <lb n="0093a04" ed="Y"/><lb n="0094a07" ed="Y" type="old"/>瀛采真錄）。</p>
 <lb n="0093a05" ed="Y"/><lb n="0094a08" ed="Y" type="old"/><p style="margin-left:2em">十一日，善慧陪大師遊西京，以佛剎多在其地。瞻禮西本願寺、清水寺、萬
@@ -1571,7 +1589,11 @@
 <lb n="0106a08" ed="Y"/><lb n="0107a12" ed="Y" type="old"/>訪歐陽竟無於支那內學院籌備處；內院時在籌設中（關於支那內學院文件之
 <lb n="0106a09" ed="Y"/><lb n="0107a13" ed="Y" type="old"/>摘疑）。</p><pb n="0108a" ed="Y" xml:id="Y13.0013.0108a.old" type="old"/>
 <lb n="0106a10" ed="Y"/><lb n="0108a01" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：閱竟無居士近刊，誤為「冬」日。</p>
+<<<<<<< HEAD
 <lb n="0106a11" ed="Y"/><lb n="0108a02" ed="Y" type="old"/><p style="margin-left:2em">七日，至滬。即由費範九陪往南通。十日（「十八日」），應張謇（季直）
+=======
+<lb n="0106a11" ed="Y"/><lb n="0108a02" ed="Y" type="old"/><p style="text-indent:2em">七日，至滬。即由費範九陪往南通。十日（「十八日」），應張謇（季直）
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0106a12" ed="Y"/><lb n="0108a03" ed="Y" type="old"/>請，講普門品於狼山觀音院，凡三日。且遊覽名勝，參觀建設事業。張謇高
 <lb n="0106a13" ed="Y"/><lb n="0108a04" ed="Y" type="old"/>弟江謙，時為張謇稱道大師，乃緣成此法會（<title level="m">自傳</title>十二；<title level="a">人物誌憶</title>十二）。
 <pb n="0107a" ed="Y" xml:id="Y13.0013.0107a"/>
@@ -1607,7 +1629,11 @@
 <lb n="0109a03" ed="Y"/><lb n="0110a07" ed="Y" type="old"/>師赴滇垣弘法。大師以潮音初編，滇道修遠，辭謝未行（<title level="m">自傳</title>十三；「己未
 <lb n="0109a04" ed="Y"/><lb n="0110a08" ed="Y" type="old"/>佛教年鑑」）。</p>
 <lb n="0109a05" ed="Y"/><lb n="0110a09" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>誤為廣州回杭時事。</p>
+<<<<<<< HEAD
 <lb n="0109a06" ed="Y"/><lb n="0110a10" ed="Y" type="old"/><cb:mulu level="3" type="其他">二月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">二月</seg>四日（「十二月十五日」），大師以歐陽竟無之支那內學院章程，有<quote type="嚴謹引文">『非
+=======
+<lb n="0109a06" ed="Y"/><lb n="0110a10" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">二月</cb:mulu>二月四日（「十二月十五日」），大師以歐陽竟無之支那內學院章程，有<quote type="嚴謹引文">『非
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0109a07" ed="Y"/><lb n="0110a11" ed="Y" type="old"/>養成出家自利為宗旨』<note n="0109001" resp="周怡曄" type="add"><ref type="taixu" target="vol:29;page:p242">(ref taixu::vol:29;page:p242)</ref></note></quote>語，殊覺藐視僧伽，乃作<title level="a">〈支那內學院文件摘疑〉</title>。
 <lb n="0109a08" ed="Y"/><lb n="0110a12" ed="Y" type="old"/>大師與內院為法義之諍，自此始（<title level="m">自傳</title>十二）。其後，內院丘檗（晞明）致<pb n="0111a" ed="Y" xml:id="Y13.0013.0111a.old" type="old"/>
 <lb n="0109a09" ed="Y"/><lb n="0111a01" ed="Y" type="old"/>函大師云：</p>
@@ -1663,7 +1689,11 @@
 <lb n="0113a03" ed="Y"/><lb n="0114a08" ed="Y" type="old"/>別說〉</title>，富禪家筆意；於修行信心分，特有發揮。時講經參用演講方式，開
 <lb n="0113a04" ed="Y"/><lb n="0114a09" ed="Y" type="old"/>佛門新例（<title level="m">自傳</title>十三；<bibl><title level="j">海</title><biblScope type="issue" n="1.6">一、六</biblScope></bibl>「雜記」）。</p>
 <lb n="0113a05" ed="Y"/><lb n="0114a10" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="a">〈漢口佛教正信會壁銘並序〉</title>，以此為「春」季事，誤。</p>
+<<<<<<< HEAD
 <lb n="0113a06" ed="Y"/><lb n="0114a11" ed="Y" type="old"/><p style="margin-left:2em">時國內政局日陷於紛擾割據，<title level="m">《整理僧伽制度論》</title>，勢難實行（<title level="m">自傳</title>八；<title level="a">編
+=======
+<lb n="0113a06" ed="Y"/><lb n="0114a11" ed="Y" type="old"/><p style="text-indent:2em">時國內政局日陷於紛擾割據，<title level="m">《整理僧伽制度論》</title>，勢難實行（<title level="m">自傳</title>八；<title level="a">編
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0113a07" ed="Y"/><lb n="0114a12" ed="Y" type="old"/>閱附言</title>五五）。而俄國革命成功，共產思想日見流行。大師得一新感覺，即
 <lb n="0113a08" ed="Y"/><lb n="0114a13" ed="Y" type="old"/>僧眾有從事工作，自力生活之必要（<title level="a">略史</title>）。乃宣布停刊<title level="m">《僧制論》</title>，發表<pb n="0115a" ed="Y" xml:id="Y13.0013.0115a.old" type="old"/>
 <lb n="0113a09" ed="Y"/><lb n="0115a01" ed="Y" type="old"/><title level="a">〈人工與佛學之新僧化〉</title>。次撰<title level="a">〈唐代禪宗與現代思潮〉</title>，極力發揚禪者之
@@ -1973,13 +2003,21 @@
 <lb n="0135a07" ed="Y"/><lb n="0136a13" ed="Y" type="old"/>。佛海潮聲傳隱約，人天夢影正離奇。法身流轉愴無極，應有維摩病大悲<pb n="0137a" ed="Y" xml:id="Y13.0013.0137a.old" type="old"/>
 <lb n="0135a08" ed="Y"/><lb n="0137a01" ed="Y" type="old"/>』！<note n="0135001" resp="周怡曄" type="add"><ref type="taixu" target="vol:32;page:p99">(ref taixu::vol:32;page:p99)</ref></note></l></lg></quote>
 <lb n="0135a09" ed="Y"/><lb n="0137a02" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以此為十二年春事，誤。</p>
+<<<<<<< HEAD
 <lb n="0135a10" ed="Y"/><lb n="0137a03" ed="Y" type="old"/><p style="margin-left:2em">十四日（「三月十八日」），大師應武昌中華大學請，開始授印度哲學及新
+=======
+<lb n="0135a10" ed="Y"/><lb n="0137a03" ed="Y" type="old"/><p style="text-indent:2em">十四日（「三月十八日」），大師應武昌中華大學請，開始授印度哲學及新
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0135a11" ed="Y"/><lb n="0137a04" ed="Y" type="old"/>的唯識論（<bibl><title level="j">海</title><biblScope type="issue" n="4">四</biblScope></bibl>「壬戌佛教年鑑」）。</p>
 <lb n="0135a12" ed="Y"/><lb n="0137a05" ed="Y" type="old"/><p style="margin-left:2em">大師辭陝西佛教會（康寄遙等）之迎請，轉為商得漢口華嚴大學講師妙闊同
 <lb n="0135a13" ed="Y"/><lb n="0137a06" ed="Y" type="old"/>意，赴秦講學（<title level="m">自傳</title>十六；<title level="a">覆陝西佛教會延請法師函</title>）。</p>
 <pb n="0136a" ed="Y" xml:id="Y13.0013.0136a"/>
 <lb n="0136a01" ed="Y"/><lb n="0137a07" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>誤以此為十二年事。</p>
+<<<<<<< HEAD
 <lb n="0136a02" ed="Y"/><lb n="0137a08" ed="Y" type="old"/><cb:mulu level="3" type="其他">五月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">五月</seg>（「四月初」），讓得武昌黎邵平（少屏）宅為院舍。四日，佛誕，大師
+=======
+<lb n="0136a02" ed="Y"/><lb n="0137a08" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">五月</cb:mulu>五月（「四月初」），讓得武昌黎邵平（少屏）宅為院舍。四日，佛誕，大師
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0136a03" ed="Y"/><lb n="0137a09" ed="Y" type="old"/>於漢口佛教會，受院董會（隆重之）禮聘為院長。禮請疏出黃季剛手。大師
 <lb n="0136a04" ed="Y"/><lb n="0137a10" ed="Y" type="old"/>乃進行招生事宜；章程由創辦人呈湖北軍民長官及內教兩部備案（<title level="m">自傳</title>十五
 <lb n="0136a05" ed="Y"/><lb n="0137a11" ed="Y" type="old"/>；<title level="a">佛學院置院舍記</title>；<title level="a">佛學院院董會略史</title>）。</p>
@@ -2074,7 +2112,11 @@
 <lb n="0142a10" ed="Y"/><lb n="0144a03" ed="Y" type="old"/>寧鄉。便道訪惠敏、罘月於迴龍山。十一日進院，以性修為監院（<bibl><title level="j">海</title><biblScope n="3.12" type="issue">三、十
 <lb n="0142a11" ed="Y"/><lb n="0144a04" ed="Y" type="old"/>二</biblScope></bibl>「赴溈山詳記」；<bibl>嚴定<title level="a">〈侍院長大師住持大溈山密印寺記〉</title></bibl>）。</p>
 <lb n="0142a12" ed="Y"/><lb n="0144a05" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：大師負名義十五年，二十六年始由寶生繼任住持。</p>
+<<<<<<< HEAD
 <lb n="0142a13" ed="Y"/><lb n="0144a06" ed="Y" type="old"/><p style="margin-left:2em">大師在山，<title level="a">〈禮靈祐禪師塔〉</title>說偈；並作<title level="a">〈讀八指頭陀住持溈山詩感和〉</title>四
+=======
+<lb n="0142a13" ed="Y"/><lb n="0144a06" ed="Y" type="old"/><p style="text-indent:2em">大師在山，<title level="a">〈禮靈祐禪師塔〉</title>說偈；並作<title level="a">〈讀八指頭陀住持溈山詩感和〉</title>四
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <pb n="0143a" ed="Y" xml:id="Y13.0013.0143a"/>
 <lb n="0143a01" ed="Y"/><lb n="0144a07" ed="Y" type="old"/>首，湘中緇素——惠敏、廖名縉等和者甚眾（<title level="a">詩存遺</title>）。</p>
 <lb n="0143a02" ed="Y"/><lb n="0144a08" ed="Y" type="old"/><p style="margin-left:2em">十六日（「二十八日」），大師返長沙。趙炎午、吳景鴻等發起，假六星橋
@@ -2082,7 +2124,11 @@
 <lb n="0143a04" ed="Y"/><lb n="0144a10" ed="Y" type="old"/>，「佛法與宗教及科學」，「佛法為圓滿之哲學」（<bibl><title level="j">海</title><biblScope n="3.12" type="issue">三、十二</biblScope></bibl>「赴溈山詳
 <lb n="0143a05" ed="Y"/><lb n="0144a11" ed="Y" type="old"/>記」；<bibl>嚴定<title level="a">〈侍院長大師住持大溈山密印寺記〉</title></bibl>）。</p>
 <lb n="0143a06" ed="Y"/><lb n="0144a12" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以長沙講學為先於溈山進院，誤。</p>
+<<<<<<< HEAD
 <lb n="0143a07" ed="Y"/><lb n="0144a13" ed="Y" type="old"/><p style="margin-left:2em">大師在長沙，與曉觀等發起創辦孤兒院。二十一日（「十一月四日」），返<pb n="0145a" ed="Y" xml:id="Y13.0013.0145a.old" type="old"/>
+=======
+<lb n="0143a07" ed="Y"/><lb n="0144a13" ed="Y" type="old"/><p style="text-indent:2em">大師在長沙，與曉觀等發起創辦孤兒院。二十一日（「十一月四日」），返<pb n="0145a" ed="Y" xml:id="Y13.0013.0145a.old" type="old"/>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0143a08" ed="Y"/><lb n="0145a01" ed="Y" type="old"/>武昌（<title level="m">自傳</title>十六；<bibl>嚴定<title level="a">〈侍院長大師住持大溈山密印寺記〉</title></bibl>）。</p>
 <lb n="0143a09" ed="Y"/><lb n="0145a02" ed="Y" type="old"/><cb:mulu level="3" type="其他">是冬</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">是冬</seg>，玉皇（近十年來時為大師服務）辭職還杭，住靈隱寺（<title level="m">自傳</title>十六）。</p>
 <lb n="0143a10" ed="Y"/><lb n="0145a03" ed="Y" type="old"/><cb:mulu level="3" type="其他">是年</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">是年</seg>，歐陽竟無講<title level="m">《成唯識論》</title>於內學院；論前先講<title level="a">〈唯識抉擇談〉</title>（<bibl><title level="j">海</title><biblScope n="3.10" type="issue">三、
@@ -2150,7 +2196,11 @@
 <lb n="0148a02" ed="Y"/><lb n="0149a09" ed="Y" type="old"/>教，無不如是說者。……此諸聖教可誹撥者，則攝一切法歸無為主之真如
 <lb n="0148a03" ed="Y"/><lb n="0149a10" ed="Y" type="old"/>宗經論，應皆可誹撥之！故今於此，不得不力辨其非也』！<note n="0148001" resp="周怡曄" type="add">《太虛大師全書 第六編　法相唯識學》「唯識宗乃依用而顯體，故唯許心之本淨性是空理所顯真如，或心之自證體非煩惱名本淨。若真如宗則依體而彰用故言：『以有真如法故有於無明』；『是心從本以來自性清淨而有無明』──應如此斷句，不應於自性清淨字下斷句──。其所言之自性清淨，固指即心之真如體而亦兼指真如體不可離斷之淨相用也。此淨相用從來未起現行，故僅為無始法爾所具之無漏種子。所言從本以來自性清淨，不但言真如，而亦兼言本具無漏智種於其內。然此心不但從本以來自性清淨，亦從本以來而有無明──此心從本以來六字，應雙貫自性清淨及而有無明讀──為無明染而有染心，則無始有漏種子恆起現行而成諸雜染法也。雖有染心而常恆不變，則雖有漏現行，而真如體及無始無漏種不以之變失也。此在真如宗之聖教，無不如是說者。故基師於宗輪論記設問答云：『有情無始有心稱本性淨，心性本無染，甯非本是聖？答曰：有情無始心性亦復有心即染，故非是聖。又問：有心即染，何故今言心性本淨，說染為客？客主齊故。答曰：後修道時，染乃離滅，唯性淨在，故染稱客』。據此一文，亦可見於真如體不可離不可滅之淨相淨用，得稱為主之性淨也。此諸聖教可誹撥者，則攝一切法歸無為主之真如宗經論，應皆可誹撥之！故今於此不得不力辨其非也。」<ref type="taixu" target="vol:9;page:p1380">(ref taixu::vol:9;page:p1380)</ref></note></p></quote>
 <lb n="0148a04" ed="Y"/><lb n="0149a11" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以此為十二年作，誤。</p>
+<<<<<<< HEAD
 <lb n="0148a05" ed="Y"/><lb n="0149a12" ed="Y" type="old"/><cb:mulu level="3" type="其他">是年</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">是年</seg>，杭州宗淨土之馬一浮，宗禪之劉大心，相諍甚烈（<title level="a">覆王弘願居士書</title>五）
+=======
+<lb n="0148a05" ed="Y"/><lb n="0149a12" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">是年</cb:mulu>是年，杭州宗淨土之馬一浮，宗禪之劉大心，相諍甚烈（<title level="a">覆王弘願居士書</title>五）
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0148a06" ed="Y"/>。圓<lb n="0149a13" ed="Y" type="old"/>暎遊化新加坡與檳榔嶼<bibl>（葉性禮<title level="m">《圓暎法師事略》</title>）</bibl>。</p></cb:div><pb n="0150a" ed="Y" xml:id="Y13.0013.0150a.old" type="old"/>
 <lb n="0148a07" ed="Y"/><lb n="0150a01" ed="Y" type="old"/><cb:div type="other"><cb:mulu level="2" type="其他">民國十二年，一九二三（壬戌——癸亥），大師三十五歲。</cb:mulu><head>民國十二年，一九二三（壬戌——癸亥），大師三十五歲。</head>
 <lb n="0148a08" ed="Y"/><lb n="0150a02" ed="Y" type="old"/><cb:mulu level="3" type="其他">一月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">一月</seg>十四日（「二十八」），院外研究部成立，大師為講「教觀綱宗」（<bibl><title level="j">海</title><biblScope n="4" type="issue">四</biblScope></bibl>
@@ -2178,7 +2228,11 @@
 <lb n="0150a03" ed="Y"/><lb n="0151a10" ed="Y" type="old"/>，說法於普濟寺及商會；王容子等及王吟香全家受皈依（<title level="m">自傳</title>十六；<bibl>定慈<title level="a">〈
 <lb n="0150a04" ed="Y"/><lb n="0151a11" ed="Y" type="old"/>太虛法師西行遊化記〉</title></bibl>）。</p>
 <lb n="0150a05" ed="Y"/><lb n="0151a12" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>謂正月初一抵宜昌，誤。</p>
+<<<<<<< HEAD
 <lb n="0150a06" ed="Y"/><lb n="0151a13" ed="Y" type="old"/><p style="margin-left:2em">大師於「宜昌舟次」，閱唐煥章之<title level="a">〈陳獨秀人生真義之駁正〉</title>等，乃作<title level="a">〈略<pb n="0152a" ed="Y" xml:id="Y13.0013.0152a.old" type="old"/>
+=======
+<lb n="0150a06" ed="Y"/><lb n="0151a13" ed="Y" type="old"/><p style="text-indent:2em">大師於「宜昌舟次」，閱唐煥章之<title level="a">〈陳獨秀人生真義之駁正〉</title>等，乃作<title level="a">〈略<pb n="0152a" ed="Y" xml:id="Y13.0013.0152a.old" type="old"/>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0150a07" ed="Y"/><lb n="0152a01" ed="Y" type="old"/>評外道唐煥章〉</title>（文）。</p>
 <lb n="0150a08" ed="Y"/><lb n="0152a02" ed="Y" type="old"/><p style="margin-left:2em">二十二日（「七日」），江口皮劍農、沙市陳妄清等來迎；因相偕訪全敬存
 <lb n="0150a09" ed="Y"/><lb n="0152a03" ed="Y" type="old"/>於那惹坪之維摩精舍（<title level="m">自傳</title>十六；<title level="a">詩存</title>；<bibl>定慈<title level="a">〈太虛法師西行遊化記〉</title></bibl>）。</p>
@@ -2232,12 +2286,21 @@
 <lb n="0154a01" ed="Y"/>》</title>，<lb n="0155a08" ed="Y" type="old"/><title level="m">《十二門論》</title>。陳維東（善馨）筆記，成<title level="m">《十二門論講錄》</title>。<title level="m">《三論般
 <lb n="0154a02" ed="Y"/>若講要》</title><lb n="0155a09" ed="Y" type="old"/>，亦程聖功於此時記（<title level="m">自傳</title>十六）。</p>
 <lb n="0154a03" ed="Y"/><lb n="0155a10" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>謂此年講<title level="m">《百論》</title>，有陳維東筆記，為<title level="m">《十二門論》</title>之誤。</p>
+<<<<<<< HEAD
 <lb n="0154a04" ed="Y"/><lb n="0155a11" ed="Y" type="old"/><cb:mulu level="3" type="其他">四月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">四月</seg>四日（「二月十九日」），漢口佛教會成立宣教講習所，大師為所長；聘
 <lb n="0154a05" ed="Y"/><lb n="0155a12" ed="Y" type="old"/>（新自溫州弘法歸來）唐大圓為教務主任。學生僧俗兼半，象賢（芝峰）預
 <lb n="0154a06" ed="Y"/><lb n="0155a13" ed="Y" type="old"/>焉（畢業後轉入武院）（<bibl><title level="j">海</title><biblScope type="issue" n="4.7">四、七</biblScope></bibl>「事紀」；<bibl><title level="j">海</title><biblScope type="issue" n="5">五</biblScope></bibl>「武漢癸亥年鑑」）。</p><pb n="0156a" ed="Y" xml:id="Y13.0013.0156a.old" type="old"/>
 <lb n="0154a07" ed="Y"/><lb n="0156a01" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以為唐大圓夏間來，誤。</p>
 <lb n="0154a08" ed="Y"/><lb n="0156a02" ed="Y" type="old"/><p style="margin-left:2em">十六日（「三月一日」），蕭督軍來院參觀（<bibl><title level="j">海</title><biblScope type="issue" n="4.4">四、四</biblScope></bibl>「紀事」）。</p>
 <lb n="0154a09" ed="Y"/><lb n="0156a03" ed="Y" type="old"/><p style="margin-left:2em">時湘省教育界有提用教產之議，大師致書廖笏堂，請聯絡在京佛徒，共為制
+=======
+<lb n="0154a04" ed="Y"/><lb n="0155a11" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">四月</cb:mulu>四月四日（「二月十九日」），漢口佛教會成立宣教講習所，大師為所長；聘
+<lb n="0154a05" ed="Y"/><lb n="0155a12" ed="Y" type="old"/>（新自溫州弘法歸來）唐大圓為教務主任。學生僧俗兼半，象賢（芝峰）預
+<lb n="0154a06" ed="Y"/><lb n="0155a13" ed="Y" type="old"/>焉（畢業後轉入武院）（<bibl><title level="j">海</title><biblScope type="issue" n="4.7">四、七</biblScope></bibl>「事紀」；<bibl><title level="j">海</title><biblScope type="issue" n="5">五</biblScope></bibl>「武漢癸亥年鑑」）。</p><pb n="0156a" ed="Y" xml:id="Y13.0013.0156a.old" type="old"/>
+<lb n="0154a07" ed="Y"/><lb n="0156a01" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以為唐大圓夏間來，誤。</p>
+<lb n="0154a08" ed="Y"/><lb n="0156a02" ed="Y" type="old"/><p style="text-indent:2em">十六日（「三月一日」），蕭督軍來院參觀（<bibl><title level="j">海</title><biblScope type="issue" n="4.4">四、四</biblScope></bibl>「紀事」）。</p>
+<lb n="0154a09" ed="Y"/><lb n="0156a03" ed="Y" type="old"/><p style="text-indent:2em">時湘省教育界有提用教產之議，大師致書廖笏堂，請聯絡在京佛徒，共為制
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0154a10" ed="Y"/><lb n="0156a04" ed="Y" type="old"/>止（書）。</p>
 <lb n="0154a11" ed="Y"/><lb n="0156a05" ed="Y" type="old"/><cb:mulu level="3" type="其他">五月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">五月</seg>二十三日，佛誕，傳為佛元二千九百五十年。武漢佛教徒，假中華大學，
 <lb n="0154a12" ed="Y"/><lb n="0156a06" ed="Y" type="old"/>舉行盛況空前之紀念大會。蕭耀南、黃季剛、李隱塵、張化聲等均有演說。
@@ -2407,7 +2470,11 @@
 <lb n="0166a09" ed="Y"/><lb n="0168a04" ed="Y" type="old"/>日」）止，入壇者共二百三十七人。武漢密法，忽焉而盛（<title level="m">自傳</title>十六；<bibl><title level="j">海</title><biblScope n="5.1" type="issue">五
 <lb n="0166a10" ed="Y"/><lb n="0168a05" ed="Y" type="old"/>、一</biblScope></bibl>「事紀」；<bibl><title level="j">海</title><biblScope type="issue" n="5.3">五、三</biblScope></bibl>「事紀」）。</p>
 <lb n="0166a11" ed="Y"/><lb n="0168a06" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>所說日期、人數，均誤。</p>
+<<<<<<< HEAD
 <lb n="0166a12" ed="Y"/><lb n="0168a07" ed="Y" type="old"/><cb:mulu level="3" type="其他">二月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">二月</seg>五日，甲子元旦，大師編<title level="a">〈慈宗三要〉</title>。大師特弘彌勒淨土，至此乃確然
+=======
+<lb n="0166a12" ed="Y"/><lb n="0168a07" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">二月</cb:mulu>二月五日，甲子元旦，大師編<title level="a">〈慈宗三要〉</title>。大師特弘彌勒淨土，至此乃確然
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0166a13" ed="Y"/><lb n="0168a08" ed="Y" type="old"/>有所樹立。序曰：</p>
 <pb n="0167a" ed="Y" xml:id="Y13.0013.0167a"/>
 <lb n="0167a01" ed="Y"/><lb n="0168a09" ed="Y" type="old"/><quote type="嚴謹引文"><p style="margin-left:3em">『遠稽乾竺，仰慈氏之德風；邇徵大唐，續慈恩之芳燄；歸宗有在，故曰
@@ -2483,7 +2550,11 @@
 <lb n="0172a01" ed="Y"/><lb n="0173a09" ed="Y" type="old"/><cb:mulu level="3" type="其他">是年春</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">是年春</seg>，王又農從大師出家，字以大剛。大勇則以暮春去北京，從白喇嘛進學
 <lb n="0172a02" ed="Y"/><lb n="0173a10" ed="Y" type="old"/>藏密（<title level="m">自傳</title>十一；十六；<title level="a">菩提道次第略論序</title>）。</p>
 <lb n="0172a03" ed="Y"/><lb n="0173a11" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以大勇初夏去北京，誤。舊「四月初二」，大勇已來函報告抵京<lb n="0173a12" ed="Y" type="old"/>。</p>
+<<<<<<< HEAD
 <lb n="0172a04" ed="Y"/><lb n="0173a13" ed="Y" type="old"/><p style="margin-left:2em">二十三日，印度詩哲泰戈爾抵北京。佛化新青年會道老等，於二十六日，開<pb n="0174a" ed="Y" xml:id="Y13.0013.0174a.old" type="old"/>
+=======
+<lb n="0172a04" ed="Y"/><lb n="0173a13" ed="Y" type="old"/><p style="text-indent:2em">二十三日，印度詩哲泰戈爾抵北京。佛化新青年會道老等，於二十六日，開<pb n="0174a" ed="Y" xml:id="Y13.0013.0174a.old" type="old"/>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0172a05" ed="Y"/><lb n="0174a01" ed="Y" type="old"/>會歡迎，賞丁香花於法源寺，徐志摩傳譯，莊蘊寬等作陪（<title level="j">佛化新青年月刊</title>
 <lb n="0172a06" ed="Y"/><lb n="0174a02" ed="Y" type="old"/>泰戈爾專號；<bibl><title level="j">海</title><biblScope type="issue" n="5.5">五、五</biblScope></bibl>「事紀」）。席間，泰戈爾讚美佛法。大師乃作<title level="a">〈希
 <lb n="0172a07" ed="Y"/><lb n="0174a03" ed="Y" type="old"/>望老詩人的泰戈爾變為佛化的新青年〉</title>，勉以勿如中國「無行文人」、「無
@@ -2500,7 +2571,11 @@
 <lb n="0173a04" ed="Y"/><lb n="0174a13" ed="Y" type="old"/>一日（「五月初十」）圓滿。薰琴筆記，成<title level="m">《金剛經述記》</title>。陳元白始從大<pb n="0175a" ed="Y" xml:id="Y13.0013.0175a.old" type="old"/>
 <lb n="0173a05" ed="Y"/><lb n="0175a01" ed="Y" type="old"/>師受皈依（<title level="m">自傳</title>十六；<bibl><title level="j">海</title><biblScope n="5.5" type="issue">五、五</biblScope></bibl>「事紀」；<bibl><title level="j">海</title><biblScope type="issue" n="5.7">五、七</biblScope></bibl>「事紀」）。</p>
 <lb n="0173a06" ed="Y"/><lb n="0175a02" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以此為十二年十月間事，誤。</p>
+<<<<<<< HEAD
 <lb n="0173a07" ed="Y"/><lb n="0175a03" ed="Y" type="old"/><cb:mulu level="3" type="其他">暑假期前</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">暑假期前</seg>，大師為武院學生「論教育」，滿智記。析教育為「動物教育」、「
+=======
+<lb n="0173a07" ed="Y"/><lb n="0175a03" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">暑假期前</cb:mulu>暑假期前，大師為武院學生「論教育」，滿智記。析教育為「動物教育」、「
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0173a08" ed="Y"/><lb n="0175a04" ed="Y" type="old"/>人倫教育」、「天神教育」、「佛化教育」四類。</p>
 <lb n="0173a09" ed="Y"/><lb n="0175a05" ed="Y" type="old"/><p style="margin-left:2em">德國樂始爾博士來佛學院，訪大師以大乘佛法，陳維東譯語（<title level="a">與德國樂始爾
 <lb n="0173a10" ed="Y"/><lb n="0175a06" ed="Y" type="old"/>博士之談話</title>）。</p>
@@ -2516,7 +2591,11 @@
 <lb n="0174a06" ed="Y"/><lb n="0176a02" ed="Y" type="old"/>化新青年會，參加武昌之泰戈爾歡迎會。大師與泰戈爾及徐志摩，曾作一席
 <lb n="0174a07" ed="Y"/><lb n="0176a03" ed="Y" type="old"/>談（<title level="m">自傳</title>十六；<title level="a">訪記</title>）。</p>
 <lb n="0174a08" ed="Y"/><lb n="0176a04" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以此，為十二年夏事，誤。</p>
+<<<<<<< HEAD
 <lb n="0174a09" ed="Y"/><lb n="0176a05" ed="Y" type="old"/><cb:mulu level="3" type="其他">是年春夏</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">是年春夏</seg>，大師門下，以狂熱為教之革新精神，引起長老不安，成新舊之爭。
+=======
+<lb n="0174a09" ed="Y"/><lb n="0176a05" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">是年春夏</cb:mulu>是年春夏，大師門下，以狂熱為教之革新精神，引起長老不安，成新舊之爭。
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0174a10" ed="Y"/><lb n="0176a06" ed="Y" type="old"/>「春月」，湖南旅鄂沙門漱芳、居士唐大定等，有<title level="a">〈上湖南省諸山長老暨諸
 <lb n="0174a11" ed="Y"/><lb n="0176a07" ed="Y" type="old"/>檀護書〉</title>，以興辦佛學院為請（<bibl><title level="j">海</title><biblScope type="issue" n="5.4">五、四</biblScope></bibl>「通訊」）。次有江浙同學，<title level="a">〈致
 <lb n="0174a12" ed="Y"/><lb n="0176a08" ed="Y" type="old"/>江浙各叢林寺院啟〉</title>，<title level="a">〈再致江浙諸山長老書〉</title>，以「組織江浙僧界聯合會
@@ -2594,7 +2673,11 @@
 <pb n="0180a" ed="Y" xml:id="Y13.0013.0180a"/>
 <lb n="0180a01" ed="Y"/>晴峰，約退居守培、焦山智光、觀音閣仁山、盧潤州等宴敘（<title level="m">自傳</title>十八）<lb n="0181a11" ed="Y" type="old"/>。</p>
 <lb n="0180a02" ed="Y"/><lb n="0181a12" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：大師<title level="m">自傳</title>，忘經滬之行。</p>
+<<<<<<< HEAD
 <lb n="0180a03" ed="Y"/><lb n="0181a13" ed="Y" type="old"/><p style="margin-left:2em">大師偕守培等過揚州，寂山（反對佛教協進會者）伴遊瘦西湖、平山堂諸勝<pb n="0182a" ed="Y" xml:id="Y13.0013.0182a.old" type="old"/>
+=======
+<lb n="0180a03" ed="Y"/><lb n="0181a13" ed="Y" type="old"/><p style="text-indent:2em">大師偕守培等過揚州，寂山（反對佛教協進會者）伴遊瘦西湖、平山堂諸勝<pb n="0182a" ed="Y" xml:id="Y13.0013.0182a.old" type="old"/>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0180a04" ed="Y"/><lb n="0182a01" ed="Y" type="old"/>（<title level="m">自傳</title>十八）。</p>
 <lb n="0180a05" ed="Y"/><lb n="0182a02" ed="Y" type="old"/><p style="margin-left:2em">大師偕寂山、仁山、讓之、守培、智光、晴峰、常惺、象賢等，抵泰縣光孝
 <lb n="0180a06" ed="Y"/><lb n="0182a03" ed="Y" type="old"/>寺。時大愚閉關於此；機警（大醒）始於是見大師。二十五日（「六月二十
@@ -2622,7 +2705,11 @@
 <pb n="0182a" ed="Y" xml:id="Y13.0013.0182a"/>
 <lb n="0182a01" ed="Y"/><lb n="0183a11" ed="Y" type="old"/>文）。</p>
 <lb n="0182a02" ed="Y"/><lb n="0183a12" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>忘去上海，故謂「從南通乘輪船再到鎮江」，誤。</p>
+<<<<<<< HEAD
 <lb n="0182a03" ed="Y"/><lb n="0183a13" ed="Y" type="old"/><p style="margin-left:2em">三十一日（「八月二日」），大師回抵武院，翌日開學。新生有寄塵、機警<pb n="0184a" ed="Y" xml:id="Y13.0013.0184a.old" type="old"/>
+=======
+<lb n="0182a03" ed="Y"/><lb n="0183a13" ed="Y" type="old"/><p style="text-indent:2em">三十一日（「八月二日」），大師回抵武院，翌日開學。新生有寄塵、機警<pb n="0184a" ed="Y" xml:id="Y13.0013.0184a.old" type="old"/>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0182a04" ed="Y"/><lb n="0184a01" ed="Y" type="old"/>、亦幻、墨禪、虞佛心（德元）、蘇秋濤等。是期，改推湯鑄新為院董長。
 <lb n="0182a05" ed="Y"/><lb n="0184a02" ed="Y" type="old"/>請善因為都講，唐大圓、張化聲任教。研究部生，大師自為教導，授<title level="m">《大乘
 <lb n="0182a06" ed="Y"/><lb n="0184a03" ed="Y" type="old"/>五蘊論》</title>、<title level="m">《發菩提心論》</title>，並發端而未竟。「四大種之研究」，「律儀之
@@ -2644,8 +2731,13 @@
 <lb n="0183a08" ed="Y"/><lb n="0185a05" ed="Y" type="old"/>之。大勇此舉，得湯鑄新、胡子笏、但怒剛、劉亞休、陶初白等贊助（<title level="m">自傳</title>
 <lb n="0183a09" ed="Y"/><lb n="0185a06" ed="Y" type="old"/>十九）。</p>
 <lb n="0183a10" ed="Y"/><lb n="0185a07" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>謂『冬間開始成立』，誤。</p>
+<<<<<<< HEAD
 <lb n="0183a11" ed="Y"/><lb n="0185a08" ed="Y" type="old"/><p style="margin-left:2em"><title level="j">《海潮音》</title>自九期起，改由張化聲主編（<title level="a">十五年來海潮音之總檢閱</title>）。</p>
 <lb n="0183a12" ed="Y"/><lb n="0185a09" ed="Y" type="old"/><p style="margin-left:2em">二十四日（「九月二十六日」），蕭耀南往寶通寺，禮請持松修護國般若經
+=======
+<lb n="0183a11" ed="Y"/><lb n="0185a08" ed="Y" type="old"/><p style="text-indent:2em"><title level="j">《海潮音》</title>自九期起，改由張化聲主編（<title level="a">十五年來海潮音之總檢閱</title>）。</p>
+<lb n="0183a12" ed="Y"/><lb n="0185a09" ed="Y" type="old"/><p style="text-indent:2em">二十四日（「九月二十六日」），蕭耀南往寶通寺，禮請持松修護國般若經
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0183a13" ed="Y"/><lb n="0185a10" ed="Y" type="old"/>法七日；繼又開結緣灌頂法會六日（<bibl><title level="j">海</title><biblScope n="6.1" type="issue">六、一</biblScope></bibl>「事紀」）。</p>
 <pb n="0184a" ed="Y" xml:id="Y13.0013.0184a"/>
 <lb n="0184a01" ed="Y"/><lb n="0185a11" ed="Y" type="old"/><cb:mulu level="3" type="其他">秋杪</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">秋杪</seg>（「九月」），大師忽召集全院員生，宣布院務暫交善因代行；留函致院
@@ -2764,9 +2856,15 @@
 <lb n="0191a12" ed="Y"/><lb n="0193a11" ed="Y" type="old"/>書局發行。晤章太炎，與談起信論義，及人乘階漸佛乘義，頗得章氏激賞（
 <pb n="0192a" ed="Y" xml:id="Y13.0013.0192a"/>
 <lb n="0192a01" ed="Y"/><lb n="0193a12" ed="Y" type="old"/><title level="m">自傳</title>十八；<title level="a">人生觀的科學後序</title>）。</p><pb n="0194a" ed="Y" xml:id="Y13.0013.0194a.old" type="old"/>
+<<<<<<< HEAD
 <lb n="0192a02" ed="Y"/><lb n="0194a01" ed="Y" type="old"/><p style="margin-left:2em">二十三日（「臘月念八日」），史一如病卒於滬（<bibl><title level="j">海</title><biblScope type="issue" n="6.4">六、四</biblScope></bibl>「事紀」）。</p>
 <lb n="0192a03" ed="Y"/><lb n="0194a02" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以史一如卒於十二年下半年，誤。</p>
 <lb n="0192a04" ed="Y"/><lb n="0194a03" ed="Y" type="old"/><p style="margin-left:2em">二十五日，乙丑元旦，大師抵漢口（大醒為編者說）。回武院，對院務逐加
+=======
+<lb n="0192a02" ed="Y"/><lb n="0194a01" ed="Y" type="old"/><p style="text-indent:2em">二十三日（「臘月念八日」），史一如病卒於滬（<bibl><title level="j">海</title><biblScope type="issue" n="6.4">六、四</biblScope></bibl>「事紀」）。</p>
+<lb n="0192a03" ed="Y"/><lb n="0194a02" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以史一如卒於十二年下半年，誤。</p>
+<lb n="0192a04" ed="Y"/><lb n="0194a03" ed="Y" type="old"/><p style="text-indent:2em">二十五日，乙丑元旦，大師抵漢口（大醒為編者說）。回武院，對院務逐加
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0192a05" ed="Y"/><lb n="0194a04" ed="Y" type="old"/>整理，為學生講<title level="m">《二十唯識論》</title>（<title level="m">自傳</title>十八；大醒為編者說）。「世間萬有
 <lb n="0192a06" ed="Y"/><lb n="0194a05" ed="Y" type="old"/>為進化抑為退化」，「以佛法批評社會主義」，「佛法是否哲學」，「佛教
 <lb n="0192a07" ed="Y"/><lb n="0194a06" ed="Y" type="old"/>心理學之研究」，均此時為研究員講。大師評社會主義，確認其目的之正確
@@ -2785,7 +2883,11 @@
 <lb n="0193a06" ed="Y"/><lb n="0195a05" ed="Y" type="old"/><cb:mulu level="3" type="其他">三月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">三月</seg>六日（「二月十一日」），大師偕王森甫等一行二十餘人北上。至京，蒞
 <lb n="0193a07" ed="Y"/><lb n="0195a06" ed="Y" type="old"/>車站歡迎者數千人，駐錫慈因寺（<bibl><title level="j">海</title><biblScope type="issue" n="6.3">六、三</biblScope></bibl>「事紀」；<title level="m">自傳</title>十九）。</p>
 <lb n="0193a08" ed="Y"/><lb n="0195a07" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<cit><bibl><title level="m">自傳</title></bibl><quote type="嚴謹引文">「正月底到京」</quote><note n="0193001" resp="周怡曄" type="add"><ref type="taixu" target="vol:29;page:p287">(ref taixu::vol:29;page:p287)</ref></note></cit>，<quote type="嚴謹引文">「二月初間開講」<note n="0193002" resp="周怡曄" type="add"><ref type="taixu" target="vol:29;page:p287">(ref taixu::vol:29;page:p287)</ref></note></quote>，誤。</p>
+<<<<<<< HEAD
 <lb n="0193a09" ed="Y"/><lb n="0195a08" ed="Y" type="old"/><p style="margin-left:2em">十四日（「十九日」），大師於中央公園社稷壇，開講<title level="m">《仁王護國般若經》</title>
+=======
+<lb n="0193a09" ed="Y"/><lb n="0195a08" ed="Y" type="old"/><p style="text-indent:2em">十四日（「十九日」），大師於中央公園社稷壇，開講<title level="m">《仁王護國般若經》</title>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0193a10" ed="Y"/><lb n="0195a09" ed="Y" type="old"/>，聽眾日常千人。法尊、法芳譯語兼記錄，成<title level="m">《仁王護國般若經講錄》</title>。四
 <lb n="0193a11" ed="Y"/><lb n="0195a10" ed="Y" type="old"/>月十六日（「三月二十三」）圓滿，克蘭佩、衛禮賢、多傑覺拔、貢覺仲尼
 <lb n="0193a12" ed="Y"/><lb n="0195a11" ed="Y" type="old"/>，均來法會參聽（<title level="m">自傳</title>十九；<bibl><title level="j">海</title><biblScope n="6.4" type="issue">六、四</biblScope></bibl>「事紀」；法會<title level="a">〈致班禪書〉</title>）。</p>
@@ -2849,7 +2951,11 @@
 <pb n="0198a" ed="Y" xml:id="Y13.0013.0198a"/>
 <lb n="0198a01" ed="Y"/><lb n="0199a13" ed="Y" type="old"/>教居士林講演佛乘（<title level="m">自傳</title>十九；<bibl><title level="j">海</title><biblScope type="issue" n="6.7">六、七</biblScope></bibl>「事紀」）。</p><pb n="0200a" ed="Y" xml:id="Y13.0013.0200a.old" type="old"/>
 <lb n="0198a02" ed="Y"/><lb n="0200a01" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：居士林說法，<title level="m">自傳</title>誤為北京初回，未去天童之間。</p>
+<<<<<<< HEAD
 <lb n="0198a03" ed="Y"/><lb n="0200a02" ed="Y" type="old"/><cb:mulu level="3" type="其他">八月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">八月</seg>四日（「六月十四日」），大師抵廬山大林寺。十日起，開暑期講演會三
+=======
+<lb n="0198a03" ed="Y"/><lb n="0200a02" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">八月</cb:mulu>八月四日（「六月十四日」），大師抵廬山大林寺。十日起，開暑期講演會三
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0198a04" ed="Y"/><lb n="0200a03" ed="Y" type="old"/>日。北大教授張怡蓀，台灣故友善慧，並參預演講。大師講世俗諦的人生觀
 <lb n="0198a05" ed="Y"/><lb n="0200a04" ed="Y" type="old"/>（<bibl><title level="j">海</title><biblScope type="issue" n="6.7">六、七</biblScope></bibl>「事紀」），發揮「仁義禮樂之仁德」：</p>
 <lb n="0198a06" ed="Y"/><lb n="0200a05" ed="Y" type="old"/><quote type="嚴謹引文"><p style="margin-left:3em">『今雖欲行儒之行，而本之於佛而又歸之於佛也』。<note n="0198001" resp="周怡曄" type="add"><ref type="taixu" target="vol:32;page:p59">(ref taixu::vol:32;page:p59)</ref></note></p></quote>
@@ -2899,13 +3005,21 @@
 <lb n="0201a08" ed="Y"/><lb n="0203a07" ed="Y" type="old"/>參觀法相大學；受邀說法，講「認識的地位論」。時武院研究生，有數人於
 <lb n="0201a09" ed="Y"/><lb n="0203a08" ed="Y" type="old"/>此受學（<title level="m">自傳</title>十九；<bibl><title level="j">海</title><biblScope type="issue" n="6.10">六、十</biblScope></bibl>「時事」）。</p>
 <lb n="0201a10" ed="Y"/><lb n="0203a09" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以此事為去廬山之前，誤。</p>
+<<<<<<< HEAD
 <lb n="0201a11" ed="Y"/><lb n="0203a10" ed="Y" type="old"/><p style="margin-left:2em">十日，抵蘇州。應北寺昭三，及張仲仁等請，講仁王護國般若經於北塔寺，
+=======
+<lb n="0201a11" ed="Y"/><lb n="0203a10" ed="Y" type="old"/><p style="text-indent:2em">十日，抵蘇州。應北寺昭三，及張仲仁等請，講仁王護國般若經於北塔寺，
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0201a12" ed="Y"/><lb n="0203a11" ed="Y" type="old"/>有李印泉（根源）等參聽。二十六日（「八日」），受皈戒者三百餘人；法
 <lb n="0201a13" ed="Y"/><lb n="0203a12" ed="Y" type="old"/>會圓滿（<title level="m">自傳</title>十九；<bibl><title level="j">海</title><biblScope type="issue" n="6.10">六、十</biblScope></bibl>「時事」「攝影」；<title level="a">人物誌憶</title>十二；<title level="a">追悼熊秉
 <pb n="0202a" ed="Y" xml:id="Y13.0013.0202a"/>
 <lb n="0202a01" ed="Y"/><lb n="0203a13" ed="Y" type="old"/>三張仲仁兩先生</title>）。當日還滬。</p><pb n="0204a" ed="Y" xml:id="Y13.0013.0204a.old" type="old"/>
 <lb n="0202a02" ed="Y"/><lb n="0204a01" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="a">誌憶</title>謂：歷三月餘，指包冬季再來而言。</p>
+<<<<<<< HEAD
 <lb n="0202a03" ed="Y"/><lb n="0204a02" ed="Y" type="old"/><p style="margin-left:2em">法會期中，大師於東吳大學講「我之宗教觀」；師範學校講「人生問題之解
+=======
+<lb n="0202a03" ed="Y"/><lb n="0204a02" ed="Y" type="old"/><p style="text-indent:2em">法會期中，大師於東吳大學講「我之宗教觀」；師範學校講「人生問題之解
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0202a04" ed="Y"/><lb n="0204a03" ed="Y" type="old"/>決」；基督教青年會講「佛法」（<title level="m">自傳</title>十九；<bibl><title level="j">海</title><biblScope n="6.10" type="issue">六、十</biblScope></bibl>「時事」）。大師論
 <lb n="0202a05" ed="Y"/><lb n="0204a04" ed="Y" type="old"/>及宗教之將來，以為：</p>
 <lb n="0202a06" ed="Y"/><lb n="0204a05" ed="Y" type="old"/><quote type="寬鬆引文"><p style="margin-left:3em">『人世既長有不滿足而邀求無限永存之心意，即宗教有長在之餘地』。<note n="0202001" resp="周怡曄" type="add">《太虛大師全書 第十三編　真現實論宗用論》「人世既長有不滿足而邀求無限永存之心意，即宗教長有存在之餘地。」<ref type="taixu" target="vol:21;page:p251">(ref taixu::vol:21;page:p251)</ref></note></p></quote>
@@ -2946,7 +3060,11 @@
 <lb n="0204a13" ed="Y"/><lb n="0206a12" ed="Y" type="old"/><p style="margin-left:2em">三日下午，大會行閉會式，大師演說（<title>專刊</title>）。</p>
 <pb n="0205a" ed="Y" xml:id="Y13.0013.0205a"/>
 <lb n="0205a01" ed="Y"/><lb n="0206a13" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以大會為七日，誤。</p><pb n="0207a" ed="Y" xml:id="Y13.0013.0207a.old" type="old"/>
+<<<<<<< HEAD
 <lb n="0205a02" ed="Y"/><lb n="0207a01" ed="Y" type="old"/><p style="margin-left:2em">四日，中華佛教代表團，由水野梅曉等陪導，出發各處參觀。是日，遊日光
+=======
+<lb n="0205a02" ed="Y"/><lb n="0207a01" ed="Y" type="old"/><p style="text-indent:2em">四日，中華佛教代表團，由水野梅曉等陪導，出發各處參觀。是日，遊日光
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0205a03" ed="Y"/><lb n="0207a02" ed="Y" type="old"/>（<title>專刊</title>）。</p>
 <lb n="0205a04" ed="Y"/><lb n="0207a03" ed="Y" type="old"/><p style="margin-left:2em">五日，上午，參觀帝國大學。大師於帝大青年會，講「人生問題之解決」；
 <lb n="0205a05" ed="Y"/><lb n="0207a04" ed="Y" type="old"/>列舉不同之解決，而歸宗於「正覺人生之解決」。續參觀帝國博物館；往赴
@@ -3163,7 +3281,11 @@
 <lb n="0219a09" ed="Y"/><lb n="0221a09" ed="Y" type="old"/>繪洛陽白馬寺塔影，莊思緘書<title level="m">《四十二章經》</title>歷史，湯定之繪社稷壇圖（<bibl><title level="j">海</title>
 <lb n="0219a10" ed="Y"/><lb n="0221a10" ed="Y" type="old"/><biblScope n="7.8" type="issue">七、八</biblScope></bibl>「時事」「特載」）。</p>
 <lb n="0219a11" ed="Y"/><lb n="0221a11" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：如此盛大法會，<title level="m">自傳</title>竟忘其事！</p>
+<<<<<<< HEAD
 <lb n="0219a12" ed="Y"/><lb n="0221a12" ed="Y" type="old"/><p style="margin-left:2em">三十一日（「二十二日」），大師應彌勒院臺源請，蒞院為學生略示「唯識
+=======
+<lb n="0219a12" ed="Y"/><lb n="0221a12" ed="Y" type="old"/><p style="text-indent:2em">三十一日（「二十二日」），大師應彌勒院臺源請，蒞院為學生略示「唯識
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0219a13" ed="Y"/><lb n="0221a13" ed="Y" type="old"/>之名義」（<bibl><title level="j">海</title><biblScope type="issue" n="7.8">七、八</biblScope></bibl>「時事」）。</p>
 <pb n="0222a" ed="Y" xml:id="Y13.0013.0222a.old" type="old"/>
 <pb n="0220a" ed="Y" xml:id="Y13.0013.0220a"/>
@@ -3177,7 +3299,11 @@
 <lb n="0220a08" ed="Y"/><lb n="0222a08" ed="Y" type="old"/>設世界佛教聯合會北京辦事處於萬壽寺；擬籌資先辦寰球佛教圖書館（<title level="m">寰遊
 <lb n="0220a09" ed="Y"/><lb n="0222a09" ed="Y" type="old"/>記</title>一；<bibl><title level="j">海</title><biblScope type="issue" n="7.9">七、九</biblScope></bibl>「時事」）。</p>
 <lb n="0220a10" ed="Y"/><lb n="0222a10" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">寰遊記</title>作「世界佛學院圖書館」，乃其後改名。</p>
+<<<<<<< HEAD
 <lb n="0220a11" ed="Y"/><lb n="0222a11" ed="Y" type="old"/><cb:mulu level="3" type="其他">八月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">八月</seg>十九日（「七月十二」），大師回滬。次日，乘伏見丸南行去星洲（<bibl><title level="j">海</title><biblScope type="issue" n="7.10">七
+=======
+<lb n="0220a11" ed="Y"/><lb n="0222a11" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">八月</cb:mulu>八月十九日（「七月十二」），大師回滬。次日，乘伏見丸南行去星洲（<bibl><title level="j">海</title><biblScope type="issue" n="7.10">七
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0220a12" ed="Y"/><lb n="0222a12" ed="Y" type="old"/>、十</biblScope></bibl>「紀事」）。初以去春，廈門佛化新青年會會員蔣慧雄（劍一）、蘇慧
 <lb n="0220a13" ed="Y"/><lb n="0222a13" ed="Y" type="old"/>純（鶴松）、黃慧玄（謙六）等皈依大師。夏季南遊星島，從事商業。約轉
 <pb n="0223a" ed="Y" xml:id="Y13.0013.0223a.old" type="old"/>
@@ -3254,7 +3380,11 @@
 <lb n="0225a10" ed="Y"/><lb n="0227a10" ed="Y" type="old"/>師之印象，為<quote>『和易近人，思想通泰』</quote>（<bibl>孫伏園<title level="a">〈魯迅先生眼中之太虛法師
 <lb n="0225a11" ed="Y"/><lb n="0227a11" ed="Y" type="old"/>〉</title></bibl>）。陳定謨由是發心學佛。</p>
 <lb n="0225a12" ed="Y"/><lb n="0227a12" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="a">誌憶</title>以此為十八年歐美歸來事，誤。</p>
+<<<<<<< HEAD
 <lb n="0225a13" ed="Y"/><lb n="0227a13" ed="Y" type="old"/><p style="margin-left:2em">二十二日，大師偕常惺、蕙庭等，赴廈門大學參觀，應約為講「緣起性空之
+=======
+<lb n="0225a13" ed="Y"/><lb n="0227a13" ed="Y" type="old"/><p style="text-indent:2em">二十二日，大師偕常惺、蕙庭等，赴廈門大學參觀，應約為講「緣起性空之
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <pb n="0228a" ed="Y" xml:id="Y13.0013.0228a.old" type="old"/>
 <pb n="0226a" ed="Y" xml:id="Y13.0013.0226a"/>
 <lb n="0226a01" ed="Y"/><lb n="0228a01" ed="Y" type="old"/>宇宙觀」，常惺記（<title level="m">自傳</title>二十）。</p>
@@ -3583,7 +3713,11 @@
 <lb n="0248a02" ed="Y"/><lb n="0250a02" ed="Y" type="old"/><cb:mulu level="3" type="其他">二月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">二月</seg>十二日（「正月廿一日」），武昌佛學院院董會改組，推王慧力（森甫）
 <lb n="0248a03" ed="Y"/><lb n="0250a03" ed="Y" type="old"/>為院董長（<bibl><title level="j">海</title><biblScope n="9.2" type="issue">九、二</biblScope></bibl>「武昌佛學院新生命」）。</p>
 <lb n="0248a04" ed="Y"/><lb n="0250a04" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="a">佛學院院董會略史</title>，誤以此為十八年事。</p>
+<<<<<<< HEAD
 <lb n="0248a05" ed="Y"/><lb n="0250a05" ed="Y" type="old"/><p style="margin-left:2em">十四日，<title level="a">〈立春有感〉</title>（<title level="a">詩存</title>）：</p>
+=======
+<lb n="0248a05" ed="Y"/><lb n="0250a05" ed="Y" type="old"/><p style="text-indent:2em">十四日，<title level="a">〈立春有感〉</title>（<title level="a">詩存</title>）：</p>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0248a06" ed="Y"/><lb n="0250a06" ed="Y" type="old"/><quote type="寬鬆引文"><lg style="margin-left:3em" type="abnormal"><l>『微雪明明見，寒雲密密封。遠山增黯淡，流水自叮咚。人已度新歲，天
 <lb n="0248a07" ed="Y"/><lb n="0250a07" ed="Y" type="old"/>猶帶舊冬。乾坤不終蟄，一震起潛龍』！<note n="0248001" resp="周怡曄" type="add">《太虛大師全書 第二十編　詩存》「微雪明明見，寒雲密密封；遠山增黯澹，流水自叮咚。人已度新歲，天猶滯舊冬。乾坤不終蟄，一震起潛龍。」<ref type="taixu" target="vol:32;page:p130">(ref taixu::vol:32;page:p130)</ref></note></l></lg></quote>
 <lb n="0248a08" ed="Y"/><lb n="0250a08" ed="Y" type="old"/><cb:mulu level="3" type="其他">是月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">是月</seg>，大師命大醒、芝峰先後去閩南佛學院，主持學務。去冬，閩院發生學潮
@@ -3603,7 +3737,11 @@
 <lb n="0249a07" ed="Y"/><lb n="0251a07" ed="Y" type="old"/><cb:mulu level="3" type="其他">是春</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">是春</seg>，大師仍住靈隱。德人衛禮賢，於佛郎府大學組中國學院，函聘大師為院
 <lb n="0249a08" ed="Y"/><lb n="0251a08" ed="Y" type="old"/>董，並請往講學（<title level="m">自傳</title>二十二；<title level="m">寰遊記</title>）。</p>
 <lb n="0249a09" ed="Y"/><lb n="0251a09" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>以此為去年秋冬事，今姑依當時之記。</p>
+<<<<<<< HEAD
 <lb n="0249a10" ed="Y"/><lb n="0251a10" ed="Y" type="old"/><p style="margin-left:2em">（一月）蔣中正復任總司令職。春，遊杭之靈隱。與大師、玉皇（卻非）合
+=======
+<lb n="0249a10" ed="Y"/><lb n="0251a10" ed="Y" type="old"/><p style="text-indent:2em">（一月）蔣中正復任總司令職。春，遊杭之靈隱。與大師、玉皇（卻非）合
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0249a11" ed="Y"/><lb n="0251a11" ed="Y" type="old"/>影以為紀念（<title level="m">自傳</title>二十一；<bibl><title level="j">海</title><biblScope type="issue" n="9.3">九、三</biblScope></bibl>「圖」）。</p>
 <lb n="0249a12" ed="Y"/><lb n="0251a12" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：此照片流傳甚廣。不知何人剪去卻非，僅留二人相。三十七年，編者
 <lb n="0249a13" ed="Y"/><lb n="0251a13" ed="Y" type="old"/>親見三人合影照相於靈隱寺。</p>
@@ -3685,7 +3823,11 @@
 <lb n="0255a04" ed="Y"/><lb n="0257a06" ed="Y" type="old"/>弼）、王儒堂（正廷）、李協和（烈鈞）、張子珉（靜江）諸氏，洽商進行
 <lb n="0255a05" ed="Y"/><lb n="0257a07" ed="Y" type="old"/>（<title level="m">自傳</title>二十一；<title level="a">略史</title>；<bibl><title level="j">海</title><biblScope n="9.5" type="issue">九、五</biblScope></bibl>「佛教要聞」）。</p>
 <lb n="0255a06" ed="Y"/><lb n="0257a08" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：佛教要聞謂：大師與蔣氏同車晉京，蓋傳聞之誤。</p>
+<<<<<<< HEAD
 <lb n="0255a07" ed="Y"/><lb n="0257a09" ed="Y" type="old"/><cb:mulu level="3" type="其他">七月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">七月</seg>二十八日，大師於南京毘盧寺，成立中國佛學會籌備處，開預備會三日。
+=======
+<lb n="0255a07" ed="Y"/><lb n="0257a09" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">七月</cb:mulu>七月二十八日，大師於南京毘盧寺，成立中國佛學會籌備處，開預備會三日。
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0255a08" ed="Y"/><lb n="0257a10" ed="Y" type="old"/>此即得蔣總司令介紹訪晤之成果。初擬稱佛教會，以蔡孑民、張靜江等，謂
 <lb n="0255a09" ed="Y"/><lb n="0257a11" ed="Y" type="old"/>此時不便提倡宗教，以設立佛學會為宜。至此，國民政府下，中國佛教始有
 <lb n="0255a10" ed="Y"/><lb n="0257a12" ed="Y" type="old"/>正式組織雛型。尚不能揭出「佛教」名義，其艱苦何如！會中決議：推觀同
@@ -3838,11 +3980,19 @@
 <lb n="0266a03" ed="Y"/><lb n="0268a06" ed="Y" type="old"/><p style="margin-left:2em">大師之講演辭，由巴黎佛學會出版之「講演集」（英文），英人擺乃能為之
 <lb n="0266a04" ed="Y"/><lb n="0268a07" ed="Y" type="old"/>序。埃而剛書店編譯之「佛學」（法文），晦謬幾不可讀（<title level="a">記關於佛學之演
 <lb n="0266a05" ed="Y"/><lb n="0268a08" ed="Y" type="old"/>說</title>；<title level="a">覆巴黎佛學會書</title>）。</p>
+<<<<<<< HEAD
 <lb n="0266a06" ed="Y"/><lb n="0268a09" ed="Y" type="old"/><p style="margin-left:2em">二十二日，大師設茶會，答謝中外友人之盛意，致告別辭（<title level="m">寰遊記</title>）。</p>
 <lb n="0266a07" ed="Y"/><lb n="0268a10" ed="Y" type="old"/><p style="margin-left:2em">二十三日，大師偕馬古烈、陳濟博，自巴黎抵英之倫敦（<title level="m">寰遊記</title>）。</p>
 <lb n="0266a08" ed="Y"/><lb n="0268a11" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：陳濟博追記「與羅素先生之談話」，時日遲<title level="m">寰遊記</title>一日，今依記。</p>
 <lb n="0266a09" ed="Y"/><lb n="0268a12" ed="Y" type="old"/><p style="margin-left:2em">二十五日，大師訪中國駐英使館陳秩三代辦（<title level="m">寰遊記</title>）。</p>
 <lb n="0266a10" ed="Y"/><lb n="0268a13" ed="Y" type="old"/><p style="margin-left:2em">二十六日，大師赴三真社（印人）達斯果菩塔之約，略講「我之佛化新運動<pb n="0269a" ed="Y" xml:id="Y13.0013.0269a.old" type="old"/>
+=======
+<lb n="0266a06" ed="Y"/><lb n="0268a09" ed="Y" type="old"/><p style="text-indent:2em">二十二日，大師設茶會，答謝中外友人之盛意，致告別辭（<title level="m">寰遊記</title>）。</p>
+<lb n="0266a07" ed="Y"/><lb n="0268a10" ed="Y" type="old"/><p style="text-indent:2em">二十三日，大師偕馬古烈、陳濟博，自巴黎抵英之倫敦（<title level="m">寰遊記</title>）。</p>
+<lb n="0266a08" ed="Y"/><lb n="0268a11" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：陳濟博追記「與羅素先生之談話」，時日遲<title level="m">寰遊記</title>一日，今依記。</p>
+<lb n="0266a09" ed="Y"/><lb n="0268a12" ed="Y" type="old"/><p style="text-indent:2em">二十五日，大師訪中國駐英使館陳秩三代辦（<title level="m">寰遊記</title>）。</p>
+<lb n="0266a10" ed="Y"/><lb n="0268a13" ed="Y" type="old"/><p style="text-indent:2em">二十六日，大師赴三真社（印人）達斯果菩塔之約，略講「我之佛化新運動<pb n="0269a" ed="Y" xml:id="Y13.0013.0269a.old" type="old"/>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0266a11" ed="Y"/><lb n="0269a01" ed="Y" type="old"/>」，于焌譯語。別有講耶、回、印度教義者，有混融各民族各宗教之偉觀（
 <lb n="0266a12" ed="Y"/><lb n="0269a02" ed="Y" type="old"/><title level="m">寰遊記</title>；<bibl><title level="j">海</title><biblScope n="10.1" type="issue">十、一</biblScope></bibl>「佛教史料」）。</p>
 <lb n="0266a13" ed="Y"/><lb n="0269a03" ed="Y" type="old"/><p style="margin-left:2em">二十八日，應大英博物館東方文書部賈爾士之招，偕馬、陳同往參觀，<quote type="嚴謹引文">『閎
@@ -3927,7 +4077,11 @@
 <lb n="0272a08" ed="Y"/><lb n="0274a13" ed="Y" type="old"/>以緣起之「和合」、「相續」為身命，而以唯識、中觀義說之。德人讀此稿
 <lb n="0272a09" ed="Y"/>，<pb n="0275a" ed="Y" xml:id="Y13.0013.0275a.old" type="old"/><lb n="0275a01" ed="Y" type="old"/>多有來函商討者（<title level="m">寰遊記</title>）。</p>
 <lb n="0272a10" ed="Y"/><lb n="0275a02" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<bibl><title level="j">海刊</title><biblScope n="10.1" type="issue">十卷一期</biblScope></bibl>「佛教史料」，講題作「佛陀哲學原則」，誤。</p>
+<<<<<<< HEAD
 <lb n="0272a11" ed="Y"/><lb n="0275a03" ed="Y" type="old"/><cb:mulu level="3" type="其他">十二月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">十二月</seg>一日，大師偕衛禮賢，詹顯哲去敏興（<title level="m">寰遊記</title>）。</p>
+=======
+<lb n="0272a11" ed="Y"/><lb n="0275a03" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">十二月</cb:mulu>十二月一日，大師偕衛禮賢，詹顯哲去敏興（<title level="m">寰遊記</title>）。</p>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0272a12" ed="Y"/><lb n="0275a04" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<bibl><title level="j">海刊</title><biblScope n="10.1" type="issue">十卷一期</biblScope></bibl>「佛教史料」，謂大師於敏興中國學院講「佛學大綱」
 <lb n="0272a13" ed="Y"/><lb n="0275a05" ed="Y" type="old"/>，衛禮賢譯語。實為衛君代講之誤。</p>
 <pb n="0273a" ed="Y" xml:id="Y13.0013.0273a"/>
@@ -4039,7 +4193,11 @@
 <lb n="0280a09" ed="Y"/><lb n="0283a03" ed="Y" type="old"/>教無裨於人類之道德為言。大師告以佛法不徒為信仰，乃使人了解宇宙人生
 <lb n="0280a10" ed="Y"/><lb n="0283a04" ed="Y" type="old"/>之真相，以進於道德之實行（<title level="m">寰遊記</title>）。</p>
 <lb n="0280a11" ed="Y"/><lb n="0283a05" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：遊記作「二十九日」，與此年二月平不合。</p>
+<<<<<<< HEAD
 <lb n="0280a12" ed="Y"/><lb n="0283a06" ed="Y" type="old"/><cb:mulu level="3" type="其他">三月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">三月</seg>一日，黃恩孚陪大師往華盛頓。江亢虎來迎。晚，江夫人陪往參觀國會圖
+=======
+<lb n="0280a12" ed="Y"/><lb n="0283a06" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">三月</cb:mulu>三月一日，黃恩孚陪大師往華盛頓。江亢虎來迎。晚，江夫人陪往參觀國會圖
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0280a13" ed="Y"/><lb n="0283a07" ed="Y" type="old"/>書館，即赴該館會堂講演。講畢，答該館東方部主任恆慕義之問（<title level="m">寰遊記</title>）<lb n="0283a08" ed="Y" type="old"/>。</p>
 <pb n="0281a" ed="Y" xml:id="Y13.0013.0281a"/>
 <lb n="0281a01" ed="Y"/><lb n="0283a09" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：大師<title level="a">〈致甯達蘊書〉</title>，署『三月一日』，而云<quote type="嚴謹引文">『明日赴華盛頓』<note n="0281001" resp="周怡曄" type="add"><ref type="taixu" target="vol:26;page:p214">(ref taixu::vol:26;page:p214)</ref></note></quote>，與
@@ -4079,8 +4237,13 @@
 <lb n="0283a07" ed="Y"/><lb n="0286a02" ed="Y" type="old"/>）。車次，賦「閒吊時哲」（孫中山、黎黃陂、康南海、梁新會）四律（<title level="a">詩
 <lb n="0283a08" ed="Y"/><lb n="0286a03" ed="Y" type="old"/>存</title>；<title level="a">人物誌憶</title>）。</p>
 <lb n="0283a09" ed="Y"/><lb n="0286a04" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="a">人物誌憶</title>，以此為自芝加哥至舊金山車次，誤。</p>
+<<<<<<< HEAD
 <lb n="0283a10" ed="Y"/><lb n="0286a05" ed="Y" type="old"/><p style="margin-left:2em">十二日晚，大師抵芝加哥，趙之遠、林我將來迎（<title level="m">寰遊記</title>）。</p>
 <lb n="0283a11" ed="Y"/><lb n="0286a06" ed="Y" type="old"/><p style="margin-left:2em">十三日，趙之遠偕訪費爾特博物院長羅特，與作長談。商決：設立世院美國
+=======
+<lb n="0283a10" ed="Y"/><lb n="0286a05" ed="Y" type="old"/><p style="text-indent:2em">十二日晚，大師抵芝加哥，趙之遠、林我將來迎（<title level="m">寰遊記</title>）。</p>
+<lb n="0283a11" ed="Y"/><lb n="0286a06" ed="Y" type="old"/><p style="text-indent:2em">十三日，趙之遠偕訪費爾特博物院長羅特，與作長談。商決：設立世院美國
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0283a12" ed="Y"/><lb n="0286a07" ed="Y" type="old"/>通訊處於是。該院藏中國佛教及儒家道家與通俗之古物及模樣甚多；大師攝
 <lb n="0283a13" ed="Y"/><lb n="0286a08" ed="Y" type="old"/>古彌勒像一幀（<title level="m">寰遊記</title>）。</p>
 <pb n="0284a" ed="Y" xml:id="Y13.0013.0284a"/>
@@ -4165,7 +4328,11 @@
 <lb n="0289a09" ed="Y"/><lb n="0292a05" ed="Y" type="old"/><p style="margin-left:2em">大師小住靈隱，稍事遊憩，審讀九卷<title level="j">潮音</title>，作<title level="a">〈第九卷海潮音之回顧〉</title>（文
 <lb n="0289a10" ed="Y"/><lb n="0292a06" ed="Y" type="old"/>）。其時，留藏（西康）學法團大勇等，發「勸請全國居士如律的護持三寶
 <lb n="0289a11" ed="Y"/><lb n="0292a07" ed="Y" type="old"/>書」。於印老倡導淨土而雜以儒說，有所批評（文）。</p>
+<<<<<<< HEAD
 <lb n="0289a12" ed="Y"/><lb n="0292a08" ed="Y" type="old"/><p style="margin-left:2em">大師回甬，省奘老（敘睍言）。</p>
+=======
+<lb n="0289a12" ed="Y"/><lb n="0292a08" ed="Y" type="old"/><p style="text-indent:2em">大師回甬，省奘老（敘睍言）。</p>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0289a13" ed="Y"/><lb n="0292a09" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：敘署<quote type="嚴謹引文">『六，三於甬江』<note n="0289001" resp="周怡曄" type="add"><ref type="taixu" target="vol:30;page:p873">(ref taixu::vol:30;page:p873)</ref></note></quote>。然大師於三日出席上海佛教會，三疑二之誤<lb n="0292a10" ed="Y" type="old"/>。</p>
 <pb n="0290a" ed="Y" xml:id="Y13.0013.0290a"/>
 <lb n="0290a01" ed="Y"/><lb n="0292a11" ed="Y" type="old"/><cb:mulu level="3" type="其他">六月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">六月</seg>三日至五日，大師在上海，出席中國佛教會第一次執監委員會，大師被舉
@@ -4295,7 +4462,11 @@
 <lb n="0298a02" ed="Y"/><lb n="0301a02" ed="Y" type="old"/><p style="margin-left:2em">上月卅一日，立法院通過修訂監督寺廟條例十三條。大師以建議未為采納，
 <lb n="0298a03" ed="Y"/><lb n="0301a03" ed="Y" type="old"/>而有此聽任佛教自生自滅之條例（<title level="a">建僧大綱</title>；<title level="a">略史</title>），乃作評監督寺廟條例<lb n="0301a04" ed="Y" type="old"/>。</p>
 <lb n="0298a04" ed="Y"/><lb n="0301a05" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：該條例，<title level="a">略史</title>誤作「十九年公布」。</p>
+<<<<<<< HEAD
 <lb n="0298a05" ed="Y"/><lb n="0301a06" ed="Y" type="old"/><p style="margin-left:2em">大師作三寶歌。時弘一住南寺，為之作譜<bibl>（林子青<title level="m">《弘一大師年譜》</title>）</bibl>。其
+=======
+<lb n="0298a05" ed="Y"/><lb n="0301a06" ed="Y" type="old"/><p style="text-indent:2em">大師作三寶歌。時弘一住南寺，為之作譜<bibl>（林子青<title level="m">《弘一大師年譜》</title>）</bibl>。其
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0298a06" ed="Y"/><lb n="0301a07" ed="Y" type="old"/>歌曲頗為流行。</p>
 <lb n="0298a07" ed="Y"/><lb n="0301a08" ed="Y" type="old"/><p style="margin-left:2em">三十日，大師應集美女中何達安等邀請，往遊集美，為講「佛學的人生觀」
 <lb n="0298a08" ed="Y"/><lb n="0301a09" ed="Y" type="old"/>，宏度記（<bibl><title level="j">海</title><biblScope n="11.1" type="issue">十一、一</biblScope></bibl>「通訊」）。</p></cb:div>
@@ -4311,7 +4482,11 @@
 <lb n="0299a05" ed="Y"/><lb n="0302a06" ed="Y" type="old"/>緣起無我說平等，唯識熏變說自由，後乃時時說之。又應晉江縣佛教會歡迎
 <lb n="0299a06" ed="Y"/><lb n="0302a07" ed="Y" type="old"/>，講「佛教會是本慈悲心和智慧心所組成的」，亦芝峰記（文）。</p>
 <lb n="0299a07" ed="Y"/><lb n="0302a08" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>作「十八年冬」，指舊曆而言。又<title level="m">自傳</title>所記行程，簡略不盡。</p>
+<<<<<<< HEAD
 <lb n="0299a08" ed="Y"/><lb n="0302a09" ed="Y" type="old"/><p style="margin-left:2em">二十九日，（「己巳歲盡」），大師遊洛陽橋（<title level="a">詩存</title>）。偕弘一、轉逢、芝
+=======
+<lb n="0299a08" ed="Y"/><lb n="0302a09" ed="Y" type="old"/><p style="text-indent:2em">二十九日，（「己巳歲盡」），大師遊洛陽橋（<title level="a">詩存</title>）。偕弘一、轉逢、芝
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0299a09" ed="Y"/><lb n="0302a10" ed="Y" type="old"/>峰等，去小雪峰寺度舊年（<title level="a">詩存</title>）。拈偈贈弘一律師：</p>
 <lb n="0299a10" ed="Y"/><lb n="0302a11" ed="Y" type="old"/><quote type="嚴謹引文"><lg style="margin-left:3em" type="abnormal"><l>『聖教照心，佛律嚴身，內外清淨，菩提之因』。<note n="0299001" resp="周怡曄" type="add"><ref type="taixu" target="vol:32;page:p268">(ref taixu::vol:32;page:p268)</ref></note></l></lg></quote>
 <lb n="0299a11" ed="Y"/><lb n="0302a12" ed="Y" type="old"/><p style="margin-left:2em">大師回廈，途經安海一宿，應安海養正中學請，為拈「安海養正」講之（文
@@ -4421,9 +4596,15 @@
 <lb n="0307a03" ed="Y"/><lb n="0310a05" ed="Y" type="old"/><p style="margin-left:2em">遊奉化雪竇寺，有<title level="a">〈雪竇為石侯畫師題山水〉</title>，<title level="a">〈仿宋覺範禪師畫梅贈奉化
 <lb n="0307a04" ed="Y"/><lb n="0310a06" ed="Y" type="old"/>蔣公〉</title>二詩（<title level="a">詩存</title>）。</p>
 <lb n="0307a05" ed="Y"/><lb n="0310a07" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="a">潮音草舍詩存</title>，編次於辛未年，誤。十九年<title level="j">海刊</title>已載此詩。</p>
+<<<<<<< HEAD
 <lb n="0307a06" ed="Y"/><lb n="0310a08" ed="Y" type="old"/><cb:mulu level="3" type="其他">七月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">七月</seg>七日，川省僧眾，向劉文輝大請願（<bibl><title level="j">海</title><biblScope n="11.7" type="issue">十一、七</biblScope></bibl>「佛教史料」）。</p>
 <lb n="0307a07" ed="Y"/><lb n="0310a09" ed="Y" type="old"/><cb:mulu level="3" type="其他">八月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">八月</seg>，大師應瑩照約，偕李了空（子寬）遊普陀，卓錫息耒院（<title level="a">詩存</title>）。</p>
 <lb n="0307a08" ed="Y"/><lb n="0310a10" ed="Y" type="old"/><cb:mulu level="3" type="其他">九月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">九月</seg>，北平世界佛學苑（華英文系）柏林教理院成立，台源、常惺任院長。閩
+=======
+<lb n="0307a06" ed="Y"/><lb n="0310a08" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">七月</cb:mulu>七月七日，川省僧眾，向劉文輝大請願（<bibl><title level="j">海</title><biblScope n="11.7" type="issue">十一、七</biblScope></bibl>「佛教史料」）。</p>
+<lb n="0307a07" ed="Y"/><lb n="0310a09" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">八月</cb:mulu>八月，大師應瑩照約，偕李了空（子寬）遊普陀，卓錫息耒院（<title level="a">詩存</title>）。</p>
+<lb n="0307a08" ed="Y"/><lb n="0310a10" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">九月</cb:mulu>九月，北平世界佛學苑（華英文系）柏林教理院成立，台源、常惺任院長。閩
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0307a09" ed="Y"/><lb n="0310a11" ed="Y" type="old"/>南「錫蘭留學團」，移柏林寺。法舫（武昌停辦研究部，會覺為管理）偕塵
 <lb n="0307a10" ed="Y"/><lb n="0310a12" ed="Y" type="old"/>空抵平，移世苑設備處於柏林寺。胡瑞霖主財政，法舫任書記，兼柏林教理
 <lb n="0307a11" ed="Y"/><lb n="0310a13" ed="Y" type="old"/>院監學（<title level="a">世界佛學苑圖書館開幕紀</title>；<bibl>法舫<title level="a">致編者書</title></bibl>）。</p><pb n="0311a" ed="Y" xml:id="Y13.0013.0311a.old" type="old"/>
@@ -4431,8 +4612,13 @@
 <lb n="0307a13" ed="Y"/><lb n="0311a02" ed="Y" type="old"/>佛教史料」）。</p>
 <pb n="0308a" ed="Y" xml:id="Y13.0013.0308a"/>
 <lb n="0308a01" ed="Y"/><lb n="0311a03" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：覺群社<title level="m">《太虛大師行略》</title>，作「二十年入川弘法」，誤。</p>
+<<<<<<< HEAD
 <lb n="0308a02" ed="Y"/><lb n="0311a04" ed="Y" type="old"/><p style="margin-left:2em">經漢口、宜昌，並登岸為信眾開示，兼授皈依（<bibl><title level="j">海</title><biblScope n="11.9" type="issue">十一、九</biblScope></bibl>「佛教史料」）<lb n="0311a05" ed="Y" type="old"/>。</p>
 <lb n="0308a03" ed="Y"/><lb n="0311a06" ed="Y" type="old"/><p style="margin-left:2em">二十四日晚，大師抵重慶，慈雲寺住持雲巖等，迎宿南岸獅子山（<title level="a">佛教中醫
+=======
+<lb n="0308a02" ed="Y"/><lb n="0311a04" ed="Y" type="old"/><p style="text-indent:2em">經漢口、宜昌，並登岸為信眾開示，兼授皈依（<bibl><title level="j">海</title><biblScope n="11.9" type="issue">十一、九</biblScope></bibl>「佛教史料」）<lb n="0311a05" ed="Y" type="old"/>。</p>
+<lb n="0308a03" ed="Y"/><lb n="0311a06" ed="Y" type="old"/><p style="text-indent:2em">二十四日晚，大師抵重慶，慈雲寺住持雲巖等，迎宿南岸獅子山（<title level="a">佛教中醫
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0308a04" ed="Y"/><lb n="0311a07" ed="Y" type="old"/>慈濟院緣起</title>；<bibl><title level="j">海</title><biblScope type="issue" n="11.9">十一、九</biblScope></bibl>「佛教史料」）。</p>
 <lb n="0308a05" ed="Y"/><lb n="0311a08" ed="Y" type="old"/><p style="margin-left:2em">二十五日，過江，赴長安佛學社之歡迎會（<bibl><title level="j">海</title><biblScope n="11.9" type="issue">十一、九</biblScope></bibl>「佛教史料」）。大
 <lb n="0308a06" ed="Y"/><lb n="0311a09" ed="Y" type="old"/>師略示「佛學」，克全記。</p>
@@ -4835,8 +5021,13 @@
 <lb n="0336a12" ed="Y"/><lb n="0340a07" ed="Y" type="old"/>太虛大師書〉</title></bibl>；寬道致編者書；<title level="a">人物誌憶</title>七）。</p>
 <pb n="0337a" ed="Y" xml:id="Y13.0013.0337a"/>
 <lb n="0337a01" ed="Y"/><lb n="0340a08" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="a">人物誌憶</title>作二十年，蓋約舊曆而言。</p>
+<<<<<<< HEAD
 <lb n="0337a02" ed="Y"/><lb n="0340a09" ed="Y" type="old"/><p style="margin-left:2em">二十八日，上海日軍夜襲閘北，有淞滬之役。</p>
 <lb n="0337a03" ed="Y"/><lb n="0340a10" ed="Y" type="old"/><p style="margin-left:2em">時漢院即將進行籌備開學，大師命滿智入川主持，<title level="j">《海潮音》</title>改由法舫編輯
+=======
+<lb n="0337a02" ed="Y"/><lb n="0340a09" ed="Y" type="old"/><p style="text-indent:2em">二十八日，上海日軍夜襲閘北，有淞滬之役。</p>
+<lb n="0337a03" ed="Y"/><lb n="0340a10" ed="Y" type="old"/><p style="text-indent:2em">時漢院即將進行籌備開學，大師命滿智入川主持，<title level="j">《海潮音》</title>改由法舫編輯
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0337a04" ed="Y"/><lb n="0340a11" ed="Y" type="old"/>（<title level="a">十五年來海潮音之總檢閱</title>）。</p>
 <lb n="0337a05" ed="Y"/><lb n="0340a12" ed="Y" type="old"/><p style="margin-left:2em">去年武漢大水，正信會救護甚力。至是年一月，凡成立災童識字小學十所，<pb n="0341a" ed="Y" xml:id="Y13.0013.0341a.old" type="old"/>
 <lb n="0337a06" ed="Y"/><lb n="0341a01" ed="Y" type="old"/>收容災童二千五百人（<bibl><title level="j">海</title><biblScope type="issue" n="12.12">十二、十二</biblScope></bibl>「史乘」；<bibl><title level="j">海</title><biblScope n="13.3" type="issue">十三、三</biblScope></bibl>「史料」）。</p>
@@ -4976,7 +5167,11 @@
 <pb n="0347a" ed="Y" xml:id="Y13.0013.0347a"/>
 <lb n="0347a01" ed="Y"/><lb n="0350a10" ed="Y" type="old"/>錄（<title level="m">自傳</title>二十一；<bibl>守志<title level="a">〈太虛大師潮汕弘法記〉</title></bibl>）。</p>
 <lb n="0347a02" ed="Y"/><lb n="0350a11" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">自傳</title>誤以此為十九年冬事。</p>
+<<<<<<< HEAD
 <lb n="0347a03" ed="Y"/><lb n="0350a12" ed="Y" type="old"/><p style="margin-left:2em">十日晨，抵汕頭，智證、周覺空等來迎。赴六邑會館之歡迎會，大師講「存
+=======
+<lb n="0347a03" ed="Y"/><lb n="0350a12" ed="Y" type="old"/><p style="text-indent:2em">十日晨，抵汕頭，智證、周覺空等來迎。赴六邑會館之歡迎會，大師講「存
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0347a04" ed="Y"/><lb n="0350a13" ed="Y" type="old"/>心與擇法」。晚，大師至商會，開講<title level="m">《心經》</title>，凡三日。其間，有丁滄波、<pb n="0351a" ed="Y" xml:id="Y13.0013.0351a.old" type="old"/>
 <lb n="0347a05" ed="Y"/><lb n="0351a01" ed="Y" type="old"/>馬傑三等來訪<bibl>（守志<title level="a">〈潮汕弘法記〉</title>）</bibl>。</p>
 <lb n="0347a06" ed="Y"/><lb n="0351a02" ed="Y" type="old"/><p style="margin-left:2em">十三日，大師等至潮州，駐錫開元寺。晚，講<title level="m">《心經》</title>大意<bibl>（守志<title level="a">〈潮汕弘
@@ -4984,14 +5179,24 @@
 <lb n="0347a08" ed="Y"/><lb n="0351a04" ed="Y" type="old"/><p style="margin-left:2em">十四日，上午，出席歡迎會，大師講「佛法與救國」。晚，略講<title level="m">《十善業道
 <lb n="0347a09" ed="Y"/><lb n="0351a05" ed="Y" type="old"/>經》</title>大意<bibl>（守志<title level="a">〈潮汕弘法記〉</title>）</bibl>。</p>
 <lb n="0347a10" ed="Y"/><lb n="0351a06" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：「佛法與救國」原注<quote type="寬鬆引文">『一二、一六，記於潮安』<note n="0347001" resp="周怡曄" type="add">《太虛大師全書 第十五編　時論》「一二，一六守志于潮安」<ref type="taixu" target="vol:24;page:p66">(ref taixu::vol:24;page:p66)</ref></note></quote>，與事實不合。</p>
+<<<<<<< HEAD
 <lb n="0347a11" ed="Y"/><lb n="0351a07" ed="Y" type="old"/><p style="margin-left:2em">十五日，大師為開元寺念佛會，講「阿彌陀佛經講要」。又應第四中學之請
+=======
+<lb n="0347a11" ed="Y"/><lb n="0351a07" ed="Y" type="old"/><p style="text-indent:2em">十五日，大師為開元寺念佛會，講「阿彌陀佛經講要」。又應第四中學之請
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0347a12" ed="Y"/><lb n="0351a08" ed="Y" type="old"/>，蒞校講「佛學的色法與物」。是日，大師訪唐大顛之叩齒庵<bibl>（守志<title level="a">〈潮汕
 <lb n="0347a13" ed="Y"/><lb n="0351a09" ed="Y" type="old"/>弘法記〉</title>）</bibl>。</p>
 <pb n="0348a" ed="Y" xml:id="Y13.0013.0348a"/>
 <lb n="0348a01" ed="Y"/><lb n="0351a10" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="j">淨土宗月刊</title>，以「阿彌陀佛經講要」為二十三年講，誤。</p>
+<<<<<<< HEAD
 <lb n="0348a02" ed="Y"/><lb n="0351a11" ed="Y" type="old"/><p style="margin-left:2em">十六日，大師等還汕頭。晚於商會講<title level="m">《阿彌陀經》</title>大意。</p>
 <lb n="0348a03" ed="Y"/><lb n="0351a12" ed="Y" type="old"/><p style="margin-left:2em">翌日，離汕還廈門<bibl>（守志<title level="a">〈太虛大師潮汕弘法記〉</title>）</bibl>。</p>
 <lb n="0348a04" ed="Y"/><lb n="0351a13" ed="Y" type="old"/><p style="margin-left:2em">二十三日，大師於閩院，開講<title level="m">《大乘本生心地觀經》</title>，勝濟、窺諦、東初、<pb n="0352a" ed="Y" xml:id="Y13.0013.0352a.old" type="old"/>
+=======
+<lb n="0348a02" ed="Y"/><lb n="0351a11" ed="Y" type="old"/><p style="text-indent:2em">十六日，大師等還汕頭。晚於商會講<title level="m">《阿彌陀經》</title>大意。</p>
+<lb n="0348a03" ed="Y"/><lb n="0351a12" ed="Y" type="old"/><p style="text-indent:2em">翌日，離汕還廈門<bibl>（守志<title level="a">〈太虛大師潮汕弘法記〉</title>）</bibl>。</p>
+<lb n="0348a04" ed="Y"/><lb n="0351a13" ed="Y" type="old"/><p style="text-indent:2em">二十三日，大師於閩院，開講<title level="m">《大乘本生心地觀經》</title>，勝濟、窺諦、東初、<pb n="0352a" ed="Y" xml:id="Y13.0013.0352a.old" type="old"/>
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0348a05" ed="Y"/><lb n="0352a01" ed="Y" type="old"/>、燈霞、雪生等合記，成<title level="m">《大乘本生心地觀經講記》</title>（文）。大師譽此經為
 <lb n="0348a06" ed="Y"/><lb n="0352a02" ed="Y" type="old"/><quote type="嚴謹引文">「法備五乘，義周十宗」<note n="0348001" resp="周怡曄" type="add"><ref type="taixu" target="vol:5;page:p722">(ref taixu::vol:5;page:p722)</ref></note></quote>，頗為推重。</p>
 <lb n="0348a07" ed="Y"/><lb n="0352a03" ed="Y" type="old"/><p style="margin-left:2em">二十五日，廈門各界來受皈依，因發起慈宗學會（<bibl><title level="j">海</title><biblScope type="issue" n="14.1">十四、一</biblScope></bibl>「佛教要聞」
@@ -5652,7 +5857,11 @@
 <lb n="0394a13" ed="Y"/><lb n="0399a02" ed="Y" type="old"/>教史料」；<title level="j">佛教日報</title>十二月；「閩粵弘法二月記」）。</p>
 <pb n="0395a" ed="Y" xml:id="Y13.0013.0395a"/>
 <lb n="0395a01" ed="Y"/><lb n="0399a03" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：弘法記作二十九日到，誤。</p>
+<<<<<<< HEAD
 <lb n="0395a02" ed="Y"/><lb n="0399a04" ed="Y" type="old"/><cb:mulu level="3" type="其他">十二月</cb:mulu><p style="margin-left:2em;text-indent:-1em"><seg rend="bold">十二月</seg>一日，應香港各界之歡迎——主持者陳靜濤、王學仁。大師於利園講「
+=======
+<lb n="0395a02" ed="Y"/><lb n="0399a04" ed="Y" type="old"/><p style="text-indent:2em"><cb:mulu level="3" type="其他">十二月</cb:mulu>十二月一日，應香港各界之歡迎——主持者陳靜濤、王學仁。大師於利園講「
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0395a03" ed="Y"/><lb n="0399a05" ed="Y" type="old"/>從香港的感想說到香港的佛教」，竺摩與陳慧濤（靜濤）記（文）。</p>
 <lb n="0395a04" ed="Y"/><lb n="0399a06" ed="Y" type="old"/><p style="margin-left:2em">七日，大師就居士林，開講<title level="m">《彌勒上生經》</title>。十日，續講<title level="m">《八識規矩頌》</title>（
 <lb n="0395a05" ed="Y"/><lb n="0399a07" ed="Y" type="old"/><bibl><title level="j">海</title><biblScope n="17.1" type="issue">十七、一</biblScope></bibl>「現代佛教史料」；<title level="j">佛教日報</title>十二月）。</p>
@@ -5662,7 +5871,11 @@
 <lb n="0395a09" ed="Y"/><lb n="0399a11" ed="Y" type="old"/><p style="margin-left:2em">十四日，大師偕竺摩、陳靜濤去廣州，駐錫六榕寺廣州佛教會（<title level="j">佛教日報</title>一
 <lb n="0395a10" ed="Y"/><lb n="0399a12" ed="Y" type="old"/>月；竺摩為編者說）。</p>
 <lb n="0395a11" ed="Y"/><lb n="0399a13" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：弘法記作十五日到。</p><pb n="0400a" ed="Y" xml:id="Y13.0013.0400a.old" type="old"/>
+<<<<<<< HEAD
 <lb n="0395a12" ed="Y"/><lb n="0400a01" ed="Y" type="old"/><p style="margin-left:2em">十五日，大師於廣州民眾教育館，受佛教界聯合歡迎，到鐵禪、江孔殷、謝
+=======
+<lb n="0395a12" ed="Y"/><lb n="0400a01" ed="Y" type="old"/><p style="text-indent:2em">十五日，大師於廣州民眾教育館，受佛教界聯合歡迎，到鐵禪、江孔殷、謝
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0395a13" ed="Y"/><lb n="0400a02" ed="Y" type="old"/>英伯、江穎叔、李因如等。大師講「禪宗六祖與國民黨總理」，陳靜濤譯語
 <pb n="0396a" ed="Y" xml:id="Y13.0013.0396a"/>
 <lb n="0396a01" ed="Y"/><lb n="0400a03" ed="Y" type="old"/>（文；<bibl>竺摩<title level="a">〈致編者書〉</title></bibl>）。</p>
@@ -5793,7 +6006,11 @@
 <lb n="0405a01" ed="Y"/><lb n="0409a06" ed="Y" type="old"/>採大師意見，擬訂會章，以佛教會為專屬僧尼之組織（大師本意，此應稱「
 <lb n="0405a02" ed="Y"/><lb n="0409a07" ed="Y" type="old"/>佛教僧寺會」）。責成中佛會作健全之改組（<title level="a">略史</title>；寬道為編者說）。</p>
 <lb n="0405a03" ed="Y"/><lb n="0409a08" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="a">略史</title>以此為「二十四年」事，誤。</p>
+<<<<<<< HEAD
 <lb n="0405a04" ed="Y"/><lb n="0409a09" ed="Y" type="old"/><p style="margin-left:2em">十七日，大師離京去漢口。泊安慶舟次，大師作<title level="a">〈對於中央民訓部修訂中國
+=======
+<lb n="0405a04" ed="Y"/><lb n="0409a09" ed="Y" type="old"/><p style="text-indent:2em">十七日，大師離京去漢口。泊安慶舟次，大師作<title level="a">〈對於中央民訓部修訂中國
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0405a05" ed="Y"/><lb n="0409a10" ed="Y" type="old"/>佛教會章程草案之商榷〉</title>（文）。</p>
 <lb n="0405a06" ed="Y"/><lb n="0409a11" ed="Y" type="old"/><p style="margin-left:2em">二十一日，大師於漢口佛教正信會，開講<title level="m">《彌勒下生成佛經》</title>，凡三日（<bibl><title level="j">海</title>
 <lb n="0405a07" ed="Y"/><lb n="0409a12" ed="Y" type="old"/><biblScope n="17.7" type="issue">十七、七</biblScope></bibl>「現代佛教史料」；<bibl><title level="j">正信</title><biblScope from="8.11" to="8.14" type="issue">八、十一——十四</biblScope></bibl>）。</p>
@@ -6070,9 +6287,15 @@
 <pb n="0425a" ed="Y" xml:id="Y13.0013.0425a"/>
 <lb n="0425a01" ed="Y"/><lb n="0429a08" ed="Y" type="old"/>謝子厚、牛次封、費爾樸等來迎，駐錫文殊院（<bibl>法舫<title level="a">〈太虛法師飛蓉弘法記
 <lb n="0425a02" ed="Y"/><lb n="0429a09" ed="Y" type="old"/>〉</title></bibl>；<bibl><title level="j">海</title><biblScope type="issue" n="19.6">十九、六</biblScope></bibl>「佛教新聞」）。</p>
+<<<<<<< HEAD
 <lb n="0425a03" ed="Y"/><lb n="0429a10" ed="Y" type="old"/><p style="margin-left:2em">五日，大師於十方堂講「現在需要的僧教育」，仁寬記（文）。</p>
 <lb n="0425a04" ed="Y"/><lb n="0429a11" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：原刊作「成都文殊院」講，誤。</p>
 <lb n="0425a05" ed="Y"/><lb n="0429a12" ed="Y" type="old"/><p style="margin-left:2em">七日，大師於文殊院開講<title level="m">《大乘伽耶山頂經》</title>，約二十圓滿（<bibl>法舫<title level="a">〈飛蓉弘
+=======
+<lb n="0425a03" ed="Y"/><lb n="0429a10" ed="Y" type="old"/><p style="text-indent:2em">五日，大師於十方堂講「現在需要的僧教育」，仁寬記（文）。</p>
+<lb n="0425a04" ed="Y"/><lb n="0429a11" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：原刊作「成都文殊院」講，誤。</p>
+<lb n="0425a05" ed="Y"/><lb n="0429a12" ed="Y" type="old"/><p style="text-indent:2em">七日，大師於文殊院開講<title level="m">《大乘伽耶山頂經》</title>，約二十圓滿（<bibl>法舫<title level="a">〈飛蓉弘
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0425a06" ed="Y"/><lb n="0429a13" ed="Y" type="old"/>法記〉</title></bibl>）。</p><pb n="0430a" ed="Y" xml:id="Y13.0013.0430a.old" type="old"/>
 <lb n="0425a07" ed="Y"/><lb n="0430a01" ed="Y" type="old"/><p style="margin-left:2em">十二日上午，應佛學社請，於少城公園，講「降魔救世與抗戰建國」，游隆
 <lb n="0425a08" ed="Y"/><lb n="0430a02" ed="Y" type="old"/>淨記<bibl>（法舫<title level="a">〈飛蓉弘法記〉</title>）</bibl>。午後，應法國駐川交涉署交涉員貝珊之約，
@@ -6181,7 +6404,11 @@
 <pb n="0433a" ed="Y" xml:id="Y13.0013.0433a"/>
 <lb n="0433a01" ed="Y"/><lb n="0437a10" ed="Y" type="old"/><quote type="嚴謹引文"><lg style="margin-left:3em" type="abnormal"><l>『識面今廿三載，知心亦十八年。方喜責可君貸，那堪逝占我先』！<note n="0433001" resp="周怡曄" type="add"><ref type="taixu" target="vol:32;page:p192">(ref taixu::vol:32;page:p192)</ref></note></l></lg></quote>
 <lb n="0433a02" ed="Y"/><lb n="0437a11" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="m">《顛海心韵》</title>，以此詩為二十五日作。</p>
+<<<<<<< HEAD
 <lb n="0433a03" ed="Y"/><lb n="0437a12" ed="Y" type="old"/><p style="margin-left:2em">四日，應龍主席志舟（雲）約，大師赴省府晤談（<title level="a">己卯日記</title>；<bibl><title level="j">海</title><biblScope to="20.6" type="issue" from="20.3">二十、三—
+=======
+<lb n="0433a03" ed="Y"/><lb n="0437a12" ed="Y" type="old"/><p style="text-indent:2em">四日，應龍主席志舟（雲）約，大師赴省府晤談（<title level="a">己卯日記</title>；<bibl><title level="j">海</title><biblScope to="20.6" type="issue" from="20.3">二十、三—
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0433a04" ed="Y"/><lb n="0437a13" ed="Y" type="old"/>—六</biblScope></bibl>「佛教要聞」）。</p><pb n="0438a" ed="Y" xml:id="Y13.0013.0438a.old" type="old"/>
 <lb n="0433a05" ed="Y"/><lb n="0438a01" ed="Y" type="old"/><p style="margin-left:2em">七日（「十七」），大師於西山雲棲寺，開講<title level="m">《心經》</title>，十一日圓滿；塵空
 <lb n="0433a06" ed="Y"/><lb n="0438a02" ed="Y" type="old"/>記，成<title level="m">《般若波羅蜜多心經釋義》</title>（<title level="a">己卯日記</title>；<bibl><title level="j">海</title><biblScope to="20.6" type="issue" from="20.3">二十、三——六</biblScope></bibl>「佛教新
@@ -6191,7 +6418,11 @@
 <lb n="0433a10" ed="Y"/><lb n="0438a06" ed="Y" type="old"/><p style="margin-left:2em">十九日，大師移居雲棲寺大悲閣，鄭太朴偕周自新來訪。是日，大師始寫<title level="m">自
 <lb n="0433a11" ed="Y"/><lb n="0438a07" ed="Y" type="old"/>傳</title>（自傳序；<title level="a">己卯日記</title>）。</p>
 <lb n="0433a12" ed="Y"/><lb n="0438a08" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：<title level="a">己卯日記</title>以初寫<title level="m">自傳</title>為二十三（「初三」）事。</p>
+<<<<<<< HEAD
 <lb n="0433a13" ed="Y"/><lb n="0438a09" ed="Y" type="old"/><p style="margin-left:2em">二十五日（「五日」），大師應軍醫學校周明齋約，往講「萬有皆因緣所生
+=======
+<lb n="0433a13" ed="Y"/><lb n="0438a09" ed="Y" type="old"/><p style="text-indent:2em">二十五日（「五日」），大師應軍醫學校周明齋約，往講「萬有皆因緣所生
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <pb n="0434a" ed="Y" xml:id="Y13.0013.0434a"/>
 <lb n="0434a01" ed="Y"/><lb n="0438a10" ed="Y" type="old"/>」，月滄與大慧記（<title level="a">己卯日記</title>）。</p>
 <lb n="0434a02" ed="Y"/><lb n="0438a11" ed="Y" type="old"/><p style="margin-left:2em">二十六日（「六日」），大師出席常惺法師追悼會。眾請開示，因拈中論空
@@ -7575,7 +7806,11 @@
 <lb n="0532a02" ed="Y"/><lb n="0537a10" ed="Y" type="old"/><quote type="寬鬆引文"><p style="margin-left:3em">『諸法剎那生，諸<lb n="0537a11" ed="Y" type="old"/>法剎那滅，剎那生滅中，無生亦無滅。
 <lb n="0532a03" ed="Y"/>『卅六年三月十二日在玉佛寺般<lb n="0537a12" ed="Y" type="old"/>若丈室』。<note n="0532001" resp="周怡曄" type="add">《太虛大師全書 第十九編　文叢》「諸法剎那生，諸法剎那滅，剎那生滅中，無生亦無滅。茲維：震華法師，乘如實願，興化人間。具戒寶華，參學超岸。一坐道場於京口竹林，作育僧才而勤講述；再轉法輪於滬濱玉佛，弘布聖教而著史文。處聲華能澹泊，歷紛擾常寧靜，卓然僧家師表，信乎佛門龍象！老朽心識其人於十年前所刊之僧伽護國史，去年受禮請來玉佛講經，始知法師已積勞成疾，退休養息。間曾頻來晤對，談其興化僧志及編佛教人名大辭典等，擬刊老朽所講中國佛學，並計劃將訪問緬印攜歸文物運滬展覽，皆事關宣教弘法，言不及他。方冀盛年康復，終能大展其興教濟世宏抱，何期去秋以來，憂患屢經，病情反覆，延至丁亥年二月十八日酉初，卒以不起，才得世壽三十九歲爾，殊不能不為眾生福薄，至教莫昌哀矣！然法師佛心早印，妙契真常，遍法界是沙門身，云何有滅？盡虛空為沙門龕，復何可封？（卓杖云）：震開三德祕藏，華落一實全彰。三十六年三月十二日，在玉佛寺般若丈室。」<ref type="taixu" target="vol:31;page:p1207">(ref taixu::vol:31;page:p1207)</ref></note></p></quote>
 <lb n="0532a04" ed="Y"/><lb n="0537a13" ed="Y" type="old"/><p style="margin-left:3em" rend="kaiti">按：震華未及大師之門；或傳其與福善為大師得意弟子，非也。</p><pb n="0538a" ed="Y" xml:id="Y13.0013.0538a.old" type="old"/>
+<<<<<<< HEAD
 <lb n="0532a05" ed="Y"/><lb n="0538a01" ed="Y" type="old"/><p style="margin-left:2em">大師說法且竟，忽中風舊疾復發。京滬杭甬間弟子，聞訊來集，多方醫護。
+=======
+<lb n="0532a05" ed="Y"/><lb n="0538a01" ed="Y" type="old"/><p style="text-indent:2em">大師說法且竟，忽中風舊疾復發。京滬杭甬間弟子，聞訊來集，多方醫護。
+>>>>>>> 4ec4ff355af4889c970945e3f6c56f99555cec95
 <lb n="0532a06" ed="Y"/><lb n="0538a02" ed="Y" type="old"/>而大師殆以化緣周畢，竟以十七日下午一時一刻，於玉佛寺直指軒安詳捨報
 <lb n="0532a07" ed="Y"/><lb n="0538a03" ed="Y" type="old"/>。時玉佛寺主葦一；出家弟子大醒、亦幻、塵空、燈霞、月耀、松月、演培
 <lb n="0532a08" ed="Y"/><lb n="0538a04" ed="Y" type="old"/>；在家弟子李子寬、謝健、沈仲鈞、衛立民、楊樹梅、過聖嚴、胡聖輪；侍
