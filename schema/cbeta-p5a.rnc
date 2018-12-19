@@ -1735,6 +1735,7 @@ tei_note =
     att.placement.attributes,
     
     ## describes the type of note.
+    attribute ns1:provider { text }?,
     attribute type { xsd:Name }?,
     attribute subtype { xsd:Name }?,
     
@@ -4120,6 +4121,7 @@ tei_lem =
      | tei_model.rdgPart)*,
     att.global.attributes,
     att.textCritical.attributes,
+    attribute ns1:provider { text }?,
     empty
   }
   
@@ -4135,6 +4137,7 @@ tei_rdg =
      | tei_model.rdgPart)*,
     att.global.attributes,
     att.textCritical.attributes,
+    attribute ns1:provider { text }?,
     empty
   }
 tei_rdgGrp =
