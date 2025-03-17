@@ -10,3 +10,9 @@ https://github.com/cbeta-git/xml-p5a
 正式版在此
 
 https://github.com/cbeta-org/xml-p5
+
+# 版權宣告
+
+版權說明請參考
+
+https://www.cbeta.org/copyright.php
